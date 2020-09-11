@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户登录</title>
+</head>
+<style type="text/css">
+    body
+    {
+        font:12px 'Lucida Sans Unicode','Trebuchet MS',Arial,Helvetica;
+        margin:0;
+        background-color: #d9dee2;
+    }
+    #login
+    {
+        background-color: #fff;
+        height: 240px;
+        width:400px;
+        margin:-150px 0 0 -230px;
+        padding:30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 0;
+        -moz-border-radius: 3px;
+        -webkit-boder-radius: 3px;
+        border-radius: 3px;
+        -webkit-box-shadow:
+            0 0 2px rgba(0,0,0,0.2),
+            0 1px 1px rgba(0,0,0,.2),
+            0 3px 0 #fff,
+            0 4px 0 rgba(0,0,0,.2),
+            0 6px 0 #fff,
+            0 7px 0 rgba(0,0,0,.2);
+        -moz-box-shadow:
+                0 0 2px rgba(0,0,0,0.2),
+                1px 1px 0 rgba(0,0,0,.1),
+                3px 3px 0 rgba(255,255,255,1),
+                4px 4px 0 rgba(0,0,0,.1),
+                6px 6px 0 rgba(255,255,255,1),
+                7px 7px 0 rgba(0,0,0,.1);
+        box-shadow:
+                0 0 2px rgba(0,0,0,0.2),
+                0 1px 1px rgba(0,0,0,.2),
+                0 3px 0 #fff,
+                0 4px 0 rgba(0,0,0,.2),
+                0 6px 0 #fff,
+                0 7px 0 rgba(0,0,0,.2);
+    }
+    fieldset
+    {
+        border: 0;
+        padding: 0;
+        margin:0;
+    }
+    #inputs input
+    {
+        padding: 15px 15px 15px 30px;
+        margin:0 0 10px 0;
+        width:353px;
+        border:1px solid #ccc;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        border-radius:5px;
+        -moz-box-shadow: 0 1px 1px #ccc inset,0 1px 0 #fff;
+        -webkit-box-shadow: 0 1px 1px #ccc inset,0 1px 0 #fff;
+        box-shadow: 0 1px 1px #ccc inset,0 1px 0 #fff;
+    }
+    #inputs input:focus
+    {
+        background-color: #fff;
+        border-color: lightblue;
+        outline: none;
+        -moz-box-shadow: 0 0 0 1px #e8c291 inset;
+        -webkit-box-shadow: 0 0 0 1px #ccc inset,0 1px 0 #fff;
+        box-shadow: 0 1px 1px #ccc inset,0 1px 0 #fff;
+    }
+    #actions
+    {
+        margin: 25px 0 0 0;
+    }
+    #submit
+    {
+        background-color: #3151A2;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+        -moz-box-shadow: 0 0 1px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.3) inset;
+        -webkit-box-shadow:  0 0 1px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.3) inset;
+        box-shadow:  0 0 1px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.3) inset;
+        float: left;
+        height: 35px;
+        padding: 0;
+        width: 120px;
+        cursor: pointer;
+        font: bold 15px Arial,Helvetica;
+        color: #2f2f4f;
+    }
+    #actions a
+    {
+        color: #3151A2;
+        float: right;
+        line-height: 35px;
+        margin-left: 10px;
+    }
+    #actions a:visited
+    {
+        text-decoration: none;
+        color: red;
+    }
+</style>
+<body>
+<form id="login" action="index.html">
+    <h1>登陆</h1>
+    <fieldset id="inputs">
+        <input id="username" type="text" placeholder="用户名" autofocus required>
+        <input id="password" type="password" placeholder="密码" required>
+    </fieldset>
+    <fieldset id="actions">
+        <input type="submit" id="submit" value="登陆">
+        <a href="FindPassword.html">忘记密码？</a>
+        <a href="register.html">注册新用户？</a>
+    </fieldset>
+</form>
+</body>
+</html>

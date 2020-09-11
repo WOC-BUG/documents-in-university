@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>警告牌</title>
+</head>
+<body>
+<canvas id="canvasId" width="500" height="500">
+    浏览器不支持Canvas
+</canvas>
+<script type="text/javascript">
+    var ctx=document.getElementById('canvasId').getContext("2d");
+    function draw() {
+        var width=125;
+        var height=105;
+        var padding=20;
+        ctx.beginPath();
+        ctx.moveTo(padding + width/2, padding);//顶点
+        ctx.lineTo(padding + width, height + padding);//右下角
+        ctx.lineTo(padding, height + padding);//左下角
+        ctx.closePath();
+        ctx.shadowBlur=10;
+        ctx.shadowColor="black";//使垂直渐变颜色填充
+        var gradient=ctx.createLinearGradient(0,padding,0,padding+height);
+        gradient.addColorStop(0,"#faf100");
+        gradient.addColorStop(0.9,"#fca009");
+        gradient.addColorStop(1,"#ffc821");
+        //绘制外侧边框
+        ctx.lineWidth=20;
+        ctx.lineJoin="round";
+        ctx.strokeStyle=gradient;
+        ctx.stroke();
+        ctx.shadowColor="transparent";
+        ctx.fillStyle=gradient;
+        ctx.fill();
+        ctx.lineWidth=5;
+        ctx.lineJoin="round";
+        ctx.strokeStyle="#333";
+        ctx.stroke();
+        ctx.textAlign="center";
+        ctx.textBaseline="middle";
+        ctx.font="bold 60px 'Times New Roman',Times,serif";
+        ctx.fillStyle="#333";
+        ctx.fillText("!",padding+width/2,padding+height/1.5);
+    }
+    window.addEventListener("load",draw,true);
+</script>
+</body>
+</html>

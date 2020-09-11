@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户注册</title>
+    <style>
+        div {
+            background-color:rgba(255, 251, 240,0.5);
+            background-position: center;
+            width:800px;
+            margin:0 auto;
+        }
+        body{
+            background-image: url(cuc.jpg);
+            background-size: cover;
+            background-attachment:fixed;
+            background-repeat: repeat-y;
+            background-position: center;
+            text-align:center;
+        }
+        hr{
+            color: darkgray;
+            /*position: page;*/
+            width: 600px;
+            text-align: left;
+            filter: alpha(opacity=100,finishopacity=0,style=1);
+        }
+        h2{
+            font-family: 楷体;
+            font-weight: bold;
+            font-style: normal;
+            color: #2f2f4f;
+            text-align: left;
+        }
+        #spancolor{
+            color: red;
+        }
+        fieldset{
+            padding: 20px;
+            border: 1px solid #000;
+        }
+        #field{
+            border-radius: 20px 20px;
+            /*outline-color: lightblue;*/
+            /*outline-style: outset;*/
+            /*outline-width: 10px;*/
+        }
+        button{
+            background-color: lightblue;
+            font-size: 15px;
+            border-radius: 8px;
+        }
+        textarea
+        {
+            box-shadow: 10px 10px 100px lightgoldenrodyellow;
+            /*水平偏移，垂直偏移，模糊值，颜色*/
+        }
+    </style>
+</head>
+<body>
+<div class="content" >
+<form name="form1" id="form1" action="index.html" autocomplete="on" target="nm_iframe">
+
+    <br>
+    <br>
+    <h3>用户注册页面</h3>
+    <br>
+    <br>
+    <input type="button" name="你好！" onclick="alert('欢迎来到中国传媒大学用户注册界面！')" id="你好！" value="你好！">
+    <br>
+    <br>
+    <h2 >基础信息</h2>
+    <hr >
+    <p>请输入您的用户名:
+        <input type="text" size="20" maxlength="10" placeholder="请输入姓名"><span id="spancolor">*</span></p>
+    <br>
+    <br>
+
+    <p><label for="password1">请输入您的密码：</label>
+        <input type="password" id="password1" placeholder="请输入密码">
+        <span id="spancolor">*</span>
+    </p>
+    <p><label for="password2">请确认您的密码：</label>
+        <input type="password" id="password2" placeholder="请再次输入密码">
+        <span id="spancolor">*</span>
+    </p>
+    <button type="text" onclick="checkPasswords()" >验证</button>
+    <!--这个按钮放到form里也会跳转页面=_=|||,如何单独让它只验证不跳转？加了type="button"或者return false后倒是不跳转了，但是密码也没法验证了？？？-->
+    <iframe id="id_iframe" name="nm_iframe" style="display:none;"></iframe>
+    <!--woc终于找到这个方法了！form里加一个target，让当前页面不提交，指定一个隐藏的iframe代替当前页提交，就不hi跳转页面了
+    然后分两个form1和form2，一个实现跳转功另一个不实现跳转就ok了。缺点就是这部分内容无法被重设了。-->
+    <br>
+    <br>
+
+    <script>
+        function checkPasswords() {
+            var pass1=document.getElementById("password1");
+            var pass2=document.getElementById("password2");
+            if(pass1.value=="")
+            {
+                // document.getElementById("tip").innerText="请输入密码";
+                pass1.setCustomValidity("请输入密码");
+            }
+            else
+            {
+                pass1.setCustomValidity("");
+                if(pass1.value!=pass2.value)
+                    //document.getElementById("tip").innerText="两次密码一致";
+                    pass2.setCustomValidity("密码不一致");
+                else
+                {
+                    pass2.setCustomValidity("");
+                    //setCustomValidity函数是表单中的，只有表单验证通过后才会触发，所以页面才会一起跳转
+                    alert('密码设置成功!');
+                    return false;
+                }
+            }
+        }
+    </script>
+    </form>
+	<form name="form1" id="form2" action="index.html" data-ajax="false" autocomplete="on">
+    <p>您的性别是：
+        <input type="radio" name="sex" value="male" align="center">男
+        <input type="radio" name="sex" value="female" align="center">女
+        <input type="radio" name="sex" value="secret" checked align="center">保密
+        <span id="spancolor">*</span>
+    </p>
+    <br>
+    <br>
+
+    <p>您的年龄是：
+        <input type="number" name="points" min="1" max="100" value="20" step="1">
+        <span id="spancolor">*</span>
+    </p>
+    <br>
+    <br>
+
+    <p>您的生日是：
+        <input type="date" name="birth" >
+        <span id="spancolor">*</span>
+    </p>
+    <br>
+    <br>
+
+    <p>请输入您的Email:
+        <input type="email" name="email">
+        <span id="spancolor">*</span>
+    </p>
+    <br>
+    <br>
+
+    <p>请输入您的URL:
+        <input type="url" name="url" list="url_list">
+        <span id="spancolor">*</span>
+    </p>
+    <datalist id="url_list">
+        <option label="百度" value="http://www.baidu.com" />
+        <option label="Google" value="http://www.google.com"/>
+        <option label="淘宝" value="http://www.taobao.com"/>
+    </datalist>
+    <br>
+    <br>
+
+    <p>您来自：
+        <select>
+            <option value="bj" selected>北京</option>
+            <option value="sh">上海</option>
+            <option value="sc">四川</option>
+            <option value="js">江苏</option>
+            <option value="hz">杭州</option>
+            <option value="zj">浙江</option>
+            <option value="gd">广东</option>
+            <option value="jl">吉林</option>
+            <option value="jx">江西</option>
+            <option value="gx">广西</option>
+            <option value="fj">福建</option>
+            <option value="gz">贵州</option>
+            <option value="cq">重庆</option>
+            <option value="ah">安徽</option>
+            <option value="hlj">黑龙江</option>
+            <option value="hb">河北</option>
+            <option value="hn">河南</option>
+            <option value="ln">辽宁</option>
+            <option value="hn">湖南</option>
+            <option value="hb">湖北</option>
+            <option value="sx">山西</option>
+            <option value="shanx">陕西</option>
+            <option value="gz">贵州</option>
+            <option value="db">东北</option>
+            <option value="hn">海南</option>
+            <option value="yn">云南</option>
+            <option value="xz">西藏</option>
+            <option value="xj">新疆</option>
+            <option value="nx">宁夏</option>
+            <option value="gs">甘肃</option>
+            <option value="nmg">内蒙古</option>
+            <option value="qh">青海</option>
+            <option value="tw">台湾</option>
+            <option value="xg">香港</option>
+            <option value="om">澳门</option>
+        </select>
+        <span id="spancolor">*</span>
+    </p>
+    <br>
+    <br>
+    <h2>个人信息</h2>
+    <hr>
+    <p>您的爱好是(可多选)：
+        <br>
+        <input type="checkbox" name="C1" id="C1" value="cg">唱歌
+        <input type="checkbox" name="C1" id="C1" value="hh">画画
+        <input type="checkbox" name="C1" id="C1" value="xx">学习
+        <input type="checkbox" name="C1" id="C1" value="yd">运动
+        <input type="checkbox" name="C1" id="C1" value="bc">编程
+        <input type="checkbox" name="C1" id="C1" value="sg">手工
+        <input type="checkbox" name="C1" id="C1" value="py">配音
+        <input type="checkbox" name="C1" id="C1" value="qt">其他</p>
+    <br>
+    <br>
+
+    <p>您最喜欢的颜色是：
+        <input type="color" name="color"></p>
+    <br>
+    <br>
+
+    <p>最近有空的时间：
+        <br>
+        月:
+        <input type="month">
+        周：
+        <input type="week">
+        <br>
+        开始时间：
+        <input type="time">
+        结束时间：
+        <input type="time">
+    </p>
+    <br>
+    <br>
+
+    <fieldset id="field">
+        <legend align="center">健康信息</legend>
+        <p>身高(cm)：
+            <input type="text"></p>
+        <p>体重(kg)：
+            <input type="text"></p>
+        <p>有无家族病史：
+            <input type="radio" name="sex" value="male" align="center">无
+            <input type="radio" name="sex" value="male" align="center">有
+            <input type="text" size="20" placeholder="请输入名称">
+        </p>
+    </fieldset>
+    <br>
+    <br>
+
+    <p>请介绍一下自己吧！</p>
+    <textarea name="multi" rows="20" cols="100" placeholder="请输入内容(不少于200字)"></textarea>
+    <br>
+    <br>
+	<p>请上传您的注册申请：
+        <br>
+        <input type="file" id="Files" name="files[]" multiple>
+    </p>
+    <br>
+    <br>
+
+
+    <script>
+        function checkup()
+        {
+            if(window.confirm("确定要提交吗？"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        function checkup2()
+        {
+            if(window.confirm("确定要全部重设吗？"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    </script>
+
+   
+
+    <button type="submit" name="submit" id="submit" onclick="return checkup()">提交</button>
+    <button type="reset" name="reset" id="submit" onclick="return checkup2()">重设</button>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </form>
+</div>
+</body>
+</html>

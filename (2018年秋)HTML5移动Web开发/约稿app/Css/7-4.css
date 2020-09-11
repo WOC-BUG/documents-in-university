@@ -1,0 +1,14 @@
+﻿/*纵向垂直时的样式*/
+.p-portrait
+{
+	width:75px;height:150px;
+	line-height:150px;text-align:center;
+	background-color:#eee;border:solid 2px #666
+}
+/*横向水平时的样式*/
+.p-landscape
+{
+	width:150px;height:75px;
+	line-height:75px;text-align:center;
+	background-color:#ccc;border:solid 2px #666
+}

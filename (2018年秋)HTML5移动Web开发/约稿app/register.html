@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单</title>
+    <style>
+        body{
+            background-image: url(1.jpg);
+            background-size: cover;
+            background-attachment:fixed;
+            background-repeat: repeat-y;
+            background-position: center;
+        }
+        .div3 {
+            background-color:rgba(255, 251, 240,0.5);
+            background-position: center;
+            width:80%;
+            margin:0 auto;
+        }
+    </style>
+
+</head>
+<body>
+<form name="form1" id="form1" action="index.html" method="post" autocomplete="on">
+	
+	 <div style="text-align:center" class="div3">
+	 <input type="button" name="你好！" onclick="alert('你好！')" id="你好！" value="你好！">
+	 <br>
+	 <br>
+	 
+	 <p>请输入您的用户名 : 
+	<input type="text" size="20" maxlength="10" placeholder="请输入姓名"></p>
+	<br>
+	<br>
+	
+    <p><label for="password1">请输入您的密码：</label>
+        <input type="password" id="password1" placeholder="请输入密码"></p>
+    <p><label for="password2">请确认您的密码：</label>
+        <input type="password" id="password2" placeholder="请再次输入密码"></p>
+    <button onclick="checkPasswords()" >验证</button>
+	<br>
+	<br>
+	
+<script>
+    function checkPasswords() {
+        var pass1=document.getElementById("password1");
+        var pass2=document.getElementById("password2");
+        if(pass1.value=="")
+        {
+            pass1.setCustomValidity("请输入密码");
+        }
+        else
+		{
+			pass1.setCustomValidity("");
+			if(pass1.value!=pass2.value)
+				pass2.setCustomValidity("密码不一致");
+			else
+			{
+				pass2.setCustomValidity("");
+				onclick=alert('密码设置成功!');
+			}
+		}
+        
+           
+    }
+</script>
+
+	<p>您的性别是：
+	<input type="radio" name="sex" value="male" align="center">男
+    <input type="radio" name="sex" value="female" align="center">女
+    <input type="radio" name="sex" value="secret" checked align="center">保密</p>
+    <br>
+    <br>
+	
+	<p>您的年龄是：
+    <input type="number" name="points" min="1" max="100" value="20" step="1"></p>
+    <br>
+    <br>
+	
+	<p>您的生日是：
+    <input type="date" name="birth" ></p>
+    <br>
+    <br>
+	
+	<p>请输入您的Email:
+    <input type="email" name="email"></p>
+    <br>
+    <br>
+	
+	<p>请输入您的URL:
+    <input type="url" name="url" list="url_list"></p>
+	<datalist id="url_list">
+        <option label="百度" value="http://www.baidu.com" />
+        <option label="Google" value="http://www.google.com"/>
+        <option label="淘宝" value="http://www.taobao.com"/>
+    </datalist>
+    <br>
+    <br>
+	
+	<p>您来自：
+    <select>
+        <option value="bj" selected>北京</option>
+        <option value="sh">上海</option>
+        <option value="sc">四川</option>
+        <option value="js">江苏</option>
+        <option value="hz">杭州</option>
+        <option value="zj">浙江</option>
+        <option value="gd">广东</option>
+        <option value="jl">吉林</option>
+        <option value="jx">江西</option>
+        <option value="gx">广西</option>
+        <option value="fj">福建</option>
+        <option value="gz">贵州</option>
+        <option value="cq">重庆</option>
+        <option value="ah">安徽</option>
+        <option value="hlj">黑龙江</option>
+        <option value="hb">河北</option>
+        <option value="hn">河南</option>
+        <option value="ln">辽宁</option>
+        <option value="hn">湖南</option>
+        <option value="hb">湖北</option>
+        <option value="sx">山西</option>
+        <option value="shanx">陕西</option>
+        <option value="gz">贵州</option>
+        <option value="db">东北</option>
+        <option value="hn">海南</option>
+        <option value="yn">云南</option>
+        <option value="xz">西藏</option>
+        <option value="xj">新疆</option>
+        <option value="nx">宁夏</option>
+        <option value="gs">甘肃</option>
+        <option value="nmg">内蒙古</option>
+        <option value="qh">青海</option>
+        <option value="tw">台湾</option>
+        <option value="xg">香港</option>
+        <option value="om">澳门</option>
+    </select></p>
+	<br>
+	<br>
+	
+	<p>您的爱好是(可多选)：
+    <input type="checkbox" name="C1" id="C1" value="cg">唱歌
+    <input type="checkbox" name="C1" id="C1" value="hh">画画
+    <input type="checkbox" name="C1" id="C1" value="xx">学习
+    <input type="checkbox" name="C1" id="C1" value="yd">运动
+    <input type="checkbox" name="C1" id="C1" value="bc">编程
+    <input type="checkbox" name="C1" id="C1" value="sg">手工
+    <input type="checkbox" name="C1" id="C1" value="py">配音
+    <input type="checkbox" name="C1" id="C1" value="qt">其他</p>
+    <br>
+    <br>
+	
+	<p>您最喜欢的颜色是：
+	<input type="color" name="color"></p>
+	<br>
+	<br>
+	
+	<p>最近有空的时间：
+	<br>
+	月:
+    <input type="month">
+    周：
+    <input type="week">
+	<br>
+    开始时间：
+    <input type="time">
+	结束时间：
+    <input type="time">
+	</p>
+    <br>
+    <br>
+	
+	<fieldset>
+        <legend align="center">健康信息</legend>
+        <p>身高：
+		<input type="text"></p>
+        <p>体重：
+		<input type="text"></p>
+    </fieldset>
+	<br>
+	<br>
+	
+	<p>请介绍一下自己吧！</p>
+	<textarea name="multi" rows="20" cols="100" placeholder="请输入内容"></textarea>
+	<br>
+	<br>
+	
+	<script>
+	function checkup()
+	{
+		if(window.confirm("确定要提交吗？"))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	function checkup2()
+	{
+		if(window.confirm("确定要全部重设吗？"))
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	</script>	
+	
+	<p>请上传您的注册申请：
+		<br>
+		<input type="file" id="Files" name="files[]" multiple>
+	</p>
+	<br>
+	<br>
+	
+	<button type="submit" name="submit" id="submit" onclick="return checkup()">提交</button>
+    <button type="reset" name="reset" id="submit" onclick="return checkup2()">重设</button>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	</div>
+</form>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>交通提示牌</title>
+</head>
+<body>
+<canvas id="canvasId" width="500" height="500">
+    浏览器不支持Canvas
+</canvas>
+<script type="text/javascript">
+    var ctx=document.getElementById('canvasId').getContext("2d");
+    function draw() {
+        var centerX=100;
+        var centerY=100;
+        var radius=70;
+        var startingAngle=0;//开始角度
+        var endingAngle=2*Math.PI;//结束角度
+        ctx.fillStyle="red";
+        ctx.save();
+        ctx.shadowBlur=10;
+        ctx.shadowOffsetX=0;
+        ctx.shadowOffsetY=0;
+        ctx.shadowColor = 'rgba(0, 0, 0, 0.8)';
+        ctx.arc(centerX,centerY,radius,startingAngle,endingAngle,false);
+        ctx.fill();
+        ctx.restore();
+        var centerX2=100;
+        var centerY2=100;
+        var radius2=55;
+        var startingAngle2=0;//开始角度
+        var endingAngle2=2*Math.PI;//结束角度
+        ctx.beginPath();
+        ctx.arc(centerX2,centerY2,radius2,startingAngle2,endingAngle2,false);
+        ctx.stroke();
+        ctx.fillStyle="blue";
+        ctx.fill();
+        ctx.lineWidth=10;
+        ctx.strokeStyle="red";
+        ctx.beginPath();
+        ctx.moveTo(52,52);
+        ctx.lineTo(148,148);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.lineWidth=10;
+        ctx.strokeStyle="red";
+        ctx.moveTo(148,52);
+        ctx.lineTo(52,148);
+        ctx.stroke();
+    }
+    window.addEventListener("load",draw,true);
+</script>
+</body>
+</html>
