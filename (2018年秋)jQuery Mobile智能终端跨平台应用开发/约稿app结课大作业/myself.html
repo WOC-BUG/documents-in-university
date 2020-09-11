@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;
+			charset=utf-8" />
+    <title>个人主页</title>
+    <meta name="viewport" content="width=device-width,
+	        initial-scale=1" />
+    <link  href="Css/jquery.mobile-1.0.1.min.css"
+           rel="Stylesheet" type="text/css" />
+
+    <link  href="Css/jquery.mobile.actionsheet.css"
+           rel="Stylesheet" type="text/css" />
+    <!--载入actionsheet的css文件-->
+
+    <script src="Js/jquery-1.6.4.js"
+            type="text/javascript"></script>
+    <script src="Js/jquery.mobile-1.0.1.js"
+            type="text/javascript"></script>
+
+    <script src="Js/jquery.mobile.actionsheet.js"
+            type="text/javascript"></script>
+    <!--载入actionsheet的js文件-->
+    <style>
+        .background
+        {
+            opacity: 0.65;
+        }
+        p{
+            position: absolute;
+            left: 20px;
+            top: 130px;
+        }
+        canvas
+        {
+            position: absolute;
+            left: 90px;
+            top: 120px;
+            transform: translate(-50%,-50%);
+        }
+    </style>
+</head>
+<body>
+<div data-role="page" data-theme="c">
+    <div data-role="header">
+        <h3>用户个人页面</h3>
+        <a href="index.html" class="ui-btn-left" data-icon="arrow-l" data-ajax="false">后退</a>
+    </div>
+    <div>
+        <canvas id="myCanvas" width="100px" height="100px">
+            浏览器不支持canvas！
+        </canvas>
+    <script>
+        function drawCircle() {
+            var canvas = document.getElementById("myCanvas");
+            var ctx = canvas.getContext("2d");
+            ctx.strokeStyle = "black";
+            ctx.fillStyle="white";
+            ctx.lineWidth=10;
+            var centerX=30;//圆心X坐标
+            var centerY=30;//圆心Y坐标
+            var radius=25;//半径
+            var startAngle=0;//圆弧起始角度
+            var endAngle=2*Math.PI;//圆弧结束角度
+            ctx.beginPath();
+            ctx.arc(centerX,centerY,radius,startAngle,endAngle,false);//绘制圆弧
+            ctx.stroke();
+            ctx.fill();
+            var img=new Image();
+            img.src='Css/icons/02.png';
+            ctx.drawImage(img,centerX-18,centerY-25);
+        }
+        window.addEventListener("load",drawCircle,true);
+    </script>
+        <img src="Css/images/bg.jpg" width="100%" height="40%" class="background">
+    </div>
+    <div>
+        <p>无个人简介...
+            <br/>
+            关注的人：5  粉丝：1</p>
+    </div>
+    <div>
+        <h3>&nbsp;&nbsp;我的收藏</h3>
+        <div>
+            <div class="ui-bar ui-bar-b">
+                <img src="Css/images/fushen.jpg" width="100%" height="100%">
+            </div>
+        </div>
+        <div class="ui-grid-a">
+            <div class="ui-block-a">
+                <img src="Css/images/fish.jpg" width="100%" height="100%">
+            </div>
+            <div class="ui-grid-b">
+                <img src="Css/images/tuck2.jpg" width="100%" height="100%">
+            </div>
+        </div>
+        <div data-role="footer">
+            <h4>到底啦！</h4>
+        </div>
+    </div>
+</div>
+</body>
+</html>

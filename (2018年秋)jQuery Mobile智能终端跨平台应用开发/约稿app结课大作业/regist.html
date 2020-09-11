@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;
+			charset=utf-8" />
+    <title>注册</title>
+    <meta name="viewport" content="width=device-width,
+	        initial-scale=1" />
+    <link  href="Css/jquery.mobile-1.0.1.min.css"
+           rel="Stylesheet" type="text/css" />
+
+    <link  href="Css/jquery.mobile.actionsheet.css"
+           rel="Stylesheet" type="text/css" />
+    <!--载入actionsheet的css文件-->
+
+    <script src="Js/jquery-1.6.4.js"
+            type="text/javascript"></script>
+    <script src="Js/jquery.mobile-1.0.1.js"
+            type="text/javascript"></script>
+
+    <script src="Js/jquery.mobile.actionsheet.js"
+            type="text/javascript"></script>
+    <!--载入actionsheet的js文件-->
+    <meta charset="UTF-8">
+    <title>用户注册</title>
+    <style>
+        body{
+            text-align:center;
+        }
+        hr{
+            color: darkgray;
+            position: page;
+            /*width: 90%;*/
+            text-align: left;
+            filter: alpha(opacity=100,finishopacity=0,style=1);
+        }
+        h2{
+            font-family: 楷体;
+            font-weight: bold;
+            font-style: normal;
+            color: #2f2f4f;
+            text-align: left;
+        }
+        #spancolor{
+            color: red;
+        }
+        fieldset{
+            padding: 20px;
+            border: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+
+<div data-role="page" data-theme="c">
+    <div data-role="header">
+        <h3>用户注册页面</h3>
+    </div>
+    <div data-role="content">
+    <form name="form1" id="form1" action="index.html" autocomplete="on" target="nm_iframe">
+        <h2 >基础信息</h2>
+        <hr >
+        <!--分割线-->
+        <p><label for="name">请输入您的用户名:<span id="spancolor">*</span></label>
+            <input type="text" size="20" maxlength="10" placeholder="请输入姓名"></p>
+
+        <p><label for="password1">请输入您的密码：<span id="spancolor">*</span></label>
+            <input type="password" id="password1" placeholder="请输入密码">
+
+        </p>
+        <p><label for="password2">请确认您的密码：<span id="spancolor">*</span></label>
+            <input type="password" id="password2" placeholder="请再次输入密码">
+
+        </p>
+        <button type="text" onclick="checkPasswords()" >验证</button>
+        <!--这个按钮放到form里也会跳转页面=_=|||,如何单独让它只验证不跳转？加了type="button"或者return false后倒是不跳转了，但是密码也没法验证了？？？-->
+        <iframe id="id_iframe" name="nm_iframe" style="display:none;"></iframe>
+        <!--终于找到这个方法了！form里加一个target，让当前页面不提交，指定一个隐藏的iframe代替当前页提交，就不hi跳转页面了
+        然后分两个form1和form2，一个实现跳转功另一个不实现跳转就ok了！-->
+        <br>
+        <br>
+
+        <script>
+            function checkPasswords() {
+                var pass1=document.getElementById("password1");
+                var pass2=document.getElementById("password2");
+                if(pass1.value=="")
+                {
+                    // document.getElementById("tip").innerText="请输入密码";
+                    pass1.setCustomValidity("请输入密码");
+                }
+                else
+                {
+                    pass1.setCustomValidity("");
+                    if(pass1.value!=pass2.value)
+                    //document.getElementById("tip").innerText="两次密码一致";
+                        pass2.setCustomValidity("密码不一致");
+                    else
+                    {
+                        pass2.setCustomValidity("");
+                        //setCustomValidity函数是表单中的，只有表单验证通过后才会触发，所以页面才会一起跳转
+                        alert('密码设置成功!');
+                        return false;
+                    }
+                }
+            }
+        </script>
+    </form>
+
+    <form name="form1" id="form2" action="index.html" data-ajax="false" autocomplete="on">
+
+        <p>您的性别是：<span id="spancolor">*</span>
+        <fieldset data-role="controlgroup"  data-type="horizontal">
+            <input type="radio" id="rdo1" name="rdoA"  />
+            <label for="rdo1">男</label>
+            <input  type="radio" id="rdo2" name="rdoA"/>
+            <label for="rdo2">女</label>
+            <input type="radio" id="rdo3" name="rdoA"  checked="checked"/>
+            <label for="rdo3">保密</label>
+        </fieldset>
+
+        <p>您的年龄是：<span id="spancolor">*</span>
+            <input type="number" name="points" min="1" max="100" value="20" step="1">
+        </p>
+        <br>
+        <br>
+
+        <p>您的生日是： <span id="spancolor">*</span>
+            <input type="date" name="birth" >
+
+        </p>
+        <p>请输入您的Email:<span id="spancolor">*</span>
+            <input type="email" name="email">
+        </p>
+        <p>您来自：<span id="spancolor">*</span>
+            <select>
+                <option value="bj" selected>北京</option>
+                <option value="sh">上海</option>
+                <option value="sc">四川</option>
+                <option value="js">江苏</option>
+                <option value="hz">杭州</option>
+                <option value="zj">浙江</option>
+                <option value="gd">广东</option>
+                <option value="jl">吉林</option>
+                <option value="jx">江西</option>
+                <option value="gx">广西</option>
+                <option value="fj">福建</option>
+                <option value="gz">贵州</option>
+                <option value="cq">重庆</option>
+                <option value="ah">安徽</option>
+                <option value="hlj">黑龙江</option>
+                <option value="hb">河北</option>
+                <option value="hn">河南</option>
+                <option value="ln">辽宁</option>
+                <option value="hn">湖南</option>
+                <option value="hb">湖北</option>
+                <option value="sx">山西</option>
+                <option value="shanx">陕西</option>
+                <option value="gz">贵州</option>
+                <option value="db">东北</option>
+                <option value="hn">海南</option>
+                <option value="yn">云南</option>
+                <option value="xz">西藏</option>
+                <option value="xj">新疆</option>
+                <option value="nx">宁夏</option>
+                <option value="gs">甘肃</option>
+                <option value="nmg">内蒙古</option>
+                <option value="qh">青海</option>
+                <option value="tw">台湾</option>
+                <option value="xg">香港</option>
+                <option value="om">澳门</option>
+            </select>
+
+        </p>
+        <br>
+        <br>
+        <h2>个人信息</h2>
+        <hr>
+        <p>您的爱好是：</p>
+        <fieldset data-role="controlgroup"><!--  data-type="horizontal" --> <!--horizontal用来把竖着的单选按钮变成横向的-->
+            <input type="checkbox" id="chk1" name="chkA" value="1" checked="checked"/><!--name和id不能一样--->
+            <label for="chk1">唱歌</label>
+            <input type="checkbox" id="chk2" name="chkA" value="2"/>
+            <label for="chk2">画画</label>
+            <input type="checkbox" id="chk3" name="chkA" value="3"/>
+            <label for="chk3">编程</label>
+            <input type="checkbox" id="chk4" name="chkA" value="4"/>
+            <label for="chk4">运动</label>
+            <input type="checkbox" id="chk5" name="chkA" value="5"/>
+            <label for="chk5">学习</label>
+            <input type="checkbox" id="chk6" name="chkA" value="6"/>
+            <label for="chk6">配音</label>
+            <input type="checkbox" id="chk7" name="chkA" value="7"/>
+            <label for="chk7">手工</label>
+            <input type="checkbox" id="chk8" name="chkA" value="8"/>
+            <label for="chk8">其他</label>
+        </fieldset>
+        <p>您最喜欢的颜色是：
+            <input type="color" name="color"></p>
+        <br>
+        <p>请介绍一下自己吧！</p>
+        <textarea name="multi" rows="20" cols="100" placeholder="请输入内容(不少于200字)"></textarea>
+        <br>
+        <br>
+        <p>请上传您的注册申请：
+            <br>
+            <input type="file" id="Files" name="files[]" multiple>
+        </p>
+        <br>
+        <br>
+
+
+        <script>
+            function checkup()
+            {
+                if(window.confirm("确定要提交吗？"))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            function checkup2()
+            {
+                if(window.confirm("确定要全部重设吗？"))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+        </script>
+
+
+
+        <button type="submit" name="submit" id="submit" onclick="return checkup()">提交</button>
+        <button type="reset" name="reset" id="submit" onclick="return checkup2()">重设</button>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </form>
+</div>
+    <div data-role="footer">
+        <h4>到底啦！</h4>
+    </div>
+</div>
+</body>
+</html>

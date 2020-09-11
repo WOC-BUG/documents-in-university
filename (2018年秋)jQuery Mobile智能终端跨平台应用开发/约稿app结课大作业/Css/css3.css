@@ -1,0 +1,24 @@
+.nav-3-8 .ui-btn .ui-btn-inner
+{
+	padding-top: 40px !important;
+}
+.nav-3-8 .ui-btn .ui-icon
+{
+	width: 30px !important;
+	height: 30px !important;
+	margin-left: -15px !important;
+	box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	border-radius: 0 !important;
+}
+.draw .ui-icon
+{
+	background: url(icons/01.png) 50% 50% no-repeat;
+	background-size: 15px 24px;
+}
+.drawer .ui-icon
+{
+	background: url(icons/02.png) 50% 50% no-repeat;
+	background-size: 15px 24px;
+}
