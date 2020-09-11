@@ -1,0 +1,53 @@
+﻿2018	博士文献(125391篇)	期刊文献	7742824篇	核心期刊	2991362篇	EI收录刊	401350篇	SCI收录刊	99634篇	CSCD收录刊	1183604篇	CSSCI收录刊	783895篇	硕士文献	636452篇	博士文献	125391篇	全部文献	8504675篇	被核心期刊引用	3757670篇	被SCI刊引用	211117篇	被EI刊引用	963667篇	被CSSCI刊引用	1263659篇	被CSCD刊引用	2920589篇	 2019	4篇	 2018	257147篇	 2017	871084篇	 2016	944129篇	 2015	845953篇	 2014	746145篇	 2013	667089篇	 2012	582749篇	 2011	520672篇	 2010	472058篇	 2009	385828篇	 2008	346412篇	 2007	313122篇	 2006	272599篇	 2005	225508篇	 2004	182471篇	 2003	152928篇	 2002	122739篇	 2001	100978篇	 2000	84837篇	
+1	Study on Ecological Risk of Land Use in Urbanization Watershed Based on RS and GIS:A Case Study of Songhua River Watershed in Harbin Section	Li YUAN;Wenfeng GONG;Yongfeng DANG;Zexu LONG	Asian Agricultural Research	2013(03)	5(1)	--	106	预览	【分类号】F301.2
+2	Developmental Status Quo and Trends of Low-carbon Agriculture	Liming CAO;Xiaohua PAN;Maobai LI	Asian Agricultural Research	2013(03)	1(1)	--	47	预览	【分类号】F320
+3	Practice and Exploration of Leisure Agriculture Construction in Inner Mongolia Agriculture and Animal Husbandry Science andTechnology Park	Huaidong WANG;Ming LI;Lazhu HAO;Maoyue GE	Asian Agricultural Research	2013(01)	1(1)	--	195	预览	【分类号】F327
+4	Analysis of the Influencing Factors of Changes in Foxtail Millet Planting Area in Hebei Province	Meng LIU;Yu ZHAO;Fei LIU;Shunguo LI;Guirong WANG;Xinshi ZHANG	Asian Agricultural Research	2013(03)	2(2)	--	29	预览	【分类号】S515
+5	Evaluation of Comprehensive Benefits of Land Consolidation Based on AHP and FUZZY	Jinsong TIAN;Jinjie TIAN;Jiachun GUO	Asian Agricultural Research	2013(01)	4(2)	--	127	预览	【分类号】F301
+6	Evaluation of the Land Production Potential in the Context of Returning Farmland to Forest in Karst Region:A Case Study of Guizhou Province	Shuang YU;Guang LI;Ruiping RAN	Asian Agricultural Research	2013(01)	2(2)	--	53	预览	【分类号】S721
+7	Change in Ecosystem Service Value Arising from Land Consolidation Planning in Anhui Province	Shaojia CAO;Chen LI;Shuhua CAO;Zhe PENG;Lingli YANG	Asian Agricultural Research	2013(01)	2(1)	--	86	预览	【分类号】X24
+8	Changes of Coastal Wetland Ecosystems in the Yellow River Delta and Protection Countermeasures to Them	Guangzhou CUI;Xuliang ZHANG;Zhaohui ZHANG;Zongjun XU	Asian Agricultural Research	2013(01)	1(1)	--	47	预览	【分类号】X37
+9	Study on Connotations and Development Strategies of Creative Agriculture	Liangshan YANG;Hailing HE	Asian Agricultural Research	2013(04)	2(2)	--	69	预览	【分类号】F320
+10	Why Are There Great Fluctuations in the Prices of Vegetables?	Shuang CHEN;Lijia HU	Asian Agricultural Research	2013(03)	1(1)	--	36	预览	【分类号】F323.7
+11	Fiscal Expenditure and Income Gap between Urban and Rural Residents: An Empirical Study Based on Malmquist Index and Spatial Econometrics	Jianhui LIU;Ming ZHANG;Fangfang ZHANG;Zhibo ZHOU	Asian Agricultural Research	2013(02)	2(1)	--	370	预览	【分类号】F812.45
+12	Remediation of Steel Slag on Acidic Soil Contaminated by Heavy Metal	Haihong GU;Fuping LI;Xiang GUAN;Zhongwei LI;Qiang YU	Asian Agricultural Research	2013(05)	4(2)	--	53	预览	【分类号】X53
+13	Study on the Roles of FWUA in Construction, Management and Maintenance of Small-Scale Irrigation and Water Conservancy	Shaoshu LI;Ke YUAN	Asian Agricultural Research	2013(04)	1(1)	--	66	预览	【分类号】F323.213
+14	Research on the Consumers Willingness to Buy Traceable Pork with Different Quality Information:A Case Study of Consumers in Weifang, Shandong Province	Fan BU;Dian ZHU;Linhai WU	Asian Agricultural Research	2013(05)	2(1)	--	36	预览	【分类号】F203
+15	Comparative Research on Sino-US Agricultural Innovation Model in Science and Technology	Chunjiang ZHU;Surendra P.Singh;Sammy L.Comer	Asian Agricultural Research	2013(05)	1(2)	--	108	预览	【分类号】F320
+16	China's Grain Production and Its Requirement for Water Resources Allocation	Jing ZHAO	Asian Agricultural Research	2013(06)	1(1)	--	25	预览	【分类号】F326.11
+17	Evaluation of the Reclamation Suitability of Industrial and Mining Wasteland	Gengjie ZHANG;Zhongke BAI	Asian Agricultural Research	2013(05)	1(1)	--	50	预览	【分类号】F301
+18	Impacts of the Three Gorges Project and Converting Farmland into Lake on the Microtus fortis Population in Dongting Lake Region	Meiwen ZHANG;Yong WANG;Bo LI;Cong GUO	Asian Agricultural Research	2013(06)	1(1)	--	16	预览	【分类号】S443
+19	Study on Land Use Structure Changes and Countermeasures	Zhiyou LIU;Chunling PU;Airong ZHU;Zhiqiang WANG	Asian Agricultural Research	2013(06)	1(1)	--	50	预览	【分类号】F301.2
+20	Disputes over Circulation of Rural Land Contractual Management Right and Control Countermeasures	Deyu DU	Asian Agricultural Research	2013(06)	2(2)	--	90	预览	【分类号】F301
+21	Variation Regulation and Models of Raw Milk Composition of Chinese Holstein Cattle in Tianjin	Liang YANG;Yi MA;Zhihong PANG;Miao YI;Qin YANG;Benhai XIONG	Asian Agricultural Research	2013(07)	1(1)	--	32	预览	【分类号】S823
+22	Measure of Watershed Ecological Compensation Standard Based on WTP and WTA	Dawei XU;Jinfang RONG;Na YANG;Wen ZHANG	Asian Agricultural Research	2013(07)	2(1)	--	74	预览	【分类号】X171
+23	Empirical Study of E-logistics System Based on Tibet Logistics Industry	Yu LIU	Asian Agricultural Research	2013(08)	2(1)	--	271	预览	【分类号】F259.27
+24	The Current Situation and Development Countermeasures of Creative Agriculture in Miyun	Runlian MIAO;Tong LIU;Mei LI	Asian Agricultural Research	2013(07)	1(1)	--	63	预览	【分类号】F320.1
+25	Establishment of Comprehensive Evaluation Model of the New Generation Migrant Workers' Employability	Jianli GAO;Tongquan ZHANG	Asian Agricultural Research	2013(07)	1(1)	--	41	预览	【分类号】D412.6
+26	Investigation and Analysis of Agricultural Cold Chain Logistics and Its Development Strategy in Heilongjiang Province	Xin SHEN;Li LIU;Zhipeng HUANG	Asian Agricultural Research	2013(07)	2(2)	--	651	预览	【分类号】F323.7
+27	Safety Assessment of Heavy Metal in Tea Garden Soil: A Case Study of Specialized Tea Towns in Guangdong	Qiushuang WANG;Caijin LING;Shumei LIU;Junxi CAO;Jinsong ZHANG;Chaoyi ZHAO	Asian Agricultural Research	2013(08)	1(1)	--	42	预览	【分类号】X53
+28	Experience and Enlightenment of the Fishery Mutual Insurance System in Asian Countries	Hongmin LI	Asian Agricultural Research	2013(08)	1(1)	--	105	预览	【分类号】F33
+29	Forecast and Analysis of the Main Indicators for the Development of Ocean Fishery in China during the Twelfth Five-Year Plan Period	Xianghong LIN;Zhankun WANG;Weiling SONG;Congchun XU	Asian Agricultural Research	2013(09)	1(1)	--	24	预览	【分类号】F326.4
+30	Evolution History and Development Trend of Industrialized Live Pig Breeding Model in China	Zhongming SHEN	Asian Agricultural Research	2013(10)	4(1)	--	47	预览	【分类号】F326.3
+31	The Effects of Biochar on Germination and Growth of Wheat in Different Saline-alkali Soil	Guijun WANG;Zhenwen XU	Asian Agricultural Research	2013(11)	2(2)	--	79	预览	【分类号】S512.1
+32	Research Progress of Tourism-oriented Poverty Alleviation in China	Guoqing HUANG;Pengfei XIE	Asian Agricultural Research	2013(10)	1(2)	--	118	预览	【分类号】F592
+33	Mortgage of Land Management Right in the Rural Area Under the Policy Context	Zhimin ZHAN;Jianchao LUO	Asian Agricultural Research	2013(10)	1(1)	--	36	预览	【分类号】F301
+34	A Probe into Reform of Rural Homestead Acquisition System	Jun TAN	Asian Agricultural Research	2013(10)	2(1)	--	93	预览	【分类号】F301
+35	Development of Agricultural Product Logistics from the Perspective of the 4PL	Alex Wuya ZHONG;Wei YAN	Asian Agricultural Research	2013(11)	3(3)	--	504	预览	【分类号】F326.6
+36	Climate Superiority of Sugar Cane Planting in Longzhou County of Guangxi	Aizhen CHENG;Xingji ZENG;Zhongxiong HUANG	Asian Agricultural Research	2013(11)	1(1)	--	17	预览	【分类号】S566.1
+37	唐宋并重 情理法兼顾——论蒲松龄的拟判词创作	段战戈	蒲松龄研究	2013(01)	1(1)	--	159	预览	【分类号】I207.6
+38	一曲人性的赞歌——《聊斋志异·连城》中乔生形象解读	赵爱华	蒲松龄研究	2013(02)	1(1)	--	476	预览	【分类号】I207.419
+39	我的文学经验(续)	莫言	蒲松龄研究	2013(02)	3(1)	--	244	预览	【分类号】I207.419
+40	新马汉文报刊所载《聊斋志异》相关资料辑补	李奎	蒲松龄研究	2013(03)	2(1)	--	55	预览	【分类号】I207.419
+41	浮现在文字与影像之间的鬼影记忆——从聊斋小说《画皮》的电影改编思考传统文化的承袭与创新问题	赵庆超;舒乙	蒲松龄研究	2013(04)	2(1)	--	371	预览	【分类号】I207.419
+42	《日用俗字》庄农章解疏(续)——兼以《农桑经》及现代淄川方言为证	何茂活	蒲松龄研究	2013(04)	3(2)	--	70	预览	【分类号】H17
+43	马瑞芳教授谈莫言:他的成功在于向经典致敬	马瑞芳	蒲松龄研究	2013(03)	3(2)	--	176	预览	【分类号】I207.42
+44	《聊斋志异·海公子》的崂山渊源及文化资源考略	孙克诚	蒲松龄研究	2013(04)	1(1)	--	126	预览	【分类号】I207.419
+45	《红楼梦》中的明清山东方言举证——基于蒲松龄聊斋俚曲作品的对比	吴佩林	蒲松龄研究	2013(04)	3(2)	--	202	预览	【分类号】H17
+46	《日用俗字》庄农章解疏——兼以《农桑经》及现代淄川方言为证	何茂活	蒲松龄研究	2013(03)	3(2)	--	97	预览	【分类号】S
+47	MAPK信号通路对细胞骨架调控作用的研究进展	孙瑜;徐立红	癌变·畸变·突变	2013(03)	3(2)	--	723	预览	【分类号】R730.2
+48	电离辐射对人外周血线粒体编码基因mRNA表达的影响	张忠新;刘建功;张淑贤;段志凯	癌变·畸变·突变	2013(01)	2(1)	--	55	预览	【分类号】R818
+49	ENU致大鼠体内Pig-a基因突变的时-效关系和量-效关系研究	张铭;周长慧;王征;王庆利;常艳	癌变·畸变·突变	2013(03)	2(1)	--	107	预览	【分类号】R96
+50	过氧化氢酶与肿瘤的关系	魏志权;苟巧;张伟	癌变·畸变·突变	2013(01)	1(2)	--	261	预览	【分类号】R730.23
+
+=====================================

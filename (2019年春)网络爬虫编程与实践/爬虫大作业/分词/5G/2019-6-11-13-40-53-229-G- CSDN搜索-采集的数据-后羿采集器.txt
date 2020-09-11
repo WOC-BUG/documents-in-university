@@ -1,0 +1,14 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 三大/n 场景/n 和/c 两个/n 关键/a 技术/n ,/w 因此/c ，/w 增强/v 移动/v 带宽/n （/w eMBB/en ）/w 将/d 是/v 5/m G/m 发展/v 初期/t 面向/v 个人消费/n 市场/ny 的/u 核心/n 应用/v 场景/n 。/w 美国/ns 时间/n 2016年11月17日/t 凌晨/t 0点45分/t ，/w 在/d 3/m GPP/en RAN/en 1 87/m 次/a 会议/nh 的/u 5/m G/m 短/a 码/ng 方案/n 讨论/v 中/f ，/w 历经/v 千辛万苦/ia .../m ,/w qiukapi/en ,/w https://blog.csdn.net/qiukapi/article/details/87866643/url ,/w 2019-02-21/t ,/w 462/m 次/a 阅读/v ,/w 5/m G/m 三大/n 场景/n 和/c 两个/n 关键/a 技术/n -/w qiukapi/en 的/u 博客/n ,/w 2019年02月21日 19:35:12/t ,/w 一/m 、/w 三大/n 应用/v 场景/n ：/w
+
+1/m ）/w eMBB/en ：/w (/w Enhanced/en Mobile/en Broadband/en )/w ，/w 增强/v 移动/v 宽带/n 。/w 以/p 人为/b 中心/nc 的/u 应用/v 场景/n ，/w 集中/a 表现/v 为/p 超高/b 的/u 传输/v 数据/n 速率/n ，/w 广/a 覆盖/v 下/f 的/u 移动性/n 保证/v ，/w 最/d 直观/a 的/u 体验/v 就是/n 极致/n 的/u 网速/n 。/w 因此/c ，/w 增强/v 移动/v 带宽/n （/w eMBB/en ）/w 将/d 是/v 5/m G/m 发展/v 初期/t 面向/v 个人消费/n 市场/ny 的/u 核心/n 应用/v 场景/n 。/w 美国/ns 时间/n 2016年11月17日/t 凌晨/t 0点45分/t ，/w 在/d 3/m GPP/en RAN/en 1 87/m 次/a 会议/nh 的/u 5/m G/m 短/a 码/ng 方案/n 讨论/v 中/f ，/w 历经/v 千辛万苦/ia ，/w 中国华为公司/nt 的/u Polar/en Code/en （/w 极化/v 码/ng ）/w 方案/n ，/w 最终/d 战胜/v 列强/n ，/w 成为/v 5/m G/m 控制/v 信道/n eMBB/en 场景/n 编码/n 最终/d 方案/n 。/w
+
+2/m )/w uRLLC/en ：/w （/w Ultra/en -/w Reliable/en Low/en latency/en Communications/en ）/w ，/w 高/a 可靠性/n 低/a 时延/j 连接/v 。/w 在/d 此/r 场景/n 下/f ，/w 连接/v 时延/j 要/v 达到/v 1/m ms/n 级别/n ，/w 而且/c 要/v 支持/v 高速/b 移动/v （/w 500/m KM/en //w H/n ）/w 情况/n 下/f 的/u 高/a 可靠性/n （/w 99.999%/m ）/w 连接/v 。/w 这/r 一/m 场景/n 更多/n 面向/v 车联网/nt 、/w 工业控制/n 、/w 远程医疗/n 等/ng 特殊/a 应用/v 。/w
+
+3/m ）/w mMTC/en ：/w “/w 海量/n 物联/n ”/w 。/w
+
+二/m 、/w 两个/n 关键/a 技术/n ：/w
+
+1/m ）/w 网络/n 切片/n
+
+2/m ）/w 网络/n 开放/a 虚拟化/v ,/w ,/w ,/w ,/w ,/w

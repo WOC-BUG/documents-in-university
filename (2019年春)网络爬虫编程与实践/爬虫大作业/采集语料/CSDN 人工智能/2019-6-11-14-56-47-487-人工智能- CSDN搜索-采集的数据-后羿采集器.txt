@@ -1,0 +1,181 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能有哪些好书值得推荐? - qq_40558336的博客 - CSDN博客,https://blog.csdn.net/qq_40558336/article/details/78558992,它介绍了人工智能目前在社会中所处的状态以及其在经济中所发挥的作用。它也提出了关于人工智能的短期和长期愿景的问题。这份白皮书绝对值得一读,因为它不仅时间非常...,,//blog.csdn.net/qq_40558336/article/details/78558992,,,,,人工智能有哪些好书值得推荐？ - qq_40558336的博客,2017年11月17日 11:10:30,原        人工智能有哪些好书值得推荐？
+      
+      
+        
+                                                  2017年11月17日 11:10:30
+          FMI飞马网
+          阅读数：7612
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+
+了解人工智能，30份书单不容错过（附电子版PDF下载）
+
+
+关注公众号【飞马会】回复数字"4",查看获取资料方式
+或者添加微信小助手：feimawang001  进行获取
+
+
+机器学习 & 数据科学必读的经典书籍，内附资料包！
+
+1. Think Stats: Probability and Statistics for Programmers.
+
+《统计思维：程序员数学之概率统计》
+
+By Allen B. Downey
+
+
+
+
+
+
+
+Think Stats 是一本写给码畜们的关于概率与统计学的初阶介绍类书籍。
+
+这本书主要是介绍一些可以用来处理实际数据和讨论相关问题的基本方法。这本书讨论了一个基于美国国家卫生研究院（National Institutes of Health）数据的实际案例，来开展相关话题和知识点的讨论。这本书鼓励读者们去做一些基于真实数据集的project。
+
+
+
+2. Probabilistic Programming & Bayesian Methods for Hackers
+
+《贝叶斯方法:概率编程与贝叶斯推断》
+
+By Cam Davidson-Pilon
+
+这本书相比于数学更注重与对贝叶斯方法论（Bayesian Method）和概率性编程的理解。
+
+贝叶斯方法论是对数学分析自然而然的估计与推论，然而贝叶斯方法论的推理非常繁杂难懂。一般情况下，关于贝叶斯推论的关键内容主要建立在概率论的两三个章节上，之后才会是真正讲解什么是贝叶斯推论。然而，按照这种讲解构架，由于贝叶斯的一些数学部分实在是很难被掌握，通常的书里只会介绍几个简单的，人为编造的案例。这些不符合真实世界的例子会让读者们有一种对于贝叶斯推论有一种 “so what” 的情绪。读者们无法认知到贝叶斯推论的重要性和实用性。事实上，这种想法只是其他作者最开始接触贝叶斯的初始理解而已。
+
+
+
+3. Understanding Machine Learning: From Theory to Algorithms
+
+《深入理解机器学习:从原理到算法》
+
+By Shai Shalev-Shwartz & Shai Ben-David
+
+机器学习是近几年来计算机领域里蹿红最快也确实有很多广泛应用的“小鲜肉”。 这本书的编写要义在于给读者一个原则性的对机器学习的介绍以及其联系到的算法案例。这本书介绍了如何通过实用且基本的机器学习和数学推导，来将原理转换为实际算法的理论解释。除了对于最基本东西的解释论述，这本书还包括了之前那些书目中没有提到的重要的课题。课题包括：计算机学习的计算复杂度，稳定性和凸性(convexity)的概念，随机梯度下降、神经网络和有结构的输出式学习的重要算法范例，以及 PAC-Bayes 和 compression-based
+ bounds 等新兴概念。
+
+
+
+4. The Elements of Statistical Learning
+
+《统计学习要点》
+
+By Trevor Hastie, Robert Tibshirani & Jerome Friedman
+
+本书在大家都认知的一个基础框架上论述了在统计学领域上的一些重要的理论。尽管这本书的最主要主题是要讨论统计学知识，但它的重心却没有落在数学理论上。这本书为读者们提供了很多彩色插图和案例说明来阐明知识论点。这本书不仅仅对于统计学家来说很有价值，它对致力于科学工业进行数据挖掘的有志之士也有很大的阅读价值。这本书的知识网非常的广，从监督式学习（预测）到非监督式学习都有一定的设计。同时书中还提到了神经网络，支持向量机，分级树和分级助推（这是相关话题在所有书籍中第一次被综合讨论）之类的其他话题。
+
+
+
+5. An Introduction to Statistical Learning with Applications in R
+
+《统计学习导论:基于R应用》
+
+By Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+这本书对于统计学习基础方法的介绍。这本书是写给非数学专业的大三大四本科生，研究生和博士生的。这本书包括了很大量的R语言的实例。这些实例都附有如何将统计方法使用进真实世界情形设置的详细解释。这些资源对于想要成为优秀的数据科学家的人来说是很有实际练习价值的。
+
+
+
+从入门到研究，人工智能领域最值得一读的10本资料
+
+人工智能白皮书（包含 PDF 文件，可获取下载方式）
+
+1.Preparing for the Future of Artificial Intelligence（为人工智能未来做好准备）
+
+
+
+
+
+这份白皮书发表于 2016 年 10 月。它介绍了人工智能目前在社会中所处的状态以及其在经济中所发挥的作用。它也提出了关于人工智能的短期和长期愿景的问题。这份白皮书绝对值得一读，因为它不仅时间非常近，而且其信息源非常权威。美国国家科学技术委员会旗下的机器学习和人工智能小组委员会是该白皮书的主要作者。
+
+
+
+2.Artificial Intelligence as a Positive and Negative Factor in Global Risk（作为全球风险中积极因素和消极因素的人工智能）
+
+
+该白皮书的作者是 Eliezer Yudkowsky，其得到了 Machine Intelligence Research Institute 的赞助。这份白皮书研究了人工智能如果像现在这样继续高速发展可能在未来造成的多种后果。因为我们还不知道人工智能将向哪个方向发展，所以我们也不清楚其所带来的影响哪些是积极的、哪些是消极的；因此 Yudkowsky 同时研究了这两个方面。
+
+
+
+Eliezer Yudkowsky 是 Machine Intelligence Research Institute 的一位全职研究员，他住在加州的旧金山湾区。
+
+
+
+3.Learning to Trust Artificial Intelligence Systems（学习信任人工智能系统）
+
+
+在这份白皮书中，我们可以看到我们总是会不得不面对新的先进技术，而且最终我们会认识到这些技术将能够以这样或那样的方式使我们的生活更好。这份白皮书认为人工智能（IBM 喜欢称其为「增强智能（augmented intelligence」）也是这样。人工智能将会越来越多地出现在我们的生活之中，我们会适应它，我们的生活也将因为它而变得更加美好。
+
+
+
+这份人工智能白皮书的作者是 Guruduth Banavar 博士，他是 IBM 研究院的副院长以及认知计算部门的首席科学官。
+
+
+
+4.Artificial Intelligence and Life in 2030（2030 年的人工智能与生活）
+
+
+
+来自：斯坦福大学
+
+
+这是一份人工智能如何影响人类、社区与社会的报告。该报告回顾了过去 100 年科技是如何造成影响的。它由斯坦福大学于今年 9 月份发布。注意，报告中也观察了人工智能对社会造成的挑战，比如经济与道德问题。
+
+
+
+5.Extreme Automation and Connectivity: The Global, Regional, and Investment Implications of the Fourth Industrial Revolution
+
+发布于今年 1 月份，如果你想找人工智能白皮书，这是不可错过的一份。由全球接入互联网的连通性引发的「第四次工业革命」，生产线中大部分的自动化，加速这一进程的正是人工智能。
+
+
+
+6.Disruption Ahead
+
+德勤联合 IBM 专门投入资源做了此份报告，让各种商业与个人能用到这一技术。在此白皮书中，你会学到他们如何做人工智能，期待的收获是什么，以及期待什么时候发生文中提到的里程碑。在读此报告时，你会学到大量 Watson 的工作机制以及目前是如何部署机器的。里面也有如今的使用案例。
+
+
+
+7.Artificial Intelligence, Robotics, Privacy and Data Protection（人工智能、机器人、隐私和数据保护）
+
+这个主题是欧盟在马拉喀什的一场会议上讨论的，此白皮书于今年 10 月发布，主题集中在随着人工智能和机器人的崛起，为什么开始讨论数据保护和隐私问题如此重要。因为这些计算机像超级计算机一样有着前所未有的能力，也因为随着技术进一步发展我们需要现在就开始考虑如何保护地球上每个人的数据与隐私。
+
+
+
+8.The Robot and I: How New Digital Technologies Are now Making Smart People , Businesses Smarter by Automating Rote Work
+
+
+
+说到金融，大部分人都是去银行或在网上银行查阅信息，只需要点击几下按钮。但想想十年前是如何处理经济事项的？技术进步，特别是在人工智能领域的进步，已经消除了金融操作中的许多步骤，从而使得个人和商业金融活动更为智能。
+
+
+
+9.Research Priorities for Robust and Beneficial Artificial Intelligence（稳健有益的人工智能的优先研究项）
+
+
+
+来自：加州大学伯克利分校
+
+此份白皮书是在人工智能研究的主题上你最应该阅读的白皮书之一，多位研究人员思考人工智能的哪些研究领域是对人类收益最大的，还解释了为什么。他们都给出了各自的理由，由可靠的科学以及各自的经验与观点所支撑。
+Stuart Russell 是加州大学伯克利分校计算机科学教授，也是工程系的 Smith-Zadeh 教授。Daniel Dewey 是 Open Philanthropy Project 的项目经理。Max Tegmark 是 MIT 的教授。
+10.The New Wave of Artificial Intelligence（人工智能新浪潮）
+
+
+
+由 Evry 发布的此份白皮书是来教育读者为什么新的人工智能公司要通过升级旧的人工智能概念来进行变革？为什么它们要在众多产业使用人工智能技术创造全新的未来？观测为什么、什么时候来创造人工智能商业非常的重要，即使最后结果与旧商业一样，你也需要从头开始做人工智能。在你使用一项完全不同的技术时，整个流程是独一无二的。
+
+
+关注公众号【飞马会】回复数字"1",查看获取资料方式
+或者添加微信小助手：feimawang001  进行获取

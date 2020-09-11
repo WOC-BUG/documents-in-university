@@ -1,0 +1,57 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G资源分配,5G资源分配控制区域资源分配数据区资源分配
+5G的资源分配，从整体上看与4G类似，分为控制区域的资源分配和数据区域的资源分配。
+控制区域即PDCCH占用的资源，数据区域即PDSCH和PUSCH。,qq_44113393,https://blog.csdn.net/qq_44113393/article/details/91374086,2019-06-10,13次阅读,5G资源分配 - qq_44113393的博客,2019年06月10日 17:02:55,5G资源分配控制区域资源分配数据区资源分配
+5G的资源分配，从整体上看与4G类似，分为控制区域的资源分配和数据区域的资源分配。
+控制区域即PDCCH占用的资源，数据区域即PDSCH和PUSCH。
+控制区域资源分配
+总结：网络通过在系统消息和RRC消息中配置PDCCH-config  -> search space -> CORESET 给UE分配控制区资源和DCI解码信息。
+在4G中，PDCCH所占用的频域资源是整个带宽（去除参考信号和PHICH）；而时域占用的符号数由PCFICH确定。
+5G中去掉了PCFICH和PHICH，引入了CORESET的概念。CORESET就是定义5G PDCCH占用资源的一组参数。
+5G中由于BWP和numerology的引入，PDCCH占用的资源与4G相比变得更加灵活，系统可以为UE独立配置CORESET，并且一个UE可以配置多个CORESET。
+
+CORESET由RRC层的IE： ControlResourceSet定义。
+ControlResourceSet ::=                  SEQUENCE {
+    controlResourceSetId                    ControlResourceSetId,    //CORESET ID
+    frequencyDomainResources                BIT STRING (SIZE (45)),  //频域资源
+    duration                                INTEGER (1..maxCoReSetDuration),   //时域资源
+1234
+CORESET定义了PDCCH占用的资源，而为了解码PDCCH中所承载的DCI信息，5G中同样定义了search space的概念。
+search space根据承载的DCI信息分为common search space和specific search space。
+
+common search space是UE建立RRC连接之前网络在系统消息中为UE配置的UE需要解码的一些DCI信息。
+specific search space是UE建立RRC连接之后在RRC消息中为UE配置的DCI消息。
+在search space配置中可以看到对应CORESET ID。
+SearchSpace ::=                         SEQUENCE {
+    searchSpaceId                           SearchSpaceId,   //ID
+    controlResourceSetId                    ControlResourceSetId    OPTIONAL,-- Cond Setup Only    //CORESET ID
+    monitoringSlotPeriodicityAndOffset CHOICE {
+1234
+具体到消息中，search space和CORESET又通过PDCCH-config下发到UE。
+PDCCH-Config ::=                        SEQUENCE {
+    controlResourceSetToAddModList          SEQUENCE(SIZE (1..3))
+                                                OF ControlResourceSet         OPTIONAL,
+    controlResourceSetToReleaseList         SEQUENCE(SIZE (1..3))
+                                                OF ControlResourceSetId       OPTIONAL,
+    searchSpacesToAddModList                SEQUENCE(SIZE (1..10))
+                                                OF SearchSpace                OPTIONAL,
+    searchSpacesToReleaseList               SEQUENCE(SIZE (1..10))
+                                                OF SearchSpaceId              OPTIONAL,
+123456789
+数据区资源分配
+总结：通过DCI分配时域和频域资源。
+数据区资源分配与4G类似，是通过DCI完成的。不同的地方在于，5G中时域的调度粒度从一个slot变成了一个symbol。
+我们前面说RB的定义的时候也说过，5G中RB在时域上只有一个symbol。
+因此，5G的资源分配在频域上与4G类似，但是却要增加时域上的分配参数。
+
+时域的分配方式如上图。
+其中，n为DCI所在slot，uPDSCH和uPDCCH分别为PDSCH和PDCCH的numerology。
+K0是在RRC层配置的参数，通过DCI指定具体的K0值，从而获得PDSCH所在slot。另外还有K1用于配置PUCCH传输ACK/NAK的slot，K2用于配置PUSCH的slot。
+SLIV也是RRC层配置的参数，指定了PDSCH的其实symbol和持续长度。
+参考：
+关于5G 物理层设计原则
+https://new.qq.com/omn/20180312/20180312G19BM2.html
+http://www.txrjy.com/thread-1027912-1-1.html
+关于资源分配：
+https://rf.eefocus.com/article/id-333172
+http://sharetechnote.com/,,,,,

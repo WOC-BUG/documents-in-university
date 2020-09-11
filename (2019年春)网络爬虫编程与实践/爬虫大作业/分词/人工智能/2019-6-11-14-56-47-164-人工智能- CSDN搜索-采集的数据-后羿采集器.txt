@@ -1,0 +1,72 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qq_33785671/article/details/52420305/url ,/w 人工智能/n 基础/n ：/w 知识/n 表示/v ，/w 推理/v 方法/n ，/w 机器/np 学习/v 计算机/np 科学/a ，/w 控制论/n ，/w 信息论/n ，/w 神经/n 生理学/n ，/w 心理学/n ，/w 语言学/n rn/n 专家系统/n rn/n 人工智能/n 是/v 模拟/v 人/n 的/u 智能/n 计算机/np 应用/v ：/w 认识/n 和/c 理解/v 世界/n 环境/n 的/u 能力/n ，/w 提出/v 概念/n 建立/v 方法/n 进行/v 演绎/v 和/c 归纳/v 推理/v 做出/v 决策/n 的/u 能力/n ，/w 学习能力/n ，/w 自我/r 适应/v 能/ng rn/n 人工智能/n 的/u 目标/n 是/v 搞清/v 楚/ag 实现/v 人工/b 置/v 鞥/0 的/u 有关/v 原理/n ，/w 是/v 计算机/np 更/d 智慧/n 聪明/a 有用/a rnrnrn/en 人工智能/n 的/u 研究/v 核心/n 为/p 搜索/n 策略/n ：/w rn/en ,/w https://blog.csdn.net/qq_33785671/article/details/52420305/url ,/w ,/w qq/en _/0 33785671/m ,/w 2016-09-02/t ,/w //blog.csdn.net/qq_33785671/article/details/52420305/url ,/w 1750/m 次/a 阅读/v ,/w 人工智能/n -/w From/en 2016/m cxg/en ,/w 2016年09月02日 23:45:38/t ,/w 原/b 人工智能/n
+
+
+
+2016年09月02日 23:45:38/t
+2016/m cxg/en
+阅读/v 数/m ：1751/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/qq_33785671/article/details/52420305/url
+
+
+
+
+人工智能/n 基础/n ：/w 知识/n 表示/v ，/w 推理/v 方法/n ，/w 机器/np 学习/v 计算机/np 科学/a ，/w 控制论/n ，/w 信息论/n ，/w 神经/n 生理学/n ，/w 心理学/n ，/w 语言学/n
+专家系统/n
+人工智能/n 是/v 模拟/v 人/n 的/u 智能/n 计算机/np 应用/v ：/w 认识/n 和/c 理解/v 世界/n 环境/n 的/u 能力/n ，/w 提出/v 概念/n 建立/v 方法/n 进行/v 演绎/v 和/c 归纳/v 推理/v 做出/v 决策/n 的/u 能力/n ，/w 学习能力/n ，/w 自我/r 适应/v 能/ng
+人工智能/n 的/u 目标/n 是/v 搞清/v 楚/ag 实现/v 人工/b 置/v 鞥/0 的/u 有关/v 原理/n ，/w 是/v 计算机/np 更/d 智慧/n 聪明/a 有用/a
+
+人工智能/n 的/u 研究/v 核心/n 为/p 搜索/n 策略/n ：/w
+求/ng 任一/nr 解路/nr ：/w 回溯/v 法/k ，/w 爬山/v 法/k ，/w 宽/a 搜/v ，/w 深/a 搜/v ，/w 限定/v 范围/n 搜索/n ，/w 好/a 的/u 优先/v 法/k
+求/ng 最佳/z 解路/nr ：/w 大英博物馆/nt 法/k ，/w 分支/n 界限/n 法/k ，/w 动态/n 规划法/n ，/w 最佳/z 图/n 索搜法/nr
+求/ng 与/c 或/c 关系/n 解图/nr ：/w 一般/a 与/c 或/c 图/n 搜索/n 法/k ，/w 极小/a 极大/a 法/k ，/w a/en -/w b/n 剪枝/v 法/k ，/w 启发式/b 剪枝/v 法/k
+
+谓词/n 逻辑/n 是/v 人工/b 只能/v 的/u 知识/n 表示/v
+谓词/n 逻辑推理/n 的/u 证明/n 系统/a （/w 归结/n 反演/v 系统/a ）/w
+基于/p 归结/n 法/k 的/u 问答/v 系统/a
+基于/p 归结/n 系统/a 的/u 自动/b 程序/n 结合/v
+基于/p 归结/n 的/u 问题/n 求解/v 猴子/n 摘/v 香蕉/n 问题/n
+基于/p 归结/n 的/u 逆向/b 系统/a
+归结/n 法/k -/w 逆向/b 证明/n 逆反/v 式/k
+人工智能/n 求解/v 的/u 基本/a 方法/n ：/w 图/n 搜索/n 法/k ，/w 分解/v 法/k （/w 规约/n 法/k ）/w ，/w 归结/n 证明/n 法/k  /0  /0 基本/a 的/u 求解/v 系统/a ：/w 产生/v 式/k 系统/a
+规划/n （/w 模拟/v 人/n 的/u 行为/n 思想/n ）/w ：/w 用/ng 目标/n 堆栈/n 制定/v 规划/n ，/w 用/ng 目标/n 集/n 的/u 非线性/b 规划/n 方法/n ，/w 分层/v 规划/n
+GPS系统/n ，/w STRIPS/en 系统/a ，/w ABSTRIPS/en 系统/a ，/w NOAH/en 系统/a ，/w MOLGEN/en 系统/a
+
+人工智能/n 语言/n LISP/en （/w 函数/n 形/ng 语言/n ）/w PLANNER/en （/w 问题/n 求解/v 和/c 定理/n 证明/n 实现/v 正向/b 和/c 逆向/b 推理/v ）/w PEOLOG/en （/w 基于/p 以/p 结尾/n 词/n 的/u 逻辑性/n 程序设计/n 语言/n 自动/b 推理/v 能力/n 和/c 表现/v 能力/n ）/w
+
+专家系统/n 工具/n 开发/v 专家系统/n 的/u 计算机/np 语言/n 骨架/n 型/k 工具/n （/w EMYCIN/en  /0 ART/en 系统/a ）/w 和语言型/nr 工具/n 推理/v 机/np 和/c 规则/a 集/n 专家系统/n 功能/n 的/u 完善/a 和/c 改变/v 只/bg 依赖/v 于/ng 规则/a 集/n 的/u 完善/a 和/c 改变/v 推理/v 机/np 独立/a 系统/a 之外/f
+
+
+人工智能/n 的/u 知识/n 表示/v ：/w
+有/v 表示/v 专门/b 领域/n 知识/n 的/u 能力/n 并/c 保证/v 知识库/n 的/u 知识/n 相容/v ；/w 有/v 从/p 已知/v 知识/n 导出/v 新知/n 识/ng 的/u 能力/n 和/c 建立/v 表达/v 新知/n 识/ng 所/n 需要/n 的/u 新/a 的/u 结构/n ；/w 便于/v 知识/n 获取/v 和/c 输入/v 到/ng 知识库/n ；/w 便于/v 将/d 启发式/b 知识/n 附加/v 到/ng 知识/n 结构/n 中/f 以便/c 把/p 推理/v 集合/n 在/d 最/d 有/v 希望/n 的/u 方向/n 上/f ；/w
+
+结构化/vn 表示/v 方法/n ：/w 单元/n ，/w 语义/n 网络/n ，/w 概念/n 从属/v ，/w 框架/n 和/c 脚本/n
+
+自然语言/n 理解/v ：/w 关键字/n 分析/v （/w 正则/n 表达式/n ）/w ，/w 句法/n 分析/v ，/w 词性/n 结构/n 分析/v  /0 机器翻译/ln
+
+人工智能/n 感知/v ：/w 离散/b 化/k ，/w 平滑/a ，/w 分割/v ，/w 标记/n ，/w 分析/v （/w 语音/n 识别/v ，/w 图像/n 识别/v ）/w
+
+机器/np 学习/v 研究/v 学习/v 过程/n 和/c 建造/v 计算机学习/n 模型/n ，/w 以便/c 实现/v 机器/np 智能/n
+
+机器/np 学习/v （/w 机器/np 训练/v 的/u 过程/n ）/w 是/v 构建/v 学习系统/n -/w 学习/v 策略/n 认知/v 新知/n 识/ng 进行/v 模式/n 识别/v 并/c 改变/v 自身/r 认知/v 结构/n 的/u 系统/a ：/w
+机器/np 学习/v 分类/v ：/w 对/a 提供/v 的/u 信息/n 推理/v 数量/n 多少/r （/w 输入法/n 机器/np 训练/v 学习/v ）/w ，/w 获取/v 知识类/n 型/k （/w 行为/n 规则/a ，/w 物理/n 对象/n 的/u 描述/v ，/w 求解/v 问题/n 的/u 经验/n 知识/n 等/ng ）/w
+
+
+
+///////t 人工智能/n 的/u 核心/n 是/v 搜索/n 策略/n 算法/n 的/u 研究/v -/w 人工智能/n 程序设计/n 语言/n 、/w 人工智能/n 知识/n 表示/v 方法/n ，/w 其他/r 有/v 自然语言/n 的/u 识别/v ，/w 感知/v 系统/a 的/u 建立/v ，/w 机器/np 学习/v 的/u 策略/n ；/w ///////////t
+
+人工智能/n 通过/p 自然语言/n 和/c 自然/a 信息/n 的/u 感知/v 学习/v 提取/v 模式/n 进行/v 机器/np 学习/v （/w 算法/n 设计/v 搜索/n 策略/n ）/w ，/w 解决/v 证明/n 系统/a ，/w 问答/v 系统/a ，/w 专家系统/n 问题/n

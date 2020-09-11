@@ -1,0 +1,82 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en NR/en ,/w /0 NR/n 是/v 个/q 复杂/a 的话/u 题/n ，/w 因为/c 它/r 涉及/v 一/m 种/ng 基于/p 正交/b 频/ag 分/b 复用/v (/w OFDM/en )/w 的/u 新/a 无线/b 标准/a 。/w OFDM/n 指/ng 的/u 是/v 一/m 种/ng “/w 数字/n 多/a 载波/n 调制/v 方法/n ”/w 。/w 随着/p 3/m GPP/en 采用/v 这/r 一/m 标准/a 之后/f ，/w NR/n 这/r 一/m 术语/n 被/ng 沿用/v 下来/v ，/w 正如/p 用/ng LTE/en (/w 长期/n 演进/v )/w 描述/v 4G/n 无线/b 标准/a 一样/a 。/w nNR/en 需要/n 使用/v LTE/en 以外/f 的/u 新/a 无线电/n 接入/v 技术/n (/w RAT/en )/w —/w 它/r 必须/d 足够/v 灵活/a ，/w 以/p 支持/v 从小/d 于/ng 6/m GHz/q 到/ng 高达/v 100/m GHz/q 的/u 毫米波/n (/w mmWave/en )/w 频段/n 的/u 更/d 宽/a 范围/n 的/u 频带/n 。/w NR/n 已经/d 选择/n 了/dg 基于/p OFDM.../url ,/w Autumn/en _/0 He/en ,/w https://blog.csdn.net/Autumn_He/article/details/81315596/url ,/w 2018-07-31/t ,/w 1170/m 次/a 阅读/v ,/w 5/m G/en NR/en -/w Autumn/en _/0 He/n 的/u 博客/n ,/w 2018年07月31日 16:18:10/t ,/w /0 NR/n 是/v 个/q 复杂/a 的话/u 题/n ，/w 因为/c 它/r 涉及/v 一/m 种/ng 基于/p 正交/b 频/ag 分/b 复用/v (/w OFDM/en )/w 的/u 新/a 无线/b 标准/a 。/w OFDM/n 指/ng 的/u 是/v 一/m 种/ng “/w 数字/n 多/a 载波/n 调制/v 方法/n ”/w 。/w 随着/p 3/m GPP/en 采用/v 这/r 一/m 标准/a 之后/f ，/w NR/n 这/r 一/m 术语/n 被/ng 沿用/v 下来/v ，/w 正如/p 用/ng LTE/en (/w 长期/n 演进/v )/w 描述/v 4G/n 无线/b 标准/a 一样/a 。/w
+NR/n 需要/n 使用/v LTE/en 以外/f 的/u 新/a 无线电/n 接入/v 技术/n (/w RAT/en )/w —/w 它/r 必须/d 足够/v 灵活/a ，/w 以/p 支持/v 从小/d 于/ng 6/m GHz/q 到/ng 高达/v 100/m GHz/q 的/u 毫米波/n (/w mmWave/en )/w 频段/n 的/u 更/d 宽/a 范围/n 的/u 频带/n 。/w NR/n 已经/d 选择/n 了/dg 基于/p OFDM/n 的/u 统一/a 且/c 更/d 有/v 能力/n 的/u 空中/s 接口/n 完成/v 以后/f 的/u 任务/n 。/w
+
+在/d 聆听/v 了/dg 今年/t 由/p NYU/en WIRELESS/en （/w 纽约大学/nt 专注/a 于/ng 5/m G/en mmWave/en 研究/v 的/u 一个/mq 机构/n ）/w 和诺基亚/nr 共同/b 主办/v 的/u 、/w 在/d 布鲁克林/nz 纽约大学/nt （/w Tandon/en ）/w 工学院/nc 举行/v 的/u 5/m G/m 高峰论坛/nh 上/f 的/u 许多/mq 优秀/a 的/u 5/m G/m 技术/n 演讲/v 后/f ，/w 我/r 注意/v 到/ng 5/m G/en NR/n 这个/r 术语/n 。/w 你/r 可能/a 还/d 不/d 熟悉/v 5/m G/en NR/n ，/w 它/r 指/ng 的/u 是/v 5/m G/m 新/a 无线电/n （/w New/en Radio/en ）/w 。/w 高通公司/nt （/w Qualcomm/en ）/w 评论/n 说/ag ，/w NR/n 是/v 个/q 复杂/a 的话/u 题/n ，/w 因为/c 它/r 涉及/v 一/m 种/ng 基于/p 正交/b 频/ag 分/b 复用/v （/w OFDM/n ）/w 的/u 新/a 无线/b 标准/a 。/w
+
+
+图/n 1/m ：/w 5/m G/m 无线电/n 接入/v 架构/n 由/p LTE/en Evolution/en 和/c New/en Radio/en Access/en Technology/en （/w 新/a 无线电/n 接入/v 技术/n ，/w NR/n ）/w 组成/v ，/w NR/n 工作/n 在/d 1/m GHz/q 到/ng 100/m GHz/q ，/w 不/d 后/f 向/p 兼容/v LTE/en 。/w
+
+OFDM/n 指/ng 的/u 是/v 一/m 种/ng “/w 数字/n 多/a 载波/n 调制/v 方法/n ”/w ，/w 其中/r “/w 使用/v 大量/mq 间隔/n 紧密/a 的/u 正交/b 子/k 载波/n 信号/n 在/d 几/m 个/q 并行/v 数据流/n 或/c 信道/n 上传/v 输/v 数据/n ”/w 。/w 随着/p 3/m GPP/en 采用/v 这/r 一/m 标准/a 之后/f ，/w NR/n 这/r 一/m 术语/n 被/ng 沿用/v 下来/v ，/w 正如/p 用/ng LTE/en （/w long/en term/en evolution/en ，/w 长期/n 演进/v ）/w 描述/v 4G/n 无线/b 标准/a 一样/a 。/w
+
+NR/n 需要/n 使用/v LTE/en 以外/f 的/u 新/a 无线电/n 接入/v 技术/n （/w RAT/en ，/w Radio/en Access/en Technology/en ）/w ——/w 它/r 必须/d 足够/v 灵活/a ，/w 以/p 支持/v 从小/d 于/ng 6/m GHz/q 到/ng 高达/v 100/m GHz/q 的/u 毫米波/n （/w mmWave/en ）/w 频段/n 的/u 更/d 宽/a 范围/n 的/u 频带/n 。/w NR/n 已经/d 选择/n 了/dg 基于/p OFDM/n 的/u 统一/a 且/c 更/d 有/v 能力/n 的/u 空中/s 接口/n 完成/v 以后/f 的/u 任务/n 。/w
+
+OFDM/n 是/v 一/m 种/ng 定义/n 很/d 好/a 且/c 广为人知/l 的/u 波形/n 设计/v 原理/n 。/w 4G/n （/w LTE/en 及其/c 目前/t 为止/u 的/u 演进/v ）/w 和/c IEEE/en 802.11/m （/w WiFi/n ）/w 都/d 使用/v OFDM/n 作为/n 无线/b 发送/v 数据/n 的/u 基本/a 信号/n 格式/n 。/w 基本上/d ，/w OFDM/n 使用/v 大量/mq 并行/v 窄带/n 子/k 载波/n 而/c 不是/n 单个/b 宽带/n 载波/n 来/u 传输/v 信息/n 。/w
+
+图/n 2/m 是/v 高通公司/nt 高级/a 副总/b 裁/ng Durga/en Malladi/en 在/d 2017年/t 布鲁克林/nz 5/m G/m 峰会/nh 给出/v 的/u 实施/v 时间表/n 。/w
+
+
+图/n 2/m ：/w 5/m G/en NR/n 正/a 加速/v 成为/v 5/m G/m 的/u 全球/n 标准/a （/w 图/n 由/p Qualcomm/en 提供/v ）/w
+
+为什么/r 选/ng OFDM/n ？/w
+
+选择/n OFDM/n 的/u 一些/mq 原因/n 如下/v ：/w
+
+•/0 OFDM/n 是/v 一/m 种/ng 对接/v 收/v 器/k 复杂度/n 要求/n 更/d 低/a 的/u 可缩/nz 放/v 波形/n
+
+•/0 OFDM/n 的/u 框架/n 对/a MIMO/en 空间/n 复用/v 更加/d 有效/a ，/w 这/r 意味着/v 频谱/n 效率/n 更/d 高/a
+
+•/0 OFDM/n 允许/v 诸如/v 加/ng 窗/ng //w 滤波/v 等/ng 强化/v ，/w 以便/c 增强/v 本地化/v
+
+•/0 SC/en -/w FDM/en //w SC/en -/w FDMA/n 非常/b 适合/v 用于/v 宏基/nz 站/ny 部署/v 中/f 的/u 上行/v 链路/n 传输/v
+
+5/m G/m 面临/v 的/u 挑战/v 拓展/v 了/dg 通信技术/n 的/u 局限/v ，/w 为了/p 满足/a 5/m G/en NR/n 积极/a 的/u 进度/n 预期/b 和/c 技术/n 诉求/n ，/w 标准/a 机构/n 和/c 设计人/n 员/k 需要/n 竭尽所能/l 最/d 充分/a 地利/n 用/ng 好/a 计划/n 用于/v 5/m G/m 空中/s 接口/n 的/u 各/r 频谱/n 资源/n 。/w
+
+3/m GPP/en 专注/a 于/ng 三个/n 关键/a 的/u 5/m G/m 用/ng 例/n ：/w
+
+1./m 增强/v 移动/v 宽带/n （/w eMBB/en ）/w ；/w
+
+2./m 大规模/b 机器/np 通信/v （/w mMTC/en ）/w ；/w
+
+3./m 超/h 可靠/a 低/a 延迟/v 通信/v （/w URLLC/en ）/w 。/w
+
+对于/p 诸如/v 面向/v eMBB/en 的/u 更/d 高/a 的/u 网络/n 容量/n 和/c 更/d 高/a 的/u 峰值/n 数据/n 速率/n 、/w 面向/v mMTC/en 的/u 连接/v 密度/n 和/c 能量/n 效率/n 以及/c 面向/v URLLC/en 的/u 高/a 可靠性/n 和/c 低/a 延迟/v 特性/n 等/ng 情况/n 的/u 优先级/n 来说/u ，/w 具有/v 重要/a 的/u 关键/a 绩效/n 指标/n （/w KPI/en ）/w 。/w
+
+采用/v 的/u 波形/n
+
+华为/nz 研究员/nx 朱培英/nr 博士/nx 评论/n 说/ag ，/w 选择/n 基于/p 循环/v 前缀/n 的/u OFDM/n （/w CP/en -/w OFDM/n ）/w 波形/n 可以/a 实现/v 比/p LTE/en 更好/d 的/u 频谱/n 约束/v （/w 滤波/v 或/c 加/ng 窗/ng ）/w 。/w 下行/v 链路/n （/w DL/n ）/w 和/c 上行/v 链路/n （/w UL/en ）/w 具有/v 对称/a 波形/n ，/w 并且/c 对于/p UL/en 具有/v 互补/v DFT/en -/w OFDM/n ，/w 仅/d 有/v 一个/mq 数据流/n （/w 图/n 3/m ）/w 。/w
+
+
+图/n 3/m ：/w 5/m G/en NR/n 采用/v 的/u 波形/n （/w 华为/nz 提供/v ）/w
+
+比较/d OFDM/n 与/c 目前/t 的/u LTE/en ，/w 我们/r 发现/v OFDM/n 中/f 具有/v 更好/d 的/u 可扩展性/n 可以/a 实现/v 低/a 得/e 多/a 的/u 延迟/v ——/w 其/r 往返/v 时间/n （/w RTT/n ）/w 比/p 当今/t 的/u LTE/en 低/a 一个/mq 数量级/n 。/w OFDM/n 具有/v 自/d 包含/v 的/u TDD/n 子/k 帧/q 设计/v ，/w 能够/v 实现/v 更快/n 更/d 灵活/a 的/u TDD/n 切换/v 和/c 换向/v ，/w 同时/c 支持/v 新/a 的/u 部署/v 场景/n （/w 图/n 4/m ）/w 。/w
+
+
+图/n 4/m ：/w 对/a TDD/n 切换/v 和/c 换向/v 来说/u ，/w OFDM/n 的/u 自/d 包含/v TDD/n 子/k 帧/q 设计/v 比/p LTE/en 的/u 8/m 个/q HARQ/en 接口/n 更快/n 、/w 更/d 灵活/a 。/w
+
+可调/nz 整/a 性/k
+
+与/c 目前/t 的/u LTE/en 相比/v ，/w OFDM/n 的/u 延迟/v 可以/a 被/ng 调整/v 到/ng 短/a 得/e 多/a （/w 图/n 5/m ）/w 。/w
+
+
+图/n 5/m ：/w 相比/v LTE/en 的/u 8/m 个/q HARQ/en 接口/n ，/w OFDM/n 更/d 容易/a 调整/v 到/ng 更/d 低/a 延迟/v 。/w
+
+5/m G/m 必须/d 具有/v 前/f 向/p 兼容性/n ，/w 以便/c 我们/r 能够/v 在/d 将来/t 灵活/a 地/n 逐步/d 实现/v 新/a 的/u 功能/n 和服/n 务/dg 。/w 5/m G/en NR/n 必须/d 具有/v 足够/v 的/u 可调/nz 整/a 性/k 才能/v 满足/a 不同/a 的/u 服务/v 和/c 设备/n 的/u 要求/n 。/w 它们/r 包括/v 大规模/b 物联网/n 、/w 关键/a 任务/n 控制/v 和/c 增强/v 移动/v 宽带/n 。/w 参见/v 以下/f 频段/n 分配/v 示例/n 。/w
+
+低频/b 段/n
+
+600/m MHz/q 、/w 700/m MHz/q 和/c 850/900/t MHz/q 等/ng 频段/n 是/v 分配/v 在/d 1/m GHz/q 的/u 低频/b 段/n 区域/n 。/w 这些/r 频段/n 通常/b 用于/v 更/d 长/a 的/u 距离/n ，/w 例如/v 大规模/b IoT/en （/w 如/c 爱立信/nz 为/p AT&T/n 提供/v 的/u 每个/r 蜂窝/n 基站/n 具有/v 数百万/m 个/q 连接/v 的/u 大规模/b IoT/en ）/w 和/c 移动/v 宽带/n 。/w
+
+中频/b 段/n
+
+中频/b 段/n 区域/n 为/p 1/m GHz/q 至/d 6/m GHz/q ，/w 例如/v 3.4-3.8/t GHz/q 、/w 3.8-4.2/t GHz/q 和/c 4.4-4.9/t GHz/q 等/ng 频段/n 。/w 这些/r 频段/n 通常/b 用于/v 诸如/v 关键/a 任务/n 应用/v 和/c eMBB/en 等/ng 。/w
+
+高频/b 段/n
+
+高频/b 段/n 区域/n 在/d 24/m GHz/q （/w mmWave/en ）/w 以上/f ，/w 这些/r 频段/n 专用/v 于/ng “/w 极端/a 带宽/n ”/w ，/w 如/c 24.25-27.5/t GHz/q 、/w 27.5-29.5/t GHz/q 、/w 37-40/t GHz/q 和/c 64-71/t GHz/q 。/w
+
+我们/r 需要/n 开发/v 新技术/n 以/p 满足/a 5/m G/en NR/n 的/u 要求/n 。/w
+
+/0
+
+文章/n 出处/n ：https://www.ednchina.com/news/20170623-5G-NR.html/url ,/w ,/w ,/w ,/w ,/w

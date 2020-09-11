@@ -1,0 +1,167 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 和/c 电动车/np 推动/v ，/w 化合物/n 半导体/n 大有可为/iv ,/w 半导体/n 材料/n 可/v 分为/v 单质/n 半导体/n 及/c 化合物/n 半导体/n 两/m 类/n ，/w 前者/r 如/c 硅/n （/w Si/n ）/w 、/w 锗/n (/w Ge/n ）/w 等/ng 所/n 形成/v 的/u 半导体/n ，/w 后者/r 为/p 砷化镓/n （/w GaAs/en ）/w 、/w 氮化镓/n （/w GaN/en ）/w 、/w 碳化硅/n （/w SiC/en ）/w 等/ng 化合物/n 形成/v 。/w 半导体/n 在/d 过去/t 主要/b 经历/n 了/dg 三代/nz 变化/v 。/w 砷化镓/n （/w GaAs/en ）/w 、/w 氮化镓/n （/w GaN/en ）/w 和/c 碳化硅/n （/w SiC/en ）/w 半导体/n 分别/d 作为/n 第二/m 代/n 和/c 第三/m 代/n 半导体/n 的/u 代表/nx ，/w 相比/v 第一/m 代/n 半导体/n 高频/b 性能/n 、/w 高温/n 性能/n 优异/a 很多/mq ，/w 制造/v 成本/n 更为/d 高昂/a ，/w 可谓/v 是/v 半导体/n 中/f 的/u 新贵/n 。/w nnnn/en 三大/n 化合物/n 半/m 导/vg .../m ,/w yihuliunian/en ,/w https://blog.csdn.net/yihuliunian/article/details/89958879/url ,/w 2019-05-08/t ,/w 172/m 次/a 阅读/v ,/w 5/m G/m 和/c 电动车/np 推动/v ，/w 化合物/n 半导体/n 大有可为/iv -/w yihuliunian/en 的/u 博客/n ,/w 2019年05月08日 16:16:12/t ,/w 半导体/n 材料/n 可/v 分为/v 单质/n 半导体/n 及/c 化合物/n 半导体/n 两/m 类/n ，/w 前者/r 如/c 硅/n （/w Si/n ）/w 、/w 锗/n (/w Ge/n ）/w 等/ng 所/n 形成/v 的/u 半导体/n ，/w 后者/r 为/p 砷化镓/n （/w GaAs/en ）/w 、/w 氮化镓/n （/w GaN/en ）/w 、/w 碳化硅/n （/w SiC/en ）/w 等/ng 化合物/n 形成/v 。/w 半导体/n 在/d 过去/t 主要/b 经历/n 了/dg 三代/nz 变化/v 。/w 砷化镓/n （/w GaAs/en ）/w 、/w 氮化镓/n （/w GaN/en ）/w 和/c 碳化硅/n （/w SiC/en ）/w 半导体/n 分别/d 作为/n 第二/m 代/n 和/c 第三/m 代/n 半导体/n 的/u 代表/nx ，/w 相比/v 第一/m 代/n 半导体/n 高频/b 性能/n 、/w 高温/n 性能/n 优异/a 很多/mq ，/w 制造/v 成本/n 更为/d 高昂/a ，/w 可谓/v 是/v 半导体/n 中/f 的/u 新贵/n 。/w
+
+
+
+三大/n 化合物/n 半导体/n 材料/n 中/f ，/w GaAs/en 占/ng 大头/n ，/w 主要/b 用于/v 通讯/n 领域/n ，/w 全球/n 市场/ny 容量/n 接近/v 百亿/m 美元/n ，/w 主要/b 受益/v 通信/v 射频/n 芯片/n 尤其/d 是/v PA/n 升级/v 驱动/v ；/w GaN/en 大功率/b 、/w 高频/b 性能/n 更/d 出色/a ，/w 主要/b 应用/v 于/ng 军事/n 领域/n ，/w 目前/t 市场/ny 容量/n 不到/v 10亿/m 美元/n ，/w 随着/p 成本/n 下降/v 有望/v 迎来/v 广泛/a 应用/v ；/w SiC/en 主要/b 作为/n 高功率/n 半导体/n 材料/n 应用/v 于/ng 汽车/np 以及/c 工业/n 电力/n 电子/n ，/w 在/d 大功率/b 转换/v 应用/v 中/f 具有/v 巨大/a 的/u 优势/n 。/w
+
+
+
+超越/v 摩/n 尔/rg ：/w 光学/n 、/w 射频/n 、/w 功率/n 等/ng 模拟/v IC/n 持续/v 发展/v
+
+摩/n 尔/rg 定律/n 放缓/v ，/w 集成电路/n 发展/v 分化/v 。/w 现在/t 集成电路/n 的/u 发展/v 主要/b 有/v 两个/n 反向/b ：/w More/en Moore/en （/w 深度/n 摩/n 尔/rg ）/w 和/c More/en than/en Moore/en （/w 超越/v 摩/n 尔/rg ）/w 。/w 摩/n 尔/rg 定律/n 是/v 指/ng 集成电路/n 大概/b 18/m 个/q 月/n 的/u 时间/n 里/f ，/w 在/d 同样/b 的/u 面积/n 上/f ，/w 晶体管/n 数量/n 会/n 增加/v 一/m 倍/d ，/w 但是/c 价格/n 下降/v 一半/m 。/w 但是/c 在/d 28/m nm/n 时/n 遇到/v 了/dg 阻碍/n ，/w 其/r 晶体管/n 数量/n 虽然/c 增加/v 一/m 倍/d ，/w 但是/c 价格/n 没有/d 下降/v 一半/m 。/w More/en Moore/en （/w 深度/n 摩/n 尔/rg ）/w 是/v 指/ng 继续/v 提升/v 制程/n 节点/n 技术/n ，/w 进入/v 后/f 摩/n 尔/rg 时期/n 。/w 与此同时/ldm ，/w More/en than/en Moore/en （/w 超越/v 摩/n 尔/rg ）/w 被/ng 人们/n 提出/v ，/w 此/r 方案/n 以/p 实现/v 更多/n 应用/v 为/p 导向/n ，/w 专注/a 于/ng 在/d 单片/b IC/n 上/f 加入/v 越来越/d 多/a 的/u 功能/n 。/w
+
+
+
+模拟/v IC/n 更/d 适合/v 在/d More/en than/en Moore/en （/w 超越/v 摩/n 尔/rg ）/w 道路/n 。/w 先进/a 制程/n 与/c 高/a 集成度/n 可以使/n 数字/n IC/n 具有/v 更好/d 的/u 性能/n 和/c 更/d 低/a 的/u 成本/n ，/w 但是/c 这不/l 适用/a 于/ng 模拟/v IC/n 。/w 射频/n 电路/n 等/ng 模拟/v 电路/n 往往/d 需要/n 使用/v 大/a 尺寸/n 电感/n ，/w 先进/a 制程/n 的/u 集成度/n 影响/v 并/c 不大/n ，/w 同时/c 还/d 会/n 使得/v 成本/n 升高/v ；/w 先进/a 制程/n 往往/d 用于/v 低/a 功耗/n 环境/n ，/w 但是/c 射频/n 、/w 电源/n 等/ng 模拟/v IC/n 会/n 用于/v 高频/b 、/w 高/a 功耗/n 领域/n ，/w 先进/a 制程/n 对/a 性能/n 甚至/c 有/v 负面/b 影响/v ；/w 低/a 电源/n 和/c 电压/n 下/f 模拟/v 电路/n 的/u 线性/n 度/k 也/d 难以/d 保证/v 。/w PA/n 主要/b 技术/n 是/v GaAs/en ，/w 而/c 开关/n 主要/b 技术/n 是/v SOI/n ，/w More/en than/en Moore/en （/w 超越/v 摩/n 尔/rg ）/w 可以/a 实现/v 使用/v 不同/a 技术/n 和/c 工艺/n 的/u 组合/n ，/w 为/p 模拟/v IC/n 的/u 进一步/d 发展/v 提供/v 了/dg 道路/n 。/w
+
+第三/m 代/n 半导体/n 适应/v 更多/n 应用/v 场景/n 。/w 硅基/n 半导体/n 具有/v 耐高温/nz 、/w 抗辐射/nz 性能/n 好/a 、/w 制作方/n 便/ag 、/w 稳定性/n 好/a 。/w 可靠/a 度/k 高等/b 特点/n ，/w 使得/v 99%/m 以上/f 集成电路/n 都/d 是以/c 硅/n 为/p 材料/n 制作/v 的/u 。/w 但是/c 硅基/n 半导体/n 不适/a 合/ng 在/d 高频/b 、/w 高功率/n 领域/n 使用/v 。/w 2G/n 、/w 3/m G/en 和/c 4G/n 等/ng 时代/n PA/n 主要/b 材料/n 是/v GaAs/en ，/w 但是/c 进入/v 5/m G/m 时代/n 以后/f ，/w 主要/b 材料/n 是/v GaN/en 。/w 5/m G/m 的/u 频率/n 较/d 高，其/nr 跳跃式/b 的/u 反射/v 特性/n 使/ng 其/r 传输/v 距离/n 较/d 短/a 。/w 由于/c 毫米波/n 对于/p 功率/n 的/u 要求/n 非常/b 高，而/nr GaN/en 具有/v 体积小/n 功率/n 大/a 的/u 特性/n ，/w 是/v 目前/t 最/d 适合/v 5/m G/m 时代/n 的/u PA/n 材料/n 。/w SiC/en 和/c GaN/en 等/ng 第三/m 代/n 半导体/n 将/d 更/d 能/ng 适应/v 未来/t 的/u 应用/v 需求/n 。/w
+
+
+
+模拟/v IC/n 关注/v 电压/n 电流/n 控制/v 、/w 失真/v 率/ag 、/w 功耗/n 、/w 可靠性/n 和/c 稳定性/n ，/w 设计者/n 需要/n 考虑/v 各种/r 元器件/n 对/a 模拟/v 电路/n 性能/n 的/u 影响/v ，/w 设计/v 难度/n 较/d 高/a 。/w 数字/n 电路/n 追求/v 运算/v 速度/n 与/c 成本/n ，/w 多采/a 用/ng CMOS/n 工艺/n ，/w 多年来/n 一直/d 沿着/p 摩/n 尔/rg 定律/n 发展/v ，/w 不断/d 采用/v 地/n 更/d 高效率/n 的/u 算法/n 来/u 处理/v 数字/n 信号/n ，/w 或者/c 利用/v 新工艺/n 提高/v 集成度/n 降低/v 成本/n 。/w 而/c 过/d 高/a 的/u 工艺/n 节点/n 技术/n 往往/d 不利于/v 实现/v 模拟/v IC/n 实现/v 低/a 失真/v 和/c 高/a 信噪比/n 或者/c 输出/v 高/a 电压/n 或者/c 大/a 电流/n 来/u 驱动/v 其他/r 元件/n 的/u 要求/n ，/w 因此/c 模拟/v IC/n 对/a 节点/n 演进/v 需求/n 相对/b 较/d 低/a 远大/a 于/ng 数字/n IC/n 。/w 模拟/v 芯片/n 的/u 生命/n 周期/n 也/d 较/d 长/a ，/w 一般/a 长达/v 10/m 年/n 及/c 以上/f ，/w 如/c 仙童公司/nt 在/d 1968年/t 推出/v 的/u 运/ng 放/v μ/0 A/en 741/m 卖/v 了/dg 近/a 五十/m 年/n 还有/v 客户/n 在用/b 。/w
+
+
+
+目前/t 数字/n IC/n 多采/a 用/ng CMOS/n 工艺/n ，/w 而/c 模拟/v IC/n 采用/v 的/u 工艺/n 种类/n 较/d 多/a ，/w 不/d 受/v 摩/n 尔/rg 定律/n 束缚/v 。/w 模拟/v IC/n 的/u 制造/v 工艺/n 有/v Bipolar/en 工艺/n 、/w CMOS/n 工艺/n 和/c BiCMOS/en 工艺/n 。/w 在/d 高频/b 领域/n ，/w SiGe/en 工艺/n 、/w GaAs/en 工艺/n 和/c SOI/n 工艺/n 还/d 可以/a 与/c Bipolar/en 和/c BiCMOS/en 工艺/n 结合/v ，/w 实现/v 更/d 优异/a 的/u 性能/n 。/w 而/c 在/d 功率/n 领域/n ，/w SOI/n 工艺/n 和/c BCD/en （/w BiCMOS/en 基础/n 上集/n 成/ng DMOS/en 等/ng 功率/n 器件/n ）/w 工艺/n 也/d 有/v 更好/d 的/u 表现/v 。/w 模拟/v IC/n 应用/v 广泛/a ，/w 使用/v 环节/n 也/d 各/r 不/d 相同/a ，/w 因此/c 制造/v 工艺/n 也/d 会/n 相应/v 变化/v 。/w
+
+
+
+砷化镓/n （/w GaAs/en ）/w ：/w 无线通信/ln 核心/n 材料/n ，/w 受益/v 5/m G/m 大/a 趋势/n
+
+相较/v 于/ng 第一/m 代硅/nr 半导体/n ，/w 砷化镓/n 具有/v 高频/b 、/w 抗辐射/nz 、/w 耐高温/nz 的/u 特性/n ，/w 因此/c 广泛/a 应用/v 在/d 主流/n 的/u 商用/b 无线通信/ln 、/w 光通讯/n 以及/c 国防军/nc 工用/nz 途/ng 上/f 。/w 无线通信/ln 的/u 普及/a 与/c 硅/n 在/d 高频/b 特性/n 上/f 的/u 限制/v 共同/b 催生/v 砷化镓/n 材料/n 脱颖而出/iv ，/w 在/d 无线通讯/n 领域/n 得到/v 大规模/b 应用/v 。/w
+
+基带/n 和/c 射频/n 模块/n 是/v 完成/v 3/4/5/t G/m 蜂窝/n 通讯/n 功能/n 的/u 核心/n 部件/n 。/w 射频/n 模块/n 一般/a 由/p 收发器/nz 和前端/nr 模组/n （/w PA/n 、/w Switch/en 、/w Filter/en ）/w 组成/v 。/w 其中/r 砷化镓/n 目前/t 已经/d 成为/v PA/n 和/c Switch/en 的/u 主流/n 材料/n 。/w
+
+4/m G/en //w 5/m G/m 频段/n 持续/v 提升/v ，/w 驱动/v PA/n 用量/n 增长/v 。/w 由于/c 单颗/nr PA/n 芯片/n 仅能/nz 处理/v 固定/a 频段/n 的/u 信号/n ，/w 所以/c 蜂窝/n 通讯/n 频段/n 的/u 增加/v 会/n 显/v 着/n 提升/v 智能/n 手机/np 单机/n PA/n 消耗量/n 。/w 随着/p 4G/n 通讯/n 的/u 普及/a ，/w 移动通讯/n 的/u 频段/n 由/p 2010年/t 的/u 6/m 个/q 急速/z 扩张/v 到/ng 43/m 个/q ，/w 5/m G/m 时代/n 更/d 有/v 有望/v 提升/v 至/d 60/m 以上/f 。/w 目前/t 主流/n 4G/n 通信/v 采用/v 5/m 频/ag 13/m 模/ng ，/w 平均/a 使用/v 7/m 颗/q PA/n ，/w 4/m 个/q 射频/n 开关器/nz 。/w
+
+
+
+目前/t 砷化镓/n 龙头企业/n 仍/ag 以/p IDM/en 模式/n 为主/v ，/w 包括/v 美国/ns Skyworks/en 、/w Qorvo/en 、/w Broadcom/en //w Avago/en 、/w Cree/en 、/w 德国/ns Infineon/en 等/ng 。/w 同时/c 我们/r 也/d 注意/v 到/ng 产业发展/n 模式/n 开始/v 逐渐/d 由/p IDM/en 模式/n 转为/v 设计/v +/0 代工/v 生产/v ，/w 典型/a 事件/n 为/p 代工/v 比例/n 持续/v 提升/v 、/w avago/en 去年/t 将/d 科罗拉多/n 厂/nc 出售/v 给/v 稳/a 懋/ag 等/ng 。/w 我们/r 认为/v GaAs/en 衬底/n 和/c 器件/n 技术/n 不断/d 成熟/a 和/c 标准化/v ，/w 产品/n 多样化/v 、/w 器件/n 设计/v 的/u 价值/n 显/v 着/n ，/w 设计/v +/0 制造/v 的/u 分工/v 模式/n 开始/v 增加/v 。/w
+
+从/p Yole/en Development/en 等/ng 第三方/n 研究机构/n 估算/v 来看/u ，/w 2017年/t 全球/n 用于/v PA/n 的/u GaAs/en 器件/n 市场/ny 规模/n 达到/v 80-90亿/t 美元/n ，/w 大部分/n 的/u 市场/ny 份额/n 集中/a 于/ng Skyworks/en 、/w Qorvo/en 、/w Avago/en 三大/n 巨头/n 。/w 预计/v 随着/p 通信/v 升级/v 未来/t 两/m 年/n 有望/v 正式/a 超过/v 100亿/m 美元/n 。/w
+
+
+
+同时/c 应用/v 市场/ny 决定/n 无需/v 60/m nm/n 线/n 宽/a 以下/f 先进/a 制程/n 工艺/n ，/w 不/d 追求/v 最先/d 进制/n 程/ng 工艺/n 是/v 另外/c 一个/mq 特点/n 。/w 化合物/n 半导体/n 面向/v 射频/n 、/w 高/a 电压/n 大功率/b 、/w 光电子/n 等/ng 领域/n ，/w 无需/v 先进/a 工艺/n 。/w GaAs/en 和/c GaN/en 器件/n 以/p 0.13/m 、/w 0.18/m μ/0 m/n 以上/f 工艺/n 为主/v 。/w Qorvo/en 正在/n 进行/v 90/m nm/n 工艺/n 研发/v 。/w 此外/c 由于/c 受/v GaAs/en 和/c SiC/en 衬底/n 尺寸/n 限制/v ，/w 目前/t 生产线/n 基本/a 全/a 为/p 4/m 英寸/q 和/c 6/m 英寸/q 。/w 以/p Qorvo/en 为/p 例/n ，/w 我们/r 统计/v 下来/v 氮化镓/n 制程/n 基本/a 线/n 宽/a 在/d 0.25-0.50/t um/en ，/w 生产线/n 以/p 4/m 英寸/q 为主/v 。/w
+
+
+
+氮化镓/n &/0 碳化硅/n ：/w 高压/n 高频/b 优势/n 显/v 着/n
+
+氮化镓/n (/w GaN/en )/w 和/c 碳化硅/n (/w SiC/en )/w 并称/v 为/p 第三/m 代/n 半导体/n 材料/n 的/u 双雄/n ，/w 由于/c 性能/n 不同/a ，/w 二者/r 的/u 应用领域/n 也/d 不/d 相同/a 。/w 由于/c 氮化镓/n 具有/v 禁/ng 带宽/n 度/k 大/a 、/w 击穿/v 电场/n 高/a 、/w 饱和/v 电子/n 速率/n 大/a 、/w 热导率/n 高/a 、/w 化学性质/ln 稳定/a 和/c 抗辐射/nz 能力/n 强/a 等/ng 优点/n ，/w 成为/v 高温/n 、/w 高频/b 、/w 大功率/b 微波器件/n 的/u 首选/v 材料/n 之一/r 。/w
+
+
+
+氮化镓/n ：/w 5/m G/m 时代/n 来临/v ，/w 射频/n 应用/v 前景/n 广阔/a
+
+目前/t 氮化镓/n 器件/n 有/v 三分/t 之二/r 应用/v 于/ng 军工/n 电子/n ，/w 如/c 军事/n 通讯/n 、/w 电子/n 干扰/v 、/w 雷达/n 等/ng 领域/n ；/w 在/d 民用/b 领域/n ，/w 氮化镓/n 主要/b 被/ng 应用/v 于通讯/nr 基站/n 、/w 功率/n 器件/n 等/ng 领域/n 。/w 氮化镓/n 基站/n PA/n 的/u 功放/n 效率/n 较/d 其他/r 材料/n 更/d 高/a ，/w 因而/c 能/ng 节省/v 大量/mq 电能/n ，/w 且/c 其/r 可以/a 几乎/d 覆盖/v 无线通讯/n 的/u 所有/b 频段/n ，/w 功率/n 密度/n 大/a ，/w 能够/v 减少/v 基站/n 体积/n 和/c 质量/n 。/w
+
+
+
+特色/n 工艺/n 代工厂/n 崛起/v ，/w 分工/v 大势所趋/iv 。/w 全球/n 半导体/n 分为/v IDM/en (/w Integrated/en Device/en Manufacture/en ，/w 集成电路/n 制造/v )/w 模式/n 和/c 垂直/v 分工/v 模式/n 两/m 种/ng 商业/n 模式/n ，/w 老牌/b 大厂/n 由于/c 历史/n 原因/n ，/w 多/a 为/p IDM/en 模式/n 。/w 随着/p 集成电路/n 技术/n 演进/v ，/w 摩/n 尔/rg 定律/n 逼近/v 极限/n ，/w 各/r 环节/n 技术/n 、/w 资金/n 壁垒/n 日渐/d 提高/v ，/w 传统/a IDM/en 模式/n 弊端/n 凸显/v ，/w 新锐/a 厂商/n 多/a 选择/n Fabless/en （/w 无/v 晶圆厂/n ）/w 模式/n ，/w 轻装/n 追赶/v 。/w 同时/c 英飞凌/nr 、/w TI/en 、/w AMD/n 等/ng 老牌/b 大厂/n 也/d 逐渐/d 将/d 全部/mq 或/c 部分/n 制造/v 、/w 封/ng 测/v 环节/n 外包/v ，/w 转向/v Fab/en -/w Lite/en （/w 轻/a 晶圆厂/n ）/w 甚至/c Fabless/en 模式/n 。/w
+
+
+
+氮化镓/n 射频/n 器件/n 高速/b 成长/v ，/w 复合/v 增速/n 23%/m ，/w 下游/s 市场/ny 结构/n 整体/n 保持/v 稳定/a 。/w 研究机构/n Yole/en Development/en 数据/n 显示/v ，/w 2017年/t 氮化镓/n 射频/n 市场/ny 规模/n 为/p 3.8亿/m 美元/n ，/w 将于/n 2023年/t 增长/v 至/d 13亿/m 美元/n ，/w 复合/v 增速/n 为/p 22.9%/m 。/w 下游/s 应用/v 结构/n 整体/n 保持/v 稳定/a ，/w 以/p 通讯/n 与/c 军工/n 为主/v ，/w 二者/r 合计/v 占比/n 约/d 为/p 80%/m 。/w
+
+
+
+碳化硅/n ：/w 功率/n 器件/n 核心/n 材料/n ，/w 新能源/n 汽车/np 驱动/v 成长/v
+
+SiC/en 主要/b 用于/v 大功率/b 高频/b 功率/n 器件/n 。/w 以/p SiC/en 为/p 材料/n 的/u 二极管/n 、/w MOSFET/en 、/w IGBT/en 等/ng 器件/n 未来/t 有望/v 在/d 汽车电子/n 领域/n 取代/v Si/n 。/w 目前/t SiC/en 半导体/n 仍/ag 处于/v 发展/v 初期/t ，/w 晶圆/n 生长/v 过程/n 中易/nz 出现/v 材料/n 的/u 基面/n 位错/n ，/w 以致/c SiC/en 器件/n 可靠性/n 下降/v 。/w 另一方面/ldm ，/w 晶圆/n 生长/v 难度/n 导致/v SiC/en 材料价格/n 昂贵/a ，/w 预计/v 想要/v 大规模/b 得到/v 应用/v 仍/ag 需/ng 一/m 段/n 时期/n 的/u 技术/n 改进/v 。/w
+
+
+
+Die/en Size/en 和成/nz 本/d 是/v 碳化硅/n 技术/n 产业化/v 的/u 核心/n 变量/n 。/w 我们/r 比较/d 目前/t 市场/ny 主流/n 1200/m V/n 硅基/n IGBT/en 及/c 碳化硅/n 基/ng MOSFET/en ，/w 可以/a 发现/v SiC/en 基/ng MOSFET/en 产品/n 较/d Si/n 基/ng 产品/n 能够/v 大幅/a 减少/v Die/en Size/en ，/w 且/c 表现性/n 能/ng 更好/d 。/w 但是/c 目前/t 最大/a 阻碍/n 仍/ag 在于/v Wafer/en Cost/en ，/w 根据/n yole/en development/en 测算/v ，/w 单片/b 成本/n SiC/en 比/p Si/n 基/ng 产品/n 高出/v 7/m -/w 8/m 倍/d 。/w
+
+
+
+
+
+研究机构/n IHS/en 预测/v 到/ng 2025年/t SiC/en 功率/n 半导体/n 的/u 市场/ny 规模/n 有望/v 达到/v 30亿/m 美元/n 。/w 在/d 未来/t 的/u 10/m 年内/t ，/w SiC/en 器件/n 将/d 开始/v 大/a 范围/n 地/n 应用/v 于/ng 工业/n 及电/n 动/dg 汽车/np 领域/n 。/w 纵观/v 全球/n SiC/en 主要/b 市场/ny ，/w 电力/n 电子/n 占据/v 了/dg 2016-2017年/t 最大/a 的/u 市场/ny 份额/n 。/w 该市/r 场/ng 增长/v 的/u 主要/b 驱动/v 因素/n 是由/n 于/ng 电源/n 供应/v 和/c 逆变器/n 应用/v 越来越/d 多/a 地/n 使用/v SiC/en 器件/n 。/w
+
+
+
+SiC/en 近期/t 产业化/v 进度/n 加速/v ，/w 上游/s 产业链/n 开始/v 扩大/v 规模/n 和/c 锁定/v 货源/n 。/w 我们/r 根据/n 整理/v CREE/en 公告/n ，/w 可以/a 发现/v 近期/t 碳化硅/n 产业化/v 进度/n 开始/v 加速/v ，/w ST/n 、/w 英飞凌/nr 等/ng 中游/n 厂商/n 开始/v 锁定/v 上游/s 晶圆/n 货源/n ：/w
+
+
+2019年1月/t 公告/n ：/w CREE/en 与/c ST/n 签署/v 一/m 项/ng 为期/v 多年/n 的/u 2.5亿/m 美元/n 规模/n 的/u 生产/v 供应/v 协议/n ，/w Wolfspeed/en 将/d 会/n 向/p ST/n 供应/v 150/m ㎜/0 SiC/en 晶圆/n 。/w
+
+
+2018年10月/t 公告/n ：/w CREE/en 宣布/v 了/dg 一/m 项/ng 价值/n 8/m ,/w 500万/m 美元/n 的/u 长期/n 协议/n ，/w 将/d 为/p 一家/n 未/d 公布/v 名称/n 的/u “/w 领先/v 电力设备/n 公司/nc ”/w 生产/v 和/c 供应/v SiC/en 晶圆/n 。/w
+
+
+2018年2月/t 公告/n ：/w Cree/en 与/c 英飞凌/nr 签订/v 了/dg 1亿/m 美元/n 的/u 长期/n 供应/v 协议/n ，/w 为/p 其/r 光伏/n 逆变器/n 、/w 机器人/n 、/w 充电/v 基础设施/n 、/w 工业/n 电源/n 、/w 牵引/v 和/c 变速/v 驱动器/np 等/ng 产品/n 提供/v SiC/en 晶圆/n 。/w
+
+两/m 大/a 驱动力/n ：/w 5/m G/m 提速/v +/0 汽车/np 电气化/v
+
+5/m G/m 加速/v 推进/v ，/w 射频/n 市场/ny 有望/v 高速/b 成长/v
+
+海外/s 率先/d 商用/b ，/w 5/m G/m 提速/v 预期/b 强烈/a
+
+海外/s 5/m G/m 率先/d 商用/b ，/w 国内/s 5/m G/m 推进/v 有望/v 加速/v ！/w 4月3日/t ，/w 美国/ns 运营商/n Verizon/en 宣布/v 在/d 部分/n 地区/ny 推出/v 5/m G/m 服务/v ；/w 4月5日/t ，/w 韩国/ns 三大/n 运营商/n 宣布/v 开始/v 针对/v 普通/a 消费者/n 的/u 5/m G/m 商用/b 服务/v ；/w 4月10日/t ，/w 日本政府/nt 向/p 四大/j 运营商/n 分配/v 5/m G/m 频段/n ，/w 预计/v 明年/t 春/n 正式/a 商用/b ；/w 我们/r 认为/v ，/w 在/d 海外/s 5/m G/m 积极/a 推进/v 商用/b 的/u 节奏/n 下/f ，/w 国内/s 5/m G/m 有望/v 加速/v 。/w
+
+
+
+随着/p 5/m G/m 的/u 推广/v ，/w 从/p 5/m G/m 的/u 建设/v 需求/n 来看/u ，/w 5/m G/m 将/d 会/n 采取/v "/0 宏/ag 站/ny 加/ng 小站/n "/0 组网/n 覆盖/v 的/u 模式/n ，/w 历次/b 基站/n 的/u 升级/v ，/w 都/d 会/n 带来/v 一轮/nz 原有/v 基站/n 改造/v 和/c 新/a 基站/n 建设/v 潮/a 。/w 2017年/t 我国/n 4G/n 广/a 覆盖/v 阶段/n 基本/a 结束/v ，/w 4G/n 宏基/nz 站/ny 达到/v 328万/m 个/q 。/w 根据/n 赛迪/nz 顾问/n 预测/v ，/w 5/m G/m 宏基/nz 站/ny 总数/n 量/n 将/d 会/n 是/v 4G/n 宏基/nz 站/ny 1.1/m ~/w 1.5/m 倍/d ，/w 对应/v 360万/m 至/d 492万5/m G/m 宏基/nz 站/ny 。/w
+
+
+
+于/ng 此/r 同时/c 在/d 小站/n 方面/n ，/w 毫米波/n 高频/b 段/n 的/u 小站/n 覆盖/v 范围/n 是/v 10/m ~/w 20/m m/n ，/w 应用/v 于/ng 热点/n 区域/n 或/c 更/d 高/a 容量/n 业务/n 场景/n ，/w 其/r 数量/n 保守/a 估计/v 将/d 是/v 宏/ag 站/ny 的/u 2/m 倍/d ，/w 由此/d 我们/r 预计/v 5/m G/m 小站/n 将/d 达到/v 950万/m 个/q 。/w
+
+
+
+氮化镓/n 将/d 占/ng 射频/n 器件/n 市场/ny 半壁江山/in
+
+基站/n 建设/v 将/d 是/v 氮化镓/n 市场/ny 成长/v 的/u 主要/b 驱动力/n 之一/r 。/w
+
+Yole/en development/en 数据/n 显示/v ，/w 2018年/t ，/w 基站/n 端/ag 氮化镓/n 射频/n 器件/n 市场/ny 规模/n 不足/a 2亿/m 美元/n ，/w 预计/v 到/ng 2023年/t ，/w 基站/n 端/ag 氮化镓/n 市场/ny 规模/n 将/d 超/h 5亿/m 美元/n 。/w 氮化镓/n 射频/n 器件/n 市场/ny 整体/n 将/d 保持/v 23%/m 的/u 复合/v 增速/n ，/w 2023年/t 市场/ny 规模/n 有望/v 达/ng 13亿/m 美元/n 。/w
+
+
+
+氮化镓/n 将/d 占/ng 射频/n 器件/n 市场/ny 半壁江山/in 。/w 在/d 射频/n 器件/n 领域/n ，/w 目前/t LDMOS/en （/w 横向/n 扩散/v 金属/n 氧化物/n 半导体/n ）/w 、/w GaAs/en （/w 砷化镓/n ）/w 、/w GaN/en （/w 氮化镓/n ）/w 三者/r 占比/n 相差/v 不大/n ，/w 但/c 据/ng Yole/en development/en 预测/v ，/w 至/d 2025年/t ，/w 砷化镓/n 市场/ny 份额/n 基本/a 维持/v 不变/v 的/u 情况/n 下/f ，/w 氮化镓/n 有望/v 替代/v 大部分/n LDMOS/en 份额/n ，/w 占据/v 射频/n 器件/n 市场/ny 约/d 50%/m 的/u 份额/n 。/w
+
+
+
+汽车/np 电气化/v 推动/v 碳化硅/n 市场/ny 快速/b 成长/v
+
+汽车/np 半导体/n 市场/ny 快速/b 增长/v
+
+汽车/np IC/n 快速/b 增长/v ，/w 成/ng 半导体/n 增长/v 亮点/n 。/w 根据/n IC/en Insights/en 数据/n ，/w 预计/v 2018年/t 汽车/np IC/n 增速/n 可/v 达/ng 18.5%/m ，/w 规模/n 可/v 达/ng 323亿/m 美元/n 。/w 到/ng 2021 年/t ，/w 汽车/np IC/en 市场/ny 将/d 会/n 增长/v 到/ng 436 亿/m 美元/n ，/w 2017 年/t 到/ng 2021 年/t 之间/f 的/u 复合/v 增长率/n 为/p 12.5%/m ，/w 为/p 复合/v 增长率/n 最高/a 的/u 细分/v 市场/ny 模块/n ，/w 也/d 是/v 未来/t 的/u 主要/b 驱动力/n 之一/r 。/w
+
+
+
+汽车/np 模拟/v IC/n 增长/v 强劲/a ，/w 实现/v 对/a 智能/n 手机/np 的/u 超越/v 。/w 智能/n 手机/np 的/u 高速/b 增长/v 曾经/d 是/v 带动/v 半导体/n 市场/ny 增长/v 的/u 主要/b 驱动力/n ，/w 如今/t 汽车/np 成为/v 下/f 一/m 位/q 选手/n 。/w 根据/n HIS/en 数据/n ，/w 从/p 体量/v 上/f 看/u ，/w 2015年/t 汽车/np 模拟/v IC/n 市场/ny 将/d 已经/d 超过/v 的/u 智能/n 手机/np 市场/ny ，/w 预计/v 2018年/t 汽车/np 模拟/v IC/n 市场/ny 规模/n 可/v 达/ng 102亿/m 美元/n 。/w 与此同时/ldm ，/w 由于/c 汽车/np 市场/ny 增速/n 高于/v 其他/r 子行业/n ，/w 其/r 模拟/v IC/n 销售/v 占比/n 也/d 逐年/d 增加/v 。/w
+
+
+
+环保/n 需求/n 持续/v 驱动/v 汽车/np 电气化/v 进程/n
+
+环保/n 节能/v 需求/n 推动/v 汽车/np 电气化/v ，/w 新能源/n 汽车/np 快速/b 增长/v 。/w 由于/c 各国/r 政府/nc 对/a 能源/n 和/c 环境/n 问题/n 高度/b 重视/v ，/w 纷纷/d 提出/v 禁售/v 燃油/n 车/np 计划/n ，/w 汽车/np 电气化/v 几乎/d 是/v 必然/d 趋势/n 。/w Katusa/en Research/en 数据/n 显示/v ，/w 中国/ns ，/w 美国/ns 和德国将成/nr 为/p 电动汽车/n 的/u 主要/b 推广/v 者/k ，/w 致使/v 2040年/t 电动汽车/n 年均/b 销售量/n 可/v 达/ng 6/m 千万/d 量/n 。/w 新能源/n 汽车/np 能够/v 有效/a 降低/v 燃油/n 消耗量/n ，/w 而/c 新能源/n 汽车/np 需要/n 用到/v 大量/mq 的/u 电源/n 类/n IC/n （/w 比如/v 升降/v 电压/n 用/ng 的/u DC/en //w DC/n ）/w ，/w 模拟/v IC/n 行业/n 可/v 从中/d 受益/v 。/w
+
+
+
+汽车/np 硅/n 含量/n 持续/v 提升/v ，/w 碳化硅/n 市场/ny 显/v 着/n 受益/v
+
+汽车/np 电气化/v 程度/n 逐步/d 加深/v ，/w 硅/n 价值量/n 持续/v 增长/v 。/w 各/r 车企/n 纷纷/d 推出/v 新能源/n 车，以/nr 实现/v 汽车/np 电动/b 化/k 的/u 软/a 替代/v ，/w 常见/a 的/u 新能源/n 汽车/np 包括/v 溷/ag 合/ng 动力/n 汽车/np 、/w 插/v 电/n 式/k 溷/ag 合/ng 动力/n 汽车/np 、/w 增程/b 式/k 电动汽车/n 、/w 纯/a 电动汽车/n 。/w 随着/p 电气化/v 程度/n 的/u 提升/v ，/w 汽车/np 半导体/n 价值量/n 也/d 水涨船高/iv 。/w 2018年中/t 度/k 溷/ag 合/ng 动力/n 汽车/np 、/w 插/v 电/n 式/k 溷/ag 合/ng 动力/n 汽车/np 和纯/nr 电动汽车/n 单车/n 半导体/n 价值量/n 分别/d 达/ng 475/m 、/w 740/m 和/c 750/m 美元/n ，/w 根据/n Strategy/en Analytics/en 预测/v ，/w 2025年/t 度/k 溷/ag 合/ng 动力/n 汽车/np 、/w 插/v 电/n 式/k 溷/ag 合/ng 动力/n 汽车/np 和纯/nr 电动汽车/n 销量/n 分别/d 可达到/n 0.17亿/m 、/w 0.13亿/m 、/w 0.08亿/m ，/w 合计/v 半导体/n 市场/ny 规模/n 可/v 达/ng 237亿/m 美元/n 。/w
+
+
+
+电动车/np 市场/ny 将/d 是/v 碳化硅/n 器件/n 成长/v 的/u 主要/b 驱动力/n 。/w 根据/n Yole/en development/en 预测/v ，/w 未来/t 几/m 年/n 新能源/n 汽车/np 、/w 电机/np 驱动/v 、/w 铁路/n 对/a 碳化硅/n 市场/ny 增长/v 影响/v 较大/a ，/w 其中/r 增量/n 价值/n 最高/a 的/u 为/p 新能源/n 汽车/np ，/w 包括/v 汽车/np 本身/r 以及/c 由此/d 带动/v 的/u 各类/r 基础设施/n 建设/v 。/w
+
+
+
+
+
+汽车/np 处于/v 安全性/n 考虑/v ，/w 需要/n 包含/v 各个/r 子系统/n 的/u 稳压/v 、/w 静电/n 保护/v 、/w 信号/n 隔绝/v 等/ng 需求/n ，/w 同时/c 还/d 需要/n 众多/a 与/c 电力系统/n 配套/a 的/u 功率/n 半导体/n 产品/n ，/w 包括/v 充电器/n 、/w 电池/np 管理/v 、/w 逆变器/n 、/w 次/a 逆变器/n 、/w DC/en //w DC/n 以及/c 各种/r 接口/n 等/ng 。/w 因此/c 汽车/np 电动/b 化/k 给/v 功率/n 半导体/n 带来/v 了/dg 更/d 广阔/a 的/u 市场/ny 空间/n 。/w
+
+
+
+/0
+
+来源/n ：/w 湘/jns 评/v 科技/n ，/w 作者/n ：/w 国盛/nz 电子/n 团队/n  /0
+
+/0
+
+【/w 免责/v 声明/n :/w 原文/n 出处/n 品/k 略图/n 书馆/nc :http://www.pinlue.com/article/2019/05/0510/308862683531.html/url ；/w 版权/n 归/ng 原作者/n 所有/b 】/w ,/w ,/w ,/w ,/w ,/w

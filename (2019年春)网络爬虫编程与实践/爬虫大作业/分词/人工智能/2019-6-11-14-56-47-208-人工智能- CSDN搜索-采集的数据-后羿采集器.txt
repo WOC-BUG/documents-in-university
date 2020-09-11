@@ -1,0 +1,79 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/adley_app/article/details/81517248/url ,/w 什么/r 是/v 人工智能/n ？/w 什么/r 是/v 机器/np 学习/v ？/w 什么/r 是/v 深度/n 学习/v ？/w nnnn/en 人工智能/n ：/w 机器/np 模拟/v 人/n 的/u 意识/n 和/c 思维/n 。/w nnn/en 神经网络/n ncnn/en 算法/n nnn/en 机器/np 学习/v ：/w 机器/np 学习/v 是/v 一/m 种/ng 统计学/n 方法/n ，/w 利用/v 已有/v 数据/n ，/w 得出/v 某种/r 模型/n ，/w 在/d 利用/v 此/r 模型/n 预测/v 结果/c 。/w ,/w https://blog.csdn.net/adley_app/article/details/81517248/url ,/w ,/w adley/en _/0 app/en ,/w 2018-08-08/t ,/w //blog.csdn.net/adley_app/article/details/81517248/url ,/w 10210/m 次/a 阅读/v ,/w 人工智能/n -/w adley/en _/0 app/n 的/u 博客/n ,/w 2018年08月08日 23:07:07/t ,/w 原/b 人工智能/n
+
+
+
+2018年08月08日 23:07:07/t
+adley/en _/0 app/n
+阅读/v 数/m ：10212/m 更多/n
+
+
+个人/n 分类/v ：/w
+人工智能/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/adley_app/article/details/81517248/url
+
+
+
+
+
+
+什么/r 是/v 人工智能/n ？/w 什么/r 是/v 机器/np 学习/v ？/w 什么/r 是/v 深度/n 学习/v ？/w
+
+
+
+人工智能/n ：/w 机器/np 模拟/v 人/n 的/u 意识/n 和/c 思维/n 。/w
+
+
+神经网络/n
+cnn/n 算法/n
+
+
+机器/np 学习/v ：/w 机器/np 学习/v 是/v 一/m 种/ng 统计学/n 方法/n ，/w 利用/v 已有/v 数据/n ，/w 得出/v 某种/r 模型/n ，/w 在/d 利用/v 此/r 模型/n 预测/v 结果/c 。/w
+
+
+随着/p 经验/n 的/u 增加/v ，/w 效果/n 更好/d
+数据/n -/w 模型/n -/w 预测/v 结果/c -/w 概率/n
+机器/np 学习/v 三/m 要素/n ：/w 算法/n 、/w 数据/n 、/w 算/d 力/n
+
+
+深度/n 学习/v ：/w 深层次/b 神经网络/n （/w 源于/v 生物学/n ）/w
+
+
+类似/a 脑神经/n 元/q =/0 =/0 >/w 神经网络/n
+数据/n 输入/v 、/w 数据/n 输出/v
+搭建/v 神经网络/n
+CNN/n 算法/n
+
+
+
+
+机器/np 学习/v 的/u 应用/v
+
+
+读/ng 连续/a 数据/n 预测/v
+对/a 离散/b 数据/n 分类/v
+
+
+建模/v –/0 >/w 使用/v 神经网络/n 训练/v
+
+
+计算机/np 视觉/n
+语音/n 识别/v
+自然语言/n 处理/v
+
+
+算法/n

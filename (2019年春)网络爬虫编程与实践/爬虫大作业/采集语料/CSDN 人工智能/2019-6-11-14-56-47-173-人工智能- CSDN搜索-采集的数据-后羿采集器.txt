@@ -1,0 +1,44 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/weixin_33766168/article/details/85355087,CVD 纳米 rn做完大气校正后，为了突出层次感以便分类，再做其它的变换（如，直方图拉伸），这个大气校正到底用在哪　了 rn人工智能 rnnet = newff(minmaxc(p),[32 1],'tansig','purelin','traincgf');  rnrn10510667  新建的一个群  对材料分析中用到的相关软件进行讨论和交流  感兴趣的进,https://blog.csdn.net/weixin_33766168/article/details/85355087,,weixin_33766168,2005-05-10,//blog.csdn.net/weixin_33766168/article/details/85355087,8次阅读,人工智能 - weixin_33766168的博客,2005年05月10日 13:37:00,转        人工智能
+      
+      
+        
+                                                  2005年05月10日 13:37:00
+          weixin_33766168
+          阅读数：9
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            CVD 纳米 
+做完大气校正后，为了突出层次感以便分类，再做其它的变换（如，直方图拉伸），这个大气校正到底用在哪　了 
+人工智能 
+net = newff(minmaxc(p),[32 1],{'tansig','purelin'},'traincgf');  
+10510667  新建的一个群  对材料分析中用到的相关软件进行讨论和交流  感兴趣的进 
+有没有人投过 materials letters 阿 
+我们老师投过 
+很慢？哦，我还以为快  
+好像有很多中国人投 ？ 
+你可以看看它的文章从投到出版的时间，参不多不要1年 
+收录的很快 
+哦，没未过，不过对它不感冒 
+好像主编是JAP的 
+网址： http://www.iceknowledge.com/calis 
+登陆该网址后，点击：“Enter the site ”进入检索页面 
+  
+最后一个，比较通俗的图书馆 
+
+http://lib.myrtvu.com.cn 
+账号 teacher 
+密码 teacher 
+
+大家可以进去看看有什么需要的。 
+  
+有没有能进IEEE的帐号和密码啊？

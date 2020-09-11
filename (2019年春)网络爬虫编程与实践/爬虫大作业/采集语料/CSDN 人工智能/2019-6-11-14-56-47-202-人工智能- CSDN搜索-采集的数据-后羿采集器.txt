@@ -1,0 +1,20 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/jsjwq810/article/details/6026998,最近在看人工智能，记得本科时学过，研究生时也学过，可是还是没有什么深刻的认识。,https://blog.csdn.net/jsjwq810/article/details/6026998,,jsjwq810,2010-11-22,//blog.csdn.net/jsjwq810/article/details/6026998,290次阅读,人工智能 - jsjwq810的专栏,2010年11月22日 14:50:00,原        人工智能
+      
+      
+        
+                                                  2010年11月22日 14:50:00
+          jsjwq810
+          阅读数：291
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            最近在看人工智能，记得本科时学过，研究生时也学过，可是还是没有什么深刻的认识。

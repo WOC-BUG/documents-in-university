@@ -1,0 +1,90 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+[/w 5/m G/en ]/w [/w NR/en ]/w SSB/en ,/w 1./m 什么/r 是/v SSB/en ？/w nnnSSB/en 即/c Synchronization/en Signal/en Block/en ,/w 包括/v PSS/en ,/w SSS/en ,/w PBCH/en 。/w nn/en 3/m gpp/en 38.300中/t 提供/v 了/dg SSB/en 的/u 时/n 频/ag 资源/n 示意图/n 。/w 可见/c ，/w SSB/en 中/f 的/u PSS/n 和/c SSS/en 各/r 占用/v 1/m 个/q symbol/en 和/c 127/m 个子/n 载波/n ，/w PBCH/en 占用/v 3/m 个/q symbol/en 和/c 240/m 个子/n 载波/n （/w 20/m 个/q RBs/en ）/w 。/w nnnnn2./url SSB/en 的/u 时/n 频/ag 结构/n nnn/en 根据/n 3/m gpp/en 38.211：/t nn/en 1/m >/w S/en .../m ,/w GYK/en 0812/m ,/w https://blog.csdn.net/GYK0812/article/details/90713389/url ,/w 2019-05-31/t ,/w 7/m 次/a 阅读/v ,/w [/w 5/m G/en ]/w [/w NR/en ]/w SSB/en -/w GYK/en 0812/m 的/u 博客/n ,/w 2019年05月31日 18:38:45/t ,/w 1./m 什么/r 是/v SSB/en ？/w
+
+
+SSB/en 即/c Synchronization/en Signal/en Block/en ,/w 包括/v PSS/en ,/w SSS/en ,/w PBCH/en 。/w
+
+3/m gpp/en 38.300中/t 提供/v 了/dg SSB/en 的/u 时/n 频/ag 资源/n 示意图/n 。/w 可见/c ，/w SSB/en 中/f 的/u PSS/n 和/c SSS/en 各/r 占用/v 1/m 个/q symbol/en 和/c 127/m 个子/n 载波/n ，/w PBCH/en 占用/v 3/m 个/q symbol/en 和/c 240/m 个子/n 载波/n （/w 20/m 个/q RBs/en ）/w 。/w
+
+
+
+
+2./m SSB/en 的/u 时/n 频/ag 结构/n
+
+
+根据/n 3/m gpp/en 38.211：/t
+
+1/m >/w  /0 SSB/en 用/ng 天线/n 端口/n 4000/m 来/u 发送/v
+
+2/m >/w  /0 SSB/en 内/f 包含/v 的/u PSS/en ,/w SSS/en ,/w PBCH/en 使用/v 相同/a 的/u 循环/v 前缀/n 和/c SCS/en
+
+3/m >/w  /0  /0 对于/p SSB/en typeA/en （/w sub/en 6/m G/en //w FR/en 1/m ）/w ，/w SCS/en =/0 15/m KHz/en / 30/m KHz/en ,/w  /0  /0 {/0 0/m ,/w 1/m ,/w 2/m ,/w ...23/m }/0 ,/w 但/c 要/v 注意/v  /0  /0 和 以/nr 15/m KHz/q 来/u 计算/v
+
+4/m >/w 对于/p SSB/en typeB/en （/w 毫米波/n //w FR/en 2/m ）/w ，/w SCS/en =/0 120/m KHz/en /240/m KHz/q ，/w  /0  /0  /0 {/0 0/m ,/w 1/m ,/w 2/m ,/w ...11/m }/0 ,/w 但/c 要/v 注意/v  /0  /0 和 以/nr 60/m KHz/q 来/u 计算/v
+
+/0 在/d NSA/n 模式/n 中/f ，/w UE/en 可以通过/n RRC/en 信令/n 直接/a 获得/v SSB/en 的/u 频/ag 点位/n 置/v ：/w IE/en :/w absoluteFrequencySSB./url
+
+而/c 在/d SA/n 模式/n 中/f ，/w 需要/n 通过/p 小区/ny 搜索/n 来/u 获取/v SSB/en 的/u 位置/n 。/w
+
+
+
+
+
+
+
+
+3./m  /0
+
+
+SSB/en 和/c  /0  /0 在/d 不同/a 的/u Frequency/en Range/en 对应/v 的/u 子/k 载波/n 间隔/n 不同/a ，/w 见/v 下/f 表/n ：/w
+
+SSB/en Type/en
+SSB/en 的/u SCS/en  /0
+/0 的/u SCS/en
+取值/v
+/0 的/u SCS/en
+Type/en A/en (/w FR/en 1/m )/w
+15 / 3/t 0/m KHz/q
+
+15/m KHz/en
+
+/0
+
+
+0/m ,/w 1/m ,/w 2/m ,/w …/w ,/w 23/m
+
+（/w 由/p MIB/en 中/f 的/u IE/en :/w ssb/en -/w SubcarrierOffset/en 和/c PBCH/en Payload/en 来/u 共同/b 指示/n ）/w
+
+15/m KHz/q
+Type/en B/en (/w FR/en 2/m )/w
+120 / 24/t 0/m KHz/q
+IE/en :/w subcarrierSpacingCommon/en
+0/m ,/w 1/m ,/w 2/m ,/w …/w ,/w 11/m
+60/m KHz/q
+
+
+
+
+如果/c IE/en :/w  /0 ssb/en -/w SubcarrierOffset/en 不/d 存在/v ，/w 则/c  /0  /0 即/c 为/p SSB/en 和/c Ponit/en A/b 之间/f 的/u 频率/n 偏差/n 。/w 如下/v 图/n ：/w
+
+
+
+
+4./m SSB/en 的/u 时域/n 位置/n  /0
+
+
+
+
+在/d 5/m G/m 中/f ，/w 每个/r SSB/en 对应/v 一个/mq beam/en ，/w 我们/r 讨论/v SSB/en 的/u 最/d 短时/b 间/f 跨度/n 为/p 5/m ms/n ，/w 也就是/n 半/m 帧/q 。/w 一个/mq 半/m 帧/q 中/f 可能/a 存在/v 多个/n SSB/en ，/w 我们/r 将/d 一个/mq 半/m 帧/q 中/f 存在/v 的/u 一个/mq 或/c 多个/n SSB/en 称为/v SS/en  /0 Burst/en Set/n ，/w 一个/mq SS/en Burst/en Set/n 中/f 的/u SSB/en 包含/v 的/u 信息/n 相同/a 。/w
+
+两个/n SS/en Burst/en Set/n 出现/v 的/u 时间/n ，/w 也就是/n 存在/v SSB/en 的/u 半/m 帧/q 出现/v 的/u 时间/n 是/v 可以/a 配置/n 的/u ，/w 成为/v SS/en Burst/en Set/en Periodicity/en 。/w 默认/v 为/p 20/m ms/n ，/w 如上/n 图/n 所/n 示/vg 。/w
+
+当/ag UE/en 初次/d 进行/v 小区/ny 搜索/n 时/n ，/w 可以/a 假设/n SSB/en Burst/en Set/n 的/u 周期/n 时/n 20/m ms/n ，/w 发送/v 示意图/n 如上/n 图/n 。/w
+
+5/m ms/n 内/f ，/w SSB/en 的/u 最大/a 个数/n 定义/n 为/p Lmax/en ，/w 对应/v 不同/a 的/u SCS/en 和/c 频率/n ，/w Lmax/en 可以/a 为/p 4/m ，/w 8/m ，/w 64/m 。/w  /0 见/v 下/f 表/n 。/w
+
+其中/r ，/w s/b 为/p SSB/en 的/u 其实/d symbol/en 。/w
+
+可见/c ：/w 当/ag f/en </w 3/m G/en ,/w Lmax/en =/0 4/m ;/w  /0  /0 3/m G/en </w f/en </w 6/m G/en ,/w Lmax/en =/0 8/m  /0 ;/w  /0  /0 6/m G/en </w f/en ,/w Lmax/en =/0 64/m  /0 ;/w  /0
+
+SSB/en 的/u index/en 是/v 按照/p 时间/n 顺序/d 升序/n 排列/v ，/w 并且/c 唯一/b 的/u 。/w 当/ag Lmax/en =/0 4/m 时/n ，/w SSB/en 的/u index/en 依次/d 为/p 0/m ，/w 1/m ，/w 2/m ，/w 3./m ,/w ,/w ,/w ,/w ,/w

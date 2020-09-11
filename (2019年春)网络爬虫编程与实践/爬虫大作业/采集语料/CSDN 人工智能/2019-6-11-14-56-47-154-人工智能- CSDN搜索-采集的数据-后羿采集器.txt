@@ -1,0 +1,22 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/weixin_34177064/article/details/90945982,Python教程Python是一种通用的解释型，交互式，面向对象和高级编程语言Python文本处理Python文本处理AI与PythonAI与PythonNumpy教程NumPy代表Numerical Python，它是一个由多...Scipy教程SciPy是一个开放源码的BSD许可数学，科学和工程库。Pandas教程Pandas是一个易于使用的Pytho...,https://blog.csdn.net/weixin_34177064/article/details/90945982,,weixin_34177064,2019-05-30,//blog.csdn.net/weixin_34177064/article/details/90945982,3次阅读,人工智能 - weixin_34177064的博客,2019年05月30日 09:57:00,转        人工智能
+      
+      
+        
+                                                  2019年05月30日 09:57:00
+          weixin_34177064
+          阅读数：4
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+    
+            Python教程Python是一种通用的解释型，交互式，面向对象和高级编程语言Python文本处理Python文本处理AI与PythonAI与PythonNumpy教程NumPy代表Numerical Python，它是一个由多...Scipy教程SciPy是一个开放源码的BSD许可数学，科学和工程库。Pandas教程Pandas是一个易于使用的Python数据结构和数据分析工具。Matplotlib教程Matplotlib是一个Python图形库。Seaborn教程Seaborn教程Python数据科学教程介绍使用Python编程语言在数据科学中使用的各种技术。Python深度学习教程神经网络是并行计算设备，基本上是试图建立大脑的计算机模型。PyTorch教程

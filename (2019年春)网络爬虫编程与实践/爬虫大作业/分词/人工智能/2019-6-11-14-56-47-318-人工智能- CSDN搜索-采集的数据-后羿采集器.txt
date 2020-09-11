@@ -1,0 +1,188 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/caozl218/article/details/70941731/url ,/w 讨论/v 技术/n 之前/f ，/w 我们/r 先来/nz 搞清/v 楚/ag ，/w 到底/d 什么/r 是/v 人工智能/n （/w Artificial/en Intelligence/en ）/w ？/w 简言之/ldm ，/w 就是/n 用/ng 「/w 机器/np 」/w 对/a 人/n 的/u 意识/n 、/w 思维/n 的/u 信息/n 过程/n 的/u 模拟/v 。/w rnrn/en  /0 rnrn/en 　　当初/t ，/w 「/w 机器/np 」/w 并/c 不是/n 专/a 指/ng 计算机/np ，/w 也/d 可能/a 是/v 某种/r 机械/a 装置/n ，/w 因为/c 计算机/np 还/d 没有/d 发明/n 出来/v ，/w AI/n 就/d 出现/v 了/dg 。/w ,/w https://blog.csdn.net/caozl218/article/details/70941731/url ,/w ,/w caozl/en 218/m ,/w 2017-04-28/t ,/w //blog.csdn.net/caozl218/article/details/70941731/url ,/w 202/m 次/a 阅读/v ,/w 人工智能/n -/w caozl/en 218/m 的/u 博客/n ,/w 2017年04月28日 22:55:17/t ,/w 转/q 人工智能/n
+
+
+
+2017年04月28日 22:55:17/t
+caozl/en 218/m
+阅读/v 数/m ：203/m
+
+
+标签/n ：/w
+人工智能/n 技术/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+讨论/v 技术/n 之前/f ，/w 我们/r 先来/nz 搞清/v 楚/ag ，/w 到底/d 什么/r 是/v 人工智能/n （/w Artificial/en Intelligence/en ）/w ？/w 简言之/ldm ，/w 就是/n 用/ng 「/w 机器/np 」/w 对/a 人/n 的/u 意识/n 、/w 思维/n 的/u 信息/n 过程/n 的/u 模拟/v 。/w
+
+/0
+
+当初/t ，/w 「/w 机器/np 」/w 并/c 不是/n 专/a 指/ng 计算机/np ，/w 也/d 可能/a 是/v 某种/r 机械/a 装置/n ，/w 因为/c 计算机/np 还/d 没有/d 发明/n 出来/v ，/w AI/n 就/d 出现/v 了/dg 。/w 另外/c ，/w 即使/c 计算机/np 也/d 分为/v 我们/r 熟悉/v 的/u 图灵/n 计算机/np 和/c 现在/t 迅/ag 勐/ag 发展/v 着/n 的/u 量子/n 计算机/np 或者/c DNA/n 计算机/np 等/ng 。/w
+
+/0
+
+但是/c AI/n 真正/b 繁荣/a 发展/v ，/w 还是/c 从/p 图灵机/n 出现/v 之后/f 才/d 开始/v 的/u 。/w
+
+/0
+
+有的/r 读者/n 可能/a 不是/n 计算机/np 专业/a 的/u ，/w 所以/c 简单/a 介绍/v 一下/d 图灵机/n 。/w 同时/c 要/v 涉及/v 一些/mq 数学/n 和/c 算法/n 的/u 知识/n ，/w 稍/d 有些/r 晦涩/a ，/w 大家/r 要/v 有/v 一些/mq 耐心/a ，/w 否则/c 没/d 办法/n 理解/v 哪些/r 更/d 复杂/a 的/u AI/n 知识/n 和/c 术语/n 。/w
+
+/0
+
+图灵机/n 和/c 图灵/n 测试/v
+
+/0
+
+早/a 在/d 1900年/t ，/w 大数/n 学家/n 希尔伯特/nr （/w David/en Hilbert/en ）/w 提出/v 了/dg 着/n 名/n 的/u 第十/m 问题/n ：/w
+
+/0
+
+Given/en a/en Diophantine/en equation/en with/en any/en number/en of/en unknown/en quantities/en and/en with/en rational/en integral/en numerical/en coefficients/en :/w To/en devise/en a/en process/en according/en to/en which/en it/en can/en be/en determined/en in/en a/en finite/en number/en of/en operations/en whether/en the/en equation/en is/en solvable/en in/en rational/en
+integers./url （/w from/en Wikipedia/en ）/w
+
+/0
+
+能否/v 能/ng 通过/p 有限/a 步骤/n （/w 算法/n ）/w 来/u 判定/v 不定方程/ln 存在/v 有理/a 整数/n 解/ng ？/w
+
+/0
+
+图灵/n （/w Alan/en Turing/en ，/w 计算机/np 科学/a 与/c 人工智能/n 之/u 父/ng ）/w ，/w 被/ng 这个/r 问题/n 深深/d 的/u 吸引/v 了/dg ，/w 虽然/c 后来/t 的/u 数学家/n 证明/n Hillbert/en 的/u 第/m 10/m 问题/n 中/f 提到/v 的/u 那个/r 算法/n 不/d 存在/v ，/w 但是/c ，/w 得到/v 了/dg 一个/mq 最好/d 的/u 副产品/n ，/w 那/c 就是/n 1936年/t 图灵/n 提出/v 了/dg 如下/v 所/n 示/vg 的/u 图灵机/n ：/w
+
+/0
+
+Turing/en Machine/en from/en Wikipedia/en
+
+/0
+
+A/en Turing/en machine/en is/en an/en abstract/en machine/en that/en manipulates/en symbols/en on/en a/en strip/en of/en tape/en according/en to/en a/en table/en of/en rules./url （/w from/en Wikipedia/en ）/w
+
+/0
+
+图灵机/n 是/v 指/ng 一个/mq 抽象/a 的/u 机器/np ，/w 它/r 有/v 一/m 条/ng 无限/a 长/a 的/u 纸带/n ，/w 纸带/n 分成/v 了/dg 一个一个/qqm 的/u 小/a 方格/n 。/w 有/v 一个/mq 机器/np 头/k 在/d 纸带/n 上移/v 来/u 移/v 去/v 。/w 机器/np 头/k 有/v 一些/mq 固定/a 的/u 程序/n 。/w 在/d 每个/r 时刻/d ，/w 机器/np 头/k 都/d 要/v 从/p 当前/t 纸带/n 上/f 读入/v 一个/mq 方格/n 信息/n ，/w 然后/c 结合/v 自己/r 的/u 内部/f 状态/n 查找/v 程序/n 表/n ，/w 根据/n 程序/n 输出/v 信息/n 到/ng 纸带/n 方格/n 上/f ，/w 并转/v 换/v 自己/r 的/u 内部/f 状态/n ，/w 然后/c 进行/v 移动/v 。/w
+
+/0
+
+冯？诺/nr 依/ng 曼/ag （/w John/en von/en Neumann/en ）/w ，/w 和/c 图灵/n 是/v 同一/b 时期/n 的/u 大数/n 学家/n ，/w 1946年/t 领导/n 研制出/n 了/dg 众所周知/iv 的/u 第一/m 台/n 现代/a 电子计算机/lnp ENIAC/n ，/w 其/r 工作/n 原理/n 就是/n 和/c 图灵机/n 是/v 一致/a 的/u 。/w
+
+/0
+
+1950年/t ，/w 图灵/n 提出/v 了/dg 着/n 名/n 的/u 「/w 图灵/n 测试/v 」/w ，/w 用来/v 验证/v 一个/mq 机器/np 是否/v 达到/v 人类/n 的/u 智能/n ，/w 具体/a 方法/n 就是/n 把/p 一个/mq 机器/np A/b 和/c 一个/mq 人/n B/n 分别/d 关/n 到/ng 不同/a 房间/n 里/f ，/w 测试/v 者/k C/n 通过/p 装置/n （/w 如/c 键盘/np ）/w 和/c 两者/r 对话/v ，/w 如果/c 30%/m 以上/f 的/u 测试/v 者/k 不能/v 区分/v 机器/np 和/c 人/n ，/w 则/c 认为/v 机器/np A/b 通过/p 图灵/n 测试/v 。/w
+
+/0
+
+Turing/en Test/en from/en Wikipedia/en
+
+/0
+
+大家/r 可以/a 看出/v 来/u ，/w 从/p 希尔伯特/nr 、/w 图灵/n 到/ng 冯？诺/nr 依/ng 曼/ag ，/w 整个/b 人工智能/n AI/n 的/u 发展/v ，/w 都/d 是/v 大数/n 学家/n 们/k 在/d 推动/v 前进/v 的/u 。/w 所以/c ，/w 如果/c 想/v 真正/b 理解/v AI/n 的/u 工作/n 原理/n 和/c 发展/v 趋势/n ，/w 必须/d 了解/v 相关/v 的/u 数学/n 发展史/n 和/c 挑战/v 。/w
+
+/0
+
+几/m 个/q 关键/a 理论/n 和/c 技术/n
+
+/0
+
+1/m 、/w 图灵/n 停机/v 问题/n （/w Halting/en problem/en ）/w
+
+/0
+
+图灵机/n 本质/n 上/f 就是/n 完成/v 了/dg 从/p 输入/v 到/ng 输出/v 的/u 变换/v （/w 计算/v ）/w ，/w 假设/n ，/w 程序/n P/n 可以/a 把/p 所有/b 的/u 变换/v 进行/v 「/w 归纳/v 」/w ，/w 产生/v 这些/r 变换/v 规则/a 的/u 「/w 共性/n 」/w ，/w 那么/c ，/w 图灵机/n 应该/v 能/ng 通过/p 计算/v 获得/v 等同于/vi 人类/n 的/u 智能/n 。/w 但是/c ，/w 这个/r 假设/n 在/d 图灵机/n 上/f 是/v 不可/v 计算/v 的/u ，/w 这/r 就是/n 着/n 名/n 的/u 图灵机/n 停机/v 问题/n ：/w
+
+/0
+
+Halting/en problem/en is/en the/en problem/en of/en determining/en ,/w from/en a/en deion/en of/en an/en arbitrary/en computer/en program/en and/en an/en input/en ,/w whether/en the/en program/en will/en finish/en running/en or/en continue/en to/en run/en forever./url
+
+/0
+
+停机/v 问题/n 就是/n 判断/n 任意/b 一个/mq 程序/n 是否/v 会/n 在/d 有限/a 的/u 时间/n 之内/f 结束/v 运行/v 的/u 问题/n 。/w
+
+/0
+
+图灵/n 本人/r 已经/d 在/d 数学/n 上证/nt 明了/v 这个/r 判断/n 算法/n 根本/a 不/d 存在/v 。/w 也就是说/ldm ，/w 总是/d 有些/r 人/n 的/u 智能/n 对于/p 图灵/n 计算机/np 来说/u ，/w 是/v 不可/v 解决/v 的/u 。/w 通常/b 也/d 说/ag ，/w 这个/r 问题/n 是/v 和/c 图灵/n 停机/v 问题/n 计算/v 等价/v 的/u 。/w
+
+/0
+
+所以/c ，/w 为了/p 让/v 机器/np 获得/v 强人/n 工智/nz 能/ng （/w General/en AI/n ）/w ，/w 人们/n 开始/v 研究/v 「/w 超越/v 图灵/n 计算/v 」/w 的/u 量子/n 计算/v 或者/c DNA/n 计算/v 等/ng 。/w
+
+/0
+
+不过/c 在/d 弱/a 人工智能/n （/w Narrow/en AI/n ）/w 领域/n ，/w 「/w 深度/n 学习/v 」/w 这个/r 图灵/n 可/v 计算/v 的/u 方法/n 还是/c 能/ng 解决/v 很多/mq 实际/a 问题/n 的/u 。/w
+
+/0
+
+2/m 、/w 深度/n 学习/v （/w Deep/en Learning/en ）/w
+
+/0
+
+目前/t 大家/r 经常/d 听到/v 的/u 谷歌/nt 大脑/n 、/w 百度/nt 大脑/n ，/w 核心/n 技术/n 就是/n 用/ng 了/dg 深度/n 学习/v ，/w 主要/b 指/ng 应用/v 了/dg 多/a 隐含/v 层/n 的/u 神经网络/n 。/w 在/d 解释/v 深度/n 学习/v 之前/f ，/w 我们/r 来/u 了解/v 一下/d 什么/r 是/v 机器/np 学习/v ，/w 以及/c 其/r 和/c 深度/n 学习/v 的/u 关系/n 。/w
+
+
+
+如上/n 图/n 所/n 示/vg ，/w 机器/np 学习/v ML/q 是/v 人工智能/n AI/n 的/u 一个/mq 分支/n ，/w 深度/n 学习/v DL/n 又是/n 机器/np 学习/v ML/q 的/u 一个/mq 分支/n 。/w
+
+/0
+
+机器/np 学习/v ML/q 就是/n 通过/p 算法/n ，/w 使得/v 机器/np 从/p 大量/mq 历史数据/n 中学/nc 习/ng 规律/n ，/w 提取/v 特征值/n ，/w 例如/v 语音/n 识别/v 里/f 的/u MFCC/en 特征/n 、/w 机器/np 视觉/n 里/f 的/u SIFT/en 特征/n 等/ng ，/w 再/d 把/p 这些/r 特征/n 放到/v 各种/r 机器/np 学习/v 模型/n 中/f ，/w 从而/c 对/a 新/a 的/u 样本/n 做/v 智能/n 识别/v 或/c 对/a 未来/t 做/v 预测/v 。/w
+
+/0
+
+问题/n 来/u 了/dg ，/w 因为/c 在/d 经典/n 机器/np 学习/v 里/f ，/w 这些/r 特征/n 提取/v 算法/n 都/d 是/v 人们/n 根据/n 具体/a 场景/n 数据/n 的/u 特征/n 人工/b 设计/v 出来/v 的/u ，/w 所以/c 这种/r 方法/n 主要/b 靠/ng 人工/b 经验/n 来/u 抽取/v 样本/n 的/u 特征/n 。/w
+
+/0
+
+然而/c ，/w 深度/n 学习/v DL/n 的/u 关键/a 就是/n 要/v 从/p 海量/n 训练/v 数据/n 中/f 自动/b 提取/v 特征/n ，/w 这/r 也/d 是/v Geoffrey/en Hinton/en 和/c Yann/en LeCun/en 这些/r 大牛/nz 们/k 的/u 主要/b 贡献/n 。/w
+
+/0
+
+深度/n 学习/v DL/n 在教/v 会计/nx 算/d 机/np 听/n （/w 语音/n 识别/v ）/w 、/w 看/u （/w 图像/n 识别/v ）/w 、/w 说/ag （/w 自然语言/n 处理/v ）/w 上/f ，/w 都/d 取得/v 了/dg 很大/a 的/u 成绩/n ，/w 尤其/d 是/v 前/f 两者/r 分别/d 比/p 传统/a 的/u MFCC/en 和/c SIFT/en 等/ng 识别率/n 提高/v 了/dg 20%/m 到/ng 30%/m 以上/f ，/w 这个/r 进步/a 是/v 革命性/n 的/u 。/w
+
+/0
+
+简单/a 白话/n 一下/d 深度/n 学习/v 的/u 工作/n 原理/n ，/w 一个/mq 神经元/n 就是/n 一个/mq 分类/v 器/k ，/w 神经元/n 模型/n 就是/n 不停/d 的/u 分类/v ，/w 最终/d 不同/a 特征/n 就/d 抱团/v 了/dg ，/w 神经网络/n 神奇/a 的/u 地方/n 就是/n 每/r 一个/mq 组件/n 非常/b 简单/a ，/w 但是/c 一层一层/qqm 级/n 连/d （/w 多/a 隐含/v 层/n ）/w 后/f ，/w 高质量/n 的/u 特征值/n 就/d 奇妙/a 的/u 产生/v 了/dg 。/w
+
+/0
+
+当然/b ，/w 神经元/n 的/u 参数/n 调整/v 依然/d 高度/b 依赖/v 人/n 的/u 经验/n ，/w 这/r 也/d 是/v 为什么/r 说/ag 深度/n 学习/v DL/n 依旧/z 还是/c 一个/mq 充满/v Tricks/en （/w Yann/en LeCun/en 语/ng ）/w 的/u Dirty/en Work/en （/w Andrew/en Ng/n 语/ng ）/w 。/w
+
+/0
+
+3/m 、/w “/w 人工/b ”/w 人工智能/n
+
+/0
+
+目前/t 实践/v 中/f ，/w 接地气/lga 的/u 人工智能/n 方法/n ，/w 除了/p 前面/f 说/ag 的/u 深度/n 学习/v DL/n ，/w 还有/v 马上/d 讨论/v 的/u “/w 人工/b ”/w 人工智能/n 。/w
+
+/0
+
+2007年/t ，/w 一/m 位/q 谷歌/nt 的/u 实习生/n 路易斯/nr ？/w 冯？安/nr （/w Luis/en von/en Ahn/en ）/w 开发/v 了/dg 一/m 款/n 有趣/a 的/u 程序/n “/w ReCapture/en ”/w ，/w 却/d 无意间/d 开创/v 了/dg 一个/mq 新/a 的/u 人工智能/n 研究方向/n ：/w 「/w 人类/n 计算/v 」/w 。/w
+
+/0
+
+ReCapture/en 的/u 初衷/n 挺/ag 简单/a 的/u ，/w 想/v 利用/v 人类/n 高超/a 的/u 模式/n 识别/v 能力/n ，/w 自动/b 帮/ng 谷歌/nt 公司/nc 完成/v 大量/mq 扫描/v 图书/n 的/u 文字/n 识别/v 工作/n 。/w 于是/c ，/w Luis/en von/en Ahn/en 想到/v ，/w 每天/t 都/d 有/v 大量/mq 的/u 用户/n 在/d 输入/v 验证码/n 来/u 向/p 机器/np 证明/n 自己/r 是/v 人/n 而/c 不是/n 机器/np ，/w 而/c 输入/v 验证码/n 事实上/ldm 就是/n 在/d 完成/v 文本/n 识别/v 。/w
+
+/0
+
+于是/c ，/w 一方面/ldm 是/v 有/v 大量/mq 的/u 扫描/v 的/u 图书/n 中/f 难以/d 识别/v 的/u 文字/n 需要/n 人/n 来/u 识别/v ；/w 另一方面/ldm 是由/n 计算机/np 生成/v 一些/mq 扭曲/v 的/u 图片/n 让/v 大量/mq 的/u 用户/n 做/v 识别/v 以/p 表明/v 自己/r 的/u 身份/n 。/w 那么/c ，/w 为什么/r 不/d 把/p 两个/n 方面/n 结合/v 在/d 一起/d 呢/ng ？/w Luis/en von/en Ahn/en 聪明/a 地/n 让/v 用户/n 在/d 输入/v 识别码/n 的/u 时候/n 悄悄/d 帮助/v 谷歌/nt 完成/v 了/dg 文字/n 识别/v 工作/n ！/w
+
+/0
+
+大家/r 再/d 想/v 一下/d 前文/n 中/f 我们/r 提到/v 的/u 图灵/n 测试/v ，/w 在/d 这个/r 「/w 人类/n 计算/v 」/w ReCapture/en 的/u 例子/n 中/f ，/w 用人/v 来/u 帮助/v 识别/v 文字/n ，/w 是不是/vbv 就是/n A/b 和/c B/n 合二为一/l ，/w 他们/r 一起/d 给/v C/n 提供/v AI/n 服务/v 了/dg 。/w
+
+/0
+
+世界/n 就是/n 这么/r 神奇/a ，/w 人们/n 探索/v 人工智能/n AI/n 一个/mq 多/a 世纪/n 了/dg ，/w 虽然/c 图灵机/n 停机/v 问题/n 证明/n 了/dg 目前/t 现代/a 图灵/n 计算机/np 的/u 局限性/n ，/w 但是/c 在/d 「/w 深度/n 学习/v DL/n 」/w 和/c 「/w “/w 人工/b ”/w 人工智能/n 」/w 两个/n 方向/n 上/f 依然/d 砥砺/v 前行/v 。/w
+
+/0
+
+期望/n 有/v 一/m 天/n ，/w 「/w 超越/v 图灵/n 计算/v 」/w 的/u 量子/n 计算/v 和/c DNA/n 计算/v 也/d 有理/a 论/k 和实/nz 践/vg 上/f 的/u 突破/v 。/w 　　如果/c 人工智能/n 不仅/c 可以/a 帮助/v 我们/r 整个/b 社会/n 拯救/v 环境/n 、/w 治愈/v 疾病/n 和探索宇/nr 宙/ng ，/w 还/d 能/ng 更好/d 地/n 了解/v 我们/r 自己/r ，/w 这/r 也许/d 最终/d 会/n 成为/v 人类/n 获得/v 的/u 最/d 伟大/a 的/u 发现/v 之一/r 。/w

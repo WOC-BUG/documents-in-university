@@ -1,0 +1,22 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m g/m 随想/n ,/w 5/m g/m 随想/n
+2g/n 不可/v 考据/v
+3g/n 技术/n 于/ng 民用/b 的/u 风声/n 出现/v 于/ng 08/m 年/n 普及/a 在/d 12/m 年/n 左右/f
+4g/n 技术/n 于/ng 民用/b 的/u 风声/n 出现/v 于/ng 2013年12月4/t 日/n 普及/a 在/d 14/m 年/n 左右/f
+5/m g/m 技术/n 于/ng 民用/b 的/u 风声/n 出现/v 于/ng 2019/t 年/n 普及/a 在/d ?/w ,/w qq/en _/0 42914232/m ,/w https://blog.csdn.net/qq_42914232/article/details/91127577/url ,/w 2019-06-07/t ,/w 17/m 次/a 阅读/v ,/w 5/m g/m 随想/n -/w qq/en _/0 42914232/m 的/u 博客/n ,/w 2019年06月07日 14:21:04/t ,/w 5/m g/m 随想/n
+2g/n 不可/v 考据/v
+3g/n 技术/n 于/ng 民用/b 的/u 风声/n 出现/v 于/ng 08/m 年/n 普及/a 在/d 12/m 年/n 左右/f
+4g/n 技术/n 于/ng 民用/b 的/u 风声/n 出现/v 于/ng 2013年12月4/t 日/n 普及/a 在/d 14/m 年/n 左右/f
+5/m g/m 技术/n 于/ng 民用/b 的/u 风声/n 出现/v 于/ng 2019/t 年/n 普及/a 在/d ?/w (/w 2019-2020/t )/w 年/n 左右/f
+2g/n 催生/v 出/q 了/dg 彩铃/n ，/w 短信/n 业务/n ，/w 精武/nz 堂/ng 和/c QQ/nz 家园/ny 等/ng 网页/n 游戏/n
+3g/n 催生/v 了/dg 神曲/n +/0 运营商/n 的/u 个性/n 来电/n 铃声/n 业务/n ，/w 诞生/v 了/dg QQ/nz 农场/ny ，/w 停车位/n
+4g/n 催生/v 了/dg 微信公众号/ln ，/w 微博/n ，/w 直播/v ，/w 主播/n ，/w 电竞/n ，/w 短视/a 频/ag ，/w 滴滴打车/nz ，/w 美/a 团/n 外卖/v ，/w 共享/v 单车/n ，/w WeChatpay/en 和/c Alipay/en ，/w 淘宝/nt ，/w 拼/v 多多/a 这种/r 干掉/v 现金/n 的/u 东西/n
+5/m g/m 必然/d 催生/v 手机/np 云端/n 玩/ng ps/en 4/m 游戏/n ，/w 这样/r 将/d 会/n 倒逼/v 腾讯/nt ，/w 网易/nt 等/ng 手/k 游/ng 大厂/n 提升/v 自己/r 的/u 游戏/n 质量/n ，/w 以此/d 来/u 维系/v 自己/r 的/u 游戏/n 圈地/v 位/q
+云/n 相册/n 和云/nr 存储/v 空间/n 的/u 兴起/v ，/w 可以/a 预见/n 的/u 是/v ，/w 是/v 百度/nt 网/n 盘/ng 的/u 必然/d 没落/v ，/w 即使/c 有/v 原来/d 的/u 资源/n 底蕴/n 加成/vn ，/w 我们/r 找/v 资源/n 可能/a 找/v 花/a 15分钟/t ，/w 下载/v 一分/t 钟/n
+另外/c 必然/d 催生/v VR/n 游戏类/n 网吧/n (/w VR/n 发展/v 速度/n 跟上/v 的话/u )/w ，/w 如果/c 硬件/n 厂商/n 舍得/v 赔本/v 占领/v 市场/ny 的话/u ，/w 那么/c VR/n 网吧/n 将/d 不会/v 出现/v ，/w 取而代之/iv 的/u 是/v 全民/n 主机/n :/w VR/n 小霸王/nz 游戏机/np
+另外/c 物联网/n 将/d 逐渐/d 兴起/v ，/w 快递/n 运输/v 行业/n 将/d 会/n 对/a 用户/n 有/v 更多/n 的/u 定制/v 业务/n
+从/p 推广/v 的/u 时间/n 跨度/n 来/u 计算/v ，/w 3g/n 从/p 技术/n 到/ng 推广/v ，/w 用/ng 了/dg 4/m 年/n ;/w 4g/n 从/p 技术/n 到/ng 推广/v ，/w 用/ng 了/dg 2/m 年/n ;/w 5/m g/m 从/p 技术/n 到/ng 推广/v ，/w 用/ng 了/dg 1/m 年/n ./m
+说明/n 技术/n 从/p 开发/v 到/ng 产品/n 落地/v ，/w 以后/f 的/u 时间/n 将/d 会/n 越来越/d 短/a ，/w 可能/a 技术/n 刚刚/d 研发/v 没/d 几/m 个/q 月/n ，/w 产品/n 就/d 落地/v 了/dg
+从/p 技术/n 产生/v 的/u 时间/n 跨度/n 来/u 计算/v ，/w 3g/n 到/ng 4g/n ，/w 用/ng 了/dg 5/m 年/n ；/w 4g/n 到/ng 5/m g/m ，/w 用/ng 了/dg 6/m 年/n ；/w 那么/c 预计/v 5/m g/m 到/ng 6/m g/m ，/w 是否是/v 5-7年/t ？/w
+5/m g/m 其中/r 的/u 物联网/n 分支/n ，/w 到底/d 能否/v 干掉/v 实体/n 超市/ny 店/ny ？/w 万物/n 连接/v 的/u 速度/n 越来越/d 快/a ，/w 依靠/n 信息/n 不对/a 等/ng 的/u 方式/n ，/w 究竟/d 还/d 能否/v 赚/v 到/ng 钱/n ？/w
+5/m g/m 已然/d 如此/r 强大/a ，/w 那么/c 6/m g/m 又/d 将/d 会/n 怎样/r ？/w ,/w ,/w ,/w ,/w ,/w

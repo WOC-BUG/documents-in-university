@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+浅谈5G及其未来 - qq_34082469的博客 - CSDN博客,我们常说的3G、4G,到现在热度越来越高的5G,到底是指什么?又有什么区别? 从1G到5G,这里的G是generation的所写,所指的是第几代蜂窝移动电话系统。1G(第一代...,,,,,,,,,,,,

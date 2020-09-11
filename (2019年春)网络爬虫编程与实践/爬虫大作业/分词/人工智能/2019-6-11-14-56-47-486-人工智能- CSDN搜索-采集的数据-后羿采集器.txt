@@ -1,0 +1,23 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n 相关/v 文章资料/n -/w songzi/en 1228/m 的/u 博客/n -/w CSDN/en 博客/n ,/w https://blog.csdn.net/songzi1228/article/details/76627244/url ,/w 本/d 资源/n 收集/v 自/d 网络/n ,/w 内涵/n 约/d 1100/m 份/n 人工智能/n 、/w 机器/np 学习类/n 型/k 的/u 英文/n 原版/n 论文/n (/w 含有/v 少量/mq 中文/n 论文/n )/w ,/w 分享/v 给/v 需要/n 的/u 朋友/n 们/k ,/w 由于/c 资源/n 分数/n 不能/v 为/p 0/m ,/w 无法/v 免费/v 分享/v ,/w 给/v 个/q 1/m 分表/n 示/vg 下/f 吧/y .../m ,/w ,/w //blog.csdn.net/songzi1228/article/details/76627244/url ,/w ,/w ,/w ,/w ,/w 人工智能/n 相关/v 文章资料/n -/w songzi/en 1228/m 的/u 博客/n ,/w 2017年08月03日 15:55:33/t ,/w 原/b 人工智能/n 相关/v 文章资料/n
+
+
+
+2017年08月03日 15:55:33/t
+songzi/en 1228/m
+阅读/v 数/m ：597/m
+
+
+
+
+
+
+
+
+
+
+
+
+一/m 、/w 人工智能/n (/w AI/en )/w 资料大全/n  /0 点击/v 打开/v 链接/n
+二/m 、/w 我/r 的/u AI/n 转型/v 之路/nz 与/c AI/n 之/u 我/r 见/v （/w 非/d 985211/m 的/u 奋斗路/ns 程/ng 与/c 视角/n ）/w  /0 点击/v 打开/v 链接/n
+三/m 、/w 深度/n 学习/v ：/w 推进/v 人工智能/n 的/u 梦想/n  /0 点击/v 打开/v 链接/n

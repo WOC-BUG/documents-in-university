@@ -1,0 +1,12 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G美洲白皮书：5G开源的现状（pdf）,5G美洲白皮书：5G开源的现状（pdf）nn（2019年2月）这份5G美洲白皮书概述了5G架构，重点介绍了基于3GPP Release 15定义的5G系统架构的开源原则的应用。本文旨在呼吁5G社区的运营商、解决方案供应商和开发商，参与适用于5G的现有开源工作，或在“基础设施”和“管理和控制”等领域启动新的工作，这是5G生态系统可能受益最多的地方。,weixin_44100234,https://blog.csdn.net/weixin_44100234/article/details/88190994,2019-03-05,119次阅读,5G美洲白皮书：5G开源的现状（pdf） - weixin_44100234的博客,2019年03月05日 17:17:32,5G美洲白皮书：5G开源的现状（pdf）
+
+（2019年2月）这份5G美洲白皮书概述了5G架构，重点介绍了基于3GPP Release 15定义的5G系统架构的开源原则的应用。本文旨在呼吁5G社区的运营商、解决方案供应商和开发商，参与适用于5G的现有开源工作，或在“基础设施”和“管理和控制”等领域启动新的工作，这是5G生态系统可能受益最多的地方。社区参与对于帮助实现项目的关键支持，以避免一次性解决方案非常重要。5G开源的现状白皮书由Sprint的联合负责人Lyle Bertz和Mavenir的Bejoy Pankajakshan以及参与本报告开发的5G美洲理事会成员公司的代表撰写。
+
+点击下载白皮书。
+
+KubeCon + CloudNativeCon和Open Source Summit大会日期：
+
+会议日程通告日期：2019 年 4 月 10 日
+	会议活动举办日期：2019 年 6 月 24 至 26 日
+KubeCon + CloudNativeCon和Open Source Summit赞助方案KubeCon + CloudNativeCon和Open Source Summit多元化奖学金现正接受申请KubeCon + CloudNativeCon和Open Source Summit即将首次合体落地中国KubeCon + CloudNativeCon和Open Source Summit购票窗口，立即购票！,,,,,

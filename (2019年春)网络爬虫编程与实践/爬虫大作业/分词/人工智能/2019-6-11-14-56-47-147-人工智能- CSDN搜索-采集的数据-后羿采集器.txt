@@ -1,0 +1,134 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qq_41352018/article/details/80084818/url ,/w 人工智能/n 人工智能/n (/w Artificial/en Intelligence/en ，/w AI/n ）/w 目录/n [/w 显示/v ]/w [/w 编辑/n ]/w 什么/r 是/v 人工智能/n 　　人工智能/n 的/u 定义/n 可以/a 分为/v 两/m 部分/n ，/w 即/c “/w 人工/b ”/w 和/c “/w 智能/n ”/w 。/w “/w 人工/b ”/w 比较/d 好/a 理解/v ，/w 争议性/n 也/d 不大/n 。/w 有时/d 我们/r 会/n 要/v 考虑/v 什么/r 是/v 人力/n 所/n 能/ng 及/c 制造/v 的/u ，/w 或/c 着/n 人/n 自身/r 的/u 智能/n 程度/n 有没有/vmv 高/a 到/ng 可以/a 创造/n 人工智能/n 的/u 地步/n ，/w 等等/u 。/w 但/c 总的来说/ldm ，/w “/w 人工/b 系统/a ”/w 就是/n 通常/b 意义/n 下/f 的/u 人/n .../m ,/w https://blog.csdn.net/qq_41352018/article/details/80084818/url ,/w ,/w qq/en _/0 41352018/m ,/w 2018-04-27/t ,/w //blog.csdn.net/qq_41352018/article/details/80084818/url ,/w 591/m 次/a 阅读/v ,/w 人工智能/n -/w zhi/en 元元/nz 元/q ,/w 2018年04月27日 08:50:03/t ,/w 原/b 人工智能/n
+
+
+
+2018年04月27日 08:50:03/t
+智元/nz 元/q
+阅读/v 数/m ：594/m
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/qq_41352018/article/details/80084818/url
+
+
+
+
+人工智能/n
+人工智能/n (/w Artificial/en Intelligence/en ，/w AI/n ）/w
+
+
+
+
+
+目录/n
+[/w 显示/v ]/w
+
+
+
+
+[/w 编辑/n ]/w
+
+什么/r 是/v 人工智能/n
+
+人工智能/n 的/u 定义/n 可以/a 分为/v 两/m 部分/n ，/w 即/c “/w 人工/b ”/w 和/c “/w 智能/n ”/w 。/w “/w 人工/b ”/w 比较/d 好/a 理解/v ，/w 争议性/n 也/d 不大/n 。/w 有时/d 我们/r 会/n 要/v 考虑/v 什么/r 是/v 人力/n 所/n 能/ng 及/c 制造/v 的/u ，/w 或/c 着/n 人/n 自身/r 的/u 智能/n 程度/n 有没有/vmv 高/a 到/ng 可以/a 创造/n 人工智能/n 的/u 地步/n ，/w 等等/u 。/w 但/c 总的来说/ldm ，/w “/w 人工/b 系统/a ”/w 就是/n 通常/b 意义/n 下/f 的/u 人工/b 系统/a 。/w
+关于/p 什么/r 是/v “/w 智能/n ”/w ，/w 就/d 问题/n 多多/a 了/dg 。/w 这/r 涉及到/v 其它/r 诸如/v 意识/n （/w consciousness/en ）/w 、/w 自我/r （/w self/en ）/w 、/w 思维/n （/w mind/en ）/w （/w 包括/v 无意识/d 的/u 思维/n ）/w 等等/u 问题/n 。/w 人/n 唯一/b 了解/v 的/u 智能/n 是/v 人本/n 身/ng 的/u 智能/n ，/w 这是/n 普遍/a 认同/v 的/u 观点/n 。/w 但是/c 我们/r 对/a 我们/r 自身/r 智能/n 的/u 理解/v 都/d 非常/b 有限/a ，/w 对/a 构成/n 人/n 的/u 智能/n 的/u 必要/a 元素/n 也/d 了解/v 有限/a ，/w 所以/c 就/d 很/d 难/a 定义/n 什么/r 是/v “/w 人工/b ”/w 制造/v 的/u “/w 智能/n ”/w 了/dg 。/w 因此/c 人工智能/n 的/u 研究/v 往往/d 涉及/v 对/a 人/n 的/u 智能/n 本身/r 的/u 研究/v 。/w 其它/r 关于/p 动物/n 或/c 其它/r 人/n
+造/ng 系统/a 的/u 智能/n 也/d 普遍/a 被/ng 认为/v 是/v 人工智能/n 相关/v 的/u 研究课题/n 。/w
+人工智能/n 目前/t 在/d 计算机/np 领域/n 内/f ，/w 得到/v 了/dg 愈加/d 广泛/a 的/u 重视/v 。/w 并/c 在/d 机器人/n ，/w 经济/n 政治/n 决策/n ，/w 控制系统/n ，/w 仿真/v 系统/a 中/f 得到/v 应用/v 。/w
+[/w 编辑/n ]/w
+
+人工智能/n 的/u 研究内容/n
+
+人工智能/n 的/u 研究/v 是/v 高度/b 技术性/n 和/c 专业/a 的/u ，/w 各/r 分支/n 领域/n 都/d 是/v 深入/a 且/c 各/r 不/d 相通/v 的/u ，/w 因而/c 涉及/v 范围/n 极/d 广/a 。/w 人工智能/n 学科/n 研究/v 的/u 主要/b 内容包括/n ：/w 知识/n 表示/v 、/w 自动/b 推理/v 和/c 搜索/n 方法/n 、/w 机器/np 学习/v 和/c 知识/n 获取/v 、/w 知识/n 处理/v 系统/a 、/w 自然语言/n 理解/v 、/w 计算机/np 视觉/n 、/w 智能机/n 器/k 人/n 、/w 自动/b 程序设计/n 等/ng 方面/n 。/w
+1/m ）/w 知识/n 表示/v 是/v 人工智能/n 的/u 基本/a 问题/n 之一/r ，/w 推理/v 和/c 搜索/n 都/d 与/c 表示/v 方法/n 密切/a 相关/v 。/w 常用/n 的/u 知识/n 表示/v 方法/n 有/v ：/w 逻辑/n 表示法/n 、/w 产生/v 式/k 表示法/n 、/w 语义/n 网络/n 表示法/n 和/c 框架/n 表示法/n 等/ng 。/w
+2/m ）/w 常识/n ，/w 自然/a 为人/v 们/k 所/n 关注/v ，/w 已/d 提出/v 多种/a 方法/n ，/w 如/c 非/d 单调/a 推理/v 、/w 定性/v 推理/v 就是/n 从不/d 同/a 角度/n 来/u 表达/v 常识/n 和/c 处理/v 常识/n 的/u 。/w
+3/m ）/w 问题/n 求解/v 中/f 的/u 自动/b 推理/v 是/v 知识/n 的/u 使用/v 过程/n ，/w 由于/c 有/v 多种/a 知识/n 表示/v 方法/n ，/w 相应/v 地/n 有/v 多种/a 推理/v 方法/n 。/w 推理/v 过程/n 一般/a 可/v 分为/v 演绎/v 推理/v 和非/nr 演绎/v 推理/v 。/w 谓词/n 逻辑/n 是/v 演绎/v 推理/v 的/u 基础/n 。/w 结构化/vn 表示/v 下/f 的/u 继承性/n 能/ng 推理/v 是非/n 演绎/v 性/k 的/u 。/w 由于/c 知识/n 处理/v 的/u 需要/n ，/w 近几年来/t 提出/v 了/dg 多种/a 非/d 演/v 泽/ag 的/u 推理/v 方法/n ，/w 如/c 连接/v 机制/n 推理/v 、/w 类比/v 推理/v 、/w 基于/p 示例/n 的/u 推理/v 、/w 反/b 绎/vg 推理/v 和/c 受限/v 推理/v 等/ng 。/w
+4/m ）/w 搜索/n 是/v 人工智能/n 的/u 一/m 种/ng 问题/n 求解/v 方法/n ，/w 搜索/n 策略/n 决定/n 着/n 问题/n 求解/v 的/u 一个/mq 推理/v 步骤/n 中/f 知识/n 被/ng 使用/v 的/u 优先/v 关系/n 。/w 可/v 分为/v 无信/nz 息/ng 导引/v 的/u 盲目/a 搜索/n 和/c 利用/v 经验/n 知识/n 导引/v 的/u 启发式/b 搜索/n 。/w 启发式/b 知识/n 常/ag 由/p 启发式/b 函数/n 来/u 表示/v ，/w 启发式/b 知识/n 利用/v 得/e 越/d 充分/a ，/w 求解/v 问题/n 的/u 搜索/n 空间/n 就/d 越/d 小/a 。/w 典型/a 的/u 启发式/b 搜索/n 方法/n 有/v A/en */w 、/w AO/en */w 算法/n 等/ng 。/w 近几年/t 搜索/n 方法研究/n 开始/v 注意/v 那些/r 具有/v 百万/m 节点/n 的/u 超大规模/b 的/u 搜索/n 问题/n 。/w
+5/m ）/w 机器/np 学习/v 是/v 人工智能/n 的/u 另/d 一重/nz 要/v 课题/n 。/w 机器/np 学习/v 是/v 指/ng 在/d 一定/b 的/u 知识/n 表示/v 意义/n 下/f 获取/v 新知/n 识/ng 的/u 过程/n ，/w 按照/p 学习机/n 制/k 的/u 不同/a ，/w 主要/b 有/v 归纳/v 学习/v 、/w 分析/v 学习/v 、/w 连接/v 机制/n 学习/v 和/c 遗传学/n 习/ng 等/ng 。/w
+6/m ）/w 知识/n 处理/v 系统/a 主要/b 由/p 知识库/n 和/c 推理/v 机组/n 成/ng 。/w 知识库/n 存储/v 系统/a 所/n 需要/n 的/u 知识/n ，/w 当/ag 知识/n 量/n 较大/a 而/c 又/d 有/v 多种/a 表示/v 方法/n 时/n ，/w 知识/n 的/u 合理/a 组织/n 与/c 管理/v 是/v 重要/a 的/u 。/w 推理/v 机/np 在/d 问题/n 求解/v 时/n ，/w 规定/n 使用/v 知识/n 的/u 基本/a 方法/n 和/c 策略/n ，/w 推理/v 过程/n 中/f 为/p 记录/n 结果/c 或/c 通信/v 需/ng 设/v 数据库/n 或/c 采用/v 黑板/n 机制/n 。/w 如果/c 在/d 知识库/n 中/f 存储/v 的/u 是/v 某/r 一/m 领域/n (/w 如/c 医疗/n 诊断/v )/w 的/u 专家/n 知识/n ，/w 则/c 这样/r 的/u 知识/n 系统/a 称为/v 专家系统/n 。/w 为/p 适应/v 复杂/a 问题/n 的/u 求解/v 需要/n ，/w 单一/a 的/u 专家系统/n 向/p 多/a 主体/n 的/u 分布式/b 人工智能/n 系统/a 发展/v ，/w 这时/r 知识/n 共享/v 、/w 主体/n 间/f 的/u 协作/v 、/w 矛盾/a 的/u 出现/v 和/c 处理/v 将/d 是/v 研究/v 的/u 关键/a 问题/n 。/w
+人工智能/n 的/u 研究/v 可以/a 分为/v 几/m 个/q 技术/n 问题/n 。/w 其/r 分支/n 领域/n 主要/b 集中/a 在/d 解决/v 具体/a 问题/n ，/w 其中/r 之一/r 是/v ，/w 如何/r 使用/v 各种/r 不同/a 的/u 工具/n 完成/v 特定/b 的/u 应用程序/n 。/w AI/n 的/u 核心/n 问题/n 包括/v 推理/v 、/w 知识/n 、/w 规划/n 、/w 学习/v 、/w 交流/v 、/w 感知/v 、/w 移动/v 和/c 操作/v 物体/n 的/u 能力/n 等/ng 。/w 强人/n 工智/nz 能/ng 目前/t 仍然/d 是/v 该/r 领域/n 的/u 长远/a 目标/n 。/w 目前/t 比较/d 流行/v 的/u 方法/n 包括/v 统计/v 方法/n ，/w 计算/v 智能/n 和传统意/nr 义/ng 的/u AI/n 。/w 目前/t 有/v 大量/mq 的/u 工具/n 应用/v 了/dg 人工智能/n ，/w 其中包括/n 搜索/n 和数/n 学/k 优化/v 、/w 逻辑/n 推演/v 。/w 而/c 基于/p 仿生学/n 、/w 认知心理学/n ，/w 以及/c 基于/p 概率论/n 和/c 经济学/n 的/u 算法/n 等等/u 也/d 在/d 逐步/d 探索/v 当中/f 。/w
+[/w 编辑/n ]/w
+
+人工智能/n 的/u 历史/n
+
+“/w 人工智能/n ”/w 一/m 词/n 最初/t 是在/n 1956年/t 达特茅斯/nz （/w Dartmouth/en ）/w 学会/nc 上/f 提出/v 的/u 。/w 从/p 那/c 以后/f ，/w 研究者/n 们/k 发展/v 了/dg 众多/a 理论/n 和/c 原理/n ，/w 人工智能/n 的/u 概念/n 也/d 随之/d 扩展/v 。/w 人工智能/n 是/v 一门/nz 极富/v 挑战性/n 的/u 科学/a ，/w 从事/v 这项/r 工作/n 的/u 人/n 必须/d 懂得/v 计算机/np 知识/n ，/w 心理学/n 和/c 哲学/n 。/w 人工智能/n 是/v 包括/v 十分/d 广泛/a 的/u 科学/a ，/w 它/r 由/p 不同/a 的/u 领域/n 组成/v ，/w 如/c 机器/np 学习/v ，/w 计算机/np 视觉/n 等等/u ，/w 总的说来/ldm ，/w 人工智能/n 研究/v 的/u 一个/mq 主要/b 目标/n 是/v 使/ng 机器/np 能够/v 胜任/v 一些/mq 通常/b 需要/n 人类/n 智能/n 才能/v 完成/v 的/u 复杂/a 工作/n 。/w 但/c 不同/a 的/u 时代/n 、/w 不同/a 的/u 人/n 对/a 这种/r “/w 复杂/a 工作/n ”/w 的/u 理解/v 是/v 不同/a 的/u 。/w 例如/v 繁重/a 的/u 科学/a 和/c 工程/n 计算/v 本来/b 是/v 要人/n 脑/n 来/u 承担/v 的/u ,/w 现在/t 计算机/np 不但/c 能/ng 完成/v 这种/r 计算/v ,/w
+而且/c 能够/v 比人/nz 脑/n 做/v 得/e 更快/n 、/w 更/d 准确/a ,/w 因/c 之/u 当代人/n 已/d 不再/d 把/p 这种/r 计算/v 看作/v 是/v “/w 需要/n 人类/n 智能/n 才能/v 完成/v 的/u 复杂/a 任务/n ”/w ,/w 可见/c 复杂/a 工作/n 的/u 定义/n 是/v 随着/p 时代/n 的/u 发展/v 和/c 技术/n 的/u 进步/a 而/c 变化/v 的/u ,/w 人工智能/n 这/r 门/n 科学/a 的/u 具体/a 目标/n 也/d 自然/a 随着/p 时代/n 的/u 变化/v 而发/nz 展/ng 。/w 它/r 一方面/ldm 不断/d 获得/v 新/a 的/u 进展/v ,/w 一方面/ldm 又/d 转向/v 更/d 有意/d 义/ng 、/w 更加/d 困难/a 的/u 目标/n 。/w 目前/t 能够/v 用来/v 研究人/n 工智/nz 能/ng 的/u 主要/b 物质/n 手段/n 以及/c 能够/v 实现/v 人工智能/n 技术/n 的/u 机器/np 就是/n 计算机/np ,/w 人工智能/n 的/u 发展历史/n 是/v 和/c 计算机/np 科学/a 与/c 技术/n 的/u 发展史/n 联系/v 在/d 一起/d 的/u 。/w 除了/p 计算机/np 科学/a 以外/f ,/w 人工智能/n 还/d 涉及/v 信息论/n 、/w 控制论/n 、/w 自动化/v 、/w 仿生学/n 、/w 生物学/n 、/w 心理学/n 、/w 数理逻辑/ln 、/w 语言学/n 、/w 医学/n 和/c 哲学/n 等/ng 多门/mq 学科/n 。/w
+
+在/d 定义/n 智慧/n 时/n ，/w 英国/ns 科学家/n 图灵/n 做出/v 了/dg 贡献/n ，/w 如果/c 一/m 台/n 机器/np 能够/v 通过/p 称之为/v 图灵/n 实验/n 的/u 实验/n ，/w 那/c 它/r 就是/n 智慧/n 的/u ，/w 图灵/n 实验/n 的/u 本质/n 就是/n 让/v 人/n 在/d 不/d 看/u 外型/n 的/u 情况/n 下/f 不能/v 区别/n 是/v 机器/np 的/u 行为/n 还是/c 人/n 的/u 行为/n 时/n ，/w 这个/r 机器/np 就是/n 智慧/n 的/u 。/w 不要/df 以为/v 图灵/n 只/bg 做出/v 这/r 一点/mq 贡献/n 就/d 会/n 名/n 垂/dg 表/n 史/ng ，/w 如果/c 你/r 是/v 学/k 计算机/np 的/u 就/d 会/n 知道/v ，/w 对于/p 计算机/np 人士/n 而言/u ，/w 获得/v 图灵奖/nz 就/d 等于/v 物理学家/n 获得/v 诺贝尔奖/nz 一样/a ，/w 图灵/n 在理/a 论/k 上/f 奠定/v 了/dg 计算机/np 产生/v 的/u 基础/n ，/w 没有/d 他/r 的/u 杰出/a 贡献/n 世界/n 上/f 根本/a 不可/v 能/ng 有/v 这个/r 东西/n ，/w 更/d 不用说/lv 什么/r 网络/n 了/dg 。/w
+
+科学家/n 早/a 在/d 计算机/np 出现/v 之前/f 就/d 已经/d 希望/n 能够/v 制造/v 出/q 可能/a 模拟/v 人类/n 思维/n 的/u 机器/np 了/dg ，/w 在/d 这方面/mq 我/r 希望/n 提到/v 另外/c 一个/mq 杰出/a 的/u 数学家/n 、/w 哲学家/n 布尔/n ，/w 通过/p 对/a 人类/n 思维/n 进行/v 数学/n 化/k 精确/a 地/n 刻画/v ，/w 他/r 和/c 其它/r 杰出/a 的/u 科学家/n 一起/d 奠定/v 了/dg 智慧/n 机器/np 的/u 思维/n 结构/n 与/c 方法/n ，/w 今天/t 我们/r 的/u 计算机/np 内/f 使用/v 的/u 逻辑/n 基础/n 正是/v 他/r 所/n 创立/v 的/u 。/w
+我/r 想/v 任何/r 学/k 过/d 计算机/np 的/u 人/n 对/a 布尔/n 一定/b 不会/v 陌生/a ，/w 我们/r 所学/v 的/u 布尔/n 代数/n ，/w 就是/n 由/p 它/r 开创/v 的/u 。/w 当/ag 计算机/np 出现/v 后/f ，/w 人类/n 开始/v 真正/b 有/v 了/dg 一个/mq 可以/a 模拟/v 人类/n 思维/n 的/u 工具/n 了/dg ，/w 在/d 以后/f 的/u 岁月/n 中/f ，/w 无数/mq 科学家/n 为/p 这个/r 目标/n 努力/a 着/n ，/w 现在/t 人工智能/n 已经/d 不再/d 是/v 几/m 个/q 科学家/n 的/u 专利/n 了/dg ，/w 全世界/n 几乎/d 所有/b 大学/nc 的/u 计算机系/n 都/d 有人/r 在/d 研究/v 这/r 门/n 学科/n ，/w 学习/v 计算机/np 的/u 大学生/n 也/d 必须/d 学习/v 这样/r 一门/nz 课程/n ，/w 在/d 大家/r 不懈/z 的/u 努力/a 下/f ，/w 现在/t 计算机/np 似乎/d 已经/d 变得/v 十分/d 聪明/a 了/dg ，/w 刚刚/d 结束/v 的/u 国际象棋/n 大赛/nh 中/f ，/w 计算机/np 把/p 人/n 给/v 胜/ag 了/dg ，/w 这是/n 人们/n 都/d 知道/v 的/u ，/w 大家/r 或许/d 不会/v 注意/v 到/ng ，/w 在/d 一些/mq 地方/n 计算机/np 帮助人/n 进行/v 其它/r 原来/d 只/bg 属于/v 人类/n 的/u 工作/n ，/w 计算机/np 以/p 它/r 的/u 高速/b 和/c 准确/a 为人/v 类/n 发挥/v 着/n 它/r 的/u 作用/n 。/w 人工智能/n 始终/d 是/v 计算机/np 科学/a 的/u 前沿/s 学科/n ，/w 计算机/np 编程语言/n 和/c 其它/r 计算机/np 软件/n 都/d 因为/c 有/v 了/dg 人工智能/n 的/u 进展/v 而/c 得以/v 存在/v 。/w
+现在/t 人类/n 已经/d 把/p 计算机/np 的/u 计算/v 能力/n 提高/v 到/ng 了/dg 前所未有/iv 的/u 地步/n ，/w 而/c 人工智能/n 也/d 在下/r 世纪/n 领导/n 计算机/np 发展/v 的/u 潮头/n ，/w 现在/t 人工智能/n 的/u 发展/v 因为/c 受到/v 理论/n 上/f 的/u 限制/v 不是/n 很/d 明显/a ，/w 但/c 它/r 必将/d 象/n 今天/t 的/u 网络/n 一样/a 深远/a 地/n 影响/v 我们/r 的/u 生活/n 。/w
+让/v 我们/r 顺着/p 人工智能/n 的/u 发展/v 来回/n 顾/ng 一下/d 计算机/np 的/u 发展/v ，/w 在/d 1941年/t 由美国/n 和/c 德国/ns 两/m 国共/n 同/a 研制/v 的/u 第一/m 台/n 计算机/np 诞生/v 了/dg ，/w 从此以后/lt 人类/n 存储/v 和/c 处理/v 信息/n 的/u 方法/n 开始/v 发生/v 革命性/n 的/u 变化/v 。/w 第一/m 台/n 计算机/np 的/u 体型/n 可不/l 算/d 太/ag 好/a ，/w 它/r 比较/d 胖/a ，/w 还/d 比较/d 娇气/a ，/w 需要/n 工作/n 在/d 有空/v 调/n 的/u 房间/n 里/f ，/w 如果/c 希望/n 它/r 处理/v 什么/r 事情/n ，/w 需要/n 大家/r 把/p 线路/n 重新/d 接/ng 一次/mq ，/w 这/r 可不是/l 一/m 件/ng 省力/a 气/n 的/u 活儿/n ，/w 把/p 成千上万/ia 的/u 线/n 重新/d 焊/v 一下/d 我/r 想/v 现在/t 的/u 程序员/n 已经/d 是/v 生活/n 在/d 天堂/n 中/f 了/dg 。/w
+终于/d 在/d 1949/m 发明/n 了/dg 可以/a 存储/v 程序/n 的/u 计算机/np ，/w 这样/r ，/w 编程/v 程序/n 总算/d 可以/a 不用/d 焊/v 了/dg ，/w 好多/mq 了/dg 。/w 因为/c 编程/v 变得/v 十分/d 简单/a ，/w 计算机/np 理论/n 的/u 发展/v 终于/d 导致/v 了/dg 人工智能/n 理论/n 的/u 产生/v 。/w 人们/n 总算/d 可以/a 找到/v 一个/mq 存储/v 信息/n 和/c 自动/b 处理/v 信息/n 的/u 方法/n 了/dg 。/w
+
+虽然/c 现在/t 看来/v 这种/r 新机/n 器/k 已经/d 可以/a 实现/v 部分/n 人类/n 的/u 智力/n ，/w 但是/c 直到/v 50/m 年代/n 人们/n 才/d 把/p 人类/n 智力/n 和/c 这种/r 新机/n 器/k 联系/v 起来/v 。/w 美籍/b 俄裔/b 数学家/n 、/w 控制论/n 的/u 创始人/n 诺伯特/nr ·/w 维/jns 纳/ng （/w Norbert/en Wiener/en ）/w 在/d 反馈/v 理论/n 上/f 的/u 研究/v 最终/d 让/v 他/r 提出/v 了/dg 一个/mq 论断/n ，/w 所有人/n 类/n 智力/n 的/u 结果/c 都/d 是/v 一/m 种/ng 反馈/v 的/u 结果/c ，/w 通过/p 不断/d 地/n 将/d 结果/c 反馈/v 给/v 机体/n 而/c 产生/v 的/u 动作/n ，/w 进而/c 产生/v 了/dg 智能/n 。/w 我们/r 家/k 的/u 抽水马桶/n 就是/n 一个/mq 十分/d 好/a 的/u 例子/n ，/w 水/n 之所以/c 不会/v 常流/nz 不断/d ，/w 正是/v 因为/c 有/v 一个/mq 装置/n 在/d 检测/v 水位/n 的/u 变化/v ，/w 如果/c 水/n 太/ag 多/a 了/dg ，/w 就/d 把/p 水管/n 给/v 关/n 了/dg ，/w 这/r 就/d 实现/v 了/dg 反馈/v ，/w 是/v 一/m 种/ng 负反馈/n 。/w 如果/c 连/d 我们/r 厕所/n 里/f 的/u 装置/n 都/d 可以/a 实现/v 反馈/v 了/dg ，/w 那/c 我们/r 应该/v 可以/a 用/ng 一/m 种/ng 机器/np 实现/v 反馈/v ，/w 进而/c 实现/v 人类/n 智力/n 的/u 机器/np 形式/n 重现/v 。/w 这种/r 想法/n 对于/p 人工智能/n 早期/f 的/u 有着/v 重大/a 的/u 影响/v 。/w
+在/d 1955/m 的/u 时候/n ，/w 美国/ns 计算机/np 科学家/n 艾伦/nr ·/w (/w Allen/en Newell/en )/w 和/c 赫伯特/nr ·/w 西/f 蒙/jns (/w Herbert/en
+A.Simon/url )/w The/en Logic/en Theorist/en 程序/n ，/w 它/r 是/v 一/m 种/ng 采用/v 树形/b 结构/n 的/u 程序/n ，/w 在/d 程序/n 运行/v 时/n ，/w 它/r 在/d 树/n 中搜/n 索/ag ，/w 寻找/v 与/c 可能/a 答案/n 最/d 接近/v 的/u 树/n 的/u 分枝/n 进行/v 探索/v ，/w 以/p 得到/v 正确/a 的/u 答案/n 。/w 这个/r 程序/n 在/d 人工智能/n 的/u 历史/n 上/f 可以/a 说是/n 有/v 重要/a 地位/n 的/u ，/w 它/r 在学/v 术/ng 上/f 和/c 社会/n 上/f 带来/v 的/u 巨大/a 的/u 影响/v ，/w 以至于/c 我们/r 现在/t 所/n 采用/v 的/u 方法/n 思想/n 方法/n 有/v 许多/mq 还是/c 来自/v 于/ng 这个/r 50/m 年代/n 的/u 程序/n 。/w
+
+1956年/t ，/w “/w 人工智能/n 之/u 父/ng ”/w 和/c LISP/en 语言/n 的/u 发明人/n (/w ZT/en )/w 约翰/nr ·/w 麦卡锡/nr （/w John/en McCarthy/en ）/w 召集/v 了/dg 一次/mq 会议/nh 来/u 讨论/v 人工智能/n 未来/t 的/u 发展方向/n 。/w 从/p 那时/r 起/q ，/w 人工智能/n 的/u 名字/n 才/d 正式/a 确立/v ，/w 这次/r 会议/nh 在/d 人工智能/n 历史/n 上/f 不是/n 巨大/a 的/u 成功/a ，/w 但是/c 这次/r 会议/nh 给/v 人工智能/n 奠基人/n 相互/b 交流/v 的/u 机会/n ，/w 并/c 为/p 未来/t 人工智能/n 的/u 发展/v 起/q 了/dg 铺垫/n 的/u 作用/n 。/w 在/d 此/r 以后/f ，/w 工人/n 智能/n 的/u 重点/d 开始/v 变为/v 建立/v 实用/a 的/u 能够/v 自行/b 解决/v 问题/n 的/u 系统/a ，/w 并/c 要求/n 系统/a 有/v 自学/v 习/ng 能力/n 。/w 在/d 1957年/t ，/w 艾伦/nr ·/w 和/c 赫伯特/nr ·/w 西/f 蒙/jns 又/d 开发/v 了/dg 一个/mq 程序/n 称为/v General/en
+Problem/en Solver/en (/w GPS/en )/w ，/w 它/r 对/a 维/jns 纳/ng 的/u 反馈/v 理论/n 有/v 一个/mq 扩展/v ，/w 并能/nz 够/d 解决/v 一些/mq 比较/d 普遍/a 的/u 问题/n 。/w 别的/r 科学家/n 在/d 努力/a 开发/v 系统/a 时/n ，/w 麦卡锡/nr 创建/v 了/dg 表/n 处理/v 语言/n LISP/en ，/w 直到/v 现在/t 许多/mq 人工智能/n 程序/n 还/d 在/d 使用/v 这种/r 语言/n ，/w 它/r 几乎/d 成/ng 了/dg 人工智能/n 的/u 代名词/n ，/w 到/ng 了/dg 今天/t ，/w LISP/en 仍然/d 在/d 发展/v 。/w
+在/d 1963年/t ，/w 麻省理工学院/nt 受到/v 了/dg 美国政府/nt 和/c 国防部/nt 的/u 支持/v 进行/v 人工智能/n 的/u 研究/v ，/w 美国政府/nt 不是/n 为了/p 别的/r ，/w 而是/n 为了/p 在/d 冷战/n 中保/n 持/v 与/c 苏联/ns 的/u 均衡/a ，/w 虽然/c 这个/r 目的/n 是/v 带/ng 点火/v 药味/n 的/u ，/w 但是/c 它/r 的/u 结果/c 却/d 使/ng 人工智能/n 得到/v 了/dg 巨大/a 的/u 发展/v 。/w 其后/t 发展/v 出/q 的/u 许多/mq 程序/n 十分/d 引人注目/iv ，/w SHRDLU/en 是/v 维/jns 诺格拉/nr 德/jns (/w T.Winograd/url )/w 于/ng 1972年/t 在/d 美国麻省理工学院/nt 建立/v 了/dg 一个/mq 用/ng 自然语言/n 指挥/n 机器人/n 动作/n 的/u 系统/a 。/w 在/d 这个/r 大发/nz 展/ng 的/u 60/m 年代/n ，/w STUDENT/en 系统/a 可以/a 解决/v 代数/n 问题/n ，/w 而/c SIR/en (/w Selective/en
+Integrated/en Rail/en )/w 系统/a 则/c 开始/v 理解/v 简单/a 的/u 英文/n 句子/n 了/dg ，/w SIR/n 的/u 出现/v 导致/v 了/dg 新/a 学科/n 的/u 出现/v ：/w 自然语言/n 处理/v 。/w 在/d 70/m 年代/n 出现/v 的/u 专家系统/n 成/ng 了/dg 一个/mq 巨大/a 的/u 进步/a ，/w 他/r 头/k 一次/mq 让/v 人/n 知道/v 计算机/np 可以/a 代替/v 人类/n 专家/n 进行/v 一些/mq 工作/n 了/dg ，/w 由于/c 计算机/np 硬件/n 性能/n 的/u 提高/v ，/w 人工智能/n 得以/v 进行/v 一系列/b 重要/a 的/u 活动/n ，/w 如/c 统计分析/n 数据/n ，/w 参与/v 医疗/n 诊断/v 等等/u ，/w 它/r 作为/n 生活/n 的/u 重要/a 方面/n 开始/v 改变/v 人类/n 生活/n 了/dg 。/w 在理/a 论/k 方面/n ，/w 70/m 年代/n 也/d 是/v 大发/nz 展/ng 的/u 一个/mq 时期/n ，/w 计算机/np 开始/v 有/v 了/dg 简单/a 的/u 思维/n 和/c 视觉/n ，/w 而/c 不能不/d 提/n 的/u 是在/n 70/m 年代/n ，/w 另/d 一个/mq 人工智能/n 语言/n Prolog/n 语言/n 诞生/v 了/dg ，/w 它/r 和/c LISP/en 一起/d 几乎/d 成/ng 了/dg 人工智能/n 工作者/n 不可/v 缺少/v 的/u 工具/n 。/w 不要/df 以为/v 人工智能/n 离/ng 我们/r 很/d 远/a ，/w 它/r 已经/d 在/d 进入/v 我们/r 的/u 生活/n ，/w 模/ng 煳/a 控制/v ，/w 决策/n 支持/v 等等/u 方面/n 都/d 有人/r 工智/nz 能/ng 的/u 影子/n 。/w 让/v 计算机/np 这个/r 机器/np 代替/v 人类/n 进行/v 简单/a 的/u 智力/n 活动/n ，/w 把/p 人类/n 解放/a 用于/v 其它/r 更/d 有益/a 的/u 工作/n ，/w 这是/n 人工智能/n 的/u 目的/n ，/w 但/c 我/r 想/v 对/a 科学/a 真理/n 的/u 无尽/b 追求/v 才/d 是/v 最终/d 的/u 动力/n 吧/y 。/w
+[/w 编辑/n ]/w
+
+人工智能/n 的/u 应用领域/n
+
+1/m 、/w 问题/n 求解/v
+人工智能/n 的/u 第一/m 大成/n 就是/n 下棋/v 程序/n ，/w 在下/r 棋/n 程度/n 中/f 应用/v 的/u 某些/r 技术/n ，/w 如/c 向前/v 看/u 几/m 步/n ，/w 把/p 困难/a 的/u 问题/n 分解/v 成/ng 一些/mq 较/d 容易/a 的/u 子问题/n ，/w 发展/v 成为/v 搜索/n 和/c 问题/n 归纳/v 这样/r 的/u 人工智能/n 基本技术/n 。/w 今天/t 的/u 计算机程序/ln 已/d 能够/v 达到/v 下/f 各种/r 方盘棋/nr 和国际象/nr 棋/n 的/u 锦标赛/nh 水平/n 。/w 但是/c ，/w 尚未/d 解决/v 包括/v 人类/n 棋手/n 具有/v 的/u 但/c 尚/ag 不能/v 明确/a 表达/v 的/u 能力/n 。/w 如/c 国际象棋/n 大师/nx 们/k 洞察/v 棋局/n 的/u 能力/n 。/w 另/d 一个/mq 问题/n 是/v 涉及/v 问题/n 的/u 原/b 概念/n ，/w 在/d 人工智能/n 中/f 叫/v 问题/n 表示/v 的/u 选择/n ，/w 人们/n 常/ag 能/ng 找到/v 某种/r 思考/v 问题/n 的/u 方法/n ，/w 从而/c 使/ng 求解/v 变易/v 而/c 解决/v 该/r 问题/n 。/w 到/ng 目前/t 为止/u ，/w 人工智能/n 程序/n 已/d 能/ng 知道/v 如何/r 考虑/v 它们/r 要/v 解决/v 的/u 问题/n ，/w 即/c 搜索/n 解答/v 空间/n ，/w 寻找/v 较/d 优/a 解答/v 。/w
+2/m 、/w 逻辑推理/n 与/c 定理/n 证明/n
+逻辑推理/n 是/v 人工智能/n 研究/v 中/f 最/d 持久/a 的/u 领域/n 之一/r ，/w 其中/r 特别/a 重要/a 的/u 是/v 要/v 找到/v 一些/mq 方法/n ，/w 只/bg 把/p 注意力/n 集中/a 在/d 一个/mq 大型/b 的/u 数据库/n 中/f 的/u 有关/v 事实上/ldm ，/w 留意/v 可信/a 的/u 证明/n ，/w 并/c 在/d 出现/v 新/a 信息/n 时/n 适时/a 修正/v 这些/r 证明/n 。/w 对数/n 学/k 中/f 臆测/v 的/u 题/n 。/w 定理/n 寻找/v 一个/mq 证明/n 或/c 反证/v ，/w 不仅/c 需要/n 有/v 根据/n 假设/n 进行/v 演绎/v 的/u 能力/n ，/w 而且/c 许多/mq 非/d 形式/n 的/u 工作/n ，/w 包括/v 医疗/n 诊断/v 和信/nz 息/ng 检索/v 都/d 可以/a 和/c 定理/n 证明/n 问题/n 一样/a 加以/v 形式化/v ，/w 因此/c ，/w 在/d 人工智能/n 方法/n 的/u 研究/v 中/f 定理/n 证明/n 是/v 一个/mq 极其/d 重要/a 的/u 论题/n 。/w
+3/m 、/w 自然语言/n 处理/v
+自然语言/n 的/u 处理/v 是/v 人工智能/n 技术应用/n 于/ng 实际/a 领域/n 的/u 典型/a 范例/n ，/w 经过/p 多年/n 艰苦/a 努力/a ，/w 这/r 一/m 领域/n 已获得/n 了/dg 大量/mq 令人注目/iv 的/u 成果/n 。/w 目前/t 该/r 领域/n 的/u 主要/b 课题/n 是/v ：/w 计算机系/n 统/ng 如何/r 以/p 主题/n 和/c 对话/v 情境/n 为/p 基础/n ，/w 注重/v 大量/mq 的/u 常识/n ——/w 世界/n 知识/n 和/c 期望/n 作用/n ，/w 生成/v 和/c 理解/v 自然语言/n 。/w 这是/n 一个/mq 极其/d 复杂/a 的/u 编码/n 和解/v 码/ng 问题/n 。/w
+4/m 、/w 智能/n 信息/n 检索/v 技术/n
+信息/n 获取/v 和精化技/nr 术/ng 已/d 成为/v 当代/t 计算机/np 科学/a 与/c 技术/n 研究/v 中/f 迫切/a 需要/n 研究/v 的/u 课题/n ，/w 将/d 人工智能/n 技术应用/n 于这一/nr 领域/n 的/u 研究/v 是/v 人工智能/n 走向/v 广泛/a 实际/a 应用/v 的/u 契机/n 与/c 突破口/n 。/w
+5/m 、/w 专家系统/n
+专家系统/n 是/v 目前/t 人工智能/n 中/f 最/d 活跃/a 、/w 最/d 有成/v 效/ng 的/u 一个/mq 研究领域/n ,/w 它/r 是/v 一/m 种/ng 具有/v 特定/b 领域/n 内/f 大量/mq 知识/n 与/c 经验/n 的/u 程序/n 系统/a 。/w 近年来/t ，/w 在/d “/w 专家系统/n ”/w 或/c “/w
+知识/n 工程/n ”/w 的/u 研究/v 中/f 已/d 出现/v 了/dg 成功/a 和/c 有效/a 应用/v 人工智能/n 技术/n 的/u 趋势/n 。/w 人类/n 专家/n 由于/c 具有/v 丰富/a 的/u 知识/n ，/w 所以/c 才能/v 达到/v 优异/a 的/u 解决/v 问题/n 的/u 能力/n 。/w 那么/c 计算机程序/ln 如果/c 能/ng 体现/v 和/c 应用/v 这些/r 知识/n ，/w 也/d 应该/v 能/ng 解决/v 人类/n 专家/n 所/n 解决/v 的/u 问题/n ，/w 而且/c 能/ng 帮助人/n 类/n 专家/n 发现/v 推理/v 过程/n 中/f 出现/v 的/u 差错/n ，/w 现在/t 这/r 一点/mq 已/d 被/ng 证实/v 。/w 如/c 在/d 矿物/n 勘测/v 、/w 化学分析/lv 、/w 规划/n 和/c 医学/n 诊断/v 方面/n ，/w 专家系统/n 已经/d 达到/v 了/dg 人类/n 专家/n 的/u 水平/n 。/w 成功/a 的/u 例子/n 如/c ：/w PROSPECTOR/en 系统/a （/w 用于/v 地质学/n 的/u 专家系统/n ）/w 发现/v 了/dg 一个/mq 钼矿/n 沉积/v ，/w 价值/n 超过/v 1亿/m 美元/n 。/w DENDRL/en 系统/a 的/u 性能/n 已/d 超过/v 一般/a 专家/n 的/u 水平/n ，/w 可/v 供/ng 数百/m 人/n 在/d 化学/n 结构/n 分析/v 方面/n 的/u 使用/v 。/w MY/en
+CIN/en 系统/a 可以/a 对/a 血液/n 传染病/n 的/u 诊断/v 治疗方案/n 提供/v 咨询/v 意见/n 。/w 经/ng 正式/a 鉴定/v 结果/c ，/w 对/a 患有/v 细菌/n 血液病/n 、/w 脑膜炎/n 方面/n 的/u 诊断/v 和/c 提供/v 治疗方案/n 已/d 超过/v 了/dg 这方面/mq 的/u 专家/n 。/w
+[/w 编辑/n ]/w
+
+强人/n 工智/nz 能/ng 和/c 弱/a 人工智能/n
+
+人工智能/n 的/u 一个/mq 比较/d 流行/v 的/u 定义/n ，/w 也/d 是/v 该/r 领域/n 较/d 早/a 的/u 定义/n ，/w 是由/n 当时/t 麻省理工学院/nt 的/u 约翰/nr ·/w 麦卡锡/nr 在/d 1956年/t 的/u 达/ng 特/ag 矛/n 斯/r 会议/nh 上/f 提出/v 的/u ：/w 人工智能/n 就是/n 要/v 让/v 机器/np 的/u 行为/n 看起来/v 就/d 像是/v 人/n 所/n 表现/v 出/q 的/u 智能/n 行为/n 一样/a 。/w 但是/c 这个/r 定义/n 似乎/d 忽略/v 了/dg 强人/n 工智/nz 能/ng 的/u 可能性/n （/w 见/v 下/f ）/w 。/w 另/d 一个/mq 定义/n 指/ng 人工智能/n 是/v 人造/b 机器/np 所/n 表现/v 出来/v 的/u 智能/n 。/w 总体/n 来讲/u ，/w 目前/t 对/a 人工智能/n 的/u 定义/n 大多/d 可/v 划分/v 为/p 四/m 类/n ，/w 即/c 机器/np “/w 像/n 人/n 一样/a 思考/v ”/w 、/w “/w 像/n 人/n 一样/a 行动/v ”/w 、/w “/w 理性/n 地/n 思考/v ”/w 和/c “/w 理性/n 地行/nz 动/dg ”/w 。/w 这里/r “/w 行动/v ”/w 应/ng 广义/n 地理/n 解/ng 为/p 采取/v 行动/v ，/w 或/c 制定/v 行动/v 的/u 决策/n ，/w 而/c 不是/n 肢体/n 动作/n 。/w
+[/w 编辑/n ]/w
+
+强人/n 工智/nz 能/ng
+
+强人/n 工智/nz 能/ng 观点/n 认为/v 有/v 可能/a 制造/v 出/q 真正/b 能/ng 推理/v （/w Reasoning/en ）/w 和解/v 决/d 问题/n （/w 解决/v 问题/n ）/w 的/u 智能机/n 器/k ，/w 并且/c ，/w 这样/r 的/u 机器/np 能/ng 将/d 被/ng 认为/v 是/v 有知/v 觉/n 的/u ，/w 有/v 自我/r 意识/n 的/u 。/w 强人/n 工智/nz 能/ng 可以/a 有/v 两/m 类/n ：/w
+
+类人/b 的/u 人工智能/n ，/w 即/c 机器/np 的/u 思考/v 和/c 推理/v 就/d 像/n 人/n 的/u 思维/n 一样/a 。/w 非/d 类人/b 的/u 人工智能/n ，/w 即/c 机器/np 产生/v 了/dg 和/c 人/n 完全/a 不一/v 样/ng 的/u 知觉/n 和/c 意识/n ，/w 使用/v 和/c 人/n 完全/a 不一/v 样/ng 的/u 推理/v 方式/n 。/w
+[/w 编辑/n ]/w
+
+弱/a 人工智能/n
+
+弱/a 人工智能/n 观点/n 认为/v 不可/v 能/ng 制造/v 出/q 能/ng 真正/b 地/n 推理/v 和解/v 决/d 问题/n 的/u 智能机/n 器/k ，/w 这些/r 机器/np 只不过/d 看起来/v 像是/v 智能/n 的/u ，/w 但是/c 并/c 不/d 真正/b 拥有/v 智能/n ，/w 也/d 不会/v 有/v 自主/v 意识/n 。/w
+强人/n 工智/nz 能/ng 的/u 研究/v 目前/t 处于/v 停滞不前/lv 的/u 状态/n 下/f 。/w 人工智能/n 研究者/n 不一/v 定/d 同意/v 弱/a 人工智能/n ，/w 也/d 不一/v 定/d 在乎/v 或者/c 了解/v 强人/n 工智/nz 能/ng 和/c 弱/a 人工智能/n 的/u 内容/n 与/c 差别/n 。/w 就/d 现下/nz 的/u 人工智能/n 研究领域/n 来看/u ，/w 研究者/n 已/d 大量/mq 造/ng 出/q 看起来/v 像是/v 智能/n 的/u 机器/np ，/w 获取/v 相当/d 丰硕/a 的/u 理论/n 上/f 和实/nz 质/n 上/f 的/u 成果/n ，/w 如/c 2009年/t 康乃尔大学/ns 教授/nx Hod/en Lipson/en 和其博/nr 士/ng 研究生/n Michael/en Schmidt/en 研发/v 出/q 的/u Eureqa/en 计算机程序/ln ，/w 只要/c 给予/v 一些/mq 数据/n ，/w 这/r 计算机程序/ln 自己/r 只用/v 几十/mq 个/q 小时/n 计算/v 就/d 推论/v 出/q 牛顿/nr 花费/n 多年/n 研究/v 才/d 发现/v 的/u 牛顿/nr 力学/n 公式/n ，/w 等于/v 只用/v 几十/mq 个/q 小时/n 就/d 自己/r 重新/d 发现/v 牛顿/nr 力学/n 公式/n ，/w 这/r 计算机程序/ln 也/d 能/ng 用来/v 研究/v 很多/mq 其他/r 领域/n 的/u 科学/a 问题/n 上/f 。/w
+[/w 编辑/n ]/w
+
+对/a 强人/n 工智/nz 能/ng 的/u 哲学/n 争论/v
+
+“/w 强人/n 工智/nz 能/ng ”/w 一/m 词/n 最初/t 是/v 约翰/nr ·/w 罗杰斯/ns ·/w 希尔/nr 勒/ng 针对/v 计算机/np 和/c 其它/r 信息处/n 理/n 机器/np 创造/n 的/u ，/w 其/r 定义/n 为/p ：/w
+“/w 强人/n 工智/nz 能/ng 观点/n 认为/v 计算机/np 不仅/c 是/v 用来/v 研究人/n 的/u 思维/n 的/u 一/m 种/ng 工具/n ；/w 相反/v ，/w 只要/c 运行/v 适当/a 的/u 程序/n ，/w 计算机/np 本身/r 就是/n 有/v 思维/n 的/u 。/w ”/w （/w J/en Searle/en in/en Minds/en Brains/en and/en Programs./url The/en Behavioral/en and/en Brain/en Sciences/en ,/w vol/en ./m 3/m ,/w 1980/m ）/w
+关于/p 强人/n 工智/nz 能/ng 的/u 争论/v ，/w 不同于/n 更/d 广义/n 的/u 一元论/n 和/c 二元论/n 的/u 争论/v 。/w 其/r 争论/v 要点/n 是/v ：/w 如果/c 一/m 台/n 机器/np 的/u 唯一/b 工作/n 原理/n 就是/n 转换/v 编码/n 数据/n ，/w 那么/c 这/r 台/n 机器/np 是不是/vbv 有/v 思维/n 的/u ？/w 希尔/nr 勒/ng 认为/v 这是/n 不可/v 能/ng 的/u 。/w 他/r 举/ag 了/dg 个中/r 文房/n 间/f 的/u 例子/n 来说/u 明/ag ，/w 如果/c 机器/np 仅仅/d 是/v 转换/v 数据/n ，/w 而/c 数据/n 本身/r 是/v 对/a 某些/r 事情/n 的/u 一/m 种/ng 编码/n 表现/v ，/w 那么/c 在/d 不理/v 解这一/nr 编码/n 和/c 这/r 实际/a 事情/n 之间/f 的/u 对应/v 关系/n 的/u 前提/n 下/f ，/w 机器/np 不可/v 能/ng 对/a 其/r 处理/v 的/u 数据/n 有/v 任何/r 理解/v 。/w 基于/p 这/r 一/m 论点/n ，/w 希尔/nr 勒/ng 认为/v 即使/c 有机/b 器/k 通过/p 了/dg 图灵/n 测试/v ，/w 也/d 不一/v 定/d 说明/n 机器/np 就/d 真的/d 像/n 人/n 一样/a 有/v 思维/n 和/c 意识/n 。/w
+也/d 有/v 哲学家/n 持/v 不同/a 的/u 观点/n 。/w 丹尼尔/nz ·/w 在/d 其/r 着作/n 《/w 意识/n 的/u 解释/v 》/w （/w Consciousness/en Explained/en ）/w 里/f 认为/v ，/w 人/n 也/d 不过/c 是/v 一/m 台/n 有/v 灵魂/n 的/u 机器/np 而已/y ，/w 为什么/r 我们/r 认为/v ：/w “/w 人/n 可以/a 有/v 智能/n ，/w 而/c 普通机/n 器/k 就/d 不能/v ”/w 呢/ng ？/w 他/r 认为/v 像/n 上述/b 的/u 数据/n 转换机/nz 器/k 是/v 有/v 可能/a 有/v 思维/n 和/c 意识/n 的/u 。/w 有的/r 哲学家/n 认为/v 如果/c 弱/a 人工智能/n 是/v 可/v 实现/v 的/u ，/w 那么/c 强人/n 工智/nz 能/ng 也/d 是/v 可/v 实现/v 的/u 。/w 比如/v 西/f 蒙/jns ·/w 布莱克本/ns （/w Simon/en Blackburn/en ）/w 在/d 其/r 哲学/n 入门/v 教材/n Think/en 里/f 说道/v ，/w 一个/mq 人/n 的/u 看起来/v 是/v “/w 智能/n ”/w 的/u 行动/v 并/c 不能/v 真正/b 说明/n 这个/r 人/n 就/d 真的/d 是/v 智能/n 的/u 。/w 我/r 永远/b 不可/v 能/ng 知道/v 另/d 一个/mq 人/n 是否/v 真的/d 像/n 我/r 一样/a 是/v 智能/n 的/u ，/w 还是/c 说/ag 她/r ／/w 他/r 仅仅/d 是/v 看起来/v 是/v 智能/n 的/u 。/w 基于/p 这个/r 论点/n ，/w 既然/c 弱/a 人工智能/n 认为/v 可以/a 令/ag 机器/np 看起来/v 像是/v 智能/n 的/u ，/w 那/c 就/d 不能/v 完全/a 否定/v 这/r 机器/np 是/v 真的/d 有/v 智能/n 的/u 。/w 布莱克本/ns 认为/v 这是/n 一个/mq 主观/a 认定/v 的/u 问题/n 。/w
+需要/n 指出/v 的/u 是/v ，/w 弱/a 人工智能/n 并非/d 和/c 强人/n 工智/nz 能/ng 完全/a 对立/v ，/w 也就是说/ldm ，/w 即使/c 强人/n 工智/nz 能/ng 是/v 可能/a 的/u ，/w 弱/a 人工智能/n 仍然/d 是/v 有意/d 义/ng 的/u 。/w 至少/d ，/w 今日/t 的/u 计算机/np 能/ng 做/v 的/u 事/n ，/w 像/n 算术/n 运算/v 等/ng ，/w 在/d 一百/j 多年/n 前/f 是/v 被/ng 认为/v 很/d 需要/n 智能/n 的/u 。/w 并且/c ，/w 即使/c 强人/n 工智/nz 能/ng 被/ng 证明/n 为/p 可能/a 的/u ，/w 也/d 不/d 代表/nx 强人/n 工智/nz 能/ng 必定/d 能/ng 被/ng 研制出/n 来/u 。/w
+[/w 编辑/n ]/w
+
+人工智能/n 的/u 发展现状/n 及/c 前景/n
+
+目前/t 绝大多数/n 人工智能/n 系统/a 都/d 是/v 建立/v 在/d 物理/n 符号/n 系统/a 假设/n 之上/f 的/u 。/w 在/d 尚未/d 出现/v 能/ng 与/c 物理/n 符号/n 系统/a 假设/n 相/d 抗衡/v 的/u 新/a 的/u 人工智能/n 理论/n 之前/f ，/w 无论/c 从设计/n 原理/n 还是/c 从/p 已/d 取得/v 的/u 实验/n 结果/c 来看/u ，/w Soar/en 在/d 探讨/v 智能/n 行为/n 的/u 一般/a 特征/n 和/c 人类/n 认知/v 的/u 具体/a 特征/n 的/u 艰难/a 征途/n 上/f 都/d 取得/v 了/dg 有特色/n 的/u 进展/v 或/c 成就/n ，/w 处在/v 人工智能/n 研究/v 的/u 前沿/s 。/w
+80 年/t 代，以/nr 纳维尔/nr (/w Newell/en )/w 为/p 代表/nx 的/u 研究/v 学者/n 总结/n 了/dg 专家系统/n 的/u 成功/a 经验/n ，/w 吸收/v 了/dg 认知科学/n 研究/v 的/u 最新/a 成果/n ，/w 提出/v 了/dg 作为/n 通用/v 智能/n 基础/n 的/u 体系结构/n Soar/en 。/w 目前/t 的/u Soar/en 已经/d 显示/v 出/q 强大/a 的/u 问题/n 求解/v 能力/n 。/w 在/d Soar/en 中/f 已/d 实现/v 了/dg 30/m 多种/a 搜索/n 方法/n ，/w 实现/v 了/dg 若干/mq 知识/n 密集型/b 任务/n (/w 专家系统/n )/w ，/w 如/c RI/en （/w 用/ng 产生/v 式/k 规则/a 表达/v 知识/n ，/w 采用/v 正向/b 推理/v 的/u 控制/v 结构/n ，/w 用/ng OPSS/en 语言/n 写成/v 。/w ）/w 等/ng 。/w rooks/en 提出/v 了/dg 人工智能/n 的/u 一/m 种/ng 新/a 的/u 途径/n ，/w 认为/v 无需/v 概念/n 或者说/c 无需/v 符号/n 表示/v ，/w 智能/n 系统/a 的/u 能力/n 可以/a 逐步/d 进化/v 。/w 在/d 它/r 的/u 研究/v 中/f 突出/a 4/m
+个/q 概念/n :/w
+1/m )/w 所/n 处/nc 的/u 境遇/n ，/w 机器人/n 不/d 涉及/v 抽象/a 的/u 描述/v ,/w 而是/n 处在/v 直接/a 影响/v 系统/a 的/u 行为/n 的/u 境地/n 。/w
+2/m )/w 具体化/v ，/w 机器人/n 有/v 躯干/n ,/w 有/v 直接/a 来自/v 周围/f 世界/n 的/u 经验/n ,/w 他们/r 的/u 感官/n 起/q 作用/n 后/f 立即/d 会/n 有/v 反馈/v 。/w
+3/m )/w 智能/n ，/w 智能/n 的/u 来源/n 不仅仅/d 是/v 限于/v 计算/v 装置/n ,/w 也/d 是由/n 于/ng 与/c 周围/f 进行/v 交互/b 的/u 动态/n 决定/n 。/w
+4/m )/w 浮现/v ，/w 从/p 系统/a 与/c 周围/f 世界/n 的/u 交互/b 以及/c 有时候/d 系统/a 的/u 部件/n 间/f 的/u 交互/b 浮现/v 出/q 智能/n 。/w

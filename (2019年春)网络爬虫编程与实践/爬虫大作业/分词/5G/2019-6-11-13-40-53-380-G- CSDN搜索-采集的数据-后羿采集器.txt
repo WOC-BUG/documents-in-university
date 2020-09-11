@@ -1,0 +1,52 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en NR/n 的/u 参考/v 信号/n （/w RS/en )/w ,/w 在/d 3/m GPP/en TS/en 38.211/m （/w Release/en 15/m ）/w 中/f ，/w 5/m G/en NR/n 定义/n 了/dg 几/m 种/ng reference/en signal/en （/w 参考/v 信号/n ）/w 。/w ,/w wangyongtao/en 1240/m ,/w https://blog.csdn.net/wangyongtao1240/article/details/82414110/url ,/w 2018-09-05/t ,/w 7631/m 次/a 阅读/v ,/w 5/m G/en NR/n 的/u 参考/v 信号/n （/w RS/en )/w -/w 移动通信/ln 工程师/nx 的/u 博客/n ,/w 2018年09月05日 09:04:14/t ,/w 在/d 3/m GPP/en TS/en 38.211/m （/w Release/en 15/m ）/w 中/f ，/w 5/m G/en NR/n 定义/n 了/dg 几/m 种/ng reference/en signal/en （/w 参考/v 信号/n ）/w 。/w
+
+/0
+
+/0  /0  /0  /0 上行/v 链路/n reference/en signal/en 有/v 4/m 种/ng ，/w 分别/d 为/p ：/w
+
+/0
+
+1/m ，/w Demodulation/en reference/en signal/en for/en PUSCH/en
+
+2/m ，/w Phase/en -/w tracking/en reference/en signals/en for/en PUSCH/en
+
+3/m ，/w Demodulation/en reference/en signal/en for/en PUCCH/en
+
+4/m ，/w Sounding/en reference/en signal/en
+
+/0
+
+/0  /0  /0  /0 下行/v 链路/n reference/en signal/en 有/v 5/m 种/ng ，/w 分别/d 为/p ：/w
+
+/0
+
+1/m ，/w Demodulation/en reference/en signals/en for/en PDSCH/en
+
+2/m ，/w Phase/en -/w tracking/en reference/en signals/en for/en PDSCH/en
+
+3/m ，/w Demodulation/en reference/en signals/en for/en PDCCH/en
+
+4/m ，/w Demodulation/en reference/en signals/en for/en PBCH/en
+
+5/m ，/w CSI/en reference/en signals/en
+
+/0
+
+
+
+/0
+
+/0  /0  /0  /0 不同于/n 4/m G/en LTE/en ，/w 5/m G/en NR/n 不/d 使用/v Cell/en -/w specific/en RSs/n （/w CRS/en ）/w ；/w 所有/b 的/u RS/n 都/d 是/v UE/en -/w specific/en RSs/n 。/w
+
+/0
+
+/0  /0  /0  /0 4/m G/en LTE/en 只/bg 在/d 上行/v 链路/n 使用/v DMRS/en ，/w 但是/c 由于/c 5/m G/en NR/n 没有/d CRS/en ，/w 因此/c 其下/nz 行/a 链路/n 也/d 需要/n 用到/v DMRS/en 。/w
+
+/0
+
+/0  /0  /0  /0 PT/en -/w RS/n 用于/v 校正/v 由于/c 晶振/nz 相位/n 误差/n 引起/v 的/u 干扰/v 。/w
+
+/0
+
+/0 CSI/en -/w RS/n 用于/v 获取/v 下行/v 链路/n 的/u CSI/n （/w channel/en -/w state/en  /0 information/en ）/w 信息/n ；/w 同一个/b 无线/b 资源/n 单位/n 上/f ，/w 不会/v 同时/c 传输/v CSI/en -/w RS/n 和/c DMRS/en 。/w ,/w ,/w ,/w ,/w ,/w

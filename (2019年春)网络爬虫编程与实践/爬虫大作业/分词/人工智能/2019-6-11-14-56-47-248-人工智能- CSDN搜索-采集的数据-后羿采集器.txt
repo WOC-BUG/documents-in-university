@@ -1,0 +1,273 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qq_42158959/article/details/81368625/url ,/w 欢迎/v 使用/v Markdown/en 编辑器/n 写博/v 客/n nn/en 本/d Markdown/en 编辑器/n 使用/v StackEdit/en 修改/v 而/c 来/u ，/w 用/ng 它/r 写博/v 客/n ，/w 将/d 会/n 带来/v 全新/b 的/u 体验/v 哦/e ：/w nnnMarkdown/en 和/c 扩展/v Markdown/en 简洁/a 的/u 语法/n n/n 代码/n 块/q 高亮/nr n/n 图片/n 链接/n 和/c 图片/n 上传/v nLaTex/en 数学/n 公式/n nUML/en 序列/n 图/n 和/c 流程图/n n/n 离/ng 线/n 写博/v 客/n n/n 导入/v 导出/v Markdown/en 文件/n n/n 丰富/a 的/u 快捷键/n nnnnnnn/en 快捷键/n nnn/en 加/ng 粗/a Ctrl/en +/0 B/en n/n 斜体/n Ctrl/en +/0 I/en .../m ,/w https://blog.csdn.net/qq_42158959/article/details/81368625/url ,/w ,/w qq/en _/0 42158959/m ,/w 2018-08-02/t ,/w //blog.csdn.net/qq_42158959/article/details/81368625/url ,/w 167/m 次/a 阅读/v ,/w 人工智能/n -/w qq/en _/0 42158959/m 的/u 博客/n ,/w 2018年08月02日 22:08:16/t ,/w 转/q 人工智能/n
+
+
+
+2018年08月02日 22:08:16/t
+于/ng 太太/nm
+阅读/v 数/m ：168/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+欢迎/v 使用/v Markdown/en 编辑器/n 写博/v 客/n
+
+本/d Markdown/en 编辑器/n 使用/v StackEdit/en 修改/v 而/c 来/u ，/w 用/ng 它/r 写博/v 客/n ，/w 将/d 会/n 带来/v 全新/b 的/u 体验/v 哦/e ：/w
+
+
+Markdown/en 和/c 扩展/v Markdown/en 简洁/a 的/u 语法/n
+代码/n 块/q 高亮/nr
+图片/n 链接/n 和/c 图片/n 上传/v
+LaTex/en 数学/n 公式/n
+UML/en 序列/n 图/n 和/c 流程图/n
+离/ng 线/n 写博/v 客/n
+导入/v 导出/v Markdown/en 文件/n
+丰富/a 的/u 快捷键/n
+
+
+
+
+
+
+快捷键/n
+
+
+加/ng 粗/a Ctrl/en +/0 B/en
+斜体/n Ctrl/en +/0 I/en
+引用/v Ctrl/en +/0 Q/en
+插入/v 链接/n Ctrl/en +/0 L/b
+插入/v 代码/n Ctrl/en +/0 K/n
+插入/v 图片/n Ctrl/en +/0 G/m
+提升/v 标题/n Ctrl/en +/0 H/n
+有序/a 列表/v Ctrl/en +/0 O/n
+无序/b 列表/v Ctrl/en +/0 U/n
+横线/n Ctrl/en +/0 R/en
+撤销/v Ctrl/en +/0 Z/en
+重/a 做/v Ctrl/en +/0 Y/en
+
+
+
+
+Markdown/en 及/c 扩展/v
+
+
+Markdown/en 是/v 一/m 种/ng 轻量级/b 标记/n 语言/n ，/w 它/r 允许/v 人们/n 使用/v 易读易/nr 写/v 的/u 纯/a 文本/n 格式/n 编写/v 文档/n ，/w 然后/c 转换/v 成格式丰/nr 富/a 的/u HTML/n 页面/n 。/w ——/w [/w 维基/nz 百科/n ]/w
+
+
+使用/v 简单/a 的/u 符号/n 标识/n 不同/a 的/u 标题/n ，/w 将/d 某些/r 文字/n 标记/n 为/p 粗/a 体/k 或者/c 斜体/n ，/w 创建/v 一个/mq 链接/n 等/ng ，/w 详细/a 语法/n 参考/v 帮助/v ？/w 。/w
+
+本/d 编辑器/n 支持/v Markdown/en Extra/en ,/w 　扩展/v 了/dg 很多/mq 好用/a 的/u 功能/n 。/w 具体/a 请/v 参考/v Github./url
+
+
+
+表格/n
+
+Markdown/en 　Extra/en 　表格/n 语法/n ：/w
+
+
+
+
+项目/n
+价格/n
+
+
+
+Computer/en
+$/0 1600/m
+
+
+Phone/en
+$/0 12/m
+
+
+Pipe/en
+$/0 1/m
+
+
+
+
+可以使/n 用/ng 冒号/n 来/u 定义/n 对齐/v 方式/n ：/w
+
+
+
+
+项目/n
+价格/n
+数量/n
+
+
+
+Computer/en
+1600/m 元/q
+5/m
+
+
+Phone/en
+12/m 元/q
+12/m
+
+
+Pipe/en
+1/m 元/q
+234/m
+
+
+
+
+
+
+定义/n 列表/v
+
+
+Markdown/en 　Extra/en 　定义/n 列表/v 语法/n ：/w
+项目/n １/m
+项目/n ２/m
+定义/n A/b
+
+定义/n B/n
+
+项目/n ３/m
+定义/n C/n
+
+
+定义/n D/n
+
+
+定义/n D/n 内容/n
+
+
+
+
+
+
+代码/n 块/q
+
+代码/n 块/q 语法/n 遵循/v 标准/a markdown/en 代码/n ，/w 例如/v ：/w
+
+
+
+@/w requires/en _/0 authorization/en
+def/en somefunc/en (/w param/en 1/m =/0 ''/en ,/w param/en 2/m =/0 0/m )/w :/w
+'''A/en docstring'''/en
+if/en param/en 1/m >/w param/en 2/m :/w #/w interesting/en
+print/en 'Greater'/en
+return/en (/w param/en 2/m -/w param/en 1/m +/0 1/m )/w or/en None/en
+class/en SomeClass/en :/w
+pass/en
+>/w >/w >/w message/en =/0 '''interpreter/en
+.../m prompt'''/en 12345678910/m
+
+
+
+脚注/n
+
+生成/v 一个/mq 脚注/n 1./m
+
+
+
+目录/n
+
+用/ng [/w TOC/en ]/w 来生/t 成/ng 目录/n ：/w
+
+
+
+欢迎/v 使用/v Markdown/en 编辑器/n 写博/v 客/n
+快捷键/n
+Markdown/en 及/c 扩展/v
+表格/n
+定义/n 列表/v
+代码/n 块/q
+脚注/n
+目录/n
+数学/n 公式/n
+UML/en 图/n :/w
+
+
+离/ng 线/n 写博/v 客/n
+浏览器/n 兼容/v
+
+
+
+
+
+
+
+
+数学/n 公式/n
+
+使用/v MathJax/en 渲染/v LaTex/en 数学/n 公式/n ，/w 详见/v math.stackexchange.com./url
+
+
+行内/f 公式/n ，/w 数学/n 公式/n 为/p ：/w Γ/0 (/w n/en )/w =/0 (/w n/n −/0 1/m )/w !/w ∀/0 n/n ∈/0 N/n Γ/0 (/w n/en )/w =/0 (/w n/n −/0 1/m )/w !/w ∀/0 n/n ∈/0 N/n 。/w
+块/q 级/n 公式/n ：/w
+
+
+
+
+x/en =/0 −/0 b/en ±/m b2/n −/0 4/m ac/n −/0 −/0 −/0 −/0 −/0 −/0 −/0 √/0 2/m ax/en =/0 −/0 b/en ±/m b2/n −/0 4/m ac/en 2/m a/b
+
+更多/n LaTex/en 语法/n 请/v 参考/v 这儿/r ./m
+
+
+
+UML/en 图/n :/w
+
+可以/a 渲染/v 序列/n 图/n ：/w
+
+
+
+Created/en with/en Rapha/en ë/0 l/en 2.1.2/m 张三/nr 张三李四/ln 李/ng 四/m 嘿/e ，/w 小四/n 儿/k ,/w 写博/v 客/n 了/dg 没/d ?/w 李/ng 四/m 愣/ag 了/dg 一下/d ，/w 说/ag ：/w 忙/a 得/e 吐血/v ，/w 哪/r 有时/d 间/f 写/v 。/w
+
+或者/c 流程图/n ：/w
+
+
+
+Created/en with/en Rapha/en ë/0 l/en 2.1.2/m 开始/v 我/r 的/u 操作/v 确认/v ？/w 结束/v yesno/en
+
+
+关于/p 序列/n 图/n 语法/n ，/w 参考/v 这儿/r ,/w
+关于/p 流程图/n 语法/n ，/w 参考/v 这儿/r ./m
+
+
+
+
+离/ng 线/n 写博/v 客/n
+
+即使/c 用户/n 在/d 没有/d 网络/n 的/u 情况/n 下/f ，/w 也/d 可以通过/n 本/d 编辑器/n 离/ng 线/n 写博/v 客/n （/w 直接/a 在/d 曾经/d 使用/v 过/d 的/u 浏览器/n 中/f 输入/v write.blog.csdn.net/mdeditor/url 即可/v 。/w Markdown/en 编辑器/n 使用/v 浏览器/n 离/ng 线/n 存储/v 将/d 内容/n 保存/v 在/d 本地/r 。/w
+
+用户/n 写博/v 客/n 的/u 过程/n 中/f ，/w 内容/n 实时/d 保存/v 在/d 浏览器/n 缓存/n 中/f ，/w 在用/b 户/ng 关闭/v 浏览器/n 或者/c 其它/r 异常/a 情况/n 下/f ，/w 内容/n 不会/v 丢失/v 。/w 用户/n 再次/d 打开/v 浏览器/n 时/n ，/w 会/n 显示/v 上次/t 用户/n 正在/n 编辑/n 的/u 没有/d 发表/v 的/u 内容/n 。/w
+
+博客/n 发表/v 后/f ，/w 本地/r 缓存/n 将/d 被/ng 删除/v 。/w
+
+用户/n 可以/a 选择/n 把/p 正在/n 写/v 的/u 博客/n 保存/v 到/ng 服务器/n 草稿/n 箱/ng ，/w 即使/c 换/v 浏览器/n 或者/c 清除/v 缓存/n ，/w 内容/n 也/d 不会/v 丢失/v 。/w
+
+
+注意/v ：/w 虽然/c 浏览器/n 存储/v 大部分/n 时候/n 都/d 比较/d 可靠/a ，/w 但/c 为了/p 您/r 的/u 数据/n 安全/a ，/w 在/d 联网/v 后/f ，/w 请/v 务必/d 及时/a 发表/v 或者/c 保存/v 到/ng 服务器/n 草稿/n 箱/ng 。/w
+
+
+
+
+浏览器/n 兼容/v
+
+
+目前/t ，/w 本/d 编辑器/n 对/a Chrome/en 浏览器/n 支持/v 最为/d 完整/a 。/w 建议/n 大家/r 使用/v 较/d 新版/b 本/d 的/u Chrome/en 。/w
+IE/n ９/m 以下/f 不支/v 持/v
+IE/n ９/m ，/w １０/m ，/w １１/m 存在/v 以下/f 问题/n
+不支/v 持/v 离/ng 线/n 功能/n
+IE/en 9/m 不支/v 持/v 文件/n 导入/v 导出/v
+IE/en 10/m 不支/v 持/v 拖拽/v 文件/n 导入/v
+
+
+
+
+这里/r 是/v 脚注/n 的/u 内容/n ./m ↩/0

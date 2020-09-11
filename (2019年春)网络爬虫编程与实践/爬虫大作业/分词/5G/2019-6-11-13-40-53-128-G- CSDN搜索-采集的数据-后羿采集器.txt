@@ -1,0 +1,76 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 名词/n 术语/n ,/w 5/m GC/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/en Core/en Network/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/m 核心/n 网/n nn/en 5/m QI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/en QoS/en Identifier/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/m 服务/v 质量/n 标识/n nnAM.../url ,/w xunye/en _/0 dream/en ,/w https://blog.csdn.net/xunye_dream/article/details/82025436/url ,/w 2018-08-24/t ,/w 3097/m 次/a 阅读/v ,/w 5/m G/m 名词/n 术语/n -/w xunye/en 的/u 博客/n ,/w 2018年08月24日 21:23:54/t ,/w 5/m GC/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/en Core/en Network/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/m 核心/n 网/n
+
+5/m QI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/en QoS/en Identifier/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 5/m G/m 服务/v 质量/n 标识/n
+
+AMF/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Access/en and/en Mobility/en Management/en Function/en  /0  /0  /0 访问/v 和/c 移动/v 管理/v 功能/n
+
+CGI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Cell/en Global/en Identifier/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 小区/ny 全局/n 标识/n
+
+CP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Control/en Plane/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 控制/v 面/a
+
+DRB/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Data/en Radio/en Bearer/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 数据/n 无线/b 承载/v
+
+E/en -/w CID/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Enhanced/en Cell/en -/w ID/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 增强/v 小区/ny ID/n
+
+EP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Elementary/en Procedure/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 基本/a 流程/n
+
+E/en -/w RAB/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 E/en -/w UTRAN/en Radio/en Access/en Bearer/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 E/en -/w UTRAN/en 无线接入/n 承载/v
+
+GBR/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Guaranteed/en Bit/en Rate/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 保证/v 比特/q 率/ag  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0
+
+GTP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 GPRS/en Tunnelling/en Protocol/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 GPRS/n 隧道/ny 协议/n  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0
+
+GUAMI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Globally/en Unique/en AMF/en Identifier/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 全球/n 唯一/b 的/u AMF/en 标识符/n
+
+IE/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Information/en Element/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 信/n 元/q
+
+K/en _/0 AFM/en _/0 CIK/en  /0  /0  /0  /0  /0  /0  /0  /0 KAMF/en Change/en Indicator/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0
+
+LMF/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Location/en Management/en Function/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 位置/n 管理/v 功能/n
+
+N/en 3/m IWF/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Non/en 3/m GPP/en InterWorking/en Function/en
+
+NAS/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Non/en -/w Access/en Stratum/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 非/d 接入/v 层/n
+
+NGAP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 NG/en Application/en Protocol/en
+
+NRPPa/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 NR/en Positioning/en Protocol/en Annex/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 NR/n 定位/n 协议/n 附件/n
+
+NSSAI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Network/en Slice/en Selection/en Assistance/en Information/en  /0  /0 网络/n 切片/n 选择/n 辅助/v 信息/n
+
+OTDOA/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Observed/en Time/en Difference/en of/en Arrival/en
+
+PDCP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Packet/en Data/en Convergence/en Protocol/en  /0  /0  /0  /0  /0  /0  /0  /0  /0 数据包/n 传输/v 协议/n
+
+PLMN/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Public/en Land/en Mobile/en Network/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 公用/v 陆地/n 移动网/n 络/ng
+
+PWS/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Public/en Warning/en System/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 公共/b 告警/v 系统/a
+
+QoS/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Quality/en of/en Service/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 服务/v 质量/n
+
+RAN/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Radio/en Access/en Network/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 无线接入/n 网络/n
+
+RRC/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Radio/en Resource/en Control/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 无线/b 资源/n 控制/v
+
+SCTP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Stream/en Control/en Transmission/en Protocol/en  /0  /0  /0  /0  /0  /0 流/ng 控制/v 传输/v 协议/n
+
+SMF/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Session/en Management/en Function/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 会话/v 管理/v 功能/n
+
+S/en -/w NG/en -/w RAN/en node/en  /0  /0  /0 Secondary/en NG/en -/w RAN/en node/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 辅助/v NG/en -/w RAN/en 节点/n
+
+S/en -/w NSSAI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Single/en Network/en Slice/en Selection/en Assistance/en Information/en  /0  /0  /0 单/b 网络/n 切片/n 选择/n 辅助/v 信息/n
+
+TAI/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Tracking/en Area/en Identity/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 跟踪/v 区域/n 标识/n
+
+TEID/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Tunnel/en Endpoint/en Identifier/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 隧道/ny 端点/n 标识符/n
+
+TNL/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Transport/en Network/en Layer/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 传输网/n 络/ng 层/n
+
+TNLA/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Transport/en Network/en Layer/en Association/en  /0  /0  /0  /0  /0  /0  /0  /0 传输网/n 络/ng 层/n 协会/nc
+
+UE/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 User/en Equipment/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 用户/n 设备/n
+
+UP/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 User/en Plane/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 用户/n 面/a
+
+UPF/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 User/en Plane/en Function/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 用户/n 面/a 功能/n ,/w ,/w ,/w ,/w ,/w

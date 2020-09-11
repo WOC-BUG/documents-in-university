@@ -1,0 +1,34 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G简介,3GPP定义：    nn3GPP从Rel.15开始定义5G标准，分为支持4G EPC演进的NSA（Not StandAlone），和5G NR(New Radio)模式。3GPP将5G标准分成2个大的阶段来完成，第一个是Release15，主要面向eMBB场景，包括：NSA（Non-Standalone, 非独立组网）和SA（Standalone，独立组网）两个阶段。独立组网标准就是使用5G N...,xlfdzh2359,https://blog.csdn.net/xlfdzh2359/article/details/83184523,2018-10-19,484次阅读,5G简介 - xlfdzh2359的博客,2018年10月19日 16:48:45,3GPP定义：    
+
+3GPP从Rel.15开始定义5G标准，分为支持4G EPC演进的NSA（Not StandAlone），和5G NR(New Radio)模式。3GPP将5G标准分成2个大的阶段来完成，第一个是Release15，主要面向eMBB场景，包括：NSA（Non-Standalone, 非独立组网）和SA（Standalone，独立组网）两个阶段。独立组网标准就是使用5G NR以及5G核心网，将在2018年6月完成；第二个是Release16，将在2019年12月完成，主要面向uRLLC和mMTC两大场景。
+
+带宽的变化：   
+
+    5G定义了新的频段C-Band和毫米波频段, 频谱范围为3.3GHz-4.2GHz， 4.4GHz-5.0GHz）和毫米波频段26GHz/28GHz/39GHz，C-band上最大支持100MHz，在毫米波上最大支持400MHz
+
+终端的变化：
+
+    从传统的2天线演进成4天线甚至更多，从而增大了复用层数。
+
+上下行解耦：
+
+    3GPP中的正式名称是 LTE-NR UL coexistence，用LTE低频空闲频谱共享给NR上行使用，既弥补了C-Band以及高频在上行覆盖上的不足，又充分利用了LTE空闲频谱的无线资源，解决了5G上行覆盖不足的问题。
+
+全新的物理层架构：
+
+新的波形：
+
+      LTE下行支持CP-OFDM（没有DFT预变换）波形，上行仅支持DFT-s-OFDM的波形。NR在此基础上在上行也引入了CP-OFDM的波形，可以支持更加灵活的数据调度，提高了频谱利用率。
+
+更多的口空设置：
+
+    5G中支持更多的子载波间隔，以及更多的子帧配置
+
+全新的信道编码：
+
+     5G NR采用了全新的信道编码方式，即数据信道用LDPC编码，控制信道和广播信道用Polar编码。这一改进可以提高NR信道编码效率，适应5G大数据量，高可靠性和低时延的传输需求。
+
+CU-DU 分离技术：
+
+     通过引入中央控制单元（Central Unit）,一方面，在业务层面可以实现无线资源的统一管理、移动性的集中控制，从而进一步提高网络性能；另一方面，在架构层面，CU既可以灵活集成到运营商云平台，也可以专有硬件环境上用云化思想设计，实现资源池化、部署自动化，降低OPEX/CPAX的同时提升客户体验。,,,,,

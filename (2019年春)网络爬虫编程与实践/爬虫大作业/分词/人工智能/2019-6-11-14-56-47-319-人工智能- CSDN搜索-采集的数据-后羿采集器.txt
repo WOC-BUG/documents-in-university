@@ -1,0 +1,23 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/fdf321/article/details/45788403/url ,/w 超/h 智能/n “/w 人工智能/n ”/w 贾维斯/nr 版/n n/n 经过/p 网上/s 连/d 查阅/v 带/ng 抄袭/v ，/w 终于/d 写出/v 一个/mq 垃圾/n O/en (/w ∩/0 _/0 ∩/0 )/w O/en ~/w n/n 由于/c 微软/nt 太/ag 牛/a 逼/v 了/dg ，/w 我/r 做/v 的/u AI/n 超/h 敏感/a ，/w 建议/n 在/d 安静/a 的/u 地方/n 使用/v ，/w 否则/c 会/n 识别/v 错误/a n/n 使用方法/n ：/w nn/en 您/r 可以/a 说/ag ：/w “/w 你好/n ”/w n/n 您/r 可以/a 说/ag ：/w “/w 播放/v 音乐/n ”/w n/n 您/r 可以/a 说/ag ：/w “/w 识别/v ”/w n/n 您/r 可以/a 说/ag ：/w "/0 打开/v 记事本/n "/0 ，/w 并/c 说/ag “/w 祖国/n ，/w 你好/n ”/w n/n 或者/c 如果/c 您/r 不满/a 意/ng 的话/u ，/w 您/r 可以/a 说/ag “/w 打开/v 开始/v 菜单/n ”/w ，/w 开始/v 您/r 的/u 新/a 体验/v ,/w 并/c 说出/v 您/r 想/v 打开/v 的/u 程序名/n 称/ag ,/w https://blog.csdn.net/fdf321/article/details/45788403/url ,/w ,/w fdf/en 321/m ,/w 2015-05-17/t ,/w //blog.csdn.net/fdf321/article/details/45788403/url ,/w 1213/m 次/a 阅读/v ,/w 人工智能/n -/w fdf/en 321/m 的/u 博客/n ,/w 2015年05月17日 13:52:18/t ,/w 原/b 人工智能/n
+
+
+
+2015年05月17日 13:52:18/t
+梦/n 初开/nr 的/u 地方/n
+阅读/v 数/m ：1214/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+超/h 智能/n “/w 人工智能/n ”/w 经过/p 网上/s 连/d 查阅/v 带/ng 抄袭/v ，/w 终于/d 写出/v 一个/mq 垃圾/n O/en (/w ∩/0 _/0 ∩/0 )/w O/en ~/w 由于/c 微软/nt 太/ag 牛/a 逼/v 了/dg ，/w 我/r 做/v 的/u AI/n 超/h 敏感/a ，/w 建议/n 在/d 安静/a 的/u 地方/n 使用/v ，/w 否则/c 会/n 识别/v 错误/a 使用方法/n ：/w
+您/r 可以/a 说/ag ：/w “/w 你好/n ”/w 您/r 可以/a 说/ag ：/w “/w 播放/v 音乐/n ”/w 您/r 可以/a 说/ag ：/w “/w 识别/v ”/w 您/r 可以/a 说/ag ：/w "/0 打开/v 记事本/n "/0 ，/w 并/c 说/ag “/w 祖国/n ，/w 你好/n ”/w 或者/c 如果/c 您/r 不满/a 意/ng 的话/u ，/w 您/r 可以/a 说/ag “/w 打开/v 开始/v 菜单/n ”/w ，/w 开始/v 您/r 的/u 新/a 体验/v ,/w 并/c 说出/v 您/r 想/v 打开/v 的/u 程序名/n 称/ag 。/w 该/r 应用程序/n 完全/a 脱离/v 手/k 的/u 操作/v ，/w 只需/n 用/ng 嘴/n 便/ag 可以/a 操作/v 电脑/np ./m 硬件/n 要求/n ：/w CPU/en :/w 最低/a 4/m 核/n 处理器/n ，/w 主频/n ：3.1/m Ghz/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 内存/n ：/w 4/m G/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 摄像头/n ：/w HD/en 720/m P/en  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 系统/a ：/w windows/en 7/m //w windows/en 8/m 环境/n 要求/n ：/w ./m net/en framework/en 4.5/m ”/w 人工智能/n “/w 下载/v 地址/n ：http://pan.baidu.com/s/1gdjHfm7/url 库文件/n 下载/v 地址/n ：http://osdn.jp/frs/g_redir.php?m=kent/url &/0 f=%2Femgucv%2Femgucv%2F2.4.10%2Flibemgucv-windows-universal-cuda-2.4.10.1940.exe/url 环境/n 文件下载/n ：http://www.microsoft.com/zh-cn/download/details.aspx?id=30653/url

@@ -1,0 +1,20 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/iteye_11910/article/details/82674964/url ,/w 谷歌/nt 于/ng 去年/t 11/m 月/n 发布/v 并/c 开源/v 了/dg 新/a 的/u 机器/np 学习/v 平台/n TensorFlow/en ，/w 供/ng 相关/v 技术/n 人员/n 进行/v 语音/n 识别/v 或/c 照片/n 识别/v 等/ng 多/a 项/ng 机器/np 深度/n 学习/v 领域/n 的/u 研究/v ；/w IBM/nq 几乎/d 同步/b 采取/v 了/dg 行动/v ，/w 于/ng 去年/t 11/m 月底/t 宣布/v 通过/p Apache/en 软件/n 基金会/nc 免费/v 为/p 外部/f 程序员/n 提供/v System/en ML/q 人工智能/n 工具/n 的/u 源代码/n ；/w 社交/n 巨头/n Facebook/en ，/w 继/c 去年/t 1月/t 公开/a 多/a 款/n 深度/n 学习/v 人工智能/n 工具/n 后/f ，/w 又/d 于/ng 去年/t 12/m 月/n 开源/v 了/dg Big/en Sur/n 人工智能/n 硬件/n 架构/n ,/w https://blog.csdn.net/iteye_11910/article/details/82674964/url ,/w ,/w iteye/en _/0 11910/m ,/w 2016-10-26/t ,/w //blog.csdn.net/iteye_11910/article/details/82674964/url ,/w 172/m 次/a 阅读/v ,/w 人工智能/n -/w fengbin/en 2005/m ,/w 2016年10月26日 22:43:01/t ,/w 原/b 人工智能/n
+
+
+
+2016年10月26日 22:43:01/t
+iteye/en _/0 11910/m
+阅读/v 数/m ：175/m
+
+
+
+
+
+
+
+
+
+
+
+公开/a 资料/n 显示/v ，/w 谷歌/nt 于/ng 去年/t 11/m 月/n 发布/v 并/c 开源/v 了/dg 新/a 的/u 机器/np 学习/v 平台/n TensorFlow/en ，/w 供/ng 相关/v 技术/n 人员/n 进行/v 语音/n 识别/v 或/c 照片/n 识别/v 等/ng 多/a 项/ng 机器/np 深度/n 学习/v 领域/n 的/u 研究/v ；/w IBM/nq 几乎/d 同步/b 采取/v 了/dg 行动/v ，/w 于/ng 去年/t 11/m 月底/t 宣布/v 通过/p Apache/en 软件/n 基金会/nc 免费/v 为/p 外部/f 程序员/n 提供/v System/en ML/q 人工智能/n 工具/n 的/u 源代码/n ；/w 社交/n 巨头/n Facebook/en ，/w 继/c 去年/t 1月/t 公开/a 多/a 款/n 深度/n 学习/v 人工智能/n 工具/n 后/f ，/w 又/d 于/ng 去年/t 12/m 月/n 开源/v 了/dg Big/en Sur/n 人工智能/n 硬件/n 架构/n 。/w

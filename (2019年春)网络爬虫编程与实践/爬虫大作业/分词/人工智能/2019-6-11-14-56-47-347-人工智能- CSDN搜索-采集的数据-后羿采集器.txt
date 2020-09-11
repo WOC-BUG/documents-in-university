@@ -1,0 +1,30 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/chingxuyuan/article/details/50953824/url ,/w 人工智能/n 三大/n 流派/n nn/en 功能/n 学派/n （/w 符号/n 主义/n ）/w 认为/v 人工智能/n 源于/v 数理逻辑/ln 。/w 符号/n 主义/n 仍然/d 是/v 人工智能/n 的/u 主流派/n 。/w n/n 结构/n 学派/n （/w 联结/v 主义/n ）/w  /0 认为/v 人工智能/n 源于/v 仿生学/n ，/w 特别/a 是/v 人脑/n 模型/n 的/u 研究/v 。/w n/n 行为学/n 派/n （/w 行为/n 主义/n ）/w  /0 认为/v 人工智能/n 源于/v 控制论/n 。/w ,/w https://blog.csdn.net/chingxuyuan/article/details/50953824/url ,/w ,/w chingxuyuan/en ,/w 2016-03-22/t ,/w //blog.csdn.net/chingxuyuan/article/details/50953824/url ,/w 359/m 次/a 阅读/v ,/w 人工智能/n -/w chingxuyuan/en 的/u 博客/n ,/w 2016年03月22日 12:10:31/t ,/w 原/b 人工智能/n
+
+
+
+2016年03月22日 12:10:31/t
+chingxueyuan/en
+阅读/v 数/m ：360/m
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n 三大/n 流派/n
+
+功能/n 学派/n （/w 符号/n 主义/n ）/w 认为/v 人工智能/n 源于/v 数理逻辑/ln 。/w 符号/n 主义/n 仍然/d 是/v 人工智能/n 的/u 主流派/n 。/w
+结构/n 学派/n （/w 联结/v 主义/n ）/w  /0 认为/v 人工智能/n 源于/v 仿生学/n ，/w 特别/a 是/v 人脑/n 模型/n 的/u 研究/v 。/w
+行为学/n 派/n （/w 行为/n 主义/n ）/w  /0 认为/v 人工智能/n 源于/v 控制论/n 。/w 这/r 一/m 学派/n 的/u 代表作/n 首推/v 布鲁克斯/ns (/w Brooks/en )/w 的/u 六/m 足/a 行走/v 机器人/n ，/w 它/r 被/ng 看做/v 新一代/n 的/u “/w 控制论/n 动物/n ”/w ，/w 是/v 一个/mq 基于/p 感知/v -/w 动作/n 模式/n 的/u 模拟/v 昆虫/n 行为/n 的/u 控制系统/n 。/w
+
+强人/n 工智/nz 能/ng （/w 不/d 太/ag 可能/a ）/w 　弱/a 人工智能/n （/w 主流/n 科研/n ）/w
+
+IT/en 方向/n ：/w
+百度/nt 大脑/n ，/w 智慧型/n 汽车/np ，/w VR/n 人工智能/n 游戏/n 方向/n

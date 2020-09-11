@@ -1,0 +1,30 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/u011464186/article/details/79173834/url ,/w 李开富/nr 《/w 人工智能/n 》/w ，/w 杨澜/nr 《/w 探寻/v 人工智能/n 》/w ，/w rn/en 1./m 第三/m 次/a AI/n 热潮/n rn/en 1962/m  /0 西洋/n 跳棋/n  /0 -/w -/w -/w 》/w 1997/m 国际象棋/n  /0  /0 -/w -/w -/w 》/w 2016/m 围棋/n rn/en 2./m ,/w https://blog.csdn.net/u011464186/article/details/79173834/url ,/w ,/w u/en 011464186/m ,/w 2018-01-26/t ,/w //blog.csdn.net/u011464186/article/details/79173834/url ,/w 653/m 次/a 阅读/v ,/w 人工智能/n -/w u/en 011464186/m 的/u 博客/n ,/w 2018年01月26日 16:18:52/t ,/w 原/b 人工智能/n
+
+
+
+2018年01月26日 16:18:52/t
+zhonglinxin/en _/0 go/en
+阅读/v 数/m ：654/m
+
+
+
+
+
+
+
+
+
+
+
+
+李开富/nr 《/w 人工智能/n 》/w ，/w 杨澜/nr 《/w 探寻/v 人工智能/n 》/w ，/w
+1./m 第三/m 次/a AI/n 热潮/n
+1962/m  /0 西洋/n 跳棋/n  /0 -/w -/w -/w 》/w 1997/m 国际象棋/n  /0  /0 -/w -/w -/w 》/w 2016/m 围棋/n
+2./m 深度/n 学习/v 的/u 学习/v
+吴恩达/nr 深度/n 学习/v
+http://mooc.study.163.com/smartSpec/detail/1001319001.htm/url
+logistic/en 回归/v 中/f 的/u 梯度/n 下降/v 法/k
+3. 中/t 文/n NUL/en 系统/a
+
+https://github.com/crownpku/Rasa_NLU_Chi/url

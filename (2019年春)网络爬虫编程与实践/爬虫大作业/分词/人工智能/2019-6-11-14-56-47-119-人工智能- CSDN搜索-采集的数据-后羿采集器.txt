@@ -1,0 +1,134 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n 的/u 基本/a 原理/n ,/w https://blog.csdn.net/qq_41889087/article/details/81119043/url ,/w 最近/t 公司/nc 没/d 项目/n ，/w 就/d 看/u 自己/r 了解/v 下人/n 工智/nz 能/ng ，/w 看/u 了/dg 一些/mq 资料/n ，/w 觉得/v https://blog.csdn.net/jiangjunshow/article/details/77711593/url 写/v 的/u 挺/ag 好/a 懂/v 的/u ，/w 自己/r 又/d 总结/n 了/dg 下/f ：/w
+
+/0
+
+怎么/r 实现/v 人工智能/n ：/w
+
+实现/v 人工智能/n 的/u 方法/n 有/v 很多/mq 种/ng ，/w 当前/t 最/d 热门/a 的/u 一/m 种/ng 就是/n 通过/p 深度/n 学习/v 来/u 训练/v 神经网络/n
+
+/0  /0  /0  /0
+
+什么/r 是/v 神经网络/n ：/w
+
+/0  /0  /0  /0 根据/n https://blo.../url ,/w https://blog.csdn.net/qq_41889087/article/details/81119043/url ,/w //blog.csdn.net/qq_41889087/article/details/81119043/url ,/w ,/w ,/w ,/w ,/w 人工智能/n 的/u 基本/a 原理/n -/w qq/en _/0 41889087/m 的/u 博客/n ,/w 2018年07月19日 17:18:07/t ,/w 原/b 人工智能/n 的/u 基本/a 原理/n
+
+
+
+2018年07月19日 17:18:07/t
+泪/n 过/d 无/v 痕/ng
+阅读/v 数/m ：3345/m
+
+
+
+
+
+
+
+
+
+
+
+/0  /0  /0  /0 最近/t 公司/nc 没/d 项目/n ，/w 就/d 看/u 自己/r 了解/v 下人/n 工智/nz 能/ng ，/w 看/u 了/dg 一些/mq 资料/n ，/w 觉得/v https://blog.csdn.net/jiangjunshow/article/details/77711593/url 写/v 的/u 挺/ag 好/a 懂/v 的/u ，/w 自己/r 又/d 总结/n 了/dg 下/f ：/w
+
+/0
+
+怎么/r 实现/v 人工智能/n ：/w
+
+实现/v 人工智能/n 的/u 方法/n 有/v 很多/mq 种/ng ，/w 当前/t 最/d 热门/a 的/u 一/m 种/ng 就是/n 通过/p 深度/n 学习/v 来/u 训练/v 神经网络/n
+
+/0  /0  /0  /0
+
+什么/r 是/v 神经网络/n ：/w
+
+/0  /0  /0  /0 根据/n https://blog.csdn.net/jiangjunshow/article/details/77368314/url 所说/n 有点/d 像/n 灰色系/n 统/ng ，/w 也/d 有点/d 像/n 线性/n 回归/v ，/w 通过/p 一对对/qqy xy/n （/w x/en +/0 中间/f 算法/n -/w -/w >/w y/en ）/w 值/a 来/u 完善/a 中间/f 算法/n ，/w 使/ng 其/r 输入/v x/m 值/a 后/f ，/w 结果/c 越来越/d 接近/v y/en 值/a
+
+/0
+
+什么/r 是/v 监督/v 学习型/n 神经网络/n ：/w
+
+有/v xy/n 值/a 的/u 就是/n 监督/v 学习型/n 神经网络/n ，/w 而/c 只有/c x/m 值/a 没有/d y/en 值/a 的/u 就是/n 无/v 监督/v 学习/v ，/w 也/d 称/ag 聚/v 类/n 算法/n
+
+/0
+
+什么/r 是/v 深度/n 学习/v 火/a 起来/v ：/w
+
+/0  /0  /0 深度/n 学习/v 主要/b 依赖/v 数据/n 、/w 算法/n 、/w 计算/v 力/n 。/w 随着/p 互联网/n 的/u 发展/v ，/w 数据/n 信息/n 变得/v 更加/d 庞大/a ，/w 电脑/np 的/u 普及/a ，/w 也/d 使得/v 计算/v 力/n 越来越/d 强/a ，/w 以及/c 一些/mq 算法/n 的/u 优化/v ，/w 是的/n 算法/n 越来越/d 成熟/a
+
+/0
+
+如何/r 将/d 待遇/n 测/v 数据/n 输入/v 到/ng 神经系统/ln 中/f ：/w
+
+以/p 一/m 张/ng 64/m */w 64/m 像素/n 的/u 照片/n 为/p 例/n ，/w 如下/v 图/n ，/w 想要/v 判断/n 图片/n 有没有/vmv 猫/n ，/w 结果/c 只有/c 两个/n ，/w 有/v 或/c 没有/d ，/w 由于/c 任何/r 颜色/n 都/d 可以/a 由/p 红色/n 、/w 绿色/n 、/w 蓝色/n 构成/n ，/w 所以/c 图/n 一/m 可以/a 看成/v 是/v 3/m 张/ng 64/m */w 64/m 维/jns 数/m 的/u 颜色/n 表/n 组成/v （/w 一个/mq 像素/n 就是/n 一个/mq 颜色/n 点/m ，/w 一个/mq 颜色/n 点/m 由/p 红/a 绿蓝/nz 三个/n 值/a 来/u 表示/v ，/w 例如/v 红/a 绿蓝/nz 分别/d 是/v 255/m ,/w 255/m ,/w 255/m ，/w 那么/c 这个/r 颜色/n 点/m 就是/n 白色/n ）/w ，/w 则/c x/m 就/d 可以/a 看成/v 一个/mq n/en */w 1/m 或者/c 1/m */w n/n 维/jns 数/m 的/u 向量/n ，/w n/en =/0 64/m */w 64/m */w 3/m
+
+/0
+
+
+
+神经网络/n 系统/a 是/v 如何/r 进行/v 预测/v 的/u ：/w
+
+/0  /0  /0 逻辑/n 回归/v （/w logistics/en regression/en ）/w
+
+
+
+
+
+W/en 1/m 表示/v x/en 1/m 的/u 权重/n ，/w b/n 可以/a 理解/v 为/p 一个/mq 阀/n 值/a
+
+/0
+
+σ/0 ，/w 它/r 代表/nx 了/dg sigmoid/en 函数/n ,/w sigmoid/en 函数/n 的/u 作用/n 就是/n 把/p 计算/v 结果/c 转换/v 为/p 0/m 和/c 1/m 之间/f 值/a （/w 因为/c 我们/r 的/u 结果/c 只有/c 两个/n ，/w 有/v 或/c 没有/d ，/w 也就是/n 1/m 或/c 0/m ，/w 因此/c 我们/r 的/u 结果/c 要/v 控制/v 在/d 1/m 根/n 0/m 之间/f ，/w 越/d 接近/v 1/m 表示/v 预测/v 越/d 准确/a ）/w
+
+
+
+
+
+/0
+
+神经网络/n 如何/r 判断/n 自己/r 预测/v 得/e 是否/v 准确/a ：/w
+
+损失/n 函数/n （/w loss/en function/en ）/w ，/w 原理/n 就是/n 通过/p 比较/d 预测/v 的/u 值/a 跟/c 实际/a 的/u 值/a 相差/v 大/a 不大/n ，/w 有/v 此/r 来/u 判断/n 算是/v 否/ag 准确/a
+
+理论/n 上/f 我们/r 可以/a 用/ng （/w 上面/f 的/u i/n 角/n 标/ng 指代/v 某/r 一个/mq 训练/v 样本/n ）/w
+
+
+
+但/c 实际上/d 我们/r 不用/d 以上/f 公式/n ，/w 而/c 用/ng 下面/f 的/u 公式/n
+
+
+
+/0
+
+两个/n 都/d 是/v 结果/c 越/d 小/a 表示/v 预测/v 精度/n 越/d 高/a
+
+/0
+
+/0  /0  /0  /0 成本/n 函数/n ：/w 针对/v 整个/b 训练/v 集/n 的/u 损失/n 函数/n ，/w 其实/d 就是/n 算/d 整个/b 训练/v 集/n 损失/n 函数/n 的/u 平均值/n
+
+
+
+/0  /0  /0  /0  /0 结果/c 越/d 大/a ，/w 说明/n 成本/n 越/d 大/a ，/w 预测/v 越/d 不准/v 确/ag
+
+/0
+
+神经网络/n 是/v 如何/r 进行/v 学习/v 的/u ：/w
+
+首先/c ，/w 其实/d 学习/v 就是/n 想/v 办法/n 让/v 损失/n 函数/n 的/u 值/a 变小/v ，/w 而/c 损失/n 函数/n 值/a 是由/n w/en 跟/c b/n 决定/n 的/u ，/w 所以/c 问题/n 可以/a 转换/v 成/ng 如何/r 寻找/v 合适/a 的/u w/en 跟/c b/n 值/a
+
+
+
+
+
+损失/n 函数/n J/en 的/u 形状/n 是/v 一个/mq 漏斗/n ，/w 我们/r 训练/v 的/u 目的/n 就是/n 找到/v 漏斗/n 底部/f 的/u 一/m 组/n w/en 和/c b/n 。/w 这种/r 形状/n 的/u 函数/n 我们/r 成为/v 凸/ag 函数/n （/w 向下/d 凸起/v 的/u 函数/n ）/w ，/w 这/r 也/d 是/v 我们/r 选择/n J/en 为/p 损失/n 函数/n 的/u 原因/n ，/w 而/c 我们/r 之前/f 遇到/v 的/u 平方差/n 不是/n 一个/mq 凸/ag 函数/n ，/w 很/d 难找/a 到/ng 最小/a 值/a
+
+
+
+如上/n 图/n 所/n 示/vg ，/w 梯度/n 下降/v 算法/n 会/n 一步一步/qqm 地/n 更新/v w/en 和/c b/n ，/w 使/ng 损失/n 函数/n 一步一步/qqm 地/n 变得/v 更/d 小/a ，/w 最终/d 找到/v 最小/a 值/a 或/c 接近/v 最小/a 值/a 的/u 地方/n 。/w
+
+
+
+那么/c 到底/d 这个/r 神秘/a 的/u 梯度/n 下降/v 算法/n 是/v 如何/r 来/u 更新/v w/en 和/c b/n 的/u 呢/ng ？/w 为了/p 简化/v 问题/n ，/w 让/v 大家/r 更/d 容易/a 理解/v 其中/r 的/u 理论/n ，/w 我们/r 先/d 假设/n 损失/n 函数/n J/en 只有/c 一个/mq 参数/n w/en （/w 实际上/d J/en 是/v 一个/mq 关于/p w/en 和/c b/n 的/u 函数/n ）/w ，/w 并且/c 假设/n w/en 只是/c 一个/mq 实数/n （/w 实际上/d w/en 是/v 一个/mq 向量/n //w 一/m 组/n 实数/n ）/w 。/w 如上/n 图/n ，/w 梯度/n 下降/v 算法/n 一步一步/qqm 地/n 在/d 改变/v 着/n w/en 的/u 值/a ，/w 在/d 使/ng 损失/n 函数/n 的/u 结果/c 越来越/d 小/a （/w 将/d w/en 的/u 值/a 一步一步/qqm 的/u 移/v 到/ng 红点/nz 处/nc ）/w 。/w 我们/r 是/v 通过/p 下面/f 的/u 公式/n 来/u 改变/v w/en 的/u 值/a 的/u 。/w
+
+w/en ’/w =/0 w/en –/0 r/en */w dw/n
+
+其中/r dw/n 为/p 偏/a 导数/n ，/w 也/d 可以/a 理解/v 为/p 斜率/n ，/w r/en 为/p 学习/v 率/ag ，/w 用来/v 控制/v w/en 改变/v 的/u 步/n 径/dg ，/w 要是/c 选择/n 不当/a 的话/u 可能/a 就/d 如上/n 图/n 所/n 示/vg ，/w 直接/a 跳/v 过/d 红点/nz 到/ng 绿色/n 三角形/n 那里/r ，/w 也就是说/ldm 你/r 的/u 神经网络/n 可能/a 永远/b 都/d 找/v 不到/v 损失/n 函数/n 的/u 最小/a 值/a

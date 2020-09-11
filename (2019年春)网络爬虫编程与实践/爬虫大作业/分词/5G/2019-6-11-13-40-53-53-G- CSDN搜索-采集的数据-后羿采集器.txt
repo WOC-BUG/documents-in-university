@@ -1,0 +1,32 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 争夺战/n ：/w 华为/nz 的/u 5/m G/m 之路/nz ,/w 自/d 中国/ns 开始/v 商用/b 4G/n 到/ng 如今/t 仅仅/d 四/m 年时/n 间/f ，/w 国内/s 的/u 智能/n 手机/np 行业/n 已经/d 全面/a 洗牌/v ，/w 无论/c 是/v 借/p 上/f 了/dg 4G/n 的/u 东风/n ，/w 还是/c 错失/n 了/dg 4G/n 时代/n 的/u 众多/a 手机/np 厂商/n 都/d 深知/v 5/m G/m 的/u 重要性/n 。/w ,/w oLingXiao/en 12/m ,/w https://blog.csdn.net/oLingXiao12/article/details/88947355/url ,/w 2019-04-01/t ,/w 31/m 次/a 阅读/v ,/w 5/m G/m 争夺战/n ：/w 华为/nz 的/u 5/m G/m 之路/nz -/w oLingXiao/en 12/m 的/u 博客/n ,/w 2019年04月01日 14:27:21/t ,/w 自/d 中国/ns 开始/v 商用/b 4G/n 到/ng 如今/t 仅仅/d 四/m 年时/n 间/f ，/w 国内/s 的/u 智能/n 手机/np 行业/n 已经/d 全面/a 洗牌/v ，/w 无论/c 是/v 借/p 上/f 了/dg 4G/n 的/u 东风/n ，/w 还是/c 错失/n 了/dg 4G/n 时代/n 的/u 众多/a 手机/np 厂商/n 都/d 深知/v 5/m G/m 的/u 重要性/n 。/w
+
+
+
+而/c 在/d 借助/v 4G/n 东风/n 的/u 华为/nz 更是/d 影响/v 越来越/d 大/a ，/w 至于/p 有/v 多/a 大我/n 们/k 先/d 看/u 华为/nz 的/u 一/m 组/n 数据/n
+
+通信行业/n 全球/n 第一/m
+
+手机/np 市场/ny 出货量/n 全球/n 第三/m
+
+2018/m 财富/n 世界/n 500/m 强/a 排名/n 72/m 位/q ，/w 而/c 腾讯/nt 排/n 在/d 331/m 位/q ，/w 阿里/ns 也/d 只/bg 排/n 在/d 300/m 位/q
+
+技术/n 专利/n 数/m 1775/m 件/ng 国内/s 第一/m （/w 2018上/t 半年/n 专利/n 排名/n ）/w
+
+
+
+
+
+华为/nz 的/u 数据/n 如此/r 之好/nz ，/w 然而/c 今年/t 的/u 5/m G/m 之路/nz 似乎/d 不/d 那么/c 顺利/a 。/w 先是/d 美国/ns 抵制/v 华为/nz ，/w 之后/f 澳大利亚/ns 、/w 印度/ns 、/w 英国/ns 、/w 日本/ns 、/w 韩国/ns 等/ng 也/d 开始/v 抵制/v 。/w 而/c 最近/t 7月份/t 的/u 时候/n ，/w 移动/v 和诺基亚签/nr 订/v 了/dg “/w 10亿/m 欧元/n ”/w 的/u 巨额/b 订单/n 。/w
+
+
+
+最近/t 这些/r 不利/a 的/u 消息/n 在/d 网上/s 传/ng 的/u 沸沸扬扬/ia ，/w 不过/c 这/r 只是/c 美帝/n 的/u 联合/v 抵制/v 而已/y 。/w 而/c 华为/nz 的/u 实力/n 不容/v 小觑/v ，/w 最近/t 加拿大/ns 网络安全/n 最高/a 官员/n 说/ag ，/w 渥太华/n 确信/n 有/v 足够/v 的/u 保障/v 措施/n 来/u 应对/v 风险/n ，/w 认为/v 没有/d 必要/a 效仿/v 美国/ns 和/c 澳大利亚/ns ，/w 禁止/v 中国电信/nt 巨头/n 华为/nz 向/p 加拿大/ns 提供/v 5/m G/m 无线网络/n 。/w
+
+不仅如此/ldm ，/w 北京时间/ln 2018年9月26日/t ，/w 意大利/ns 两/m 大通/ns 讯/ng 运营商/n TIM/en 和/c Fastweb/en 同时/c 宣布/v ，/w 首/m 个/q 3/m GPP/en 标准/a 的/u 5/m G/m 基站/n 已经/d 正式/a 投入/a 商用/b ，/w 而/c 为/p 其/r 提供/v 通讯设备/n 、/w 技术/n 的/u 正是/v 中国/ns 华为/nz ！/w
+
+意大利/ns 只是/c 宣布/v 速度/n 最快/a 的/u 一个/mq 国家/n ，/w 德国/ns 等/ng 其他/r 一些/mq 欧盟/nt 国家/n 也/d 早已/d 跟/c 华为/nz 5/m G/m 合作/v ！/w 宣布/v 只是/c 短暂/a 的/u 时间/n 问题/n ！/w
+
+
+
+更多/n 精彩/a 欢迎/v 关注/v 我/r 的/u 公众号/n “/w 卧龙/ns 说/ag 时势/n ”/w ，/w 关注/v 后/f 还/d 可以/a 免费/v 领取/v PPT/n 模版/n 、/w 免费/v 的/u 电子书/n 、/w 各种/r 专业/a 大咖/n 群/n 。/w ,/w ,/w ,/w ,/w ,/w

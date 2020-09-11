@@ -1,0 +1,29 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/baimaozi2/article/details/52334131/url ,/w 中新社/nt 北京/ns 8月26日/t 电/n (/w 记者/nx 梁晓辉/nr )/w 2016中/t 国人/n 工智/nz 能/ng 大会/nh (/w CCAI/en )/w 26/m 日/n 在/d 北京/ns 开幕/v 。/w 在/d 两/m 天/n 的/u 时间/n 里/f ，/w 上千/n 名/n 与会者/n 将就/v 人工智能/n 领域/n 的/u 多个/n 热点话题/n 展开/v 研讨/v 。/w rnrn/en 　　中国科学院/nt 副/b 院长/nx 、/w 中国科学院/nt 院士/nx 、/w 中国人/n 工智/nz 能/ng 学会/nc 副/b 理事长/nx 谭铁牛/nr 在/d 开幕/v 致辞/v 中表/n 示/vg ，/w 人工智能/n 概念/n 从/p 1956年/t 提出/v ，/w 已/d 走过/v “/w 一/m 甲子/n ”/w 的/u 时间/n 。/w 举办/v 这次/r 会议/nh ，/w 希望/n 能/ng 为人/v 工智/nz 能/ng 领域/n 的/u 研究者/n 搭建/v 一个/mq 平台/n ，/w 回顾/v 人工智能/n 一/m 段/n 时间/n 的/u 发展/v ，/w 交流/v 发/q ,/w https://blog.csdn.net/baimaozi2/article/details/52334131/url ,/w ,/w baimaozi/en 2/m ,/w 2016-08-27/t ,/w //blog.csdn.net/baimaozi2/article/details/52334131/url ,/w 370/m 次/a 阅读/v ,/w 人工智能/n -/w baimaozi/en 2/m 的/u 博客/n ,/w 2016年08月27日 10:54:13/t ,/w 转/q 人工智能/n
+
+
+
+2016年08月27日 10:54:13/t
+baimaozi/en 2/m
+阅读/v 数/m ：371/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+中新社/nt 北京/ns 8月26日/t 电/n (/w 记者/nx 梁晓辉/nr )/w 2016中/t 国人/n 工智/nz 能/ng 大会/nh (/w CCAI/en )/w 26/m 日/n 在/d 北京/ns 开幕/v 。/w 在/d 两/m 天/n 的/u 时间/n 里/f ，/w 上千/n 名/n 与会者/n 将就/v 人工智能/n 领域/n 的/u 多个/n 热点话题/n 展开/v 研讨/v 。/w
+
+中国科学院/nt 副/b 院长/nx 、/w 中国科学院/nt 院士/nx 、/w 中国人/n 工智/nz 能/ng 学会/nc 副/b 理事长/nx 谭铁牛/nr 在/d 开幕/v 致辞/v 中表/n 示/vg ，/w 人工智能/n 概念/n 从/p 1956年/t 提出/v ，/w 已/d 走过/v “/w 一/m 甲子/n ”/w 的/u 时间/n 。/w 举办/v 这次/r 会议/nh ，/w 希望/n 能/ng 为人/v 工智/nz 能/ng 领域/n 的/u 研究者/n 搭建/v 一个/mq 平台/n ，/w 回顾/v 人工智能/n 一/m 段/n 时间/n 的/u 发展/v ，/w 交流/v 发展/v 的/u 最新/a 进程/n ，/w 分析/v 面临/v 的/u 问题/n 挑战/v ，/w 探讨/v 未来/t 发展/v 的/u 方向/n 。/w “/w 特别/a 是/v 怎样/r 能/ng 有效/a 推动/v 中国人/n 工智/nz 能/ng 的/u 发展/v 。/w ”/w
+
+在/d 第一/m 天/n 的/u 议程/n 中/f ，/w 大/a 疆/jns 创新/v 科技/n 公司/nc 董事长/nx 、/w 香港科技大学/nt 教授/nx 、/w 美国/ns 电子/n 电气工程/n 师/n 协会/nc 会/n 士/ng (/w IEEE/en Fellow/en )/w 李泽湘/nr ；/w 微软/nt 人工智能/n 首席/b 科学家/n 、/w IEEE/en Fellow/en 邓力/nr ；/w Singularity.io/url 公司/nc 联合/v 创始人/n 、/w 国际/n 计算/v 语言/n 协会/nc 会/n 士/ng (/w ACL/en Fellow/en )/w 林德康/nr ；/w 中国工程院/nt 院士/nx 、/w 中国人/n 工智/nz 能/ng 学会/nc 理事长/nx 李德毅/nr ；/w 中国科学院/nt 外籍/n 院士/nx 、/w 中国科学院/nt 神经科学研究所/lnc 所长/nx 蒲慕明/nr ；/w 国际/n 人工智能/n 促进会/nt (/w AAAI/en )/w 主席/nx 、/w 美国亚利桑那大学/nt 教授/nx Subbarao/en (/w Rao/en )/w Kambhampati/en ，/w 以及/c 麻省理工学院/nt 人工智能/n 实验室/nc 教授/nx 、/w 美国/ns 人文/n 与/c 科学院/nc 院士/nx Tomaso/en
+Poggio/en 等/ng 7/m 位/q 人工智能/n 领域/n 顶级/a 专家/n 分别/d 做/v 了/dg 主题/n 报告/n 。/w
+
+此次/r 会议/nh 由/p 中国人/n 工智/nz 能/ng 学会/nc 发起/v 主办/v 、/w 中科院/nt 自动化/v 研究所/nc 承办/v 。/w 会议/nh 下设/v “/w 人工智能/n 驱动/v 的/u 人机交互/lv ”/w 、/w “/w 人工智能/n 产业/n 论坛/nh ”/w 、/w “/w 人工智能/n 青年/n 论坛/nh ”/w 和/c “/w 机器/np 学习/v 的/u 明天/t ”/w 四/m 个/q 分/b 论坛/nh 。/w 来自/v 腾讯/nt 、/w 阿里巴巴/nz 、/w 百度/nt 、/w 联想/v 、/w 中国科学院/nt 、/w 清华大学/nt 等/ng 数百/m 家/k 企业/n 和/c 学术/n 机构/n 的/u 上千/n 位/q 人工智能/n 领域/n 专业/a 听众/n 与会/v 。/w (/w 完/ng )/w

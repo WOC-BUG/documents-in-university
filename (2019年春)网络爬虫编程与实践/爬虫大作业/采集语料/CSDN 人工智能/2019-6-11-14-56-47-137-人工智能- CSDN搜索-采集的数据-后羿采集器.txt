@@ -1,0 +1,97 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/weixin_41196103/article/details/78950736,//本文以arduino为工具，从入门介绍人工智能n什么是arduinonarduino开发环境介绍n编程起步nLED闪烁n什么是arduino？ narduino是一款开发板，专门为创客打造，用于实现机器的智能化。 n narduino开发环境介绍 narduino IDE 可以去官网www.arduino.cc下载。,https://blog.csdn.net/weixin_41196103/article/details/78950736,,weixin_41196103,2018-01-02,//blog.csdn.net/weixin_41196103/article/details/78950736,668次阅读,人工智能 - weixin_41196103的博客,2018年01月02日 12:25:08,原        人工智能
+      
+      
+        
+                                                  2018年01月02日 12:25:08
+          weixin_41196103
+          阅读数：671
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+            
+            
+              
+            
+            //本文以arduino为工具，从入门介绍人工智能
+
+
+什么是arduino
+arduino开发环境介绍
+编程起步
+LED闪烁
+
+
+什么是arduino？ 
+arduino是一款开发板，专门为创客打造，用于实现机器的智能化。 
+ 
+arduino开发环境介绍 
+arduino IDE 可以去官网www.arduino.cc下载。arduino是用java开发，编程语言是C++。 
+编程起步 
+穿件新文件时会看到两个方法： 
+void setup ( ) { }  - All of the code within the curly braces will be run ONCE when the program first runs. 
+void loop ( ) { }  - This function is  run AFTER setup has finished. All of the code within the curly braces will be run again, and again, until the power is removed. 
+语法： 
+// - Single line comment 
+/*  */  - Multiline comment 
+{  } – used to define a block of code that starts and ends. 
+;  - used to define the end of a line of code.
+
+变量： 
+int (integer) – this stores a number in 2 bytes(16 bits) and has no decimal places. The value must be between -32,768 and 32,768.
+
+long(long) – Used when the integer is NOT large enough. This takes 4 bytes(32 bits) of RAM and has a range of -2,147,483,648 and 2,147,483,648.
+
+boolean(boolean) – A simple true and false variable. It is useful because it only takes up 1 bit of RAM.
+
+float (float) – Used for floating decimals. It takes 4 bytes of RAM and has a range of -3.4028235E+38 and 3.4028235E+38
+
+char(character) – Stores one character using ASCII code (“A” = 65). Uses 1 byte of RAM
+
+运算符 
+数学运算符： 
+=  (assignment)  makes something equal to something else.  For example, x = 10*2, thus x = 20.
+
+% (modulo) – this gives the remainder when one number is divided by another. For example  12 % 10  gives 2.
+
+
+(addition)
+(subtraction)
+(multiplication) 
+/ (division)
+
+
+比较运算符： 
+== (equal to) - For example   12==10 is FALSE and 12 ==12 is TRUE. 
+
+!= (not equal to) - For example  12!=10 is TRUE and 12!=12 is FALSE.
+
+<  (less than)
+
+
+  (greater than)
+
+
+控制语句： 
+条件 
+if(condition) {   } 
+else if (condition) {   } 
+else(condition) {   }
+
+循环 
+for (int i =0; i < #repeats; i ++)  {   }
+
+数字端口： 
+pinmode (pin, mode) ;  - Used to address the pin # on the Arduino board you would like to use 0-19. The mode can either be INPUT or OUTPUT.
+
+digitalwrite (pin, value);  - Once a pin is set to output it can be set to either HIGH (5 Volts) or LOW(0 volts). This basically means turn ON and OFF.
+
+闪烁LED： 
+What will you need?  Arduino, breadboard, 4 wires, 10mm LED(large white), 560W resistor, USB cable.

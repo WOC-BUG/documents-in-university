@@ -1,0 +1,354 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en ,/w 5/m Gnn/en 2016年11月16日/t ，/w 举办/v 于/ng 浙江省/ns 嘉兴市/ns 桐乡市/ns 乌镇/ns 的/u 第三届/n 世界/n 互联网/n 大会/nh  /0 [/w 1/m -/w 2/m ]/w  /0  /0 ，/w 美国高通公司/nt 带来/v 的/u 可以/a 实现/v “/w 万物/n 互联/v ”/w 的/u 5/m G/m 技术/n 原型/n 入选/v 15/m 项/ng “/w 黑/a 科技/n ”/w ——/w 世界/n 互联网/n 领先/v 成果/n 。/w 高通/nz 5/m G/m 向/p 千兆/m 移动网/n 络/ng 和/c 人工智能/n 迈进/v  /0 [/w 3/m ]/w  /0  /0 。/w n/n 第五/m 代/n 移动电话/ln 行动/v 通信/v 标准/a ，/w 也/d 称/ag 第五/m 代/n 移动通信/ln 技术/n ，/w 外语/n 缩写/n ：/w 5/m G/m 。/w 也/d 是/v 4G/n 之后/f 的/u 延伸/v ，/w 正在/n 研究/v 中/f 。/w ,/w zzwu/en ,/w https://blog.csdn.net/zzwu/article/details/86648337/url ,/w 2019-01-25/t ,/w 648/m 次/a 阅读/v ,/w 5/m G/en -/w zzwu/en 的/u 专栏/n ,/w 2019年01月25日 16:42:20/t ,/w 5/m G/m
+
+2016年11月16日/t ，/w 举办/v 于/ng 浙江省/ns 嘉兴市/ns 桐乡市/ns 乌镇/ns 的/u 第三届/n 世界/n 互联网/n 大会/nh  /0 [/w 1/m -/w 2/m ]/w  /0  /0 ，/w 美国高通公司/nt 带来/v 的/u 可以/a 实现/v “/w 万物/n 互联/v ”/w 的/u 5/m G/m 技术/n 原型/n 入选/v 15/m 项/ng “/w 黑/a 科技/n ”/w ——/w 世界/n 互联网/n 领先/v 成果/n 。/w 高通/nz 5/m G/m 向/p 千兆/m 移动网/n 络/ng 和/c 人工智能/n 迈进/v  /0 [/w 3/m ]/w  /0  /0 。/w
+第五/m 代/n 移动电话/ln 行动/v 通信/v 标准/a ，/w 也/d 称/ag 第五/m 代/n 移动通信/ln 技术/n ，/w 外语/n 缩写/n ：/w 5/m G/m 。/w 也/d 是/v 4G/n 之后/f 的/u 延伸/v ，/w 正在/n 研究/v 中/f 。/w 目前/t 还/d 没有/d 任何/r 电信/n 公司/nc 或/c 标准/a 订定/v 组织/n （/w 像/n 3/m GPP/en 、/w WiMAX/n 论坛/nh 及/c ITU/en -/w R/en ）/w 的/u 公开/a 规格/n 或/c 官方/n 文件/n 提到/v 5/m G/m 。/w
+
+中国/ns （/w 华为/nz ）/w 、/w 韩国/ns （/w 三星电子/nt ）/w 、/w 日本/ns 、/w 欧盟/nt （/w 爱立信/nz  /0 [/w 4/m ]/w  /0  /0 ）/w 都/d 在/d 投入/a 相当/d 的/u 资源/n 研发/v 5/m G网/n 络/ng 。/w
+
+2017年12月21日/t ，/w 在/d 国际/n 电信/n 标准/a 组织/n 3/m GPP/en RAN/en 第/m 78/m 次/a 全体/n 会议/nh 上/f ，/w 5/m G/en NR/n 首发/n 版本/n 正式/a 冻结/v 并发/v 布/n 。/w  /0 [/w 5/m ]/w  /0  /0 2018年2月23日/t ，/w 沃达丰/nz 和/c 华为/nz 完成/v 首次/mq 5/m G/m 通话/v 测试/v  /0 [/w 6/m ]/w  /0  /0 。/w 2018年8月3日/t ，/w 美国联邦/ns 通讯/n 委员会/nc （/w FCC/n ）/w 周四/t 发布/v 高频/b 段/n 频谱/n 的/u 竞拍/v 规定/n ，/w 这些/r 频谱/n 将/d 用于/v 开发/v 下一代/n 5/m G/m 无线网络/n 。/w 2018年12月1日/t ，/w 韩国/ns 三大/n 运营商/n SK/en 、/w KT/n 与/c LG/en U/en +/0 同步/b 在/d 韩国/ns 部分/n 地区/ny 推出/v 5/m G/m 服务/v ，/w 这/r 也/d 是/v 新一代/n 移动通信/ln 服务/v 在/d 全球/n 首次/mq 实现/v 商用/b 。/w  /0 [/w 7/m ]/w  /0  /0 12月7日/t ，/w 工信部/nt 同意/v 联通/nz 集团/nc 自通/nz 知/ng 日至/n 2020年6月30日/t 使用/v 3500/m MHz/en -3600/m MHz/q 频率/n 。/w  /0 [/w 8/m ]/w  /0  /0 12月10日/t 工信部/nt 正式/a 对外/b 公布/v ，/w 已/d 向/p 中国电信/nt 、/w 中国移动/nt 、/w 中国联通/nt 发放/v 了/dg 5/m G/m 系统/a 中低/b 频段/n 试验/v 频率/n 使用/v 许可/v  /0 [/w 9/m ]/w  /0  /0 。/w 2018年12月20日/t ，/w 5/m G/m 当选/v 为/p 2018年/t 度/k 科技类/n 十大/j 流行语/n 。/w  /0 [/w 10/m ]/w  /0
+
+中文名/n
+
+第五/m 代/n 移动通信/ln 技术/n
+
+外文/n 名/n
+
+5/m th/en -/w Generation/en
+
+外语/n 缩写/n
+
+5/m G/m
+
+国内/s 研究/v 团队/n
+
+华为/nz 科技/n  /0 中国移动通信集团/nt  /0
+
+国外/s 研究/v 团队/n
+
+美国/ns 高通/nz  /0 爱立信/nz  /0 三星电子/nt  /0 [/w 4/m ]/w  /0
+
+可/v 达/ng 网速/n
+
+10/m Gb/en //w s/b
+
+目录/n
+
+1/m  /0 基本/a 概念/n
+2/m  /0 发展/v 历程/n
+3/m  /0 研发/v 过程/n
+4/m  /0 技术指标/n
+5/m  /0 使用/v 频率/n
+6/m  /0 存在/v 障碍/n
+7/m  /0 应用领域/n
+▪/0  /0 5/m G/m 图书/n
+▪/0  /0 外科/nc 手术/n
+8/m  /0 合作/v 协议/n
+9/m  /0 最新/a 进展/v
+10/m  /0 社会/n 评价/n
+11/m  /0 工信部/nt 关键词/n
+
+
+基本/a 概念/n
+
+编辑/n
+
+第五/m 代/n 移动电话/ln 行动/v 通信/v 标准/a ，/w 也/d 称/ag 第五/m 代/n 移动通信/ln 技术/n ，/w 外语/n 缩写/n ：/w 5/m G/m 。/w 也/d 是/v 4G/n 之后/f 的/u 延伸/v ，/w 正在/n 研究/v 中/f ，/w 5/m G网/n 络/ng 的/u 理论/n 下行/v 速度/n 为/p 10/m Gb/en //w s/b （/w 相当于/v 下载/v 速度/n 1.25/m GB/en //w s/b ）/w  /0 [/w 11/m ]/w  /0  /0 。/w
+
+诺基亚/nz 与/c 加拿大/ns 运营商/n Bell/en Canada/en 合作/v ，/w 完成/v 加拿大/ns 首次/mq 5/m G网/n 络/ng 技术/n 的/u 测试/v 。/w 测试/v 中/f 使用/v 了/dg 73/m GHz/q 范围/n 内/f 频谱/n ，/w 数据传输/n 速率/n 为/p 加拿大/ns 现有/v 4G/n 网络/n 的/u 6/m 倍/d 。/w 鉴于/p 两者/r 的/u 合作/v ，/w 外界/n 分析/v 加拿大/ns 很/d 有/v 可能/a 将/d 在/d 5/m 年内/t 启动/v 5/m G网/n 络/ng 的/u 全面/a 部署/v 。/w
+
+由于/c 物联网/n 尤其/d 是/v 互联网/n 汽车/np 等/ng 产业/n 的/u 快速/b 发展/v ，/w 其/r 对/a 网络/n 速度/n 有着/v 更/d 高/a 的/u 要求/n ，/w 这/r 无疑/d 成为/v 推动/v 5/m G网/n 络/ng 发展/v 的/u 重要/a 因素/n 。/w 因此/c 无论/c 是/v 加拿大政府/nt 还是/c 全球/n 各地/r ，/w 均/ag 在/d 大力/d 推进/v 5/m G网/n 络/ng ，/w 以/p 迎接/v 下/f 一波/nz 科技/n 浪潮/n 。/w 不过/c ，/w 从/p 2016年/t 的/u 情况/n 来看/u 5/m G网/n 络/ng 离/ng 商用/b 预计/v 还/d 需/ng 4/m 到/ng 5/m 年时/n 间/f 。/w  /0 [/w 12/m ]/w  /0
+
+
+
+发展/v 历程/n
+
+编辑/n
+
+
+
+2013年2月/t ，/w 欧盟/nt 宣布/v ，/w 将/d 拨款/v 5000万/m 欧元/n 。/w 加快/v 5/m G/m 移动/v 技术/n 的/u 发展/v ，/w 计划/n 到/ng 2020年/t 推出/v 成熟/a 的/u 标准/a 。/w
+
+2013年5月13日/t ，/w 韩国三星电子/nt 有限公司/nc 宣布/v ，/w 已/d 成功/a 开发/v 第/m 5/m 代/n 移动通信/ln （/w 5/m G/m ）/w 的/u 核心/n 技术/n ，/w 这/r 一技/nz 术/ng 预计/v 将于/n 2020年/t 开始/v 推向/v 商业化/v 。/w 该/r 技术/n 可在/n 28/m GHz/q 超高频/n 段以/nr 每秒/r 1/m Gbps/en 以上/f 的/u 速度/n 传送/v 数据/n ，/w 且/c 最长/a 传送/v 距离/n 可/v 达/ng 2/m 公里/q 。/w 相比之下/lv ，/w 当前/t 的/u 第四/m 代长期演/nr 进/ng （/w 4/m GLTE/en ）/w 服务/v 的/u 传输/v 速率/n 仅/d 为/p 75/m Mbps/q 。/w 而/c 此前/r 这/r 一传/n 输/v 瓶颈/n 被/ng 业界/n 普遍/a 认为/v 是/v 一个/mq 技术/n 难题/n ，/w 而/c 三星电子/nt 则/c 利用/v 64/m 个/q 天线/n 单元/n 的/u 自适/a 应/ng 阵列/n 传输/v 技术/n 破解/v 了/dg 这/r 一/m 难题/n 。/w 与/c 韩国/ns 4G/n 技术/n 的/u 传送/v 速度/n 相比/v ，/w 5/m G/m 技术/n 预计/v 可/v 提供/v 比/p 4G/n 长期/n 演进/v （/w LTE/en ）/w 快/a 100/m 倍/d 的/u 速度/n 。/w  /0 [/w 13/m ]/w  /0  /0 利用/v 这/r 一技/nz 术/ng ，/w 下载/v 一/m 部/n 高/a 画质/n （/w HD/n ）/w 电影/n 只需/n 十/m 秒钟/q 。/w
+
+早/a 在/d 2009年/t ，/w 华为/nz 就/d 已经/d 展开/v 了/dg 相关/v 技术/n 的/u 早期/f 研究/v ，/w 并/c 在/d 之后/f 的/u 几/m 年/n 里/f 向/p 外界/n 展示/v 了/dg 5/m G/m 原型机/n 基站/n 。/w 华为/nz 在/d 2013年11月6日/t 宣布/v 将/d 在/d 2018年/t 前/f 投资/n 6亿/m 美元/n 对/a 5/m G/m 的/u 技术/n 进行/v 研发/v 与/c 创新/v ，/w 并/c 预言/n 在/d 2020年/t 用户/n 会/n 享受/v 到/ng 20/m Gbps/en 的/u 商用/b 5/m G/m 移动网/n 络/ng 。/w
+
+2014年5月8日/t ，/w 日本/ns 电信/n 营运/v 商/n NTT/en DoCoMo/en 正式/a 宣布/v 将/d 与/c Ericsson/en 、/w Nokia/n 、/w Samsung/en 等/ng 六/m 家/k 厂商/n 共同/b 合作/v ，/w 开始/v 测试/v 凌驾/v 现有/v 4/m G/en 网络/n 1000/m 倍/d 网络/n 承载/v 能力/n 的/u 高速/b 5/m G/en 网络/n ，/w 传输/v 速度/n 可望/v 提升/v 至/d 10/m Gbps/en 。/w 预计/v 在/d 2015年/t 展开/v 户外/s 测试/v ，/w 并/c 期望/n 于/ng 2020 年/t 开始/v 运作/v 。/w
+
+2015年3月1日/t ，/w 英国/ns 《/w 每日/t 邮报/n 》/w 报道/n ，/w 英国/ns 已/d 成功/a 研制/v 5/m G网/n 络/ng ，/w 并进/v 行/a 100/m 米/n 内/f 的/u 传送/v 数据/n 测试/v ，/w 每秒/r 数据传输/n 高达/v 125/m GB/n ，/w 是/v 4G/n 网络/n 的/u 6.5万/m 倍/d ，/w 理论/n 上1秒钟/t 可下/nz 载/ng 30/m 部/n 电影/n ，/w 并称/v 于/ng 2018年/t 投入/a 公众/n 测试/v ，/w 2020年/t 正式/a 投入/a 商用/b 。/w
+
+2015年3月3日/t ，/w 欧盟/nt 数字/n 经济/n 和/c 社会/n 委员/nx 古泽/nr ·/w 奥/ag 廷/ng 格/n 正式/a 公布/v 了/dg 欧盟/nt 的/u 5/m G/m 公司/nc 合作/v 愿景/n ，/w 力求/v 确保/v 欧洲/ns 在下/r 一代/n 移动/v 技术/n 全球/n 标准/a 中/f 的话/u 语/ng 权。奥/nr 廷/ng 格/n 表示/v ，/w 5/m G/m 公私/n 合作/v 愿景/n 不仅/c 涉及/v 光纤/n 、/w 无线/b 甚至/c 卫星通信/ln 网络/n 相互/b 整合/v ，/w 还/d 将/d 利用/v 软件/n 定义/n 网络/n （/w SDN/en ）/w 、/w 网络/n 功能/n 虚拟化/v （/w NFV/en ）/w 、/w 移动/v 边缘/n 计算/v （/w MEC/en ）/w 和/c 雾/n 计算/v (/w Fog/en Computing/en )/w 等/ng 技术/n 。/w 在/d 频谱/n 领域/n ，/w 欧盟/nt 的/u 5/m G/m 公私/n 合作/v 愿景/n 还/d 将/d 划定/v 数百/m 兆赫/q 用于/v 提升/v 网络/n 性能/n ，/w 60/m GHz/q 及/c 更/d 高频/b 率/ag 的/u 频段/n 也/d 将/d 被/ng 纳入/v 考虑/v 。/w
+
+欧盟/nt 的/u 5/m G网/n 络/ng 将/d 在/d 2020年/t ~/w 2025年/t 之间/f 投入/a 运营/v 。/w
+
+2015年9月7日/t ，/w 美国/ns 移动/v 运营商/n Verizon/en 无线/b 公司/nc 宣布/v ，/w 将/d 从/p 2016年/t 开始/v 试用/v 5/m G网/n 络/ng ，/w 2017年/t 在/d 美国/ns 部分/n 城市/n 全面/a 商用/b 。/w [/w 14/m ]/w  /0  /0 中国/ns 5/m G/m 技术/n 研发/v 试验/v 将/d 在/d 2016-2018年/t 进行/v ，/w 分为/v 5/m G/m 关键/a 技术/n 试验/v 、/w 5/m G/m 技术/n 方案/n 验证/v 和/c 5/m G/m 系统/a 验证/v 三个/n 阶段/n 实施/v 。/w  /0 [/w 15/m ]/w  /0
+
+2016年3月/t ，/w 工信部/nt 副/b 部长/nx 陈肇雄/nr 表示/v ：/w 5/m G/m 是/v 新一代/n 移动通信/ln 技术/n 发展/v 的/u 主要方/n 向/p ，/w 是/v 未来/t 新一代/n 信息/n 基础设施/n 的/u 重要/a 组成部分/n 。/w 与/c 4G/n 相比/v ，/w 不仅/c 将/d 进一步/d 提升/v 用户/n 的/u 网络/n 体验/v ，/w 同时/c 还/d 将/d 满足/a 未来/t 万物/n 互联/v 的/u 应用/v 需求/n 。/w
+
+从/p 用户/n 体验/v 看/u ，/w 5/m G/m 具有/v 更/d 高/a 的/u 速率/n 、/w 更/d 宽/a 的/u 带宽/n ，/w 预计/v 5/m G网/n 速/ag 将/d 比/p 4G/n 提高/v 10/m 倍/d 左右/f ，/w 只需/n 要/v 几秒/t 即可/v 下载/v 一/m 部/n 高清/a 电影/n ，/w 能够/v 满足/a 消费者/n 对/a 虚拟现实/ln 、/w 超高/b 清/a 视频/n 等/ng 更/d 高/a 的/u 网络/n 体验/v 需求/n 。/w
+
+从/p 行业应用/n 看/u ，/w 5/m G/m 具有/v 更/d 高/a 的/u 可靠性/n ，/w 更/d 低/a 的/u 时延/j ，/w 能够/v 满足/a 智能制造/lv 、/w 自动/b 驾驶/v 等/ng 行业应用/n 的/u 特定/b 需求/n ，/w 拓宽/v 融合/v 产业/n 的/u 发展/v 空间/n ，/w 支撑/v 经济社会/ln 创新/v 发展/v 。/w
+
+从/p 发展/v 态势/n 看/u ，/w 5/m G/m 还/d 处于/v 技术标准/n 的/u 研究/v 阶段/n ，/w 后来/t 几/m 年/n 4G/n 还/d 将/d 保持/v 主导/n 地位/n 、/w 实现/v 持续/v 高速/b 发展/v 。/w 但/c 5/m G/m 有望/v 2020 年/t 正式/a 商用/b 。/w  /0 [/w 16/m ]/w  /0
+
+2016年/t ，/w 诺基亚/nz 与/c 加拿大/ns 运营商/n Bell/en Canada/en 合作/v ，/w 完成/v 加拿大/ns 首次/mq 5/m G网/n 络/ng 技术/n 的/u 测试/v 。/w 测试/v 中/f 使用/v 了/dg 73/m GHz/q 范围/n 内/f 频谱/n ，/w 数据传输/n 速率/n 为/p 加拿大/ns 现有/v 4G/n 网络/n 的/u 6/m 倍/d 。/w
+
+2017年2月9日/t ，/w 国际/n 通信/v 标准/a 组织/n 3/m GPP/en 宣布/v 了/dg “/w 5/m G/m ”/w 的/u 官方/n Logo/en 。/w  /0 [/w 17/m ]/w  /0
+
+2017年11月15日/t ，/w 工信部/nt 发布/v 《/w 关于第/n 五代/n 移动通信/ln 系统/a 使用/v 3300-3600/t MHz/q 和/c 4800-5000/t MHz/q 频段/n 相关/v 事宜/n 的/u 通知/n 》/w ，/w 确定/a 5/m G/m 中频/b 频谱/n ，/w 能够/v 兼顾/v 系统/a 覆盖/v 和/c 大容量/n 的/u 基本/a 需求/n 。/w  /0 [/w 18/m ]/w  /0
+
+2017年11月下/t 旬/ng 中国/ns 工信部/nt 发布/v 通知/n ，/w 正式/a 启动/v 5/m G/m 技术/n 研发/v 试验/v 第三/m 阶段/n 工作/n ，/w 并力/d 争/rg 于/ng 2018年年/t 底/n 前/f 实现/v 第三/m 阶段/n 试验/v 基本/a 目标/n 。/w  /0 [/w 19/m ]/w  /0
+
+2017年12月21日/t ，/w 在/d 国际/n 电信/n 标准/a 组织/n 3/m GPP/en RAN/en 第/m 78/m 次/a 全体/n 会议/nh 上/f ，/w 5/m G/en NR/n 首发/n 版本/n 正式/a 冻结/v 并发/v 布/n 。/w  /0 [/w 5/m ]/w  /0
+
+2017年12月/t ，/w 发改委/nc 发布/v 《/w 关于/p 组织/n 实施/v 2018年/t 新一代/n 信息/n 基础设施/n 建设工程/n 的/u 通知/n 》/w ，/w 要求/n 2018年/t 将/d 在/d 不少/mq 于/ng 5/m 个/q 城市/n 开展/v 5/m G/m 规模/n 组网/n 试点/n ，/w 每个/r 城市/n 5/m G/m 基站/n 数量/n 不少/mq 50/m 个/q 、/w 全网/n 5/m G/m 终端/n 不少/mq 于/ng 500/m 个/q 。/w  /0 [/w 20/m ]/w  /0
+
+2018年2月23日/t ，/w 在世/v 界/k 移动通信/ln 大会/nh 召开/v 前夕/f ，/w 沃达丰/nz 和/c 华为/nz 宣布/v ，/w 两/m 公司/nc 在/d 西班牙/ns 合作/v 采用/v 非独/c 立/d 的/u 3/m GPP/en 5/m G/m 新/a 无线/b 标准/a 和/c Sub/en 6/m GHz/q 频段/n 完成/v 了/dg 全球/n 首/m 个/q 5/m G/m 通话/v 测试/v 。/w  /0 [/w 6/m ]/w  /0
+
+2018年2月27日/t ，/w 华为/nz 在/d MWC/en 2018/m 大展/n 上/f 发布/v 了/dg 首/m 款/n 3/m GPP/en 标准/a 5/m G/m 商用/b 芯片/n 巴龙/nz 5/m G/en 01/m 和/c 5/m G/m 商用/b 终端/n ，/w 支持/v 全球/n 主流/n 5/m G/m 频段/n ，/w 包括/v Sub/en 6/m GHz/en (/w 低频/b )/w 、/w mmWave/en (/w 高频/b )/w ，/w 理论/n 上/f 可/v 实现/v 最高/a 2.3/m Gbps/en 的/u 数据/n 下载/v 速率/n 。/w  /0 [/w 21/m ]/w  /0
+
+2018年6月13日/t ，/w 3/m GPP/en 5/m G/en NR/n 标准/a SA/n （/w Standalone/en ，/w 独立/a 组网/n ）/w 方案/n 在/d 3/m GPP/en 第/m 80/m 次/a TSG/en RAN/en 全会/nh 正式/a 完成/v 并发/v 布/n ，/w 这/r 标志/n 着/n 首/m 个/q 真正/b 完整/a 意义/n 的/u 国际/n 5/m G/m 标准/a 正式/a 出炉/v 。/w  /0 [/w 22/m ]/w  /0
+
+2018年6月14日/t ，/w 3/m GPP/en 全会/nh （/w TSG/en #/w 80/m ）/w 批准/v 了/dg 第五/m 代/n 移动通信/ln 技术标准/n （/w 5/m G/en NR/n ）/w 独立/a 组网/n 功能/n 冻结/v 。/w 加之/c 2017年12月/t 完成/v 的/u 非独/c 立/d 组网/n NR/n 标准/a ，/w 5/m G/m 已经/d 完成/v 第一/m 阶段/n 全/a 功能/n 标准化/v 工作/n ，/w 进入/v 了/dg 产业/n 全面/a 冲刺/v 新/a 阶段/n 。/w  /0 [/w 23/m ]/w  /0
+
+2018年6月28日/t ，/w 中国联通/nt 公布/v 了/dg 5/m G/m 部署/v ：/w 将/d 以/p SA/n 为/p 目标/n 架构/n ，/w 前期/t 聚焦/v eMBB/en ，/w 5/m G网/n 络/ng 计划/n 2020年/t 正式/a 商用/b 。/w  /0 [/w 24/m ]/w  /0
+
+2018年8月2日/t ，/w 奥迪/nz 与/c 爱立信/nz 宣布/v ，/w 计划/n 率先/d 将/d 5/m G/m 技术/n 用于/v 汽车/np 生产/v 。/w 在/d 奥迪/nz 总部/nc 德国/ns 因/c 戈尔/nr 施塔特/nr ，/w 两/m 家公/n 司/nc 就/d 一系列/b 活动/n 达成/v 一致/a ，/w 共同/b 探讨/v 5/m G/m 作为/n 一/m 种/ng 面向/v 未来/t 的/u 通信技术/n ，/w 能够/v 满足/a 汽车/np 生产/v 高要/ns 求/ng 的/u 潜力/n 。/w 奥迪/nz 和/c 爱立信/nz 签署/v 了/dg 谅解/v 备忘录/n 在/d 未来/t 几/m 个/q 月/n 内/f ，/w 两/m 家公/n 司/nc 的/u 专家/n 们/k 将/d 在位/v 于/ng 德国/ns 盖/d 梅尔斯/nr 海姆/nr 的/u “/w 奥迪/nz 生产/v 实验室/nc ”/w 的/u 技术中心/n 进行/v 现场/s 测试/v 。/w  /0 [/w 25/m ]/w  /0
+
+2018年11月21日/t ，/w 重庆/ns 首/m 个/q 5/m G/m 连续/a 覆盖/v 试验区/ny ,/w 建设/v 完成/v ，/w 5/m G/m 远程/b 驾驶/v 、/w 5/m G/m 无人机/np 、/w 虚拟现实/ln 等/ng 多/a 项/ng 5/m G/m 应用/v 同时/c 亮相/v 。/w [/w 26/m ]/w  /0
+
+2018年12月1日/t ，/w 韩国/ns 三大/n 运营商/n SK/en 、/w KT/n 与/c LG/en U/en +/0 同步/b 在/d 韩国/ns 部分/n 地区/ny 推出/v 5/m G/m 服务/v ，/w 这/r 也/d 是/v 新一代/n 移动通信/ln 服务/v 在/d 全球/n 首次/mq 实现/v 商用/b 。/w 第一/m 批/q 应用/v 5/m G/m 服务/v 的/u 地区/ny 为首/v 尔/rg 、/w 首都/n 圈/n 和/c 韩国/ns 六大/j 广域/b 市/ny 的/u 市中心/s ，/w 以后/f 将/d 陆续/d 扩大/v 范围/n 。/w 按照/p 计划/n ，/w 韩国/ns 智能/n 手机/np 用户/n 2019年3月/t 份/n 左右/f 可以使/n 用/ng 5/m G/m 服务/v ，/w 预计/v 2020年下/t 半年/n 可以/a 实现/v 5/m G/m 全/a 覆盖/v 。/w  /0 [/w 7/m ]/w  /0
+
+2018年12月7日/t ，/w 工信部/nt 同意/v 联通/nz 集团/nc 自通/nz 知/ng 日至/n 2020年6月30日/t 使用/v 3500/m MHz/en -3600/m MHz/q 频率/n ，/w 用于/v 在/d 全国/n 开展/v 第五/m 代/n 移动通信/ln （/w 5/m G/m ）/w 系统/a 试验/v 。/w  /0 [/w 8/m ]/w  /0  /0 12月10日/t ，/w 工信部/nt 正式/a 对外/b 公布/v ，/w 已/d 向/p 中国电信/nt 、/w 中国移动/nt 、/w 中国联通/nt 发放/v 了/dg 5/m G/m 系统/a 中低/b 频段/n 试验/v 频率/n 使用/v 许可/v 。/w 这/r 意味着/v 各/r 基础/n 电信/n 运营/v 企业/n 开展/v 5/m G/m 系统/a 试验/v 所/n 必须/d 使用/v 的/u 频率/n 资源/n 得到/v 保障/v ，/w 向/p 产业界/n 发出/v 了/dg 明确/a 信号/n ，/w 进一步/d 推动/v 我国/n 5/m G/m 产业链/n 的/u 成熟/a 与/c 发展/v  /0 [/w 9/m ]/w  /0  /0 。/w
+
+2018年12月18日/t ，/w AT&T/n 宣布/v ，/w 将于/n 12月21日/t 在/d 全美/n 12/m 个/q 城市/n 率先/d 开放/a 5/m G网/n 络/ng 服务/v 。/w  /0 [/w 27/m ]/w  /0
+
+
+
+研发/v 过程/n
+
+编辑/n
+
+超/h 密集/a 异/ag 构/ng 网络/n
+
+未来/t 5/m G/en 网络/n 正/a 朝着/p 网络/n 多元化/v 、/w 宽带/n 化/k 、/w 综合化/v 、/w 智能化/v 的/u 方向/n 发展/v 。/w 随着/p 各种/r 智能终端/n 的/u 普及/a ，/w 面向/v 2020 年/t 及/c 以后/f ，/w 移动/v 数据流/n 量/n 将/d 呈现/v 爆炸式/b 增长/v 。/w 在/d 未来/t 5/m G/en 网络/n 中/f ，/w 减小/v 小区/ny 半径/n ，/w 增加/v 低/a 功率/n 节点/n 数量/n ，/w 是/v 保证/v 未来/t 5/m G/en 网络/n 支持/v 1 00/m 0/m 倍/d 流量/n 增长/v 的/u 核心/n 技术/n 之一/r 。/w 因此/c ，/w 超/h 密集/a 异/ag 构/ng 网络/n 成为/v 未来/t 5/m G/en 网络/n 提高/v 数据流/n 量/n 的/u 关键/a 技术/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+未来/t 无线网络/n 将/d 部署/v 超过/v 现有/v 站点/n 10/m 倍/d 以上/f 的/u 各种/r 无线/b 节点/n ，/w 在/d 宏/ag 站/ny 覆盖/v 区内/s ，/w 站点/n 间距/n 离/ng 将/d 保持/v 10/m m/en 以内/f ，/w 并且/c 支持/v 在/d 每/r 1/m km/en 2/m 范围/n 内/f 为/p 25 000/m 个/q 用户/n 提供/v 服务/v 。/w 同时/c 也/d 可能/a 出现/v 活跃/a 用户数/n 和/c 站点/n 数/m 的/u 比例/n 达到/v 1/m ∶/0 1/m 的/u 现象/n ，/w 即/c 用户/n 与/c 服务/v 节点/n 一一/m 对应/v 。/w 密集/a 部署/v 的/u 网络/n 拉近/v 了/dg 终端/n 与/c 节点/n 间/f 的/u 距离/n ，/w 使得/v 网络/n 的/u 功率/n 和频谱/nr 效率/n 大幅度/d 提高/v ，/w 同时/c 也/d 扩大/v 了/dg 网络/n 覆盖/v 范围/n ，/w 扩展/v 了/dg 系统/a 容量/n ，/w 并且/c 增强/v 了/dg 业务/n 在/d 不同/a 接入/v 技术/n 和/c 各/r 覆盖/v 层次/n 间/f 的/u 灵活性/n 。/w 虽然/c 超/h 密集/a 异/ag 构/ng 网络/n 架构/n 在/d 5/m G/en 中/f 有/v 很大/a 的/u 发展前景/n ，/w 但是/c 节点/n 间距/n 离/ng 的/u 减少/v ，/w 越发/d 密集/a 的/u 网络部/n 署/ng 将/d 使得/v 网络/n 拓扑/n 更加/d 复杂/a ，/w 从而/c 容易/a 出现/v 与/c 现有/v 移动通信/ln 系统/a 不/d 兼容/v 的/u 问题/n 。/w 在/d 5/m G/en 移动通信/ln 网络/n 中/f ，/w 干扰/v 是/v 一个/mq 必须/d 解决/v 的/u 问题/n 。/w 网络/n 中/f 的/u 干扰/v 主要/b 有/v ：/w 同频/v 干扰/v ，/w 共享/v 频谱/n 资源/n 干扰/v ，/w 不同/a 覆盖/v 层次/n 间/f 的/u 干扰/v 等/ng 。/w 现有/v 通信/v 系统/a 的/u 干扰/v 协调/v 算法/n 只能/v 解决/v 单个/b 干扰源/n 问题/n ，/w 而/c 在/d 5/m G/en 网络/n 中/f ，/w 相邻/v 节点/n 的/u 传输/v 损耗/n 一般/a 差别/n 不大/n ，/w 这/r 将/d 导致/v 多个/n 干扰源/n 强度/n 相近/a ，/w 进一步/d 恶化/v 网络/n 性能/n ，/w 使得/v 现有/v 协调/v 算法/n 难以/d 应对/v 。/w 此外/c ，/w 由于/c 业务/n 和/c 用户/n 对/a QoS/en 需求/n 的/u 差异性/n 很大/a ，/w 5/m G/en 网络/n 需要/n 采用/v 一些/mq 列/n 措施/n 来/u 保障/v 系统性/n 能/ng ，/w 主要/b 有/v ：/w 不同/a 业务/n 在/d 网络/n 中/f 的/u 实现/v ，/w 各种/r 节点/n 间/f 的/u 协调/v 方案/n ，/w 网络/n 的/u 选择/n ，/w 以及/c 节能/v 配置/n 方法/n 等/ng  /0 [/w 28/m ]/w  /0  /0 。/w
+
+准确/a 有效/a 地/n 感知/v 相邻/v 节点/n 是/v 实现/v 大规模/b 节点/n 协作/v 的/u 前提/n 条件/n 。/w 在/d 超/h 密集/a 网络/n 中/f ，/w 密集/a 地/n 部署/v 使得/v 小区/ny 边界/n 数量/n 剧增/v ，/w 加之/c 形状/n 的/u 不规则/a ，/w 导致/v 频繁/a 复杂/a 的/u 切换/v 。/w 为了/p 满足/a 移动性/n 需求/n ，/w 势必/d 出现/v 新/a 的/u 切换/v 算法/n ；/w 另外/c ，/w 网络/n 动态/n 部署/v 技术/n 也/d 是/v 研究/v 的/u 重点/d 。/w 由于/c 用户/n 部署/v 的/u 大量/mq 节点/n 的/u 开启/v 和/c 关闭/v 具有/v 突发性/n 和/c 随机性/n ，/w 使得/v 网络/n 拓扑/n 和/c 干扰/v 具有/v 大/a 范围/n 动态/n 变化/v 特性/n ；/w 而/c 各/r 小站/n 中/f 较/d 少/a 的/u 服务/v 用户数/n 也/d 容易/a 导致/v 业务/n 的/u 空间/n 和/c 时间/n 分布/v 出现/v 剧烈/a 的/u 动态/n 变化/v  /0 [/w 28/m ]/w  /0  /0 。/w
+
+自/d 组织网络/n
+
+传统/a 移动通信/ln 网络/n 中/f ，/w 主要/b 依靠/n 人工/b 方式/n 完成/v 网络部/n 署/ng 及/c 运/ng 维/jns ，/w 既/c 耗费/v 大量/mq 人力资源/n 又/d 增加/v 运行/v 成本/n ，/w 而且/c 网络/n 优化/v 也/d 不理/v 想/v 。/w 在/d 未来/t 5/m G/en 网络/n 中/f ，/w 将/d 面临/v 网络/n 的/u 部署/v 、/w 运营/v 及/c 维护/v 的/u 挑战/v ，/w 这/r 主要/b 是由/n 于网络/nr 存在/v 各种/r 无线接入/n 技术/n ，/w 且/c 网络/n 节点/n 覆盖/v 能力/n 各/r 不/d 相同/a ，/w 它们/r 之间/f 的/u 关系/n 错综复杂/ia 。/w 因此/c ，/w 自/d 组织网络/n (/w self/en -/w organizing/en network/en ，/w SON/en )/w 的/u 智能化/v 将/d 成为/v 5/m G/en 网络/n 必不可少/la 的/u 一/m 项关键技/nr 术/ng  /0 [/w 28/m ]/w  /0  /0 。/w
+
+自/d 组织网络/n 技术/n 解决/v 的/u 关键/a 问题/n 主要/b 有/v 以下/f 2/m 点/m ：/w ①/m 网络部/n 署/ng 阶段/n 的/u 自/d 规划/n 和/c 自配/n ；/w ②/m 网络维护/n 阶段/n 的/u 自/d 优化/v 和/c 自愈/v 合/ng 。/w 自配/n 置/v 即/c 新增/v 网络/n 节点/n 的/u 配置/n 可/v 实现/v 即/c 插/v 即/c 用/ng ，/w 具有/v 低/a 成本/n 、/w 安装/v 简易/a 等/ng 优点/n 。/w 自/d 优化/v 的/u 目的/n 是/v 减少/v 业务工作/n 量/n ，/w 达到/v 提升/v 网络/n 质量/n 及/c 性能/n 的/u 效果/n ，/w 其/r 方法/n 是/v 通过/p UE/en 和/c eNB/en 测量/v ，/w 在/d 本地/r eNB/en 或/c 网络管理/n 方面/n 进行/v 参数/n 自/d 优化/v 。/w 自愈/v 合/ng 指/ng 系统/a 能/ng 自动/b 检测/v 问题/n 、/w 定位/n 问题/n 和/c 排除/v 故障/n ，/w 大大/a 减少/v 维护/v 成本/n 并/c 避免/v 对/a 网络/n 质量/n 和/c 用户/n 体验/v 的/u 影响/v 。/w 自/d 规划/n 的/u 目的/n 是/v 动态/n 进行/v 网络/n 规划/n 并/c 执行/v ，/w 同时/c 满足/a 系统/a 的/u 容量/n 扩展/v 、/w 业务/n 监测/v 或/c 优化/v 结果/c 等/ng 方面/n 的/u 需求/n 。/w 目前/t ，/w 主要/b 有/v 集中式/b 、/w 分布式/b 以及/c 溷/ag 合式/a 3/m 种/ng 自/d 组织网络/n 架构/n 。/w 其中/r ，/w 基于/p 网管系统/n 实现/v 的/u 集中式/b 架构/n 具有/v 控制/v 范围/n 广/a 、/w 冲突/v 小/a 等/ng 优点/n ，/w 但/c 也/d 存在/v 着/n 运行/v 速度/n 慢/a 、/w 算法/n 复杂度/n 高等/b 方面/n 的/u 不足/a ；/w 而/c 分布式/b 恰恰相反/n ，/w 主要/b 通过/p SON/en 分布/v 在/d eNB/en 上来/v 实现/v ，/w 效率/n 和/c 响应/v 速度/n 高/a ，/w 网络/n 扩展性/n 较/d 好/a ，/w 对/a 系统/a 依/ng 懒/a 性/k 小/a ，/w 缺点/n 是/v 协调/v 困难/a ；/w 溷/ag 合式/a 结合/v 集中式/b 和/c 分布式/b 2/m 种/ng 架构/n 的/u 优点/n ，/w 缺点/n 是/v 设计/v 复杂/a 。/w SON/en 技术应用/n 于/ng 移动通信/ln 网络/n 时/n ，/w 其/r 优势/n 体现/v 在/d 网络/n 效率/n 和/c 维护/v 方面/n ，/w 同时/c 减少/v 了/dg 运营商/n 的/u 资本性/n 支出/n 和运营成/nr 本/d 投入/a 。/w 由于/c 现有/v 的/u SON/en 技术/n 都/d 是从/v 各自/r 网络/n 的/u 角度/n 出发/v ，/w 自/d 部署/v 、/w 自配/n 置/v 、/w 自/d 优化/v 和/c 自愈/v 合/ng 等/ng 操作/v 具有/v 独立性/n 和/c 封闭性/n ，/w 在/d 多/a 网络/n 之间/f 缺乏/v 协作/v 。/w 因此/c ，/w 研究/v 支持/v 异/ag 构/ng 网络/n 协作/v 的/u SON/en 技术/n 具有/v 深远/a 意义/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+内容/n 分发/v 网络/n
+
+在/d 未来/t 5/m G/en 中/f ，/w 面向/v 大规模/b 用户/n 的/u 音频/n 、/w 视频/n 、/w 图像/n 等/ng 业务/n 急剧/b 增长/v ，/w 网络/n 流量/n 的/u 爆炸式/b 增长/v 会/n 极大/a 地/n 影响/v 用户/n 访问/v 互联网/n 的/u 服务/v 质量/n 。/w 如何/r 有效/a 地/n 分发/v 大流/nz 量/n 的/u 业务内容/n ，/w 降低/v 用户/n 获取/v 信息/n 的/u 时延/j ，/w 成为/v 网络/n 运营商/n 和/c 内容/n 提供商/n 面临/v 的/u 一大/j 难题/n 。/w 仅仅/d 依靠/n 增加/v 带宽/n 并/c 不能/v 解决/v 问题/n ，/w 它/r 还/d 受到/v 传输/v 中路/n 由/p 阻塞/v 和/c 延迟/v 、/w 网站/nc 服务器/n 的/u 处理/v 能力/n 等/ng 因素/n 的/u 影响/v ，/w 这些/r 问题/n 的/u 出现/v 与/c 用户服务/n 器/k 之间/f 的/u 距离/n 有/v 密切/a 关系/n 。/w 内容/n 分发/v 网络/n (/w content/en distribution/en network/en ，/w CDN/en )/w 会/n 对/a 未来/t 5/m G/en 网络/n 的/u 容量/n 与/c 用户/n 访问/v 具有/v 重要/a 的/u 支撑/v 作用/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+内容/n 分发/v 网络/n 是在/n 传统/a 网络/n 中/f 添加/v 新/a 的/u 层次/n ，/w 即/c 智能/n 虚拟网/n 络/ng 。/w CDN/en 系统/a 综合/v 考虑/v 各/r 节点/n 连接/v 状态/n 、/w 负载/n 情况/n 以及/c 用户/n 距离/n 等/ng 信息/n ，/w 通过/p 将相/n 关内/s 容/ng 分发/v 至/d 靠近/v 用户/n 的/u CDN/en 代理服务/n 器/k 上/f ，/w 实现/v 用户/n 就近/d 获取/v 所/n 需/ng 的/u 信息/n ，/w 使得/v 网络/n 拥塞/a 状况/n 得以/v 缓解/v ，/w 降低/v 响应/v 时间/n ，/w 提高/v 响应/v 速度/n 。/w CDN/en 网络/n 架构/n 在用/b 户/ng 侧/f 与/c 源/ng server/en 之间/f 构建/v 多个/n CDN/en 代理/v server/en ，/w 可以/a 降低/v 延迟/v 、/w 提高/v QoS/en (/w quality/en of/en service/en )/w 。/w 当用/v 户/ng 对/a 所/n 需/ng 内容/n 发送/v 请求/n 时/n ，/w 如果/c 源/ng 服务器/n 之前/f 接收/v 到/ng 相同/a 内容/n 的/u 请求/n ，/w 则/c 该/r 请求/n 被/ng DNS/en 重/a 定向/b 到/ng 离/ng 用户/n 最近/t 的/u CDN/en 代理服务/n 器/k 上/f ，/w 由/p 该/r 代理服务/n 器/k 发送/v 相应/v 内容/n 给/v 用户/n 。/w 因此/c ，/w 源/ng 服务器/n 只需/n 要/v 将/d 内容/n 发给/v 各个/r 代理服务/n 器/k ，/w 便于/v 用户/n 从/p 就近/d 的/u 带宽/n 充足/a 的/u 代理服务/n 器/k 上/f 获取/v 内容/n ，/w 降低/v 网络/n 时延/j 并提/v 高/a 用户/n 体验/v 。/w 随着/p 云计算/n 、/w 移动互联网/ln 及/c 动态/n 网络/n 内容/n 技术/n 的/u 推进/v ，/w 内容/n 分发/v 技术/n 逐步/d 趋向/n 于/ng 专业化/v 、/w 定制/v 化/k ，/w 在内/v 容/ng 路由/n 、/w 管理/v 、/w 推送/vn 以及/c 安全性/n 方面/n 都/d 面临/v 新/a 的/u 挑战/v  /0 [/w 28/m ]/w  /0 。/w
+
+在/d 未来/t 5/m G/en 网络/n 中/f ，/w 随着/p 智能/n 移动/v 终端/n 的/u 不断/d 普及/a 和/c 快速/b 发展/v 的/u 应用服务/n ，/w 用户/n 对/a 移动/v 数据/n 业务/n 需求量/n 将/d 不断/d 增长/v ，/w 对/a 业务/n 服务/v 质量/n 的/u 要求/n 也/d 不断/d 提升/v 。/w CDN/en 技术/n 的/u 优势/n 正是/v 为/p 用户/n 快速/b 地/n 提供/v 信息/n 服务/v ，/w 同时/c 有助于/v 解决/v 网络/n 拥塞/a 问题/n 。/w 因此/c ，/w CDN/en 技术/n 成为/v 5/m G/en 必备/v 的/u 关键/a 技术/n 之一/r  /0 [/w 28/m ]/w  /0  /0 。/w
+
+D/en 2/m D/en 通信/v
+
+在/d 未来/t 5/m G/en 网络/n 中/f ，/w 网络/n 容量/n 、/w 频谱/n 效率/n 需要/n 进一步/d 提升/v ，/w 更/d 丰富/a 的/u 通信/v 模式/n 以及/c 更好/d 的/u 终端/n 用户/n 体验/v 也/d 是/v 5/m G/en 的/u 演进/v 方向/n 。/w 设备/n 到/ng 设备/n 通信/v (/w device/en -/w to/en -/w device/en communication/en ，/w D/en 2/m D/en )/w 具有/v 潜在/b 的/u 提升/v 系统性/n 能/ng 、/w 增强/v 用户/n 体验/v 、/w 减轻/v 基站/n 压力/n 、/w 提高/v 频谱/n 利用率/n 的/u 前景/n 。/w 因此/c ，/w D/en 2/m D/en 是/v 未来/t 5/m G/en 网络/n 中/f 的/u 关键/a 技术/n 之一/r  /0 [/w 28/m ]/w  /0  /0 。/w
+
+D/en 2/m D/en 通信/v 是/v 一/m 种/ng 基于/p 蜂窝/n 系统/a 的/u 近距/n 离/ng 数据/n 直接/a 传输/v 技术/n 。/w D/en 2/m D/en 会话/v 的/u 数据/n 直接/a 在/d 终端/n 之间/f 进行/v 传输/v ，/w 不/d 需要/n 通过/p 基站/n 转发/v ，/w 而/c 相关/v 的/u 控制/v 信令/n ，/w 如/c 会话/v 的/u 建立/v 、/w 维持/v 、/w 无线/b 资源分配/n 以及/c 计费/v 、/w 鉴/ng 权/n 、/w 识别/v 、/w 移动性/n 管理/v 等/ng 仍/ag 由/p 蜂窝网/nz 络/ng 负责/a 。/w 蜂窝网/nz 络/ng 引入/v D/en 2/m D/en 通信/v ，/w 可以/a 减轻/v 基站/n 负担/n ，/w 降低/v 端/ag 到/ng 端的/n 传输/v 时延/j ，/w 提升/v 频谱/n 效率/n ，/w 降低/v 终端/n 发射/v 功率/n 。/w 当/ag 无线通信/ln 基础设施/n 损坏/v ，/w 或者/c 在/d 无线网络/n 的/u 覆盖/v 盲区/n ，/w 终端/n 可/v 借助/v D/en 2/m D/en 实现/v 端/ag 到/ng 端/ag 通信/v 甚至/c 接入/v 蜂窝网/nz 络/ng 。/w 在/d 5/m G/en 网络/n 中/f ，/w 既/c 可以/a 在/d 授权/v 频段/n 部署/v D/en 2/m D/en 通信/v ，/w 也/d 可在/n 非/d 授权/v 频段/n 部署/v  /0 [/w 28/m ]/w  /0  /0 。/w
+
+M/en 2/m M/en 通信/v
+
+M/en 2/m M/en (/w machine/en to/en machine/en ，/w M/en 2/m M/en )/w 作为/n 物联网/n 在/d 现阶段/t 最/d 常见/a 的/u 应用/v 形式/n ，/w 在/d 智能/n 电网/n 、/w 安全/a 监测/v 、/w 城市/n 信息化/v 、/w 环境监测/n 等/ng 领域/n 实现/v 了/dg 商业化/v 应用/v 。/w 3/m GPP/en 已经/d 针对/v M/en 2/m M/en 网络/n 制定/v 了/dg 一些/mq 标准/a ，/w 并/c 已/d 立项/v 开始/v 研究/v M/en 2/m M/en 关键/a 技术/n 。/w 根据/n 美国/ns 咨询机构/n FORRESTER/en 预测/v 估计/v ，/w 到/ng 2020 年/t ，/w 全球/n 物/ng 与/c 物/ng 之间/f 的/u 通信/v 将/d 是/v 人/n 与/c 人/n 之间/f 通信/v 的/u 30/m 倍/d 。/w IDC/en 预测/v ，/w 在/d 未来/t 的/u 2020 年/t ，/w 500 亿/m 台/n M/en 2/m M/en 设备/n 将/d 活跃/a 在/d 全球/n 移动网/n 络/ng 中/f 。/w M/en 2/m M/en 市场/ny 蕴藏/v 着/n 巨大/a 的/u 商机/n 。/w 因此/c ，/w 研究/v M/en 2/m M/en 技术/n 对/a 5/m G/en 网络/n 具有/v 非比寻常/la 的/u 意义/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+M/en 2/m M/en 的/u 定义/n 主要/b 有/v 广义/n 和/c 狭义/b 2/m 种/ng 。/w 广义/n 的/u M/en 2/m M/en 主要/b 是/v 指/ng 机器/np 对/a 机器/np 、/w 人/n 与/c 机器/np 间/f 以及/c 移动网/n 络/ng 和/c 机器/np 之间/f 的/u 通信/v ，/w 它/r 涵盖/v 了/dg 所有/b 实现/v 人/n 、/w 机器/np 、/w 系统/a 之间/f 通信/v 的/u 技术/n ；/w 从/p 狭义/b 上/f 说/ag ，/w M/en 2/m M/en 仅仅/d 指/ng 机器/np 与/c 机器/np 之间/f 的/u 通信/v 。/w 智能化/v 、/w 交互式/b 是/v M/en 2/m M/en 有别于/v 其它/r 应用/v 的/u 典型/a 特征/n ，/w 这/r 一/m 特征/n 下/f 的/u 机器/np 也/d 被/ng 赋予/v 了/dg 更多/n 的/u “/w 智慧/n ”/w  /0 [/w 28/m ]/w  /0  /0 。/w
+
+信息/n 中心/nc 网络/n
+
+随着/p 实时/d 音频/n 、/w 高清/a 视频/n 等/ng 服务/v 的/u 日益/d 激增/v ，/w 基于/p 位置/n 通信/v 的/u 传统/a TCP/en //w IP/en 网络/n 无法/v 满足/a 海量/n 数据流/n 量/n 分发/v 的/u 要求/n 。/w 网络/n 呈现/v 出/q 以/p 信息/n 为/p 中心/nc 的/u 发展/v 趋势/n 。/w 信息/n 中心/nc 网络/n (/w information/en -/w centric/en network/en ，/w ICN/en )/w 的/u 思想/n 最早/d 是/v 1979 年/t 由/p Nelson/en 提出/v 来/u 的/u ，/w 后来/t 被/ng Baccala/en 强化/v 。/w 目前/t ，/w 美国/ns 的/u CCN/en 、/w DONA/en 和/c NDN/en 等/ng 多个/n 组织/n 对/a ICN/en 进行/v 了/dg 深入/a 研究/v 。/w 作为/n 一/m 种/ng 新型/b 网络/n 体系结构/n ，/w ICN/en 的/u 目标/n 是/v 取代/v 现有/v 的/u IP/en  /0 [/w 28/m ]/w  /0  /0 。/w
+
+ICN/en 所指/n 的/u 信息包/n 括/v 实时/d 媒体/n 流/ng 、/w 网页/n 服务/v 、/w 多媒体/n 通信/v 等/ng ，/w 而/c 信息/n 中心/nc 网络/n 就是/n 这些/r 片段/n 信息/n 的/u 总集/n 合/ng 。/w 因此/c ，/w ICN/en 的/u 主要/b 概念/n 是/v 信息/n 的/u 分发/v 、/w 查找/v 和/c 传递/v ，/w 不再/d 是/v 维护/v 目标/n 主机/n 的/u 可/v 连通/v 性/k 。/w 不同于/n 传统/a 的/u 以/p 主机/n 地址/n 为/p 中心/nc 的/u TCP/en //w IP/en 网络/n 体系结构/n ，/w ICN/en 采用/v 的/u 是以/c 信息/n 为/p 中心/nc 的/u 网络通信/n 模型/n ，/w 忽略/v IP/en 地址/n 的/u 作用/n ，/w 甚至/c 只是/c 将/d 其/r 作为/n 一/m 种/ng 传输/v 标识/n 。/w 全新/b 的/u 网络/n 协议/n 栈/ng 能够/v 实现/v 网络/n 层/n 解析/v 信息/n 名称/n 、/w 路由/n 缓存/n 信息/n 数据/n 、/w 多/a 播/v 传递/v 信息/n 等/ng 功能/n ，/w 从而/c 较/d 好/a 地/n 解决/v 计算机网络/ln 中/f 存在/v 的/u 扩展性/n 、/w 实时性/n 以及/c 动态性/n 等/ng 问题/n 。/w ICN/en 信息/n 传递/v 流程/n 是/v 一/m 种/ng 基于/p 发布/v 订阅/v 方式/n 的/u 信息/n 传递/v 流程/n 。/w 首先/c ，/w 内容/n 提供方/n 向/p 网络/n 发布/v 自己/r 所/n 拥有/v 的/u 内容/n ，/w 网络/n 中/f 的/u 节点/n 就/d 明白/a 当/ag 收到/v 相关/v 内容/n 的/u 请求/n 时/n 如何/r 响应/v 该/r 请求/n 。/w 然后/c ，/w 当/ag 第一/m 个/q 订阅/v 方向/n 网络/n 发送/v 内容/n 请求/n 时/n ，/w 节点/n 将/d 请求/n 转发/v 到/ng 内容/n 发布/v 方/a ，/w 内容/n 发布/v 方将/nz 相应/v 内容/n 发送/v 给/v 订阅/v 方/a ，/w 带有/v 缓存/n 的/u 节点/n 会/n 将/d 经过/p 的/u 内容/n 缓存/n 。/w 其他/r 订阅/v 方/a 对/a 相同/a 内容/n 发送/v 请求/n 时/n ，/w 邻近/v 带/ng 缓存/n 的/u 节点/n 直接/a 将相/n 应/ng 内容/n 响应/v 给/v 订阅/v 方/a 。/w 因此/c ，/w 信息/n 中心/nc 网络/n 的/u 通信/v 过程/n 就是/n 请求/n 内容/n 的/u 匹配/v 过程/n 。/w 传统/a IP/en 网络/n 中/f ，/w 采用/v 的/u 是/v “/w 推/v ”/w 传输/v 模式/n ，/w 即/c 服务器/n 在/d 整个/b 传输/v 过程/n 中/f 占/ng 主导/n 地位/n ，/w 忽略/v 了/dg 用户/n 的/u 地位/n ，/w 从而/c 导致/v 用户端/n 接收/v 过多/a 的/u 垃圾/n 信息/n 。/w ICN/en 网络/n 正好/a 相反/v ，/w 采用/v “/w 拉/v ”/w 模式/n ，/w 整个/b 传输/v 过程/n 由/p 用户/n 的/u 实时/d 信息/n 请求/n 触发/v ，/w 网络/n 则/c 通过/p 信息/n 缓存/n 的/u 方式/n ，/w 实现/v 快速/b 响应/v 用户/n 。/w 此外/c ，/w 信息/n 安全/a 只/bg 与/c 信息/n 自身/r 相关/v ，/w 而/c 与/c 存储/v 容器/n 无关/v 。/w 针对/v 信息/n 的/u 这种/r 特性/n ，/w ICN/en 网络/n 采用/v 有别于/v 传统/a 网络安全/n 机制/n 的/u 基于/p 信息/n 的/u 安全/a 机制/n 。/w 这种/r 机制/n 更加/d 合理/a 可信/a ，/w 且/c 能/ng 实现/v 更/d 细/a 的/u 安全/a 策略/n 粒度/n 。/w 和/c 传统/a 的/u IP/en 网络/n 相比/v ，/w ICN/en 具有/v 高效性/n 、/w 高安/ns 全/a 性/k 且/c 支持/v 客户端/n 移动/v 等/ng 优势/n 。/w 目前/t 比较/d 典型/a 的/u ICN/en 方案/n 有/v CCN/en ，/w DONA/en ，/w NetInf/en ，/w INS/en 和/c TRIAD/en  /0 [/w 28/m ]/w  /0  /0 。/w
+
+移动/v 云计算/n
+
+近年来/t ，/w 智能/n 手机/np 、/w 平板电脑/n 等/ng 移动/v 设备/n 的/u 软硬件/n 水平/n 得到/v 了/dg 极大/a 地/n 提高/v ，/w 支持/v 大量/mq 的/u 应用/v 和服/n 务/dg ，/w 为/p 用户/n 带来/v 了/dg 很大/a 的/u 方便/a 。/w 在/d 5/m G/en 时代/n ，/w 全球/n 将/d 会/n 出现/v 500 亿/m 连接/v 的/u 万物/n 互联/v 服务/v ，/w 人们/n 对/a 智能终端/n 的/u 计算/v 能力/n 以及/c 服务/v 质量/n 的/u 要求/n 越来越/d 高/a 。/w 移动/v 云计算/n 将/d 成为/v 5/m G/en 网络/n 创新/v 服务/v 的/u 关键/a 技术/n 之一/r 。/w 移动/v 云计算/n 是/v 一/m 种/ng 全新/b 的/u IT/en 资源/n 或/c 信息/n 服务/v 的/u 交付/v 与/c 使用/v 模式/n ，/w 它/r 是在/n 移动互联网/ln 中/f 引入/v 云计算/n 的/u 产物/n 。/w 移动网/n 络/ng 中/f 的/u 移动/v 智能终端/n 以/p 按/p 需/ng 、/w 易/a 扩展/v 的/u 方式/n 连接/v 到/ng 远/a 端的/n 服务提供商/ln ，/w 获得/v 所/n 需/ng 资源/n ，/w 主要/b 包含/v 基础设施/n 、/w 平台/n 、/w 计算/v 存储/v 能力/n 和/c 应用/v 资源/n 。/w SaaS/en 软件/n 服务/v 为/p 用户/n 提供/v 所/n 需/ng 的/u 软件应用/n ，/w 终端/n 用户/n 不/d 需要/n 将/d 软件/n 安装/v 在/d 本地/r 的/u 服务器/n 中/f ，/w 只需/n 要/v 通过/p 网络/n 向/p 原始/a 的/u 服务/v 提供者/n 请求/n 自己/r 所/n 需要/n 的/u 功能/n 软件/n 。/w PaaS/en 平台/n 的/u 功能/n 是/v 为/p 用户/n 提供/v 创建/v 、/w 测试/v 和/c 部署/v 相关/v 应用/v 等/ng 服务/v 。/w PaaS/en 自身/r 不仅/c 拥有/v 很/d 好/a 的/u 市场/ny 应用/v 场景/n ，/w 而且/c 能够/v 推进/v SaaS/en 。/w 而/c IaaS/en 基础设施/n 提供/v 基础/n 服务/v 和/c 应用/v 平台/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+SDN/en //w NFV/en
+
+随着/p 网络通信/n 技术/n 和/c 计算机/np 技术/n 的/u 发展/v ，/w 互联网/n +/0 、/w 三网融合/lv 、/w 云计算/n 服务/v 等/ng 新兴/b 产业/n 对/a 互联网/n 在/d 可扩展性/n 、/w 安全性/n 、/w 可控/v 可/v 管/c 等/ng 方面/n 提出/v 了/dg 越来越/d 高/a 的/u 要求/n 。/w SDN/en (/w software/en -/w defined/en networking/en ，/w 软件/n 定义/n 网络/n )/w //w NFV/en (/w network/en function/en virtualization/en ，/w 网络/n 功能/n 虚拟化/v )/w 作为/n 一/m 种/ng 新型/b 的/u 网络/n 架构/n 与/c 构建/v 技术/n ，/w 其/r 倡导/v 的/u 控制/v 与/c 数据/n 分离/v 、/w 软件/n 化/k 、/w 虚拟化/v 思想/n ，/w 为/p 突破/v 现有/v 网络/n 的/u 困境/n 带来/v 了/dg 希望/n 。/w 在/d 欧盟/nt 公布/v 的/u 5/m G/en 愿景/n 中/f ，/w 明确/a 提出/v 将/d 利用/v SDN/en //w NFV/en 作为/n 基础/n 技术/n 支撑/v 未来/t 5/m G/en 网络/n 发展/v 。/w SDN/en 架构/n 的/u 核心/n 特点/n 是/v 开放性/n 、/w 灵活性/n 和可/nr 编程/v 性/k 。/w 主要/b 分为/v 3/m 层/n :/w 基础设施/n 层/n 位于/v 网络/n 最底层/n ，/w 包括/v 大量/mq 基础网/n 络/ng 设备/n ，/w 该/r 层/n 根据/n 控制/v 层/n 下发/v 的/u 规则/a 处理/v 和/c 转发/v 数据/n ;/w 中间层/n 为/p 控制/v 层/n ，/w 该/r 层/n 主要/b 负责/a 对数/n 据/ng 转发/v 面的/n 资源/n 进行/v 编排/v ，/w 控制/v 网络/n 拓扑/n 、/w 收集/v 全局/n 状态/n 信息/n 等/ng ;/w 最/d 上层/f 为/p 应用层/n ，/w 该/r 层/n 包括/v 大量/mq 的/u 应用服务/n ，/w 通过/p 开放/a 的/u 北向/n API/en 对/a 网络资源/n 进行/v 调用/v  /0 [/w 28/m ]/w  /0  /0 。/w
+
+SDN/en 将/d 网络设备/n 的/u 控制/v 平面/n 从/p 设备/n 中分/nz 离/ng 出来/v ，/w 放到/v 具有/v 网络/n 控制/v 功能/n 的/u 控制器/n 上进/a 行/a 集中控制/n 。/w 控制器/n 掌握/v 所有/b 必需/v 的/u 信息/n ，/w 并/c 通过/p 开放/a 的/u API/en 被/ng 上层/f 应用程序/n 调用/v 。/w 这样/r 可以/a 消除/v 大量/mq 手动/b 配置/n 的/u 过程/n ，/w 简化/v 管理员/nx 对/a 全网/n 的/u 管理/v ，/w 提高/v 业务部/nc 署/ng 的/u 效率/n 。/w SDN/en 不会/v 让/v 网络/n 变得/v 更快/n ，/w 但/c 他/r 会/n 让/v 整个/b 基础设施/n 简化/v ，/w 降低/v 运营/v 成本/n ，/w 提升/v 效率/n 。/w 未来/t 5/m G/en 网络/n 中/f 需要/n 将/d 控制/v 与/c 转发/v 分离/v ，/w 进一步/d 优化/v 网络/n 的/u 管理/v ，/w 以/p SDN/en 驱动/v 整个/b 网络/n 生态/n 系统/a  /0 [/w 28/m ]/w  /0  /0 。/w
+
+软件/n 定义/n 无线网络/n
+
+无线网络/n 面临/v 着/n 一系列/b 的/u 挑战/v 。/w 首先/c ，/w 无线网络/n 中/f 存在/v 大量/mq 的/u 异/ag 构/ng 网络/n ，/w 如/c ：/w LTE/en 、/w Wimax/n 、/w UMTS/n 、/w WLAN/en 等/ng ，/w 异/ag 构/ng 无线网络/n 并存/v 的/u 现象/n 将/d 持续/v 相当/d 长/a 的/u 一/m 段/n 时间/n 。/w 目前/t ，/w 异/ag 构/ng 无线网络/n 面临/v 的/u 主要/b 挑战/v 是/v 难以/d 互通/v ，/w 资源/n 优化/v 困难/a ，/w 无线/b 资源/n 浪费/v ，/w 这/r 主要/b 是由/n 于/ng 现有/v 移动网/n 络/ng 采用/v 了/dg 垂直/v 架构/n 的/u 设计模式/n 。/w 此外/c ，/w 网络/n 中/f 的/u 一对/mq 多模/n 型/k （/w 即/c 单一/a 网络/n 特性/n 对/a 多种/a 服务/v ）/w ，/w 无法/v 针对/v 不同/a 服务/v 的/u 特点/n 提供/v 定制/v 的/u 网络/n 保障/v ，/w 降低/v 了/dg 网络服务/n 质量/n 和/c 用户/n 体验/v 。/w 因此/c ，/w 在/d 无线网络/n 中/f 引入/v SDN/en 思想/n 将/d 打破/v 现有/v 无线网络/n 的/u 封闭/v 僵化/v 现象/n ，/w 彻底/a 改变/v 无线网络/n 的/u 困境/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+软件/n 定义/n 无线网络/n 保留/v 了/dg SDN/en 的/u 核心/n 思想/n ，/w 即将/d 控制/v 平面/n 从/p 分布式/b 网络设备/n 中/f 解耦/n ，/w 实现/v 逻辑/n 上/f 的/u 网络/n 集中控制/n ，/w 数据/n 转发/v 规则/a 由/p 集中控制/n 器/k 统一/a 下发/v 。/w 软件/n 定义/n 无线网络/n 的/u 架构/n 分为/v 3/m 个/q 层面/n 。/w 在/d 软件/n 定义/n 无线网络/n 中/f ，/w 控制/v 平面/n 可以/a 获取/v 、/w 更新/v 、/w 预测/v 全网/n 信息/n ，/w 例如/v ：/w 用户/n 属性/n 、/w 动态/n 网络/n 需求/n 以及/c 实时/d 网络状/n 态/ng 。/w 因此/c ，/w 控制/v 平面/n 能够/v 很/d 好/a 地/n 优化/v 和/c 调整/v 资源分配/n 、/w 转发/v 策略/n 、/w 流/ng 表/n 管理/v 等/ng ，/w 简化/v 了/dg 网络管理/n ，/w 加快/v 了/dg 业务/n 创新/v 的/u 步伐/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+情境/n 感知/v 技术/n
+
+随着/p 海量/n 设备/n 的/u 增长/v ，/w 未来/t 的/u 5/m G/en 网络/n 不仅/c 承载/v 人/n 与/c 人/n 之间/f 的/u 通信/v ，/w 而且/c 还要/v 承载/v 人/n 与/c 物/ng 之间/f 以及/c 物/ng 与/c 物/ng 之间/f 的/u 通信/v ，/w 既/c 可/v 支撑/v 大量/mq 终端/n ，/w 又/d 使/ng 个性化/v 、/w 定制/v 化/k 的/u 应用/v 成为/v 常态/n 。/w 情境/n 感知/v 技术/n 能够/v 让/v 未来/t 5/m G/en 网络/n 主动/a 、/w 智能/n 、/w 及时/a 地/n 向/p 用户/n 推送/vn 所/n 需/ng 的/u 信息/n  /0 [/w 28/m ]/w  /0  /0 。/w
+
+
+
+技术指标/n
+
+编辑/n 标志性/n 能力/n 指标/n 为/p “/w Gbps/en 用户/n 体验/v 速率/n ”/w ，/w 一/m 组/n 关键/a 技术/n 包括/v 大规模/b 天线/n 阵列/n 、/w 超/h 密集/a 组/n
+
+/0
+
+网/n 、/w 新型/b 多/a 址/ng 、/w 全/a 频谱/n 接入/v 和新型网/nr 络/ng 架构/n 。/w 大规模/b 天线/n 阵列/n 是/v 提升/v 系统/a 频谱/n 效率/n 的/u 最重/a 要/v 技术/n 手段/n 之一/r ，/w 对/a 满足/a 5/m G/m 系统/a 容量/n 和/c 速率/n 需求/n 将/d 起到/v 重要/a 的/u 支撑/v 作用/n ；/w 超/h 密集/a 组网/n 通过/p 增加/v 基站/n 部署/v 密度/n ，/w 可/v 实现/v 百倍/m 量级/n 的/u 容量/n 提升/v ，/w 是/v 满足/a 5/m G/m 千/m 倍/d 容量/n 增长/v 需求/n 的/u 最/d 主要/b 手段/n 之一/r ；/w 新型/b 多/a 址/ng 技术/n 通过/p 发送/v 信号/n 的/u 迭加/ns 传输/v 来/u 提升/v 系统/a 的/u 接入/v 能力/n ，/w 可/v 有效/a 支撑/v 5/m G网/n 络/ng 千亿/m 设备/n 连接/v 需求/n ；/w 全/a 频谱/n 接入/v 技术/n 通过/p 有效/a 利用/v 各类/r 频谱/n 资源/n ，/w 可/v 有效/a 缓解/v 5/m G网/n 络/ng 对/a 频谱/n 资源/n 的/u 巨大/a 需求/n ；/w 新型/b 网络/n 架构/n 基于/p SDN/en 、/w NFV/en 和/c 云计算/n 等/ng 先进/a 技术/n 可/v 实现/v 以/p 用户/n 为/p 中心/nc 的/u 更/d 灵活/a 、/w 智能/n 、/w 高效/b 和/c 开放/a 的/u 5/m G/m 新型/b 网络/n 。/w  /0 [/w 29/m ]/w  /0
+
+
+
+使用/v 频率/n
+
+编辑/n
+
+2018年8月3日/t ，/w 美国联邦/ns 通讯/n 委员会/nc （/w FCC/n ）/w 周四/t 发布/v 高频/b 段/n 频谱/n 的/u 竞拍/v 规定/n ，/w 这些/r 频谱/n 将/d 用于/v 开发/v 下一代/n 5/m G/m 无线网络/n 。/w [/w 30/m ]/w  /0  /0 计划/n 2018年11月/t 拍卖/v 28/m GHz/q 频段/n ，/w 之后/f 再/d 拍卖/v 24/m GHz/q 频段/n 。/w  /0 [/w 30/m ]/w  /0
+
+2018年12月7日/t ，/w 公司/nc 控股/v 股东/n 移动/v 集团/nc 接到/v 工信部/nt 通知/n ，/w 同意/v 母公司/n 自通/nz 知/ng 日至/n 2020年6月30日/t 使用/v 2515/m MHz/en -2675/m MHz/q 、/w 4800/m MHz/en -4900/m MHz/q 频段/n 用于/v 5/m G/m 系统/a 实验/n ，/w 其中/r 2515/m MHz/en -2575/m MHz/q 、/w 2635/m MHz/en -2675/m MHz/q 、/w 4800/m MHz/en 4900/m MHz/q 频段/n 为/p 新增/v 频段/n ，/w 2575/m MHz/en -2635/m MHz/q 为重/v 耕/v 母公司/n 现有/v 的/u 4G/n 频段/n 。/w 中国移动/nt 方面/n 将/d 配合/v 母公司/n ，/w 继续/v 携手/v 产业/n 各方/n ，/w 积极/a 推进/v 5/m G/m 技术/n 研发/v 、/w 网络/n 及/c 业务/n 应用/v 试验/v 。/w
+
+2019年3月31日/t 前/f 逐步/d 停止/v 部分/n 频率/n 的/u 使用/v ，/w 中国联通/nt 方面/n 将/d 在/d 全国/n 范围/n 内/f 逐步/d 停止/v 使用/v 2555/m MHz/en -2575/m MHz/q 频率/n ，/w 中国电信/nt 方面/n 将/d 逐步/d 停止/v 使用/v 2635/m MHz/en -2655/m MHz/q 频率/n 。/w  /0 [/w 8/m ]/w  /0
+
+
+
+存在/v 障碍/n
+
+编辑/n
+
+首先/c 就是/n 监管/v 和牌/n 照/ng 。/w 固/ag 网/n 和/c 移动网/n 络/ng 在/d 监管/v 和/c 运营/v 牌照/n 上/f 有着/v 很/d 长/a 的/u 不同/a 历史/n 。/w 举/ag 个例/n 子/k ，/w 在/d 很多/mq 国家/n ，/w 固/ag 网/n 运营商/n 最早/d 都/d 是/v 垄断/v 企业/n ，/w 有着/v 类似/a 的/u 载波/n 和/c 定价/n 限制/v 。/w 比如说/ldm 批发/v 给/v 互联网/n 服务提供商/ln 的/u 宽带/n 容量/n ，/w 都/d 受/v 国家/n 监管/v 。/w 还有/v 的/u 运营商/n 都/d 依赖/v 国家/n 分配/v 的/u 频谱/n 资源/n 。/w
+
+其次/c 是/v 组织机构/n 。/w 移动/v 运营商/n 在/d 很多/mq 情况/n 下/f ，/w 都/d 受/v 固/ag 网/n 运营商/n 的/u 控制/v ，/w 或者/c 是/v 其子/r 公司/nc 。/w 固/ag 网/n 和/c 移动网/n 络/ng 整合/v ，/w 需要/n 该国/r 竞争/v 主管/n 机构/n 重新/d 审视/v 。/w 相比/v 合并/v ，/w 竞争/v 主管/n 机构/n 更/d 倾向/n 于/ng 分开/v 运营/v 。/w 还有/v 就是/n 企业/n 的/u 战略/n 各/r 不/d 相同/a ，/w 比如说/ldm 沃达丰/nz 完全/a 以/p 移动/v 业务/n 为主/v 导/vg 。/w 还有/v 就是/n 网络/n 运营商/n 的/u 股东/n 们/k ，/w 一想/nz 到/ng 网络/n 合并/v 后/f ，/w 因/c 裁员/v 跟/c 工会/nc 纠缠/v ，/w 或者/c 合并/v 后/f 的/u 企业/n 文化/n 碰撞/v 等等/u ，/w 就/d 会/n 对/a 合并/v 非常/b 抵抗/v 。/w
+
+其他/r 的/u 障碍/n 还/d 包括/v 标准/a 。/w 技术/n 互/d 操作性/n 的/u 开放/a 标准/a ，/w 对/a 电信/n 行业/n 来说/u 非常/b 重要/a 。/w 标准化/v 方面/n 也/d 需要/n 广泛/a 的/u 努力/a 与/c 合作/v ，/w 现在/t 移动/v 和/c 固/ag 网/n 领域/n 分别/d 存在/v 着/n 各种/r 不同/a 的/u 标准/a 组织/n 。/w 3/m GPP/en 和/c ETSI/en 在/d 移动/v 标准化/v 方面/n 非常/b 成功/a ，/w ITU/en -/w R/en 在/d 频谱/n 分配/v 方面/n 很/d 有权/v 威/ng ，/w ITU/en -/w R/en 已经/d 开始/v 投入/a 到/ng IMT/en -2020/m （/w 5/m G/m ）/w 技术/n 的/u 网络/n 标准化/v 要求/n 工作/n 中/f 了/dg 。/w  /0 [/w 31/m ]/w  /0
+
+
+
+应用领域/n
+
+编辑/n
+
+
+
+5/m G/m 图书/n
+
+《/w 大话/n 5/m G/m 》/w ，/w 邬贺铨/nr  /0 [/w 32/m ]/w  /0  /0 院士/nx 、/w 李易/nr 、/w 项/ng 立/d 刚/ag  /0 [/w 33/m ]/w  /0  /0 作/ng 序/n 力荐/v 。/w
+
+《/w 大话/n 5/m G/m 》/w 5/m G/m 通俗/a 读物/n
+
+5/m G/m 技术/n 专利/n 大佬/n 主笔/n ，/w 作为/n 5/m G/m 的/u 早期/f 图书/n ，/w 首先/c 从/p 5/m G/m 的/u 需求/n 和/c 场景/n 出发/v ，/w 重点/d 介绍/v 了/dg 5/m G/m 的/u 业务/n 场景/n 和/c 技术指标/n ；/w 其次/c 阐述/v 了/dg 全球/n 5/m G/m 的/u 最新/a 研发/v 进展/v ，/w 让/v 读者/n 能够/v 对/a 5/m G/m 的/u 研究/v 形成/v 全貌/n 的/u 认识/n ；/w 再次/d 从/p 无线/b 物理层/n 、/w 接入网/n 架构/n 和核心/nr 网架/n 构/ng 等/ng 方面/n 重点/d 阐述/v 了/dg 候选/b 的/u 5/m G/m 空口/d 关键/a 技术/n  /0 [/w 34/m ]/w  /0  /0 和/c 网络/n 关键/a 技术/n 。/w
+
+
+
+外科/nc 手术/n
+
+2019年1月19日/t ，/w 中国/ns 一名/nz 外科/nc 医生/nx 利用/v 5/m G/m 技术/n 实施/v 了/dg 全球/n 首例/n 远程/b 外科/nc 手术/n 。/w 这/r 名医/n 生/a 在/d 福建省/ns 利用/v 5/m G网/n 络/ng ，/w 操控/v 30/m 英里/q （/w 约合/vn 48/m 公里/q ）/w 以外/f 一个/mq 偏远/a 地区/ny 的/u 机械/a 臂/ng 进行/v 手术/n 。/w
+
+在/d 进行/v 的/u 手术/n 中/f ，/w 由于/c 延时/v 只有/c 0.1秒/t ，/w 外科/nc 医生/nx 用/ng 5/m G网/n 络/ng 切除/v 了/dg 一/m 只/bg 实验/n 动物/n 的/u 肝脏/n 。/w 5/m G/m 技术/n 的/u 其他/r 好处/n 还/d 包括/v 大幅/a 减少/v 了/dg 下载/v 时间/n ，/w 下载/v 速度/n 从/p 每秒/r 约/d 20兆/m 字节/n 上升/v 到/ng 每秒/r 50/m 千兆/m 字节/n ——/w 相当于/v 在/d 1/m 秒钟/q 内/f 下载/v 超过/v 10/m 部/n 高清/a 影片/n 。/w 5/m G/m 技术/n 最/d 直接/a 的/u 应用/v 很/d 可能/a 是/v 改善/v 视频/n 通话/v 和/c 游戏/n 体验/v ，/w 但/c 机器人/n 手术/n 很/d 有/v 可能/a 给/v 专业/a 外科/nc 医生/nx 为/p 世界各地/l 有/v 需要/n 的/u 人/n 实施/v 手术/n 带来/v 很大/a 希望/n 。/w
+
+5/m G/m 技术/n 将/d 开辟/v 许多/mq 新/a 的/u 应用领域/n ，/w 以前/f 的/u 移动/v 数据传输/n 标准/a 对/a 这些/r 领域/n 来说/u 还/d 不够/a 快/a 。/w 5/m G网/n 络/ng 的/u 速度/n 和/c 较/d 低/a 的/u 延时/v 性/k 首次/mq 满足/a 了/dg 远程/b 呈现/v 、/w 甚至/c 远程/b 手术/n 的/u 要求/n 。/w  /0 [/w 35/m ]/w  /0
+
+
+
+合作/v 协议/n
+
+编辑/n
+
+2016年9月21日/t ，/w 上海市政府/nt 与/c 中国移动通信集团公司/nt 在/d 沪/jns 签署/v 共同/b 推进/v “/w 互联网+/n ”/w 战略/n 合作/v 框架/n 协议/n 。/w “/w 十三五/m ”/w 期间/f ，/w 中国移动/nt 计划/n 在/d 沪/jns 投入/a 260亿/m 元/q ，/w 着力/v 构建/v 新一代/n 网络/n 与/c 信息/n 基础设施/n 。/w
+
+根据/n 协议/n ，/w 上海/ns 移动/v 将/d 建设/v 新一代/n 网络/n 与/c 信息/n 基础设施/n ，/w 建成/v 全国/n 领先/v 的/u 4/m G/en +/0 精品网/n 络/ng ，/w 并/c 计划/n 2018年/t 在/d 国内/s 率先/d 开展/v 5/m G/m 试点/n 。/w 光纤/n 接入/v 覆盖/v 900万/m 户/ng 家庭/n 和/c 8300/m 幢/ng 重点/d 商业楼/n 宇/ng 。/w 在/d 上海/ns 临港/ns 率先/d 建成/v 中国移动/nt 国际/n 海光缆/n 登陆/v 局/ag ，/w 助力/v 上海/ns 确立/v 国际/n 通信/v 枢纽/n 地位/n 。/w 建成/v 具备/v 5亿/m 规模/n “/w 物/ng ”/w 连接/v 能力/n 的/u 、/w 覆盖/v 上海市/ns 的/u 新型/b 物联/n 专网/n ，/w 在/d 临港/ns 地区/ny 推进/v 20万/m 平方米/q 绿色/n 云/n 数据中心/n 建设/v 。/w
+
+此外/c ，/w 上海市政府/nt 与/c 中国移动/nt 还/d 将/d 围绕/v 城市/n 管理/v 、/w 产业/n 升级/v 、/w 文化/n 创意/n 、/w 民生服务/n 、/w 创新创业/lv 、/w 网络安全/n 六大/j 领域/n ，/w 共同/b 打造/v “/w 互联网+/n ”/w 发展/v 新/a 优势/n 。/w  /0 [/w 36/m ]/w  /0
+
+
+
+最新/a 进展/v
+
+编辑/n
+
+根据/n 目前/t 各国/r 研究/v ，/w 5/m G/m 技术/n 相比/v 目前/t 4G/n 技术/n ，/w 其/r 峰值/n 速率/n 将/d 增长/v 数十/m 倍/d ，/w 从/p 4G/n 的/u 100/m Mb/en //w s/b 提高/v 到/ng 几十/mq Gb/en //w s/b 。/w 也就是说/ldm ，/w 1/m 秒钟/q 可以/a 下载/v 10/m 余部/n 高清/a 电影/n ，/w 可/v 支持/v 的/u 用户/n 连接/v 数/m 增长/v 到/ng 100万/m 用户/n //w 平方公里/q ，/w 可以/a 更好/d 地/n 满足/a 物联网/n 这样/r 的/u 海量/n 接入/v 场景/n 。/w 同时/c ，/w 端/ag 到/ng 端/ag 延时/v 将/d 从/p 4G/n 的/u 十几/mq 毫秒/q 减少/v 到/ng 5/m G/m 的/u 几/m 毫秒/q 。/w
+
+正/a 因为/c 有/v 了/dg 强大/a 的/u 通讯/n 和/c 带宽/n 能力/n ，/w 5/m G网/n 络/ng 一旦/d 应用/v ，/w 目前/t 仍/ag 停留/v 在/d 构想/v 阶段/n 的/u 车联网/nt 、/w 物联网/n 、/w 智慧城市/ln 、/w 无人机/np 网络/n 等/ng 概念/n 将/d 变为/v 现实/a 。/w 此外/c ，/w 5/m G/m 还/d 将/d 进一步/d 应用/v 到/ng 工业/n 、/w 医疗/n 、/w 安全/a 等/ng 领域/n ，/w 能够/v 极大/a 地/n 促进/v 这些/r 领域/n 的/u 生产效率/n ，/w 以及/c 创新/v 出新/v 的/u 生产方式/ln 。/w
+
+中国工程院/nt 院士/nx 、/w 中国/ns 互联网/n 协会/nc 理事长/nx 邬贺铨/nr 介绍/v ，/w 随着/p 5/m G网/n 络/ng 的/u 应用/v ，/w 各类/r 物联网/n 将/d 迅速/a 普及/a 。/w 他/r 介绍/v ，/w 目前/t 汽车/np 与/c 汽车/np 之间/f 还/d 没有/d 通讯/n 。/w 有/v 了/dg 5/m G网/n 络/ng ，/w 就/d 能/ng 让/v 汽车/np 和/c 汽车/np 、/w 汽车/np 和数/n 据/ng 中心/nc 、/w 汽车/np 和/c 其他/r 智能/n 设备/n 进行/v 通讯/n 。/w 这样一来/l 不但/c 可以/a 实现/v 更/d 高级/a 别的/r 汽车/np 自动/b 驾驶/v ，/w 还/d 能/ng 利用/v 各类/r 交通/n 数据/n ，/w 为/p 汽车/np 规划/n 最/d 合理/a 的/u 行进/v 路线/n 。/w 一旦/d 有/v 大量/mq 汽车/np 进入/v 这/r 一/m 网络/n ，/w 就/d 能/ng 顺利/a 实现/v 智能交通/n 。/w
+
+欧盟/nt 研究/v 认为/v ，/w 远程医疗/n 也/d 是/v 5/m G/m 重要/a 的/u 应用领域/n 之一/r 。/w 目前/t ，/w 实施/v 跨越/v 国界/n 的/u 远程/b 手术/n 需要/n 租用/v 价格/n 昂贵/a 的/u 大容量/n 线路/n ，/w 但/c 有时/d 对手/n 术/ng 设备/n 发出/v 的/u 指令/n 仍/ag 会/n 出现/v 延迟/v ，/w 这/r 对手/n 术/ng 而言/u 意味着/v 巨大/a 的/u 风险/n 。/w 但/c 5/m G/m 技术/n 将/d 可以使/n 手术/n 所/n 需/ng 的/u “/w 指令/n -/w 响应/v ”/w 时间/n 接近/v 为/p 0/m ，/w 这/r 将/d 大大/a 提高/v 医生/nx 操作/v 的/u 精确性/n 。/w 在不久的将来/l ，/w 病人/n 如果/c 需要/n 紧急/a 手术/n 或/c 特定/b 手术/n ，/w 就/d 可以通过/n 远程医疗/n 进行/v 快速/b 手术/n 。/w
+
+5/m G网/n 络/ng 同样/b 能/ng 让/v 普通/a 用户/n 受益匪浅/lv 。/w 除了/p 多样化/v 、/w 不/d 卡/n 顿/q 的/u 各类/r 多媒体/n 娱乐/v 外/f ，/w 智能/n 家庭设备/n 也/d 会/n 接入/v 5/m G网/n 络/ng ，/w 为/p 用户/n 提供/v 更为/d 便捷/a 的/u 服务/v 。/w
+
+除/ng 上述/b 应用/v 外/f ，/w 众多/a 物联网/n 应用/v 也/d 将/d 成为/v 5/m G/m 大显身手/iv 的/u 领域/n 。/w 尽管/c 目前/t 物联网/n 尚未/d 大规模/b 应用/v ，/w 但/c 业界/n 普遍/a 认为/v ，/w 物联网/n 中/f 接入/v 的/u 设备/n 预计/v 会/n 超过/v 千亿/m 个/q ，/w 对/a 设备/n 数量/n 、/w 数据/n 规模/n 、/w 传输/v 速率/n 等/ng 提出/v 很/d 高/a 的/u 要求/n 。/w 由于/c 当前/t 的/u 3G/n 、/w 4G/n 技术/n 不能/v 提供/v 有效/a 支撑/v ，/w 所以/c 物联网/n 的/u 真正/b 发展/v 离不开/v 5/m G/m 技术/n 的/u 成熟/a ，/w 同时/c 也/d 将/d 成为/v 推动/v 5/m G/m 技术/n 发展/v 的/u 动力/n 之一/r 。/w
+
+抢占/v 通信技术/n 革命/a 先机/d
+
+尽管/c 5/m G/m 技术/n 前景/n 广阔/a ，/w 但/c 离/ng 正式/a 商用/b 仍/ag 有/v 一/m 段/n 时间/n ，/w 5/m G/m 标准/a 也/d 尚未/d 正式/a 确定/a 。/w 但/c 毫无疑问/lv ，/w 在/d 5/m G/m 标准/a 制定/v 中/f 掌握/v 话语权/n ，/w 将/d 会/n 在/d 新一代/n 移动通信/ln 技术/n 革命/a 中/f 占据/v 先机/d 。/w
+
+根据/n 国际/n 惯例/n ，/w 总部/nc 位于/v 瑞士/ns 日内瓦/n 、/w 主管/n 信息/n 通信技术/n 事务/n 的/u 联合国/nt 专门/b 机构/n ——/w 国际电信联盟/nt 将/d 是/v 5/m G/m 标准/a 的/u 最终/d 决定/n 机构/n 。/w 该机/r 构/ng 负责/a 分配/v 和/c 管理/v 全球/n 无线电/n 频谱/n 、/w 制定/v 全球/n 电信/n 标准/a ，/w 在/d 全球/n 信息/n 通信/v 领域/n 发挥/v 重要/a 作用/n 。/w
+
+国际电信联盟/nt 已经/d 启动/v 5/m G/m 标准/a 研究工作/n ，/w 并/c 明确/a 了/dg “/w IMT/en （/w 国际/n 移动通信/ln 系统/a ）/w －2020/m 及/c 展望/v ”/w 项目/n 的/u 工作计划/n ，/w 其中/r 2016年/t 将/d 开展/v 5/m G/m 技术性/n 能/ng 需求/n 和/c 评估/n 方法研究/n ，/w 2017年/t 底/n 启动/v 5/m G/m 候选/b 方案/n 征集/v ，/w 2020年/t 底/n 完成/v 标准/a 制定/v 。/w 在/d 这个/r 过程/n 中/f ，/w 包括/v 欧盟/nt 在内/v 的/u 各方/n 均/ag 可/v 向/p 国际电信联盟/nt 递交/v 申请/n 。/w
+
+欧盟/nt 已/d 旗帜鲜明/ia 地/n 强调/v ，/w 希望/n 能/ng 确立/v 全球/n 统一/a 的/u 5/m G/m 技术标准/n ，/w 而/c 不再/d 是/v 多种/a 标准/a 并存/v ，/w 以/p 实现/v 全球/n 互通/v 性/k 和规模经/nr 济/ng 。/w 事实上/ldm ，/w 由于/c 5/m G/m 技术/n 与/c 未来/t 的/u 物联网/n 产业/n 息息相关/iv ，/w 蕴含/v 着/n 巨大/a 的/u 经济/n 和/c 战略/n 利益/n ，/w 欧美/ns 日韩/n 等/ng 国都/n 希望/n 能/ng 在/d 技术标准/n 上/f 占据/v 主导权/n ，/w 因此/c 也/d 都/d 早早/d 进行/v 了/dg 相应/v 的/u 技术/n 研发/v 和/c 布局/n 。/w
+
+早/a 在/d 2012年11月/t ，/w 欧盟/nt 就/d 已/d 启动/v 总/b 投资/n 达/ng 2700万/m 欧元/n 的/u 大型/b 科研项目/n METIS/en ，/w 研发/v 5/m G/m 技术/n 。/w 该项/r 目/ng 组/n 研发/v 阵容/n 强大/a ，/w 现阶段/t 29/m 个/q 成员/n 中包/nz 括/v 阿尔卡特/nz 朗讯/nz 、/w 爱立信/nz 、/w 华为/nz 、/w 诺基亚/nz 西门子/nz 等/ng 五家/nz 设备厂/n 商/n ，/w 德国/ns 电信/n 、/w DoCoMo/n 、/w 法国电信/nt 、/w 意大利/ns 电信/n 、/w 西班牙/ns 电信/n 五家/nz 运营商/n ，/w 以及/c 欧洲/ns 众多/a 的/u 学术/n 机构/n 和/c 宝马集团/nt ，/w 还有/v 大约/d 80/m 名/n 专家/n 全职/b 参与/v 该项/r 目/ng 。/w
+
+除了/p 欧盟/nt 外/f ，/w 美国/ns 、/w 韩国/ns 、/w 日本/ns 也/d 联合国/nt 内/f 运营商/n 和/c 电信/n 设备制造/n 商/n ，/w 开展/v 了/dg 相应/v 的/u 技术/n 研究/v 和/c 产业/n 布局/n 。/w 目前/t ，/w 各国/r 在/d 5/m G/m 标准/a 领域/n 的/u 争夺战/n 正日/b 益/dg 激烈/a 。/w 5月31日/t ，/w 在/d 北京/ns 召开/v 的/u 首届/b 全球/n 5/m G/m 大会/nh ，/w 各国/r 的/u 5/m G/m 标准/a 制定/v 机构/n 均/ag 透露/v 了/dg 各自/r 研发/v 的/u 最新/a 进展/v 。/w
+
+日本/ns 5/m GMF/en 秘书长/nx 佐/ng 腾/ng 效/ng 平/a 介绍/v ，/w 经过/p 一/m 年半/n 的/u 工作/n ，/w 日本/ns 近期推出/n 了/dg 《/w 5/m GMF/en 白皮书/n 》/w ，/w 其/r 目标/n 之一/r 是/v 到/ng 2020年/t ，/w 在/d 东京奥运会/nz 期间/f 使用/v 5/m G/m 服务/v 。/w 他/r 认为/v ，/w 5/m G/m 标准化/v 工作/n 还/d 在/d 开始/v 阶段/n ，/w 目前/t 日本/ns 运营商/n DoCoMo/n 已经/d 进行/v 了/dg 一些/mq 网络/n 试验/v ，/w 在/d 提出/v 5/m G/m 标准时/n ，/w 日本/ns 将/d 具有一/n 定/d 的/u 优势/n 。/w
+
+韩国/ns 在/d 5/m G/m 发展/v 上/f 态度/n 积极/a ，/w 韩国/ns 5/m G/m 论坛/nh 执行委员会/lnc 主席/nx Youngnam/en Han/en 表示/v ，/w 韩国/ns 的/u 5/m G/m 商用/b 进程/n 将/d 以/p 服务/v 2018年/t 平昌/ns 冬奥会/nh 为/p 关键/a 时间/n 节点/n ，/w 未来/t 两/m 年/n 5/m G/m 论坛/nh 将/d 着重/v 研究/v 第二/m 阶段/n 的/u 测试/v 工作/n ，/w 同时/c 包括/v VR/n 、/w AR/n 以及/c 系统/a 开发/v 等/ng 方面/n 的/u 工作/n 。/w 外界/n 认为/v ，/w 如果/c 韩国/ns 能够/v 在/d 2018年/t 率先/d 应用/v 5/m G网/n 络/ng ，/w 将/d 在/d 5/m G/m 标准/a 制定/v 方面/n 占据/v 主动/a 。/w
+
+美国/ns 5/m G/en Americas/en 主席/nx Chrispearson/en 介绍/v ，/w 该组/r 织成/v 员/k 已经/d 进行/v 了/dg 很多/mq 测试/v 工作/n ，/w 运营商/n AT&T/n 会/n 在/d 2016年下/t 半年/n 进行/v 测试/v 。/w
+
+除了/p 各国/r 系统性/n 的/u 展开/v 技术/n 研发/v 外/f ，/w 行业/n 主流/n 公司/nc 也/d 已/d 在/d 5/m G/m 领域/n 发力/v 。/w 近期/t ，/w 手机/np 芯片/n 制造商/n 高通/nz 就/d 表示/v ，/w 正在/n 加快/v 5/m G/m 芯片/n 的/u 研发/v ，/w 高通/nz 已经/d 完成/v 了/dg 各类/r 技术/n 测试/v ，/w 到/ng 2018年/t 根据/n 最终/d 的/u 5/m G/m 国际标准/n ，/w 正式/a 推出/v 量产/v 的/u 5/m G/m 手机/np 芯片/n 。/w 此外/c ，/w 华为/nz 、/w 中兴/nz 、/w 诺基亚/nz 、/w 爱立信/nz 等/ng 电信/n 设备制造/n 商/n 也/d 透露/v ，/w 正在/n 加快/v 5/m G/m 关键/a 技术/n 的/u 研发/v ，/w 并/c 已/d 和/c 电信/n 运营商/n 展开/v 相关/v 合作/v 。/w
+
+中国/ns 加速/v 布局/n 5/m G网/n 络/ng
+
+在/d 5/m G/m 这个/r 没有/d 硝烟/n 的/u 战场/n 上/f ，/w 我国/n 当然/b 也/d 不甘落后/lv 。/w 工信部/nt 总工程师/nx 张峰/nr 此前/r 就/d 表示/v ，/w 我国/n 将/d 在/d 2020年/t 实现/v 5/m G网/n 络/ng 商用/b 。/w
+
+近期/t ，/w 张峰/nr 再度/d 透露/v 了/dg 下/f 一/m 阶段/n 我国/n 5/m G/m 发展/v 的/u 相关/v 工作/n ：/w 加快/v 研发/v 创新/v ，/w 加大/v 5/m G/m 技术/n 、/w 标准/a 与/c 产品/n 研发/v 的/u 力度/n ，/w 构建/v 国际化/v 5/m G/m 试验/v 平台/n ；/w 强化/v 频率/n 统筹/v ，/w 依托/v 国际电信联盟/nt 加强/v 沟通/v 和/c 协调/v ，/w 力争/v 形成/v 更多/n 5/m G/m 统一/a 频段/n ；/w 深化/v 务实/v 合作/v ，/w 建立/v 广泛/a 和/c 深入/a 的/u 交流合作/n 机制/n ，/w 在/d 国际/n 框架/n 下/f 积极/a 推进/v 形成/v 全球/n 统一/a 的/u 5/m G/m 标准/a ；/w 促进/v 融合/v 发展/v ，/w 加强/v 5/m G/m 与/c 垂直/v 行业/n 的/u 融合/v 创新/v 研究/v ，/w 以/p 工业/n 互联网/n 、/w 车联网/nt 等/ng 重点/d 行业应用/n 为/p 突破口/n ，/w 构建/v 支撑/v 行业发展/n 的/u 5/m G网/n 络/ng 。/w
+
+事实上/ldm ，/w 早/a 在/d 2013年2月/t ，/w 工信部/nt 、/w 发改委/nc 、/w 科技部/nt 就/d 联合/v 成立/v IMT/en -2020/m （/w 5/m G/m ）/w 推进组/n ，/w 对/a 我国/n 5/m G/m 愿景/n 与/c 需求/n 、/w 5/m G/m 频谱/n 问题/n 、/w 5/m G/m 关键/a 技术/n 、/w 5/m G/m 标准化/v 等/ng 问题/n 展开/v 研究/v 和/c 布局/n 。/w 这/r 一推/nz 进/ng 组/n 的/u 组织架构/n 基于/p 原/b IMT/en -/w Advanced/en （/w 4G/n ）/w 推进组/n ，/w 下设/v 多个/n 工作组/nc ，/w 包括/v 需求/n 工作组/nc 、/w 频谱/n 工作组/nc 、/w 无线技术/n 工作组/nc 、/w 网络技术/n 工作组/nc 、/w 若干/mq 标准/a 工作组/nc 以及/c 知识产权/ln 工作组/nc 。/w
+
+IMT/en -2020/m （/w 5/m G/m ）/w 组长/nx 单位/n 国家/n 无线电/n 监测中心/lnc 介绍/v ，/w 2013年/t 开始/v ，/w 在/d IMT/en -2020/m （/w 5/m G/m ）/w 推进组/n 的/u 部署/v 下/f ，/w 中心/nc 深入/a 开展/v 了/dg 一系列/b 5/m G/m 研发/v 工作/n ，/w 主要/b 承担/v 了/dg 频谱/n 需求/n 、/w 候选/b 频段/n 、/w 电磁兼容/n 分析/v 、/w 频谱/n 使用/v 效率/n 评估/n 等/ng 研究/v 任务/n ，/w 包括/v 牵头/v 承担/v “/w IMT/en -2020/m 候选/b 频段/n 分析/v 与/c 评估/n ”/w ，/w 重点/d 参与/v “/w 后/f IMT/en -/w Advanced/en 移动通信/ln 技术/n 及/c 发展/v 策略/n 研究/v ”/w 等/ng 国家/n 科技/n 重大/a 专项/n ，/w 以及/c “/w 第五/m 代/n 移动通信/ln （/w 5/m G/m ）/w 系统/a 前期/t 研究开发/n ”/w 。/w
+
+在/d 候选/b 频段/n 方面/n ，/w 国家/n 无线电/n 监测中心/lnc 频谱/n 管理/v 研究处/nc 处长/nx 赵栓来/nr 介绍/v ，/w 2014年9月/t ，/w 中心/nc 与/c GS/n 协会/nc 联合/v 召开/v 未来/t 移动通信/ln 频谱/n 国际/n 研讨会/n ，/w 就/d 我国/n 450/m MHz/en -/w 5/m GHz/q 无线电/n 频谱/n 监测/v 分析/v 、/w 下一代/n 移动通信/ln 与/c 频谱/n 等/ng 内容/n 发布/v 了/dg 合作/v 研究报告/n 。/w 报告/n 对/a 下一代/n 移动网/n 络/ng （/w NGMN/n ）/w 将要/d 使用/v 的/u 450/m MHz/en -/w 5/m GHz/q 频谱/n 资源/n 提出/v 了/dg 优化/v 方案/n ，/w 并/c 对/a 我国/n NGMN/n 可能/a 使用/v 的/u 6/m GHz/q 以上/f 频谱/n 资源/n 进行/v 了/dg 研究/v ，/w 提出/v 我国/n NGMN/n 频谱/n 布局/n 的/u 建议/n 。/w
+
+国家/n 无线电/n 监测中心/lnc 博士/nx 王坦/nr 介绍/v ，/w 在/d 移动通信/ln 的/u 演进/v 历程/n 中/f ，/w 我国/n 不断/d 转变/v 角色/n ，/w 依次/d 经历/n 了/dg “/w 2G/n 跟踪/v ，/w 3G/n 突破/v ，/w 4G/n 同步/b ”/w 的/u 各个/r 阶段/n 。/w 在/d 5/m G/m 时代/n ，/w 我国/n 率先/d 在/d 亚太地区/ns 成立/v IMT/en -2020/m （/w 5/m G/m ）/w 推进组/n ，/w 整合/v 产/ng 、/w 学/k 、/w 研/ng 、/w 用/ng 精锐/a 力量/n ，/w 积极/a 向/p 国际电信联盟/nt 等/ng 国际组织/n 输出/v 观点/n 。/w
+
+“/w 目前/t ，/w 我国/n 正在/n 稳步/d 推进/v 5/m G/m 研发/v 工作/n ，/w 并/c 已/d 适当/a 地/n 领先/v 于/ng 国际电信联盟/nt 工作/n 时间表/n 。/w 相信/v 中国/ns 在/d 5/m G/m 标准化/v 过程/n 中发/j 挥/v 的/u 作用/n 将/d 比/p 4G/n 时期/n 进一步/d 提高/v ，/w 将/d 为/p 全球/n 5/m G/m 产业发展/n 做出/v 不可/v 替代/v 的/u 贡献/n 。/w ”/w 国家/n 无线电/n 监测中心/lnc 副总/b 工程师/nx 黄标/n 这样/r 表示/v 。/w
+
+除了/p 国家/n 层面/n 的/u 研究/v 外/f ，/w 包括/v 中移动/nt 、/w 华为/nz 、/w 中兴/nz 在内/v 的/u 中国企业/n 都/d 已/d 积极/a 展开/v 5/m G/m 技术/n 的/u 研发/v 和/c 布局/n 。/w 2014年2月/t ，/w 中国移动/nt 就/d 公开/a 表示/v ，/w 中国移动/nt 将/d 全力/d 支持/v 5/m G/m 项目/n 发展/v ，/w 并/c 希望/n 通过/p 努力/a 引导/v 产业界/n 5/m G/m 技术/n 研发/v 和技术/nr 标准/a 的/u 制定/v ，/w 在/d 移动通信/ln 标准/a 领域/n 继续/v 发挥/v 引领/v 性/k 作用/n 。/w 而/c 在/d 2016年/t 的/u 多个/n 世界级/b 移动通信/ln 展会/n 上/f ，/w 中国移动/nt 还/d 与日/d 本/d DoCoMo/n 、/w 韩国/ns KT/n 共同/b 发布/v 5/m G/m 合作/v 联合/v 声明/n ，/w 宣布/v 三家/nz 运营商/n 将/d 共同/b 针对/v 亚洲/ns 市场研究/n 和丰/nz 富/a 5/m G/m 的/u 需求/n ，/w 探索/v 5/m G/m 的/u 新业务/n 、/w 新/a 垂直/v 市场/ny ，/w 开展/v 5/m G/m 关键/a 技术/n 及/c 系统/a 验证/v ，/w 并/c 与/c 全球/n 标准化/v 组织/n 合作/v ，/w 以/p 实现/v 全球/n 协调/v 一致/a 的/u 频谱/n 规划/n 和/c 统一/a 的/u 5/m G/m 标准/a 。/w
+
+国内/s 三大/n 运营商/n 均/ag 已/d 制定/v 了/dg 2020年/t 启动/v 5/m G网/n 络/ng 商用/b 的/u 计划/n ，/w 于/ng 2017年/t 展开/v 试验/v 网络/n 的/u 建设/v 和/c 相关/v 测试/v 。/w 如果/c 前期/t 工作/n 进展/v 顺利/a ，/w 三大/n 运营商/n 在/d 2018年/t 开始/v 投入/a 5/m G网/n 络/ng 建设/v ，/w 到/ng 2020年/t 正式/a 启动/v 商用/b 。/w  /0 [/w 37/m ]/w  /0
+
+也/d 有/v 业内人士/n 表示/v ，/w 在/d 5/m G/m 战略/n 制高点/n 的/u 争夺/v 中/f ，/w 我国/n 企业/n 任重道远/ia 。/w 北京/ns 鼎/n 宏/ag 元/q 正/a 知识产权/ln 代理/v 事务所/nc 高级/a 合伙人/n 李波/nr 对/a 5/m G/m 技术/n 进行/v 专利检索/n 发现/v ，/w 截至/v 2015年4月1日/t ，/w 相关/v 申请人/n 在/d 中国/ns 提交/v 的/u 关于/p 5/m G/m 技术/n 的/u 专利申请/n 为/p 211/m 件/ng ，/w 在/d 美国/ns 提交/v 的/u 专利申请/n 为/p 179/m 件/ng 。/w 世界/n 主要/b 申请人/n 中/f ，/w 提交/v 5/m G/m 专利申请/n 数量/n 最/d 多/a 的/u 是日/t 本/d 电报/n 电话/np 公司/nc （/w NTT/n ）/w ，/w 申请量/n 为/p 61/m 件/ng ；/w 三星/nz 排/n 在/d 第二/m 位/q ，/w 提交/v 的/u 专利申请/n 量/n 为/p 53/m 件/ng ；/w 美国/ns 阿尔卡特/nz 朗讯公司/nt 作为/n 传统/a 的/u 通信业/n 领导者/n ，/w 也/d 提交/v 了/dg 41/m 件/ng 专利申请/n 。/w
+
+“/w 我国/n 华为/nz 在/d 5/m G/m 技术/n 方面/n 提交/v 的/u 相关/v 专利申请/n 为/p 30/m 件/ng ，/w 东南大学/nt 、/w 中兴通讯/nt 、/w 电信/n 科学技术/n 研究院/nc 等/ng 对/a 5/m G/m 技术/n 也/d 有/v 一定/b 的/u 专利/n 积累/n 。/w 从/p 专利/n 数量/n 分布/v 看/u ，/w 相较/v 于日/nr 、/w 韩、欧/nr 、/w 美/a 等/ng 国家/n 和/c 地区/ny 而言/u ，/w 我国/n 的/u 研发/v 力量/n 不够/a 集中/a ，/w 研发/v 水平/n 有待/v 进一步/d 提升/v 。/w ”/w 李波/nr 坦言/v ，/w 相比/v 我国/n 在/d 2G/n 时代/n 技术/n 全面/a 落后/a 的/u 局面/n ，/w 以/p 华为/nz 、/w 中兴通讯/nt 和/c 大唐电信/nt 等/ng 为/p 代表/nx 的/u 中国企业/n 在/d 5/m G/m 时代/n 正/a 迅速/a 缩小/v 与/c 世界/n 先进/a 水平/n 的/u 差距/n 。/w  /0 [/w 38/m ]/w  /0
+
+2018年2月23日/t ，/w 在世/v 界/k 移动通信/ln 大会/nh (/w MWC/en )/w 召开/v 前夕/f ，/w 沃达丰/nz 和/c 华为/nz 宣布/v ，/w 两/m 公司/nc 在/d 西班牙/ns 合作/v 采用/v 非独/c 立/d 的/u 3/m GPP/en 5/m G/m 新/a 无线/b 标准/a 和/c Sub/en 6/m GHz/q 频段/n 完成/v 了/dg 全球/n 首/m 个/q 5/m G/m 通话/v 测试/v 。/w
+
+沃达丰/nz 称/ag ，/w 这次/r 测试/v 使用/v 了/dg 测试/v 网络/n 和/c 测试设备/n 执行/v 4G/n 至/d 5/m G/m 双重/b 连接/v 的/u 实时/d 数据/n 呼叫/v 。/w 这/r 一连/d 接/ng 开始/v 于/ng 4G/n ，/w 之后/f 在/d 5/m G网/n 络/ng 上/f 建立/v 了/dg 数据/n 连接/v 。/w 沃达丰/nz 方面/n 还/d 称/ag ，/w 工程师/nx 同时/c 使用/v 相同/a 的/u 方法/n 成功/a 测试/v 了/dg 实时/d 高清/a 视频/n 通话/v 。/w
+
+华为/nz 方面/n 表示/v ，/w 这次/r 测试/v 结果/c 表明/v 基于/p 3/m GPP/en 标准/a 的/u 5/m G/m 技术/n 已经/d 成熟/a 。/w  /0 [/w 39/m ]/w  /0
+
+2018年4月23日/t ，/w 重庆/ns 首/m 张/ng 5/m G/m 试验/v 网/n 正式/a 开通/a ，/w 将/d 推动/v 5/m G/m 产品/n 的/u 走向/v 成熟/a ，/w 标志/n 着重/v 庆/ng 5/m G网/n 络/ng 商用化/v 之路/nz 的/u 正式/a 起步/v 。/w 5/m G/m 是/v 第五/m 代/n 移动通信/ln 技术/n 的/u 简称/n 。/w 重庆/ns 是/v 国家发改委/nt 批复/v 的/u 全国首批/n 承建/v 5/m G/m 规模/n 组网/n 建设/v 及/c 应用/v 示范工程/n 项目/n 的/u 城市/n 之一/r 。/w  /0 [/w 40/m ]/w  /0
+
+
+
+社会/n 评价/n
+
+编辑/n
+
+贝尔实验室/nt 无线/b 研究部/nc 副总/b 裁/ng 西奥多/nr ·/w 赛/n 泽/ag 表示/v ，/w 5/m G/m 并/c 不会/v 完全/a 替代/v 4G/n 、/w WiFi/n ，/w 而是/n 将/d 4G/n 、/w WiFi/n 等/ng 网络/n 融入/v 其中/r ，/w 为/p 用户/n 带来/v 更为/d 丰富/a 的/u 体验/v 。/w 通过/p 将/d 4G/n 、/w WiFi/n 等/ng 整合/v 进/ng 5/m G/m 里面/f ，/w 用户/n 不用/d 关心/v 自己/r 所/n 处/nc 的/u 网络/n ，/w 不用/d 再/d 通过/p 手动/b 连接/v 到/ng WiFi/n 网络/n 等/ng ，/w 系统/a 会/n 自动/b 根据/n 现场/s 网络/n 质量/n 情况/n 连接/v 到/ng 体验/v 最佳/z 的/u 网络/n 之中/f ，/w 真正/b 实现/v 无缝/b 切换/v 。/w  /0 [/w 41/m ]/w  /0
+
+欧盟/nt 数字/n 经济/n 和/c 社会/n 委员/nx 古泽/nr ·/w 奥/ag 廷/ng 格/n 表示/v ，/w 5/m G/m 必须/d 是/v 灵活/a 的/u ，/w 能够/v 满足/a 人口/n 稠密/a 地区/ny 、/w 人口/n 稀疏/a 地区/ny 以及/c 主要/b 的/u 交通线/n 等/ng 各种/r 场景/n 的/u 需要/n 。/w  /0 [/w 42/m ]/w  /0
+
+对/a 信息/n 通信业/n 而言/u ，/w 2016年/t 全国/n “/w 两会/n ”/w 透露/v 的/u 信息/n 着实/d 令人振奋/l 。/w 不仅/c 李克强/nr 总理/nx 在/d 政府工作/n 报告/n 中指/n 出/q 我国/n 已/d 建成/v 全球/n 最大/a 的/u 4G/n 网络/n ，/w 为/p 4G/n 点赞/v ，/w 而且/c “/w 十三五/m ”/w 规划/n 纲要/n （/w 草案/n ）/w 中/f 明确/a 提出/v ，/w 将/d 积极/a 推进/v 第五/m 代/n 移动通信/ln （/w 5/m G/m ）/w 和/c 超宽/n 带/ng 关键/a 技术/n 研究/v ，/w 启动/v 5/m G/m 商用/b 。/w  /0 [/w 43/m ]/w  /0
+
+
+
+工信部/nt 关键词/n
+
+编辑/n
+
+2018年12月27日/t 至/d 28/m 日/n ，/w 全国/n 工业/n 和信/nz 息/ng 化工/n 作/ng 会议/nh 召开/v 。/w 会议/nh 对/a 2019年/t 重点/d 工作/n 进行/v 了/dg 部署/v ，/w 其中/r 5/m G/m 成为/v 关键词/n 。/w 2019年/t 将/d 加快/v 5/m G/m 商用/b 部署/v ，/w 扎实/a 做好/v 标准/a 、/w 研发/v 、/w 试验/v 和/c 安全/a 配套/a 工作/n ，/w 加速/v 产业链/n 成熟/a ，/w 加快/v 应用/v 创新/v 。/w  /0 [/w 44/m ]/w ,/w ,/w ,/w ,/w ,/w

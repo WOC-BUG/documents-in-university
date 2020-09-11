@@ -1,0 +1,234 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 系统/a ——/w 5/m G/en QoS/en ,/w 1/m 概述/v nn/en 1.1/m QoS/en 流/ng （/w QoS/en Flow/en ）/w nn/en 5/m G/en QoS/en 模型/n 基于/p Qos/en 流/ng ，/w 5/m G/en QoS/en 模型/n 支持/v 保障/v 流/ng 比特/q 速率/n （/w GBR/en QoS/en ）/w 的/u QoS/en 流/ng 和非/nr 保障/v 流/ng 比特/q 速率/n （/w Non/en -/w GBR/en ）/w 的/u QoS/en 流/ng ，/w 5/m G/en QoS/en 模型/n 还/d 支持/v 反射/v QoS/en 。/w nnQoS/en 流/ng 是/v PDU/en 会话/v 中/f 最/d 精细/a 的/u QoS/en 区分/v 粒度/n ，/w 这就是说/ldm 两个/n PDU/en 会话/v 的/u 区别/n 就/d 在于/v 它们/r 的/u QoS/en 流/ng 不一/v 样/ng （/w 具体/a 一般/a 就是/n QoS/en 流/ng 的/u TFT/n 参数/n 不同/a ）/w ；/w 在/d 5/m G/m 系统/a 中/f 一个/mq QoS/en 流/ng ID/en .../m ,/w u/en 010178611/m ,/w https://blog.csdn.net/u010178611/article/details/81746532/url ,/w 2018-08-16/t ,/w 6099/m 次/a 阅读/v ,/w 5/m G/m 系统/a ——/w 5/m G/en QoS/en -/w Cloudy/en _/0 cn/n 的/u 专栏/n ,/w 2018年08月16日 18:12:12/t ,/w 1/m 概述/v
+
+1.1/m QoS/en 流/ng （/w QoS/en Flow/en ）/w
+
+5/m G/en QoS/en 模型/n 基于/p Qos/en 流/ng ，/w 5/m G/en QoS/en 模型/n 支持/v 保障/v 流/ng 比特/q 速率/n （/w GBR/en QoS/en ）/w 的/u QoS/en 流/ng 和非/nr 保障/v 流/ng 比特/q 速率/n （/w Non/en -/w GBR/en ）/w 的/u QoS/en 流/ng ，/w 5/m G/en QoS/en 模型/n 还/d 支持/v 反射/v QoS/en 。/w
+
+QoS/en 流/ng 是/v PDU/en 会话/v 中/f 最/d 精细/a 的/u QoS/en 区分/v 粒度/n ，/w 这就是说/ldm 两个/n PDU/en 会话/v 的/u 区别/n 就/d 在于/v 它们/r 的/u QoS/en 流/ng 不一/v 样/ng （/w 具体/a 一般/a 就是/n QoS/en 流/ng 的/u TFT/n 参数/n 不同/a ）/w ；/w 在/d 5/m G/m 系统/a 中/f 一个/mq QoS/en 流/ng ID/n （/w QFI/en ）/w 用于/v 标识/n 一/m 条/ng QoS/en 流/ng ；/w PDU/en 会话/v 中/f 具有/v 相同/a QFI/en 的/u 用户/n 平面/n 数据/n 会/n 获得/v 相同/a 的/u 转发/v 处理/v （/w 如/c 相同/a 的/u 调度/n 、/w 相同/a 的/u 准入/v 门限/n 等/ng ）/w ；/w QFI/en 在/d 一个/mq PDU/en 会话/v 内/f 要/v 唯一/b ，/w 也就是说/ldm 一个/mq PDU/en 会话/v 可以/a 有/v 多条/n （/w 最/d 多/a 64/m 条/ng ）/w QoS/en 流/ng ，/w 但/c 每/r 条/ng QoS/en 流/ng 的/u QFI/en 都/d 是/v 不同/a 的/u （/w 取值/v 范围/n 0/m ~/w 63/m ）/w ，/w UE/en 的/u 两/m 条/ng PDU/en 会话/v 的/u QFI/en 是/v 可能/a 会/n 重复/v 的/u ；/w QFI/en 可以/a 动态/n 配置/n 或/c 等于/v 5/m QI/en 。/w
+
+在/d 5/m GS/n ，/w QoS/en 流/ng 是/v 被/ng SMF/en 控制/v 的/u ，/w 其/r 可以/a 是/v 预/d 配置/n 或/c 通过/p PDU/en 会话/v 建立/v 和/c 修改/v 流程/n 来/u 建立/v 。/w
+
+QoS/en 流/ng 的/u 特征/n 在于/v ：/w
+
+-/w AN/en 侧/f 的/u QoS/en 配置/n ，/w 这些/r 配置/n 可以/a 是/v SMF/en 通过/p AMF/en 给/v AN/en 提供/v 给/v AN/en 的/u 或者/c 是在/n AN/en 上/f 预置/v 的/u
+
+-/w UE/en 侧/f 的/u QoS/en 规则/a （/w rule/en ）/w ，/w 这些/r 规则/a 是/v SMF/en 在/d PDU/en 建立/v 或/c 修改/v 流程/n 中/f 提供/v 给/v UE/en 的/u 或/c UE/en 通过/p 反射/v QoS/en 机制/n 推导/v 出来/v 的/u
+
+-/w UPF/en 侧/f 的/u 上行/v 和/c 下行/v PDR/en (/w s/en )/w ，/w 这些/r PDR/en （/w s/b ）/w 是/v SMF/en 配置/n 的/u
+
+在/d 5/m GS/n ，/w 一/m 条/ng PDU/en 会话/v 内/f 要求/n 有/v 一/m 条/ng 关联/v 默认/v QoS/en 规则/a 的/u QoS/en 流/ng ，/w 在/d PDU/en 的/u 整个/b 生命/n 周期/n 内/f 这个/r 默认/v QoS/en 流/ng 保持/v 存在/v ，/w 且/c 这个/r 默认/v 的/u QoS/en 流/ng 要是/c Non/en -/w GBR/en QoS/en 流/ng 。/w
+
+注/ng ：/w 上面/f 的/u 默认/v QoS/en 流/ng 在/d 整个/b PDU/en 会话/v 生命/n 周期/n 内/f 都/d 给/v UE/en 提供/v 了/dg 连接/v ；/w 由于/c 可能/a 需要/n 和/c EPS/n 交互/b ，/w 所以/c 要求/n 这个/r 默认/v QoS/en 流/ng 为/p Non/en -/w GBR/en 。/w
+
+1.2/m QoS/en 配置/n （/w QoS/en Profile/en ）/w
+
+一个/mq QoS/en 流/ng 是/v “/w GBR/en ”/w 还是/c “/w Non/en -/w GBR/en ”/w 取决于/v 它/r 的/u QoS/en 配置/n ；/w 一个/mq QoS/en 流/ng 的/u QoS/en 配置/n 包含/v 的/u QoS/en 参数/n 如下/v ：/w
+
+-/w 每/r 条/ng QoS/en 流/ng 的/u QoS/en 配置/n 都/d 会/n 包含/v 的/u QoS/en 参数/n ：/w 5/m QI/en 、/w ARP/n
+
+-/w 每/r 条/ng Non/en -/w GBR/en QoS/en 流/ng 的/u QoS/en 配置/n 可能/a 还/d 会/n 包含/v 参数/n ：/w 反射/v Qos/en 属性/n （/w RQA/en ）/w
+
+-/w 每/r 条/ng GBR/en QoS/en 流/ng 的/u QoS/en 配置/n 还/d 会/n 包含/v 参数/n ：/w 保证/v 流/ng 比特/q 率/ag (/w GFBR/en )/w 、/w 最大/a 流/ng 比特/q 率/ag (/w MFBR/en )/w
+
+-/w  /0 每/r 条/ng GBR/en QoS/en 流/ng 的/u QoS/en 配置/n 可能/a 还/d 会/n 包含/v ：/w 指示/n 控制/v 、/w 最大/a 丢/v 包/n 率/ag
+
+/0
+
+每/r 条/ng QoS/en 配置/n 有/v 一个/mq 与/c 之/u 对应/v 的/u QFI/en ，/w QFI/en 包含/v 在/d QoS/en 配置/n 中/f 。/w
+
+1.4/m  /0 QoS/en 规则/a （/w QoS/en Rules/en ）/w
+
+UE/en 执行/v 上行/v 用户/n 面/a 数据/n 业务/n 的/u 分类/v 和/c 标记/n ，/w 也就是/n 根据/n QoS/en 规则/a 将/d 上行/v 数据/n 关联/v 到/ng 对应/v 的/u QoS/en 流/ng 去/v 。/w 这些/r QoS/en 规则/a 可以/a 是/v 显示/v 提供/v 给/v UE/en 的/u （/w 也就是/n 在/d PDU/en 会话/v 建立/v //w 修改/v 流程/n 中通/nz 过/d 信令/n 显示/v 配置/n 给/v UE/en ）/w ，/w 或者/c 在/d UE/en 上/f 预/d 配置/n ，/w 或者/c UE/en 使用/v 反射/v QoS/en 机制/n 隐/vg 式/k 推导/v 出来/v 。/w
+
+一个/mq QoS/en 规则/a 包含/v ：/w 关联/v 的/u QoS/en 流/ng 的/u QFI/en 、/w 数据包/n 过滤器/n 集/n （/w 一个/mq 过滤器/n 列表/v ）/w 、/w 优先级/n 。/w
+
+一个/mq QoS/en 流/ng 可以/a 有/v 多个/n QoS/en 规则/a 。/w
+
+每个/r PDU/en 会话/v 都/d 要/v 配置/n 一个/mq 默认/v 的/u QoS/en 规则/a ，/w 默认/v 的/u QoS/en 规则/a 关联/v 到/ng 一/m 条/ng QoS/en 流上/nz 。/w
+
+对于/p IP/n 类型/n 或/c ethenet/en 类型/n 的/u PDU/en 会话/v ，/w 默认/v QoS/en 规则/a 是在/n PDU/en 会话/v 中/f 唯一/b 的/u 一个/mq 包/n 过滤/v 集/n 可以/a 包含/v 允许/v 所有/b UL/en 的/u 包/n 过滤器/n 的/u QoS/en 规则/a ，/w 协议/n 上/f 这句话/n 说/ag 得/e 非常/b 拗口/a ，/w 可以/a 用/ng 类比/v 路由/n 表/n 的/u 方式/n 去/v 理解/v ，/w 就是/n 默认/v QoS/en 就/d 可/v 配/v 成/ng 和/c 默认/v 路由/n 一样/a ，/w 一个/mq 数据包/n 所有/b 路由/n 都/d 不满/a 足/a 时/n ，/w 就/d 从/p 默认/v 路由/n 走/v 。/w 默认/v QoS/en 规则/a 是/v 可以/a 配置/n 为/p 允许/v 通过/p 所有/b 上行/v 包/n ，/w 不是/n 必须/d 配置/n 为/p 允许/v 通过/p 所有/b 上行/v 包/n 。/w
+
+注/ng ：/w 默认/v QoS/en 规则/a 的/u 允许/v 所有/b 上行/v 包/n 通过/p 的/u 包/n 过滤器/n 就是/n 所谓/b 的/u “/w 匹配/v 所有/b ”/w 过滤器/n （/w match/en -/w all/en filter/en ）/w
+
+对于/p Unstructured/en 类型/n 的/u PDU/en 会话/v ，/w 默认/v QoS/en 规则/a 不/d 包含/v 任何/r 包/n 过滤器/n 集/n （/w Packet/en Filter/en Set/n ）/w ，/w 默认/v QoS/en 规则/a 定义/n PDU/en 会话/v 内/f 的/u 所有/b 包/n 的/u 处理/v 方式/n 。/w
+
+只要/c 默认/v QoS/en 规则/a 不/d 包含/v 数据包/n 过滤器/n 集/n 或/c 包含/v 允许/v 所有/b UL/en 数据包/n 的/u 数据包/n 过滤器/n 集/n ，/w 就/d 不/d 应将/nz 反射/v 性/k QoS/en 应用/v 于/ng 与/c 默认/v QoS/en 规则/a 关联/v 的/u QoS/en 流/ng ，/w 并且/c 不/d 应该/v 给/v 此/r QoS/en 流/ng 发送/v RQA/en 。/w
+
+1.5/m QoS/en 映射/v
+
+SMF/en 负责/a QoS/en 的/u 控制/v ，/w 建立/v 一/m 条/ng PDU/en 会话/v 时/n ，/w SMF/en 会/n 给/v UPF/en 、/w AN/en 、/w UE/en 配置/n 响应/v 的/u Qos/en 参数/n 。/w 下图/n 展示/v 了/dg 用户/n 面/a 数据/n 的/u 分类/v 和/c 标记/n 与/c QoS/en 流/ng 映射/v 到/ng AN/en 资源/n 的/u 规则/a 流程/n 。/w
+
+
+
+对于/p 上行/v 数据/n ，/w UE/en 根据/n QoS/en 规则/a 对数/n 据/ng 包/n 进行/v 匹配/v ，/w 数据包/n 从/p 匹配/v 上/f 的/u QoS/en 流/ng 以及/c 其/r 对应/v 的/u AN/en 通道/n （/w 对应/v 的/u RB/n ）/w 向上/v 传输/v ；/w 对于/p 下行/v 数据/n ，/w UPF/en 根据/n PDR/en 对数/n 据/ng 进行/v 匹配/v ，/w 数据包/n 从/p 匹配/v 上/f 的/u QoS/en 流/ng 以及/c 其/r 对应/v 的/u AN/en 通道/n 下下/v 传输/v 。/w 如果/c 一个/mq 数据包/n 没有/d 匹配/v 上任/v 何/ng 一个/mq QoS/en 规则/a （/w 上行/v ）/w 或/c PDR/en （/w 下行/v ）/w ，/w 则/c 该/r 数据包/n 会/n 被/ng UE/en 或/c UPF/en 丢弃/v 。/w
+
+SMF/en 给/v AN/en 配置/n QoS/en 参数/n 如下/v （/w TS38.413/url  /0 9.10.4.9/m ）/w ，/w QoS/en 特性/n 可以/a 选择/n 静态/n 5/m QI/en （/w 也就是/n 标准化/v 5/m QI/en 映射/v 表/n ）/w 和/c 动态/n 配置/n 5/m QI/en 。/w
+
+
+
+
+
+/0
+
+
+
+SMF/en 给/v UE/en 配置/n 的/u QoS/en 规则/a （/w TS23.501/url ）/w 如下/v ，/w QoS/en 规则/a 包含/v 一个/mq QoS/en 项/ng 列表/v ，/w 每个/r QoS/en 项/ng 包含/v 一个/mq 包/n 过滤器/n 列表/v 、/w 参数/n 列表/v 、/w QFI/en 、/w 优先级/n 等/ng 参数/n 。/w
+
+
+
+/0
+
+
+
+/0
+
+
+
+
+
+/0
+
+2/m Qos/en 参数/n
+
+2.1 5/m QI/en
+
+5/m QI/en 是/v 一个/mq 标量/n ，/w 用于/v 索引/n 一个/mq 5/m G/en QoS/en 特性/n 。/w TS23.501/url  /0 Table/en  /0 5.7.4-1/t 有/v 标准化/v 的/u 5/m QI/en 映射/v 关系/n 。/w
+
+2.2/m ARP/n
+
+ARP/n 参数/n 包含/v 优先级/n 、/w 抢占/v 能力/n 、/w 可/v 被/ng 抢占/v 等/ng 信息/n ；/w 优先级/n 定义/n 了/dg UE/en 资源/n 请求/n 的/u 重要性/n ，/w 在/d 系统/a 资源/n 受限/v 时/n ，/w ARP/n 参数/n 决定/n 了/dg 一个/mq 新/a 的/u QoS/en 流/ng 是/v 被/ng 接受/v 还是/c 被/ng 拒绝/v 。/w
+
+“/w pre/en -/w emption/en capability/en ”/w 信息/n 定/d 了/dg 一个/mq 业务流/n 是否/v 可以/a 抢占/v 低/a 优先级/n 的/u 业务流/n 的/u 资源/n 。/w
+
+“/w pre/en -/w emption/en vulnerability/en ”/w 信息/n 定义/n 一个/mq 业务流/n 的/u 资源/n 是否/v 可以/a 被/ng 高/a 优先级/n 的/u 业务流/n 抢占/v 。/w
+
+arp/n 优先级/n 的/u 取值/v 范围/n 1/m ~/w 15/m ，/w 1/m 为/p 最高/a 优先级/n ；/w
+
+
+
+2.3/m RQA/en
+
+RQA/en （/w Reflective/en QoS/en Attribute/en ）/w 是/v 一个/mq 可/v 选/ng 参数/n ，/w 其/r 指示/n 了/dg 在/d 该/r QoS/en 流上/nz 的/u 某些/r 业务/n 可以/a 受到/v 反射/v QoS/en 的/u 影响/v 。/w 仅/d 当/ag 核心/n 网通/nt 过/d 信令/n 将/d 一个/mq QoS/en 流/ng 的/u RQA/en 参数/n 配给/v 接入网/n 时/n ，/w 接入网/n 才/d 会/n 使/ng 能/ng RQI/en 在/d 这/r 条/ng 流/ng 的/u 无线/b 资源/n 上传/v 输/v ；/w RQA/en 可以通过/n N/en 2/m 接口/n 在/d UE/en 上下文/n 建立/v 和/c QoS/en 流/ng 建立/v //w 修改/v 时/n 携带/v 给/v NG/en -/w RAN/en 。/w
+
+如/c 核心/n 网/n 在/d “/w PDU/en SESSION/en RESOURCE/en SETUP/en REQUEST/en ”/w 消息/n 的/u QoS/en 参数/n 中将/n RQA/en 参数/n 带给/v ngNB/en ：/w
+
+
+
+/0
+
+2.4/m Notification/en Control/en
+
+通知/n 控制/v ；/w 对于/p GBR/en 的/u QoS/en 流/ng ，/w 核心/n 网通/nt 过/d 该/r 参数/n 控制/v NG/en -/w RAN/en 是否/v 在/d 该/r GBR/en QoS/en 流/ng 的/u GFBR/en 无法/v 满足/a 时/n 上报/v 消息/n 通知/n 核心/n 网/n ；/w 如果/c 网络/n 使/ng 能/ng 通知/n 控制/v ，/w 则/c NG/en -/w RAN/en 发现/v 该/r 流/ng 的/u GFBR/en 无法/v 满足/a 时/n 就要/d 给/v SMF/en 发送/v 通知/n ，/w 同时/c 继续/v 保持/v 该/r QoS/en 流/ng 的/u 正常/a 运作/v ；/w 至于/p 收到/v 通知/n 后/f SMF/en 如何/r 处理/v 则/c 属于/v 网络/n 配置/n 的/u 策略/n 。/w
+
+核心/n 网/n 在/d “/w PDU/en SESSION/en RESOURCE/en SETUP/en REQUEST/en ”/w 消息/n 的/u GBR/en QoS/en Flow/en Information/en 中/f 配置/n 通知/n 控制/v 参数/n 。/w
+
+
+
+2.5/m Flow/en Bit/en Rate/en
+
+对于/p GBR/en QoS/en 流/ng ，/w 其/r 5/m G/en QoS/en 参数/n 还/d 会/n 包含/v 如下/v 参数/n ：/w
+
+-/w 保证/v 流/ng 比特/q 率/ag (/w GFBR/en )/w -/w 上行/v 和/c 下行/v
+
+-/w 最大/a 流/ng 比特/q 率/ag （/w MFBR/en ）/w -/w 上行/v 和/c 下行/v
+
+GFBR/en 表示/v 由/p 网络/n 保证/v 在/d 平均/a 时间/n 窗口/n 上/f 向/p QoS/en 流/ng 提供/v 的/u 比特/q 率/ag ；/w MFBR/en 将/d 比特/q 率/ag 限制/v 为/p QoS/en 流/ng 所/n 期望/n 的/u 最高/a 比特/q 率/ag （/w 例如/v ，/w 超过/v MFBR/en 时数/n 据/ng 包/n 可能/a 被/ng UE/en //w RAN/en //w UPF/en 丢弃/v 、/w 延时/v 传输/v 、/w ....../m ）/w ；/w 网络/n 通过/p QoS/en 流/ng 的/u 优先级/n 调度处/nc 理/n 来使/n 比特/q 率/ag 在/d GFBR/en 和/c MFBR/en 的/u 范围/n 内/f 。/w
+
+/0
+
+2.6/m Aggregate/en Bit/en Rate/en
+
+/0  /0 会话/v 聚合/v 最大/a 比特/q 率/ag （/w Session/en -/w AMBR/en ）/w
+
+每个/r PDU/en Session/en 都/d 会/n 有/v 一个/mq 会话/v 聚合/v 最大/a 比特/q 率/ag ，/w Session/en -/w AMBR/en 是/v 用户/n 订阅/v 数据/n ，/w SMF/en 从/p UDM/en 获取/v ；/w SMF/en 可以/a 直接/a 使用/v 订阅/v 数据/n 的/u Session/en -/w AMBR/en ，/w 或者/c 根据/n 本地/r 策略/n 进行/v 相应/v 修改/v 后/f 再/d 使用/v ，/w 或/c 使用/v 从/p PCF/en 获取/v 的/u 该/r PDU/en 会话/v 的/u Session/en -/w AMBR/en 。/w
+
+Session/en -/w AMBR/en 定义/n 了/dg 一个/mq PDU/en 会话/v 的/u 所有/b non/en -/w GBR/en QoS/en 流/ng 的/u 比特/q 率/ag 之和/n 的/u 上限/n ，/w 也就是说/ldm 一个/mq PDU/en 会话/v 的/u 所有/b non/en -/w GBR/en QoS/en 流/ng 的/u 比特/q 速率/n 之和/n 不能/v 大于/v 该/r PDU/en 的/u Session/en -/w AMBR/en 。/w
+
+Session/en -/w AMBR/en 不/d 应用/v 于/ng GBR/en QoS/en 流/ng 。/w
+
+/0  /0 UE/en 聚合/v 最大/a 比特/q 率/ag （/w UE/en -/w AMBR/en ）/w
+
+每个/r UE/en 都/d 有/v 一个/mq 聚合/v 最大/a 比特/q 率/ag （/w UE/en -/w AMBR/en ）/w ，/w 一个/mq UE/en -/w AMBR/en 定义/n 了/dg 一个/mq UE/en 所有/b 的/u non/en -/w GBR/en QoS/en 流/ng 比特/q 率/ag 之和/n 的/u 上限/n ，/w 也就是/n 一个/mq UE/en 的/u 所有/b non/en -/w GBR/en QoS/en 流/ng 的/u 比特/q 率/ag 之和/n 不能/v 大于/v UE/en -/w AMBR/en 。/w UE/en -/w AMBR/en 是/v 用户/n 订阅/v 数据/n ，/w AMF/en 可/v 从/p UDM/en 获取/v 出来/v 给/v RAN/en 使用/v 。/w
+
+UE/en -/w AMBR/en 仅/d 应用/v 于/ng non/en -/w GBR/en QoS/en 流/ng ，/w 不/d 应用/v 于/ng GBR/en QoS/en 流/ng 。/w
+
+AMBR/en 平均/a 窗口/n ，/w 其/r 用于/v 统计/v Session/en -/w AMBR/en 和/c UE/en -/w AMBR/en ，/w 且/c 用于/v Session/en -/w AMBR/en 和/c UE/en -/w AMBR/en 的/u AMBR/en 平均/a 窗口/n 参数/n 是/v 一个/mq 标准化/v 值/a ，/w 且/c 是/v 相同/a 的/u 。/w
+
+/0
+
+2.7/m （/w 默认/v 值/a ）/w Default/en Value/en
+
+对于/p 每/r 条/ng PDU/en 会话/v 的/u 建立/v ，/w SMF/en 从/p UDM/en 获取/v 订阅/v 的/u 默认/v 5/m QI/en 和/c ARP/n 值/a 。/w SMF/en 使用/v 授权/v 的/u 默认/v 5/m QI/en 和/c ARP/n 值/a 去/v 设置/v 默认/v QoS/en 流/ng 的/u QoS/en 参数/n 。/w
+
+2.8/m Maximum/en Packet/en Loss/en Rate/en （/w 最大/a 丢/v 包/n 率/ag ）/w
+
+最大/a 丢/v 包/n 率/ag 表示/v 一/m 条/ng QoS/en 流/ng 可以/a 忍受/v 的/u 最大/a 丢/v 包/n 率/ag ；/w 最大/a 丢/v 包/n 率/ag 参数/n 只/bg 可能/a 会/n 在/d GFBR/en 的/u QoS/en 流上/nz 提供/v 。/w
+
+注/ng ：/w 当前/t 版本/n (/w TS23.501/url f/en 20/m )/w ，/w 最大/a 丢/v 包/n 率/ag （/w 上行/v 、/w 下行/v ）/w 参数/n 仅/d 在/d 属于/v 语音/n 媒体/n 的/u GBR/en QoS/en 流上/nz 使用/v 。/w
+
+3/m Qos/en 特性/n
+
+本/d 节/n 规定/n 了/dg 和/c 5/m QI/en 相关/v 的/u 5/m G/en QoS/en 特性/n 。/w
+
+
+Resource/en Type/en
+
+资源/n 类型/n
+
+GBR/en ,/w Delay/en critical/en GBR/en or/en Non/en -/w GBR/en
+
+Priority/en Level/en
+
+优先级/n 水平/n
+
+表示/v 5/m G/en QoS/en 流/ng 间/f 的/u 资源/n 调度/n 优先级/n ；/w 该/r 参数/n 用于/v 区分/v 一个/mq UE/en 的/u 各个/r QoS/en 流/ng ，/w 也/d 用于/v 区分/v 不同/a 终端/n 的/u QoS/en 流/ng 。/w 该/r 参数/n 值/a 越/d 小/a 表示/v 优先级/n 越/d 高/a
+
+Packet/en Delay/en Budget/en （/w PDB/en ）/w
+
+包时延/nr 预算/n
+
+PDB/en 定义/n 了/dg UE/en 和锚/nr 点/m NPF/en 之间/f 数据包/n 传输/v 的/u 时延/j 上限/n ；/w
+
+Packet/en Error/en Rate/en （/w PER/en ）/w
+
+误/d 包/n 率/ag
+
+误/d 包率定/nr 了/dg 一个/mq 上限/n ，/w 也就是/n 数据包/n 已经/d 被/ng 发送/v 端的/n 链路/n 层/n （/w 如/c 3/m GPP/en 接入网/n 的/u RLC/en 层/n ）/w 处理/v 了/dg ，/w 但/c 没有/d 被/ng 对应/v 的/u 接收/v 端/ag 提交/v 给/v 上层/f （/w 如/c 3/m GPP/en 接入网/n 的/u PDCP/en 层/n ）/w 的/u 比率/n 上限/n 。/w PER/en 参数/n 的/u 作用/n 是/v 让/v 网络/n 配置/n 合适/a 的/u 链路/n 层/n 参数/n （/w 如/c 3/m GPP/en 接入网/n 的/u RLC/en 和/c HARQ/en 配置/n ）/w 。/w
+
+Averaging/en Window/en
+
+平均/a 窗口/n
+
+平均/a 窗口/n 是/v 给/v GBR/en QoS/en Flow/en 定义/n 的/u ，/w 用于/v 相关/v 网/n 元/q 统计/v GFBR/en 和/c MFBR/en 。/w
+
+Maximum/en Data/en Burst/en Volume/en （/w MDBV/en ）/w
+
+最大/a 数据/n 突发/v 量/n
+
+具有/v 延迟/v 关键/a 资源/n 类型/n 的/u 每个/r GBR/en QoS/en 流/ng 应/ng 与/c 一个/mq MDBV/en 相关/v 联/ng ；/w MDBV/en 表示/v 5/m G/en -/w AN/en 在/d 一个/mq 5/m G/en -/w AN/en PDB/en 期间/f 需要/n 服务/v 的/u 最大/a 数据/n 量/n 。/w
+4/m 标准/a 5/m QI/en 到/ng 5/m G/en Qos/en 特性/n 的/u 映射/v
+
+
+
+5/m 反射/v QoS/en
+
+反射/v QoS/en 作为/n 5/m G/en QoS/en 引入/v 的/u 新功能/n ，/w 其内/r 容/ng 比较/d 多/a ，/w 不宜/v 放在/v 此文/r 展开/v 来讲/u 了/dg ，/w 否则/c 此/r 博文/n 就/d 太/ag 长/a 了/dg ，/w 后续/b 我会/r 专门/b 开一/nz 篇文章/n 来/u 详细/a 介绍/v 。/w 简而言之/ldm ，/w 反射/v QoS/en 的/u 功能/n 就是/n 网络/n 通过/p 用户/n 面/a packet/en 的/u 相关/v 头/k 域/ng （/w SDAP/en 头/k ）/w 的/u 设置/v ，/w UE/en SDAP/en 实体/n 收到/v 后进/b 行/a 分析/v 推导/v 出/q 一个/mq 上行/v 的/u QoS/en 规则/a 进行/v 使用/v 。/w
+
+/0
+
+6/m 包/n 过滤器/n 集/n （/w Packet/en  /0 Filter/en Set/n ）/w
+
+QoS/en 规则/a （/w UE/en 侧/f ）/w 或/c PDR/en （/w UPF/en 侧/f ）/w 的/u 包/n 过滤器/n 集/n 是/v 用于/v 标识/n 数据/n （/w IP/n 或/c ethenet/en ）/w 流/ng 的/u ，/w 一个/mq 包/n 过滤器/n 集/n 可以/a 包含/v 多个/n 包/n 过滤器/n （/w 这个/r 可/v 从/p 上文/n 1.5/m 节/n 的/u 协议/n 格式/n 图/n 明显/a 看出/v 来/u ）/w ，/w 每个/r 包/n 过滤器/n 可以/a 是/v 下行/v 或/c 上行/v 或/c 双向/b 的/u 。/w
+
+有/v 两/m 种类/n 型/k 的/u 包/n 过滤器/n 集/n ：/w IP/n 包/n 过滤器/n 集合/n ethenet/en 包/n 过滤器/n 集/n ，/w 分别/d 对应/v 于/ng 它们/r 的/u PDU/en 会话/v 类型/n 。/w
+
+/0
+
+参考/v
+
+TS23.501/url
+
+TS24.501/url
+
+TS38.413/url ,/w ,/w ,/w ,/w ,/w

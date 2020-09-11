@@ -1,0 +1,136 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G附着若干题目--老狐笔记,5G附着去附着参数查找n4G添加辅站的B1事件参数(NR满足什么条件才可以被添加)n4G附着完成后，下发辅站测量信息（RRC Con Config -> B1事件）：nnB1门限 = -157+52 = -105dBm；nUE上报辅站测量结果（MeasurementReport）：nnPCI42，最强SSB波束2，RSRP = -157+102 = 55dBm,weixin_42178143,https://blog.csdn.net/weixin_42178143/article/details/90666568,2019-05-30,61次阅读,5G附着若干题目--老狐笔记 - weixin_42178143的博客,2019年05月30日 19:01:59,5G附着若干题目
+4G添加辅站的B1事件参数(NR满足什么条件才可以被添加)
+4G附着完成后，下发辅站测量信息（RRC Con Config -> B1事件）：
+
+B1门限 = -157+52 = -105dBm；
+迟滞hys = 2*0.5 = 1dB；
+UE上报辅站测量结果（MeasurementReport）：
+
+PCI42，最强SSB波束2，RSRP = -157+102 = -55dBm；
+NR小区PCI，SSB频点、pointA频点和对应频率
+B1测量上报后，下发RRCConnConfig（Event：NRSCellAddAttempt）：
+
+Sub3G（频点栅格5KHz），Band41；
+SSB频点 = 512910 * 5KHz +0MHz = 2564.55MHz；
+PointA频点 = 503172 * 5KHz + 0MHz = 2515.86MHz；
+SSB的中心RB数 = （512910 - 503172）*5/30/12 = 135.25；
+SSB的起始RB数 = 135.25 - 10 = 125.25；
+（SSB频域20RBs）
+coreset0频域位置/时域位置/时频资源
+1、Coreset0频域位置确定：
+下图为Croeset0与SSB频域关系，可见频域位置，由参数subcarrierOffset、Offset确定，subcarrierOffset在MIB中，Offset由ControlResourceSetZero索引查表获得；
+
+下图MIB截图，得到ssb间隔子载波数（subcarrieroffset） = 6，Coreset0索引（ControlResourceSetZero） = 10；
+
+Coreset0索引（controlResourceSetZero） =10，查找下表（协议3GPP TS 38.213），得到Offset=12；同时可得到Coreset0的时频资源Number of RBs、Number of Symbols；
+
+Coreset0频域起始位置 = SSB起始位置 -  偏移量
+SSB起始位置 = SSB中心位置 - SSB频宽/2 = 135.25RBs -10RBs = 125.25RBs
+偏移量 = subcarrierOffset（15KHz）/2 /12 + Offset = 0.25RB + 12RBs = 12.25RBs
+Coreset0起始位置 = 113RBs
+（注：subcarrierOffset都是按15KHz计算，SSB频域20个RB）
+2、Coreset0时频资源
+频域（上表Number of RBs）：48RBs，时域（上表Number of Symbols）：1符号；
+3、Coreset0时域位置
+n0=（O∗2μ+⌊i∗M⌋）modNFsn0=（O∗2μ+⌊i∗M⌋）modNsF      n_0=（O*2^μ+⌊i*M⌋）modN_s^Fn0​=（O∗2μ+⌊i∗M⌋）modNsF​n0n0      n_0n0​表示Coreset0出现的起始时隙号，OO      OO和MM      MM由searchSpaceZero索引查下表得到，ii      ii是SSB index编号，NFsNsF      N_s^FNsF​是一个无线帧包含的时隙数；
+由searchSpaceZero索引查表可得到第n0n0      n_0n0​时隙的起始符号（First Symbol Index）；
+Coreset0的无线帧周期与SSB周期相同，因为由SSB（MIB）指示Coreset0；
+UE侧Coreset0连续两个时隙监听（n0n0      n_0n0​时隙与下一个时隙，可能在n0n0      n_0n0​时隙资源不足，Coreset0在下一时隙发送）；
+
+
+Pattern 0、1、2 表示SSB与Coreset0的相对位置（前后结构，上下结构）；frequency rang 1表示FR1，即Sub6G
+初始BWP内PDSCH使用TYPEA和TYPEB调度时,可使用的RE起始符号和长度,BWP频域指示TYPE0还是TPYE1，DMRS类型是Type1还是Type2
+初始BWP获取流程（Initial DL BWP，Initial UL BWP，）：
+
+PDSCH时域资源分配：
+TypeA映射：PDSCH起始符号数为｛0，1，2，3｝，长度为3~14符号；
+TypeB映射：PDSCH起始符号数为0~12，长度为｛2，4，7｝，主要用于自包含时隙；
+SLIV（startSymbolAndLength）指示起始符号和连续的符号长度，计算方式如下：
+
+信令RRCConnConfig（Event：NRERABSetupAttempt）：
+
+实际使用哪一种根据DCI下发指示；
+PDSCH频域资源分配：
+NR支持Type0-bitmap和Type1-RIV方式
+
+初始上行BWP的带宽配置：
+Type1方式，即RIV计算：RIV=NR B∗（LR B−1）+RBs t a r tRIV=NR B∗（LR B−1）+RBs t a r t      RIV = N_R~_B*（L_R~_B  - 1）+RB_s~_t~_a~_r~_tRIV=NR​ B​∗（LR​ B​−1）+RBs​ t​ a​ r​ t​NR BNR B      N_R~_BNR​ B​为整个带宽的RB数（30KHz子载波间隔，100M带宽，对应273个RB，但协议在这里计入保护带宽，所以NR BNR B      N_R~_BNR​ B​为275），LR BLR B      L_R~_BLR​ B​为被分配带宽的RB数，RBs t a r tRBs t a r t      RB_s~_t~_a~_r~_tRBs​ t​ a​ r​ t​为起始RB；
+代入验证计算得：
+275*48-1 +113 =13038
+1
+起始113RBs，带宽48RBs，与前面一致；
+下图RRCConnConfig（Event：NRERABSetupAttempt）：
+
+
+DMRS for PDSCH
+分类：
+Front Loaded DMRS，前置DMRS，1~2符号，默认需要配置；
+Additional DMRS，额外DMRS，1~3符号，由高层配置；
+类型：
+Type1，单符号最大支持4端口，双符号8端口；
+Type2，单符号最大支持6端口，双符号12端口；
+
+
+RRCConnConfig（Event：NRERABSetupAttempt）：
+
+专用BWP内PDSCH使用TYPEA和TYPEB调度时,可使用的RE起始符号和长度，BWP频域指示TYPE0还是TPYE1 ，DMRS类型是Type1还是Type2
+
+
+实际使用哪一种根据DCI下发指示；
+
+BWP带宽由Type1方式指示，即RIV计算方式；
+
+代入计算得：LR B=273LR B=273      L_R~_B=273LR​ B​=273， RBs t a r t=0RBs t a r t=0      RB_s~_t~_a~_r~_t=0RBs​ t​ a​ r​ t​=0，即全带宽；
+275（275-273+1）+（275-1-0）=1099
+1
+基站几个SSB,SSB的物理发送周期
+RRCConnConfig（Event：NRERABSetupAttempt）：
+
+8个SSB，周期20ms；
+
+这里使用哪个Case，与band相对应，协议已规定；
+
+上图CaseC，8个SSB波束，20ms周期；
+PRACH的配置了哪几个根序列/NCS/PARCH格式/PRACH的时域和频域位置
+1、PRACH占用时频资源由Preamble码格式确定：
+
+上图长格式，下图短格式
+
+2、PRACH时域起始位置（RRCReConfiguration -> PRACH Configuration Index索引）
+
+
+查表（see TS 38.211 [16], clause 6.3.3.2）得到Preamble格式为Format0，Prach的时域起始位置为，每个无线帧，4、9子帧，0符号位起始（Format0的Preamble占时域长1ms）；
+3、PRACH频域起始位置（RRCReConfiguration -> msg1-FrequencyStart）
+频域偏移RB数（msg1-FrequencyStart）=3，相对initialBWP起始位置偏移；
+msg1-FDM=1，该参数确定一个occasion时域位置频分多少个PRACH；
+
+ssb-perRACH-Occasion（eight）表示“SSB数”与“单个PRACH”的对应关系；
+CB-PreamblePerSSB（6）表示“基于竞争的Preamble数”与“单个SSB”对应关系；
+
+4、根序列与NCS
+根序列由根序列索引确定prach-RootSequenceIndex = L839：0x60（96）；
+NCS由查表得到，zeroCorrelationZoneConfig=3，restrictedSetConfig = unrestrictedSet，长序列，查下表得NCS=18；
+可见单个根序列移位可得到46个（839/18）；
+一个小区最多64个preamble，循环移位数量不到64个，则通过下一个根序列循环移位，直到生成64个；
+
+
+
+终端在NR发起随机接入的专用前导ID
+即分配给当前接入UE的非竞争前导码；
+由前导码索引号指示ra-PreambleIndex = 6；
+之前基于竞争的前导码已分配 6*8 = 48个，所以剩余非竞争前导码 64 - 48 = 16个；
+
+NR配置了几个附加DMRS
+附加DMRS（Additional-DMRS），由dmrs-AdditionalPosition =1 索引；
+前置DMRS是Type2，双符号（maxLength = 2）；
+
+下表针对双符号前置DMRS，ldld      l_dld​表示PDSCH时域符号数，l0l0      l_0l0​表示前置DMRS的位置；前面得到dmrs-AdditionalPosition =1 ，假设ld=8ld=8      l_d=8ld​=8，查下表可知，只有l0l0      l_0l0​，即只有前置DMRS；若假设ld=10ld=10      l_d=10ld​=10，查下表可知，有附加DMRS，在第8符号；
+
+下表针对单符号前置DMRS，ldld      l_dld​表示PDSCH时域符号数，l0l0      l_0l0​表示前置DMRS的位置；
+
+满足什么条件辅站会变更
+由A3事件确定，offset = 2 * 0.5，hys = 2 * 0.5，timeToTrigger = 320ms；
+
+辅站删除条件
+由A2事件确定，A2门限 = -157+36 =-121dBm，hys = 2 * 0.5，timeToTrigger = 640ms；,,,,,

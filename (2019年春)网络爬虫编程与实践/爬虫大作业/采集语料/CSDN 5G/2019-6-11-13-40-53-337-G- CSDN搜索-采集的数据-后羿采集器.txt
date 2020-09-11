@@ -1,0 +1,80 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G无线帧结构,5G无线帧n5G无线帧时长为10ms，每个无线帧包含10个子帧，每个子帧长度均为1ms。nnnnn子帧n时隙n符号nnnnn1无线帧 = 10子帧nnnnnn1子帧 = kkk 时隙nnnnnn1时隙 = 14符号nnn每个子帧到底有多少个时隙取决于参数 uuu，其取值有5个，即 0,1,2,3,40, 1, 2, 3, 40,1,2,3,4 。,sincerehz,https://blog.csdn.net/sincerehz/article/details/86065493,2019-01-08,733次阅读,5G无线帧结构 - sincerehz的博客,2019年01月08日 11:53:02,5G无线帧
+一个5G无线帧时长为固定的10ms，每个无线帧包含10个子帧，所以每个子帧长度均为1ms。
+
+
+
+
+子帧
+时隙
+符号
+
+
+
+
+1无线帧  = 10子帧
+
+
+
+
+
+1子帧 = kk      kk 时隙
+
+
+
+
+
+1时隙 = 14符号
+
+
+每个子帧到底有多少个时隙取决于参数 uu      uu，其取值有5个，即 0,1,2,3,40,1,2,3,4      0, 1, 2, 3, 40,1,2,3,4  。
+
+
+
+
+uu      uu 取值
+子载波间隔 2n×15 KHz2n×15 KHz      2^{n}\times 15 ~\text{KHz}2n×15 KHz
+kk      kk 时隙 / 子帧
+每个时隙时长 (ms)
+
+
+
+
+0
+15
+1
+1
+
+
+1
+30
+2
+0.5
+
+
+2
+60
+4
+0.25
+
+
+3
+120
+8
+0.125
+
+
+4
+240
+16
+0.0625
+
+
+PS: LTE的子载波间隔固定为15KHz。
+
+相关博文
+[1] https://blog.csdn.net/baidu_28937123/article/details/82382672
+[2] https://blog.csdn.net/zhihuiyu123/article/details/79047753
+[3] https://blog.csdn.net/u010178611/article/details/82257783
+[4] http://txrjy.com/thread-1027912-1-1.html,,,,[reply]u010569419[/reply]
+竟然有前辈来评论，幸甚幸甚，非常感谢！,

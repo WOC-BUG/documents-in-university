@@ -1,0 +1,68 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_39221481/article/details/78917947/url ,/w 人工智能/n “/w 六/m 步/n 走/v ”/w 学习/v 路线/n n/en 1/m 、/w 学习/v 并/c 掌握/v 一些/mq 数学/n 知识/n n/n 高等/b 数学/n 是/v 基础/n 中/f 的/u 基础/n ，/w 一切/r 理工科/n 都/d 需要/n 这个/r 打底/v ，/w 数据挖掘/n 、/w 人工智能/n 、/w 模式/n 识别/v 此类/r 跟/c 数据/n 打交道/v 的/u 又/d 尤其/d 需要/n 多元/b 微积分/n 运算/v 基础/n n/n 线性代数/n 很/d 重要/a ，/w 一般来说/ldm 线性/n 模型/n 是/v 你/r 最先/d 要/v 考虑/v 的/u 模型/n ，/w 加上/v 很/d 可能/a 要/v 处理/v 多维/b 数据/n ，/w 你/r 需要/n 用/ng 线性代数/n 来/u 简洁/a 清晰/a 的/u 描述/v 问题/n ，/w 为/p 分析/v 求解/v 奠定/v 基础/n n/n 概率论/n 、/w 数理统计/n 、/w 随机/b 过程/n 更是/d 少不了/v ，/w 涉及/v 数据/n 的/u 问题/n ,/w https://blog.csdn.net/weixin_39221481/article/details/78917947/url ,/w ,/w weixin/en _/0 39221481/m ,/w 2017-12-28/t ,/w //blog.csdn.net/weixin_39221481/article/details/78917947/url ,/w 321/m 次/a 阅读/v ,/w 人工智能/n -/w Stay/en Hungry/en ，/w Stay/en Foolish/en ,/w 2017年12月28日 07:25:56/t ,/w 转/q 人工智能/n
+
+
+
+2017年12月28日 07:25:56/t
+这是/n 阿/h 谢/ng 啊/y
+阅读/v 数/m ：322/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n “/w 六/m 步/n 走/v ”/w 学习/v 路线/n
+1/m 、/w 学习/v 并/c 掌握/v 一些/mq 数学/n 知识/n
+高等/b 数学/n 是/v 基础/n 中/f 的/u 基础/n ，/w 一切/r 理工科/n 都/d 需要/n 这个/r 打底/v ，/w 数据挖掘/n 、/w 人工智能/n 、/w 模式/n 识别/v 此类/r 跟/c 数据/n 打交道/v 的/u 又/d 尤其/d 需要/n 多元/b 微积分/n 运算/v 基础/n
+线性代数/n 很/d 重要/a ，/w 一般来说/ldm 线性/n 模型/n 是/v 你/r 最先/d 要/v 考虑/v 的/u 模型/n ，/w 加上/v 很/d 可能/a 要/v 处理/v 多维/b 数据/n ，/w 你/r 需要/n 用/ng 线性代数/n 来/u 简洁/a 清晰/a 的/u 描述/v 问题/n ，/w 为/p 分析/v 求解/v 奠定/v 基础/n
+概率论/n 、/w 数理统计/n 、/w 随机/b 过程/n 更是/d 少不了/v ，/w 涉及/v 数据/n 的/u 问题/n ，/w 不确定性/ln 几乎/d 是/v 不可避免/l 的/u ，/w 引入/v 随机/b 变量/n 顺理成章/iv ，/w 相关/v 理论/n 、/w 方法/n 、/w 模型/n 非常/b 丰富/a 。/w 很多/mq 机器/np 学习/v 的/u 算法/n 都/d 是/v 建立/v 在/d 概率论/n 和/c 统计学/n 的/u 基础/n 上/f 的/u ，/w 比如/v 贝/ng 叶斯/nr 分类/v 器/k 、/w 高斯/nr 隐/vg 马尔可夫链/nr 。/w
+
+再就是/d 优化/v 理论/n 与/c 算法/n ，/w 除非/c 你/r 的/u 问题/n 是/v 像/n 二元/b 一次方程/n 求根/nz 那样/r 有/v 现成/b 的/u 公式/n ，/w 否则/c 你/r 将/d 不得不/d 面对/v 各种/r 看起来/v 无/v 解/ng 但是/c 要/v 解/ng 的/u 问题/n ，/w 优化/v 将/d 是/v 你/r 的/u GPS/n 为/p 你/r 指路/vn
+有/v 以上/f 这些/r 知识/n 打底/v ，/w 就/d 可以/a 开拔/v 了/dg ，/w 针对/v 具体/a 应用/v 再/d 补充/v 相关/v 的/u 知识/n 与/c 理论/n ，/w 比如说/ldm 一些/mq 我/r 觉得/v 有/v 帮助/v 的/u 是/v 数值/n 计算/v 、/w 图/n 论/k 、/w 拓扑/n ，/w 更/d 理论/n 一点/mq 的/u 还有/v 实/a //w 复分析/n 、/w 测度/v 论/k ，/w 偏/a 工程/n 类/n 一点/mq 的/u 还有/v 信号处理/n 、/w 数据结构/n 。/w
+/0
+2/m 、/w 掌握/v 经典/n 机器/np 学习/v 理论/n 和/c 算法/n
+/0  /0  /0  /0  /0  /0 如果/c 有时/d 间/f 可以/a 为/p 自己/r 建立/v 一个/mq 机器/np 学习/v 的/u 知识/n 图谱/n ，/w 并/c 争取/v 掌握/v 每/r 一个/mq 经典/n 的/u 机器/np 学习/v 理论/n 和/c 算法/n ，/w 我/r 简单/a 地/n 总结/n 如下/v ：/w
+1/m )/w  /0  /0  /0  /0  /0  /0  /0 回归/v 算法/n ：/w 常见/a 的/u 回归/v 算法/n 包括/v 最小/a 二/m 乘法/n （/w OrdinaryLeast/en Square/en ）/w ，/w 逻辑/n 回归/v （/w Logistic/en Regression/en ）/w ，/w 逐步/d 式/k 回归/v （/w Stepwise/en Regression/en ）/w ，/w 多元/b 自适/a 应/ng 回归/v 样/ng 条/ng （/w MultivariateAdaptive/en Regression/en Splines/en ）/w 以及/c 本地/r 散/a 点/m 平滑/a 估计/v （/w Locally/en Estimated/en Scatterplot/en Smoothing/en ）/w ；/w
+2/m )/w  /0  /0  /0  /0  /0  /0  /0 基于/p 实例/n 的/u 算法/n ：/w 常见/a 的/u 算法/n 包括/v k/en -/w Nearest/en Neighbor/en (/w KNN/en )/w ,/w 学习/v 矢量/n 量化/v （/w Learning/en Vector/en Quantization/en ，/w LVQ/en ）/w ，/w 以及/c 自/d 组织/n 映射/v 算法/n （/w Self/en -/w Organizing/en Map/en ，/w SOM/en ）/w ；/w
+3/m )/w  /0  /0  /0  /0  /0  /0  /0 基于/p 正则/n 化/k 方法/n ：/w 常见/a 的/u 算法/n 包括/v ：/w Ridge/en Regression/en ，/w Least/en Absolute/en Shrinkage/en and/en Selection/en Operator/en （/w LASSO/en ）/w ，/w 以及/c 弹性/n 网络/n （/w Elastic/en Net/n ）/w ；/w
+4/m )/w  /0  /0  /0  /0  /0  /0  /0 决策/n 树/n 学习/v ：/w 常见/a 的/u 算法/n 包括/v ：/w 分类/v 及/c 回归/v 树/n （/w ClassificationAnd/en Regression/en Tree/en ，/w CART/en ）/w ，/w ID/en 3/m (/w Iterative/en Dichotomiser/en 3/m )/w ，/w C/en 4.5/m ，/w Chi/en -/w squared/en Automatic/en Interaction/en Detection/en (/w CHAID/en )/w ,/w Decision/en Stump/en ,/w 随机/b 森林/n （/w Random/en Forest/en ）/w ，/w 多元/b 自适/a 应/ng 回归/v 样/ng 条/ng （/w MARS/en ）/w 以及/c 梯度/n 推进/v 机/np （/w Gradient/en Boosting/en Machine/en ，/w GBM/en ）/w ；/w
+5/m )/w  /0  /0  /0  /0  /0  /0  /0 基于/p 贝/ng 叶斯/nr 方法/n ：/w 常见/a 算法/n 包括/v ：/w 朴素/a 贝/ng 叶斯/nr 算法/n ，/w 平均/a 单依赖/nr 估计/v （/w AveragedOne/en -/w Dependence/en Estimators/en ，/w AODE/en ）/w ，/w 以及/c Bayesian/en Belief/en Network/en （/w BBN/n ）/w ；/w
+6/m )/w  /0  /0  /0  /0  /0  /0  /0 基于/p 核/n 的/u 算法/n ：/w 常见/a 的/u 算法/n 包括/v 支持/v 向量/n 机/np （/w SupportVector/en Machine/en ，/w SVM/en ）/w ，/w 径向/n 基/ng 函数/n （/w Radial/en Basis/en Function/en ，/w RBF/en )/w ，/w 以及/c 线性/n 判别/v 分析/v （/w Linear/en Discriminate/en Analysis/en ，/w LDA/en )/w 等/ng ；/w
+7/m )/w  /0  /0  /0  /0  /0  /0  /0 聚/v 类/n 算法/n ：/w 常见/a 的/u 聚/v 类/n 算法/n 包括/v k/en -/w Means/en 算法/n 以及/c 期望/n 最大化/v 算法/n （/w Expectation/en Maximization/en ，/w EM/n ）/w ；/w
+8/m )/w  /0  /0  /0  /0  /0  /0  /0 基于/p 关联/v 规则/a 学习/v ：/w 常见/a 算法/n 包括/v Apriori/en 算法/n 和/c Eclat/en 算法/n 等/ng ；/w
+9/m )/w  /0  /0  /0  /0  /0  /0  /0 人工/b 神经网络/n ：/w 重要/a 的/u 人工/b 神经网络/n 算法/n 包括/v ：/w 感知/v 器/k 神经网络/n （/w PerceptronNeural/en Network/en ）/w ,/w 反向/b 传递/v （/w Back/en Propagation/en ）/w ，/w Hopfield/en 网络/n ，/w 自/d 组织/n 映射/v （/w Self/en -/w OrganizingMap/en ,/w SOM/en ）/w 。/w 学习/v 矢量/n 量化/v （/w Learning/en Vector/en Quantization/en ，/w LVQ/en ）/w ；/w
+10/m )/w  /0  /0  /0  /0 深度/n 学习/v ：/w 常见/a 的/u 深度/n 学习/v 算法/n 包括/v ：/w 受限/v 波尔/nr 兹/ng 曼/ag 机/np （/w RestrictedBoltzmann/en Machine/en ，/w RBN/en ）/w ，/w Deep/en Belief/en Networks/en （/w DBN/en ）/w ，/w 卷积/n 网络/n （/w Convolutional/en Network/en ）/w ,/w 堆栈/n 式/k 自动/b 编码器/n （/w Stacked/en Auto/en -/w encoders/en ）/w ；/w
+11/m )/w  /0  /0  /0  /0 降低/v 维度/n 的/u 算法/n ：/w 常见/a 的/u 算法/n 包括/v 主/b 成份/n 分析/v （/w PrincipleComponent/en Analysis/en ，/w PCA/n ）/w ，/w 偏/a 最小/a 二/m 乘/ng 回归/v （/w Partial/en Least/en Square/en Regression/en ，/w PLS/v ）/w ，/w Sammon/en 映射/v ，/w 多维/b 尺度/n （/w Multi/en -/w Dimensional/en Scaling/en ,/w MDS/n ）/w ,/w  /0 投影/n 追踪/v （/w ProjectionPursuit/en ）/w 等/ng ；/w
+12/m )/w  /0  /0  /0  /0 集成/b 算法/n ：/w 常见/a 的/u 算法/n 包括/v ：/w Boosting/en ，/w Bootstrapped/en Aggregation/en （/w Bagging/en ）/w ，/w AdaBoost/en ，/w 堆/k 迭/d 泛化/v （/w Stacked/en Generalization/en ，/w Blending/en ）/w ，/w 梯度/n 推进/v 机/np （/w GradientBoosting/en Machine/en ,/w GBM/en ）/w ，/w 随机/b 森林/n （/w Random/en Forest/en ）/w 。/w
+/0
+3/m 、/w 掌握/v 一/m 种/ng 编程工具/n ，/w 比如/v Python/en
+/0  /0  /0  /0  /0  /0 一方面/ldm Python/en 是/v 脚本/n 语言/n ，/w 简便/a ，/w 拿/p 个/q 记事本/n 就/d 能/ng 写/v ，/w 写/v 完/ng 拿/p 控制台/n 就/d 能/ng 跑/ng ；/w 另外/c ，/w Python/en 非常/b 高效/b ，/w 效率/n 比/p java/n 、/w r/en 、/w matlab/en 高/a 。/w matlab/en 虽然/c 包/n 也/d 多/a ，/w 但是/c 效率/n 是/v 这/r 四/m 个/q 里面/f 最低/a 的/u 。/w
+/0
+4/m 、/w 了解/v 行业/n 最新/a 动态/n 和/c 研究成果/n ，/w 比如/v 各/r 大牛/nz 的/u 经典/n 论文/n 、/w 博客/n 、/w 读书/v 笔记/n 、/w 微博/n 微信/n 等/ng 媒体/n 资讯/n 。/w
+/0
+5/m 、/w 买/v 一个/mq GPU/n ，/w 找/v 一个/mq 开源/v 框架/n ，/w 自己/r 多动/n 手/k 训练/v 深度/n 神经网络/n ，/w 多动/n 手写/b 写/v 代码/n ，/w 多/a 做/v 一些/mq 与/c 人工智能/n 相关/v 的/u 项目/n 。/w
+/0
+6/m 、/w 选择/n 自己/r 感兴趣/a 或者/c 工作/n 相关/v 的/u 一个/mq 领域/n 深入/a 下去/v
+人工智能/n 有/v 很多/mq 方向/n ，/w 比如/v NLP/en 、/w 语音/n 识别/v 、/w 计算机/np 视觉/n 等等/u ，/w 生命/n 有限/a ，/w 必须/d 得/e 选/ng 一个/mq 方向/n 深入/a 的/u 专/a 研/ng 下去/v ，/w 这样/r 才能/v 成为/v 人工智能/n 领域/n 的/u 大牛/nz ，/w 有所/v 成就/n 。/w
+/0
+/0
+/0
+/0
+/0
+/0
+参考/v ：/w
+/0  /0  /0  /0  /0  /0 1/m 、/w https://www.zhihu.com/question/20086909/url
+/0  /0  /0  /0  /0  /0 2/m 、/w http://www.cnblogs.com/blueyyc/articles/5560755.html/url
+/0  /0  /0  /0  /0  /0 3/m 、/w http://blog.jobbole.com/77620//url
+/0  /0  /0  /0  /0  /0 4/m 、/w http://www.ituring.com.cn/article/42462/url

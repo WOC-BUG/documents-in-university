@@ -1,0 +1,20 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+硬/a 核/n 科普/b ——/w 1/m G/en ~/w 5/m G/m 通信/v 是/v 啥/r ？/w 怎么/r 理解/v ？/w ,/w 简单/a 理解/v 1/m G/en -/w 5/m G/m 的/u 演变/v ，/w 以及/c 5/m G/m 的/u 常识/n ,/w weixin/en _/0 44797433/m ,/w https://blog.csdn.net/weixin_44797433/article/details/90674074/url ,/w 2019-05-29/t ,/w 10/m 次/a 阅读/v ,/w 硬/a 核/n 科普/b ——/w 1/m G/en ~/w 5/m G/m 通信/v 是/v 啥/r ？/w 怎么/r 理解/v ？/w -/w 风/n 居住/v 的/u 街道/ny ,/w 2019年05月29日 17:12:33/t ,/w 文章/n 来源/n ：/w 溷/ag 子/k 曰/vg （/w hey/en -/w stone/en ）/w
+
+常识/n 解释/v ：/w
+微/ag 基站/n
+基站/n 有/v 两/m 种/ng ，/w 微/ag 基站/n 和/c 宏基/nz 站/ny ，/w 微/ag 基站/n 就是/n 微小/a 型/k 基站/n ，/w 随着/p 5/m G/m 普及/a 会/n 越来越/d 多/a ，/w 并且/c 基站/n 数量/n 越多/nz ，/w 辐射/n 强度/n 反而/d 越/d 小/a ，/w 因为/c 其/r 不用/d 大/a 范围/n 覆盖/v 。/w (/w 类似/a 于/ng 取暖器/n 方案/n ，/w 以/p 多个/n 小/a 功率/n 代替/v 一个/mq 大功率/b )/w
+
+天线/n
+为什么/r 后来/t 我们/r 就/d 看不到/v 带/ng 天线/n 的/u 手机/np 了/dg ？/w
+答案/n 并/c 不是/n 全/a 因为/c 信号/n 变/v 好/a 了/dg ，/w 主要/b 原因/n 是/v 天线/n 变小/v 了/dg 。/w 根据/n 天线/n 特性/n ，/w 天线/n 长度/n 应/ng 与/c 波长/n 成/ng 正比/n ，/w 大约/d 在/d 1/10/t ~/w 1/m //w 4/m 之间/f 。/w 频率/n 越/d 高/a ，/w 波长/n 越/d 短/a ，/w 天线/n 也/d 就/d 跟着/v 变/v 短/a ！/w 毫米波/n ，/w 天线/n 也/d 变成/v 毫米/q 级/n 。/w 这/r 就/d 意味着/v ，/w 天线/n 完全/a 可以/a 塞/ng 进/ng 手机/np 里面/f ，/w 甚至/c 可以/a 塞/ng 很多/mq 根/n 。/w
+Ｍassive/en MIMO/en
+MIMO/en 就是/n “/w 多进/nz 多/a 出/q ”/w （/w Multiple/en -/w Input/en Multiple/en -/w Output/en ）/w ，/w 多根/mq 天线/n 发送/v ，/w 多根/mq 天线/n 接收/v 。/w
+在/d LTE/en 时代/n 就/d 已经/d 有/v MIMO/en 了/dg ，/w 5/m G/m 继续/v 发扬光大/iv ，/w 变成/v 了/dg 加强/v 版/n 的/u Massive/en 　MIMO/en 。/w
+5/m G/m 时代/n ，/w 天线/n 就/d 不是/n 按/p 根/n 来/u 算了/v ，/w 是/v 按/p “/w 阵/ng ”/w ，/w “/w 天线/n 阵列/n ”/w 。/w 天线/n 多得/nz 排成/v 阵/ng 了/dg ，/w 一眼/d 看/u 去/v 一大/j 片/n 的/u 节奏/n 。/w
+
+波束/n 赋形/v
+基站/n 发射/v 信号/n 的/u 时候/n ，/w 就/d 像/n 灯泡/n 发光/v 。/w 信号/n 是/v 向/p 四周/f 发射/v 的/u ，/w 对于/p 光/a ，/w 当然/b 是/v 照亮/v 整个/b 房间/n ，/w 如果/c 只是/c 想/v 照亮/v 某个/r 区域/n 或/c 物体/n ，/w 那么/c ，/w 大部分/n 的/u 光/a 都/d 浪费/v 了/dg 。/w 如果/c 用/ng 一/m 只/bg 无形/b 的/u 手/k ，/w 把/p 散开/v 的/u 光束/n 缚/vg 起来/v 既/c 节约/v 了/dg 能量/n ，/w 也/d 保证/v 了/dg 要/v 照亮/v 的/u 区域/n 有/v 足够/v 的/u 光/a 。/w 波束/n 赋形/v 就是/n 用来/v 束缚/v 信号/n 节约/v 能量/n 的/u 方法/n 。/w
+波束/n 赋形/v 在/d 基站/n 上/f 布设/v 天线/n 阵列/n ，/w 通过/p 对射/v 频/ag 信号/n 相位/n 的/u 控制/v ，/w 使得/v 相互作用/lv 后/f 的/u 电磁波/n 的/u 波/n 瓣/ng 变得/v 非常/b 狭窄/a ，/w 并/c 指向/v 它/r 所/n 提供/v 服务/v 的/u 手机/np ，/w 而且/c 能/ng 跟/c 据/ng 手机/np 的/u 移动/v 而/c 转变/v 方向/n 。/w 这种/r 空间/n 复用/v 技术/n ，/w 由/p 全/a 向/p 的/u 信号/n 覆盖/v 变成/v 了/dg 精准/a 指向性/n 服务/v ，/w 波束/n 之间/f 不会/v 干扰/v ，/w 在/d 相同/a 的/u 空间/n 中/f 提供/v 更多/n 的/u 通信/v 链路/n ，/w 极大/a 地/n 提高/v 基站/n 的/u 服务/v 容量/n 。/w
+D/en 2/m D/en [/w Device/en to/en Device/en ]/w
+同一/b 基站/n 下/f 的/u 两个/n 用户/n ，/w 如果/c 互相/d 进行/v 通信/v ，/w 他们/r 的/u 数据/n 将/d 不再/d 通过/p 基站/n 转发/v ，/w 而是/n 直接/a 手机/np 到手/v 机/np 。/w ,/w ,/w ,/w ,/w ,/w

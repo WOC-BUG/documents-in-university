@@ -1,0 +1,83 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G NR 帧结构,多数内容引用自：5G/NR-Frame Structurern时域帧结构rnNR中定义一帧(radios frame)的长度为10ms，每帧分为同样的两个半帧(half frame)，每个半帧5ms，每帧中有10个子帧(subframe)。rnrn在LTE中每个子帧分为2个slot，且Normal CP下每个子帧14个symbol。,chenweizhen1991,https://blog.csdn.net/chenweizhen1991/article/details/89922127,2019-05-07,30次阅读,5G NR 帧结构 - chenweizhen1991的博客,2019年05月07日 15:32:03,多数内容引用自：5G/NR-Frame Structure
+时域帧结构
+NR中定义一帧(radios frame)的长度为10ms，每帧分为同样的两个半帧(half frame)，每个半帧5ms，每帧中有10个子帧(subframe)。
+
+在LTE中每个子帧分为2个slot，且Normal CP下每个子帧14个symbol。NR中每个子帧的slot个数与子载波间隔有关，但是规定每个slot包含14个symbol (Normal CP)。
+子载波间隔(SCS)
+NR支持5种子载波间隔，6GHz以下频段采用15kHz、30kHz、60kHz三种子载波间隔，而6GHz主要采用120kHz或240kHz子载波间隔。
+
+subframe/slot
+NR以时隙slot为基本粒度。正常CP情况下，每个slot包含14个符号，扩展CP情况下每个slot含有12个符号。
+$\mu$是NR中新定义的一个参数，决定子载波间隔。根据$\mu$的不同，每个子帧的slot个数也会不同。
+Nsubframe,μslot=2uNslotsubframe,μ=2u      N^{subframe,\mu}_{slot} = 2^{u}Nslotsubframe,μ​=2u
+
+Normal CP
+
+
+
+
+
+μμ      \muμ
+NslotsymbNsymbslot      N^{slot}_{symb}Nsymbslot​
+`N^{frame,\mu}_{slot}$
+Nsubframe,μslotNslotsubframe,μ      N^{subframe,\mu}_{slot}Nslotsubframe,μ​
+
+
+
+
+0
+14
+10
+1
+
+
+1
+14
+20
+2
+
+
+2
+14
+40
+4
+
+
+3
+14
+80
+8
+
+
+4
+14
+160
+16
+
+
+
+Extern CP
+
+
+
+
+
+μμ      \muμ
+NslotsymbNsymbslot      N^{slot}_{symb}Nsymbslot​
+Nframe,μslotNslotframe,μ      N^{frame,\mu}_{slot}Nslotframe,μ​
+Nsubframe,μslotNslotsubframe,μ      N^{subframe,\mu}_{slot}Nslotsubframe,μ​
+
+
+
+
+2
+14
+40
+4
+
+
+当子载波间隔变大时，每个symbol的时长也变短，相应的slot的长度也随之变小。15kHz子载波时，slot为1ms；30kHz子载波时，slot为0.5ms。
+
+Slot Format
+3GPP 38.211定义了许多不同的时隙格式。这种概念与传统的LTE TDD子帧配置相识。在NR中一个slot中可以同时包含上下行业务。其中D为下行符号，U为上行符号，X为灵活符号。,,,,,

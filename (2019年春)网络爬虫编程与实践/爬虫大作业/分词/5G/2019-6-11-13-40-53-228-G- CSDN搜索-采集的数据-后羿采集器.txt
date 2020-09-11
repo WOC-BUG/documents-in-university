@@ -1,0 +1,81 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 系统/a -/w 核心/n 网架/n 构/ng 、/w 三个/n 核心/n 功能/n 单元/n ,/w 5/m G/m 核心/n 网/n 采用/v 了/dg SBA/en 架构/n （/w Service/en Based/en Architecture/en ）/w ，/w 基于/p 服务/v 的/u 设计理念/n ，/w 将/d 4G/n 原有/v 网/n 元/q 功能/n 拆分/v ，/w 形成/v 网络/n 上/f 的/u 各个/r 服务/v 提供者/n 。/w 使用/v 这些/r 服务/v 的/u 功能/n 体/k 称为/v 消费者/n 。/w 核心/n 网/n 控制/v 面/a 各个/r 功能/n 之间/f 采用/v http2.0/url 协议/n 。/w nn/en 核心/n 功能/n 块/q 有/v 三个/n ，/w AMF/en ,/w SMF/en ,/w UPF/en 。/w ,/w the/en _/0 dog/en _/0 tail/en _/0 grass/en ,/w https://blog.csdn.net/the_dog_tail_grass/article/details/86735971/url ,/w 2019-02-01/t ,/w 259/m 次/a 阅读/v ,/w 5/m G/m 系统/a -/w 核心/n 网架/n 构/ng 、/w 三个/n 核心/n 功能/n 单元/n -/w the/en _/0 dog/en _/0 tail/en _/0 grass/en 的/u 博客/n ,/w 2019年02月01日 10:00:50/t ,/w 5/m G/m 核心/n 网/n 采用/v 了/dg SBA/en 架构/n （/w Service/en Based/en Architecture/en ）/w ，/w 基于/p 服务/v 的/u 设计理念/n ，/w 将/d 4G/n 原有/v 网/n 元/q 功能/n 拆分/v ，/w 形成/v 网络/n 上/f 的/u 各个/r 服务/v 提供者/n 。/w 使用/v 这些/r 服务/v 的/u 功能/n 体/k 称为/v 消费者/n 。/w 核心/n 网/n 控制/v 面/a 各个/r 功能/n 之间/f 采用/v http2.0/url 协议/n 。/w
+
+核心/n 功能/n 块/q 有/v 三个/n ，/w AMF/en ,/w SMF/en ,/w UPF/en 。/w （/w 分别/d 类似/a 于/ng 4G/n 中/f 的/u MME/en ,/w XGW/en ,/w DP/en ）/w
+
+AMF/en 承载/v 以下/f 主要/b 功能/n ：/w
+
+接入/v 和/c 移动/v 管理/v 功能/n (/w AMF/en )/w 包括/v 以下/f 功能/n 。/w （/w 23502/m  /0 5.2.2/m 章节/n ）/w 在/d AMF/en 的/u 单个/b 实例/n 中/f 可以/a 支持/v 部分/n 或/c 全部/mq AMF/en 功能/n ：/w
+
+终止/v RAN/en CP/n 接口/n (/w N/en 2/m )/w 。/w 该/r 接口/n 协议/n 为/p F/en 1/m AP/en
+终止/v NAS/en (/w N/en 1/m )/w ，/w 提供/v NAS/n 加密/v 和/c 完整性/n 保护/v 。/w
+注册管理/n 。/w
+连接管/nz 理/n 。/w
+可达性/n 管理/v 。/w
+流动性/n 管理/v 。/w
+合法/a 拦截/v (/w 适用/a 于/ng AMF/en 事件/n 和/c LI/n 系统/a 的/u 接口/n )/w 。/w
+为/p UE/en 和/c SMF/en 之间/f 的/u SM/n 消息/n 提供/v 传输/v 。/w
+用于/v 路由/n SM/n 消息/n 的/u 透明/a 代理/v 。/w
+接入/v 身份/n 验证/v 。/w
+接入/v 授权/v 。/w
+在/d UE/en 和/c SMSF/en 之间/f 提供/v SMS/n 消息/n 的/u 传输/v 。/w
+安全/a 锚/n 功能/n (/w SEAF/en )/w 。/w
+监管/v 服务/v 的/u 定位服务/n 管理/v 。/w
+为/p UE/en 和/c LMF/en 之间/f 以及/c RAN/en 和/c LMF/en 之间/f 的/u 位置/n 服务/v 消息/n 提供/v 传输/v 。/w
+用于/v 与/c EPS/n 互通/v 的/u EPS/en 承载/v ID/n 分配/v 。/w
+UE/en 移动/v 事件/n 通知/n 。/w
+无论/c 网络/n 功能/n 的/u 数量/n 如何/r ，/w UE/en 和/c CN/n 之间/f 的/u 每个/r 接入网/n 络/ng 只有/c 一个/mq NAS/n 接口/n 实例/n ，/w 终止/v 于/ng 至少/d 实现/v NAS/n 安全性/n 和/c 移动性/n 管理/v 的/u 网络/n 功能/n 之一/r 。/w
+
+除了/p 上述/b AMF/en 的/u 功能/n 之外/f ，/w AMF/en 还/d 可以/a 包括/v 以下/f 功能/n 以/p 支持/v 非/d 3/m GPP/en 接入网/n 络/ng ：/w
+
+支持/v N/en 2/m 接口/n 与/c N/en 3/m IWF/n 。/w 在/d 该/r 接口/n 上/f ，/w 可以/a 不/d 应用/v 通过/p 3/m GPP/en 接入/v 定义/n 的/u 一些/mq 信息/n (/w 例如/v ，/w 3/m GPP/en 小区/ny 标识/n )/w 和/c 过程/n (/w 例如/v ，/w 与/c 切换/v 相关/v )/w ，/w 并且/c 可以/a 应用/v 不适/a 用于/v 3/m GPP/en 接入/v 的/u 非/d 3/m GPP/en 接入/v 特定/b 信息/n 。/w
+通过/p N/en 3/m IWF/n 上/f 的/u UE/en 支持/v NAS/n 信令/n 。/w 由/p 3/m GPP/en 接入/v 上/f 的/u NAS/n 信令/n 支持/v 的/u 一些/mq 过程/n 可能/a 不适/a 用于/v 不可/v 信/n 的/u 非/d 3/m GPP/en (/w 例如/v 寻呼/v )/w 接入/v 。/w
+支持/v 通过/p N/en 3/m IWF/n 连接/v 的/u UE/en 的/u 认证/v 。/w
+管理/v 通过/p 非/d 3/m GPP/en 接入/v 连接/v 或/c 通过/p 3/m GPP/en 和/c 非/d 3/m GPP/en 同时/c 连接/v 的/u UE/en 的/u 移动性/n ，/w 认证/v 和/c 单独/b 的/u 安全/a 上下文/n 状态/n 。/w
+支持/v 协调/v 的/u RM/n 管理/v 上下文/n ，/w 该/r 上下文/n 对/a 3/m GPP/en 和/c 非/d 3/m GPP/en 访问/v 有效/a 。/w
+支持/v 针对/v UE/en 的/u 专用/v CM/n 管理/v 上下文/n ，/w 用于/v 通过/p 非/d 3/m GPP/en 接入/v 进行/v 连接/v 。/w
+注意/v ：/w 并非/d 所有/b 功能/n 都/d 需要/n 在/d 网络/n 片/n 的/u 实例/n 中/f 得到/v 支持/v 。/w
+
+/0
+
+会话/v 管理/v 功能/n (/w SMF/en )/w 承载/v 以下/f 主要/b 功能/n
+
+会话/v 管理/v 功能/n (/w SMF/en )/w 包括/v 以下/f 功能/n 。/w 在/d SMF/en 的/u 单个/b 实例/n 中/f 可以/a 支持/v 部分/n 或/c 全部/mq SMF/en 功能/n ：/w
+
+会话/v 管理/v ，/w 例如/v 会话/v 建立/v ，/w 修改/v 和/c 释放/v ，/w 包括/v UPF/en 和/c AN/en 节点/n 之间/f 的/u 隧道/ny 维护/v 。/w
+UE/en IP地址/n 分配/v 和/c 管理/v (/w 包括/v 可/v 选/ng 的/u 授权/v )/w 。/w
+DHCPv/en 4/m (/w 服务器/n 和/c 客户端/n )/w 和/c DHCPv/en 6/m (/w 服务器/n 和/c 客户端/n )/w 功能/n 。/w
+ARP/n 代理/v 和/c //w 或/c 以太网/n PDU/en 的/u IPv/en 6/m Neighbor/en Solicitation/en Proxying/en 。/w SMF/en 通过/p 提供/v 与/c 请求/n 中发/j 送/v 的/u IP地址/n 相对/b 应/ng 的/u MAC地址/n 来/u 响应/v ARP/n 和/c //w 或/c IPv6/n 邻居/n 请求/n 代理/v 。/w
+选择/n 和/c 控制/v UP/n 功能/n ，/w 包括/v 控制/v UPF/en 代理/v ARP/n 或/c IPv6/n 邻居/n 发现/v ，/w 或/c 将/d 所有/b ARP/en //w IPv6/n 邻居/n 请求/n 流量/n 转发/v 到/ng SMF/en ，/w 用于/v 以太网/n PDU/en 会话/v 。/w
+配置/n UPF/en 的/u 流量/n 控制/v ，/w 将/d 流量/n 路由/n 到/ng 正确/a 的/u 目的地/n 。/w
+终止/v 接口/n 到/ng 策略/n 控制/v 功能/n 。/w
+合法/a 拦截/v (/w 用于/v SM/n 事件/n 和/c LI/n 系统/a 的/u 接口/n )/w 。/w
+收费/v 数据/n 收集/v 和/c 支持/v 计费/v 接口/n 。/w
+控制/v 和/c 协调/v UPF/en 的/u 收费/v 数据/n 收集/v 。/w
+终止/v NAS/en -/w SM/n 消息/n 。/w
+下行/v 数据/n 通知/n 。/w
+AN/en 特定/b SM/n 信息/n 的/u 发起者/n ，/w 通过/p AMF/en 通过/p N/en 2/m 发送/v 到/ng AN/en 。/w
+确定/a 会话/v 的/u SSC/en 模式/n 。/w
+漫游/v 功能/n ：/w
+
+处理/v 本地/r 实施/v 以/p 应用/v QoS/en SLA/en (/w VPLMN/en )/w 。/w
+计费/v 数据/n 收集/v 和/c 计费/v 接口/n (/w VPLMN/en )/w 。/w
+合法/a 拦截/v (/w 在/d SM/n 事件/n 的/u VPLMN/en 和/c LI/n 系统/a 的/u 接口/n )/w 。/w
+支持/v 与/c 外部/f DN/n 的/u 交互/b ，/w 以便/c 通过/p 外部/f DN/n 传输/v PDU/en 会话/v 授权/v //w 认证/v 的/u 信令/n 。/w
+UPF/en 承载/v 以下/f 主要/b 功能/n
+
+用户/n 平面/n 功能/n (/w UPF/en )/w 包括/v 以下/f 功能/n 。/w 在/d UPF/en 的/u 单个/b 实例/n 中/f 可以/a 支持/v 部分/n 或/c 全部/mq UPF/en 功能/n ：/w
+
+用于/v RAT/en 内/f //w RAT/en 间/f 移动性/n 的/u 锚/n 点/m (/w 适用/a 时/n )/w 。/w
+外部/f PDU/en 与/c 数据网/n 络/ng 互连/v 的/u 会话/v 点/m 。/w
+分组/v 路由/n 和/c 转发/v (/w 例如/v ，/w 支持/v 上行/v 链路/n 分类/v 器/k 以/p 将/d 业务流/n 路由/n 到/ng 数据网/n 络/ng 的/u 实例/n ，/w 支持/v 分支/n 点/m 以/p 支持/v 多/a 宿主/n PDU/en 会话/v )/w 。/w
+数据包/n 检查/v (/w 例如/v ，/w 基于/p 服务/v 数据流/n 模板/n 的/u 应用程序/n 检测/v 以及/c 从/p SMF/en 接收/v 的/u 可/v 选/ng PFD/en )/w 。/w
+用户/n 平面/n 部分/n 策略/n 规则/a 实施/v ，/w 例如/v 门控/nz ，/w 重/a 定向/b ，/w 流量/n 转向/v )/w 。/w
+合法/a 拦截/v (/w UP/n 收集/v )/w 。/w
+流量/n 使用/v 报告/n 。/w
+用户/n 平面/n 的/u QoS/en 处理/v ，/w 例如/v UL/en //w DL/n 速率/n 实施/v ，/w DL/n 中/f 的/u 反射/v QoS/en 标记/n 。/w
+上行/v 链路/n 流量/n 验证/v (/w SDF/en 到/ng QoS/en 流量/n 映射/v )/w 。/w
+上行/v 链路/n 和/c 下行/v 链路/n 中/f 的/u 传输/v 级/n 分组/v 标记/n 。/w
+下行/v 数据包/n 缓冲/v 和/c 下行/v 数据/n 通知/n 触发/v 。/w
+将/d 一个/mq 或/c 多个/n “/w 结束/v 标记/n ”/w 发送/v 和/c 转发/v 到/ng 源/ng NG/en -/w RAN/en 节点/n 。/w
+ARP/n 代理/v 和/c //w 或/c 以太网/n PDU/en 的/u IPv/en 6/m Neighbor/en Solicitation/en Proxying/en 。/w UPF/en 通过/p 提供/v 与/c 请求/n 中发/j 送/v 的/u IP地址/n 相对/b 应/ng 的/u MAC地址/n 来/u 响应/v ARP/n 和/c //w 或/c IPv6/n 邻居/n 请求/n 请求/n 。/w ,/w ,/w ,/w ,/w ,/w

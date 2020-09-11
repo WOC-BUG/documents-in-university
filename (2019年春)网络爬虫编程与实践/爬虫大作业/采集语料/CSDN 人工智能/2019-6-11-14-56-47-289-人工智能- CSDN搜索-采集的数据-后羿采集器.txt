@@ -1,0 +1,20 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/zgb19821982163/article/details/81478425,人工智能主要分为3个层次：弱人工 强人工 超人工,https://blog.csdn.net/zgb19821982163/article/details/81478425,,zgb19821982163,2018-08-07,//blog.csdn.net/zgb19821982163/article/details/81478425,245次阅读,人工智能 - zgb19821982163的博客,2018年08月07日 11:32:23,原        人工智能
+      
+      
+        
+                                                  2018年08月07日 11:32:23
+          zgb19821982163
+          阅读数：246
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            人工智能主要分为3个层次：弱人工 强人工 超人工

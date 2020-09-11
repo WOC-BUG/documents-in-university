@@ -1,0 +1,23 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/fdf321/article/details/45788403,超智能“人工智能” 贾维斯版n经过网上连查阅带抄袭，终于写出一个垃圾O(∩_∩)O~n由于微软太牛逼了，我做的AI超敏感，建议在安静的地方使用，否则会识别错误n使用方法：nn您可以说：“你好”n您可以说：“播放音乐”n您可以说：“识别”n您可以说："打开记事本"，并说“祖国，你好”n或者如果您不满意的话，您可以说“打开开始菜单”，开始您的新体验,并说出您想打开的程序名称,https://blog.csdn.net/fdf321/article/details/45788403,,fdf321,2015-05-17,//blog.csdn.net/fdf321/article/details/45788403,1213次阅读,人工智能 - fdf321的博客,2015年05月17日 13:52:18,原        人工智能
+      
+      
+        
+                                                  2015年05月17日 13:52:18
+          梦初开的地方
+          阅读数：1214
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+
+超智能“人工智能”经过网上连查阅带抄袭，终于写出一个垃圾O(∩_∩)O~由于微软太牛逼了，我做的AI超敏感，建议在安静的地方使用，否则会识别错误使用方法：
+您可以说：“你好”您可以说：“播放音乐”您可以说：“识别”您可以说："打开记事本"，并说“祖国，你好”或者如果您不满意的话，您可以说“打开开始菜单”，开始您的新体验,并说出您想打开的程序名称。该应用程序完全脱离手的操作，只需用嘴便可以操作电脑.硬件要求：CPU:最低4核处理器，主频：3.1Ghz                内存：4G                摄像头：HD720P                系统：windows 7/windows 8环境要求：.net framework 4.5”人工智能“下载地址：http://pan.baidu.com/s/1gdjHfm7库文件下载地址：http://osdn.jp/frs/g_redir.php?m=kent&f=%2Femgucv%2Femgucv%2F2.4.10%2Flibemgucv-windows-universal-cuda-2.4.10.1940.exe环境文件下载：http://www.microsoft.com/zh-cn/download/details.aspx?id=30653

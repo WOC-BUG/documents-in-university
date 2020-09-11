@@ -1,0 +1,52 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/gumingyaotangwei/article/details/7411644,rnrnrn2.记忆(当前的人工智能情况)rn    存放人工智能状态rnrn3.分析,https://blog.csdn.net/gumingyaotangwei/article/details/7411644,,gumingyaotangwei,2012-03-30,//blog.csdn.net/gumingyaotangwei/article/details/7411644,716次阅读,人工智能 - gumingyaotangwei 的专栏,2012年03月30日 15:28:57,原        人工智能
+      
+      
+        
+                                                  2012年03月30日 15:28:57
+          lurenceGu
+          阅读数：717
+          
+                          
+                标签：
+                                  游戏                                  
+              更多
+                                      
+                个人分类：
+                                  算法-数据结构                                    人工智能(AI)                                  
+              
+                                          
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+1.感知系统（当前所能收集的信息）
+FPS：
+    玩家在哪里？，在看哪里？
+    周围的几何情况如何？
+    彼此使用的武器？
+RTS：
+地图每个分区的力量平衡如何？
+    每种资源拥有多少？
+    单位有哪些类型?
+    在技术树中的地位如何？
+    游戏世界的几何情况如何？
+
+
+2.记忆(当前的人工智能情况)
+    存放人工智能状态
+
+3.分析/推理(通过收集的条件运算出一个决策)
+    将综合数据进行处理，决策
+
+4.动作输出(执行决策结果)
+    最终的人工智能结果执行
+
+就是通过条件和历史数据来决策 agent （主体） 的下一步行为

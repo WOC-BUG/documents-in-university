@@ -1,0 +1,102 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+全球/n 5/m G/m 专利/n 能力/n 榜/n T/en 0/m P/en 15/m 出炉/v ：/w 谁/r 是/v 冠军/n ？/w ,/w 在/d 5/m G/m 即将/d 商用/b 的/u 关口/n ，/w 今年/t ，/w 世界电信日/nz 的/u 主题/n 定调/v 为/p “/w 缩小/v 标准化/v 差距/n ”/w 。/w nnnn/en 实际上/d ，/w 标准/a 专利/n 对/a 通信技术/n 发展/v 起/q 着/n 至关重要/la 的/u 作用/n ，/w 它/r 不仅/c 是/v 通信技术/n 发展/v 的/u 基石/n ，/w 也/d 是/v 企业/n 竞争/v 和/c 盈利/n 的/u 关键/a 。/w nnnn/en 从/p 1G/n 、/w 2G/n 时代/n ……/w 到/ng 如今/t ，/w 高通/nz 、/w 爱立信/nz 、/w 诺基亚/nz 这些/r 国外/s 企业/n 凭借着/p 核心/n 专利/n 赚/v 得/e 盆满钵满/la 。/w 因此/c ，/w 即使/c 爱立信/nz 、/w 诺基亚/nz 在/d 经历/n 市场/ny 寒冬/t ，/w 但/c 依然/d 在/d “/w 捂/v 紧/a 口袋/n ”/w 的/u 同时/c ，/w 加大/v 研发/v 投入/a 。/w ,/w weixin/en _/0 42625444/m ,/w https://blog.csdn.net/weixin_42625444/article/details/90598042/url ,/w 2019-05-27/t ,/w 14/m 次/a 阅读/v ,/w 全球/n 5/m G/m 专利/n 能力/n 榜/n T/en 0/m P/en 15/m 出炉/v ：/w 谁/r 是/v 冠军/n ？/w -/w 关注/v 【/w 电子/n 开发/v 圈/n 】/w 微信公众号/ln ，/w 获取/v 海量/n 电子/n 设计/v 学习资料/n ,/w 2019年05月27日 09:46:46/t ,/w 在/d 5/m G/m 即将/d 商用/b 的/u 关口/n ，/w 今年/t ，/w 世界电信日/nz 的/u 主题/n 定调/v 为/p “/w 缩小/v 标准化/v 差距/n ”/w 。/w
+
+/0
+
+实际上/d ，/w 标准/a 专利/n 对/a 通信技术/n 发展/v 起/q 着/n 至关重要/la 的/u 作用/n ，/w 它/r 不仅/c 是/v 通信技术/n 发展/v 的/u 基石/n ，/w 也/d 是/v 企业/n 竞争/v 和/c 盈利/n 的/u 关键/a 。/w
+
+/0
+
+从/p 1G/n 、/w 2G/n 时代/n ……/w 到/ng 如今/t ，/w 高通/nz 、/w 爱立信/nz 、/w 诺基亚/nz 这些/r 国外/s 企业/n 凭借着/p 核心/n 专利/n 赚/v 得/e 盆满钵满/la 。/w 因此/c ，/w 即使/c 爱立信/nz 、/w 诺基亚/nz 在/d 经历/n 市场/ny 寒冬/t ，/w 但/c 依然/d 在/d “/w 捂/v 紧/a 口袋/n ”/w 的/u 同时/c ，/w 加大/v 研发/v 投入/a 。/w
+
+/0
+
+与此同时/ldm ，/w 一/m 拨/q 儿/k 相对/b “/w 年轻/a ”/w 的/u 中国企业/n 正在/n 朝着/p “/w 百年/m 老店/n ”/w 追赶/v 。/w 华为/nz 、/w 中兴/nz 、/w 中国/ns 信/n 科/n 、/w OPPO/en 、/w 小米/n 等/ng 企业/n 在/d 3/m GPP/en 等/ng 国际标准/n 组织/n 中/f 话语权/n 逐渐/d 增强/v ，/w 标准/a 能力/n 显/v 着/n 提升/v 。/w
+
+/0
+
+那么/c ，/w 谁/r 是/v 全球/n 5/m G/m 专利/n 冠军/n ？/w 在/d 第/m 50/m 个/q 世界/n 电信/n 和信/nz 息/ng 社会/n 日前/t 夕/tg ，/w 《/w 通信/v 产业/n 报/n 》/w （/w 网/n ）/w 全媒体根/nr 据/ng 5/m G/m 标准/a 必要/a 专利/n 数量/n 、/w 2018年/t 研发/v 投入/a 、/w 5/m G/m 标准/a 贡献/n 能力/n 等/ng 四/m 个/q 关键/a 指标/n ，/w 评选/v 出/q 全球/n 5/m G/m 专利/n 能力/n 榜/n T/en 0/m P/en 15/m 。/w
+
+/0
+
+
+
+
+
+/0
+
+中国/ns 5/m G/m 标准/a 要/v 专利/n 领先/v
+
+/0
+
+专利/n 不能/v 仅仅/d 看/u 数量/n 而是/n 要/v 比/p 质量/n ，/w 标准/a 必要/a 专利/n （/w SEP/en ，/w Standards/en -/w Essential/en Patents/en ）/w 一直/d 是/v 业内/b 衡量/v 专利/n 含金量/n 的/u “/w 刻度尺/n ”/w 。/w 拥有/v SEP/en 的/u 企业/n 不仅/c 能够/v 以此/d 收费/v ，/w 还/d 能/ng 通过/p 交叉/v 授权/v 模式/n ，/w 使用/v 友/ag 商/n 的/u 专利/n ，/w 这样/r 便/ag 能够/v 大幅/a 减少/v 产品/n 研发/v 成本/n ，/w 提高/v 利润/n ，/w 增强/v 市场/ny 竞争力/n 。/w
+
+/0
+
+根据/n 国际/n 权威/a 专利/n 数据统计/n 公司/nc 德国/ns IPlytics/en 发布/v 的/u 《/w 谁/r 领跑/v 5/m G/m 专利/n ？/w 》/w 报告/n 显示/v ，/w 截至/v 今年4月/t ，/w 全球/n 5/m G/en  /0 标准/a 必要/a 专利/n 总量/n 约/d 6万/m 多/a 件/ng ，/w 中国企业/n 申请/n 的/u 5/m G/m 标准/a 必要/a 专利/n 数/m 约/d 占/ng 35%/m ，/w 华为/nz 以/p 15%/m 的/u 占比/n ，/w 名列/v 第一/m 。/w
+
+/0
+
+具体来说/c ，/w 在/d 5/m G/m 标准/a 必要/a 专利/n 族/ng 排行/n 上/f ，/w 排名/n 前/f 15/m 名/n 的/u 企业/n 依次/d 为/p ：/w 华为/nz （/w 1554/m 件/ng ）/w 、/w 诺基亚/nz （/w 1427/m 件/ng ）/w 、/w 三星/nz （/w 1316/m 件/ng ）/w 、/w LG/n （/w 1274/m 件/ng ）/w 、/w 中兴/nz （/w 1208/m 件/ng ）/w 、/w 高通/nz （/w 846/m 件/ng ）/w 、/w 爱立信/nz （/w 819/m 件/ng ）/w 、/w 英特尔/nz （/w 551/m 件/ng ）/w 、/w 中国/ns 信/n 科/n （/w 545/m 件/ng ）/w 、/w 夏普/nz （/w 468/m 件/ng ）/w 、/w OPPO/en （/w 207/m 件/ng ）/w 、/w 富士通/nz （/w 20/m 件/ng ）/w 、/w Inter/en Digital/en （/w 18/m 件/ng ）/w 、/w 索尼/nz （/w 14/m 件/ng ）/w 、/w 联发科/nz （/w 13/m 件/ng ）/w 、/w 苹果/n （/w 12/m 件/ng ）/w 。/w
+
+/0
+
+
+
+/0
+
+专利/n 背后/f 是/v 研发/v
+
+/0
+
+标准/a 专利/n 的/u 领先/v 离不开/v 巨大/a 的/u 研发/v 投入/a ，/w 而/c 这是/n 个/q 从量/nz 变/v 到/ng 质变/n 的/u 积累/n 过程/n 。/w 因此/c ，/w 信息/n 通信/v 标准/a 专利/n 能力/n 榜/n 将/d 公司/nc 对/a 研发/v 费用/n 的/u 投入/a ，/w 作为/n 重要/a 的/u 衡量/v 指标/n 。/w
+
+/0
+
+根据/n 已/d 披露/v 的/u 2018年/t 财报/n 数据/n 和/c 厂商/n 官方/n 公布/v 的/u 信息/n ，/w 排名/n 前列/n 的/u 企业/n 分别/d 为/p 华为/nz 、/w 三星电子/nt 、/w 英特尔/nz 、/w 高通/nz 、/w 诺基亚/nz 、/w 爱立信/nz 、/w 中兴/nz 。/w
+
+/0
+
+具体来说/c ，/w 华为/nz 研发/v 费用/n 为/p 1015亿/m 元/q ，/w 占/ng 销售/v 收入/n 比重/n 14.1%/m ；/w 三星电子/nt 研发/v 费用/n 约/d 为/p 18万亿/m 韩元/n （/w 折合/v 约/d 1062亿/m 元/q ）/w ；/w 英特尔/nz 研发/v 投入/a 为/p 135.43亿/m 美元/n （/w 折合/v 约/d 924.39亿/m 元/q ）/w ，/w 同比/d 增长/v 3.9%/m ；/w 高通/nz 研发/v 投入/a 56.25亿/m 美元/n （/w 折合/v 约/d 383.94亿/m 元/q ）/w ，/w 同比/d 增长/v 2.55%/m ；/w 诺基亚/nz 研发/v 投入/a 为/p 46.2亿/m 欧元/n （/w 折合/v 约/d 353.85亿/m 元/q ）/w ，/w 同比/d 下滑/v 6.02%/m ；/w 爱立信/nz 研发/v 投入/a 为/p 389.09亿/m 瑞典克朗/n （/w 折合/v 约/d 275.23亿/m 元/q ）/w ，/w 同比/d 提升/v 2.7%/m ；/w 中兴通讯/nt 研发/v 投入/a 为/p 109.1亿/m 元/q ，/w 占/ng 营业/v 收入/n 的/u 12.8%/m ，/w 同比/d 增长/v 0.9%/m 。/w
+
+/0
+
+在/d 终端/n 领域/n ，/w OPPO/en 和/c 小米/n 可以/a 说是/n 活跃/a 在/d 智能终端/n 市场/ny 的/u 领先/v 品牌/n ，/w 同时/c 在/d 逐渐/d 在/d 国际标准/n 组织/n 中/f 崭露头角/iv 。/w 在/d 2018年/t ，/w 小米/n 的/u 研发/v 投入/a 为/p 57.77亿/m 元/q ；/w OPPO/en 的/u 研发/v 费用/n 为/p 40亿/m 元/q ，/w 而/c 2019年/t OPPO/en 计划/n 加大/v 至/d 100亿/m 元/q 。/w
+
+
+
+/0
+
+专利/n 不是/n 壁垒/n 是/v 分享/v
+
+/0
+
+除/ng 标准/a 必要/a 专利/n 数量/n 和/c 研发/v 投入/a 之外/f ，/w 对/a 标准/a 专利/n 的/u 贡献/n 和/c 专利/n 发展/v 潜力/n 也/d 是/v 榜单/n 的/u 重要/a 参考/v 依据/n 。/w
+
+/0
+
+对/a 标准/a 专利/n 的/u 贡献/n ，/w 要/v 靠/ng 两/m 方面/n 来/u 衡量/v 。/w 一方面/ldm 要/v 依靠/n 参与/v 国际标准/n 制定/v 的/u 活跃/a 度/k ，/w 另一方面/ldm 也/d 要/v 以/p 是否/v 提供/v 公平合理/l 的/u 收费/v 模式/n 来/u 判断/n 。/w
+
+/0
+
+从/p 参与/v 国际标准/n 制定/v 的/u 活跃/a 度/k 来看/u ，/w IPlytics/en 依据/n 参加/v 5/m G/m 标准/a 会议/nh 的/u 工程师/nx 人数/n 和/c 频率/n ，/w 对/a 5/m G/m 专利/n 贡献/n 进行/v 排名/n 。/w 排名/n 前/f 15/m 位/q 的/u 企业/n 依次/d 为/p ：/w 华为/nz 、/w 爱立信/nz 、/w 诺基亚/nz 、/w 高通/nz 、/w 三星/nz 、/w 中兴通讯/nt 、/w 英特尔/nz 、/w LG/n 、/w 中国移动/nt 、/w 中国/ns 信/n 科/n 、/w NTT/en domoco/en 、/w 联发科/nz 、/w NEC/n 、/w Orange/en 、/w 电子/n 通信/v 研究院/nc （/w 韩国/ns ）/w 。/w
+
+/0
+
+实际上/d ，/w 只有/c 公正/a 、/w 合理/a 的/u 专利/n 收费/v 模式/n ，/w 打破/v 技术/n 壁垒/n ，/w 才/d 是/v 真正/b 为/p 通信技术/n 发展/v 做/v 贡献/n 。/w 而/c 这/r 绕/v 不/d 开业/v 界/k 最/d 关心/v 的/u 专利/n 收费/v 问题/n 。/w
+
+/0
+
+目前/t ，/w 高通/nz 、/w 爱立信/nz 、/w 诺基亚/nz 均/ag 公布/v 其/r 5/m G/m 专利/n 收费标准/n ,/w 且/c 基本/a 延续/v 4G/n 时代/n 的/u 模式/n 。/w
+
+/0
+
+具体来说/c ，/w 使用/v 高通/nz 的/u 核心/n 专利/n ，/w 且/c 只/bg 支持/v 5/m G/m 手机/np ，/w 将/d 会/n 按照/p 终端/n 价格/n 2.275%/m 收取/v 专利费/n ，/w 若/c 支持/v 3G/n 、/w 4G/n 、/w 5/m G/m 手机/np ，/w 将/d 会/n 收取/v 3.25%/m 专利费/n 用/ng ;/w 使用/v 高通/nz 核心/n 专利/n 加/ng 非核心/b 专利/n ，/w 只/bg 支持/v 5/m G/m 的/u 手机/np ，/w 将/d 会/n 收取/v 4%/m 专利费/n 用/ng ，/w 若/c 要/v 支持/v 3G/n 、/w 4G/n 、/w 5/m G/m 手机/np ，/w 将/d 会/n 收取/v 5%/m 专利费/n 用/ng ；/w 诺基亚/nz 计划/n 每部/r 使用/v 其/r 5/m G/m 专利/n 的/u 设备/n 给/v 公司/nc 带来/v 3/m 欧元/n (/w 折合/v 约/d 3.47/m 美元/n )/w 收入/n ；/w 爱立信/nz 对/a 高端/n 手持/v 设备/n 最高/a 收取/v 每部/r 5/m 美元/n 专利费/n ，/w 对/a 低端/n 手持/v 设备/n 设立/v 最低/a 每部/r 2.5/m 美元/n 授权/v 专利费/n 用/ng 。/w
+
+/0
+
+中国企业/n 尚未/d 公布/v 专利/n 收费标准/n 。/w 中国移动/nt 此前/r 表示/v 不/d 收/v 专利费/n ，/w 不/d 设/v 技术/n 壁垒/n ；/w 中国/ns 信/n 科/n 表示/v ，/w 做/v 专利/n 的/u 首要/b 价值/n 是/v 实现/v 自由/a 的/u 进入/v 国际/n 市场/ny 。/w 因为/c ，/w 通信行业/n 的/u 专利/n 是/v 交叉/v 许可/v 的/u ，/w 企业/n 拥有/v 核心/n 专利/n 相当于/v 有/v “/w 保护伞/n ”/w ，/w 可以/a 在/d 同一/b 起跑线/n 与/c 友/ag 商/n 竞技/n ；/w 华为/nz 曾/d 宣布/v ，/w 未来/t 将/d 在/d 专利/n 许可/v 活动/n 中/f 严格/a 遵守/v FRAND/en ，/w 即/c 公平/a 、/w 合理/a 、/w 无/v 歧视/v 原则/n 。/w
+
+/0
+
+综上/ldm ，/w 上榜/v 企业/n 总体/n 以/p 5/m G/m 标准/a 必要/a 专利/n 数量/n 和/c 2018年/t 研发/v 投入/a 为主/v ，/w 但/c 也/d 有/v 中国移动/nt 、/w 中国/ns 信/n 科/n 、/w 小米/n 、/w OPPO/en 等/ng 企业/n 以/p 5/m G/m 专利/n 贡献/n 力/n 和/c 专利/n 标准/a 发展/v 潜力/n 上榜/v 。/w 希望/n “/w 信息/n 通信/v 标准/a 专利/n 能力/n 榜/n T/en 0/m P/en 15/m ”/w 能够/v 促进/v 通信/v 专利/n 良性/b 发展/v ，/w 缩小/v 标准化/v 差距/n 。/w ,/w ,/w ,/w ,/w ,/w

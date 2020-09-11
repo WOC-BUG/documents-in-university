@@ -1,0 +1,22 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en ,/w 今天/t 在/d 部门/n 内部/f 面试/v 的/u 时候/n ，/w 被/ng 领导/n 提问/v 5/m G/m 的/u 优势/n 有/v 哪些/r ，/w 只/bg 说出/v 来/u 比/p 4G/n 更快/n ，/w 然而/c 并/c 不能/v 得到/v 领导/n 和/c 自己/r 的/u 满意/v ，/w 自己/r 上网/v 查/ng 了/dg 一下/d ，/w 记录/n 下来/v 几点/t ：/w nn/en 1/m 、/w 2018年12月7日/t ，/w 工业和信息化部/nt 许可/v 中国电信/nt 、/w 中国移动/nt 、/w 中国联通/nt 三家/nz 运营商/n 进行/v 5/m G/m 试验/v ，/w 其中/r 中国联通/nt 获得/v 3500/m MHz/en ~/w 3600/m MHz/q 共/d 100/m MHz/q 带宽/n 的/u 5/m G/m 试验/v 频率/n 资源/n ；/w 中国电信/nt 获得/v 3400/m MHz/en -3500/m MHz/q 共/d 100/m MHz/q 带宽/n 的/u 5/m G/m 试验/v 频率/n 资源/n .../m ,/w q/en 512750671/m ,/w https://blog.csdn.net/q512750671/article/details/90760836/url ,/w 2019-06-03/t ,/w 44/m 次/a 阅读/v ,/w 5/m G/en -/w 哈利/nr 路亚/nz 的/u 博客/n ,/w 2019年06月03日 23:30:44/t ,/w 今天/t 在/d 部门/n 内部/f 面试/v 的/u 时候/n ，/w 被/ng 领导/n 提问/v 5/m G/m 的/u 优势/n 有/v 哪些/r ，/w 只/bg 说出/v 来/u 比/p 4G/n 更快/n ，/w 然而/c 并/c 不能/v 得到/v 领导/n 和/c 自己/r 的/u 满意/v ，/w 自己/r 上网/v 查/ng 了/dg 一下/d ，/w 记录/n 下来/v 几点/t ：/w
+
+1/m 、/w 2018年12月7日/t ，/w 工业和信息化部/nt 许可/v 中国电信/nt 、/w 中国移动/nt 、/w 中国联通/nt 三家/nz 运营商/n 进行/v 5/m G/m 试验/v ，/w 其中/r 中国联通/nt 获得/v 3500/m MHz/en ~/w 3600/m MHz/q 共/d 100/m MHz/q 带宽/n 的/u 5/m G/m 试验/v 频率/n 资源/n ；/w 中国电信/nt 获得/v 3400/m MHz/en -3500/m MHz/q 共/d 100/m MHz/q 带宽/n 的/u 5/m G/m 试验/v 频率/n 资源/n ；/w 中国移动/nt 获得/v 2515/m MHz/en ~/w 2675/m MHz/q 、/w 4800/m MHz/en ~/w 4900/m MHz/q 频段/n 的/u 5/m G/m 试验/v 频率/n 资源/n 。/w
+
+2/m 、/w 通信/v 主要/b 依靠/n 于/ng 电磁波/n ，/w 现在/t 的/u 网络处/nc 在/d 较/d 低/a 的/u 频段/n ，/w 优点/n 是/v 性能/n 比较/d 好/a ，/w 可以/a 达到/v 很/d 好/a 的/u 覆盖/v ，/w 而/c 5/m G/m 利用/v 的/u 是/v 高频/b 段/n ，/w 正好/a 可以/a 把/p 高频/b 率/ag 的/u 闲置/v 资源/n 利用/v 起来/v 。/w 频率/n 越/d 高/a ，/w 速度/n 也/d 越来越/d 快/a ，/w 5/m G/m 速度/n 比/p 4G/n 提高/v 100/m 倍/d 左右/f 。/w
+
+3/m 、/w 从/p 时延/j 性/k 上来/v 说/ag ，/w 5/m G/m 的/u 时延/j 时间/n 大大/a 降低/v ，/w 这/r 对于/p 很多/mq 实时/d 应用/v 的/u 影响/v 很大/a ，/w 比如说/ldm 游戏/n 、/w 视频/n 和数/n 据/ng 电话/np 、/w 自动/b 驾驶/v 等等/u 。/w 5/m G/m 每/r 平方千米/q 的/u 最大/a 连接/v 数/m 也/d 是/v 4G/n 的/u 一百/j 倍/d ，/w 支持/v 的/u 最高/a 移动/v 速度/n 是/v 1.5/m 倍/d 。/w
+
+4/m 、/w 5/m G/m 还有/v 一个/mq 变化/v ，/w 就是/n 传输/v 路径/n 的/u 变化/v 。/w 以往/t 我们/r 打电话/v 或者/c 传/ng 照片/n ，/w 信号/n 都/d 要/v 通过/p 基站/n 进行/v 中转/v ，/w 但是/c 5/m G/m 之后/f ，/w 设备/n 和/c 设备/n 之间/f 就/d 可以/a 直接/a 进行/v 传输/v ，/w 不/d 需要/n 再/d 通过/p 基站/n 。/w
+
+总之/c ，/w 5/m G/m 在/d 速率/n ，/w 连接/v 数/m ，/w 时延/j 性/k 等/ng 方面/n 都/d 比/p 现在/t 的/u 网络/n 环境/n 好/a 太/ag 多/a 。/w 具体/a 应用/v 场景/n 有/v 以下/f
+
+在/d 大数据/n 方面/n ，/w 高速/b 率/ag 对于/p 云技术/n 来说/u 是/v 很/d 重要/a 的/u ，/w 未来/t 数据/n 都/d 上传/v 云端/n ，/w 实现/v 共享/v ，/w 统一/a 管理/v ，/w 节约/v 资源/n ，/w 在/d 企业/n 上/f 云/n ，/w 政务/n 云/n 等/ng 方面/n 具有/v 重大/a 意义/n 。/w
+
+在/d 物联网/n 方面/n ，/w 与/c 云计算/n 一样/a ，/w 都/d 具有/v 速率/n 和/c 容量/n 的/u 要求/n ，/w 5/m G/m 发展/v 后/f ，/w 物联网/n 终端设备/n 也/d 会/n 发生/v 相应/v 的/u 变化/v ，/w 智慧城市/ln 、/w 智慧/n 家居/n 、/w 物流/n 等等/u 方面/n 也/d 会/n 更加/d 智能/n 。/w
+
+以及/c 无人/b 驾驶/v 和/c VR/n 之类/r 对/a 时延/j 性/k 要求/n 特别/a 高/a 的/u 技术/n ，/w 也/d 会/n 有/v 突破/v 。/w
+
+/0
+
+5/m G/m 并/c 不是/n 完美/a 的/u ，/w 因为/c 使用/v 的/u 是/v 毫米波/n ，/w 毫米波/n 具备/v 高速/b 率/ag 和/c 高/a 带宽/n 的/u 特性/n ，/w 但/c 却/d 存在/v 损耗/n 大和/nz 传输/v 距离/n 短/a 的/u 弊端/n ，/w 且/c 相应/v 设备/n 造价/n 较/d 高/a 。/w 5/m G网/n 络/ng 将/d 更加/d 依赖/v 小/a 基站/n 和/c 高密/a 度/k 的/u 铺设/v ，/w 其/r 难度/n 和成/nz 本/d 也/d 将/d 因此/c 提升/v 。/w ,/w ,/w ,/w ,/w ,/w

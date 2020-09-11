@@ -1,0 +1,34 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_34192816/article/details/87715391/url ,/w n/en n/en n/en 人工智能/n 可以/a 为/p 软件/n 赋予/v 决策/n 能力/n 。/w 软件/n 之所以/c 越来越/d 擅长/v 决策/n ，/w 是/v 因为/c 机器/np 学习/v 工具/n 越来越/d 擅长/v 预测/v 结果/c ，/w 使用/v 起来/v 也/d 越来越/d 简单/a 。/w 在/d 受限/v 而/c 明确/a 的/u 背景/n 下/f （/w 例如/v ，/w 很多/mq 工作/n 环境/n 中/f ）/w 这/r 类/n 软件/n 的/u 决策/n 能力/n 会/n 超过/v 人类/n 。/w 这/r 就是/n 人工智能/n 。/w 跟/c 其他/r 优秀/a 的/u 机器/np 一样/a ，/w 它/r 能/ng 帮助/v 你/r 更好/d 地/n 完成/v 更多/n 工作/n 。/w nnnnnn/en 明白/a 这/r 一点/mq 后/f ，/w 你/r 现在/t 又/d 该/r 做/v 哪些/r 准备/v ，/w 来/u 充分/a 利用/v 人工智能/n 技术/n ？/w ,/w https://blog.csdn.net/weixin_34192816/article/details/87715391/url ,/w ,/w weixin/en _/0 34192816/m ,/w 2017-08-07/t ,/w //blog.csdn.net/weixin_34192816/article/details/87715391/url ,/w 34/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 34192816/m 的/u 博客/n ,/w 2017年08月07日 10:53:00/t ,/w 原/b 人工智能/n
+
+
+
+2017年08月07日 10:53:00/t
+weixin/en _/0 34192816/m
+阅读/v 数/m ：/w 35/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n 可以/a 为/p 软件/n 赋予/v 决策/n 能力/n 。/w 软件/n 之所以/c 越来越/d 擅长/v 决策/n ，/w 是/v 因为/c 机器/np 学习/v 工具/n 越来越/d 擅长/v 预测/v 结果/c ，/w 使用/v 起来/v 也/d 越来越/d 简单/a 。/w 在/d 受限/v 而/c 明确/a 的/u 背景/n 下/f （/w 例如/v ，/w 很多/mq 工作/n 环境/n 中/f ）/w 这/r 类/n 软件/n 的/u 决策/n 能力/n 会/n 超过/v 人类/n 。/w 这/r 就是/n 人工智能/n 。/w 跟/c 其他/r 优秀/a 的/u 机器/np 一样/a ，/w 它/r 能/ng 帮助/v 你/r 更好/d 地/n 完成/v 更多/n 工作/n 。/w
+
+
+
+
+
+明白/a 这/r 一点/mq 后/f ，/w 你/r 现在/t 又/d 该/r 做/v 哪些/r 准备/v ，/w 来/u 充分/a 利用/v 人工智能/n 技术/n ？/w 以下/f 是/v 所有/b 公司/nc 都/d 应/ng 可以/a 做到/v 的/u ，/w 3/m 件/ng 简单/a 的/u 事情/n ：/w 1./m 了解/v 自己/r 的/u 流程/n 人工智能/n 依赖/v 明确/a 的/u 指令/n 和/c 海量/n 数据/n 。/w 作为/n 一家/n 公司/nc ，/w 你/r 需要/n 明确/a 理解/v 你/r 自己/r 所/n 做/v 的/u 事情/n ，/w 以及/c 你/r 制定/v 决策/n 时/n 使用/v 哪些/r 数据/n 。/w 我/r 的/u 意思/n 是/v 让/v 你/r 尽可能/d 明确/a 地/n 把/p 这些/r 内容/n 写下/v 来/u 。/w 例如/v ：/w “/w 要/v 决定/n Y/en 流程/n 中/f 的/u X/m 步骤/n 怎么/r 做/v ，/w 我们/r 需要/n 知道/v Z/en 的/u 价值/n ，/w 将/d 它/r 与/c K/n 进行/v 比较/d ，/w 然后/c 根据/n K/n 和/c Z/en 谁/r 大/a 谁/r 小/a 来/u 作出/v 决定/n 。/w ”/w 恭喜/v 你/r ！/w 如果/c 能够/v 明确/a 到/ng 这种/r 程度/n ，/w 你/r 就/d 可以/a 将/d 这项/r 任务/n 交给/v 机器/np 了/dg 。/w 2./m 妥善/a 保存/v 数据/n 我们/r 有的/r 时候/n 并/c 不知/v 道/n 决策/n 过程/n 的/u 哪些/r 步骤/n 产生/v 了/dg 理想/a 的/u 结果/c 。/w 幸运/a 的/u 是/v ，/w 我们/r 可以/a 将/d 数据/n 提供/v 给/v 算法/n ，/w 找出/v 这些/r 隐藏/v 的/u 模式/n 。/w 现在/t 看来/v ，/w 训练/v 神经网络/n 解决/v 问题/n 距离/n 你/r 的/u 组织/n 似乎/d 有些/r 遥远/a 。/w 但/c 这/r 一/m 天/n 终将/d 到来/v 。/w 当/ag 这/r 一/m 天/n 到来/v 时/n ，/w 机器/np 学习/v 顾问/n Joanne/en 提出/v 的/u 第一/m 个/q 问题/n 是/v ：/w “/w 我们/r 能/ng 从/p 哪里/r 获取/v Y/en 流程/n 过去/t 5/m 年/n 的/u 数据/n ？/w ”/w 如果/c 你/r 能/ng 为/p 其/r 提供/v 经过/p 妥善/a 保存/v 和/c 注释/n 的/u 数据/n ，/w Joanne/en 会/n 很/d 高兴/a ，/w Joanne/en 的/u 收费/v 也/d 会/n 大幅/a 降低/v 。/w
+
+
+
+
+
+现在/t 应该/v 投资/n 理解/v 自己/r 的/u 数据流/n ，/w 并/c 对数/n 据/ng 进行/v 保存/v ，/w 以便/c 在/d 不远/a 的/u 将来/t 有效/a 地/n 加以/v 重复/v 利用/v 。/w 3./m 现在/t 就/d 开始/v 使用人/n 工智/nz 能/ng 不/d ，/w 我/r 不是/n 说/ag 要/v 花/a 高薪/n 招聘/v 博士/nx ，/w 而是/n 要/v 利用/v 正在/n 努力/a 开发/v 人工智能/n 技术/n 的/u 公司/nc 提供/v 的/u 各种/r 工具/n 来/u 解决/v 问题/n 。/w 目前/t 有数/a 百/m 种/ng 方案/n 可以/a 为/p 你/r 自动/b 完成/v 各种/r 任务/n 。/w 必须/d 逐渐/d 适应/v 这种/r 现状/n ，/w 明白/a 将/d 有/v 越来越/d 多/a 的/u 工作/n 可以/a 由/p 机器/np 来/u 代替/v ，/w 然后/c 寻找/v 这些/r 解决方案/n 。/w 想要/v 完成/v 这/r 一/m 目标/n ，/w 一半/m 的/u 困难/a 在于/v 明白/a 你/r 可以/a 寻找/v 这样/r 的/u 工具/n 。/w 这/r 可以/a 帮助/v 你/r 更加/d 清晰/a 地/n 思考/v 自己/r 公司/nc 内部/f 有/v 哪些/r 事情/n 也/d 可以/a 实现/v 自动化/v 。/w 理解/v 自己/r 的/u 流程/n ，/w 妥善/a 管理/v 自己/r 的/u 数据/n ，/w 使用人/n 工智/nz 能工/nz 具/ng ，/w 并/c 习惯/n 机器/np 可以/a 帮助/v 我们/r 完成/v 更多/n 工作/n 的/u 理念/n 。/w 通过/p 这种/r 方式/n ，/w 你/r 就/d 能/ng 发展/v 一/m 种/ng 文化/n 和/c 环境/n ，/w 从而/c 做好/v 各种/r 准备/v ，/w 最终/d 为/p 自己/r 的/u 组织/n 探索/v 量身定制/lv 的/u 人工智能/n 解决方案/n 。/w 请/v 牢记/v 一点/mq ：/w 不要/df 过分/a 关注/v 关于/p 人工智能/n 的/u 炒作/v ，/w 但/c 千万/d 不要/df 忽视/v 人工智能/n 所/n 能带/n 来/u 的/u 重大/a 改变/v 。/w

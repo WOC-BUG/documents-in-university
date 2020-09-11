@@ -1,0 +1,52 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G NR的参考信号（RS),在3GPP TS 38.211（Release 15）中，5G NR定义了几种reference signal（参考信号）。,wangyongtao1240,https://blog.csdn.net/wangyongtao1240/article/details/82414110,2018-09-05,7631次阅读,5G NR的参考信号（RS) - 移动通信工程师的博客,2018年09月05日 09:04:14,在3GPP TS 38.211（Release 15）中，5G NR定义了几种reference signal（参考信号）。
+
+ 
+
+       上行链路reference signal有4种，分别为：
+
+ 
+
+1，Demodulation reference signal for PUSCH
+
+2，Phase-tracking reference signals for PUSCH
+
+3，Demodulation reference signal for PUCCH
+
+4，Sounding reference signal
+
+ 
+
+        下行链路reference signal有5种，分别为：
+
+ 
+
+1，Demodulation reference signals for PDSCH
+
+2，Phase-tracking reference signals for PDSCH
+
+3，Demodulation reference signals for PDCCH
+
+4，Demodulation reference signals for PBCH
+
+5，CSI reference signals
+
+ 
+
+
+
+ 
+
+        不同于4G LTE，5G NR不使用Cell-specific RSs（CRS）；所有的RS都是UE- specific RSs。
+
+ 
+
+        4G LTE只在上行链路使用DMRS，但是由于5G NR没有CRS，因此其下行链路也需要用到DMRS。
+
+ 
+
+        PT-RS用于校正由于晶振相位误差引起的干扰。
+
+ 
+
+  CSI-RS用于获取下行链路的CSI（channel-state  information）信息；同一个无线资源单位上，不会同时传输CSI-RS和DMRS。,,,,,

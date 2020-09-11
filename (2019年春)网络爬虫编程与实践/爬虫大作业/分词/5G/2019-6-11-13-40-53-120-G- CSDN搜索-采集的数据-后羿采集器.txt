@@ -1,0 +1,22 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 天线/n ,/w 5/m G/m 天线/n 蓬勃/a 发展/v rnrn/en 从/p 2G/n 到/ng 4G/n ，/w 移动/v 基站/n 天线/n 经历/n 了/dg 全/a 向/p 天线/n 、/w 定向/b 单极化/v 天线/n 、/w 定向/b 双/m 极化/v 天线/n 、/w 电/n 调/n 单极化/v 天线/n 、/w 电/n 调/n 双/m 极化/v 天线/n 、/w 双频/b 电/n 调/n 双/m 极化/v 到/ng 多/a 频/ag 双/m 极化/v 天线/n ，/w 以及/c MIMO/en 天线/n 、/w 有源/b 天线/n 等/ng 过程/n 。/w rnrn/en 随着/p 5/m G/m 时代/n 到来/v ，/w 毫米波/n 、/w massive/en mimo/en 引入/v ，/w 天线/n 的/u 工作/n 模式/n 将/d 发生/v 质/n 的/u 变化/v 。/w rnrn/en 简单/a 对比/v 4G/n 和/c 5/m G/m 的/u 天线/n 辐射/n 模型/n .../m rnrnrnrn/en 由于/c 5/m G/m 工作/n 于/ng 高频/b 段/n ，/w 信号/n 容易/a 衰减/v ，/w 因此/c 需要/n 采用/v ,/w Dallin/en 0408/m ,/w https://blog.csdn.net/Dallin0408/article/details/79240651/url ,/w 2018-02-02/t ,/w 732/m 次/a 阅读/v ,/w 5/m G/m 天线/n -/w Dallin/en 0408/m 的/u 博客/n ,/w 2018年02月02日 16:29:16/t ,/w 5/m G/m 天线/n 蓬勃/a 发展/v
+
+从/p 2G/n 到/ng 4G/n ，/w 移动/v 基站/n 天线/n 经历/n 了/dg 全/a 向/p 天线/n 、/w 定向/b 单极化/v 天线/n 、/w 定向/b 双/m 极化/v 天线/n 、/w 电/n 调/n 单极化/v 天线/n 、/w 电/n 调/n 双/m 极化/v 天线/n 、/w 双频/b 电/n 调/n 双/m 极化/v 到/ng 多/a 频/ag 双/m 极化/v 天线/n ，/w 以及/c MIMO/en 天线/n 、/w 有源/b 天线/n 等/ng 过程/n 。/w
+
+随着/p 5/m G/m 时代/n 到来/v ，/w 毫米波/n 、/w massive/en mimo/en 引入/v ，/w 天线/n 的/u 工作/n 模式/n 将/d 发生/v 质/n 的/u 变化/v 。/w
+
+简单/a 对比/v 4G/n 和/c 5/m G/m 的/u 天线/n 辐射/n 模型/n .../m
+
+
+
+由于/c 5/m G/m 工作/n 于/ng 高频/b 段/n ，/w 信号/n 容易/a 衰减/v ，/w 因此/c 需要/n 采用/v 波束/n 赋形/v 的/u 办法/n ，/w 即/c 大规模/b 多天/nz 线/n 系统/a 控制/v 每/r 一个/mq 天线/n 单元/n 的/u 发射/v （/w 或/c 接收/v ）/w 信号/n 的/u 相位/n 和信/nz 号/n 幅度/n ，/w 产生/v 多/a 束/ng 具有/v 高度/b 指向性/n 的/u 窄/a 波束/n ，/w 使得/v 信号/n 能量/n 集中/a ，/w 提升/v 增益/v ，/w 来/u 补偿/v 无线/b 传播/v 损耗/n ，/w 且/c 可/v 降低/v 干扰/v 。/w
+
+
+
+▲/x 控制/v 相位/n 产生/v 灵活/a 的/u 指向/v 波束/n
+
+且/c 还/d 会/n 采用/v 波束/n 跟踪/v 技术/n ，/w 以/p 解决/v “/w 切换/v ”/w 问题/n ，/w 使/ng 终端/n 保持/v 不/d 间断/v 的/u 移动性/n 连接/v 。/w 就/d 像是/v 为/p 终端/n 用户/n “/w 定制/v ”/w 信号/n 一样/a 。/w
+
+
+
+天线/n 的/u 尺寸/n 通常/b 与/c 频率/n 有关/v ，/w 所以/c ，/w 你/r 看到/v 3G/n 天线/n 比/p 2G/n 小/a （/w 2G/n 工作/n 频段/n 低于/v 3G/n ）/w 。/w 到/ng 了/dg 5/m G/m 时代/n ，/w 天线/n 也/d 将/d 越来越/d 小/a 。/w ,/w ,/w ,/w ,/w ,/w

@@ -1,0 +1,30 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/u011464186/article/details/79173834,李开富 《人工智能》，杨澜《探寻人工智能》，rn1.第三次AI热潮rn1962  西洋跳棋  ---》1997 国际象棋  ---》2016 围棋rn2.,https://blog.csdn.net/u011464186/article/details/79173834,,u011464186,2018-01-26,//blog.csdn.net/u011464186/article/details/79173834,653次阅读,人工智能 - u011464186的博客,2018年01月26日 16:18:52,原        人工智能
+      
+      
+        
+                                                  2018年01月26日 16:18:52
+          zhonglinxin_go
+          阅读数：654
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+李开富 《人工智能》，杨澜《探寻人工智能》，
+1.第三次AI热潮
+1962  西洋跳棋  ---》1997 国际象棋  ---》2016 围棋
+2. 深度学习的学习
+吴恩达 深度学习
+http://mooc.study.163.com/smartSpec/detail/1001319001.htm
+logistic 回归中的梯度下降法
+3. 中文NUL系统
+
+https://github.com/crownpku/Rasa_NLU_Chi

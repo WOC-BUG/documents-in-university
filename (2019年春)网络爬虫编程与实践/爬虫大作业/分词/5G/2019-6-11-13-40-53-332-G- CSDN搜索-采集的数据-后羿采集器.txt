@@ -1,0 +1,78 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m g/m 科普/b 笔记/n ,/w n/en n/en n/en Passage/en 1/m n/n 摘自/v 第一/m 个/q 躺/v 在/d 5/m g/m 枪口/n 下/f 的/u 会/n 是/v 谁/r nnNewsnnnnnnv2-63bfd04aa9c425d99dfff0b1bb4bf13d_hd.jpgnnn/url 标准/a 冻结/v ：/w 技术/n 已经/d 全部/mq 成型/v ，/w 可以/a 初步/b 投入/a 商用/b n/n 不是/n 最终/d 版/n 和/c 完整/a 版/n 的/u 5/m g/m 标准/a ，/w 是/v 3/m GPP/en R/en 15/m NSA/en 的/u 核心/n 标准/a 部分/n 。/w ,/w weixin/en _/0 34204057/m ,/w https://blog.csdn.net/weixin_34204057/article/details/87845939/url ,/w 2017-12-10/t ,/w 101/m 次/a 阅读/v ,/w 5/m g/m 科普/b 笔记/n -/w weixin/en _/0 34204057/m 的/u 博客/n ,/w 2017年12月10日 10:19:00/t ,/w Passage/en 1/m
+摘自/v 第一/m 个/q 躺/v 在/d 5/m g/m 枪口/n 下/f 的/u 会/n 是/v 谁/r
+News/en
+
+
+
+
+v2-63bfd04aa9c425d99dfff0b1bb4bf13d_hd.jpg/url
+
+标准/a 冻结/v ：/w 技术/n 已经/d 全部/mq 成型/v ，/w 可以/a 初步/b 投入/a 商用/b
+不是/n 最终/d 版/n 和/c 完整/a 版/n 的/u 5/m g/m 标准/a ，/w 是/v 3/m GPP/en R/en 15/m NSA/en 的/u 核心/n 标准/a 部分/n 。/w
+3/m GPP/en 组织/n 和/c 3/m GPP/en 标准/a
+R/en 15/m :/w Release/en 15/m ,/w 版本号/n
+NSA/en :/w Non/en Standalone/en 非独/c 立/d 组网/n (/w 在/d 现有/v 4G/n 核心/n 网/n 和/c 4G/n 基站/n 的/u 基础/n 上/f ，/w 先/d 把/p 5/m G/m 的/u 基站/n 连/d 在/d 4G/n 的/u 核心/n 网上/s ，/w 然后/c 5/m G/m 和/c 4G/n 基站/n 并存/v )/w
+
+
+
+
+v2-298dc5e0363af689bfd1d18a51b3abb5_r.jpg/url
+
+
+
+
+定位/n (/w vs/en 2/m G/en )/w
+通信网络/n ，/w 是/v 有/v 它/r 的/u 应用/v 场景/n 的/u ，/w 每/r 一/m 项/ng 技术/n ，/w 都/d 有/v 它/r 的/u 宿命/n ，/w 都/d 有/v 它/r 的/u 定位/n 。/w
+我们/r 的/u 手机/np 支持/v 多/a 网络/n 制式/n 。/w
+
+
+
+
+image.png/url
+
+
+
+
+
+image.png/url
+
+
+2g/n 好/a 频段/n
+频率/n 越/d 低/a ，/w 传输/v 速率/n 越/d 低/a ，/w 但/c 波长/n 越长/nz ，/w 穿越/v 障碍物/n 的/u 穿透/v 能力/n 越/d 高/a ，/w 基站/n 覆盖/v 范围/n 越/d 广/a ，/w 单个/b 基站/n 的/u 覆盖/v 范围/n 越/d 广/a ，/w 单位/n 面积/n 内需/n 要/v 的/u 基站/n 数量/n 就/d 越/d 少/a ，/w 成本/n 就/d 越/d 低/a ，/w 投资/n 也/d 就/d 少/a 。/w
+电梯/np ，/w 车库/n ，/w 野外/s ，/w 农村/n ，/w 只有/c 2g/n ，/w 超强/a 覆盖/v 能力/n ，/w 关键/a 时候/n 救命/v
+
+5/m g/m 高频/b 段/n
+-/w 覆盖/v 能力/n 非常非常/dd 弱/a ，/w 绕过/v 障碍物/n 的/u 能力/n 也/d 弱/a 很多/mq 就算/d 有/v MIMO/en ,/w 有/v 天线/n 阵列/n ，/w 有/v 波束/n 赋形/v ./m
+适合/v 短距离/n 范围/n 的/u 高速/b 运输/v ，/w 适合/v 人口/n 密集区/n 域/ng 的/u 网络/n 覆盖/v ，/w 适合/v 对/a 速率/n 和时延登/nr 指标/n 敏感/a 的/u 人群/n 或/c 应用/v 场景/n 。/w
+
+荒郊野外/i －/w －/w >/w 更/d 需要/n 打通/v 电话/np 收发/n 短信/n ，/w 城市/n 大楼/n －/w －/w >/w 网速/n
+后浪推前浪/lv
+3/m g/en //w 4g/n 负责/a 室外/s 或/c 非/d 城区/n 或/c 复杂/a 环境/n 的/u 覆盖/v ，/w 而/c 由/p 5/m g/m 对/a 人口/n 密集区/n 域/ng 进行/v 热点/n 覆盖/v 。/w
+
+干掉/v 谁/r ？/w
+wifi/en : 3300/m MHz/en -3600/m MHz/en ,/w 4800/m MHz/en -5000/m MHz/q
+5/m g/en :3300-3600/t MHz/en ,/w 4800-5000/t MHz/q
+wifi/n 优点/n
+
+速度快/n
+
+
+
+
+
+image.png/url
+
+
+费用低/n
+wifi/n 免费/v 而/c 数据/n 业务/n 即/c 流量/n 付费/v 。/w
+5/m g/m 趋势/n ，/w 流量/n 包月/n 套餐/n ，/w 如果/c 流量/n 无线/b 还/d 会/n 使用/v 公共场所/n 充满/v 不安/a 全/a 因素/n 的/u wifi/n 吗/r ？/w
+便捷性/n
+-/w 互/d 传/ng 文件/n （/w d/en 2d/b 技术/n ，/w 在/d 使用/v 数据/n 业务/n 情况/n 下/f ，/w 可以/a 绕过/v 基站/n 直接/a 进行/v 数据传输/n ）/w
+-/w 随时随地/in 上网/v vs/en 到处/d 找/v 网络/n 问/v 密码/n 输/v 密码/n
+
+
+小结/n ：/w 我们/r 生存/v 的/u 世界/n 是/v 一个/mq 多/a 需求/n 场景/n 的/u 环境/n ，/w 不同/a 的/u 人/n ，/w 不同/a 的/u 物/ng ，/w 都/d 有/v 不同/a 的/u 需求/n 。/w 每/r 一/m 项/ng 技术/n 都/d 有/v 自己/r 的/u 特点/n ，/w 特点/n 就/d 决定/n 了/dg 自己/r 的/u 定位/n 。/w 所以/c ，/w 未来/t 一定/b 是/v 多种/a 技术/n 共存/v ，/w 各自/r 服务/v 于/ng 自己/r 细分/v 领域/n 的/u 时代/n 。/w
+Passage/en 2/m
+摘自/v 新/a “/w 基站/n ”/w 传奇/n
+-/w -/w 从/p 接入网/n 的/u 角度/n 看/u 5/m g/en ,/w ,/w ,/w ,/w ,/w

@@ -1,0 +1,71 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+未来/t 五/m 年/n ,/w 不/d 懂/v 人工智能/n 的/u 程序员/n 不会/v 被/ng 淘汰/v -/w 求是/l 07/m 的/u .../m _/0 CSDN/en 博客/n ,/w https://blog.csdn.net/u011046042/article/details/80850377/url ,/w 人工智能/n 确实/a 是/v 很/d 火/a ,/w 每个/r 人/n 都/d 去/v 搞/v 人工智能/n ,/w 那么/c 最终/d 导致/v 什么/r 问题/n ?/w 大量/mq 的/u 人工智能/n 人才/n 抢/v 那么/c 少/a 的/u 地盘/n ,/w 导致/v 的/u 问题/n 将/d 是/v “/w 僧多粥少/ia ”/w 的/u 局面/n 。/w 5/m 年/n 淘汰/v 掉/v 不会/v 人工智能/n 的/u .../m ,/w ,/w //blog.csdn.net/u011046042/article/details/80850377/url ,/w ,/w ,/w ,/w ,/w 未来/t 五/m 年/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n 不会/v 被/ng 淘汰/v -/w 道/n 亦/d 无名/b ,/w 2018年06月29日 21:28:38/t ,/w 原/b 未来/t 五/m 年/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n 不会/v 被/ng 淘汰/v
+
+
+
+2018年06月29日 21:28:38/t
+道/n 亦/d 无名/b
+阅读/v 数/m ：5425/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/u011046042/article/details/80850377/url
+
+
+
+
+
+
+1./m 话题/n 背景/n
+
+最近/t 人工智能/n 很/d 火/a ，/w 区块/n 链/ng 很/d 火/a 。/w 都/d 吹/v 的/u 上天/n 的/u ，/w 工资/n 非常/b 高/a 。/w 空口无凭/iv ，/w 来看/u 看相/v 关/n 的/u 数据/n 。/w
+
+
+薪资/n 高/a ，/w 人才/n 缺口/n 大/a 。/w
+
+2/m 、/w 程序员/n 的/u 分类/v
+程序员/n 有/v 很多/mq 工种/n ，/w 前端/f ，/w 后台/n ，/w Android/en ，/w java/n ，/w c/en +/0 +/0 ,/w c/en #/w ,/w 嵌入式/n ，/w php/n ，/w web/en ,/w python/en ，/w ios/en ，/w 汇编/n ，/w shell/en ,/w 等等/u 。/w
+如此/r 多/a 的/u 种类/n 需要/n 学/k 的/u 东西/n 可不/l 少/a 啊/y 。/w 还/d 记得/v 在/d 2012年/t 左右/f 的/u 时候/n Android/en 的/u 开发/v 工程师/nx 工资/n 那么/c 高/a ，/w 而且/c 只要/c 会/n 一点/mq 的/u 人家/r 就要/d ，/w 不惜/v 一切/r 代价/n 要/v ，/w 最后/f 培训机构/n 大量/mq 为/p 社会/n 输送/v 人才/n ，/w 后面/f 自然/a 没有/d 那么/c 好/a 的/u 机会/n 了/dg ，/w 市场/ny 饱和/v 了/dg 。/w 供求/n 关系/n 在/d 哪里/r 摆/n 着/n 。/w 12/m 年到/n 现在/t ，/w 过/d 了/dg 5/m 年/n 多/a 了/dg 这个/r 技术/n 还是/c 很/d 火/a ，/w 但是/c 其他/r 的/u 程序员/n 没有/d 被/ng 淘汰/v 啊/y 。/w 曾经/d 不会/v Android/en 的/u ，/w 现在/t 依然/d 不/d 懂/v Android/en 的/u 开发/v ，/w 曾经/d 在/d 搞/v c++/n 的/u ，/w 在/d 做/v C/n 开发/v 的/u 程序员/n ，/w 现在/t 都/d 做成/v 了/dg 系统/a 的/u 高级/a 架构/n 了/dg ，/w 如果/c 这样/r 都/d 算是/v 淘汰/v ，/w 那/c 就是/n 胡扯/v 。/w 人家/r 依然/d 活/a 的/u 好好/d ，/w 热爱/v 自己/r 的/u 老本行/n ，/w 做/v 得开/nz 开心/a 心/n 的/u ，/w 相反/v 最近/t 几/m 年/n 的/u C++/n 工资/n 倒是/d 涨/v 了/dg 不少/mq 。/w
+
+3/m 、/w 问道/v 有/v 先后/d ，/w 术业/n 有/v 专攻/v
+
+每个/r 程序员/n 都/d 应有/v 自己/r 专长/n 的/u 一方面/ldm ，/w 唐宋八大家/n 之首/nz 韩愈/nr 在/d 《/w 师/n 说/ag 》/w 中/f 说道/v ：/w ”/w 闻道/nr 有/v 先后/d ，/w 术业/n 有/v 专攻/v ，/w 如是/r 而已/y ”/w 。/w 每个/r 人/n 都/d 有/v 自己/r 的/u 专长/n ，/w 社会/n 上/f 的/u 各种各样/la 的/u 人才/n ，/w 共同/b 努力/a 做好/v 自己/r 的/u 职责/n 才能/v 更/d 有效/a 的/u 发挥/v 每个/r 人/n 的/u 长处/n 。/w
+人工智能/n 确实/a 是/v 很/d 火/a ，/w 每个/r 人/n 都/d 去/v 搞/v 人工智能/n ，/w 那么/c 最终/d 导致/v 什么/r 问题/n ？/w 大量/mq 的/u 人工智能/n 人才/n 抢/v 那么/c 少/a 的/u 地盘/n ，/w 导致/v 的/u 问题/n 将/d 是/v “/w 僧多粥少/ia ”/w 的/u 局面/n 。/w 5/m 年/n 淘汰/v 掉/v 不会/v 人工智能/n 的/u 程序员/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n ，/w 那么/c 在/d 这个/r 程序员/n 在/d 之前/f 的/u 工作/n 经验/n 积累/n ，/w 就/d 真的/d 一点/mq 用/ng 都/d 么/ng 有/v 吗/r ？/w 一个/mq 产品/n 周期/n 是/v 多长/r ？/w 这个/r 都/d 不一/v 样/ng 吧/y ？/w 比如/v ：/w 做/v 汽车电子/n 的/u 软件/n ，/w 有时候/d 开发/v 要/v 几/m 年/n ，/w 维护/v 几/m 年/n ，/w 那么/c 这些/r 程序员/n ，/w 就/d 被/ng 淘汰/v 了/dg 吗/r ？/w 然而/c 并/c 没有/d 。/w 技术/n 的/u 淘汰/v 没有/d 那么/c 快/a ，/w 并且/c 一个/mq 很/d 简单/a 的/u 例子/n ，/w Linus/en 这种/r 人/n 需要/n 搞/v 懂/v 人工智能/n 吗/r ？/w 会/n 被/ng 淘汰/v 吗/r ？/w 他们/r 专注/a 的/u 点/m 不一/v 样/ng 。/w 所以/c 不能/v 说/ag 简单/a 的/u 一/m 句/q 未来/t 五/m 年/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n 就/d 会/n 淘汰/v 。/w
+
+4./m 经济基础/ln ，/w 决定/n 上层建筑/ln
+
+企业/n 做人/v 工智/nz 能/ng 需要/n 哪些/r 资金/n ，/w 这个/r 可以/a 看看/vv 下面/f 这笔/r 账/n 。/w
+自/d 建/ng 机器/np 学习系统/n ，/w 大概/b 有/v 这么/r 几/m 步/n ：/w
+-/w 步骤/n 1/m ：/w 招聘/v 机器/np 学习/v 团队/n 的/u Leader/en ，/w 2/m 个/q 月/n
+-/w 步骤/n 2/m ：/w 搭建/v 机器/np 学习/v 团队/n ，/w 2/m 个/q 月/n
+-/w 步骤/n 3/m ：/w 前期/t 业务/n 调研/v ，/w 2/m 个/q 月/n
+-/w 步骤/n 4/m ：/w 前期/t 技术/n 调研/v ，/w 2/m 个/q 月/n
+-/w 步骤/n 5/m ：/w 数据采集/n 相关/v 开发/v 和数/n 据/ng 积累/n ，/w 0.5/m 个/q 月/n
+-/w 步骤/n 6/m ：/w 数据分析/n 处理/v ，/w 1/m 个/q 月/n
+-/w 步骤/n 7/m ：/w 模型/n 调研/v ，/w 0.5/m 个/q 月/n
+-/w 步骤/n 8/m ：/w 线上/n 系统/a 开发/v ，/w 0.5/m 个/q 月/n
+-/w 步骤/n 9/m ：/w a/en //w b/n 测试/v 和模型优/nr 化/k ，/w 0.5/m 个/q 月/n
+合计/v ：/w 11/m 个/q 月/n
+
+这是/n 比较/d 理想/a 的/u 情况/n 下/f ,/w 有/v 大佬/n 坐诊/v 。/w 如果/c 在/d 哪个/r 环节/n 踩/v 到/ng 坑/n ，/w 拖延/v 的/u 时间/n 就/d 没法/v 计算/v 了/dg 。/w 时间/n 成本/n 这么/r 多/a 。/w
+再/d 看看/vv money/en ，/w
+这个/r 对于/p 小企业/n 来说/u 资金/n 可是/c 大事/n 情/n 啊/y 。/w 如果/c 一/m 年/n 的/u 投入/a 是/v 这么/r 多/a ，/w 那么/c 对于/p 很多/mq 小企业/n 来说/u ，/w 那/c 很/d 有/v 可能/a 倒闭/v ，/w 但是/c 实际上/d 不是/n 这样/r 的/u 。/w
+
+5. 21/m 世纪/n 人才/n 最/d 宝贵/a
+21/m 世纪/n 什么/r 最/d 贵/a ？/w 看/u 葛/ng 大爷/nm 怎么/r 说/ag ：/w
+
+《/w 大学/nc 》/w 有/v 句/q 话/n 这么/r 说来/u 着/n ：/w “/w 有/v 德/jns 此/r 有人/r ，/w 有人/r 此/r 有/v 土/a ，/w 有/v 土/a 此/r 有/v 财/n ，/w 有/v 财/n 此/r 有用/a ”/w 。/w 一个/mq 人/n 既然/c 能/ng 当/ag 程序员/n 都/d 不算/v 笨/a 吧/y 。/w 一个/mq 品德/n 良好/a 的/u 程序员/n ，/w 因为/c 不会/v 人工智能/n 就/d 淘汰/v ？/w 不会/v 吧/y ，/w 5/m 年/n 的/u 程序员/n ，/w 对/a 各种/r 业务/n 和/c 技术/n 问题/n 都/d 是/v 非常/d/mopo(d) 熟练/a 的/u ，/w 这个/r 人/n 在/d 这里/r 就是/n 资源/n ，/w 就是/n 财富/n ，/w 就算/d 是/v 修修补补/v 都/d 比/p 那些/r 人工智能/n 的/u 程序员/n 要/v 带/ng 了/dg 的/u 价值/n 要/v 大/a 吧/y 。/w
+
+6./m 总结/n
+对于/p 在/d 风口浪尖/in 上/f 的/u 东西/n ，/w 不一/v 定/d 就是/n 你/r 最/d 拿手/a 的/u 。/w 最/d 自己/r 最/d 擅长/v 的/u ，/w 最/d 喜欢/v 的/u 东西/n ，/w 开心/a 的/u 事情/n 就/d 好/a 。/w 存在/v 即/c 合理/a 。/w

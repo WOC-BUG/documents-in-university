@@ -1,0 +1,181 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qq_43167223/article/details/83626364/url ,/w Python/en 有点/d 不一/v 样/ng ，/w Python/en 崇尚/v 鸭子/n 类型/n 对于/p 一个/mq 鸭子/n 类型/n 来说/u ，/w 我们/r 并/c 不/d 关心/v 这个/r 对象/n 的/u 类型/n 本身/r 或是/c 这个/r 类/n 继承/v ，/w 而是/n 这个/r 类/n 是/v 如何/r 被/ng 使用/v 的/u 。/w 我们/r 可以通过/n 下面/f 的/u 代码/n 来/u 调用/v 这些/r 类/n 的/u 方法/n 。/w n/n 面向/v 对象/n 三大/n 特性/n */w */w nn/en 封装/v 根据/n 职责/n 将/d 属性/n 和/c 方法/n 封装/v 到/ng 一个/mq 抽象/a 的/u 类/n 中/f nnn/en 定义/n 类/n 的/u 准则/n nnn/en 继承/v 实现/v 代码/n 的/u 重用/v ，/w 相同/a 的/u 代码/n 不/d 需要/n 重复/v 的/u 编写/v nnn/en 设计类/n 的/u 技巧/n n/n 子类/n 针对/v 自己/r 特有/b 的/u 需求/n ，/w 编写/v 特定/b 的/u .../m ,/w https://blog.csdn.net/qq_43167223/article/details/83626364/url ,/w ,/w qq/en _/0 43167223/m ,/w 2018-11-01/t ,/w //blog.csdn.net/qq_43167223/article/details/83626364/url ,/w 158/m 次/a 阅读/v ,/w 人工智能/n -/w qq/en _/0 43167223/m 的/u 博客/n ,/w 2018年11月01日 20:25:17/t ,/w 原/b 人工智能/n
+
+
+
+2018年11月01日 20:25:17/t
+芜杂/a 栾雨/nr ，/w 芜杂/a 銮舆/n
+阅读/v 数/m ：159/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python/en 有点/d 不一/v 样/ng ，/w Python/en 崇尚/v 鸭子/n 类型/n 对于/p 一个/mq 鸭子/n 类型/n 来说/u ，/w 我们/r 并/c 不/d 关心/v 这个/r 对象/n 的/u 类型/n 本身/r 或是/c 这个/r 类/n 继承/v ，/w 而是/n 这个/r 类/n 是/v 如何/r 被/ng 使用/v 的/u 。/w 我们/r 可以通过/n 下面/f 的/u 代码/n 来/u 调用/v 这些/r 类/n 的/u 方法/n 。/w
+面向/v 对象/n 三大/n 特性/n */w */w
+
+封装/v 根据/n 职责/n 将/d 属性/n 和/c 方法/n 封装/v 到/ng 一个/mq 抽象/a 的/u 类/n 中/f
+
+
+定义/n 类/n 的/u 准则/n
+
+
+继承/v 实现/v 代码/n 的/u 重用/v ，/w 相同/a 的/u 代码/n 不/d 需要/n 重复/v 的/u 编写/v
+
+
+设计类/n 的/u 技巧/n
+子类/n 针对/v 自己/r 特有/b 的/u 需求/n ，/w 编写/v 特定/b 的/u 代码/n
+
+
+多态/a 不同/a 的/u 子类/n 对象/n 调用/v 相同/a 的/u 父/ng 类/n 方法/n ，/w 产生/v 不同/a 的/u 执行/v 结果/c
+
+
+多态/a 可以/a 增加/v 代码/n 的/u 灵活度/n
+以/p 继承/v 和/c 重写/v 父/ng 类/n 方法/n 为/p 前提/n
+是/v 调用/v 方法/n 的/u 技巧/n ，/w 不会/v 影响/v 到/ng 类/n 的/u 内部/f 设计/v
+
+多态/a 案例/n 演练/v
+
+
+需求/n
+
+在/d Dog/en 类/n 中/f 封装/v 方法/n game/en
+
+
+普通/a 狗/n 只是/c 简单/a 的/u 玩耍/v
+
+
+定义/n XiaoTianDog/en 继承/v 自/d Dog/en ，/w 并且/c 重写/v game/en 方法/n
+
+
+哮/ng 天/n 犬/n 需要/n 在/d 天上/s 玩耍/v
+
+
+定义/n Person/en 类/n ，/w 并且/c 封装/v 一个/mq 和/c 狗/n 玩/ng 的/u 方法/n
+
+
+在/d 方法/n 内部/f ，/w 直接/a 让/v 狗/n 对象/n 调用/v game/en 方法/n
+Person/en 类/n 中/f 只需/n 要/v 让/v 狗/n 对象/n 调用/v game/en 方法/n ，/w 而/c 不/d 关心/v 具体/a 是/v 什么/r 狗/n
+game/en 方法/n 是在/n Dog/en 父/ng 类/n 中/f 定义/n 的/u
+在/d 程序/n 执行/v 时/n ，/w 传入/v 不同/a 的/u 狗/n 对象/n 实/a 参/n ，/w 就/d 会/n 产生/v 不同/a 的/u 执行/v 效果/n
+
+
+多态/a 更/d 容易/a 编写/v 出出/v 通用/v 的/u 代码/n ，/w 做出/v 通用/v 的/u 编程/v ，/w 以/p 适应/v 需求/n 的/u 不断/d 变化/v
+
+面向/v 对象/n 三大/n 特性/n
+1./m
+封装/v 根据/n 职责/n 将/d 属性/n 和/c 方法/n 封装/v 到/ng 一个/mq 抽象/a 的/u 类/n 中/f
+定义/n 类/n 的/u 准则/n
+2./m
+继承/v 实现/v 代码/n 的/u 重用/v ，/w 相同/a 的/u 代码/n 不/d 需要/n 重复/v 的/u 编写/v
+设计类/n 的/u 技巧/n
+子类/n 针对/v 自己/r 特有/b 的/u 需求/n ，/w 编写/v 特定/b 的/u 代码/n
+3./m
+多态/a 不同/a 的/u 子类/n 对象/n 调用/v 相同/a 的/u 父/ng 类/n 方法/n ，/w 产生/v 不同/a 的/u 执行/v 结果/c
+多态/a 可以/a 增加/v 代码/n 的/u 灵活度/n
+以/p 继承/v 和/c 重写/v 父/ng 类/n 方法/n 为/p 前提/n
+是/v 调用/v 方法/n 的/u 技巧/n ，/w 不会/v 影响/v 到/ng 类/n 的/u 内部/f 设计/v
+需求/n
+1./m
+在/d Dog/en 类/n 中/f 封装/v 方法/n game/en
+普通/a 狗/n 只是/c 简单/a 的/u 玩耍/v
+2./m
+定义/n XiaoTianDog/en 继承/v 自/d Dog/en ，/w 并且/c 重写/v game/en 方法/n
+哮/ng 天/n 犬/n 需要/n 在/d 天上/s 玩耍/v
+3./m
+定义/n Person/en 类/n ，/w 并且/c 封装/v 一个/mq 和/c 狗/n 玩/ng 的/u 方法/n
+在/d 方法/n 内部/f ，/w 直接/a 让/v 狗/n 对象/n 调用/v game/en 方法/n
+Person/en 类/n 中/f 只需/n 要/v 让/v 狗/n 对象/n 调用/v game/en 方法/n ，/w 而/c 不/d 关心/v 具体/a 是/v 什么/r 狗/n
+game/en 方法/n 是在/n Dog/en 父/ng 类/n 中/f 定义/n 的/u
+在/d 程序/n 执行/v 时/n ，/w 传入/v 不同/a 的/u 狗/n 对象/n 实/a 参/n ，/w 就/d 会/n 产生/v 不同/a 的/u 执行/v 效果/n
+多态/a 更/d 容易/a 编写/v 出出/v 通用/v 的/u 代码/n ，/w 做出/v 通用/v 的/u 编程/v ，/w 以/p 适应/v 需求/n 的/u 不断/d 变化/v ！/w
+类/n 属性/n 、/w 实例/n 属性/n
+在/d 了解/v 了/dg 类/n 基本/a 的/u 东西/n 之后/f ，/w 下面/f 看/u 一下/d python/en 中/f 这/r 几/m 个/q 概念/n 的/u 区别/n
+先来/nz 谈/ng 一下/d 类/n 属性/n 和实/nz 例/n 属性/n
+在/d 前面/f 的/u 例子/n 中/f 我们/r 接触/v 到/ng 的/u 就是/n 实例/n 属性/n （/w 对象/n 属性/n ）/w ，/w 顾名思义/iv ，/w 类/n 属性/n 就是/n 类/n 对象/n 所/n 拥有/v 的/u 属性/n ，/w 它/r 被/ng 所有/b 类/n 对象/n 的/u 实例/n 对象/n 所/n 共有/v ，/w 在内/v 存/v 中/f 只/bg 存在/v 一个/mq 副本/n ，/w 这个/r 和/c C++/n 中/f 类/n 的/u 静态/n 成员/n 变量/n 有点/d 类似/a 。/w 对于/p 公有/b 的/u 类/n 属性/n ，/w 在/d 类/n 外/f 可以通过/n 类/n 对象/n 和实/nz 例/n 对象/n 访问/v
+总结/n 如果/c 需要/n 在/d 类/n 外/f 修改/v 类/n 属性/n ，/w 必须/d 通过/p 类/n 对象/n 去/v 引用/v 然后/c 进行/v 修改/v 。/w 如果/c 通过/p 实例/n 对象/n 去/v 引用/v ，/w 会/n 产生/v 一个/mq 同名/v 的/u 实例/n 属性/n ，/w 这种/r 方式/n 修改/v 的/u 是/v 实例/n 属性/n ，/w 不会/v 影响/v 到/ng 类/n 属性/n ，/w 并且/c 之后/f 如果/c 通过/p 实例/n 对象/n 去/v 引用/v 该/r 名称/n 的/u 属性/n ，/w 实例/n 属性/n 会/n 强制/v 屏蔽/n 掉/v 类/n 属性/n ，/w 即/c 引用/v 的/u 是/v 实例/n 属性/n ，/w 除非/c 删除/v 了/dg 该/r 实例/n 属性/n 。/w
+类/n 的/u 结构/n 1.1/m 术语/n ——/w 实例/n
+1./m 使用/v 面相/n 对象/n 开发/v ，/w 第/m 1/m 步/n 是/v 设计/v 类/n
+2./m 使用/v 类名/n (/w )/w 创建/v 对象/n ，/w 创建/v 对象/n 的/u 动作/n 有/v 两/m 步/n ：/w
+
+在内/v 存/v 中/f 为/p 对象/n 分配/v 空间/n
+调用/v 初始化/v 方法/n init/en 为/p 对象/n 初始化/v
+3./m 对象/n 创建/v 后/f ，/w 内存/n 中/f 就/d 有/v 了/dg 一个/mq 对象/n 的/u 实实在在/aa 的/u 存在/v ——/w 实例/n
+因此/c ，/w 通常/b 也/d 会/n 把/p ：/w
+
+
+
+
+
+创建/v 出来/v 的/u 对象/n 叫做/v 类/n 的/u 实例/n
+2./m
+创建/v 对象/n 的/u 动作/n 叫做/v 实例/n 化/k
+3./m
+对象/n 的/u 属性/n 叫做/v 实例/n 属性/n
+4./m
+对象/n 调用/v 的/u 方法/n 叫做/v 实例/n 方法/n
+在/d 程序/n 执行/v 时/n ：/w
+1./m
+对象/n 各自/r 拥有/v 自己/r 的/u 实例/n 属性/n
+2./m
+调用/v 对象/n 方法/n ，/w 可以通过/n self/en ./m
+访问/v 自己/r 的/u 属性/n
+调用/v 自己/r 的/u 方法/n
+结论/n
+每/r 一个/mq 对象/n 都/d 有/v 自己/r 独立/a 的/u 内存/n 空间/n ，/w 保存/v 各自/r 不同/a 的/u 属性/n
+多个/n 对象/n 的/u 方法/n ，/w 在内/v 存/v 中/f 只有/c 一/m 份/n ，/w 在/d 调用/v 方法/n 时/n ，/w 需要/n 把/p 对象/n 的/u 引用/v 传递/v 到/ng 方法/n 内部/f
+1.2/m 类/n 是/v 一个/mq 特殊/a 的/u 对象/n
+Python/en 中/f 一切/r 皆/d 对象/n ：/w
+class/en AAA/en :/w 定义/n 的/u 类/n 属于/v 类/n 对象/n
+obj/en 1/m =/0 AAA/en (/w )/w 属于/v 实例/n 对象/n
+在/d 程序/n 运行/v 时/n ，/w 类/n 同样/b 会/n 被/ng 加载/v 到/ng 内存/n
+在/d Python/en 中/f ，/w 类/n 是/v 一个/mq 特殊/a 的/u 对象/n ——/w 类/n 对象/n
+在/d 程序/n 运行/v 时/n ，/w 类/n 对象/n 在内/v 存/v 中/f 只有/c 一/m 份/n ，/w 使用/v 一个/mq 类/n 可以/a 创建/v 出/q 很多/mq 个/q 对象/n 实例/n
+除了/p 封装/v 实例/n 的/u 属性/n 和/c 方法/n 外/f ，/w 类/n 对象/n 还/d 可以/a 拥有/v 自己/r 的/u 属性/n 和/c 方法/n
+1./m 类/n 属性/n
+2./m 类/n 方法/n
+通过/p 类名/n ./m 的/u 方式/n 可以/a 访问/v 类/n 的/u 属性/n 或者/c 调用/v 类/n 的/u 方法/n
+_/0 _/0 new/en _/0 _/0 方法/n _/0 _/0 new/en _/0 _/0 方法/n _/0 _/0 new/en _/0 _/0 和/c _/0 _/0 init/en _/0 _/0 的/u 作用/n
+总结/n
+*/w _/0 _/0 new/en _/0 _/0 至少/d 要/v 有/v 一个/mq 参数/n cls/en ，/w 代表/nx 要/v 实例/n 化/k 的/u 类/n ，/w 此/r 参数/n 在/d 实例/n 化/k 时/n 由/p Python/en 解释器/n 自动/b 提供/v
+*/w
+_/0 _/0 new/en _/0 _/0 必须/d 要/v 有/v 返回/v 值/a ，/w 返回/v 实例/n 化/k 出来/v 的/u 实例/n ，/w 这点/mq 在/d 自己/r 实现/v _/0 _/0 new/en _/0 _/0 时/n 要/v 特别/a 注意/v ，/w 可以/a return/en 父/ng 类/n _/0 _/0 new/en _/0 _/0 出来/v 的/u 实例/n ，/w 或者/c 直接/a 是/v object/en 的/u _/0 _/0 new/en _/0 _/0 出来/v 的/u 实例/n
+*/w
+_/0 _/0 init/en _/0 _/0 有/v 一个/mq 参数/n self/en ，/w 就是/n 这个/r _/0 _/0 new/en _/0 _/0 返回/v 的/u 实例/n ，/w _/0 _/0 init/en _/0 _/0 在/d _/0 _/0 new/en _/0 _/0 的/u 基础/n 上/f 可以/a 完成/v 一些/mq 其它/r 初始化/v 的/u 动作/n ，/w _/0 _/0 init/en _/0 _/0 不/d 需要/n 返回/v 值/a
+*/w
+我们/r 可以/a 将/d 类比/v 作/ng 制造商/n ，/w _/0 _/0 new/en _/0 _/0 方法/n 就是/n 前期/t 的/u 原材料/n 购买/v 环节/n ，/w _/0 _/0 init/en _/0 _/0 方法/n 就是/n 在/d 有/v 原材料/n 的/u 基础/n 上/f ，/w 加工/v ，/w 初始化/v 商品/n 环节/n
+1./m 单例/nr 是/v 什么/r 举/ag 个/q 常见/a 的/u 单/b 例/n 模式/n 例子/n ，/w 我们/r 日常/b 使用/v 的/u 电脑/np 上/f 都/d 有/v 一个/mq 回收站/nc ，/w 在/d 整个/b 操作系统/ln 中/f ，/w 回收站/nc 只能/v 有/v 一个/mq 实例/n ，/w 整个/b 系统/a 都/d 使用/v 这个/r 唯一/b 的/u 实例/n ，/w 而且/c 回收站/nc 自行/b 提供/v 自己/r 的/u 实例/n 。/w 因此/c 回收站/nc 是/v 单例/nr 模式/n 的/u 应用/v 。/w
+确保/v 某/r 一个/mq 类/n 只有/c 一个/mq 实例/n ，/w 而且/c 自行/b 实例/n 化/k 并/c 向/p 整个/b 系统/a 提供/v 这个/r 实例/n ，/w 这个/r 类/n 称为/v 单例/nr 类/n ，/w 单例/nr 模式/n 是/v 一/m 种/ng 对象/n 创建/v 型/k 模式/n 。/w 2./m 创建/v 单例/nr -/w 保证/v 只有/c 1/m 个/q 对象/n
+3./m 创建/v 单例时/nr ，/w 只/bg 执行/v 1/m 次/a _/0 _/0 init/en _/0 _/0 方法/n
+单例/nr 设计模式/n
+*/w 设计模式/n
+设计模式/n 是/v 前人/n 工作/n 的/u 总结/n 和/c 提炼/v ，/w 通常/b ，/w 被/ng 人们/n 广泛/a 流传/v 的/u 设计模式/n 都/d 是/v 针对/v 某/r 一/m 特定/b 问题/n 的/u 成熟/a 的/u 解决方案/n
+使用/v 设计模式/n 是/v 为了/p 可/v 重用/v 代码/n 、/w 让/v 代码/n 更/d 容易/a 被/ng 他人/r 理解/v 、/w 保证/v 代码/n 可靠性/n
+单例/nr 设计模式/n
+目的/n ——/w 让/v 类/n 创建/v 的/u 对象/n ，/w 在/d 系统/a 中/f 只有/c 唯一/b 的/u 一个/mq 实例/n
+每/r 一次/mq 执行/v 类名/n (/w )/w 返回/v 的/u 对象/n ，/w 内存/n 地址/n 是/v 相同/a 的/u
+单例/nr 设计模式/n 的/u 应用/v 场景/n
+音乐/n 播放/v 对象/n
+回收站/nc 对象/n
+打印机/np 对象/n
+……/w
+02./m new/en 方法/n
+使用/v 类名/n (/w )/w 创建/v 对象/n 时/n ，/w Python/en 的/u 解释器/n 首先/c 会/n 调用/v new/en 方法/n 为/p 对象/n 分配/v 空间/n
+new/en 是/v 一个/mq 由/p object/en 基/ng 类/n 提供/v 的/u 内置/b 的/u 静态/n 方法/n ，/w 主要/b 作用/n 有/v 两个/n ：/w
+
+在内/v 存/v 中/f 为/p 对象/n 分配/v 空间/n
+返回/v 对象/n 的/u 引用/v
+Python/en 的/u 解释器/n 获得/v 对象/n 的/u 引用/v 后/f ，/w 将/d 引用/v 作为/n 第一/m 个/q 参数/n ，/w 传递/v 给/v init/en 方法/n
+重写/v new/en 方法/n 的/u 代码/n 非常/b 固定/a ！/w
+重写/v new/en 方法/n 一定/b 要/v return/en super/en (/w )/w ./m new/en (/w cls/en )/w
+否则/c Python/en 的/u 解释器/n 得不到/v 分配/v 了/dg 空间/n 的/u 对象/n 引用/v ，/w 就/d 不会/v 调用/v 对象/n 的/u 初始化/v 方法/n
+注意/v ：/w new/en 是/v 一个/mq 静态/n 方法/n ，/w 在/d 调用/v 时/n 需要/n 主动/a 传递/v cls/en 参数/n

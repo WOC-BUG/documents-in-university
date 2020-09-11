@@ -1,0 +1,50 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/BlackSir2/article/details/78273581/url ,/w 人工智能/n 人工智能/n (/w Artificial/en Intelligence/en )/w :/w 是/v 通过/p 各种/r 技术/n 来/u 模拟/v 人/n 或/c 动物/n 的/u 意识/n 、/w 自我/r 、/w 思维/n 的/u 过程/n 。/w AI/n ：/w 分为/v 运动/n 层/n ，/w 决策层/n ，/w 策略/n 层/n 运动/n 层/n ：/w 主要/b 执行/v 决策层/n 的/u 决策/n ，/w 它们/r 能/ng 把/p 上层/f 做出/v 的/u 决策/n 转化为/v 具体/a 的/u 行为/n 。/w 当/ag 决策层/n 做出/v 攻击/v 玩家/n 的/u 决策/n 时/n ，/w 运动/n 层/n 会/n 利用/v 移动/v 算法/n ，/w 使/ng AI/n 角色/n 接近/v 敌人/n 然后/c 攻击/v 。/w 决策层/n ：/w 主要/b 任务/n 是/v 决定/n AI/n 角色/n 在下/r 一时间/t 该/r 做/v 什么/r 。/w ,/w https://blog.csdn.net/BlackSir2/article/details/78273581/url ,/w ,/w BlackSir/en 2/m ,/w 2017-10-18/t ,/w //blog.csdn.net/BlackSir2/article/details/78273581/url ,/w 381/m 次/a 阅读/v ,/w 人工智能/n -/w BlackSir/en 2/m 的/u 博客/n ,/w 2017年10月18日 15:38:31/t ,/w 原/b 人工智能/n
+
+
+
+2017年10月18日 15:38:31/t
+BlackSir/en 2/m
+阅读/v 数/m ：382/m
+
+
+标签/n ：/w
+人工智能/n
+更多/n
+
+个人/n 分类/v ：/w
+unity/en
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/BlackSir2/article/details/78273581/url
+
+
+
+
+
+
+人工智能/n
+
+人工智能/n (/w Artificial/en Intelligence/en )/w :/w 是/v 通过/p 各种/r 技术/n 来/u 模拟/v 人/n 或/c 动物/n 的/u 意识/n 、/w 自我/r 、/w 思维/n 的/u 过程/n 。/w
+
+AI/n ：/w 分为/v 运动/n 层/n ，/w 决策层/n ，/w 策略/n 层/n
+
+
+
+运动/n 层/n ：/w 主要/b 执行/v 决策层/n 的/u 决策/n ，/w 它们/r 能/ng 把/p 上层/f 做出/v 的/u 决策/n 转化为/v 具体/a 的/u 行为/n 。/w 当/ag 决策层/n 做出/v 攻击/v 玩家/n 的/u 决策/n 时/n ，/w 运动/n 层/n 会/n 利用/v 移动/v 算法/n ，/w 使/ng AI/n 角色/n 接近/v 敌人/n 然后/c 攻击/v 。/w
+
+决策层/n ：/w 主要/b 任务/n 是/v 决定/n AI/n 角色/n 在下/r 一时间/t 该/r 做/v 什么/r 。/w 例如/v 只要/c 角色/n 看不到/v 敌人/n 就/d 巡逻/v ，/w 看到/v 了/dg 就/d 攻击/v 。/w 因此/c 每个/r 时间/n 步/n ，/w 决策/n 系统/a 都/d 需要/n 判断/n 哪些/r 行为/n 是/v 最/d 合适/a 的/u ，/w 当/ag 决策/n 系统/a 做出/v 决策/n 后/f ，/w 有/v 运动/n 层/n 和/c 动画/n 系统/a 来/u 执行/v 决策/n 。/w
+
+战略/n 层/n ：/w 主要/b 用于/v 团队/n 协作/v ，/w 如/c 使命/n 召唤/v 中/f 的/u 战斗/v 小分队/nc ，/w 他们/r 一起/d 行动/v ，/w 但/c 每个/r 人/n 都/d 有/v 自己/r 的/u 职责/n ，/w 他们/r 会/n 做出/v 分开/v 包围/v 敌人/n 或/c 扔/v 手榴弹/n 、/w 闪光弹/n 等/ng 战略/n 行为/n 。/w

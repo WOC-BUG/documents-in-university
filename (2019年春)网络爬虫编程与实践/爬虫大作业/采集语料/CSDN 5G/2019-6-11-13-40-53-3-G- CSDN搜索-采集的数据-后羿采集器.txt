@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G(5)---7个方面读懂5G标准 - zhangbijun1230的专栏 - CSDN博客,作为IMT2020主要的候选技术, 5GNR在3GPP的快马加鞭地统一协调下急速前行,按照计划,今年第一个5G标准会冻结,将为运营商提供一套5G初期部署的可行方案。 5GNR 是5G...,,,,,,,,,,,,

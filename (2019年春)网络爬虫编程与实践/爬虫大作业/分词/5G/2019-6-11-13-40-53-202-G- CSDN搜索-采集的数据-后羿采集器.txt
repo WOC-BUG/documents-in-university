@@ -1,0 +1,18 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+一分/t 钟/n 了解/v 5/m G/en ,/w 5/m G/en –/0 一分/t 钟/n 了解/v 5/m Gnn/en 提速/v =/0 =/0 缩短/v 传输/v 时间/n =/0 =/0 提高/v 频率/n =/0 =/0 缩短/v 波长/n n/en 5/m G/m 现在/t 使用/v 的/u 是/v 毫米波/n 。/w 28/m GHz/q 与/c 60/m GHz/q 是/v 最/d 有望/v 应用/v 在/d 5/m G/m 通信/v 的/u 两个/n 频段/n ./m n/en 4/m G/en -/w LTE/en 的/u 频段/n 最高/a 频率/n 约/d ：/w 2/m GHz/en =/0 =/0 ＞/w 带宽/n 约/d ：100/m MHz/en 即/c 100/m Mb/en //w s/en ≈/0 12.5/m MB/en //w s/en [/w 位/q (/w B/en )/w =/0 8/m 个/q 字节/n (/w b/en )/w ]/w n/en 5/m G/m 的/u 频段/n ：/w 28/m GHz/en .../m ,/w weixin/en _/0 43375485/m ,/w https://blog.csdn.net/weixin_43375485/article/details/86573831/url ,/w 2019-01-21/t ,/w 79/m 次/a 阅读/v ,/w 一分/t 钟/n 了解/v 5/m G/en -/w weixin/en _/0 43375485/m 的/u 博客/n ,/w 2019年01月21日 14:32:49/t ,/w 5/m G/en –/0 一分/t 钟/n 了解/v 5/m G/m
+
+提速/v =/0 =/0 缩短/v 传输/v 时间/n =/0 =/0 提高/v 频率/n =/0 =/0 缩短/v 波长/n
+5/m G/m 现在/t 使用/v 的/u 是/v 毫米波/n 。/w 28/m GHz/q 与/c 60/m GHz/q 是/v 最/d 有望/v 应用/v 在/d 5/m G/m 通信/v 的/u 两个/n 频段/n ./m
+4/m G/en -/w LTE/en 的/u 频段/n 最高/a 频率/n 约/d ：/w 2/m GHz/en =/0 =/0 ＞/w 带宽/n 约/d ：100/m MHz/en 即/c 100/m Mb/en //w s/en ≈/0 12.5/m MB/en //w s/en [/w 位/q (/w B/en )/w =/0 8/m 个/q 字节/n (/w b/en )/w ]/w
+5/m G/m 的/u 频段/n ：/w 28/m GHz/en =/0 =/0 ＞/w 带宽/n 约/d ：/w 1/m GHz/en 即/c 1/m Gb/en //w s/en =/0 128/m MB/en //w s/b
+
+5/m G/m 的/u 频段/n ：/w 60/m GHz/en =/0 =/0 ＞/w 带宽/n 约/d ：/w 2/m GHz/en 即/c 2/m Gb/en //w s/en =/0 256/m MB/en //w s/b
+123/m
+疑问/n ：/w 为什么/r 之前/f 不/d 直接/a 使用/v 高频/b 率/ag ？/w
+两个/n 字/n ：/w 没/d 钱/n 。/w
+电磁波/n 的/u 显/v 着/n 特点/n ：/w 频率/n 越/d 高/a ，/w 波长/n 越/d 短/a ，/w 穿透/v 能力/n 越/d 差/a ，/w 衰减/v 越/d 大/a 。/w
+使用/v 高频/b 段/n 意味着/v 要/v 建设/v 更多/n 基站/n
+
+为何/r 现在/t 才/d 出现/v 5/m G/m ，/w 美国/ns 为何/r 惧怕/v 华为/nz 5/m G/m ？/w
+因为/c ：/w 华为/nz 5/m G/m 基站/n 多/a ，/w 5/m G/m 通讯设备/n 齐全/a 。/w
+基站/n 需要/n 大量/mq 金钱/n 投资/n ，/w 其实/d 5/m G/m 技术/n 小米/n 华为/nz 、/w 三星/nz 等/ng 都/d 有/v ,/w ,/w ,/w ,/w ,/w

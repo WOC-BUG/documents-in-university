@@ -1,0 +1,387 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G基站,问题描述nn现在5G时代已经到来，需要对现有的通信基站进行升级改造。每个地区为了保证信号和传输速率，需要建造一定数量的5G基站。在第iii个地区建一座基站有CiCiC_i的花费，且一个地区可以建任意多的基站, 费用累加计算。,weixin_40593462,https://blog.csdn.net/weixin_40593462/article/details/80382846,2018-05-23,1660次阅读,5G基站 - 木石ms的博客,2018年05月23日 19:08:54,(此为翻转课堂的课题，其他主要贡献者：胡同学，傅同学)
+
+问题描述
+
+现在5G时代已经到来，需要对现有的通信基站进行升级改造。每个地区为了保证信号和传输速率，需要建造一定数量的5G基站。在第ii个地区建一座基站有CiCi的花费，且一个地区可以建任意多的基站, 费用累加计算。有mm个地区范围[L1,R1],[L2,R2],⋯,[Lm,Rm][L1,R1],[L2,R2],⋯,[Lm,Rm]，在第ii个地区范围内要建至少DiDi座基站。 
+求最少花费。
+
+
+
+问题分析
+
+问题比较简单明了,就是在一些约束条件下求目标函数的最小值
+
+
+
+数学模型
+
+设共nn个地区,在第ii个地区建xixi个基站,问题可表示为min  z=∑Cixi , 1≤i≤nmin  z=∑Cixi , 1≤i≤n
+
+约束条件⎧⎩⎨⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪∑R1i=L1xi≥D1∑R2i=L2xi≥D2⋮∑Rmi=Lmxm≥Dmxi≥0,xi∈N{∑i=L1R1xi≥D1∑i=L2R2xi≥D2⋮∑i=LmRmxm≥Dmxi≥0,xi∈N
+
+
+
+算法策略
+
+这是典型的线性规划问题,单纯形法是解决线性规划的常用方法。但问题求的是目标函数的最小值,并非标准形式。将目标函数等号两边同乘-1,转换成求−z−z的最大值。添加松弛变量,发现松弛变量的系数是负的,找不到基本变量,普通单纯形法无法继续。所以,我们使用以下方法:
+
+
+
+1. 大M单纯形法
+
+添加人工变量…
+
+
+
+2. 对偶单纯形法
+
+根据对偶原理,求解对偶问题然后得到原问题的解
+
+
+
+3. 其他方法
+
+变量全是整数,可以用整数规划的方法 
+如果用矩阵表示约束条件,系数矩阵的元素不是0就是1,称为全幺模矩阵,又有针对全幺模矩阵的更优的方法
+
+
+
+算法描述
+
+
+
+1. 大M单纯形法
+
+
+
+2. 对偶单纯形法
+
+定义向量c=(C1 C2 ⋯Cn)c=(C1 C2 ⋯Cn),向量x=(x1 x2 ⋯xn)Tx=(x1 x2 ⋯xn)T,向量b=(D1 D2 ⋯Dm)Tb=(D1 D2 ⋯Dm)T,系数矩阵AA, 问题可描述为minz=cxs.t.Ax≥bminz=cxs.t.Ax≥b
+
+根据对偶原理,其对偶问题maxz=bys.t.ATy≤cTmaxz=bys.t.ATy≤cT
+
+具有相同的最优解
+
+存储结构
+
+
+
+double c[100],a[100][100],b[100]1
+
+在读取输入时,用c[100]存向量b,用b[100]存向量c,用a[100][100]存向量ATAT,实现对偶变换 
+单纯形法
+
+
+
+    while (1) 
+    {
+        //找入基变量
+        for (iVar = 0; iVar < n; ++iVar)
+            if (c[iVar] > 0)
+                break;
+        if (iVar == n)
+            break;
+        //找离基变量
+        double min = 1e9;
+        int eVar=-1;
+        for (int j = 0; j < m; ++j)
+            if (a[j][iVar] > 0 && b[j] / a[j][iVar] < min) {
+                min = b[j] / a[j][iVar];
+                eVar=j;
+            }
+        if (eVar==-1) {
+            printf("无界");
+            break;
+        }
+        //进行转轴
+        pivot(eVar,iVar,&z);12345678910111213141516171819202122
+
+转轴函数
+
+
+
+pivot(l, e, v) {
+    //修改离基变量所在的约束方程
+    for (j = 0; j < n; j++)
+        if (j != e)
+            a[l][j] /= a[l][e];
+    b[l] /= a[l][e];
+    for (i = 0; i < m; i++)//修改其他含入基变量的约束方程
+        if (i != l && a[i][e] != 0) {
+            b[i] -= a[i][e] * b[l];
+            for (j = 0; j < n; j++)
+                if (j != e)
+                    a[i][j] -= a[i][e] * a[l][j];
+            a[i][e] = a[i][e] * (-a[l][e]);
+        }
+    *v += c[e] * b[l];
+    //修改目标函数
+    for (j = 0; j < n; j++)
+        if (j != e)
+            c[j] -= c[e] * a[l][j];
+    c[e] = c[e] * (-a[l][e]);
+}123456789101112131415161718192021
+
+计算原问题的最优解
+
+
+  互补松弛定理设X0、Y0X0、Y0分别为原问题与对偶问题的可行解，Xs、YsXs、Ys分别是原问题与对偶问题的松弛变量，则当且仅当X0X0和Y0Y0是最优解时，有YsX0=0YsX0=0和Y0Xs=0Y0Xs=0。
+
+
+YsX0=0YsX0=0即∑i=1nym+ixi=0(m为原问题约束的个数)∑i=1nym+ixi=0(m为原问题约束的个数)
+
+因为x,y>0x,y>0, 所以和式的每一项都是0,如果ym+i≠0ym+i≠0则xi=0xi=0。Y0Xs=0Y0Xs=0同理。 
+因此,由对偶问题的最优解可以确定原问题的部分变量是0,当某个松弛变量是0时,对应约束变成等式。取所有等式约束,解方程组,就可以得到其余变量的值。
+
+
+
+算法分析
+
+
+
+2. 对偶单纯形法
+
+
+时间复杂度 
+我们假设有nn个非基变量，mm个基本变量 
+首先我们来分析pivot（转轴）的时间复杂度: 
+首先修改离基变量所在的约束方程，使离基变量系数为1这个过程需要遍历离基变量所在约束条件上所有变量的系数，有t1=nt1=n 
+接着要修改其他含入基变量的约束方程，有t2=(m−1)nt2=(m−1)n 
+最后要修改目标函数，有t3=nt3=n 
+总的时间复杂度为tp=t1+t2+t3=(m+1)ntp=t1+t2+t3=(m+1)n 
+接着分析simplex（单纯形表）时间复杂度： 
+每次进行入基变量的寻找需要t1=nt1=n 
+寻找离基变量t2=mt2=m 
+然后进行转轴操作tp=(m+1)×ntp=(m+1)×n 
+完成一次需要ts1=t1+t2+tp=(m+2)×n+m=O(mn)ts1=t1+t2+tp=(m+2)×n+m=O(mn) 
+根据定理，simplex在至多(n+mm)(n+mm)次迭代内不终止，则一定是循环的。 
+考虑最坏情况，则算法时间复杂度可以表示为t′s=Cmn+m×ts1=O((n+m)!(m−1)!(n−1)!)=O(m+n−−−−−√mn−−−√×(nm+1)m×(mn+1)n)ts′=Cn+mm×ts1=O((n+m)!(m−1)!(n−1)!)=O(m+nmn×(nm+1)m×(mn+1)n) 
+所以一般情况下，算法时间复杂度视迭代次数而定，若迭代次数为PiPi则ts=Pi×ts1ts=Pi×ts1 
+若迭代次数不大，可以说时间复杂度为ts=O(mn)ts=O(mn) 
+若迭代次数超出范围，可以说时间复杂度为ts=O(Pi)ts=O(Pi) 
+其中，范围的零界点为，当Pi=ts1Pi=ts1即Pi=O(mn)Pi=O(mn)
+空间复杂度 
+存储所有非基变量和基本变量的系数，这部分占用空间S1=mnS1=mn 
+基本变量和非基本变量的下标，这部分需要占用空间S2=m+nS2=m+n 
+存储约束值需要占用空间S3=mS3=m 
+存储目标函数系数占用空间S4=nS4=n 
+目标函数计算值占用空间S5=1S5=1
+
+
+
+
+程序实现
+
+
+
+#include <stdio.h>
+#include <memory.h>
+
+int n, m;
+double c[100],a[100][100],b[100],ans[100];
+double bt[100],at[100][100],ct[100],originalAns[100];
+int h[10000];
+int base[100],nonBase[100];
+
+void pivot(int l,int e, double *v) {
+    int temp=base[l];
+    base[l]=nonBase[e];
+    nonBase[e]=temp;
+    //离基变量所在的约束方程的各非基本变量的系数除以入基变量的系数
+    for (int j = 0; j < n; j++)
+        if (j != e)
+            a[l][j] /= a[l][e];
+    //常数除入基变量的系数
+    b[l] /= a[l][e];
+
+    a[l][e] = 1 / a[l][e];//1是约束中基本变量（离基变量）的系数，a[l][e]由入基变量的系数更新为离基变量的系数
+    //至此，离基变量所在的约束方程更改完毕
+
+    //修改其他含入基变量的约束方程
+    for (int i = 0; i < m; i++)
+        //找除了离基变量所在的其他所有包含入基变量的约束方程
+        if (i != l && a[i][e] != 0) {
+            //修改常数项
+            b[i] -= a[i][e] * b[l];
+            //修改除入基变量外其他变量的系数
+            for (int j = 0; j < n; j++)
+                if (j != e)
+                    a[i][j] -= a[i][e] * a[l][j];
+            //a[i][e]由入基变量的系数更新为离基变量的系数
+            a[i][e] = a[i][e] * (-a[l][e]);
+        }
+    *v += c[e] * b[l];
+    //修改目标函数
+    for (int j = 0; j < n; j++)
+        if (j != e)
+            c[j] -= c[e] * a[l][j];
+    c[e] = c[e] * (-a[l][e]);
+}
+double simplex() {
+    double z=0;
+    int iVar;
+    while (1) {
+        //找入基变量
+        for (iVar = 0; iVar < n; ++iVar) {
+            if (c[iVar] > 0)//正数都是入基变量
+                break;
+        }
+        //没有入基变量则算法完成或者无解
+        if (iVar == n) {
+            break;
+        }
+        //找离基变量
+        double min = 1e9;
+        int eVar=-1;
+        for (int j = 0; j < m; ++j)
+            if (a[j][iVar] > 0 && b[j] / a[j][iVar] < min) {
+                min = b[j] / a[j][iVar];
+                eVar=j;
+            }
+        //无界会导致找不到离基变量
+        if (eVar==-1) {
+            printf("无界");
+            break;
+        }
+        //进行转轴
+        printf("%d行 %d列换\n",eVar+1,iVar+1);
+        pivot(eVar,iVar,&z);
+    }
+    return z;
+}
+
+int determinant(int a[],int n) {
+    int j, s;
+    if (n == 1) 
+        s = a[0];
+    else 
+        for (s = 0, j = 0; j < n; j++) {
+            int cofactors(int x, int b[], int y);
+            if ((j % 2) == 0) 
+                s = s + a[j] * cofactors(j, a, n);
+            else 
+                s = s - a[j] * cofactors(j, a, n);
+        }
+    return s;
+}
+int cofactors(int x,int b[],int y) {
+    int m, l, k = (y - 1) * (y - 1), q, c[k];
+    for (m = y, l = 0; m < y * y; m++, l++) {
+        if (m % y == x) 
+            m++;
+        c[l] = b[m];
+    }
+    q = determinant(c, y - 1);
+    return q;
+}
+void equations()
+{
+    for (int i = 0; i < n+m; ++i)
+        originalAns[i]=1;
+    //根据互补松弛定理，得到原问题可行解和松弛变量的部分值
+    //先看Y1-Ym,对应原问题的松弛变量Xn+1-Xn+m
+    int c=0;//等式个数
+    for (int l = 0; l < n; ++l) //由于实际用n存m的值
+        if (ans[l]) {
+            originalAns[l + m] = 0;
+            c++;
+        }
+    //再看Ym+1-Ym+n,对应原问题的可行解X1-Xn
+    for (int l = n; l < n+m; ++l) //由于实际用n存m的值
+        if (ans[l])
+            originalAns[l - n] = 0;
+
+    //构造方程组
+    double aa[100][100];
+    int kx,ky=0;
+    int index[100];
+    for (int i = 0; i < m; ++i)
+        //如果可行解中某个变量为0，系数矩阵中对应列可直接忽略
+        if (originalAns[i]) {
+            index[ky]=i;
+            kx=0;
+            for (int j = 0; j < n; ++j)
+                if (originalAns[j+m] == 0) {//如果某松弛变量为0，对应的约束不等式变成等式（不等式不考虑）
+                    aa[kx][0]=bt[j];
+                    aa[kx][ky+1] = at[j][i];
+                    kx++;
+                }
+            ky++;
+        }
+    //解方程组
+    double d;
+    for (int k = 0; k <=ky; ++k) {
+        for (int i = 0; i < c; i++)
+            for (int j = 0; j < ky; j++)
+                if (j+1 != k)
+                    h[i * ky + j] = (int) aa[i][j+1];
+                else
+                    h[i * ky + j] = (int) aa[i][0];
+        if (k == 0)
+            d = determinant(h, ky);
+        else
+            originalAns[index[k - 1]] = determinant(h, ky) / d;
+    }
+}
+
+int main() {
+    scanf("%d %d", &m, &n);//输入时就完成对偶变换
+    for (int i = 0; i < n; ++i)
+        nonBase[i]=i+1;//非基本变量y1,y2...
+    for (int i = 0; i < m; ++i)
+        base[i]=i+1+n;//基本变量yn+1,yn+2...用于记录转轴过程,知道最后哪个位置上是哪个变量
+    memset(b, 0, n* sizeof(double));
+    memset(a, 0, sizeof(int*)*100*100);
+
+    for (int k = 0; k < m; ++k)
+        scanf("%lf", &b[k]);
+    for (int k = 0; k < m; ++k)
+        ct[k]=b[k];
+    int left, right;
+    for (int i = 0; i < n; ++i) {
+        scanf("%d %d %lf", &left, &right, &c[i]);
+        bt[i]=c[i];
+        for (int j = left - 1; j < right; ++j) {
+            a[j][i] = 1;
+            at[i][j]=1;
+        }
+    }
+    printf("最少花费:%.lf\n",simplex());
+    //输出对偶问题的最优解(包括松弛变量)
+    memset(ans,0,m* sizeof(double));
+    for (int l = 0; l < m; ++l)
+        ans[base[l] - 1] = b[l];
+    printf("最优解：");
+    for (int l = 0; l < m + n; ++l) {
+        printf("%.lf ",ans[l]);
+    }
+    //计算原问题的最优解
+    equations();
+    printf("\n原问题的最优解：");
+    for (int i = 0; i < m; ++i)
+        printf("%.lf ",originalAns[i]);
+    return 0;
+}123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137138139140141142143144145146147148149150151152153154155156157158159160161162163164165166167168169170171172173174175176177178179180181182183184185186187188
+
+
+
+测试数据及结果
+
+2组测试数据 
+5 3 
+1 5 6 3 4 
+2 3 1 
+1 5 4 
+3 5 2 
+最少花费 11 
+最优解 2 0 1 1 0
+
+6 4 
+12 14 33 8 7 15 
+1 4 13 
+2 3 12 
+3 6 15 
+5 6 9 
+最少花费 274 
+最优解 0 12 0 1 14 0,,,,,

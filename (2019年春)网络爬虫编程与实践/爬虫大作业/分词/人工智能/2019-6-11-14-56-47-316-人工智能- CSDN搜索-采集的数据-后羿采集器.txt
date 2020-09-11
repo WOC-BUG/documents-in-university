@@ -1,0 +1,25 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/leansmall/article/details/80314002/url ,/w 人工智能/n （/w Artificial/en Intelligence/en ）/w ，/w 英文/n 缩写/n 为/p AI/n 。/w 它/r 是/v 研究/v 、/w 开发/v 用于/v 模拟/v 、/w 延伸/v 和/c 扩展/v 人/n 的/u 智能/n 的/u 理论/n 、/w 方法/n 、/w 技术/n 及/c 应用系统/n 的/u 一门/nz 新/a 的/u 技术科学/n 。/w  /0  /0 人工智能/n 是/v 计算机/np 科学/a 的/u 一个/mq 分支/n ，/w 它/r 企图/v 了解/v 智能/n 的/u 实质/n ，/w 并/c 生产/v 出/q 一/m 种/ng 新/a 的/u 能/ng 以/p 人类/n 智能/n 相似/a 的/u 方式/n 做出/v 反应/n 的/u 智能机/n 器/k ，/w 该/r 领域/n 的/u 研究/v 包括/v 机器人/n 、/w 语言/n 识别/v 、/w 图像/n 识别/v 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng 。/w 人工智能/n 从/p 诞生/v 以来/f ，/w 理论/n 和/c 技术/n 日益/d 成/ng .../m ,/w https://blog.csdn.net/leansmall/article/details/80314002/url ,/w ,/w leansmall/en ,/w 2018-05-14/t ,/w //blog.csdn.net/leansmall/article/details/80314002/url ,/w 93/m 次/a 阅读/v ,/w 人工智能/n -/w 灵/a 思/ng 致远/nz Leansmall/en 的/u 博客/n ,/w 2018年05月14日 19:33:16/t ,/w 转/q 人工智能/n
+
+
+
+2018年05月14日 19:33:16/t
+灵/a 思/ng 致远/nz Leansmall/en
+阅读/v 数/m ：/w 94/m 更多/n
+
+
+个人/n 分类/v ：/w
+新技术/n
+
+
+
+
+
+
+
+
+
+
+
+
+/0  /0 人工智能/n （/w Artificial/en Intelligence/en ）/w ，/w 英文/n 缩写/n 为/p AI/n 。/w 它/r 是/v 研究/v 、/w 开发/v 用于/v 模拟/v 、/w 延伸/v 和/c 扩展/v 人/n 的/u 智能/n 的/u 理论/n 、/w 方法/n 、/w 技术/n 及/c 应用系统/n 的/u 一门/nz 新/a 的/u 技术科学/n 。/w  /0  /0 人工智能/n 是/v 计算机/np 科学/a 的/u 一个/mq 分支/n ，/w 它/r 企图/v 了解/v 智能/n 的/u 实质/n ，/w 并/c 生产/v 出/q 一/m 种/ng 新/a 的/u 能/ng 以/p 人类/n 智能/n 相似/a 的/u 方式/n 做出/v 反应/n 的/u 智能机/n 器/k ，/w 该/r 领域/n 的/u 研究/v 包括/v 机器人/n 、/w 语言/n 识别/v 、/w 图像/n 识别/v 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng 。/w 人工智能/n 从/p 诞生/v 以来/f ，/w 理论/n 和/c 技术/n 日益/d 成熟/a ，/w 应用领域/n 也/d 不断/d 扩大/v ，/w 可以/a 设想/v ，/w 未来/t 人工智能/n 带来/v 的/u 科技产品/n ，/w 将/d 会/n 是/v 人类/n 智慧/n 的/u “/w 容器/n ”/w 。/w 人工智能/n 可以/a 对/a 人/n 的/u 意识/n 、/w 思维/n 的/u 信息/n 过程/n 的/u 模拟/v 。/w 人工智能/n 不是/n 人/n 的/u 智能/n ，/w 但/c 能/ng 像/n 人/n 那样/r 思考/v 、/w 也/d 可能/a 超过/v 人/n 的/u 智能/n 。/w  /0  /0 人工智能/n 是/v 一门/nz 极富/v 挑战性/n 的/u 科学/a ，/w 从事/v 这项/r 工作/n 的/u 人/n 必须/d 懂得/v 计算机/np 知识/n ，/w 心理学/n 和/c 哲学/n 。/w 人工智能/n 是/v 包括/v 十分/d 广泛/a 的/u 科学/a ，/w 它/r 由/p 不同/a 的/u 领域/n 组成/v ，/w 如/c 机器/np 学习/v ，/w 计算机/np 视觉/n 等等/u ，/w 总的说来/ldm ，/w 人工智能/n 研究/v 的/u 一个/mq 主要/b 目标/n 是/v 使/ng 机器/np 能够/v 胜任/v 一些/mq 通常/b 需要/n 人类/n 智能/n 才能/v 完成/v 的/u 复杂/a 工作/n 。/w 但/c 不同/a 的/u 时代/n 、/w 不同/a 的/u 人/n 对/a 这种/r “/w 复杂/a 工作/n ”/w 的/u 理解/v 是/v 不同/a 的/u 。/w  /0  /0  /0 发展/v 情况/n 可以/a 参考/v 如下/v 文章/n ：https://zhuanlan.zhihu.com/p/26865482/url

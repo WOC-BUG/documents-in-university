@@ -1,0 +1,387 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 基站/n ,/w 问题/n 描述/v nn/en 现在/t 5/m G/m 时代/n 已经/d 到来/v ，/w 需要/n 对/a 现有/v 的/u 通信/v 基站/n 进行/v 升级/v 改造/v 。/w 每个/r 地区/ny 为了/p 保证/v 信号/n 和/c 传输/v 速率/n ，/w 需要/n 建造/v 一定/b 数量/n 的/u 5/m G/m 基站/n 。/w 在/d 第/m iii/en 个/q 地区/ny 建一/nz 座/ng 基站/n 有/v CiCiC/en _/0 i/n 的/u 花费/n ，/w 且/c 一个/mq 地区/ny 可以/a 建/ng 任意/b 多/a 的/u 基站/n ,/w 费用/n 累加/v 计算/v 。/w ,/w weixin/en _/0 40593462/m ,/w https://blog.csdn.net/weixin_40593462/article/details/80382846/url ,/w 2018-05-23/t ,/w 1660/m 次/a 阅读/v ,/w 5/m G/m 基站/n -/w 木石/n ms/n 的/u 博客/n ,/w 2018年05月23日 19:08:54/t ,/w (/w 此/r 为/p 翻转/v 课堂/n 的/u 课题/n ，/w 其他/r 主要/b 贡献者/n ：/w 胡同/ny 学/k ，/w 傅/ng 同学/nm )/w
+
+问题/n 描述/v
+
+现在/t 5/m G/m 时代/n 已经/d 到来/v ，/w 需要/n 对/a 现有/v 的/u 通信/v 基站/n 进行/v 升级/v 改造/v 。/w 每个/r 地区/ny 为了/p 保证/v 信号/n 和/c 传输/v 速率/n ，/w 需要/n 建造/v 一定/b 数量/n 的/u 5/m G/m 基站/n 。/w 在/d 第/m ii/en 个/q 地区/ny 建一/nz 座/ng 基站/n 有/v CiCi/en 的/u 花费/n ，/w 且/c 一个/mq 地区/ny 可以/a 建/ng 任意/b 多/a 的/u 基站/n ,/w 费用/n 累加/v 计算/v 。/w 有/v mm/n 个/q 地区/ny 范围/n [/w L/en 1/m ,/w R/en 1/m ]/w ,/w [/w L/en 2/m ,/w R/en 2/m ]/w ,/w ⋯/0 ,/w [/w Lm/en ,/w Rm/en ]/w [/w L/en 1/m ,/w R/en 1/m ]/w ,/w [/w L/en 2/m ,/w R/en 2/m ]/w ,/w ⋯/0 ,/w [/w Lm/en ,/w Rm/en ]/w ，/w 在/d 第/m ii/en 个/q 地区/ny 范围/n 内/f 要/v 建/ng 至少/d DiDi/en 座/ng 基站/n 。/w
+求/ng 最少/d 花费/n 。/w
+
+
+
+问题/n 分析/v
+
+问题/n 比较/d 简单明了/ia ,/w 就是/n 在/d 一些/mq 约束/v 条件/n 下/f 求/ng 目标/n 函数/n 的/u 最小/a 值/a
+
+
+
+数学/n 模型/n
+
+设/v 共/d nn/en 个/q 地区/ny ,/w 在/d 第/m ii/en 个/q 地区/ny 建/ng xixi/en 个/q 基站/n ,/w 问题/n 可/v 表示/v 为/p min/en  /0  /0 z/en =/0 ∑/0 Cixi/en  /0 ,/w  /0 1/m ≤/0 i/n ≤/0 nmin/en  /0  /0 z/en =/0 ∑/0 Cixi/en  /0 ,/w  /0 1/m ≤/0 i/n ≤/0 n/n
+
+约束/v 条件/n ⎧/0 ⎩/0 ⎨/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ⎪/0 ∑/0 R/en 1/m i/en =/0 L/en 1/m xi/en ≥/0 D/en 1/m ∑/0 R/en 2/m i/en =/0 L/en 2/m xi/en ≥/0 D/en 2/m ⋮/0 ∑/0 Rmi/en =/0 Lmxm/en ≥/0 Dmxi/en ≥/0 0/m ,/w xi/en ∈/0 N/en {/0 ∑/0 i/en =/0 L/en 1/m R/en 1/m xi/en ≥/0 D/en 1/m ∑/0 i/en =/0 L/en 2/m R/en 2/m xi/en ≥/0 D/en 2/m ⋮/0 ∑/0 i/en =/0 LmRmxm/en ≥/0 Dmxi/en ≥/0 0/m ,/w xi/en ∈/0 N/n
+
+
+
+算法/n 策略/n
+
+这是/n 典型/a 的/u 线性规划/ln 问题/n ,/w 单纯/a 形/ng 法/k 是/v 解决/v 线性规划/ln 的/u 常用/n 方法/n 。/w 但/c 问题/n 求/ng 的/u 是/v 目标/n 函数/n 的/u 最小/a 值/a ,/w 并非/d 标准/a 形式/n 。/w 将/d 目标/n 函数/n 等号/n 两边/f 同/a 乘/ng -/w 1/m ,/w 转换/v 成/ng 求/ng −/0 z/en −/0 z/en 的/u 最大值/n 。/w 添加/v 松弛/a 变量/n ,/w 发现/v 松弛/a 变量/n 的/u 系数/n 是/v 负/b 的/u ,/w 找/v 不到/v 基本/a 变量/n ,/w 普通/a 单纯/a 形/ng 法/k 无法/v 继续/v 。/w 所以/c ,/w 我们/r 使用/v 以下/f 方法/n :/w
+
+
+
+1./m 大/a M/n 单纯/a 形/ng 法/k
+
+添加/v 人工/b 变量/n …/w
+
+
+
+2./m 对偶/n 单纯/a 形/ng 法/k
+
+根据/n 对偶/n 原理/n ,/w 求解/v 对偶/n 问题/n 然后/c 得到/v 原/b 问题/n 的/u 解/ng
+
+
+
+3./m 其他方/n 法/k
+
+变量/n 全/a 是/v 整数/n ,/w 可以/a 用/ng 整数/n 规划/n 的/u 方法/n
+如果/c 用/ng 矩阵/n 表示/v 约束/v 条件/n ,/w 系数/n 矩阵/n 的/u 元素/n 不是/n 0/m 就是/n 1/m ,/w 称为/v 全幺模/nr 矩阵/n ,/w 又/d 有/v 针对/v 全幺模/nr 矩阵/n 的/u 更/d 优/a 的/u 方法/n
+
+
+
+算法/n 描述/v
+
+
+
+1./m 大/a M/n 单纯/a 形/ng 法/k
+
+
+
+2./m 对偶/n 单纯/a 形/ng 法/k
+
+定义/n 向量/n c/en =/0 (/w C/en 1/m  /0 C/en 2/m  /0 ⋯/0 Cn/en )/w c/en =/0 (/w C/en 1/m  /0 C/en 2/m  /0 ⋯/0 Cn/en )/w ,/w 向量/n x/en =/0 (/w x/en 1/m  /0 x/en 2/m  /0 ⋯/0 xn/en )/w Tx/en =/0 (/w x/en 1/m  /0 x/en 2/m  /0 ⋯/0 xn/en )/w T/en ,/w 向量/n b/en =/0 (/w D/en 1/m  /0 D/en 2/m  /0 ⋯/0 Dm/en )/w Tb/en =/0 (/w D/en 1/m  /0 D/en 2/m  /0 ⋯/0 Dm/en )/w T/en ,/w 系数/n 矩阵/n AA/en ,/w 问题/n 可/v 描述/v 为/p minz=cxs.t.Ax/url ≥/0 bminz=cxs.t.Ax/url ≥/0 b/n
+
+根据/n 对偶/n 原理/n ,/w 其/r 对偶/n 问题/n maxz=bys.t.ATy/url ≤/0 cTmaxz=bys.t.ATy/url ≤/0 cT/n
+
+具有/v 相同/a 的/u 最/d 优/a 解/ng
+
+存储/v 结构/n
+
+
+
+double/en c/en [/w 100/m ]/w ,/w a/en [/w 100/m ]/w [/w 100/m ]/w ,/w b/en [/w 100/m ]/w 1/m
+
+在读/vn 取/v 输入/v 时/n ,/w 用/ng c/en [/w 100/m ]/w 存/v 向量/n b/en ,/w 用/ng b/en [/w 100/m ]/w 存/v 向量/n c/en ,/w 用/ng a/en [/w 100/m ]/w [/w 100/m ]/w 存/v 向量/n ATAT/en ,/w 实现/v 对偶/n 变换/v
+单纯/a 形/ng 法/k
+
+
+
+while/en (/w 1/m )/w
+{/0
+//w //w 找/v 入/ng 基/ng 变量/n
+for/en (/w iVar/en =/0 0/m ;/w iVar/en </w n/en ;/w +/0 +/0 iVar/en )/w
+if/en (/w c/en [/w iVar/en ]/w >/w 0/m )/w
+break/en ;/w
+if/en (/w iVar/en =/0 =/0 n/en )/w
+break/en ;/w
+//w //w 找/v 离/ng 基/ng 变量/n
+double/en min/en =/0 1/m e/en 9/m ;/w
+int/en eVar/en =/0 -/w 1/m ;/w
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w m/en ;/w +/0 +/0 j/en )/w
+if/en (/w a/en [/w j/en ]/w [/w iVar/en ]/w >/w 0/m &/0 &/0 b/en [/w j/en ]/w //w a/en [/w j/en ]/w [/w iVar/en ]/w </w min/en )/w {/0
+min/en =/0 b/en [/w j/en ]/w //w a/en [/w j/en ]/w [/w iVar/en ]/w ;/w
+eVar/en =/0 j/en ;/w
+}/0
+if/en (/w eVar/en =/0 =/0 -/w 1/m )/w {/0
+printf/en (/w "/0 无/v 界/k "/0 )/w ;/w
+break/en ;/w
+}/0
+//w //w 进行/v 转轴/n
+pivot/en (/w eVar/en ,/w iVar/en ,/w &/0 z/en )/w ;/w 12345678910111213141516171819202122/m
+
+转轴/n 函数/n
+
+
+
+pivot/en (/w l/en ,/w e/en ,/w v/en )/w {/0
+//w //w 修改/v 离/ng 基/ng 变量/n 所在/n 的/u 约束/v 方程/n
+for/en (/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en !/w =/0 e/en )/w
+a/en [/w l/en ]/w [/w j/en ]/w //w =/0 a/en [/w l/en ]/w [/w e/en ]/w ;/w
+b/en [/w l/en ]/w //w =/0 a/en [/w l/en ]/w [/w e/en ]/w ;/w
+for/en (/w i/en =/0 0/m ;/w i/en </w m/en ;/w i/en +/0 +/0 )/w //w //w 修改/v 其他/r 含/v 入/ng 基/ng 变量/n 的/u 约束/v 方程/n
+if/en (/w i/en !/w =/0 l/en &/0 &/0 a/en [/w i/en ]/w [/w e/en ]/w !/w =/0 0/m )/w {/0
+b/en [/w i/en ]/w -/w =/0 a/en [/w i/en ]/w [/w e/en ]/w */w b/en [/w l/en ]/w ;/w
+for/en (/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en !/w =/0 e/en )/w
+a/en [/w i/en ]/w [/w j/en ]/w -/w =/0 a/en [/w i/en ]/w [/w e/en ]/w */w a/en [/w l/en ]/w [/w j/en ]/w ;/w
+a/en [/w i/en ]/w [/w e/en ]/w =/0 a/en [/w i/en ]/w [/w e/en ]/w */w (/w -/w a/en [/w l/en ]/w [/w e/en ]/w )/w ;/w
+}/0
+*/w v/en +/0 =/0 c/en [/w e/en ]/w */w b/en [/w l/en ]/w ;/w
+//w //w 修改/v 目标/n 函数/n
+for/en (/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en !/w =/0 e/en )/w
+c/en [/w j/en ]/w -/w =/0 c/en [/w e/en ]/w */w a/en [/w l/en ]/w [/w j/en ]/w ;/w
+c/en [/w e/en ]/w =/0 c/en [/w e/en ]/w */w (/w -/w a/en [/w l/en ]/w [/w e/en ]/w )/w ;/w
+}/0 123456789101112131415161718192021/m
+
+计算/v 原/b 问题/n 的/u 最/d 优/a 解/ng
+
+
+互补/v 松弛/a 定理/n 设/v X/en 0/m 、/w Y/en 0/m X/en 0/m 、/w Y/en 0/m 分别/d 为/p 原/b 问题/n 与/c 对偶/n 问题/n 的/u 可行/a 解/ng ，/w Xs/en 、/w YsXs/en 、/w Ys/n 分别/d 是/v 原/b 问题/n 与/c 对偶/n 问题/n 的/u 松弛/a 变量/n ，/w 则/c 当/ag 且/c 仅/d 当/ag X/en 0/m X/en 0/m 和/c Y/en 0/m Y/en 0/m 是/v 最/d 优/a 解时/nr ，/w 有/v YsX/en 0/m =/0 0/m YsX/en 0/m =/0 0/m 和/c Y/en 0/m Xs/en =/0 0/m Y/en 0/m Xs/en =/0 0/m 。/w
+
+
+YsX/en 0/m =/0 0/m YsX/en 0/m =/0 0/m 即/c ∑/0 i/en =/0 1/m nym/en +/0 ixi/en =/0 0/m (/w m/n 为/p 原/b 问题/n 约束/v 的/u 个数/n )/w ∑/0 i/en =/0 1/m nym/en +/0 ixi/en =/0 0/m (/w m/n 为/p 原/b 问题/n 约束/v 的/u 个数/n )/w
+
+因为/c x/en ,/w y/en >/w 0/m x/en ,/w y/en >/w 0/m ,/w 所以/c 和式/b 的/u 每/r 一/m 项/ng 都/d 是/v 0/m ,/w 如果/c ym/en +/0 i/n ≠/0 0/m ym/en +/0 i/n ≠/0 0/m 则/c xi/en =/0 0/m xi/en =/0 0/m 。/w Y/en 0/m Xs/en =/0 0/m Y/en 0/m Xs/en =/0 0/m 同理/n 。/w
+因此/c ,/w 由/p 对偶/n 问题/n 的/u 最/d 优/a 解/ng 可以/a 确定/a 原/b 问题/n 的/u 部分/n 变量/n 是/v 0/m ,/w 当/ag 某个/r 松弛/a 变量/n 是/v 0/m 时/n ,/w 对应/v 约束/v 变成/v 等式/n 。/w 取/v 所有/b 等式/n 约束/v ,/w 解/ng 方程组/n ,/w 就/d 可以/a 得到/v 其余/r 变量/n 的/u 值/a 。/w
+
+
+
+算法/n 分析/v
+
+
+
+2./m 对偶/n 单纯/a 形/ng 法/k
+
+
+时间/n 复杂度/n
+我们/r 假设/n 有/v nn/en 个/q 非/d 基/ng 变量/n ，/w mm/n 个/q 基本/a 变量/n
+首先/c 我们/r 来/u 分析/v pivot/en （/w 转轴/n ）/w 的/u 时间/n 复杂度/n :/w
+首先/c 修改/v 离/ng 基/ng 变量/n 所在/n 的/u 约束/v 方程/n ，/w 使/ng 离/ng 基/ng 变量/n 系数/n 为/p 1/m 这个/r 过程/n 需要/n 遍历/v 离/ng 基/ng 变量/n 所在/n 约束/v 条件/n 上/f 所有/b 变量/n 的/u 系数/n ，/w 有/v t/en 1/m =/0 nt/en 1/m =/0 n/en
+接着/c 要/v 修改/v 其他/r 含/v 入/ng 基/ng 变量/n 的/u 约束/v 方程/n ，/w 有/v t/en 2/m =/0 (/w m/n −/0 1/m )/w nt/en 2/m =/0 (/w m/n −/0 1/m )/w n/en
+最后/f 要/v 修改/v 目标/n 函数/n ，/w 有/v t/en 3/m =/0 nt/en 3/m =/0 n/en
+总的/b 时间/n 复杂度/n 为/p tp/en =/0 t/en 1/m +/0 t/en 2/m +/0 t/en 3/m =/0 (/w m/en +/0 1/m )/w ntp/en =/0 t/en 1/m +/0 t/en 2/m +/0 t/en 3/m =/0 (/w m/en +/0 1/m )/w n/en
+接着/c 分析/v simplex/en （/w 单纯/a 形/ng 表/n ）/w 时间/n 复杂度/n ：/w
+每次/r 进行/v 入/ng 基/ng 变量/n 的/u 寻找/v 需要/n t/en 1/m =/0 nt/en 1/m =/0 n/en
+寻找/v 离/ng 基/ng 变量/n t/en 2/m =/0 mt/en 2/m =/0 m/en
+然后/c 进行/v 转轴/n 操作/v tp/en =/0 (/w m/en +/0 1/m )/w ×/m ntp/en =/0 (/w m/en +/0 1/m )/w ×/m n/en
+完成/v 一次/mq 需要/n ts/en 1/m =/0 t/en 1/m +/0 t/en 2/m +/0 tp/en =/0 (/w m/en +/0 2/m )/w ×/m n/en +/0 m/en =/0 O/en (/w mn/en )/w ts/en 1/m =/0 t/en 1/m +/0 t/en 2/m +/0 tp/en =/0 (/w m/en +/0 2/m )/w ×/m n/en +/0 m/en =/0 O/en (/w mn/en )/w
+根据/n 定理/n ，/w simplex/en 在/d 至多/d (/w n/en +/0 mm/en )/w (/w n/en +/0 mm/en )/w 次/a 迭代/v 内/f 不/d 终止/v ，/w 则/c 一定/b 是/v 循环/v 的/u 。/w
+考虑/v 最/d 坏/a 情况/n ，/w 则/c 算法/n 时间/n 复杂度/n 可以/a 表示/v 为/p t/q ′/0 s/en =/0 Cmn/en +/0 m/en ×/m ts/en 1/m =/0 O/en (/w (/w n/en +/0 m/en )/w !/w (/w m/n −/0 1/m )/w !/w (/w n/n −/0 1/m )/w !/w )/w =/0 O/en (/w m/en +/0 n/n −/0 −/0 −/0 −/0 −/0 √/0 mn/n −/0 −/0 −/0 √/0 ×/m (/w nm/en +/0 1/m )/w m/en ×/m (/w mn/en +/0 1/m )/w n/en )/w ts/n ′/0 =/0 Cn/en +/0 mm/en ×/m ts/en 1/m =/0 O/en (/w (/w n/en +/0 m/en )/w !/w (/w m/n −/0 1/m )/w !/w (/w n/n −/0 1/m )/w !/w )/w =/0 O/en (/w m/en +/0 nmn/en ×/m (/w nm/en +/0 1/m )/w m/en ×/m (/w mn/en +/0 1/m )/w n/en )/w
+所以/c 一般/a 情况/n 下/f ，/w 算法/n 时间/n 复杂度/n 视/v 迭代/v 次数/n 而定/nz ，/w 若/c 迭代/v 次数/n 为/p PiPi/en 则/c ts/en =/0 Pi/en ×/m ts/en 1/m ts/en =/0 Pi/en ×/m ts/en 1/m
+若/c 迭代/v 次数/n 不大/n ，/w 可以/a 说/ag 时间/n 复杂度/n 为/p ts/en =/0 O/en (/w mn/en )/w ts/en =/0 O/en (/w mn/en )/w
+若/c 迭代/v 次数/n 超出/v 范围/n ，/w 可以/a 说/ag 时间/n 复杂度/n 为/p ts/en =/0 O/en (/w Pi/en )/w ts/en =/0 O/en (/w Pi/en )/w
+其中/r ，/w 范围/n 的/u 零/m 界/k 点/m 为/p ，/w 当/ag Pi/en =/0 ts/en 1/m Pi/en =/0 ts/en 1/m 即/c Pi/en =/0 O/en (/w mn/en )/w Pi/en =/0 O/en (/w mn/en )/w
+空间/n 复杂度/n
+存储/v 所有/b 非/d 基/ng 变量/n 和/c 基本/a 变量/n 的/u 系数/n ，/w 这部分/mq 占用/v 空间/n S/en 1/m =/0 mnS/en 1/m =/0 mn/en
+基本/a 变量/n 和非/nr 基本/a 变量/n 的/u 下标/n ，/w 这部分/mq 需要/n 占用/v 空间/n S/en 2/m =/0 m/en +/0 nS/en 2/m =/0 m/en +/0 n/en
+存储/v 约束/v 值/a 需要/n 占用/v 空间/n S/en 3/m =/0 mS/en 3/m =/0 m/en
+存储/v 目标/n 函数/n 系数/n 占用/v 空间/n S/en 4/m =/0 nS/en 4/m =/0 n/en
+目标/n 函数/n 计算/v 值/a 占用/v 空间/n S/en 5/m =/0 1/m S/en 5/m =/0 1/m
+
+
+
+
+程序/n 实现/v
+
+
+
+#/w include/en </w stdio.h/url >/w
+#/w include/en </w memory.h/url >/w
+
+int/en n/en ,/w m/en ;/w
+double/en c/en [/w 100/m ]/w ,/w a/en [/w 100/m ]/w [/w 100/m ]/w ,/w b/en [/w 100/m ]/w ,/w ans/en [/w 100/m ]/w ;/w
+double/en bt/en [/w 100/m ]/w ,/w at/en [/w 100/m ]/w [/w 100/m ]/w ,/w ct/en [/w 100/m ]/w ,/w originalAns/en [/w 100/m ]/w ;/w
+int/en h/en [/w 10000/m ]/w ;/w
+int/en base/en [/w 100/m ]/w ,/w nonBase/en [/w 100/m ]/w ;/w
+
+void/en pivot/en (/w int/en l/en ,/w int/en e/en ,/w double/en */w v/en )/w {/0
+int/en temp/en =/0 base/en [/w l/en ]/w ;/w
+base/en [/w l/en ]/w =/0 nonBase/en [/w e/en ]/w ;/w
+nonBase/en [/w e/en ]/w =/0 temp/en ;/w
+//w //w 离/ng 基/ng 变量/n 所在/n 的/u 约束/v 方程/n 的/u 各/r 非/d 基本/a 变量/n 的/u 系数/n 除以/v 入/ng 基/ng 变量/n 的/u 系数/n
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en !/w =/0 e/en )/w
+a/en [/w l/en ]/w [/w j/en ]/w //w =/0 a/en [/w l/en ]/w [/w e/en ]/w ;/w
+//w //w 常数/n 除/ng 入/ng 基/ng 变量/n 的/u 系数/n
+b/en [/w l/en ]/w //w =/0 a/en [/w l/en ]/w [/w e/en ]/w ;/w
+
+a/en [/w l/en ]/w [/w e/en ]/w =/0 1/m //w a/en [/w l/en ]/w [/w e/en ]/w ;/w //w //w 1/m 是/v 约束/v 中基/nz 本/d 变量/n （/w 离/ng 基/ng 变量/n ）/w 的/u 系数/n ，/w a/en [/w l/en ]/w [/w e/en ]/w 由/p 入/ng 基/ng 变量/n 的/u 系数/n 更新/v 为/p 离/ng 基/ng 变量/n 的/u 系数/n
+//w //w 至此/d ，/w 离/ng 基/ng 变量/n 所在/n 的/u 约束/v 方程/n 更改/v 完毕/v
+
+//w //w 修改/v 其他/r 含/v 入/ng 基/ng 变量/n 的/u 约束/v 方程/n
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w m/en ;/w i/en +/0 +/0 )/w
+//w //w 找/v 除了/p 离/ng 基/ng 变量/n 所在/n 的/u 其他/r 所有/b 包含/v 入/ng 基/ng 变量/n 的/u 约束/v 方程/n
+if/en (/w i/en !/w =/0 l/en &/0 &/0 a/en [/w i/en ]/w [/w e/en ]/w !/w =/0 0/m )/w {/0
+//w //w 修改/v 常数/n 项/ng
+b/en [/w i/en ]/w -/w =/0 a/en [/w i/en ]/w [/w e/en ]/w */w b/en [/w l/en ]/w ;/w
+//w //w 修改/v 除/ng 入/ng 基/ng 变量/n 外/f 其他/r 变量/n 的/u 系数/n
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en !/w =/0 e/en )/w
+a/en [/w i/en ]/w [/w j/en ]/w -/w =/0 a/en [/w i/en ]/w [/w e/en ]/w */w a/en [/w l/en ]/w [/w j/en ]/w ;/w
+//w //w a/en [/w i/en ]/w [/w e/en ]/w 由/p 入/ng 基/ng 变量/n 的/u 系数/n 更新/v 为/p 离/ng 基/ng 变量/n 的/u 系数/n
+a/en [/w i/en ]/w [/w e/en ]/w =/0 a/en [/w i/en ]/w [/w e/en ]/w */w (/w -/w a/en [/w l/en ]/w [/w e/en ]/w )/w ;/w
+}/0
+*/w v/en +/0 =/0 c/en [/w e/en ]/w */w b/en [/w l/en ]/w ;/w
+//w //w 修改/v 目标/n 函数/n
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en !/w =/0 e/en )/w
+c/en [/w j/en ]/w -/w =/0 c/en [/w e/en ]/w */w a/en [/w l/en ]/w [/w j/en ]/w ;/w
+c/en [/w e/en ]/w =/0 c/en [/w e/en ]/w */w (/w -/w a/en [/w l/en ]/w [/w e/en ]/w )/w ;/w
+}/0
+double/en simplex/en (/w )/w {/0
+double/en z/en =/0 0/m ;/w
+int/en iVar/en ;/w
+while/en (/w 1/m )/w {/0
+//w //w 找/v 入/ng 基/ng 变量/n
+for/en (/w iVar/en =/0 0/m ;/w iVar/en </w n/en ;/w +/0 +/0 iVar/en )/w {/0
+if/en (/w c/en [/w iVar/en ]/w >/w 0/m )/w //w //w 正数/n 都/d 是/v 入/ng 基/ng 变量/n
+break/en ;/w
+}/0
+//w //w 没有/d 入/ng 基/ng 变量/n 则/c 算法/n 完成/v 或者/c 无/v 解/ng
+if/en (/w iVar/en =/0 =/0 n/en )/w {/0
+break/en ;/w
+}/0
+//w //w 找/v 离/ng 基/ng 变量/n
+double/en min/en =/0 1/m e/en 9/m ;/w
+int/en eVar/en =/0 -/w 1/m ;/w
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w m/en ;/w +/0 +/0 j/en )/w
+if/en (/w a/en [/w j/en ]/w [/w iVar/en ]/w >/w 0/m &/0 &/0 b/en [/w j/en ]/w //w a/en [/w j/en ]/w [/w iVar/en ]/w </w min/en )/w {/0
+min/en =/0 b/en [/w j/en ]/w //w a/en [/w j/en ]/w [/w iVar/en ]/w ;/w
+eVar/en =/0 j/en ;/w
+}/0
+//w //w 无/v 界/k 会/n 导致/v 找/v 不到/v 离/ng 基/ng 变量/n
+if/en (/w eVar/en =/0 =/0 -/w 1/m )/w {/0
+printf/en (/w "/0 无/v 界/k "/0 )/w ;/w
+break/en ;/w
+}/0
+//w //w 进行/v 转轴/n
+printf/en (/w "/0 %/m d/n 行/a %/m d/n 列/n 换/v \/0 n/en "/0 ,/w eVar/en +/0 1/m ,/w iVar/en +/0 1/m )/w ;/w
+pivot/en (/w eVar/en ,/w iVar/en ,/w &/0 z/en )/w ;/w
+}/0
+return/en z/en ;/w
+}/0
+
+int/en determinant/en (/w int/en a/en [/w ]/w ,/w int/en n/en )/w {/0
+int/en j/en ,/w s/en ;/w
+if/en (/w n/en =/0 =/0 1/m )/w
+s/en =/0 a/en [/w 0/m ]/w ;/w
+else/en
+for/en (/w s/en =/0 0/m ,/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w {/0
+int/en cofactors/en (/w int/en x/en ,/w int/en b/en [/w ]/w ,/w int/en y/en )/w ;/w
+if/en (/w (/w j/en %/m 2/m )/w =/0 =/0 0/m )/w
+s/en =/0 s/en +/0 a/en [/w j/en ]/w */w cofactors/en (/w j/en ,/w a/en ,/w n/en )/w ;/w
+else/en
+s/en =/0 s/en -/w a/en [/w j/en ]/w */w cofactors/en (/w j/en ,/w a/en ,/w n/en )/w ;/w
+}/0
+return/en s/en ;/w
+}/0
+int/en cofactors/en (/w int/en x/en ,/w int/en b/en [/w ]/w ,/w int/en y/en )/w {/0
+int/en m/en ,/w l/en ,/w k/en =/0 (/w y/en -/w 1/m )/w */w (/w y/en -/w 1/m )/w ,/w q/en ,/w c/en [/w k/en ]/w ;/w
+for/en (/w m/en =/0 y/en ,/w l/en =/0 0/m ;/w m/en </w y/en */w y/en ;/w m/en +/0 +/0 ,/w l/en +/0 +/0 )/w {/0
+if/en (/w m/en %/m y/en =/0 =/0 x/en )/w
+m/en +/0 +/0 ;/w
+c/en [/w l/en ]/w =/0 b/en [/w m/en ]/w ;/w
+}/0
+q/en =/0 determinant/en (/w c/en ,/w y/en -/w 1/m )/w ;/w
+return/en q/en ;/w
+}/0
+void/en equations/en (/w )/w
+{/0
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w n/en +/0 m/en ;/w +/0 +/0 i/en )/w
+originalAns/en [/w i/en ]/w =/0 1/m ;/w
+//w //w 根据/n 互补/v 松弛/a 定理/n ，/w 得到/v 原/b 问题/n 可行/a 解/ng 和/c 松弛/a 变量/n 的/u 部分/n 值/a
+//w //w 先/d 看/u Y/en 1/m -/w Ym/en ,/w 对应/v 原/b 问题/n 的/u 松弛/a 变量/n Xn/en +/0 1/m -/w Xn/en +/0 m/n
+int/en c/en =/0 0/m ;/w //w //w 等式/n 个数/n
+for/en (/w int/en l/en =/0 0/m ;/w l/en </w n/en ;/w +/0 +/0 l/en )/w //w //w 由于/c 实际/a 用/ng n/n 存/v m/n 的/u 值/a
+if/en (/w ans/en [/w l/en ]/w )/w {/0
+originalAns/en [/w l/en +/0 m/en ]/w =/0 0/m ;/w
+c/en +/0 +/0 ;/w
+}/0
+//w //w 再/d 看/u Ym/en +/0 1/m -/w Ym/en +/0 n/en ,/w 对应/v 原/b 问题/n 的/u 可行/a 解/ng X/en 1/m -/w Xn/en
+for/en (/w int/en l/en =/0 n/en ;/w l/en </w n/en +/0 m/en ;/w +/0 +/0 l/en )/w //w //w 由于/c 实际/a 用/ng n/n 存/v m/n 的/u 值/a
+if/en (/w ans/en [/w l/en ]/w )/w
+originalAns/en [/w l/en -/w n/en ]/w =/0 0/m ;/w
+
+//w //w 构造/n 方程组/n
+double/en aa/en [/w 100/m ]/w [/w 100/m ]/w ;/w
+int/en kx/en ,/w ky/en =/0 0/m ;/w
+int/en index/en [/w 100/m ]/w ;/w
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w m/en ;/w +/0 +/0 i/en )/w
+//w //w 如果/c 可行/a 解中/nr 某个/r 变量/n 为/p 0/m ，/w 系数/n 矩阵/n 中/f 对应/v 列/n 可/v 直接/a 忽略/v
+if/en (/w originalAns/en [/w i/en ]/w )/w {/0
+index/en [/w ky/en ]/w =/0 i/en ;/w
+kx/en =/0 0/m ;/w
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w n/en ;/w +/0 +/0 j/en )/w
+if/en (/w originalAns/en [/w j/en +/0 m/en ]/w =/0 =/0 0/m )/w {/0 //w //w 如果/c 某/r 松弛/a 变量/n 为/p 0/m ，/w 对应/v 的/u 约束/v 不等式/n 变成/v 等式/n （/w 不等式/n 不/d 考虑/v ）/w
+aa/en [/w kx/en ]/w [/w 0/m ]/w =/0 bt/en [/w j/en ]/w ;/w
+aa/en [/w kx/en ]/w [/w ky/en +/0 1/m ]/w =/0 at/en [/w j/en ]/w [/w i/en ]/w ;/w
+kx/en +/0 +/0 ;/w
+}/0
+ky/en +/0 +/0 ;/w
+}/0
+//w //w 解/ng 方程组/n
+double/en d/en ;/w
+for/en (/w int/en k/en =/0 0/m ;/w k/en </w =/0 ky/en ;/w +/0 +/0 k/en )/w {/0
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w c/en ;/w i/en +/0 +/0 )/w
+for/en (/w int/en j/en =/0 0/m ;/w j/en </w ky/en ;/w j/en +/0 +/0 )/w
+if/en (/w j/en +/0 1/m !/w =/0 k/en )/w
+h/en [/w i/en */w ky/en +/0 j/en ]/w =/0 (/w int/en )/w aa/en [/w i/en ]/w [/w j/en +/0 1/m ]/w ;/w
+else/en
+h/en [/w i/en */w ky/en +/0 j/en ]/w =/0 (/w int/en )/w aa/en [/w i/en ]/w [/w 0/m ]/w ;/w
+if/en (/w k/en =/0 =/0 0/m )/w
+d/en =/0 determinant/en (/w h/en ,/w ky/en )/w ;/w
+else/en
+originalAns/en [/w index/en [/w k/en -/w 1/m ]/w ]/w =/0 determinant/en (/w h/en ,/w ky/en )/w //w d/en ;/w
+}/0
+}/0
+
+int/en main/en (/w )/w {/0
+scanf/en (/w "/0 %/m d/en %/m d/en "/0 ,/w &/0 m/en ,/w &/0 n/en )/w ;/w //w //w 输入/v 时/n 就/d 完成/v 对偶/n 变换/v
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w n/en ;/w +/0 +/0 i/en )/w
+nonBase/en [/w i/en ]/w =/0 i/en +/0 1/m ;/w //w //w 非/d 基本/a 变量/n y/en 1/m ,/w y/en 2.../m
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w m/en ;/w +/0 +/0 i/en )/w
+base/en [/w i/en ]/w =/0 i/en +/0 1/m +/0 n/en ;/w //w //w 基本/a 变量/n yn/en +/0 1/m ,/w yn/en +/0 2.../m 用于/v 记录/n 转轴/n 过程/n ,/w 知道/v 最后/f 哪个/r 位置/n 上/f 是/v 哪个/r 变量/n
+memset/en (/w b/en ,/w 0/m ,/w n/en */w sizeof/en (/w double/en )/w )/w ;/w
+memset/en (/w a/en ,/w 0/m ,/w sizeof/en (/w int/en */w )/w */w 100/m */w 100/m )/w ;/w
+
+for/en (/w int/en k/en =/0 0/m ;/w k/en </w m/en ;/w +/0 +/0 k/en )/w
+scanf/en (/w "/0 %/m lf/en "/0 ,/w &/0 b/en [/w k/en ]/w )/w ;/w
+for/en (/w int/en k/en =/0 0/m ;/w k/en </w m/en ;/w +/0 +/0 k/en )/w
+ct/en [/w k/en ]/w =/0 b/en [/w k/en ]/w ;/w
+int/en left/en ,/w right/en ;/w
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w n/en ;/w +/0 +/0 i/en )/w {/0
+scanf/en (/w "/0 %/m d/en %/m d/en %/m lf/en "/0 ,/w &/0 left/en ,/w &/0 right/en ,/w &/0 c/en [/w i/en ]/w )/w ;/w
+bt/en [/w i/en ]/w =/0 c/en [/w i/en ]/w ;/w
+for/en (/w int/en j/en =/0 left/en -/w 1/m ;/w j/en </w right/en ;/w +/0 +/0 j/en )/w {/0
+a/en [/w j/en ]/w [/w i/en ]/w =/0 1/m ;/w
+at/en [/w i/en ]/w [/w j/en ]/w =/0 1/m ;/w
+}/0
+}/0
+printf/en (/w "/0 最少/d 花费/n :/w %./m lf/en \/0 n/en "/0 ,/w simplex/en (/w )/w )/w ;/w
+//w //w 输出/v 对偶/n 问题/n 的/u 最/d 优/a 解/ng (/w 包括/v 松弛/a 变量/n )/w
+memset/en (/w ans/en ,/w 0/m ,/w m/en */w sizeof/en (/w double/en )/w )/w ;/w
+for/en (/w int/en l/en =/0 0/m ;/w l/en </w m/en ;/w +/0 +/0 l/en )/w
+ans/en [/w base/en [/w l/en ]/w -/w 1/m ]/w =/0 b/en [/w l/en ]/w ;/w
+printf/en (/w "/0 最/d 优/a 解/ng ：/w "/0 )/w ;/w
+for/en (/w int/en l/en =/0 0/m ;/w l/en </w m/en +/0 n/en ;/w +/0 +/0 l/en )/w {/0
+printf/en (/w "/0 %./m lf/en "/0 ,/w ans/en [/w l/en ]/w )/w ;/w
+}/0
+//w //w 计算/v 原/b 问题/n 的/u 最/d 优/a 解/ng
+equations/en (/w )/w ;/w
+printf/en (/w "/0 \/0 n/n 原/b 问题/n 的/u 最/d 优/a 解/ng ：/w "/0 )/w ;/w
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w m/en ;/w +/0 +/0 i/en )/w
+printf/en (/w "/0 %./m lf/en "/0 ,/w originalAns/en [/w i/en ]/w )/w ;/w
+return/en 0/m ;/w
+}/0 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137138139140141142143144145146147148149150151152153154155156157158159160161162163164165166167168169170171172173174175176177178179180181182183184185186187188/m
+
+
+
+测试/v 数据/n 及/c 结果/c
+
+2/m 组/n 测试/v 数据/n
+5 3 /m
+1 5 6 3 4 /m
+2 3 1 /m
+1 5 4 /m
+3 5 2 /m
+最少/d 花费/n 11/m
+最/d 优/a 解/ng 2 0 1 1 0/m
+
+6 4 /m
+12 14 33 8 7 15 /m
+1 4 13 /m
+2 3 12 /m
+3 6 15 /m
+5 6 9 /m
+最少/d 花费/n 274 /m
+最/d 优/a 解/ng 0 12 0 1 14 0/m ,/w ,/w ,/w ,/w ,/w

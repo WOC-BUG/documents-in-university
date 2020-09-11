@@ -1,0 +1,6 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+为什么/r 之前/f 不用/d 高频/b 段来/nr 通信/v ,/w 制造/v 水平/n 和成/nz 本/d 划不来/a nn/en 微/ag 基站/n 和/c Massive/en MIMO/en 生产/v 成本/n 高/a ，/w 数量/n 多/a ，/w 生产/v 水平/n 不足/a nn/en 电路板/n 件/ng 设计/v ，/w 自干/nz 扰/ag 消除/v 电路/n 需/ng 满足/a 宽频/n （/w 大于/v 100/m MHZ/q ）/w 和/c 多/a MIMO/en （/w 多于/v 32/m 天线/n ）/w 的/u 条件/n ，/w 且/c 要求/n 尺寸/n 小/a 、/w 功耗/n 低/a 以及/c 成本/n 不能/v 太/ag 高/a 。/w n/en .../m ,/w qq/en _/0 23222721/m ,/w https://blog.csdn.net/qq_23222721/article/details/90031661/url ,/w 2019-05-09/t ,/w 6/m 次/a 阅读/v ,/w 为什么/r 之前/f 不用/d 高频/b 段来/nr 通信/v -/w 哼/e boy/en ,/w 2019年05月09日 13:56:19/t ,/w 制造/v 水平/n 和成/nz 本/d 划不来/a
+
+微/ag 基站/n 和/c Massive/en MIMO/en 生产/v 成本/n 高/a ，/w 数量/n 多/a ，/w 生产/v 水平/n 不足/a
+
+电路板/n 件/ng 设计/v ，/w 自干/nz 扰/ag 消除/v 电路/n 需/ng 满足/a 宽频/n （/w 大于/v 100/m MHZ/q ）/w 和/c 多/a MIMO/en （/w 多于/v 32/m 天线/n ）/w 的/u 条件/n ，/w 且/c 要求/n 尺寸/n 小/a 、/w 功耗/n 低/a 以及/c 成本/n 不能/v 太/ag 高/a 。/w ,/w ,/w ,/w ,/w ,/w

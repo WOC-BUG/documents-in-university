@@ -1,0 +1,351 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/caiyuezhen_blog/article/details/51396723,人工智能实验课的程序，动物识别系统，本人自己编写，绝对原创！,https://blog.csdn.net/caiyuezhen_blog/article/details/51396723,,caiyuezhen_blog,2016-05-13,//blog.csdn.net/caiyuezhen_blog/article/details/51396723,834次阅读,人工智能 - caiyuezhen_blog的博客,2016年05月13日 16:55:31,原        人工智能
+      
+      
+        
+                                                  2016年05月13日 16:55:31
+          caiyuezhen_blog
+          阅读数：837
+          
+                                                      
+        
+                  
+      
+    
+  
+  
+    
+              
+                      
+              
+            
+          
+          版权声明：本文为博主原创文章，未经博主允许不得转载。          https://blog.csdn.net/caiyuezhen_blog/article/details/51396723        
+            
+                              
+          
+            
+﻿﻿
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#define N 100
+typedef struct DB//事实的链表
+{   int Fact;
+ struct DB *next;
+}Links,DB;
+typedef struct Pre_node//前提的链表
+{    int pre; 
+ struct Pre_node *next;
+}Link,Pre_node;
+typedef struct Con_node//结论  
+{
+  struct Pre_node *Pre;//前提的链表
+  int Con;//结论
+  int flag;//标记是否被激活
+  float prob;//前提成立的概率
+  struct Con_node *next;//指向下一条规则
+} LinkList,Con_node;   
+LinkList *head2,*tail2;
+void P_act(Links *db,float max);
+void display()//显示特征
+{
+ FILE *fp;
+ char ch[100];
+ fp=fopen("tezheng.txt","r");//文件的打开
+ if(fp==NULL)
+  printf("Cannot open this file\n");
+ while(fgets(ch,3,fp)!=NULL)
+  printf("%s",ch);
+ fclose(fp);
+ printf("\n");
+}
+int find(Links *p,int m)//向事实中加入前要判重
+{ int flag=0;
+ while(p!=NULL)
+ {
+  if(m==p->Fact)
+  {
+   flag=1;;
+   break;
+  }
+  p=p->next;
+ }
+ return flag;
+}
+Links * Search(Links *db)//更新prop的值
+{ int m=0,n=0,flag=0;
+ LinkList *p;
+ Link *s;
+ Links *q,*u;
+ p = head2->next;
+ q=db->next;
+ while(p!= NULL)
+ { 
+  s=p->Pre;
+  while(s!=NULL)//前提的链表与事实库进行比较
+  {
+   q=db->next;
+   while(q!=NULL)
+   {
+    if(q->Fact==s->pre) 
+     m++;//记录有几个前提存在事实的链表中
+    q=q->next;
+   }
+   s=s->next;
+   n++;
+  }
+  if(m==n&&m!=0&&n!=0)//当所有前提都存在事实库时，将结论也加入到事实库中
+  {
+   if(find(db,p->Con)==0)
+   {
+    u=(Links *)malloc(sizeof(Links));
+    u->Fact=p->Con;
+    u->next=db->next;
+    db->next=u;
+   }
+   if(p->Con>=25&&p->Con<=31)//得到结论后输出
+   { printf("此动物是:%d",p->Con);  
+    break;
+   }
+  }
+  p->prob=(float)m/n;
+  //printf("%f\n",p->prob);
+  p=p->next;
+  n=0;m=0;
+ }
+ return db;
+}
+void Search_LinkList(Links *db)//识别动物
+{ int m=0,n=0,flag=0;
+ LinkList *p;
+ Link *s;
+ Links *q,*u;
+ p = head2->next;
+ q=db->next;
+ while(p!= NULL)
+ { 
+  s=p->Pre;
+  while(s!=NULL)//前提的链表与事实库进行比较
+  {
+   q=db->next;
+   while(q!=NULL)
+   {
+    if(q->Fact==s->pre) 
+     m++;//记录有几个前提存在事实的链表中
+    q=q->next;
+   }
+   s=s->next;
+   n++;
+  }
+  if(m==n&&m!=0&&n!=0)//当所有前提都存在事实库时，将结论也加入到事实库中
+  {
+   if(find(db,p->Con)==0)
+   {
+    u=(Links *)malloc(sizeof(Links));
+    u->Fact=p->Con;
+    u->next=db->next;
+    db->next=u;
+   }
+   if(p->Con>=25&&p->Con<=31)//得到结论后输出
+   { printf("此动物是:%d",p->Con);  
+    break;
+   }
+  }
+  p->prob=(float)m/n;
+  //printf("%f\n",p->prob);
+  p=p->next;
+  n=0;m=0;
+ }
+ if(p==NULL)
+  P_act(db,1.0);
+}
+void P_act(Links *db,float max)//反向演绎
+{
+ int x[10],y[10];
+ int i=0,j,iflag=0,flag=0;
+ float a=0;
+ LinkList *p,*t;//规则
+ Link *q;//前提
+ Links *s,*u;//事实
+ s=db->next;
+ p=head2->next;
+ while(p!=NULL)//找到规则链表中prob最大的规则
+ {
+  if(a<p->prob&&p->prob!=1&&p->prob>0&&p->prob<max)
+  { a=p->prob;
+   t=p;
+  }
+  p=p->next;
+ }
+ q=t->Pre;
+ while(q!=NULL)
+ {
+  iflag=0;
+  s=db->next;
+  while(s!=NULL)
+  {
+   if(s->Fact==q->pre)
+    iflag=1;
+   s=s->next;
+  }
+  if(iflag==0)//记录在事实中不存在的前提
+  { x[i]=q->pre;
+   i++;
+  }
+  q=q->next;
+ }
+ for(j=0;j<i;j++)
+ {
+  printf("缺少以下条件，确认是否存在(0不存在,1存在):\n");
+  printf("%d\n",x[j]);
+  scanf("%d",&y[j]);
+ }
+ for(j=0;j<i;j++)
+  if(y[j]==0)
+   {flag=1;break;}
+ for(j=0;j<i;j++)//将所有存在的前提加到事实中
+ {
+  if(y[j]==1)
+  {
+   if(find(db,x[j])==0)
+   {
+    u=(Links *)malloc(sizeof(Links));
+    u->Fact=x[j];
+    u->next=db->next;
+    db->next=u;
+   }
+  }
+ }
+ if(flag==0)//缺少的条件全部存在
+ {
+  if(find(db,t->Con)==0)
+  {
+   u=(Links *)malloc(sizeof(Links));//将结论加到事实中
+   u->Fact=t->Con;
+   u->next=db->next;
+   db->next=u;
+  }
+  if(t->Con>=25&&t->Con<=31)
+   printf("此动物是:%d\n",t->Con);
+  else
+  { db=Search(db);
+   P_act(db,1.0); 
+  }
+ }
+ else
+ { printf("重新识别......\n");
+  db=Search(db);
+  P_act(db,a);
+ }
+}
+void Read()//从文件中读取规则存到链表中
+{
+ Link *p;
+ LinkList *s;
+ char temp[10],ch;
+ int ix,con,iflag=0;
+ int n=-1;
+ FILE *fp;
+ s = (LinkList *) malloc( sizeof( LinkList ) );
+ s->Pre=NULL;
+ fp=fopen("rule.txt","r");//文件的打开
+ if(fp==NULL)
+  printf("Cannot open this file\n");
+ //else
+ // printf("OK\n");
+ ch=fgetc(fp);
+ while(ch!=EOF)
+ {
+  if(iflag==0)
+  {
+   if(ch>=48&&ch<=57)//读到数字
+   {
+    n++;
+    temp[n]=ch;
+   }
+   else if(ch==',')//逗号
+   {
+    n++;
+    temp[n]='\0';
+    ix=atoi(temp);//将字符串转为整型
+    //printf("%d,",ix);
+    p=(Link *)malloc(sizeof(Link));//生成前提节点
+    p->pre =ix;
+    p->next=s->Pre;
+    s->Pre =p;
+    n=-1;
+    strcpy(temp,"");//清空字符数组temp
+   }
+   else if(ch=='-')
+    iflag=1;
+  }
+  else 
+  {
+   if(ch!='>')
+   {
+    n++;
+    temp[n]=ch;
+    if(ch=='\n')
+    {
+     n++;
+     temp[n]='\0';
+     con=atoi(temp);
+     //printf("->%d\n",con);
+     s->Con=con;
+     s->flag=0;
+     s->prob=0;
+     tail2->next=s;
+     tail2=s;
+     tail2->next=NULL;
+ 
+     s=(LinkList *)malloc(sizeof(LinkList));//生成下一个规则节点
+     s->Pre=NULL;//初始化Link型的指针s->pre 为空
+     iflag=0;
+     n=-1;
+    }
+   }
+  }
+  ch=fgetc(fp);
+ }
+ fclose(fp);//文件的关闭
+}
+void F_act()//输入动物特征
+{
+ int x;
+ Links *p,*db;
+ db=(Links *)malloc(sizeof(Links));
+ db->next=NULL;
+ printf("请依次输入动物特征:(以-1结束)\n");
+ scanf("%d",&x);
+ while(x!=-1)
+ {
+  p=(Links *)malloc(sizeof(Links));
+  p->Fact=x;
+  p->next=db->next;
+  db->next=p;
+  scanf("%d",&x);
+ }
+ Search_LinkList(db);
+}
+void main()
+{
+ head2 = (LinkList *) malloc ( sizeof( LinkList ));//规则链表初始化
+ head2->next = NULL;       
+ tail2=head2;
+ display();
+ Read();
+ printf("\n\n***********动物识别系统***********\n\n");
+ F_act();
+}
+/*
+ 动物有斑点，长脖，长腿，产奶，有蹄：->长颈鹿
+  13,15,16,2,10->27
+ 动物产奶，有毛，有蹄，反刍，有黑色条纹：->斑马
+  2,1,10,11,14->28
+ 动物有羽毛,会游泳,黑白二色,不会飞 ->企鹅
+  3,18,19,17->30
+ 动物有毛，有蹄，有斑点，长脖，会游泳，善飞
+  1,10,13,15,18,20
+  1,9,8,13-》7-》12-》25
+*/

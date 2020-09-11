@@ -1,0 +1,20 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en 了解/v 涉猎/v ,/w 高频/b 段/n (/w 28/m GHz/en )/w */w 毫米波/n =/0 光速/n ，/w 频率/n 越/d 高/a ，/w 传播/v 越/d 直线/d ，/w 越/d 快/a ，/w 覆盖/v 范围/n 越/d 小/a ，/w 需要/n 多个/n 微/ag 基站/n 覆盖/v ，/w 天线/n 越/d 短/a 。/w nnMassive/en MIMO/en ：/w 大规模/b 天线/n 多发/b 送/v 多/a 接收/v 。/w nn/en 波束/n 赋形/v ：/w 精准/a 指向性/n 服务/v ，/w 空间/n 复用/v 。/w 正交/b 频/ag 分/b 多路/nz 复用/v （/w OFDM/n ）/w 。/w nnD/en 2/m D/en :/w （/w 终端/n 到/ng 终端/n 通讯/n ）/w 同一/b 基站/n 下/f 的/u 两个/n 用户/n ，/w 如果/c 互相/d 进行/v 通信/v ，/w 他们/r 的/u 数据/n 将/d 不再/d 通过/p 基站/n 转发/v ，/w 而是/n 直接/a 手机/np 到手/v 机/np 。/w nn/en 超/h 密集/a 异/ag 构/ng 网络/n ，/w 自/d 组织网络/n ，/w 内容/n 分发/v 网络/n ，/w 移/v .../m ,/w qq/en _/0 24854861/m ,/w https://blog.csdn.net/qq_24854861/article/details/82750167/url ,/w 2018-09-19/t ,/w 44/m 次/a 阅读/v ,/w 5/m G/en 了解/v 涉猎/v -/w Pan/en Blog/en ,/w 2018年09月19日 18:17:24/t ,/w 高频/b 段/n (/w 28/m GHz/en )/w */w 毫米波/n =/0 光速/n ，/w 频率/n 越/d 高/a ，/w 传播/v 越/d 直线/d ，/w 越/d 快/a ，/w 覆盖/v 范围/n 越/d 小/a ，/w 需要/n 多个/n 微/ag 基站/n 覆盖/v ，/w 天线/n 越/d 短/a 。/w
+
+Massive/en MIMO/en ：/w 大规模/b 天线/n 多发/b 送/v 多/a 接收/v 。/w
+
+波束/n 赋形/v ：/w 精准/a 指向性/n 服务/v ，/w 空间/n 复用/v 。/w 正交/b 频/ag 分/b 多路/nz 复用/v （/w OFDM/n ）/w 。/w
+
+D/en 2/m D/en :/w （/w 终端/n 到/ng 终端/n 通讯/n ）/w 同一/b 基站/n 下/f 的/u 两个/n 用户/n ，/w 如果/c 互相/d 进行/v 通信/v ，/w 他们/r 的/u 数据/n 将/d 不再/d 通过/p 基站/n 转发/v ，/w 而是/n 直接/a 手机/np 到手/v 机/np 。/w
+
+超/h 密集/a 异/ag 构/ng 网络/n ，/w 自/d 组织网络/n ，/w 内容/n 分发/v 网络/n ，/w 移动/v 云计算/n ，/w
+
+M/en 2/m M/en :/w 机器/np 和/c 机器/np ，/w 人/n ，/w 移动网/n 络/ng 的/u 通信/v 。/w
+
+5/m G/en NR/en :/w new/en radio/en ,/w 5/m G/en NR/n 中文/n 译/v 称/ag 5/m G/m 新/a 空口/d 技术/n ，/w 当中/f 的/u 后缀/n “/w NR/n ”/w 指代/v new/en radio/en （/w 新/a 无线电通信/n ）/w
+
+3/m GPP/en （/w 3/m rd/en Generation/en Partnership/en Project/en ，/w 即/c 第三/m 代/n 合作伙伴/n 计划/n ）/w :/w 专门/b 负责制/n 定标/v 准/a 的/u 组织/n ./m
+
+针对/v 5/m G/m ，/w 业界/n 提出/v 的/u 需求/n 主要/b 是/v 增强型/n 移动/v 宽带/n （/w EMBB/en ）/w 、/w 海量/n 物联网/n （/w MIoT/en ）/w 、/w 关键/a 业务型/n 服务/v （/w MCS/en ）/w 3/m 个/q 。/w
+
+适合/v VR/n 传输/v 需求/n ，/w 云游/v 戏/n 响应/v 速度/n 。/w ,/w ,/w ,/w ,/w ,/w

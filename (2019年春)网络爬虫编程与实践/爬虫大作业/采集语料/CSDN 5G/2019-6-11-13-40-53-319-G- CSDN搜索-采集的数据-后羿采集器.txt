@@ -1,0 +1,15 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G网络要求,5G网络要求neMBBnEnhanced Mobile Broadband， 增强移动带宽n峰值速率: DL 20Gbps/UL 10Gbpsn用户感知：DL 100Mbps/UL 50MbpsnmMTCnMassive Machine-Type Communications , 海量物联网通信，即超大链接nuRLLCnUltra-Reliable and Low-Latency,zhao_ru_jie,https://blog.csdn.net/zhao_ru_jie/article/details/86516264,2019-01-16,81次阅读,5G网络要求 - zhao_ru_jie的博客,2019年01月16日 23:13:23,5G网络要求
+eMBB
+Enhanced Mobile Broadband， 增强移动带宽
+峰值速率: DL 20Gbps/UL 10Gbps
+用户感知：DL 100Mbps/UL 50Mbps
+mMTC
+Massive Machine-Type Communications , 海量物联网通信，即超大链接
+uRLLC
+Ultra-Reliable and Low-Latency Communications，极高可靠极低时延场景
+控制面10ms/用户面eMBB 4ms/用户uRLLC0.5ms
+Network slicing
+网络切片， R15具备eMBB切片能力，R16将具备全网络切片能力
+关键技术：上下行解耦和大规模MIMO
+参考：3GPP http://www.3gpp.org/,,,,,

@@ -1,0 +1,26 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/leng_que/article/details/4305071/url ,/w 《/w 战争/n 游戏/n 》/w Joshua/en （/w 约书亚/nz ）/w 《/w 战争/n 游戏/n 2/m ：/w 死亡/v 代码/n 》/w Ripley/en （/w 里普利/nr ）/w 《/w 夺/v 命/n 手机/np 》/w Echelon/en （/w 梯/ng 阵/ng 系统/a ）/w 《/w 生化危机/n 》/w 火焰/n 女皇/n 《/w 机械/a 公敌/n 》/w V.I.K.I/url （/w 维基/nz ）/w  /0  /0  /0  /0 以上/f 是/v 我/r 看过/v 的/u 电影/n 里/f 的/u 我/r 还/d 记得/v 的/u 大型/b 科幻/b 型/k 人工智能/n 。/w ,/w https://blog.csdn.net/leng_que/article/details/4305071/url ,/w ,/w leng/en _/0 que/en ,/w 2009-06-28/t ,/w //blog.csdn.net/leng_que/article/details/4305071/url ,/w 595/m 次/a 阅读/v ,/w 人工智能/n -/w 冷却/v ,/w 2009年06月28日 18:57:00/t ,/w 原/b 人工智能/n
+
+
+
+2009年06月28日 18:57:00/t
+leng/en _/0 que/en
+阅读/v 数/m ：596/m
+
+
+
+
+
+
+
+
+
+
+
+《/w 战争/n 游戏/n 》/w Joshua/en （/w 约书亚/nz ）/w
+《/w 战争/n 游戏/n 2/m ：/w 死亡/v 代码/n 》/w Ripley/en （/w 里普利/nr ）/w
+《/w 夺/v 命/n 手机/np 》/w Echelon/en （/w 梯/ng 阵/ng 系统/a ）/w
+《/w 生化危机/n 》/w 火焰/n 女皇/n
+《/w 机械/a 公敌/n 》/w V.I.K.I/url （/w 维基/nz ）/w
+/0
+/0  /0  /0 以上/f 是/v 我/r 看过/v 的/u 电影/n 里/f 的/u 我/r 还/d 记得/v 的/u 大型/b 科幻/b 型/k 人工智能/n 。/w 随着/p 编程/v 的/u 深入/a ，/w 有/v 了/dg 许多/mq 感悟/n ，/w 我/r 意识到/v 了/dg 没有/d 算法/n 思想/n 的/u 程序/n 是/v 很/d 初级/b 、/w 很/d 低级/a 的/u ，/w 但是/c 不要/df 曲解/v 了/dg ，/w 每个/r 人/n 都/d 是从/v 初级/b 开始/v 的/u ，/w 我/r 也/d 是/v ，/w 但是/c 要/v 想/v 不断/d 提高/v 自己/r 的/u 编程/v 能力/n ，/w 就/d 得/e 去/v 碰/v 数学/n ，/w 去/v 深入/a 学习/v 算法/n ，/w 并将/nz 其/r 应用/v 到/ng 自己/r 的/u 程序/n 当中/f 。/w  /0  /0  /0 人工智能/n 能/ng 到达/v 怎么样/r 的/u 程度/n 呢/ng ？/w 那/c 要得/v 看/u 算法/n 是否/v 有/v 什么/r 质/n 的/u 飞跃/v 了/dg ，/w 呵呵/o ，/w 本人/r 拭目以待/iv ，/w 希望/n 科学家/n 们/k 有所/v 突破/v ，/w 制造/v 出/q 像/n 《/w 机械/a 公敌/n 》/w 里/f 那样/r 的/u 机器人/n 来/u ，/w 就/d 不用/d 做/v 家务/n 了/dg ，/w 哈哈/e 。/w

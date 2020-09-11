@@ -1,0 +1,41 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+未来/t 五/m 年/n ,/w 不/d 懂/v 人工智能/n 的/u 程序员/n 会/n 被/ng 淘汰/v 吗/r ?/w -/w 学生/n 角度/n .../m _/0 CSDN/en 博客/n ,/w https://blog.csdn.net/qq_38584262/article/details/82392154/url ,/w 从/p PC/n 到/ng 互联网/n 、/w 移动互联网/ln 、/w 云计算/n 、/w 大数据/n ,/w 再/d 到/ng 现在/t 的/u 人工智能/n 、/w 区块/n 链/ng ,/w 半/m 个/q 多/a 世纪/n 以来/f ,/w 人类/n 科技/n 正/a 以前/f 所/n 未有/v 的/u 速度/n 飞速/d 迭代/v 。/w 紧跟/v 潮流/n 、/w 看/u 对方/n 向/p 的/u 幸运者/n 大多数/n .../m ,/w ,/w //blog.csdn.net/qq_38584262/article/details/82392154/url ,/w ,/w ,/w ,/w ,/w 未来/t 五/m 年/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n 会/n 被/ng 淘汰/v 吗/r ？/w -/w 学生/n 角度/n 学/k JAVA/en ,/w 2018年09月05日 00:19:00/t ,/w 原/b 未来/t 五/m 年/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n 会/n 被/ng 淘汰/v 吗/r ？/w
+
+
+
+2018年09月05日 00:19:00/t
+Champion/en -/w Dai/en
+阅读/v 数/m ：1209/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/qq_38584262/article/details/82392154/url
+
+
+
+前提/n 摘要/n ：/w
+
+从/p PC/n 到/ng 互联网/n 、/w 移动互联网/ln 、/w 云计算/n 、/w 大数据/n ，/w 再/d 到/ng 现在/t 的/u 人工智能/n 、/w 区块/n 链/ng ，/w 半/m 个/q 多/a 世纪/n 以来/f ，/w 人类/n 科技/n 正/a 以前/f 所/n 未有/v 的/u 速度/n 飞速/d 迭代/v 。/w 紧跟/v 潮流/n 、/w 看/u 对方/n 向/p 的/u 幸运者/n 大多数/n 都/d 成为/v 新时代/n 的/u 弄潮儿/n ，/w 而/c 默/ng 守/v 陈规/n 者/k 则/c 在/d 时代/n 的/u 涛声/n 中/f 逐渐/d 湮灭/v 。/w 有人/r 说/ag 下/f 一个/mq 五/m 年/n 将/d 是/v 人工智能/n 的/u 时代/n ，/w 不/d 懂/v 人工智能/n 的/u 程序员/n 将/d 会/n 被/ng 淘汰/v ，/w 你/r 认同/v 这样/r 的/u 说法/n 吗/r ？/w
+
+
+
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 我/r 的/u 观点/n ：/w 未来/t 五/m 年/n 不会/v ，/w 但是/c 未来/t 会/n ，/w 理由/n 如下/v ：/w
+
+1/m 、/w 如果/c 你/r 有/v 一/m 颗/q 追逐/v 技术/n 的/u 心/n ，/w 在/d 哪里/r 你/r 都/d 不会/v 被/ng 淘汰/v 。/w 不/d 夸张/n 的/u 说/ag ，/w 程序员/n 真的/d 是时/t 代/n 的/u 弄潮儿/n ，/w 他们/r 中/f 的/u 佼佼者/n 掌握/v 着/n 世界/n 上/f 最前沿/s 的/u 技术/n ，/w 这/r 也/d 是/v 编程/v 的/u 魅力/n 所在/n 。/w 人工智能/n 作为/n 最前沿/s 的/u 技术/n ，/w 程序员/n 不/d 掌握/v 怎么/r 能行/nz ？/w 但是/c 程序员/n 也/d 分/b 好多/mq 类/n ，/w 只要/c 你/r 在/d 自己/r 的/u 领域/n 精益求精/iv ，/w 做到/v 领域/n 1%/m ，/w 那么/c 在/d 未来/t 五/m 年/n ，/w 这种/r 程序员/n 肯定/a 不会/v 被/ng 淘汰/v 。/w 但是/c 随着/p 技术/n 的/u 渗透/v ，/w 可能/a AI/n 就/d 会/n 波及/v 到/ng 这些/r 程序员/n 的/u 领域/n ，/w 变/v 则/c 兴/d ，/w 不变/v 则/c 废/ag ，/w 所以/c 未来/t AI/n 知识/n 也/d 可能/a 就是/n 常识/n 了/dg 。/w 其实/d 最/d 惨/a 的/u 是/v 底层/n 码农/n ，/w 每次/r 看到/v 有些/r 大佬/n 发/q 一些/mq "/0 作为/n 一个/mq 合格/a 的/u 程序员/n ，/w 你/r 应该/v 懂/v XX/en 技术/n "/0 ，/w 然后/c ，/w 转身/v 投入/a 学习/v 当中/f ，/w 学到/v 了/dg 皮毛/n ，/w 就/d 觉得/v 自己/r 掌握/v 了/dg 高大上/a 的/u 技术/n ，/w 其实/d 对于/p 所有/b 技术/n 也就是/n 了解/v 而已/y ，/w 并/c 不能/v 投入/a 生产/v ，/w 所以/c 作为/n 底层/n 程序员/n 的/u 我们/r ，/w 在/d 技术学/n 习/ng 选择/n 上/f ，/w 一定/b 要/v 慎重/a ，/w 结合/v 自身/r 情况/n 做出/v 合理/a 的/u 选择/n ！/w ！/w ！/w 狠/a 一点/mq 来说/u ，/w 如果/c 你/r 连/d 自己/r 现在/t 的/u 自己/r 用/ng 的/u 技术/n 都/d 没/d 吃透/v ，/w 那么/c 别说/v 五/m 年/n 了/dg ，/w 可能/a 下/f 个/q 月/n ，/w 你/r 就/d 被/ng 取代/v 了/dg ，/w 每/r 一个/mq 行业/n 都/d 有/v 自己/r 的/u 规则/a ，/w 程序员/n 这/r 行/a 更/d 狠/a 。/w 但是/c 如果/c 你/r 现在/t 技术/n 很/d 好/a ，/w 只是/c 暂时/d 还/d 未/d 触及/v 人工智能/n ，/w 未来/t 五/m 年会/nh 不会/v 淘汰/v ？/w 我/r 只能/v 说/ag ，/w 不会/v 。/w 你/r 需要/n 做/v 的/u 就是/n 把/p 自己/r 现在/t 的/u 技术/n 做/v 的/u 好/a 到/ng 极致/n ，/w 这样/r ，/w 可能/a 我们/r 才/d 有/v 资格/n 说/ag 人工智能/n ，/w 否则/c ，/w 任何/r 技术/n 都/d 是/v 半/m 瓶子/n 水/n ，/w 那/c 肯定/a 是/v 被/ng 淘汰/v 的/u 那个/r 。/w
+
+2/m 、/w 大/a 能者/n ，/w 永远/b 不/d 担心/v 自己/r 会/n 被/ng 淘汰/v 。/w 不得不/d 承认/v ，/w 科技/n 的/u 发展/v 真的/d 是日/t 新月/n 异/ag ，/w 其实/d 技术/n 的/u 更新/v 迭代/v 和/c 人类/n 自身/r 的/u 新陈代谢/iv 一样/a ，/w 用/ng 进/ng 废/ag 退/v 。/w 只要/c 是/v 能够/v 帮助人/n 们/k 确实/a 解决/v 生活/n 问题/n 的/u 技术/n ，/w 迟早/d 都/d 会/n 被/ng 用于/v 生活/n 。/w 人工智能/n 更/d 不用说/lv ，/w 在/d 未来/t 必将/d 走入/v 我们/r 生活/n 的/u 角角落落/n ，/w 为何/r ？/w 结合/v 我们/r 人类/n 自身/r 的/u 特点/n ----/t 惰性/n ，/w 就/d 不难/d 理解/v ，/w 各行各业/ln 的/u 人/n 都/d 希望/n 自己/r 能够/v 在行/a 业/dg 里面/f 解脱/v 出来/v ，/w 这样/r ，/w 人/n 呢/ng 就/d 会/n 有/v 大/a 把/p 的/u 时间/n 和/c 精力/n 去/v 干/a 别的/r 事情/n 了/dg ，/w 当然/b 有人/r 会/n 问/v ，/w 这样/r 人/n 不/d 就/d 没有/d 用处/n 了/dg 吗/r ？/w 其实/d 对于/p 社会/n 精英/n 来说/u 这是/n 一/m 种/ng 生产/v 的/u 解脱/v ，/w 人们/n 不会/v 再/d 为/p 衣食住行/iv 这些/r 琐事/n 打扰/v ，/w 转而/c 投入/a 更/d 高层次/n 的/u 建设/v ，/w 那/c 是/v ，/w 是/v 人类/n 历史/n 的/u 又/d 一大/j 飞跃/v 。/w 但是/c 如果/c 你/r 连/d 自己/r 的/u 惰性/n 都/d 克服/v 不了/v ，/w 那/c 你/r AI/n 第一/m 个/q 下手/n 的/u 目标/n 。/w
+
+3/m 、/w 顺势/d 而/c 为/p ，/w 我们/r 就/d 不会/v 被/ng 淘汰/v 。/w 看到/v 原因/n 1/m 和/c 原因/n 2/m ,/w 你/r 是否/v 觉得/v 我/r 在/d 反对/v 程序员/n 学/k AI/n 呢/ng ？/w 其实不然/lv ，/w 我/r 支持/v 的/u 是/v 先/d 学好/v 自己/r 本身/r 的/u 技术/n ，/w 再/d 去/v 进军/v AI/en ,/w 不要/df 好高骛远/iv ，/w 结果/c 把/p 自己/r 的/u 技术/n 整/a 的/u "/0 四不像/n "/0 。/w 我/r 也/d 能/ng 都/d 感觉/n 到/ng 未来/t 各行各业/ln 都/d 会/n 充满/v AI/n 的/u 身影/n ，/w 如果/c 你/r 真的/d 有/v 一/m 颗/q 追逐/v 技术/n 的/u 心/n ，/w 如果/c 你/r 真的/d 想/v 成为/v "/0 大/a 能者/n "/0 ，/w 那么/c ，/w 等到/p 时机/n 成熟/a 了/dg ，/w 顺势/d 而/c 为/p ，/w 就是/n 大/a 智者/n 。/w
+
+/0 总之/c ，/w “/w 不/d 懂/v 人工智能/n 的/u 程序员/n 会不会/vbv 淘汰/v ”/w 有/v 这种/r 焦虑/a 的/u 人/n ，/w 是/v 有/v 一/m 种/ng 预见性/n 的/u ，/w 但是/c 这/r 却/d 不是/n 我们/r 这些/r 底层/n 程序员/n 所/n 应该/v 担忧/v 的/u ，/w 我们/r 需要/n 做/v 的/u 就是/n 脚踏实地/ia 做/v 技术/n ，/w 合适/a 的/u 时间/n 做/v 合适/a 的/u 事情/n 。/w 随着/p 社会/n 的/u 进步/a ，/w 未来/t 肯定/a 是/v 属于/v 少部分/mq 人/n 的/u 世界/n ，/w 类似/a 于/ng 古代/t “/w 集权/v 制/k ”/w ，/w 决定/n 着/n 社会/n 的/u 走向/v ，/w 而/c 掌握/v 这些/r 决定/n 社会/n 走向/v 技术/n 的/u 人/n ，/w 肯定/a 精英/n 中/f 的/u 精英/n ，/w 那么/c 这些/r 精英/n 中/f 有没有/vmv 你/r ，/w 决定/n 都/d 在于/v 你/r 现在/t 的/u 努力/a 程度/n ，/w 这句话/n 送/v 你/r ，/w 也/d 送/v 我/r 自己/r 。/w

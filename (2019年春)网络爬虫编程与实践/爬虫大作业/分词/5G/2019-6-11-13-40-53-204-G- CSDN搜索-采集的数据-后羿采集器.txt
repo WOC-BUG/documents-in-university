@@ -1,0 +1,17 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 将/d 会/n 带来/v 什么/r ？/w ,/w 现在/t ，/w 每个/r 人/n 都/d 开始/v 谈论/v 5/m G网/n 络/ng 了/dg ，/w 那么/c 它/r 和/c 我们/r 有/v 什么/r 关系/n 呢/ng ？/w rn/n 理论/n 上/f ，/w 5/m G/m 的/u 速度/n 将/d 会/n 是/v 现在/t 无线网络/n 的/u 一百/j 倍/d 。/w 其/r 不可思议/iv 的/u 速度/n 将/d 会/n 带来/v 无限/a 的/u 可能/a ，/w 也/d 有人/r 说/ag ，/w 直到/v 2018年/t 之前/f ，/w 5/m G/m 很/d 难/a 普及/a 。/w 不过/c 这/r 并/c 不妨/v 碍/v 我们/r 对/a 未来/t 的/u 畅想/v 。/w 下面/f 这些/r ，/w 就是/n 5/m G/m 可能/a 带来/v 的/u 东西/n 。/w rn/n 游戏/n 新/a 体验/v rn/n 想要/v 在/d 你/r 的/u 公寓/ny 里/f 和/c 全球/n 的/u 朋友/n 们/k 用/ng VR/n 奋战/v 吗/r ？/w 想要/v 360/m 度/k 参观/v 豪华/a 的/u 海滩/n 吗/r ？/w 5/m G/m 可以/a 让/v 这/r 一切/r 成为/v 现实/a 。/w rnFacebook/en 的/u CE/en ,/w gaowenhui/en 2008/m ,/w https://blog.csdn.net/gaowenhui2008/article/details/50897271/url ,/w 2016-03-15/t ,/w 1171/m 次/a 阅读/v ,/w 5/m G/m 将/d 会/n 带来/v 什么/r ？/w -/w gaowenhui/en 2008/m 的/u 专栏/n ,/w 2016年03月15日 16:02:53/t ,/w 现在/t ，/w 每个/r 人/n 都/d 开始/v 谈论/v 5/m G网/n 络/ng 了/dg ，/w 那么/c 它/r 和/c 我们/r 有/v 什么/r 关系/n 呢/ng ？/w
+理论/n 上/f ，/w 5/m G/m 的/u 速度/n 将/d 会/n 是/v 现在/t 无线网络/n 的/u 一百/j 倍/d 。/w 其/r 不可思议/iv 的/u 速度/n 将/d 会/n 带来/v 无限/a 的/u 可能/a ，/w 也/d 有人/r 说/ag ，/w 直到/v 2018年/t 之前/f ，/w 5/m G/m 很/d 难/a 普及/a 。/w 不过/c 这/r 并/c 不妨/v 碍/v 我们/r 对/a 未来/t 的/u 畅想/v 。/w 下面/f 这些/r ，/w 就是/n 5/m G/m 可能/a 带来/v 的/u 东西/n 。/w
+游戏/n 新/a 体验/v
+想要/v 在/d 你/r 的/u 公寓/ny 里/f 和/c 全球/n 的/u 朋友/n 们/k 用/ng VR/n 奋战/v 吗/r ？/w 想要/v 360/m 度/k 参观/v 豪华/a 的/u 海滩/n 吗/r ？/w 5/m G/m 可以/a 让/v 这/r 一切/r 成为/v 现实/a 。/w
+Facebook/en 的/u CEO/n 马克/n ·/w 在/d MWC/en 大会/nh 上/f 说/ag ，/w 希望/n VR/n 成为/v 5/m G/m 的/u 杀手/n 级/n 引用/v 。/w 鉴于/p 数据传输/n 的/u 速度/n 大大/a 提到/v ，/w 使得/v VR/n 在/d 各种/r 场景/n 中/f 的/u 应用/v 成为/v 可能/a 。/w 通过/p 5/m G/m 带来/v 的/u 低/a 延迟/v ，/w 你/r 甚至/c 可以/a 通/a 地球/n 另/d 一端/n 的/u 玩家/n 并肩作战/lv 。/w 三星/nz 的/u 下一代/n 网络/n 主管/n Woojune/en Kim/en 说/ag “/w 我/r 的/u 儿子/n 早就/d 想要/v 一把/d 光/a 剑/n 了/dg 。/w ”/w
+无人/b 驾驶/v 汽车/np
+5/m G/m 的/u 网速/n 足以/v 保持/v 汽车/np 和/c 控制/v 中心/nc 、/w 汽车/np 和/c 汽车/np 之间/f 的/u 数据传输/n ，/w 所以/c 届时/d 很/d 可能/a 给/v 无人/b 汽车行业/n 带来/v 革命性/n 的/u 发展/v 。/w
+“/w 你/r 可以/a 想象/v ，/w 街道/ny 上/f 没有/d 信号灯/n ，/w 但是/c 汽车/np 有条不紊/ia 地行/nz 驶/vg 。/w ”/w 诺基亚/nz 的/u 创业/v 市场部/nc 主管/n Volker/en Held/en 说/ag 。/w
+即使/c 发生/v 了/dg 交通事故/n ，/w 你/r 也/d 可以/a 全方位/n 地/n 再现/v 事故/n 现场/s 。/w 因为/c 所有/b 的/u 汽车/np 都安/ns 装/ng 了/dg 传感器/n 和/c 摄像头/n ，/w 不仅/c 可以/a 查看/v 当事/n 汽车/np 的/u 资料/n ，/w 路过/v 的/u 所有/b 汽车/np 的/u 数据/n 也/d 都/d 可以/a 参考/v 。/w
+远程医疗/n
+5/m G/m 将/d 使/ng 远程医疗/n 成为/v 可能/a 。/w 远程/b 交流/v 的/u 延迟/v 很/d 低/a ，/w 医生/nx 可以通过/n 远程/b 视频/n 进行/v 诊断/v ,/w 可以/a 像/n YouTube/en 的/u 视频/n 一样/a 给/v 别人/r 远程/b 指导/v 。/w
+即使/c 人们/n 在世/v 界/k 的/u 不同/a 地方/n ，/w 不管/c 他们/r 离/ng 得/e 多远/nz ，/w 都/d 可以/a 得到/v 最好/d 的/u 医疗/n 。/w
+如临其境/lv 的/u 视频会议/n
+Kim/en 认为/v ，/w 我们/r 的/u 通讯/n 质量/n 有待/v 提高/v 。/w 想象/v 一下/d 你/r 可以/a 和/c 你/r 的/u 家人/n 通过/p 高保真/l 的/u 视频/n 通话/v ，/w 就/d 像/n 他们/r 真的/d 在/d 你/r 身边/s 一样/a ，/w 甚至/c 可以通过/n 视频/n 来/u 和乐/ns 队/n 成员/n 排练/v 。/w 但是/c 今天/t 的/u 网络/n 不能/v 提供/v 高质量/n 的/u 实时/d 视频/n ，/w 甚至/c 现在/t 的/u 质量/n 也/d 时有/d 延迟/v 。/w
+好莱坞/n 电影/n 中/f 的/u 网速/n
+还/d 记得/v “/w 超凡/a 蜘蛛侠/n ”/w 中/f 皮得/nz 怕/v 克/q 在/d 康纳斯/nr 库尔特/nr 那儿/r 搜索/n ，/w 马上/d 就/d 得到/v 结果/c 了/dg 吗/r ？/w 现在/t 我们/r 上网/v 的/u 时候/n ，/w 每/r 打开/v 一个/mq 网页/n 或多或少/d 都/d 需要/n 一两/m 秒/q 的/u 时间/n ，/w 但/c 到/ng 了/dg 5/m G/m 时代/n ，/w 网页/n 几乎/d 都/d 是/v 秒/q 开/ng 。/w 下载电影/n 也/d 只需/n 要/v 十几/mq 秒/q 的/u 时间/n 。/w ,/w ,/w ,/w ,/w ,/w

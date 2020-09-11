@@ -1,0 +1,15 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+3/m GPP/en 协议/n 文档/n 查询网/n 站/ny ,/w 3/m GPP/en 协议/n 文档/n 查询网/n 站/ny nAndroid/en Telephony/en 开发/v 的/u 工程师/nx 而言/u 避免/v 不了/v 要/v 接触/v 3/m GPP/en 协议/n ，/w 特别/a 是/v 通话/v 和/c 补充/v 业务/n 相关/v ，/w 深入/a 了解/v 3/m GPP/en 协议/n ，/w 可以/a 加快/v 问题/n 的/u 分析/v 和/c 处理/v 速度/n ，/w 本文/r 主要/b 介绍/v 日常/b 常用/n 的/u 3/m GPP/en 协议/n 文档/n 查看/v 网站/nc 。/w nn/en 3/m GPP/en 官网/n ./m n/en 3/m GPP/en 官方网站/n ，/w 这里/r 可以/a 了解/v 3/m GPP/en 最新/a 的/u 信息/n ，/w 但是/c 这里/r 的/u 文档/n 一般/a 都/d 是/v 压缩/v 包/n 格式/n ，/w 在线阅读/n 不是/n 很/d 方便/a ，/w 而且/c 归类/v 不是/n 很/d 详细/a ，/w 用/ng 起来/v 很/d 不/d 方便/a 。/w FTP/n 站点/n .../m ,/w y/en 4407/m ,/w https://blog.csdn.net/y4407/article/details/90049754/url ,/w 2019-05-09/t ,/w 16/m 次/a 阅读/v ,/w 3/m GPP/en 协议/n 文档/n 查询网/n 站/ny -/w y/en 4407/m 的/u 博客/n ,/w 2019年05月09日 22:55:04/t ,/w 3/m GPP/en 协议/n 文档/n 查询网/n 站/ny
+Android/en Telephony/en 开发/v 的/u 工程师/nx 而言/u 避免/v 不了/v 要/v 接触/v 3/m GPP/en 协议/n ，/w 特别/a 是/v 通话/v 和/c 补充/v 业务/n 相关/v ，/w 深入/a 了解/v 3/m GPP/en 协议/n ，/w 可以/a 加快/v 问题/n 的/u 分析/v 和/c 处理/v 速度/n ，/w 本文/r 主要/b 介绍/v 日常/b 常用/n 的/u 3/m GPP/en 协议/n 文档/n 查看/v 网站/nc 。/w
+
+3/m GPP/en 官网/n ./m
+3/m GPP/en 官方网站/n ，/w 这里/r 可以/a 了解/v 3/m GPP/en 最新/a 的/u 信息/n ，/w 但是/c 这里/r 的/u 文档/n 一般/a 都/d 是/v 压缩/v 包/n 格式/n ，/w 在线阅读/n 不是/n 很/d 方便/a ，/w 而且/c 归类/v 不是/n 很/d 详细/a ，/w 用/ng 起来/v 很/d 不/d 方便/a 。/w FTP/n 站点/n
+
+Tech/en -/w invite/en
+Bing/en 上/f 偶然/a 搜索/n 到/ng 的/u 一个/mq 3/m GPP/en 协议/n 归档/v 网站/nc ，/w 也/d 是/v 最/d 喜欢/v 的/u 一个/mq ，/w 所有/b 的/u 文档/n 都/d 有/v 详细/a 的/u 归类/v 和/c 介绍/v ，/w 支持/v PDF/n 在线/v 查看/v ，/w 用/ng 起来/v 非常/b 方便/a 。/w
+
+株式会社/nc QT/en
+网站/nc 中/f 的/u 3/m GPP/en 文档/n 归类/v 比较/d 简单/a ，/w 下载/v 3/m GPP/en 文档/n 比较/d 方便/a ，/w 都/d 是/v PDF/n 格式/n ，/w 一些/mq 在/d Tech/en -/w Invite/en 缺失/v 的/u 文档/n 可以/a 在/d 这里/r 找到/v 。/w
+
+
+其他/r 的/u 3/m GPP/en 协议/n 相关/v 网站/nc 大家/r 可以/a 自己/r 在/d Bing/en 上/f 搜索/n 一下/d ，/w 这里/r 只是/c 列出/v 自己/r 常用/n 的/u 几/m 个/q 。/w ,/w ,/w ,/w ,/w ,/w

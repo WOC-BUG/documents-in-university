@@ -1,0 +1,57 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 资源分配/n ,/w 5/m G/m 资源分配/n 控制区/n 域/ng 资源分配/n 数据/n 区/n 资源分配/n
+5/m G/m 的/u 资源分配/n ，/w 从/p 整体/n 上/f 看/u 与/c 4G/n 类似/a ，/w 分为/v 控制区/n 域/ng 的/u 资源分配/n 和数/n 据/ng 区域/n 的/u 资源分配/n 。/w
+控制区/n 域/ng 即/c PDCCH/en 占用/v 的/u 资源/n ，/w 数据/n 区域/n 即/c PDSCH/en 和/c PUSCH/en 。/w ,/w qq/en _/0 44113393/m ,/w https://blog.csdn.net/qq_44113393/article/details/91374086/url ,/w 2019-06-10/t ,/w 13/m 次/a 阅读/v ,/w 5/m G/m 资源分配/n -/w qq/en _/0 44113393/m 的/u 博客/n ,/w 2019年06月10日 17:02:55/t ,/w 5/m G/m 资源分配/n 控制区/n 域/ng 资源分配/n 数据/n 区/n 资源分配/n
+5/m G/m 的/u 资源分配/n ，/w 从/p 整体/n 上/f 看/u 与/c 4G/n 类似/a ，/w 分为/v 控制区/n 域/ng 的/u 资源分配/n 和数/n 据/ng 区域/n 的/u 资源分配/n 。/w
+控制区/n 域/ng 即/c PDCCH/en 占用/v 的/u 资源/n ，/w 数据/n 区域/n 即/c PDSCH/en 和/c PUSCH/en 。/w
+控制区/n 域/ng 资源分配/n
+总结/n ：/w 网络/n 通过/p 在/d 系统/a 消息/n 和/c RRC/en 消息/n 中/f 配置/n PDCCH/en -/w config/en -/w >/w search/en space/en -/w >/w CORESET/en 给/v UE/en 分配/v 控制区/n 资源/n 和/c DCI/n 解码/v 信息/n 。/w
+在/d 4G/n 中/f ，/w PDCCH/en 所/n 占用/v 的/u 频/ag 域/ng 资源/n 是/v 整个/b 带宽/n （/w 去除/v 参考/v 信号/n 和/c PHICH/en ）/w ；/w 而/c 时域/n 占用/v 的/u 符号/n 数/m 由/p PCFICH/en 确定/a 。/w
+5/m G/m 中/f 去掉/v 了/dg PCFICH/en 和/c PHICH/en ，/w 引入/v 了/dg CORESET/en 的/u 概念/n 。/w CORESET/en 就是/n 定义/n 5/m G/en PDCCH/en 占用/v 资源/n 的/u 一/m 组/n 参数/n 。/w
+5/m G/m 中/f 由于/c BWP/en 和/c numerology/en 的/u 引入/v ，/w PDCCH/en 占用/v 的/u 资源/n 与/c 4G/n 相比/v 变得/v 更加/d 灵活/a ，/w 系统/a 可以/a 为/p UE/en 独立/a 配置/n CORESET/en ，/w 并且/c 一个/mq UE/en 可以/a 配置/n 多个/n CORESET/en 。/w
+
+CORESET/en 由/p RRC/en 层/n 的/u IE/n ：/w ControlResourceSet/en 定义/n 。/w
+ControlResourceSet/en :/w :/w =/0 SEQUENCE/en {/0
+controlResourceSetId/en ControlResourceSetId/en ,/w //w //w CORESET/en ID/n
+frequencyDomainResources/en BIT/en STRING/en (/w SIZE/en (/w 45/m )/w )/w ,/w //w //w 频/ag 域/ng 资源/n
+duration/en INTEGER/en (/w 1../m maxCoReSetDuration/en )/w ,/w //w //w 时域/n 资源/n
+1234/m
+CORESET/en 定义/n 了/dg PDCCH/en 占用/v 的/u 资源/n ，/w 而/c 为了/p 解码/v PDCCH/en 中/f 所/n 承载/v 的/u DCI/n 信息/n ，/w 5/m G/m 中/f 同样/b 定义/n 了/dg search/en space/en 的/u 概念/n 。/w
+search/en space/en 根据/n 承载/v 的/u DCI/n 信息/n 分为/v common/en search/en space/en 和/c specific/en search/en space/en 。/w
+
+common/en search/en space/en 是/v UE/en 建立/v RRC/en 连接/v 之前/f 网络/n 在/d 系统/a 消息/n 中/f 为/p UE/en 配置/n 的/u UE/en 需要/n 解码/v 的/u 一些/mq DCI/n 信息/n 。/w
+specific/en search/en space/en 是/v UE/en 建立/v RRC/en 连接/v 之后/f 在/d RRC/en 消息/n 中/f 为/p UE/en 配置/n 的/u DCI/n 消息/n 。/w
+在/d search/en space/en 配置/n 中/f 可以/a 看到/v 对应/v CORESET/en ID/n 。/w
+SearchSpace/en :/w :/w =/0 SEQUENCE/en {/0
+searchSpaceId/en SearchSpaceId/en ,/w //w //w ID/n
+controlResourceSetId/en ControlResourceSetId/en OPTIONAL/en ,/w -/w -/w Cond/en Setup/en Only/en //w //w CORESET/en ID/n
+monitoringSlotPeriodicityAndOffset/en CHOICE/en {/0
+1234/m
+具体/a 到/ng 消息/n 中/f ，/w search/en space/en 和/c CORESET/en 又/d 通过/p PDCCH/en -/w config/en 下发/v 到/ng UE/en 。/w
+PDCCH/en -/w Config/en :/w :/w =/0 SEQUENCE/en {/0
+controlResourceSetToAddModList/en SEQUENCE/en (/w SIZE/en (/w 1..3/m )/w )/w
+OF/en ControlResourceSet/en OPTIONAL/en ,/w
+controlResourceSetToReleaseList/en SEQUENCE/en (/w SIZE/en (/w 1..3/m )/w )/w
+OF/en ControlResourceSetId/en OPTIONAL/en ,/w
+searchSpacesToAddModList/en SEQUENCE/en (/w SIZE/en (/w 1..10/m )/w )/w
+OF/en SearchSpace/en OPTIONAL/en ,/w
+searchSpacesToReleaseList/en SEQUENCE/en (/w SIZE/en (/w 1..10/m )/w )/w
+OF/en SearchSpaceId/en OPTIONAL/en ,/w
+123456789/m
+数据/n 区/n 资源分配/n
+总结/n ：/w 通过/p DCI/n 分配/v 时域/n 和频域资/nr 源/ng 。/w
+数据/n 区/n 资源分配/n 与/c 4G/n 类似/a ，/w 是/v 通过/p DCI/n 完成/v 的/u 。/w 不同/a 的/u 地方/n 在于/v ，/w 5/m G/m 中时/j 域/ng 的/u 调度/n 粒度/n 从/p 一个/mq slot/en 变成/v 了/dg 一个/mq symbol/en 。/w
+我们/r 前面/f 说/ag RB/n 的/u 定义/n 的/u 时候/n 也/d 说/ag 过/d ，/w 5/m G/m 中/f RB/n 在/d 时域/n 上/f 只有/c 一个/mq symbol/en 。/w
+因此/c ，/w 5/m G/m 的/u 资源分配/n 在/d 频/ag 域/ng 上/f 与/c 4G/n 类似/a ，/w 但是/c 却/d 要/v 增加/v 时域/n 上/f 的/u 分配/v 参数/n 。/w
+
+时域/n 的/u 分配/v 方式/n 如上/n 图/n 。/w
+其中/r ，/w n/n 为/p DCI/n 所在/n slot/en ，/w uPDSCH/en 和/c uPDCCH/en 分别/d 为/p PDSCH/en 和/c PDCCH/en 的/u numerology/en 。/w
+K/en 0/m 是在/n RRC/en 层/n 配置/n 的/u 参数/n ，/w 通过/p DCI/n 指定/v 具体/a 的/u K/en 0/m 值/a ，/w 从而/c 获得/v PDSCH/en 所在/n slot/en 。/w 另外/c 还有/v K/en 1/m 用于/v 配置/n PUCCH/en 传输/v ACK/en //w NAK/en 的/u slot/en ，/w K/en 2/m 用于/v 配置/n PUSCH/en 的/u slot/en 。/w
+SLIV/en 也/d 是/v RRC/en 层/n 配置/n 的/u 参数/n ，/w 指定/v 了/dg PDSCH/en 的/u 其实/d symbol/en 和/c 持续/v 长度/n 。/w
+参考/v ：/w
+关于/p 5/m G/en 物理层/n 设计/v 原则/n
+https://new.qq.com/omn/20180312/20180312G19BM2.html/url
+http://www.txrjy.com/thread-1027912-1-1.html/url
+关于/p 资源分配/n ：/w
+https://rf.eefocus.com/article/id-333172/url
+http://sharetechnote.com//url ,/w ,/w ,/w ,/w ,/w

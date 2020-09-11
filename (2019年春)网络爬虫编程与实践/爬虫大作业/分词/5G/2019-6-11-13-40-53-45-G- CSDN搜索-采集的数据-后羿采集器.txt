@@ -1,0 +1,85 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m ：/w 认识/n 5/m G/m 关键/a 技术/n ,/w 如果/c 您/r 对/a 5/m G/m 技术标准/n 与/c 行业应用/n 感兴趣/a ，/w 下面/f 可能/a 是/v 您/r 想要/v 的/u ：/w nn/en 5/m G/m 技术标准/n 与/c 行业/n 趋势/n 报告/n nnnnnn/en 1/m 、/w SDRn/en 定义/n n/en 软件/n 定义/n 的/u 无线电/n (/w Software/en Defined/en Radio/en ，/w SDR/en )/w 是/v 一/m 种/ng 无线电/n 广播/n 通信技术/n ，/w 它/r 基于/p 软件/n 定义/n 的/u 无线通信/ln 协议/n 而/c 非/d 通过/p 硬/a 连线/v 实现/v 。/w 频带/n 、/w 空中/s 接口/n 协议/n 和/c 功能/n 可通/nz 过/d 软件下载/n 和/c 更新/v 来/u 升级/v ，/w 而/c 不用/d 完全/a 更换/v 硬件/n 。/w ,/w mo/en _/0 daji/en ,/w https://blog.csdn.net/mo_daji/article/details/88924557/url ,/w 2019-03-31/t ,/w 354/m 次/a 阅读/v ,/w 5/m G/m ：/w 认识/n 5/m G/m 关键/a 技术/n -/w mo/en _/0 daji/en 的/u 专栏/n ,/w 2019年03月31日 09:49:12/t ,/w 如果/c 您/r 对/a 5/m G/m 技术标准/n 与/c 行业应用/n 感兴趣/a ，/w 下面/f 可能/a 是/v 您/r 想要/v 的/u ：/w
+
+5/m G/m 技术标准/n 与/c 行业/n 趋势/n 报告/n
+
+/0
+
+/0
+
+1/m 、/w SDR/n
+定义/n
+软件/n 定义/n 的/u 无线电/n (/w Software/en Defined/en Radio/en ，/w SDR/en )/w 是/v 一/m 种/ng 无线电/n 广播/n 通信技术/n ，/w 它/r 基于/p 软件/n 定义/n 的/u 无线通信/ln 协议/n 而/c 非/d 通过/p 硬/a 连线/v 实现/v 。/w 频带/n 、/w 空中/s 接口/n 协议/n 和/c 功能/n 可通/nz 过/d 软件下载/n 和/c 更新/v 来/u 升级/v ，/w 而/c 不用/d 完全/a 更换/v 硬件/n 。/w
+所谓/b 软件/n 无线电/n ，/w 其/r 关键/a 思想/n 是/v 构造/n 一个/mq 具有/v 开放性/n 、/w 标准化/v 、/w 模块化/v 的/u 通用/v 硬件/n 平台/n ，/w 各种/r 功能/n ，/w 如/c 工作/n 频段/n 、/w 调制/v 解调/v 类型/n 、/w 数据/n 格式/n 、/w 加密/v 模式/n 、/w 通信/v 协议/n 等/ng ，/w 用/ng 软件/n 来/u 完成/v ，/w 并/c 使/ng 宽带/n A/en //w D/n 和/c D/en //w A/b 转换器/n 尽可能/d 靠近/v 天线/n ，/w 以/p 研制出/n 具有/v 高度/b 灵活性/n 、/w 开放性/n 的/u 新一代/n 无线通信/ln 系统/a 。/w 可以/a 说/ag 这种/r 平台/n 是/v 可用/a 软件/n 控制/v 和/c 再/d 定义/n 的/u 平台/n ，/w 选用/v 不同/a 软件/n 模块/n 就/d 可以/a 实现/v 不同/a 的/u 功能/n ，/w 而且/c 软件/n 可以/a 升级/v 更新/v 。/w 其/r 硬件/n 也/d 可以/a 像/n 计算机/np 一样/a 不断/d 地/n 更新/v 模块/n 和/c 升级换代/lv 。/w 由于/c 软件/n 无线电/n 的/u 各种/r 功能/n 是/v 用/ng 软件/n 实现/v 的/u ，/w 如果/c 要/v 实现/v 新/a 的/u 业务/n 或/c 调制/v 方式/n 只要/c 增加/v 一个/mq 新/a 的/u 软件/n 模块/n 即可/v 。/w 同时/c ，/w 由于/c 它/r 能/ng 形成/v 各种/r 调制/v 波形/n 和通信协/nr 议/ng ，/w 故/c 还/d 可以/a 与/c 旧体/b 制/k 的/u 各种/r 电台/nc 通信/v ，/w 大大/a 延长/v 了/dg 电台/nc 的/u 使用/v 周期/n ，/w 也/d 节约/v 了/dg 成本/n 开支/n 。/w
+/0
+特性/n
+1/m ）/w 具有/v 很/d 强/a 的/u 灵活性/n 。/w 软件/n 无线电/n 可以通过/n 增加/v 软件/n 模块/n ，/w 很/d 容易/a 地/n 增加/v 新/a 的/u 功能/n 。/w 它/r 可以/a 与其/c 它/r 任何/r 电台/nc 进行/v 通信/v ，/w 并/c 可以/a 作为/n 其它/r 电台/nc 的/u 射频/n 中继/v 。/w 可以通过/n 无线/b 加载/v 来/u 改变/v 软件/n 模块/n 或/c 更新/v 软件/n 。/w 为了/p 减少/v 开支/n ，/w 可以/a 根据/n 所/n 需/ng 功能/n 的/u 强弱/n ，/w 取舍/v 选用/v 的/u 软件/n 模块/n 。/w /0
+2/m ）/w 具有/v 较/d 强/a 的/u 开放性/n 。/w 软件/n 无线电/n 由于/c 采用/v 了/dg 标准化/v 、/w 模块化/v 的/u 结构/n ，/w 其/r 硬件/n 可以/a 随着/p 器件/n 和/c 技术/n 的/u 发展/v 而/c 更新/v 或/c 扩展/v 。/w 软件/n 也/d 可以/a 随/ng 需要/n 而/c 不断/d 升级/v 。/w 软件/n 无线电/n 不仅/c 能/ng 和新/nr 体制/n 电台/nc 通信/v ，/w 还/d 能/ng 与/c 旧式/b 体制/n 电台/nc 相/d 兼容/v 。/w 这样/r ，/w 既/c 延长/v 了/dg 旧体/b 制/k 电台/nc 的/u 使用/v 寿命/n ，/w 也/d 保证/v 了/dg 软件/n 无线电/n 本身/r 有/v 很/d 长/a 的/u 生命/n 周期/n 。/w
+/0
+简单/a 描述/v
+通用/v 硬件/n +/0 软件/n 可/v 升级/v （/w 动态/n 加载/v 新/a 的/u 波形/n 和协议可/nr 使用/v 不同/a 的/u 波形/n 和/c 协议/n 操作/v ）/w 。/w
+/0
+
+2/m 、/w MIMO/en
+/0
+定义/n
+MIMO/en ：/w (/w Multiple/en -/w Input/en Multiple/en -/w Output/en )/w 技术/n 指/ng 在/d 发射/v 端/ag 和/c 接收/v 端/ag 分别/d 使用/v 多个/n 发射/v 天线/n 和/c 接收/v 天线/n ，/w 使/ng 信号/n 通过/p 发射/v 端/ag 与/c 接收/v 端的/n 多个/n 天线/n 传送/v 和/c 接收/v ，/w 从而/c 改善/v 通信/v 质量/n 。/w 它/r 能/ng 充分/a 利用/v 空间/n 资源/n ，/w 通过/p 多个/n 天线/n 实现/v 多发/b 多/a 收/v ，/w 在/d 不/d 增加/v 频谱/n 资源/n 和/c 天线/n 发射/v 功率/n 的/u 情况/n 下/f ，/w 可以/a 成倍/d 的/u 提高/v 系统/a 信道/n 容量/n ，/w 显示/v 出/q 明显/a 的/u 优势/n 、/w 被/ng 视为/v 下一代/n 移动通信/ln 的/u 核心/n 技术/n 。/w
+/0
+特性/n
+1/m ）/w 基本/a 原理/n  /0
+发射/v 端/ag 通过/p 空/a 时/n 映射/v 将要/d 发送/v 的/u 数据/n 信号/n 映射/v 到/ng 多根/mq 天线/n 上/f 发送/v 出去/v ，/w 接收/v 端/ag 将/d 各/r 根/n 天线/n 接收/v 到/ng 的/u 信号/n 进行/v 空/a 时/n 译码/n 从而/c 恢复/v 出发/v 射/v 端/ag 发送/v 的/u 数据/n 信号/n 。/w
+2/m ）/w 分类/v
+/0  /0  /0  /0 A/b ）/w 空间/n 分/b 集/n ：/w 每个/r 发送/v 相同/a 的/u 信息/n ，/w 对抗/v 多/a 径/dg 干扰/v 。/w
+/0  /0  /0  /0  /0  /0  /0  /0 空间/n 分/b 集/n 是/v 指/ng 利用/v 多根/mq 发送/v 天线/n 将/d 具有/v 相同/a 信息/n 的/u 信号/n 通过/p 不同/a 的/u 路径/n 发送/v 出去/v ，/w 同时/c 在/d 接收机/n 端/ag 获得/v 同一个/b 数据/n 符号/n 的/u 多个/n 独立/a 衰落/v 的/u 信号/n ，/w 从而/c 获得/v 分/b 集/n 提高/v 的/u 接收/v 可靠性/n 。/w 举例来说/ldm ，/w 在/d 慢/a 瑞/ag 利/ag 衰落/v 信道/n 中/f ，/w 使用/v 一根/nz  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 发射/v 天线/n n/en 根/n 接收/v 天线/n ，/w 发送/v 信号/n 通过/p n/en 个/q 不同/a 的/u 路径/n 。/w 如果/c 各个/r 天线/n 之间/f 的/u 衰落/v 是/v 独立/a 的/u ，/w 可以/a 获得/v 最大/a 的/u 分/b 集/n 增益/v 为/p n/en 。/w 对于/p 发射/v 分/b 集技/n 术/ng 来说/u ，/w 同样/b 是/v 利用/v 多条/n 路径/n 的/u 增益/v 来/u 提高/v 系统/a 的/u 可靠性/n 。/w 在/d 一个/mq 具有/v m/n 根/n 发射/v 天/n  /0  /0  /0  /0  /0  /0  /0  /0 线/n n/en 根/n 接收/v 天线/n 的/u 系统/a 中/f ，/w 如果/c 天线/n 对/a 之间/f 的/u 路径/n 增益/v 是/v 独立/a 均匀/a 分布/v 的/u 瑞/ag 利/ag 衰落/v ，/w 可以/a 获得/v 的/u 最大/a 分/b 集/n 增益/v 为/p mn/n 。/w 目前/t 在/d MIMO/en 系统/a 中常/a 用/ng 的/u 空间/n 分/b 集技/n 术/ng 主要/b 有空/v 时分/n 组/n 码/ng （/w Space/en Time/en Block/en Code/en ，/w STBC/en ）/w 和/c 波束/n  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 成形/v 技术/n 。/w STBC/en 是/v 基于/p 发送/v 分/b 集/n 的/u 一/m 种/ng 重要/a 编码/n 形式/n ，/w 其中/r 最/d 基本/a 的/u 是/v 针对/v 二天/nz 线/n 设计/v 的/u Alamouti/en 方案/n 。/w
+/0  /0  /0  /0 B/n ）/w 空分/nz 复用/v ：/w 每个/r 天线/n 发送/v 不同/a 信息/n ，/w 提升/v 传输/v 速率/n ，/w 频谱/n 利用率/n 。/w
+/0  /0  /0  /0  /0  /0  /0  /0 （/w spatial/en multiplexing/en ）/w 工作/n 在/d MIMO/en 天线/n 配置/n 下/f ，/w 能够/v 在/d 不/d 增加/v 带宽/n 的/u 条件/n 下/f ，/w 相比/v SISO/en 系统/a 成倍/d 地/n 提升/v 信息/n 传输/v 速率/n ，/w 从而/c 极大/a 地/n 提高/v 了/dg 频谱/n 利用率/n 。/w 在/d 发射/v 端/ag ，/w 高速/b 率/ag 的/u 数据流/n 被/ng 分割/v 为/p 多个/n 较/d 低速/d 率/ag 的/u 子/k 数据流/n ，/w 不/d  /0  /0  /0  /0  /0  /0  /0  /0 同/a 的/u 子/k 数据流/n 在/d 不同/a 的/u 发射/v 天线/n 上/f 在/d 相同/a 频段/n 上/f 发射/v 出去/v 。/w 如果/c 发射/v 端/ag 与/c 接收/v 端的/n 天线/n 阵列/n 之间/f 构成/n 的/u 空域/n 子/k 信道/n 足够/v 不同/a ，/w 即/c 能够/v 在/d 时域/n 和频域/nr 之外/f 额外/b 提供/v 空域/n 的/u 维度/n ，/w 使得/v 在/d 不同/a 发射/v 天线/n 上传/v 送/v 的/u 信号/n 之间/f 能够/v 相互/b  /0  /0  /0  /0  /0  /0  /0  /0 区别/n ，/w 因此/c 接收机/n 能够/v 区分/v 出/q 这些/r 并行/v 的/u 子/k 数据流/n ，/w 而/c 不/d 需/ng 付出/v 额外/b 的/u 频率/n 或者/c 时间/n 资源/n 。/w 空间/n 复用/v 技术/n 在/d 高/a 信噪比/n 条件/n 下/f 能够/v 极大/a 提高/v 信道/n 容量/n ，/w 并且/c 能够/v 在/d “/w 开环/n ”/w ，/w 即/c 发射/v 端/ag 无法/v 获得/v 信道/n 信息/n 的/u 条件/n 下/f 使用/v 。/w  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Foschini/en 等/ng 人/n 提出/v 的/u “/w 贝尔实验室/nt 分层/v 空/a 时/n ”/w （/w BLAST/en ）/w 是/v 典型/a 的/u 空间/n 复用/v 技术/n 。/w
+/0
+简单/a 介绍/v
+多天/nz 线/n 发射/v 、/w 多天/nz 线/n 接收/v +/0 提升/v 信道/n 容量/n 。/w
+/0
+
+3/m 、/w CCFD/en
+/0
+定义/n
+在/d 空中/s 接口/n 方面/n ，/w 同时/c 同频/v 全/a 双工/nz (/w CCFD/en :/w  /0  /0 Co/en -/w time/en Co/en -/w frequency/en Full/en Duplexing/en )/w 技术/n (/w 后面/f 简称/n “/w 全/a 双工/nz ”/w )/w 能够/v 在/d 相同/a 频率/n 同时/c 收发/n 电磁波/n 信号/n ，/w 相对/b 于/ng 现在/t 广泛/a 应用/v 的/u 时分/n 双工/nz 和频/nr 分/b 双工/nz ，/w 频谱/n 效率/n 有望/v 提升/v 一/m 倍/d 。/w
+/0
+特性/n  /0
+核心/n 问题/n 是/v 如何/r 在/d 本地/r 接收机/n 中/f 抑制/v 本地/r 设备/n 自己/r 发射/v 的/u 信号/n (/w 即/c 自干/nz 扰/ag )/w 。/w
+抵消/v 方式/n 有/v 三/m 种/ng ：/w
+1/m ）/w 天线/n 抵消/v ：/w 被动/a 自干/nz 扰/ag 消除/v (/w Passive/en Cancellation/en )/w
+/0  /0  /0  /0 天线/n 端/ag 主要/b 采用/v 增大/v 收发/n 天线/n 隔离/v 度/k 的/u 方法/n ，/w 如/c 简单/a 的/u 拉/v 远/a 本地/r 收发/n 天线/n 距离/n ，/w 采用/v 定向天线/ln 隔离/v ，/w 在/d 收发/n 天线/n 间/f 增加/v 隔离/v 材料/n ，/w 或/c 采用/v 阵列/n 波束/n ，/w 减弱/v 接收/v 天线/n 处/nc 的/u 干扰/v 信号/n 强度/n 等/ng 方法/n 。/w
+2/m ）/w 射频/n 抵消/v
+3/m ）/w 基带/n 抵消/v
+/0  /0  /0  /0 对射/v 频/ag 和/c 基带/n 部分/n 的/u 干扰/v 消除/v 主要/b 采用/v 主动/a 自干/nz 扰/ag 消除/v 方式/n ，/w 预先/d 进行/v 自干/nz 扰/ag 信信/nz 号/n 的/u 幅度/n 、/w 相位/n 做/v 精确/a 的/u 估计/v ，/w 再/d 重建/v 自干/nz 扰/ag 信号/n 并/c 与/c 接收/v 信号/n 反/b 相/d 迭加/ns ，/w 实现/v 自干/nz 扰/ag 消除/v 。/w
+/0  /0  /0  /0 自干/nz 扰/ag 参数/n 估计/v 越/d 精确/a ，/w 自干/nz 扰/ag 消除/v 越/d 彻底/a 。/w
+/0  /0  /0  /0 制约/v 全/a 双工/nz 自干/nz 扰/ag 消除/v 能力/n 主要/b 有/v 自干/nz 扰/ag 估计/v 和/c 重建/v 过程/n 中/f 的/u 误差/n 、/w 放大器/n 非线性/b 等/ng 因素/n 。/w
+/0
+简单/a 介绍/v
+相同/a 频率/n 同时/c 收发/n 电磁波/n 信号/n ，/w 提高/v 频谱/n 使用/v 效率/n 。/w
+/0
+
+4/m 、/w OFDM/n
+/0
+定义/n
+OFDM/en (/w Orthogonal/en Frequency/en Division/en Multiplexing/en )/w 即/c 正交/b 频/ag 分/b 复用/v 技术/n ，/w 实际上/d OFDM/n 是/v MCM/en (/w Multi/en Carrier/en Modulation/en )/w ，/w 多/a 载波/n 调制/v 的/u 一/m 种/ng 。/w
+OFDM/n 主要/b 思想/n 是/v ：/w 将/d 信道/n 分成/v 若干/mq 正交/b 子/k 信道/n ，/w 将/d 高速/b 数据/n 信号/n 转换/v 成/ng 并行/v 的/u 低速/d 子/k 数据流/n ，/w 调制/v 到/ng 在/d 每个/r 子/k 信道/n 上进/a 行/a 传输/v 。/w 正交/b 信号/n 可以通过/n 在/d 接收/v 端/ag 采用/v 相关/v 技术/n 来/u 分开/v ，/w 这样/r 可以/a 减少/v 子/k 信道/n 之间/f 的/u 相互/b 干扰/v (/w ISI/en )/w 。/w 每个/r 子/k 信道/n 上/f 的/u 信号/n 带宽/n 小于/v 信道/n 的/u 相关/v 带宽/n ，/w 因此/c 每个/r 子/k 信道/n 上/f 可以/a 看成/v 平坦/a 性/k 衰落/v ，/w 从而/c 可以/a 消除/v 码/ng 间/f 串/q 扰/ag ，/w 而且/c 由于/c 每个/r 子/k 信道/n 的/u 带宽/n 仅仅/d 是/v 原/b 信道/n 带宽/n 的/u 一小/j 部分/n ，/w 信道/n 均衡/a 变得/v 相对/b 容易/a 。/w
+/0
+特性/n
+1/m ）/w 收发/n 流程/n  /0
+在/d 发射/v 端/ag ，/w 首先/c 对比/v 特/ag 流进/nz 行/a QAM/en 或/c QPSK/en 调制/v ，/w 然后/c 依次/d 经过/p 串/q 并/c 变换/v 和/c IFFT/en 变换/v ，/w 再/d 将/d 并行/v 数据/n 转化为/v 串行/b 数据/n ，/w 加上/v 保护/v 间隔/n （/w 又称/n “/w 循环/v 前缀/n ”/w ）/w ，/w 形成/v OFDM/n 码/ng 元/q 。/w 在/d 组/n 帧/q 时/n ，/w 须/d 加入/v 同步/b 序列/n 和信/nz 道/n 估计/v 序列/n ，/w 以便/c 接收/v 端/ag 进行/v 突发/v 检测/v 、/w 同步/b 和信/nz 道/n 估计/v ，/w 最后/f 输出/v 正交/b 的/u 基带/n 信号/n 。/w
+在/d 接收/v 端/ag ，/w 当/ag 接收机/n 检测/v 到/ng 信号/n 到达/v 时/n ，/w 首先/c 进行/v 同步/b 和信/nz 道/n 估计/v 。/w 当/ag 完成/v 时间/n 同步/b 、/w 小数/n 倍/d 频/ag 偏/a 估计/v 和/c 纠正/v 后/f ，/w 经过/p FFT/n 变换/v ，/w 进行/v 整数/n 倍/d 频/ag 偏/a 估计/v 和/c 纠正/v ，/w 此时/r 得到/v 的/u 数据/n 是/v QAM/en 或/c QPSK/en 的/u 已/d 调/n 数据/n 。/w 对/a 该/r 数据/n 进行/v 相应/v 的/u 解调/v ，/w 就/d 可/v 得到/v 比特/q 流/ng 。/w
+2/m ）/w 调制/v 方式/n
+OFDM/n 是/v 正交/b 频/ag 分/b 复用/v ，/w 将/d 信道/n 分成/v 若干/mq 正交/b 子/k 信道/n ，/w 将/d 高速/b 数据/n 信号/n 转换/v 成/ng 并行/v 的/u 低速/d 子/k 数据流/n ，/w 调制/v 到/ng 在/d 每个/r 子/k 信道/n 上进/a 行/a 传输/v 。/w
+解调/v 时/n 要/v 用/ng 一个/mq 有/v 乘积/n 积分/n 功能/n 的/u 滤波器/n 来/u 提取/v 每/r 一路/n 信号/n ，/w 由于/c 各自/r 载波/n 之间/f 的/u 正交/b 性/k ，/w 就/d 可以/a 很/d 好/a 地/n 提取/v 各路/b 信号/n 。/w
+在/d 通信/v 系统/a 中/f ，/w 例如/v 我们/r 用/ng 手机/np 打电话/v 的/u 时候/n ，/w 通话/v 数据/n 被/ng 采样/v 后/f ，/w 会/n 形成/v D/en 0/m 、/w D/en 1/m 、/w D/en 2/m 、/w D3/n 、/w D/en 4/m 、/w D/en 5/m ……/w 这样/r 连续/a 的/u 数据流/n 。/w
+FDM/en 就是/n 把/p 这个/r 序列/n 中/f 的/u 元素/n 依次/d 地/n 调制/v 到/ng 指定/v 的/u 频率/n 后发/v 送/v 出去/v 。/w
+OFDM/n 就是/n 先/d 把/p 序列/n 划分/v 为/p D/en 0/m 、/w D/en 4/m 、/w D/en 8/m ……/w D/en 1/m 、/w D/en 5/m 、/w D/en 9/m ……/w D/en 2/m 、/w D/en 6/m 、/w D/en 10/m ……/w D3/n 、/w D/en 7/m 、/w D/en 11/m ……/w 这样/r 4/m 个子/n 序列/n （/w 此处/r 子/k 序列/n 个数/n 仅/d 为/p 举例/v ，/w 不/d 代表/nx 实际/a 个数/n ）/w ，/w 然后/c 将/d 第一/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F1/n 上/f 并发/v 送/v 出去/v ，/w 第二/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F2/v 上/f 并发/v 送/v 出去/v ，/w 第三/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F3/n 上/f 并发/v 送/v 出去/v ，/w 第四/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F4/n 上/f 并发/v 送/v 出去/v 。/w F1/n 、/w F2/v 、/w F3/n 、/w F4/n 这/r 四/m 个/q 频率/n 满足/a 两两/m 正交/b 的/u 关系/n ，/w 如下/v 图/n 所/n 示/vg 。/w  /0
+/0
+简单/a 介绍/v
+OFDM/n ：/w 正交/b 频/ag 分/b 复用/v 。/w 将/d 原始/a 信道/n 分成/v 若干/mq 个子/n 信道/n 传递/v 信号/n +/0 提高/v 传输/v 速率/n 、/w 克服/v 频率/n 选择性/n 衰落/v 。/w
+
+/0
+
+另外/c ，/w 如果/c 您/r 对/a 5/m G/m 技术标准/n 与/c 行业应用/n 感兴趣/a ，/w 下面/f 可能/a 是/v 您/r 想要/v 的/u ：/w
+
+5/m G/m 技术标准/n 与/c 行业/n 趋势/n 报告/n ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ​/0 ,/w ,/w ,/w ,/w ,/w

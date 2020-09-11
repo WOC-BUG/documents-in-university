@@ -1,0 +1,11 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 的/u 应用/v ,/w 5/m G/m 的/u 应用/v n/en 1./m 英特尔/nz ：/w 智能/n 工厂/nc 和/c 机器人/n 、/w VR/en //w AR/n 、/w 数字监控/n 和/c 安全/a ，/w 和/c 消费者/n 关系/n 不大/n 。/w n/en 2./m 福特/nz ：/w 宣布/v 2022/m 所有/b 新车/n 都/d 将/d 配备/v 5/m G/en 连接/v 设施/n ，/w 让/v 车辆/n 之间/f 以及/c 车辆/n 和信/nz 号灯/n 之间/f 无线/b 沟通/v 。/w n/en 3./m 高通/nz ：/w 有/v 了/dg 5/m G/en 虚拟现实/ln 设备/n 就/d 可以/a 无线/b 连接/v 到/ng 其它/r 机器/np 上/f ，/w 也/d 可以/a 更加/d 容易/a 地/n 开发/v 出/q 眼镜/n 大小/n 的/u 目镜/n 。/w 但/c 谁/r 还/d 关心/v 虚拟现实/ln 呢/ng ？/w 在/d 最大/a 消费电子展/lnh 都/d 没/d 人/n 关心/v 了/dg 。/w n/en 4./m ,/w cyjbenyy/en ,/w https://blog.csdn.net/cyjbenyy/article/details/86506688/url ,/w 2019-01-16/t ,/w 374/m 次/a 阅读/v ,/w 5/m G/m 的/u 应用/v -/w 蝴蝶/n 少年/n 的/u 博客/n ,/w 2019年01月16日 14:09:04/t ,/w 5/m G/m 的/u 应用/v
+
+英特尔/nz ：/w 智能/n 工厂/nc 和/c 机器人/n 、/w VR/en //w AR/n 、/w 数字监控/n 和/c 安全/a ，/w 和/c 消费者/n 关系/n 不大/n 。/w
+福特/nz ：/w 宣布/v 2022/m 所有/b 新车/n 都/d 将/d 配备/v 5/m G/en 连接/v 设施/n ，/w 让/v 车辆/n 之间/f 以及/c 车辆/n 和信/nz 号灯/n 之间/f 无线/b 沟通/v 。/w
+高通/nz ：/w 有/v 了/dg 5/m G/en 虚拟现实/ln 设备/n 就/d 可以/a 无线/b 连接/v 到/ng 其它/r 机器/np 上/f ，/w 也/d 可以/a 更加/d 容易/a 地/n 开发/v 出/q 眼镜/n 大小/n 的/u 目镜/n 。/w 但/c 谁/r 还/d 关心/v 虚拟现实/ln 呢/ng ？/w 在/d 最大/a 消费电子展/lnh 都/d 没/d 人/n 关心/v 了/dg 。/w
+Verizon/en ：/w 投入/a 100 万/m 美元/n 开启/v 一/m 项/ng “/w 5/m G/en 挑战/v ”/w ，/w 希望/n 开发者/n 们/k 帮助/v 他们/r 探索/v 5/m G/en 的/u 具体/a 应用/v 。/w 这么/r 讲/v 也/d 等同于/vi ，/w 即便/c 投入/a 了/dg 上亿/m 美元/n 押/ng 注/ng 5/m G/m ，/w 但/c Verizon/en 自己/r 也/d 不明/v 白/a 5/m G/en 到底/d 能带/n 来/u 什么/r 。/w
+
+
+
+移动通信/ln 服务/v 要求/n 演进/v ,/w ,/w ,/w ,/w ,/w

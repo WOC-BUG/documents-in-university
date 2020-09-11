@@ -1,0 +1,38 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能工具列表 - piaoniu_1985的专栏 - CSDN博客,http://blog.csdn.net/piaoniu_1985/article/details/77948032,,,http://blog.csdn.net/piaoniu_1985/article/details/77948032,,,,,人工智能工具列表 - piaoniu_1985的专栏,2017年09月12日 17:58:10,转        人工智能工具列表
+      
+      
+        
+                                                  2017年09月12日 17:58:10
+          向上低调的飞
+          阅读数：853
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+整理出现在比较实用的开源的人工智能工具：
+
+1.1.       Caffe  由 NVIDIA 和亚马逊等公司资助来支持它的发展
+1.2.       CNTK  计算网络工具包  微软 python
+1.3.       Deeplearning4j  Java、Scala兼容  商业公司管理
+1.4.       DMTK 分布式机器学习工具 微软  python
+1.5.       H20   集成在Spark中，服务企业用户
+1.6.       Mahout 开源机器框架 Apache基金会项目
+1.7.       MLlib   Spark的可扩展学习库
+1.8.       NuPIC  基于分层暂时记忆理论  有商业版本
+1.9.       OpenNN   实现神经网络算法的C++库
+1.10.    OpenCyc   提供了对 Cyc 知识库的访问和常识推理引擎
+1.11.    Oryx 2   Apache Spark 和Kafka之上的专门针对大规模机器学习的应用程序开发框架
+1.12.    PredictionIO   Apache下机器学习引擎
+1.13.    SystemML    Apache 大数据项目
+1.14.    TensorFlow 是一个谷歌的开源人工智能工具 c++和Python
+1.15.    Torch  一个优先使用 GPU 的拥有机器学习算法广泛支持的科学计算框架   Lua
+内容来源于网络。在人工智能、机器学习、深度学习项目中，python和c++的优势比较明显。

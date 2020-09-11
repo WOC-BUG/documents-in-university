@@ -1,0 +1,236 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+10分钟/t 读/ng 懂/v 人工智能/n 、/w 机器/np 学习/v 到底/d 有/v 什么/r 关系/n ,/w https://blog.csdn.net/UFv59to8/article/details/78511390/url ,/w 文/n 末/f 彩蛋/n ，/w 错过/v 哭/v 一/m 年/n 。/w 。/w 。/w 。/w
+
+
+
+人工智能/n 的/u 浪潮/n 正在/n 席卷/v 全球/n ，/w 诸多/mq 词汇/n 时刻/d 萦绕/v 在/d 我们/r 耳边/s ：/w 人工智能/n （/w Artificial/en Intelligence/en ）/w 、/w 机器/np 学习/v （/w Machine/en Learning/en ）/w 。/w 不少/mq 人/n 对/a 这些/r 高频/b 词汇/n 的/u 含义/n 及其/c 背后/f 的/u 关系/n 总是/d 似懂非懂/iv 、/w 一知半解/iv 。/w
+
+为了/p 帮助/v 大家/r 更好/d 地理/n 解/ng 人工智能/n ，/w 这/r 篇文章/n 用/ng 最/d 简单/a 的/u 语言/n 解释/v 了/dg 这些/r 词汇/n 的/u 含义/n ，/w 理清/v 它们/r 之间/f 的/u 关系/n ，/w 希望/n 对/a 刚/ag 入门/v 的/u 同行/n 有所/v 帮助/v ,/w https://blog.csdn.net/UFv59to8/article/details/78511390/url ,/w //blog.csdn.net/UFv59to8/article/details/78511390/url ,/w ,/w ,/w ,/w ,/w 10分钟/t 读/ng 懂/v 人工智能/n 、/w 机器/np 学习/v 到底/d 有/v 什么/r 关系/n -/w 数据/n 与/c 算法/n 之美/nz ,/w 2017年11月11日 00:00:00/t ,/w 转/q 10分钟/t 读/ng 懂/v 人工智能/n 、/w 机器/np 学习/v 到底/d 有/v 什么/r 关系/n
+
+
+
+2017年11月11日 00:00:00/t
+数据/n 与/c 算法/n 之美/nz
+阅读/v 数/m ：8424/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+文/n 末/f 彩蛋/n ，/w 错过/v 哭/v 一/m 年/n 。/w 。/w 。/w 。/w
+
+
+人工智能/n 的/u 浪潮/n 正在/n 席卷/v 全球/n ，/w 诸多/mq 词汇/n 时刻/d 萦绕/v 在/d 我们/r 耳边/s ：/w 人工智能/n （/w Artificial/en Intelligence/en ）/w 、/w 机器/np 学习/v （/w Machine/en Learning/en ）/w 。/w 不少/mq 人/n 对/a 这些/r 高频/b 词汇/n 的/u 含义/n 及其/c 背后/f 的/u 关系/n 总是/d 似懂非懂/iv 、/w 一知半解/iv 。/w
+
+为了/p 帮助/v 大家/r 更好/d 地理/n 解/ng 人工智能/n ，/w 这/r 篇文章/n 用/ng 最/d 简单/a 的/u 语言/n 解释/v 了/dg 这些/r 词汇/n 的/u 含义/n ，/w 理清/v 它们/r 之间/f 的/u 关系/n ，/w 希望/n 对/a 刚/ag 入门/v 的/u 同行/n 有所/v 帮助/v 。/w
+人工智能/n ：/w 从/p 概念/n 提出/v 到/ng 走向/v 繁荣/a
+
+
+
+1956年/t ，/w 几/m 个/q 计算机/np 科学家/n 相聚/v 在/d 达特茅斯/nz 会议/nh ，/w 提出/v 了/dg “/w 人工智能/n ”/w 的/u 概念/n ，/w 梦想/n 着/n 用/ng 当时/t 刚刚/d 出现/v 的/u 计算机/np 来/u 构造/n 复杂/a 的/u 、/w 拥有/v 与/c 人类/n 智慧/n 同样/b 本质/n 特性/n 的/u 机器/np 。/w 其后/t ，/w 人工智能/n 就/d 一直/d 萦绕/v 于/ng 人们/n 的/u 脑海/n 之中/f ，/w 并/c 在/d 科研/n 实验室/nc 中/f 慢慢/d 孵化/v 。/w 之后/f 的/u 几十/mq 年/n ，/w 人工智能/n 一直/d 在/d 两极/n 反转/v ，/w 或/c 被/ng 称作/v 人类/n 文明/a 耀眼/a 未来/t 的/u 预言/n ，/w 或/c 被/ng 当成/v 技术/n 疯子/n 的/u 狂想/n 扔/v 到/ng 垃圾堆/n 里/f 。/w 直到/v 2012年/t 之前/f ，/w 这/r 两/m 种/ng 声音/n 还/d 在/d 同时/c 存在/v 。/w
+
+
+
+
+2012年/t 以后/f ，/w 得益于/v 数据/n 量/n 的/u 上涨/v 、/w 运算/v 力/n 的/u 提升/v 和/c 机器/np 学习/v 新/a 算法/n 的/u 出现/v ，/w 人工智能/n 开始/v 大/a 爆发/v 。/w 据/ng 领/ng 英/jns 近日/t 发布/v 的/u 《/w 全球/n AI/n 领域/n 人才/n 报告/n 》/w 显示/v ，/w 截至/v 2017年一/t 季度/t ，/w 基于/p 领/ng 英平/nz 台/n 的/u 全球/n AI/n （/w 人工智能/n ）/w 领域/n 技术/n 人才/n 数量/n 超过/v 190万/m ，/w 仅/d 国内/s 人工智能/n 人才/n 缺口/n 达到/v 500/m 多/a 万/m 。/w
+
+人工智能/n 的/u 研究领域/n 也/d 在/d 不断/d 扩大/v ，/w 图/n 一展/v 示/vg 了/dg 人工智能/n 研究/v 的/u 各个/r 分支/n ，/w 包括/v 专家系统/n 、/w 机器/np 学习/v 、/w 进化/v 计算/v 、/w 模/ng 煳/a 逻辑/n 、/w 计算机/np 视觉/n 、/w 自然语言/n 处理/v 、/w 推荐/v 系统/a 等/ng 。/w
+
+
+
+图/n 一/m 　人工智能/n 研究/v 分支/n
+
+但/c 目前/t 的/u 科研工作/n 都/d 集中/a 在/d 弱/a 人工智能/n 这部分/mq ，/w 并/c 很/d 有/v 希望/n 在/d 近期/t 取得/v 重大/a 突破/v ，/w 电影/n 里/f 的/u 人工智能/n 多半/d 都/d 是在/n 描绘/v 强人/n 工智/nz 能/ng ，/w 而/c 这部分/mq 在/d 目前/t 的/u 现实/a 世界/n 里/f 难以/d 真正/b 实现/v （/w 通常/b 将/d 人工智能/n 分为/v 弱/a 人工智能/n 和/c 强人/n 工智/nz 能/ng ，/w 前者/r 让/v 机器/np 具备/v 观察/v 和/c 感知/v 的/u 能力/n ，/w 可以/a 做到/v 一定/b 程度/n 的/u 理解/v 和/c 推理/v ，/w 而/c 强人/n 工智/nz 能/ng 让/v 机器/np 获得/v 自适/a 应能/nz 力/n ，/w 解决/v 一些/mq 之前/f 没有/d 遇到/v 过/d 的/u 问题/n ）/w 。/w
+
+弱/a 人工智能/n 有/v 希望/n 取得/v 突破/v ，/w 是/v 如何/r 实现/v 的/u ，/w “/w 智能/n ”/w 又/d 从/p 何而来/nr 呢/ng ？/w 这/r 主要/b 归功/v 于一/nr 种/ng 实现/v 人工智能/n 的/u 方法/n ——/w 机器/np 学习/v 。/w
+机器/np 学习/v ：/w 一/m 种/ng 实现/v 人工智能/n 的/u 方法/n
+
+
+机器/np 学习/v 最/d 基本/a 的/u 做法/n ，/w 是/v 使用/v 算法/n 来/u 解析/v 数据/n 、/w 从中/d 学习/v ，/w 然后/c 对/a 真实/a 世界/n 中/f 的/u 事件/n 做出/v 决策/n 和/c 预测/v 。/w 与/c 传统/a 的/u 为/p 解决/v 特定/b 任务/n 、/w 硬/a 编码/n 的/u 软件/n 程序/n 不同/a ，/w 机器/np 学习/v 是/v 用/ng 大量/mq 的/u 数据/n 来/u “/w 训练/v ”/w ，/w 通过/p 各种/r 算法/n 从/p 数据/n 中学/nc 习/ng 如何/r 完成/v 任务/n 。/w
+
+
+
+举/ag 个/q 简单/a 的/u 例子/n ，/w 当/ag 我们/r 浏览/v 网上商城/n 时/n ，/w 经常/d 会/n 出现/v 商品/n 推荐/v 的/u 信息/n 。/w 这是/n 商城/ny 根据/n 你/r 往/p 期/ng 的/u 购物/v 记录/n 和/c 冗长/a 的/u 收藏/v 清单/n ，/w 识别/v 出/q 这/r 其中/r 哪些/r 是/v 你/r 真正/b 感兴趣/a ，/w 并且/c 愿意/v 购买/v 的/u 产品/n 。/w 这样/r 的/u 决策/n 模型/n ，/w 可以/a 帮助/v 商城/ny 为/p 客户/n 提供/v 建议/n 并/c 鼓励/v 产品/n 消费/v 。/w
+
+机器/np 学习/v 直接/a 来源于/v 早期/f 的/u 人工智能/n 领域/n ，/w 传统/a 的/u 算法/n 包括/v 决策/n 树/n 、/w 聚/v 类/n 、/w 贝/ng 叶斯/nr 分类/v 、/w 支持/v 向量/n 机/np 、/w EM/n 、/w Adaboost/en 等等/u 。/w 从/p 学习方法/n 上来/v 分/b ，/w 机器/np 学习/v 算法/n 可以/a 分为/v 监督/v 学习/v （/w 如/c 分类/v 问题/n ）/w 、/w 无/v 监督/v 学习/v （/w 如/c 聚/v 类/n 问题/n ）/w 、/w 半/m 监督/v 学习/v 、/w 集成/b 学习/v 、/w 深度/n 学习/v 和强化/nr 学习/v 。/w
+
+机器/np 学习/v 作为/n AI/n 的/u 核心/n 技术/n 之一/r ，/w 已/d 广泛/a 应用/v 于/ng 数据挖掘/n 、/w 计算机/np 视觉/n 、/w 自然语言/n 处理/v 、/w 生物/n 特征/n 识别/v 、/w 搜索引擎/n 、/w 医学/n 诊断/v 、/w 语音/n 和/c 手写/b 识别/v 、/w 战略/n 游戏/n 和/c 机器人/n 等/ng 领域/n 。/w
+
+今年9月/t 份/n ，/w 国内领先/n 的/u 人工智能/n 教育平台/n 「/w 七月/t 在线/v 」/w 推出/v 「/w 机器/np 学习/v 集训/v 营/n 第二/m 期/ng 」/w ，/w 100/m 个/q 名额/n 一抢而空/l 。/w 优化/v 后/f 的/u 第三/m 期/ng 集训/v 营/n ，/w 沿用/v 前/f 两/m 期/ng 线上/n 线下/n （/w 北京/ns 、/w 上海/ns 两个/n 线下/n 实战/n 基地/nc ）/w 相/d 结合/v 的/u 授课/v 方式/n ，/w 加强/v 项目/n 实训/n 的/u 同时/c 引入/v 线下/n BAT/en 专家/n 面对面/ld 、/w 手把手/d 教学/n 方式/n ；/w 突出/a BAT/en 级/n 工业/n 项目/n 实战/n 辅导/v
++/0 一对一/ld 面试/v 求职/v 辅导/v ，/w 提供/v 3/m 个/q 月/n GPU/n 云/n 实验/n 平台/n 免费/v 使用/v ，/w 精讲/v 面试/v 考点/n 。/w 让/v 每/r 一/m 位/q 学员/n 不用/d 再/d 为/p 遇到/v 问题/n 没/d 人/n 解答/v ，/w 缺乏/v 实战/n 经验/n 以及/c 简历/n 上/f 没有/d 项目/n 经验/n ，/w 面试/v 屡屡/d 遭拒/v 而发/nz 愁/ng 。/w
+
+本期/r 限/ng 100/m 个/q 名额/n ，/w 历时/v 3/m 个/q 月/n ，/w 10/m 多个/n BAT/en 级/n 工业/n 项目/n ，/w 保障/v 每/r 一/m 位/q 学员/n 所学/v 更多/n 、/w 效率/n 更/d 高/a 、/w 收获/n 更/d 大/a 。/w
+培养/v 目标/n
+
+
+从/p 零/m 开始/v ，/w 培养中/n 高级/a 机器/np 学习/v 工程师/nx 。/w 挑战/v 高薪/n 、/w 玩/ng 转/q AI/n 。/w
+特色服务/n
+
+
+·/w
+全面/a 涵盖/v 机器/np 学习/v 重要/a 知识点/n
+集训/v 营/n 内容/n 分为/v 八大/j 部分/n ，/w 涵盖/v 教/ng 你/r 零基/nz 础/ng 快速/b 上手/s 编程/v 、/w 数据/n 爬/v 取/v 、/w 数据分析/n 、/w 数据/n 可视化/vn 、/w 玩/ng 转/q 大数据/n 、/w 机器/np 学习/v 从/p 原理/n 到/ng 实战/n 、/w 深度/n 学习/v 从/p 原理/n 到/ng 实战/n 、/w BAT/en 工业级/l 大项/n 目/ng 实战/n 。/w
+
+
+
+·/w
+提供/v GPU/n 云/n 实验/n 平台/n
+还原/v BAT/en 真实/a 生产/v 环境/n ，/w 提供/v 工业/n 数据/n 和/c 国内/s 首创/v 的/u 价值/n 数十万/m 的/u GPU/n 云/n 实验/n 平台/n （/w 提前/v 装/ng tensorflow/en 、/w caffe/en 、/w mxnet/en 等/ng 主流/n DL/n 框架/n 和/c 相关/v 数据/n ）/w 。/w 提供/v 完善/a 的/u 实验/n 平台/n 供/ng 您/r 动手/v 、/w 真/a 枪/n 实战/n ，/w 拒绝/v 纸上谈兵/iv 。/w
+
+·/w 线上/n 线下/n 项目/n 实训/n
+通过/p 在线/v 课程/n 从头到尾/ld 掌握/v 机器/np 学习/v 工业/n 项目/n 的/u 各项/r 流程/n 、/w 模型/n 、/w 算法/n ，/w 通过/p 在线/v 实训/n 巩固/a 强化/v 实战/n 所学/v ，/w 通过/p 线下/n 项目/n 辅导/v 练就/v ML/q 工业/n 项目/n 的/u 全栈/nr 能力/n 。/w
+
+·/w BAT/en 专家级/b 讲师/n +/0 助教/n 全方位/n 辅导/v
+我们/r 拥有/v 来自/v BAT/en 的/u 专家级/b 讲师/n 和数/n 位/q 助教/n ，/w 给/v 你/r 全程/n 1/m v/en 1/m 般的/u 定制/v 辅导/v 。/w 通过/p GPU/en +/0 jupyter/en notebook/en +/0 GitHub/en 在线/v 提交/v 作业/n ，/w 然后/c 讲师/n 和/c 助教/n 在线/v 批改/v 、/w 讲解/v 作业/n ，/w 且/c 提供/v 可/v 执行/v 的/u 交互式/b 代码/n ，/w 从而/c 每次/r 课/n 都/d 是/v 标准化/v 配置/n ，/w 涵盖/v ：/w GPU/n 、/w 原理/n 、/w 案例/n 、/w 数据/n 、/w 代码/n 、/w 作业/n 。/w 有/v 问题/n ，/w 课/n 上/f 直播/v 课后/t 答疑/v ，/w 手把手/d 教会/n 为止/u 。/w
+
+·/w 简历/n 优化/v
+根据/n 集训/v 营/n 实战/n 项目/n ，/w 将/d 涉及到/v 的/u 关键/a 知识点/n 和/c 项目/n 经历/n 优化/v 到/ng 您/r 的/u 简历/n 中/f 。/w
+
+·/w 面试/v 求职/v 辅导/v +/0 就业推荐/n
+精讲/v 机器/np 学习/v 工程师/nx 面试/v 时常/d 见/v 考点/n //w 模型/n //w 算法/n ，/w 且/c BAT/en 一线/n 技术/n 经理/nx 一对一/ld 模拟/v 真实/a 面试/v ，/w 从/p 技术/n 、/w 表达/v 等/ng 方面/n 全方位/n 提升/v 您/r 的/u 面试/v 能力/n 。/w 根据/n 您/r 的/u 技术/n 特长/n 提供/v 定制/v 化/k 的/u 能力/n 评估/n 、/w 就业指导/n 以及/c 包括/v BAT/en 等/ng 一线/n 互联网/n 公司/nc 的/u 工作机会/n 推荐/v 。/w 3/m 个/q 月/n 挑战/v 年薪/n 30/m ~/w 50万/m 。/w
+课程安排/n
+
+·/w 第一/m 阶段/n ：/w 零基/nz 础/ng 快速/b 上手/s 编程/v
+在线/v 课程/n ：/w 1/m -/w 基本/a python/en 类型/n 、/w 判断/n 与/c 循环/v 流程/n 等/ng
+在线/v 实训/n ：/w 2/m -/w python/en 基本/a 练习题/n
+在线/v 课程/n ：/w 3/m -/w 文件/n //w 数据/n 读写/v 、/w 面向/v 对象/n 、/w 第三方/n 库/n 等/ng
+在线/v 实训/n ：/w 4/m -/w 多种/a 数据/n 读写/v 与/c 面向/v 对象/n 练习/n
+线下/n 实训/n ：/w 5/m -/w python/en 基本/a 练习题/n 与/c google/en python/en 实战/n 题/n
+
+·/w 第二/m 阶段/n ：/w 数据/n 爬/v 取得/v 心/n 应手/n
+在线/v 课程/n ：/w 1/m -/w requestsbs/en 4/m 解析/v 静态/n 网页/n 和/c selenium/en 解析/v 动态/n 网页/n
+在线/v 实训/n ：/w 2/m -/w 电商网/j 站/ny 17/m huo/en 和/c 天气预报/ln 数据/n 抓取/v 、/w 模拟/v 百度/nt 关键字/n 搜索/n
+在线/v 课程/n ：/w 3/m -/w 模拟/v 登陆/v 与/c scrapy/en 爬虫/n 框架/n 使用/v
+在线/v 实训/n ：/w 4/m -/w 豆瓣/n 电影/n 数据/n 抓取/v 、/w 创业/v 邦/ng 投资机构/n 数据/n 抓取/v
+线下/n 实训/n ：/w 5/m -/w 新闻网/nc 站/ny 与/c 链家/nz 网/n 数据/n 爬/v 取/v （/w 基于/p scrapy/en 实现/v ）/w
+
+·/w 第三/m 阶段/n ：/w 数据分析/n 全攻略/n
+在线/v 课程/n ：/w 1/m -/w pandas/en 花式/b 数据统计/n 与/c 分析/v 技能/n
+在线/v 实训/n ：/w 2/m -/w pandas/en 综合/v 练习/n
+在线/v 课程/n ：/w 3/m -/w 用/ng pandas/en 完成/v 机器/np 学习/v 数据/n 预处理/v 与/c 特征/n 工程/n
+在线/v 实训/n ：/w 4/m -/w pandas/en 完成/v Kaggle/en 机器/np 学习/v 预处理/v
+线下/n 实训/n ：/w 5/m -/w 美国/ns 大选/n 、/w 共享/v 单车/n 数据分析/n
+
+·/w 第四/m 阶段/n ：/w 可视化/vn 提升/v 数据/n 逼/v 格/n 技能/n get/en
+在线/v 课程/n ：/w 1/m -/w 好用/a 的/u python/en 可视化/vn 利器/n matplotlib/en
+在线/v 实训/n ：/w 2/m -/w matplotlib/en 完成/v Titanic/en 和/c 自行车/np 租赁/v 数据/n 可视化/vn
+在线/v 课程/n ：/w 3/m -/w 自带/v 各种/r 数据/n 拟合/v 分析/v 的/u 可视化/vn 利器/n seaborn/en
+在线/v 实训/n ：/w 4/m -/w seaborn/en 完成/v Titanic/en 和/c 自行车/np 租赁/v 数据/n 可视化/vn
+线下/n 实训/n ：/w 5/m -/w 美国/ns 大选/n 、/w 共享/v 单车/n 可视化/vn 技能/n 巩固/a 与/c 实战/n
+
+·/w 第五/m 阶段/n ：/w 玩/ng 转/q 大数据/n
+在线/v 课程/n ：/w 1/m -/w hadoop/en 与/c map/en -/w reduce/en
+在线/v 实训/n ：/w 2/m -/w 手写/b map/en -/w reduce/en 完成/v 词频/n 统计/v ，/w 制作/v 词/n 云/n
+在线/v 课程/n ：/w 3/m -/w Spark/en 与/c 大数据/n 处理/v
+在线/v 实训/n ：/w 4/m -/w Spark/en 大数据/n 日志/n 分析/v
+线下/n 实训/n ：/w 5/m -/w 大数据/n 分析/v 处理/v 案例/n
+
+·/w 第六/m 阶段/n ：/w 机器/np 学习/v 原理/n 到/ng 实战/n
+在线/v 课程/n ：/w 1/m -/w 机器/np 学习/v 流程/n 、/w 预处理/v 、/w 特征/n 工程/n
+在线/v 实训/n ：/w 2/m -/w Kaggle/en 机器/np 学习/v 比赛/v 中/f 的/u 特征/n 工程处/nc 理/n 实战/n
+在线/v 课程/n ：/w 3/m -/w 模型/n 评判/v 标准/a 与/c 部分/n 机器/np 学习/v 有/v 监督/v 算法/n
+在线/v 实训/n ：/w 4/m -/w sklean/en 接口/n 熟悉/v 与/c 机器/np 学习/v 建模/v 指导/v
+线下/n 实训/n ：/w 5/m -/w sklearn/en 建模/v 与/c 使用/v
+在线/v 课程/n ：/w 6/m -/w 机器/np 学习/v 有/v 监督/v 算法/n 与/c 无/v 监督/v 学习/v
+在线/v 实训/n ：/w 7/m -/w sklearn/en 刷/ng Kaggle/en 比赛/v 题/n
+在线/v 课程/n ：/w 8/m -/w 机器/np 学习/v 集成/b 算法/n 与/c 大/a 杀/v 器/k Xgboost/en //w LightGBM/en
+在线/v 实训/n ：/w 9/m -/w Xgboost/en 与/c LightGBM/en 使用/v
+在线/v 课程/n ：10-/t 数据/n 科学/a 比赛/v 精讲/v
+在线/v 实训/n ：11-/t 数据/n 科学/a 比赛/v 练习赛/n
+线下/n 实训/n ：12-/t 集成/b 算法/n 与/c 场景/n 建模/v
+
+·/w 第七/m 阶段/n ：/w 深度/n 学习/v 原理/n 到/ng 实战/n
+在线/v 课程/n ：/w 1/m -/w 深度/n 神经网络/n 、/w google/en wide/en &/0 &/0 deep/en 模型/n 、/w 腾讯/nt 通用/v CTR/n 神经网络/n 框架/n 与/c 实现/v
+在线/v 课程/n ：/w 2/m -/w 卷积/n 神经网络/n 、/w caffe/en 实战/n 图像/n 分类/v 、/w Tensorflow/en 实战/n 图像/n 风格/n 变换/v 实现/v
+在线/v 课程/n ：/w 3/m -/w 循环/v 神经网络/n 、/w Tensorflow/en 实战/n 情感/n 分析/v 与/c 文本/n 生成/v 实现/v
+线下/n 实训/n ：/w 4/m -/w Caffe/en &/0 &/0 Tensorflow/en 实战/n
+
+·/w 第八/m 阶段/n ：/w 实际/a 综合/v 项目/n 与/c 就业指导/n
+线下/n 实训/n ：/w 1/m -/w 自然语言/n 处理/v 项目/n
+(/w 文本/n 数据/n 抓取/v +/0 spark/en //w pandas/en 数据分析/n +/0 可视化/vn +/0 特征/n 抽取/v +/0 Sklearn/en //w Spark/en 机器/np 学习/v 建模/v +/0 深度/n 学习/v 建模/v )/w
+线下/n 实训/n ：2-分/t 类/n 与/c 推荐/v 系统/a 实战/n
+(/w 音乐/n 数据/n 抓取/v +/0 spark/en //w pandas/en 分析/v +/0 可视化/vn +/0 协同/v 过滤/v +/0 隐语/n 义/ng 模型/n +/0 特征/n 抽取/v 分类/v 建模/v )/w
+线下/n 实训/n ：/w 3/m -/w 图像/n 项目/n
+(/w 图像/n 分类/v +/0 图像/n 检索/v )/w
+线下/n 实训/n ：/w 4/m -/w 机器/np 学习/v 面试辅导/n
+(/w 面试/v 注意/v 点/m +/0 常见/a 面试/v 考点/n 精讲/v +/0 简历/n 指导/v +/0 项目/n 展示/v )/w
+
+实战/n 项目/n
+
+·/w 新闻网/nc 站/ny 与/c 链家/nz 网/n 数据/n 爬/v 取/v
+
+通过/p 对/a 新闻网/nc 站/ny 和/c 链家/nz 网/n 进行/v 数据/n 爬/v 取/v ，/w 巩固/a 静态/n 网站/nc 爬/v 取/v 技巧/n ，/w 掌握/v 技能/n 包括/v requests/en 库/n 的/u 使用/v 、/w 网页/n 解析/v 、/w 正则/n 表达式/n 应用/v ，/w 中文/n 文本/n 处理/v 等/ng 。/w
+
+·/w 豆瓣/n 与/c 链家/nz 详情/n 数据/n 爬/v 取/v
+
+通过/p 对/a 豆瓣/n 链家/nz 微信公众号/ln 等/ng 进行/v 数据/n 爬/v 取/v ，/w 掌握/v 登录/v 网站/nc 数据/n 获取/v 的/u 知识/n ，/w 掌握/v 技能/n 包括/v 模拟/v 登陆/v ，/w 数据/n 爬/v 取/v 与/c 解析/v ，/w 多/a 类/n 数据/n 爬/v 取/v 。/w
+
+·/w
+大数据/n 分析/v 处理/v 案例/n
+
+通过/p 对大/n 文件/n 日志/n 的/u 分析/v ，/w 熟悉/v hadoop/en ，/w spark/en 写/v map/en -/w reduce/en 处理/v 海量/n 数据/n 的/u 方法/n ，/w 并/c 对/a 电商/n 数据/n 进行/v 处理/v ，/w get/en 工业界/n 常用/n 大数据/n 技能/n 。/w
+
+更多/n 实战/n 项目/n ，/w 请/v 点击/v 阅读/v 原文/n 。/w
+讲师/n 介绍/v
+
+
+
+寒/ag 小/a 阳/ag
+
+着/n 名/n 电商/n 搜索/n 广告/n 负责人/n ，/w 多年/n 实际/a ml/en //w DL/en //w dm/n 项目/n 经验/n ，/w 专注/a 海量/n 数据/n 上机/v 器/k 学习/v 算法/n 的/u 应用/v 与/c 优化/v 。/w 做/v 过/d 推荐/v 系统/a 、/w NLP/en 、/w 点击率/n 预估/v 、/w 图像/n 识别/v 。/w 讲课/v 清晰/a 易懂/a ，/w 擅长/v 用/ng 实际/a 数据/n 、/w 代码/n 、/w 案例/n 说话/v ，/w 备受/v 数千/nz 名学/n 员/k 好评/n 。/w
+
+
+
+林/ng 老师/nx
+原/b BAT/en 高级技术/n 专家/n ，/w 更/d 早/a 时期/n 先后/d 任职/v 于/ng 微软/nt 、/w EMC/n 等/ng ，/w 从事/v 过/d 操作系统/ln 、/w 数据库/n 和/c 云存储相/nr 关/n 产品/n 的/u 研发/v 。/w 擅长/v Python/en 数据分析/n 、/w 爬虫/n 。/w 曾/d 多次/m 作为/n 面试/v 官/bg 参与/v BAT/en //w EMC/n 校/n 招/ng 面试/v 与/c 出题/v ，/w 善于/v 剖析/v leetcode/en 经典/n 题型/n 、/w 助人/v 入门/v 、/w 提高/v 。/w
+
+
+
+David/en 陈/a
+
+人大/nc 统计/v 系数/n 据/ng 挖掘/v 与/c 统计/v 应用/v 硕士/n ，/w 从事/v 数据分析/n 挖掘/v 多年/n ，/w 开发/v 过/d 某/r 金融/n 公司/nc 量化/v 自动/b 交易/n 系统/a 。/w 现/d 为/p 七月/t 在线/v Python/en 教学/n 负责人/n ，/w 喜爱/v 以/p 数据/n 去/v 理解/v 事物/n ，/w 擅长/v 从/p 零/m 起步/v ，/w 一步步/qqy 将/d 复杂/a 问题/n 简单/a 通俗/a 阐述/v ，/w 备受/v 广大/b 学员/n 欢迎/v 。/w
+
+时间/n 安排/v
+
+
+
+2018年1月8日/t 起/q 正式/a 上课/v ，/w 为期/v 近/a 3/m 个/q 月/n
+
+
+在线/v 课程/n
+周一/t 20:00/t PM/en --22:00/t PM/n
+
+在线/v 实训/n
+周二/t 20:00/t PM/en --22:00/t PM/n
+
+在线/v 课程/n
+周三/t 20:00/t PM/en --22:00/t PM/n
+
+在线/v 实训/n
+周四/t 20:00/t PM/en --22:00/t PM/n
+
+线下/n 实战/n
+周日/t 09:00/t AM/en --13:00/t PM/n
+
+
+福利/n 大/a 放送/v
+这个/r 双十/n 一/m ，/w 来/u 七月/t 在线活动/n 会场/n ，/w 福利/n 人人/n 有/v 份/n ：/w 免费/v 送/v 课/n ，/w 免费/v 送/v 【/w AI/n 工程师/nx 成长/v 之路/nz 】/w 合集/n ，/w Mac/n 、/w 爱/v 疯/v 等/ng 你/r 抽/v !/w
+收藏/v 链接/n ：http://www.julyedu.com/sale/pre_1111/url
+
+11.10-11.12/t 抢/v 课/n 、/w 抽/v Mac/n
+
+
+
+扫/v 码/ng 领/ng 【/w AI/n 工程师/nx 成长/v 之路/nz 】/w 合集/n
+
+
+戳/ng 原文/n ，/w 抽奖/v ，/w 享福/v 利/ag

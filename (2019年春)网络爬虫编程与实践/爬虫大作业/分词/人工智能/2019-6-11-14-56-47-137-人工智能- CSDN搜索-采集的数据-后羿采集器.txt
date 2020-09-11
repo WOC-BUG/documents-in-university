@@ -1,0 +1,97 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_41196103/article/details/78950736/url ,/w //w //w 本文/r 以/p arduino/en 为/p 工具/n ，/w 从/p 入门/v 介绍人/n 工智/nz 能/ng n/n 什么/r 是/v arduinonarduino/en 开发/v 环境/n 介绍/v n/n 编程/v 起步/v nLED/en 闪烁/v n/n 什么/r 是/v arduino/en ？/w narduino/en 是/v 一/m 款/n 开发/v 板/a ，/w 专门/b 为/p 创客/n 打造/v ，/w 用于/v 实现/v 机器/np 的/u 智能化/v 。/w n/en narduino/en 开发/v 环境/n 介绍/v narduino/en IDE/en 可以/a 去/v 官网/n www.arduino.cc/url 下载/v 。/w ,/w https://blog.csdn.net/weixin_41196103/article/details/78950736/url ,/w ,/w weixin/en _/0 41196103/m ,/w 2018-01-02/t ,/w //blog.csdn.net/weixin_41196103/article/details/78950736/url ,/w 668/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 41196103/m 的/u 博客/n ,/w 2018年01月02日 12:25:08/t ,/w 原/b 人工智能/n
+
+
+
+2018年01月02日 12:25:08/t
+weixin/en _/0 41196103/m
+阅读/v 数/m ：671/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//w //w 本文/r 以/p arduino/en 为/p 工具/n ，/w 从/p 入门/v 介绍人/n 工智/nz 能/ng
+
+
+什么/r 是/v arduino/en
+arduino/en 开发/v 环境/n 介绍/v
+编程/v 起步/v
+LED/n 闪烁/v
+
+
+什么/r 是/v arduino/en ？/w
+arduino/en 是/v 一/m 款/n 开发/v 板/a ，/w 专门/b 为/p 创客/n 打造/v ，/w 用于/v 实现/v 机器/np 的/u 智能化/v 。/w
+
+arduino/en 开发/v 环境/n 介绍/v
+arduino/en IDE/en 可以/a 去/v 官网/n www.arduino.cc/url 下载/v 。/w arduino/en 是/v 用/ng java/n 开发/v ，/w 编程语言/n 是/v C++/n 。/w
+编程/v 起步/v
+穿/v 件/ng 新/a 文件/n 时会/n 看到/v 两个/n 方法/n ：/w
+void/en setup/en (/w )/w {/0 }/0 -/w All/en of/en the/en code/en within/en the/en curly/en braces/en will/en be/en run/en ONCE/en when/en the/en program/en first/en runs/en ./m
+void/en loop/en (/w )/w {/0 }/0 -/w This/en function/en is/en run/en AFTER/en setup/en has/en finished./url All/en of/en the/en code/en within/en the/en curly/en braces/en will/en be/en run/en again/en ,/w and/en again/en ,/w until/en the/en power/en is/en removed./url
+语法/n ：/w
+//w //w -/w Single/en line/en comment/en
+//w */w */w //w -/w Multiline/en comment/en
+{/0 }/0 –/0 used/en to/en define/en a/en block/en of/en code/en that/en starts/en and/en ends/en ./m
+;/w -/w used/en to/en define/en the/en end/en of/en a/en line/en of/en code/en ./m
+
+变量/n ：/w
+int/en (/w integer/en )/w –/0 this/en stores/en a/en number/en in/en 2/m bytes/en (/w 16/m bits/en )/w and/en has/en no/en decimal/en places./url The/en value/en must/en be/en between/en -/w 32/m ,/w 768/m and/en 32/m ,/w 768./m
+
+long/en (/w long/en )/w –/0 Used/en when/en the/en integer/en is/en NOT/en large/en enough./url This/en takes/en 4/m bytes/en (/w 32/m bits/en )/w of/en RAM/en and/en has/en a/en range/en of/en -/w 2/m ,/w 147/m ,/w 483/m ,/w 648/m and/en 2/m ,/w 147/m ,/w 483/m ,/w 648./m
+
+boolean/en (/w boolean/en )/w –/0 A/en simple/en true/en and/en false/en variable./url It/en is/en useful/en because/en it/en only/en takes/en up/en 1/m bit/en of/en RAM/en ./m
+
+float/en (/w float/en )/w –/0 Used/en for/en floating/en decimals./url It/en takes/en 4/m bytes/en of/en RAM/en and/en has/en a/en range/en of/en -3.4028235/m E/en +/0 38/m and/en 3.4028235/m E/en +/0 38/m
+
+char/en (/w character/en )/w –/0 Stores/en one/en character/en using/en ASCII/en code/en (/w “/w A/b ”/w =/0 65/m )/w ./m Uses/en 1/m byte/en of/en RAM/n
+
+运算符/n
+数学/n 运算符/n ：/w
+=/0 (/w assignment/en )/w makes/en something/en equal/en to/en something/en else/en ./m For/en example/en ,/w x/en =/0 10/m */w 2/m ,/w thus/en x/en =/0 20./m
+
+%/m (/w modulo/en )/w –/0 this/en gives/en the/en remainder/en when/en one/en number/en is/en divided/en by/en another./url For/en example/en 12 % 1/m 0/m gives/en 2./m
+
+
+(/w addition/en )/w
+(/w subtraction/en )/w
+(/w multiplication/en )/w
+//w (/w division/en )/w
+
+
+比较/d 运算符/n ：/w
+=/0 =/0 (/w equal/en to/en )/w -/w For/en example/en 12/m =/0 =/0 10/m is/en FALSE/en and/en 12/m =/0 =/0 12/m is/en TRUE/en ./m
+
+!/w =/0 (/w not/en equal/en to/en )/w -/w For/en example/en 12/m !/w =/0 10/m is/en TRUE/en and/en 12/m !/w =/0 12/m is/en FALSE./url
+
+</w (/w less/en than/en )/w
+
+
+(/w greater/en than/en )/w
+
+
+控制/v 语句/n ：/w
+条件/n
+if/en (/w condition/en )/w {/0 }/0
+else/en if/en (/w condition/en )/w {/0 }/0
+else/en (/w condition/en )/w {/0 }/0
+
+循环/v
+for/en (/w int/en i/en =/0 0/m ;/w i/en </w #/w repeats/en ;/w i/en +/0 +/0 )/w {/0 }/0
+
+数字/n 端口/n ：/w
+pinmode/en (/w pin/en ,/w mode/en )/w ;/w -/w Used/en to/en address/en the/en pin/en #/w on/en the/en Arduino/en board/en you/en would/en like/en to/en use/en 0-19/t ./m The/en mode/en can/en either/en be/en INPUT/en or/en OUTPUT./url
+
+digitalwrite/en (/w pin/en ,/w value/en )/w ;/w -/w Once/en a/en pin/en is/en set/en to/en output/en it/en can/en be/en set/en to/en either/en HIGH/en (/w 5/m Volts/en )/w or/en LOW/en (/w 0/m volts/en )/w ./m This/en basically/en means/en turn/en ON/en and/en OFF/en ./m
+
+闪烁/v LED/n ：/w
+What/en will/en you/en need/en ?/w Arduino/en ,/w breadboard/en ,/w 4/m wires/en ,/w 10/m mm/en LED/en (/w large/en white/en )/w ,/w 560/m W/en resistor/en ,/w USB/en cable./url

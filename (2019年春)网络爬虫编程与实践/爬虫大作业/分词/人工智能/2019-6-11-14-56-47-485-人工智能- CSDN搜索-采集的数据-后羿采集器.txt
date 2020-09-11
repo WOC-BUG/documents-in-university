@@ -1,0 +1,38 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n 工具/n 列表/v -/w piaoniu/en _/0 1985/m 的/u 专栏/n -/w CSDN/en 博客/n ,/w http://blog.csdn.net/piaoniu_1985/article/details/77948032/url ,/w ,/w ,/w http://blog.csdn.net/piaoniu_1985/article/details/77948032/url ,/w ,/w ,/w ,/w ,/w 人工智能/n 工具/n 列表/v -/w piaoniu/en _/0 1985/m 的/u 专栏/n ,/w 2017年09月12日 17:58:10/t ,/w 转/q 人工智能/n 工具/n 列表/v
+
+
+
+2017年09月12日 17:58:10/t
+向上/v 低调/a 的/u 飞/bg
+阅读/v 数/m ：853/m
+
+
+
+
+
+
+
+
+
+
+
+
+整理/v 出现/v 在/d 比较/d 实用/a 的/u 开源/v 的/u 人工智能/n 工具/n ：/w
+
+1.1./m  /0  /0  /0  /0  /0  /0  /0 Caffe/en  /0 由/p NVIDIA/en 和/c 亚马逊/nr 等/ng 公司/nc 资助/v 来/u 支持它/n 的/u 发展/v
+1.2./m  /0  /0  /0  /0  /0  /0  /0 CNTK/en  /0 计算/v 网络工具/n 包/n  /0 微软/nt python/en
+1.3./m  /0  /0  /0  /0  /0  /0  /0 Deeplearning/en 4/m j/en  /0 Java/n 、/w Scala/en 兼容/v  /0 商业/n 公司/nc 管理/v
+1.4./m  /0  /0  /0  /0  /0  /0  /0 DMTK/en 分布式/b 机器/np 学习/v 工具/n 微软/nt  /0 python/en
+1.5./m  /0  /0  /0  /0  /0  /0  /0 H/en 20/m  /0  /0 集成/b 在/d Spark/en 中/f ，/w 服务/v 企业/n 用户/n
+1.6./m  /0  /0  /0  /0  /0  /0  /0 Mahout/en 开源/v 机器/np 框架/n Apache/en 基金会/nc 项目/n
+1.7./m  /0  /0  /0  /0  /0  /0  /0 MLlib/en  /0  /0 Spark/en 的/u 可/v 扩展/v 学习/v 库/n
+1.8./m  /0  /0  /0  /0  /0  /0  /0 NuPIC/en  /0 基于/p 分层/v 暂时/d 记忆/n 理论/n  /0 有/v 商业/n 版本/n
+1.9./m  /0  /0  /0  /0  /0  /0  /0 OpenNN/en  /0  /0 实现/v 神经网络/n 算法/n 的/u C++/n 库/n
+1.10./m  /0  /0  /0  /0 OpenCyc/en  /0  /0 提供/v 了/dg 对/a Cyc/en 知识库/n 的/u 访问/v 和/c 常识/n 推理/v 引擎/n
+1.11./m  /0  /0  /0  /0 Oryx/en 2/m  /0  /0 Apache/en Spark/en 和/c Kafka/en 之上/f 的/u 专门/b 针对/v 大规模/b 机器/np 学习/v 的/u 应用程序/n 开发/v 框架/n
+1.12./m  /0  /0  /0  /0 PredictionIO/en  /0  /0 Apache/en 下机/v 器/k 学习/v 引擎/n
+1.13./m  /0  /0  /0  /0 SystemML/en  /0  /0  /0 Apache/en 大数据/n 项目/n
+1.14./m  /0  /0  /0  /0 TensorFlow/en 是/v 一个/mq 谷歌/nt 的/u 开源/v 人工智能/n 工具/n c++/n 和/c Python/en
+1.15./m  /0  /0  /0  /0 Torch/en  /0 一个/mq 优先/v 使用/v GPU/en 的/u 拥有/v 机器/np 学习/v 算法/n 广泛/a 支持/v 的/u 科学/a 计算/v 框架/n  /0  /0 Lua/en
+内容/n 来源于/v 网络/n 。/w 在/d 人工智能/n 、/w 机器/np 学习/v 、/w 深度/n 学习/v 项目/n 中/f ，/w python/en 和/c c++/n 的/u 优势/n 比较/d 明显/a 。/w

@@ -1,0 +1,16 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en ,/w 5/m G/m 通讯/n 与/c 技术/n nnhttps://wenku.baidu.com/view/6b47010c905f804d2b160b4e767f5acfa1c783fb.htmlnnnn5G/url 简介/n nnhttps://zhuanlan.zhihu.com/p/41182443nnnn/url 各种/r 频率/n 介绍/v nnhttps://zhuanlan.zhihu.com/p/55862694n/url ,/w funkidd/en ,/w https://blog.csdn.net/funkidd/article/details/88541831/url ,/w 2019-03-13/t ,/w 14/m 次/a 阅读/v ,/w 5/m G/en -/w funkidd/en 的/u 博客/n ,/w 2019年03月13日 21:22:37/t ,/w 5/m G/m 通讯/n 与/c 技术/n
+
+https://wenku.baidu.com/view/6b47010c905f804d2b160b4e767f5acfa1c783fb.html/url
+
+/0
+
+5/m G/en 简介/n
+
+https://zhuanlan.zhihu.com/p/41182443/url
+
+/0
+
+各种/r 频率/n 介绍/v
+
+https://zhuanlan.zhihu.com/p/55862694/url ,/w ,/w ,/w ,/w ,/w

@@ -1,0 +1,60 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+3GPP TS 23.501 V15.2.0,5.6会话管理nn**nn5.6.1概述nn**nnnUE 用户设备nDNN Data Network Name 和APN类似nS-NSSAI 单网络切片选择辅助信息nAMF 访问和移动管理功能nSMF 会话管理功能nNRF 网络存储库功能nUDM 统一数据管理nDN 数据网络nLADN 局域数据网络nSSC 会话和服务连续性nnn5GC支持PDU连接服务，即，在UE和由DNN标识的数据网络之间提...,weixin_42010275,https://blog.csdn.net/weixin_42010275/article/details/82261493,2018-08-31,628次阅读,3GPP TS 23.501 V15.2.0 - weixin_42010275的博客,2018年08月31日 20:41:00,5.6会话管理
+
+**
+
+5.6.1概述
+
+**
+
+
+UE 用户设备
+DNN Data Network Name 和APN类似
+S-NSSAI 单网络切片选择辅助信息
+AMF 访问和移动管理功能
+SMF 会话管理功能
+NRF 网络存储库功能
+UDM 统一数据管理
+DN 数据网络
+LADN 局域数据网络
+SSC 会话和服务连续性
+
+
+5GC支持PDU连接服务，即，在UE和由DNN标识的数据网络之间提供PDU交换的服务。 通过根据UE的请求建立的PDU会话来支持PDU连接服务。 
+  每个S-NSSAI的订阅信息可能包含多个DNN和一个默认DNN。当UE没有在包含给定S-NSSAI的PDU会话建立请求的NAS消息中提供DNN时，如果UE的订阅信息中存在默认DNN，则服务AMF通过为该S-NSSAI选择默认DNN来确定所请求的PDU会话的DNN;否则，服务AMF为该S-NSSAI选择本地配置的DNN。 如果网络不支持UE提供的DNN，并且AMF不能通过查询NRF来选择SMF，则AMF将拒绝来自UE的包含PDU会话建立请求的NAS消息，其原因指示不支持DNN。 
+  每个PDU会话支持单个PDU会话类型，即支持在PDU会话建立时由UE请求的单一类型的PDU的交换。 定义了以下PDU会话类型：IPv4，IPv6，IPv4v6，以太网，非结构化。 
+  PDU会话建立（在UE请求时），修改（在UE和5GC请求时）并且使用在UE和SMF之间通过N1交换的NAS SM信令释放（在UE和5GC请求时）。 根据应用服务器的请求，5GC能够触发UE中的特定应用。 当接收到该触发消息时，UE应将其传递给UE中的所识别的应用。 UE中识别的应用可以建立到特定DNN的PDU会话，见4.4.5。 
+  SMF可以支持LADN的PDU会话，其中对DN的访问仅在特定LADN服务区域中可用。 这在5.6.5中进一步定义。 
+SMF负责检查UE请求是否符合用户订阅。 为此，它检索并请求从UDM接收关于SMF级订阅数据的更新通知。 这些数据可能表明每个DNN和每个S-NSSAI：
+
+
+允许的PDU会话类型和默认的PDU会话类型。
+允许的SSC模式和默认的SSC模式。
+QoS信息（参见第5.7节）：订阅的Session-AMBR，Default 5QI和Default ARP。
+静态IP地址/前缀。
+订阅的用户平面安全策略。
+与PDU会话相关联的计费特性。 该信息是由UDM提供给另一个PLMN中的SMF（对于LBO模式中的PDU会话）是由UDM / UDR中的运营商策略定义的。 
+注1：充电特性的内容以及SMF对充电特性的使用在TS 32.240 [41]中定义。
+
+
+通过多次访问注册的UE选择通过哪种访问来建立PDU会话。 如TS 23.503 [45]中所定义的，HPLMN可以向UE发送策略以指导UE选择建立PDU会话的接入。 
+注2：在本规范的发行版中，在任何给定时间，PDU会话仅通过单个接入网络路由。 
+UE可以请求在3GPP和非3GPP接入之间移动PDU会话。 在每个PDU会话的基础上做出在3GPP接入和非3GPP接入之间移动PDU会话的决定，即，UE可以在给定时间具有使用3GPP接入的一些PDU会话，而其他PDU会话使用非3GPP接入。 
+在发送到网络的PDU会话建立请求消息中，UE应提供PDU会话ID。 PDU会话ID对于每个UE是唯一的，并且是用于唯一地标识UE的PDU会话之一的标识符。 当不同的PLMN用于两次访问时，PDU会话ID应存储在UDM中以支持3GPP和非3GPP接入之间的切换。 UE还可以提供：
+
+
+PDU会话类型。
+S-NSSAI。
+DNN（数据网络名称）。
+SSC模式（第5.6.9.2节中定义的服务和会话连续性模式）。
+
+
+订阅信息可以包括每个订阅的S-NSSAI的通配符DNN：当通配符DNN与订阅的S-NSSAI相关联时，对于该S-NSSAI，订阅允许UE使用任何DNN值建立PDU会话。 
+注3：使SMF知道正在建立的PDU会话的DNN是对应于明确订阅的DNN还是对应于通配符订阅的使用。 因此，如果PDU会话的DNN不是明确订阅的DNN的一部分并且SMF中的本地策略要求UE具有对该DNN的订阅，则SMF可以拒绝PDU会话建立。 
+UE可以同时经由3GPP以及经由和非3GPP接入网络向同一数据网络或不同数据网络建立多个PDU会话。 
+UE可以建立到同一数据网络的多个PDU会话，并由终止N6的不同UPF服务。 
+具有多个建立的PDU会话的UE可以由不同的SMF服务。 
+应在UDM中按PDU会话粒度注册和注销SMF。 
+属于同一UE的不同PDU会话（到相同或不同的DNN）的用户平面路径可以在AN和与DN接口的UPF之间完全不相交。 
+注4：如果UE仅可用于监管优先服务，则SMF可以停用UE的PDU会话的用户平面资源，除紧急服务和MPS等监管优先服务外。 
+注5：本规范的本版本未规定UE退出SMF服务区域时的处理。,,,,,

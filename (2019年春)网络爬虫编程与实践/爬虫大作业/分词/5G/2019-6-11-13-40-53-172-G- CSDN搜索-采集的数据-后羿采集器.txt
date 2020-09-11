@@ -1,0 +1,46 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+什么/r 是/v 5/m G/m ？/w 5/m G/m 通信/v 关键/a 技术/n 简介/n ,/w 2016年11月/t ，/w 举办/v 第三届/n 世界/n 互联网/n 大会/nh ，/w 美国高通公司/nt 带来/v 的/u 可以/a 实现/v “/w 万物/n 互联/v ”/w 的/u 5/m G/m 技术/n 原型/n 入选/v 15/m 项/ng “/w 黑/a 科技/n ”/w ——/w 世界/n 互联网/n 领先/v 成果/n 。/w 高通/nz 5/m G/en 向/p 千兆/m 移动网/n 络/ng 和/c 人工智能/n 迈进/v ./m nn/en 第五/m 代/n 移动电话/ln 行动/v 通信/v 标准/a ，/w 也/d 称/ag 第五/m 代/n 移动通信/ln 技术/n ，/w 外语/n 缩写/n ：/w 5/m G/m 。/w 也/d 是/v 4G/n 之后/f 的/u 延伸/v 。/w 5/m G网/n 络/ng 的/u 理论/n 下行/v 速度/n 为/p 10/m Gb/en //w s/b （/w 相当于/v 下载/v 速度/n 1.25/m GB/en //w s/b ）/w 。/w nn/en 实施/v 阶段/n nn/en 我国/n 5/m G/m 技术/n 研发/v 试验/v 将/d 在/d 2016-20.../t ,/w Welkin/en _/0 qing/en ,/w https://blog.csdn.net/Welkin_qing/article/details/80378488/url ,/w 2018-05-19/t ,/w 6769/m 次/a 阅读/v ,/w 什么/r 是/v 5/m G/m ？/w 5/m G/m 通信/v 关键/a 技术/n 简介/n -/w Welkin/en _/0 qing/en 的/u 博客/n ,/w 2018年05月19日 22:15:05/t ,/w 2016年11月/t ，/w 举办/v 第三届/n 世界/n 互联网/n 大会/nh ，/w 美国高通公司/nt 带来/v 的/u 可以/a 实现/v “/w 万物/n 互联/v ”/w 的/u 5/m G/m 技术/n 原型/n 入选/v 15/m 项/ng “/w 黑/a 科技/n ”/w ——/w 世界/n 互联网/n 领先/v 成果/n 。/w 高通/nz 5/m G/en 向/p 千兆/m 移动网/n 络/ng 和/c 人工智能/n 迈进/v ./m
+第五/m 代/n 移动电话/ln 行动/v 通信/v 标准/a ，/w 也/d 称/ag 第五/m 代/n 移动通信/ln 技术/n ，/w 外语/n 缩写/n ：/w 5/m G/m 。/w 也/d 是/v 4G/n 之后/f 的/u 延伸/v 。/w 5/m G网/n 络/ng 的/u 理论/n 下行/v 速度/n 为/p 10/m Gb/en //w s/b （/w 相当于/v 下载/v 速度/n 1.25/m GB/en //w s/b ）/w 。/w
+实施/v 阶段/n
+我国/n 5/m G/m 技术/n 研发/v 试验/v 将/d 在/d 2016-2018年/t 进行/v ，/w 分为/v 5/m G/m 关键/a 技术/n 试验/v 、/w 5/m G/m 技术/n 方案/n 验证/v 和/c 5/m G/m 系统/a 验证/v 三个/n 阶段/n 实施/v 。/w
+2016年3月/t ，/w 工信部/nt 副/b 部长/nx 陈肇雄/nr 表示/v ：/w 5/m G/m 是/v 新一代/n 移动通信/ln 技术/n 发展/v 的/u 主要方/n 向/p ，/w 是/v 未来/t 新一代/n 信息/n 基础设施/n 的/u 重要/a 组成部分/n 。/w 与/c 4G/n 相比/v ，/w 不仅/c 将/d 进一步/d 提升/v 用户/n 的/u 网络/n 体验/v ，/w 同时/c 还/d 将/d 满足/a 未来/t 万物/n 互联/v 的/u 应用/v 需求/n 。/w
+发展/v 形势/n
+1./m 从/p 用户/n 体验/v 看/u
+5/m G/m 具有/v 更/d 高/a 的/u 速率/n 、/w 更/d 宽/a 的/u 带宽/n ，/w 预计/v 5/m G网/n 速/ag 将/d 比/p 4G/n 提高/v 10/m 倍/d 左右/f ，/w 只需/n 要/v 几秒/t 即可/v 下载/v 一/m 部/n 高清/a 电影/n ，/w 能够/v 满足/a 消费者/n 对/a 虚拟现实/ln 、/w 超高/b 清/a 视频/n 等/ng 更/d 高/a 的/u 网络/n 体验/v 需求/n 。/w
+2./m 从/p 行业应用/n 看/u
+5/m G/m 具有/v 更/d 高/a 的/u 可靠性/n ，/w 更/d 低/a 的/u 时延/j ，/w 能够/v 满足/a 智能制造/lv 、/w 自动/b 驾驶/v 等/ng 行业应用/n 的/u 特定/b 需求/n ，/w 拓宽/v 融合/v 产业/n 的/u 发展/v 空间/n ，/w 支撑/v 经济社会/ln 创新/v 发展/v 。/w
+3./m 从/p 发展/v 态势/n 看/u
+5/m G/m 目前/t 还/d 处于/v 技术标准/n 的/u 研究/v 阶段/n ，/w 今后/t 几/m 年/n 4G/n 还/d 将/d 保持/v 主导/n 地位/n 、/w 实现/v 持续/v 高速/b 发展/v 。/w 但/c 5/m G/en 有望/v 2020 年/t 正式/a 商用/b 。/w
+5/m G/m 的/u 特点/n
+1./m 数据/n 速率/n （/w data/en rate/en ）/w
+数据/n 速率/n 的/u 衡量/v 指标/n 又/d 可以/a 分为/v 以下/f 几点/t
+a/b ）/w 聚合/v 数据/n 或/c 区域/n 容量/n （/w Aggregate/en data/en rate/en or/en area/en capacity/en ）/w
+聚合/v 数据/n 或/c 区域/n 容量/n 指/ng 的/u 是/v 通信/v 系统/a 能够/v 同时/c 支持/v 的/u 总数/n 据/ng 速率/n ，/w 单位/n 是/v 单位/n 面积/n 上/f 的/u bits/en //w s/b 。/w 相当于/v 上一代/n 4G/n 的/u 通信/v 系统/a ，/w 5/m G/m 的/u 聚合/v 数据/n 速率/n 要求/n 提高/v 1000/m 倍/d 以上/f 。/w
+b/n ）/w 边缘/n 速率/n (/w Edge/en rarte/en )/w
+边缘/n 速率/n 指/ng 的/u 是/v 当用/v 户/ng 处于/v 系统/a 边缘/n 时/n ，/w 用户/n 可能/a 会/n 遇到/v 的/u 传输/v 速率/n 最差/a ，/w 也就是/n 数据/n 的/u 下限/n 。/w 又/d 因为/c 一般/a 取/v 传输/v 速率/n 最差/a 的/u 5%/m 的/u 用户/n 作为/n 衡量/v 边缘/n 速率/n 的/u 标准/a ，/w 边缘/n 速率/n 又称/n 为/p 5%/m 速率/n 。/w
+对于/p 该/r 指标/n ，/w 5/m G/m 的/u 目标/n 是/v 100/m Mbps/q 到/ng 1/m Gbps/en ，/w 这/r 一/m 指标/n 比/p 4G/n 典型/a 的/u 1/m Mbps/q 边缘/n 速率/n 要求/n 至少/d 提高/v 了/dg 100/m 倍/d 。/w
+c/n ）/w 峰值/n 速率/n （/w peak/en rate/en ）/w 顾名思义/iv ，/w 指/ng 的/u 是/v 所有/b 条件/n 最好/d 的/u 情况/n 下/f ，/w 用户/n 能达/nz 到/ng 的/u 最大/a 速率/n 。/w
+2./m 延迟/v
+现在/t 4G/n 系统/a 的/u 往返/v 延迟/v 是/v 15/m ms/n ，/w 其中/r 1/m ms/n 用于/v 基站/n 给/v 用户/n 分配/v 信道/n 和/c 接入/v 方式/n 产生/v 的/u 必要/a 信令/n 开销/n 。/w 虽然/c 4G/n 的/u 15/m ms/n 相对/b 于/ng 绝大多数/n 服务/v 而言/u ，/w 已经/d 是/v 很/d 够用/v 了/dg 。/w 但/c 随着/p 科技发展/n ，/w 之后/f 兴起/v 的/u 一些/mq 设备/n 需要/n 更/d 低/a 的/u 延迟/v ，/w 比如/v 移动/v 云计算/n 和/c 可/v 穿戴/n 设备/n 的/u 联网/v 。/w
+为此/l ，/w 需要/n 新/a 的/u 架构/n 和/c 协议/n 。/w
+3./m 能量/n 花费/n
+随着/p 我们/r 转向/v 5/m G网/n 络/ng ，/w 通信/v 所/n 花费/n 的/u 能耗/n 应该/v 越来越/d 低/a 。/w 但/c 前文/n 提到/v ，/w 用户/n 的/u 数据/n 速率/n 至少/d 需要/n 提高/v 100/m 倍/d ，/w 这/r 就要/d 求/ng 5/m G/m 中/f 传输/v 每/r 比特/q 信息/n 所/n 花费/n 的/u 能耗/n 需要/n 降低/v 至少/d 100/m 倍/d 。/w 而/c 现在/t 能量/n 消耗/v 的/u 一大/j 部分/n 在于/v 复杂/a 的/u 信令/n 开销/n ，/w 例如/v 网络/n 边缘/n 基站/n 传回/v 基站/n 的/u 回程/n 信号/n 。/w 而/c 5/m G网/n 络/ng ，/w 由于/c 基站/n 部署/v 更加/d 密集/a ，/w 这/r 一开/nz 销/ng 会/n 更多/n 。/w 因此/c ，/w 5/m G/m 必须/d 要/v 提高/v 能量/n 的/u 利用率/n 。/w
+4./m 接入/v 设备/n 特点/n
+5/m G网/n 络/ng 需要/n 有/v 更/d 强/a 的/u 服务/v 能力/n ，/w 能够/v 同时/c 接入/v 更多/n 的/u 用户/n 。/w 随着/p 机/np 机/np （/w machine/en -/w to/en -/w machine/en ，/w 意为/v 设备/n 到/ng 另/d 一/m 设备/n ）/w 通信技术/n 的/u 发展/v ，/w 单一/a 宏/ag 蜂窝/n 应该/v 能够/v 支持/v 超过/v 1000/m 个/q 低/a 传输/v 速率/n 设备/n ，/w 同时/c 还要/v 能/ng 继续/v 支持/v 普通/a 的/u 高/a 传输/v 速率/n 设备/n 。/w
+5/m G/m 所/n 需要/n 的/u 技术/n
+超/h 密集/a 异/ag 构/ng 网络/n 、/w 自/d 组织网络/n 、/w D/en 2D/b （/w device/en -/w to/en -/w device/en ）/w 通信/v 、/w M/en 2/m M/n （/w machine/en -/w to/en -/w machine/en ）/w 通信/v 、/w 软件/n 定义/n 无线网络/n 、/w 信息/n 中心/nc 网络/n 、/w 内容/n 分发/v 网络/n 、/w 移动/v 云计算/n 、/w 软件/n 定义/n 网络/n //w 网络/n 功能/n 虚拟化/v 、/w 情景/n 感知/v 技术/n
+5/m G/m 的/u 发展/v 趋势/n 特征/n
+1./m 频谱/n 利用率/n 大大/a 提升/v ，/w 高频/b 段频谱资/nr 源/ng 被/ng 更多/n 地利/n 用/ng
+目前/t 用于/v 移动通信/ln 的/u 频谱/n 资源/n 十分/d 有限/a ，/w 而/c 我国/n 的/u 频谱/n 资源/n 是/v 采用/v 一/m 种/ng 固定/a 方式/n 分配/v 给/v 各个/r 无线电/n 部门/n ，/w 这/r 更加/d 导致/v 了/dg 资源/n 利用/v 的/u 不均/a 衡/ag 和/c 低/a 利用率/n 。/w 相对/b 于/ng 4G/n 网络/n ，/w 5/m G/m 的/u 频谱/n 利用率/n 将/d 会/n 得到/v 大大/a 提升/v ，/w 并且/c 高频/b 段/n 资源/n 也/d 会/n 被/ng 适当/a 应用/v ，/w 以此/d 来/u 克服/v 这/r 一/m 严峻/a 问题/n 。/w
+2./m 更/d 大限/n 度/k 支持/v 业务/n 个性化/v ，/w 提供/v 全方位/n 信息化/v 服务/v
+人们/n 对/a 移动通信/ln 的/u 需求/n 趋向/n 于/ng 个性化/v 和/c 层次化/v ，/w 在/d 生活/n 中/f 无时无刻/ia 能/ng 离开/v 通信网络/n 。/w 5/m G网/n 络/ng 目标/n 之一/r ，/w 即/c 是/v 建设/v 更为/d 完备/a 的/u 网络/n 体系/n 架构/n ，/w 提高/v 对/a 各种/r 新兴业/n 务/dg 的/u 支撑/v 能力/n ，/w 以此/d 为/p 用户/n 打造/v 全新/b 的/u 通信/v 生活/n 。/w
+3./m 通信/v 速率/n 极大/a 提升/v
+信息化/v 时代/n 在/d 高速/b 发展/v ，/w 人们/n 对/a 获取/v 信息/n 的/u 速率/n 要求/n 越来越/d 高/a ，/w 这/r 对/a 通信网络/n 的/u 传输/v 速率/n 是/v 很大/a 的/u 挑战/v 。/w 5/m G网/n 络/ng 的/u 理论/n 数据传输/n 速率/n 达到/v 4G/n 标准/a 的/u 百倍/m ，/w 。/w 4G/n 的/u 最高峰/n 值/a 速率/n 为/p 1G/n ，/w 而/c 5/m G/m 则/c 可以/a 达到/v 10/m G/m 。/w 这/r 意味着/v ，/w 在/d 5/m G网/n 络/ng 环境/n 下/f ，/w 一/m 部/n 超高/b 清/a 画质/n 的/u 电影/n 1/m 秒/q 内/f 就/d 可以/a 下载/v 完成/v 。/w 与此同时/ldm ，/w 5/m G网/n 络/ng 在/d 传输/v 中/f 还/d 将/d 呈现/v 出/q 低/a 时延/j 、/w 高/a 可靠/a 、/w 低/a 功耗/n 等/ng 特点/n 。/w
+4./m 绿色/n 节能/v
+5/m G网/n 络/ng 中/f ，/w 将/d 会/n 在/d 保证/v 通信/v 质量/n 的/u 同时/c ，/w 采用/v 有效/a 的/u 绿色/n 节能/v 技术/n 来/u 降低/v 网络/n 损耗/n ，/w 把/p 能耗/n 控制/v 在/d 一定/b 范围/n 之内/f 。/w 未来/t 的/u 通信/v 过程/n 中/f ，/w 运营商/n 可以/a 根据/n 实时/d 通信/v 状况/n 来/u 调整/v 资源/n 分布/v ，/w 以此/d 节约/v 网络/n 能源/n 。/w
+目前/t ，/w 5/m G/m 的/u 研究/v 尚/ag 处于/v 初期/t 阶段/n ，/w 还/d 存在/v 许多/mq 技术/n 问题/n 有待/v 解决/v 。/w 随着/p 其/r 研究/v 历程/n 的/u 不断/d 深入/a ，/w 在/d 未来/t ，/w 5/m G/m 必然/d 将/d 会/n 给/v 用户/n 带来/v 全新/b 的/u 通信/v 体验/v ，/w 全面/a 推动/v 信息化/v 时代/n 的/u 发展/v 。/w
+参考文献/n
+https://baike.baidu.com/item/url
+https://www.xzbu.com/1/view-6983211.htm/url
+https://www.zhihu.com/question/22283305/url
+#/w #/w 个人/n 对/a 5/m G/m 知识/n 的/u 整理/v 和/c 认识/n ,/w ,/w ,/w ,/w ,/w

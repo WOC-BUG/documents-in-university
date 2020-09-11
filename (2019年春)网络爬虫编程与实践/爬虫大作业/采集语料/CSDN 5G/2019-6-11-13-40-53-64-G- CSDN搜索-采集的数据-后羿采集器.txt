@@ -1,0 +1,34 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G英语单词,content 目录nBroadband access 宽带接入nSimulation 模拟nbrand-new 全新的ndistribution 分布ngeneration n 一代nupgrad 产业结构升级nIt is a combination and further development of present mobile commun...,weixin_42209440,https://blog.csdn.net/weixin_42209440/article/details/88649196,2019-03-18,263次阅读,5G英语单词 - 积跬步，至千里,2019年03月18日 20:29:36,content     目录
+Broadband access        宽带接入
+Simulation 模拟
+brand-new 全新的
+distribution    分布
+generation      n 一代
+upgrad      产业结构升级
+It is a combination and further development of present mobile communication technology
+它是当前移动通信技术的结合和进一步发展
+steadier    稳定的
+safer       更安全
+theoretical         adj 理论的
+transmission    n 传输
+within      prep       在。。以内
+Research    n 调查,研究
+On May 13       在5月13日
+Electronics     n 电子工业
+October  n 10月
+peak   n 山峰，顶点
+stationary  adj 静止的
+5G technology will be able to bring the human society into a network society,
+which is the new internet of things.
+5G技术将能够把人类社会带入一个网络社会，这就是新的物联网。
+wireless    n 无线电
+officially      adv 正式地
+commercial      adj 商业的
+undertaken  v从事，开始进行
+related     adj 相关联的
+strengthen      vt 加强
+Internet of things      物联网
+massive         adj 大量的
+low-latency     低延迟
+high-reliability    高可靠的,,,,,

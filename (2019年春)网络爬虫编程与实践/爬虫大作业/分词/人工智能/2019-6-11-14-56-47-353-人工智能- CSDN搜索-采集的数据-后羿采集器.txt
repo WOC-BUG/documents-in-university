@@ -1,0 +1,164 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/wyx100/article/details/80939360/url ,/w 一/m 、/w 发展历史/n nnnn/en 达特茅斯/nz 学院/nc  /0 nn/en 达特茅斯/nz 学院/nc （/w Dartmouth/en College/en ）/w 成立/v 于/ng 1769年/t ，/w 是/v 美国/ns 历史/n 最/d 悠久/a 的/u 世界/n 顶尖/n 学府/n ，/w 也/d 是/v 闻名遐迩/lv 的/u 私立/b 八大/j 常春藤/n 联盟/nc 之一/r 。/w 坐落/v 于/ng 新罕布什尔州/ns 的/u (/w Hanover/en )/w 小镇/n 。/w 依照/p 利/ag 扎/q 维洛克/nr 牧师/n 当初/t 成立/v 这个/r 学校/n 的/u 目的/n ，/w 是/v 为了/p 培养/v 当地/s 年轻人/n 。/w nn/en 达特茅斯/nz 地理位置/n nnnn/en 达特茅斯/nz 大学/nc ，/w 达特茅斯/nz 学院/nc （/w Dartmouth/en College/en ）/w 成立/v 于/ng 1769年/t ，/w .../m ,/w https://blog.csdn.net/wyx100/article/details/80939360/url ,/w ,/w wyx/en 100/m ,/w 2018-07-06/t ,/w //blog.csdn.net/wyx100/article/details/80939360/url ,/w 239/m 次/a 阅读/v ,/w 人工智能/n -/w wyx/en 100/m 的/u 专栏/n ,/w 2018年07月06日 13:07:28/t ,/w 原/b 人工智能/n
+
+
+
+2018年07月06日 13:07:28/t
+wyx/en 100/m
+阅读/v 数/m ：240/m
+
+
+
+
+
+
+
+
+
+
+
+一/m 、/w 发展历史/n
+
+
+
+达特茅斯/nz 学院/nc  /0
+
+达特茅斯/nz 学院/nc （/w Dartmouth/en College/en ）/w 成立/v 于/ng 1769年/t ，/w 是/v 美国/ns 历史/n 最/d 悠久/a 的/u 世界/n 顶尖/n 学府/n ，/w 也/d 是/v 闻名遐迩/lv 的/u 私立/b 八大/j 常春藤/n 联盟/nc 之一/r 。/w 坐落/v 于/ng 新罕布什尔州/ns 的/u (/w Hanover/en )/w 小镇/n 。/w 依照/p 利/ag 扎/q 维洛克/nr 牧师/n 当初/t 成立/v 这个/r 学校/n 的/u 目的/n ，/w 是/v 为了/p 培养/v 当地/s 年轻人/n 。/w
+
+达特茅斯/nz 地理位置/n
+
+
+
+达特茅斯/nz 大学/nc ，/w 达特茅斯/nz 学院/nc （/w Dartmouth/en College/en ）/w 成立/v 于/ng 1769年/t ，/w 是/v 美国/ns 历史/n 最/d 悠久/a 的/u 世界/n 顶尖/n 学府/n ，/w 也/d 是/v 闻名遐迩/lv 的/u 私立/b 八大/j 常春藤/n 联盟/nc 之一/r 。/w 坐落/v 于/ng 新罕布什尔州/ns 的/u (/w Hanover/en )/w 小镇/n 。/w
+
+美国/ns 重要/a 大学/nc 分布/v 地图/n
+
+
+
+人工智能/n 发展史/n 总结/n
+
+人工智能/n 编年体/n 简史/n 一/m 文看懂/nr AI/n 的/u 来龙去脉/in
+
+人工智能/n 历史/n 十大/j 里程碑/n
+
+人工智能/n 简史/n  /0 pdf/n
+
+
+
+
+
+第/m 1/m 章/n 　达特茅斯/nz 会议/nh ：/w 人工智能/n 的/u 缘起/n 　1/m
+1./m 背景/n 　1/m
+2./m 达特茅斯/nz 会议/nh 　6/m
+3./m AI/n 历史/n 的/u 方法论/n 　9/m
+4./m 会议/nh 之后/f 　14/m
+5./m 预测/v 未来/t ：/w 会/n 有/v 奇点/n 吗/r ？/w 　19/m
+第/m 2/m 章/n 　自动/b 定理/n 证明/n 兴衰/n 纪/ng 　24/m
+1./m 自动/b 定理/n 证明/n 的/u 起源/n 　24/m
+2./m 罗宾逊/nr 和/c 归结/n 原理/n 　32/m
+3./m 项/ng 重写/v 　34/m
+4./m 阿贡/ns 小组/nc 和/c 马/n 库恩/nr 　35/m
+5./m 符号/n 派/n 的/u 内部/f 矛盾/a ：/w 问答/v 系统/a 和/c 归结/n 原理/n 的/u 失落/v 　37/m
+6./m 几何/n 定理/n 证明/n 与/c 计算机/np 代数/n 　39/m
+7./m 定理/n 证明/n 系统/a 和/c 竞赛/v 　44/m
+8./m 哲学/n 问题/n 　46/m
+9./m 现状/n 　49/m
+10./m 结语/n 　51/m
+第/m 3/m 章/n 　从/p 专家系统/n 到/ng 知识/n 图谱/n 　60/m [/w 1/m ]/w  /0
+1./m 费根/nr 鲍姆/nr 和/c DENDRAL/en 　60/m
+2./m MYCIN/en 　64/m
+3./m 专家系统/n 的/u 成熟/a 　65/m
+4./m 知识/n 表示/v 　66/m
+5./m 雷纳/nr 特/ag 和/c 大/a 知识/n 系统/a 　70/m
+6./m 语义/n 网/n 　73/m
+7./m 谷歌/nt 和/c 知识/n 图谱/n 　75/m
+第/m 4/m 章/n 　第五/m 代/n 计算机/np 的/u 教训/n 　79/m
+1./m 背景/n 　79/m
+2./m 理论/n 基础/n ：/w 逻辑/n 程序/n 和/c Prolog/n 　82/m
+3. 五/m 代/n 机/np 计划/n 和/c 五代/n 机/np 研究所/nc 　85/m
+4./m 并发/v Prolog/n 　88/m
+5./m 美国/ns 和/c 欧洲/ns 对/a 日本/ns 五代/n 机/np 计划/n 的/u 反应/n 　90/m
+6./m 结局/n 和/c 教训/n 　94/m
+7. 日/t 本/d 还有/v 机会/n 吗/r ：/w 日本/ns 下一代/n 人工智能/n 促进/v 战略/n 　95/m
+第/m 5/m 章/n 　神经网络/n 简史/n 　97/m
+1./m 神经网络/n 的/u 初创/v 文章/n 　97/m
+2./m 罗森/nr 布拉特/nr 和/c 感知/v 机/np 　103/m
+3./m 神经网络/n 的/u 复兴/v 　107/m
+4./m 深度/n 学习/v 　111/m
+第/m 6/m 章/n 　计算机/np 下棋/v 简史/n ：/w 机/np 定/d 胜/ag 人/n ，/w 人定胜天/iv 　116/m
+1./m 机器/np 下棋/v 史前史/n 　116/m
+2./m 跳棋/n 插曲/n 　118/m
+3./m 计算机/np 下棋/v 之/u 初/d 　119/m
+4./m “/w 深蓝/b ”/w 　124/m
+5./m 围棋/n 和/c AlphaGo/en 　125/m
+第/m 7/m 章/n 　自然语言/n 处理/v 　128/m
+1./m 乔治敦/ns 实验/n 　128/m
+2./m 乔姆/nr 斯基/nz 和/c 句法/n 分析/v 　129/m
+3./m ELIZA/en 和/c PARRY/en 　136/m
+4./m 维/jns 诺格拉/nr 德/jns 和积木世/nr 界/k 　143/m
+5./m 统计/v 派/n 又/d 来/u 了/dg 　149/m
+6./m 神经/n 翻译/n 是/v 终极/n 手段/n 吗/r ？/w 　151/m
+7./m 问答/v 系统/a 和/c IBM/en 沃/ag 森/ag 　152/m
+8./m 回顾/v 和/c 展望/v 　154/m
+第/m 8/m 章/n 　向/p 自然/a 学习/v ：/w 从/p 遗传/v 算法/n 到/ng 强化/v 学习/v 　159/m
+1./m 霍兰德/nr 和/c 遗传/v 算法/n 　159/m
+2./m 遗传/v 编程/v 　164/m
+3./m 强化/v 学习/v 　166/m
+4./m 计算/v 向/p 自然/a 学习/v 还是/c 自然/a 向/p 计算/v 学习/v 　172/m
+5./m 计算/v 理论/n 与/c 生物学/n 　173/m
+第/m 9/m 章/n 　哲学家/n 和/c 人工智能/n 　177/m
+1./m 和/c 《/w 计算机/np 不能/v 干什么/v 》/w 　177/m
+2./m 塞/ng 尔/rg 和/c 中文/n 屋/n 　184/m
+3./m 普特/q 南/f 和/c 缸/n 中脑/n 　187/m
+4./m 给/v 哲学家/n 一点/mq 忠告/n 　190/m
+第/m 10/m 章　人/nr 是/v 机器/np 吗/r ？/w ——/w 人工智能/n 的/u 计算/v 理论/n 基础/n 　195/m
+1./m 丘奇/nr -/w 图灵/n 论题/n ：/w 为什么/r 图灵机/n 是/v 最重/a 要/v 的/u 发明/n ？/w 　197/m
+2./m 相似性/n 原则/n ：/w 另/d 一个/mq 重要/a 但/c 不/d 太/ag 被/ng 提及/v 的/u 计算/v 理论/n 思想/n 　201/m
+3./m 超/h 计算/v 　205/m
+4./m BSS/en 实数/n 模型/n 　206/m
+5./m 量子/n 计算/v 　208/m
+6./m 计算/v 理论/n 的/u 哲学/n 寓意/n 　211/m
+7./m 丘奇/nr -/w 图灵/n 论题/n 、/w 超/h 计算/v 和/c 人工智能/n 　212/m
+第/m 11/m 章/n 　智能/n 的/u 进化/v 　216/m
+1./m 大脑/n 的/u 进化/v 　216/m
+2./m 能源/n 的/u 摄取/v 和/c 消耗/v 　218/m
+3./m 全社/n 会/n 的/u 算/d 力作/n 为/p 文明/a 的/u 测度/v 　220/m
+4./m 人工智能/n 从/p 哪里/r 来/u ？/w 　222/m
+5./m 人工智能/n 向/p 哪里/r 去/v ：/w 会/n 有/v 超级/b 智能/n 吗/r ？/w 　223/m [/w 1/m ]/w  /0
+第/m 12/m 章/n 　当/ag 我们/r 谈论/v 生死/n 时/n ，/w 我们/r 在/d 谈论/v 什么/r ？/w 　230/m
+附录/n 1/m 　图灵/n 小传/n 　237/m
+附录/n 2/m 　人工智能/n 前/f 史/ng ：/w 图灵/n 与/c 人工智能/n 　249/m
+附录/n 3/m 　冯诺/nz 伊曼/nr 与/c 人工智能/n 　255/m
+附录/n 4/m 　计算机/np 与/c 智能/n 　261/m
+参考文献/n 　293/m
+人名/n 对照/v 　308/m
+
+二/m 、/w 文献/n 历史/n
+
+/0
+
+三/m 、/w 着/n 名人/n 物/ng
+
+陆/m 奇/ag 于/ng 百度/nt 的/u 最大/a 意义/n ，/w 不是/n 抬升/v 股价/n ，/w 而是/n 扩充/v 了/dg 百度/nt 的/u 想象/v 空间/n ，/w 砍掉/v 了/dg 旁枝末节/i
+
+
+
+http://www.hbued.com/show.asp?id=4979/url
+
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/81701821/url
+
+/0
+
+推荐/v 阅读/v
+
+人工智能/n 发展史/n 总结/n
+
+人工智能/n （/w 大学/nc 教材/n ）/w
+
+人工智能/n 标准化/v 白皮书/n （/w 2018/m 版/n ）/w
+
+人工智能/n 电子书/n 智能/n 中国/ns
+
+人工智能/n 书籍/n 汇总/v
+
+人工智能/n 职业规划/n

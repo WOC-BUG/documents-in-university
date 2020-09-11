@@ -1,0 +1,93 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G系统——5G鉴权（5G AKA）,缩略语nn5GC    5G Core Networkn5G-AN    5G Access Networkn5G-RAN    5G Radio Access Network n5G AV    5G Authentication Vectorn5G HE AV    5G Home Environment Authentication VectornAES,u010178611,https://blog.csdn.net/u010178611/article/details/82013156,2018-08-24,4972次阅读,5G系统——5G鉴权（5G AKA） - Cloudy_cn的专栏,2018年08月24日 11:01:18,缩略语
+
+5GC    5G Core Network
+5G-AN    5G Access Network
+5G-RAN    5G Radio Access Network 
+5G AV    5G Authentication Vector
+5G HE AV    5G Home Environment Authentication Vector
+AES    Advanced Encryption Standard
+AKA    Authentication and Key Agreement
+AMF    Access and Mobility Management Function
+AMF    Authentication Management Field
+
+ARPF    Authentication credential Repository and Processing Function
+AUSF    Authentication Server Function
+AUTN    AUthentication TokeN
+AV    Authentication Vector 
+AV'    transformed Authentication Vector
+
+HRES    Hash RESponse
+HXRES    Hash eXpected RESponse
+IKE    Internet Key Exchange
+KSI    Key Set Identifier
+
+ng-eNB    Next Generation Evolved Node-B
+ngKSI    Key Set Identifier in 5G
+RES    RESponse
+SUCI    Subscription Concealed Identifier 
+SUPI    Subscription Permanent Identifier 
+XRES    eXpected RESponse
+
+5G AKA流程
+
+5G AKA通过为归属网络提供从访问网络成功认证UE的证据来增强EPS AKA；从具体的流程对比来看，EPS的AKA流程是归属网络鉴权中心给访问网络的MME提供一组鉴权向量和XRES，由访问网络拿着这些参数对UE进行鉴权，归属网络并不关心UE的鉴权结果，5G AKA流程归属网络鉴权中心也是给访问网络的安全锚点（SEAF，和AMF在一起）一组5G鉴权向量和对应的HXRES*，访问网络用这些参数对UE鉴权后，还需要将UE的鉴权响应发给归属网络鉴权中心做进一步的鉴权，归属网络再将鉴权结果发给访问网络，可见5G下归属网络会参与鉴权做出最后的鉴权结果。
+
+
+
+（1）对于每个Nudm_Authenticate_Get请求， UDM/ARPF都会创建5G HE AV。按照TS33.102附录H，UDM/ARPF创建5G HE AV时，鉴权管理域(AMF)参数的“separation bit”必须设置为0（AMF为16bit长，最高bit就是separation bit）；然后UDM/ARPF按照TS33.501 Annex A.2推导出、按照TS33.501 Annex A.4推导出XRES*，最后创建5G HE AV（RAND、AUTN、XRES*、）。
+
+（2）UDM/ARPF在Nudm_Authenticate_Get响应中将5G HE AV（RAND、AUTN、XRES*、）发给AUSF。如果在Nudm_Authenticate_Get请求消息中包含有 SUCI，则UDM/ARPF在Nudm_Authenticate_Get响应中还携带参数SUPI。
+
+（3）AUSF应暂时将XRES *与收到的SUCI或SUPI一起存储，AUSF也可KAUSF也存起来以备他用。
+
+（4）然后，AUSF创建5G AV：按照TS33.501 Annex A.5由XRES*推导出HXRES*，按照TS33.501  Annex A.6由推导出，用推导出来的HXRES*和替换掉5G HE AV（RAND、AUTN、XRES*、）的XRES*、后就得到了5G AV（RAND、AUTN、HXRES*、）。
+
+（5）AUSF给SEAF发送Nausf_UEAuthentication_Authenticate响应消息，消息携带5G AV（RAND、AUTN、HXRES*、）。
+
+注：从(4)和(5)可以看出，XRES*、不会离开归属网络的鉴权中心，归属网络从这两个参数进一步推导出XRES*和给SEAF使用。
+
+（6）SEAF（AMF）通过NAS消息Authentication -Request给UE发起鉴权流程，携带鉴权参数RAND和AUTN，还会携带参数ngKSI，UE和AMF用这个参数标识一个和部分安全上下文信息。UE的ME会将受到RAND和AUTN传给USIM。
+
+（7）USIM收到RAND和AUTN后，验证5G AV的新鲜度（按照TS 33.102的描述进行验证）、验证“MAC=XMAC”，这些验证通过后，USIM接着计算出响应RES，USIM将响应RES、CK、IK返回给ME；ME按照TS33.501Annex A.4 从RES推导出RES*、按照Annex A.2从CK||IK推导出、按照Annex A.6 从推导出。
+
+注：USIM卡这部分计算和验证详见TS33.102 6.3.3
+
+（8）ME要检验AUTN的AMF参数"separation bit"是否为1 （TS 33.102  Annex F.）；UE给网络发送NAS鉴权响应消息Authentication Response，消息携带RES*。
+
+（9）SEAF按照TS33.501 Annex A.5 从UE发上来的RES*推导出HRES*，然后将HRES*和HXRES*进行比较，如果比较通过，在访问网络的角度来说认为鉴权成功了。
+
+（10）SEAF给归属网络鉴权中心AUSF发送Nausf_UEAuthentication_Authenticate请求，携带UE过来的RES*参数以及响应的SUCI或SUPI。
+
+（11）归属网络AUSF接收到Nausf_UEAuthentication_Authenticate请求后，首先判断AV是否过期，如果过期了则认为鉴权失败；否则，对RES*和XRES*进行比较，如果相等，在归属网络的角度来说认为鉴权成功了。
+
+（12）AUSF给SEAF发送Nausf_UEAuthentication_Authenticate 响应，告诉SEAF这个UE在归属网络的鉴权结果。
+
+如果鉴权成功了，则收到的5G AV中的就会成为锚点key；然后SEAF按照TS33.501 Annex A.7从推导出，然后将ngKSI和发给AMF使用。
+
+下面给出4G下的AKA鉴权流程，以便做对比。
+
+
+4G-AKA [参考TS33.401]
+
+ 
+
+鉴权中心创建鉴权向量(AV)
+
+
+参考 TS33.102  6.3.2
+
+ 
+
+终端(USIM)鉴权
+
+
+参考TS33.102 6.3.3
+
+ 
+
+参考
+
+TS33.501
+
+TS33.102,,,,,

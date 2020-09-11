@@ -1,0 +1,26 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n 真正/b 的/u 意义/n ?/w -/w 只/bg 谈/ng 技术/n -/w CSDN/en 博客/n ,/w https://blog.csdn.net/qq_40213996/article/details/88068579/url ,/w 现在/t 很多/mq 人工智能/n 的/u 设备/n 出现/v 在/d 我们/r 身边/s ,/w 别的/r 不说/c ,/w 单单/d 是/v 智能/n 手机/np 就/d 能够/v 给/v 我们/r 带来/v 很多/mq 的/u 便利/a ,/w 可谓/v 是/v 机/np 不/d 离/ng 手/k 。/w 但是/c 有的/r 人/n 对于/p 人工智能/n 还是/c 比较/d 担忧/v 的/u ,/w 担忧/v 人工智能/n .../m ,/w ,/w //blog.csdn.net/qq_40213996/article/details/88068579/url ,/w ,/w ,/w ,/w ,/w 人工智能/n 真正/b 的/u 意义/n ？/w -/w 只/bg 谈/ng 技术/n ,/w 2019年03月01日 21:16:05/t ,/w 转/q 人工智能/n 真正/b 的/u 意义/n ？/w
+
+
+
+2019年03月01日 21:16:05/t
+qq/en _/0 1093023102/m
+阅读/v 数/m ：1538/m
+
+
+
+
+
+
+
+
+
+
+
+现在/t 很多/mq 人工智能/n 的/u 设备/n 出现/v 在/d 我们/r 身边/s ，/w 别的/r 不说/c ，/w 单单/d 是/v 智能/n 手机/np 就/d 能够/v 给/v 我们/r 带来/v 很多/mq 的/u 便利/a ，/w 可谓/v 是/v 机/np 不/d 离/ng 手/k 。/w 但是/c 有的/r 人/n 对于/p 人工智能/n 还是/c 比较/d 担忧/v 的/u ，/w 担忧/v 人工智能/n 持续/v 发展/v 早晚/d 有/v 一/m 天会/n 取代/v 我们/r 人类/n ，/w 让/v 我们/r 成为/v 人工智能/n 的/u 奴役/v 。/w 但是/c 现在/t 人工智能/n 的/u 研究/v 依然/d 是/v 如火如荼/ia 地/n 进行/v ，/w 那么/c 人工智能/n 真正/b 发展/v 的/u 意义/n 是/v 什么/r 呢/ng ？/w 下面/f 我们/r 就/d 给/v 大家/r 介绍/v 一下/d 这个/r 内容/n 。/w
+
+对于/p 人工智能/n 的/u 研究/v ，/w 可以/a 帮助/v 我们/r 找/v 准/a 人类/n 对于/p 自身/r 的/u 定位/n 。/w 就/d 目前/t 来说/u ，/w 人类/n 是/v 地球/n 上/f 最高/a 形态/n 的/u 智慧/n 存在/v ，/w 但/c 对于/p 整个/b 宇宙/n 来说/u ，/w 其实/d 是/v 不/d 确定/a 的/u ，/w 相对/b 于/ng 未来/t 未知/v 的/u 情况/n ，/w 就/d 更加/d 不/d 确定/a 。/w 人类/n 在/d 研究人/n 工智/nz 能/ng 时/n ，/w 总是/d 希望/n 研究/v 的/u 目的/n 成为/v 最终/d 的/u 结果/c 。/w 从而/c 达到/v 对/a 自己/r 有利/a 的/u 目的/n 。/w 而事/nz 物/ng 的/u 发展/v 也/d 不/d 总是/d 如/c 我们/r 自己/r 所/n 愿/ng 。/w 从/p 整个/b 生命/n 进化/v 来看/u ，/w 人类/n 并/c 不一/v 定/d 是/v 生命/n 进化/v 的/u 最终/d 形态/n 。/w 如果/c 这/r 一点/mq 成立/v ，/w 那么/c 我们/r 研究人/n 工智/nz 能/ng ，/w 很/d 可能/a 就是/n 告诉/v 我们/r 人类/n 不要/df 狂妄自大/la ，/w 人/n 这样/r 一/m 种/ng 生命/n 存在/v 的/u 形态/n ，/w 并非/d 是/v 生命/n 进化/v 的/u 终极/n 层次/n 。/w 所以/c 我们/r 自己/r 不能/v 肯定/a 人类/n 是/v 最终/d 形态/n ，/w 所以/c 理应/v 怀着/v 一/m 颗/q 谦卑/a 的/u 心/n 。/w 这样/r 我们/r 也/d 能够/v 有/v 一个/mq 心理/n 准备/v 。/w
+
+当然/b ，/w 对于/p 我们/r 研究人/n 工智/nz 能/ng ，/w 这样/r 能够/v 帮助/v 我们/r 消除/v 对于/p 未知/v 的/u 恐惧/a 。/w 人类/n 对于/p 人工智能/n 的/u 种种/qq 担忧/v ，/w 其实/d 可以/a 归/ng 为人/v 类/n 对于/p 其他/r 未知/v 形态/n 的/u 生命/n 的/u 害怕/v 。/w 人类/n 习惯/n 了/dg 万/m 灵/a 之/u 长/a 的/u 地位/n ，/w 所以/c 害怕/v 有/v 超越/v 自身/r 的/u 高级/a 生命/n 。/w 我们/r 研究人/n 工智/nz 能/ng 这样/r 一/m 种/ng 可能/a 成为/v 更/d 高/a 形态/n 生命/n 的/u 未知/v 之/u 物/ng ，/w 不仅/c 可以/a 让/v 人类/n 自己/r 对/a 自身/r 有/v 一个/mq 明确/a 的/u 定位/n 。/w 而且/c ，/w 当/ag 人类/n 不再/d 抱持/v 着/n 是/v 唯一/b 的/u 最高/a 形态/n 的/u 智慧/n 存在/v 这样/r 的/u 理念/n 时/n ，/w 人类/n 可以/a 更加/d 坦然/a 地面/n 对/a 人工智能/n 的/u 发展/v ，/w 对于/p 世界/n 万物/n ，/w 我们/r 可以/a 有/v 更加/d 深刻/a 的/u 理解/v 与/c 认知/v ，/w 对于/p 人类/n 自己/r ，/w 我们/r 甚至/c 可以/a 从容/a 的/u 面对/v 死亡/v ，/w 面对/v 未来/t 。/w 所以/c 我们/r 发展/v 人工智能/n 还是/c 极其/d 有意/d 义/ng 的/u 。/w
+
+在/d 这/r 篇文章/n 中/f 我们/r 给/v 大家/r 介绍/v 了/dg 人工智能/n 的/u 意义/n 所在/n ，/w 具体/a 就是/n 人工智能/n 的/u 研究/v 能够/v 帮助/v 我们/r 找/v 准/a 人类/n 自身/r 的/u 定位/n 以及/c 能够/v 帮助/v 我们/r 消除/v 对/a 未知/v 的/u 恐惧/a 。/w 人们/n 对/a 人工智能/n 的/u 向往/v 持续/v 高涨/a ，/w 但愿/v 会/n 朝着/p 美好/a 的/u 方向/n 发展/v 。/w 希望/n 这/r 篇文章/n 能够/v 给/v 大家/r 带来/v 帮助/v 。/w

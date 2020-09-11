@@ -1,0 +1,25 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/EricGogh/article/details/7294056,机器学习：软件系统能从已有的经验中抽象出普遍的规律，然后利用这些规则回答各种问题，包括曾经遇到过的和不曾见过的。,https://blog.csdn.net/EricGogh/article/details/7294056,,EricGogh,2012-02-25,//blog.csdn.net/EricGogh/article/details/7294056,496次阅读,人工智能 - EricGogh的专栏,2012年02月25日 18:50:10,原        人工智能
+      
+      
+        
+                                                  2012年02月25日 18:50:10
+          EricGogh
+          阅读数：497
+          
+                                                      
+        
+                  
+      
+    
+  
+  
+    
+              
+          
+          版权声明：本文为博主原创文章，未经博主允许不得转载。          https://blog.csdn.net/EricGogh/article/details/7294056        
+            
+                              
+          
+            
+机器学习：软件系统能从已有的经验中抽象出普遍的规律，然后利用这些规则回答各种问题，包括曾经遇到过的和不曾见过的。

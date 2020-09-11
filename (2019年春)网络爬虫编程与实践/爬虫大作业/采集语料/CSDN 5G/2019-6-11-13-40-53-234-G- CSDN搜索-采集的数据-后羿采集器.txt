@@ -1,0 +1,38 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5g的基础知识，发展及现状,根据report：The 5th generation of mobile networks and wireless systems 我们可以获得5g传输的整体框架 n n5g的基本特点：覆盖率增大，传输速率提升，延迟减少，传输带宽增加，M2M的cost降低4g和5g的基本区别就在于速度，5g的传输模式不再依赖于时分和频分，5g使用BDMA（Beam Division,linglun3,https://blog.csdn.net/linglun3/article/details/44808209,2015-04-01,7013次阅读,5g的基础知识，发展及现状 - 胖子jimmy的学习记录~,2015年04月01日 15:55:39,根据report：The 5th generation of mobile networks and wireless systems 我们可以获得5g传输的整体框架 
+ 
+5g的基本特点：覆盖率增大，传输速率提升，延迟减少，传输带宽增加，M2M的cost降低
+
+4g和5g的基本区别就在于速度，5g的传输模式不再依赖于时分和频分，5g使用BDMA（Beam Division Multiple Access-5G）作为网络接口，以提高网络的传输速度和带宽。
+
+
+  BDMA：When a base station communicates with mobile stations, an  
+  orthogonal beam is allocated to each mobile station. The BDMA 
+  technique of the present invention divides an antenna  beam according 
+  to locations of the mobile stations to allow the mobile stations to 
+  give multiple accesses, thereby  significantly increasing the capacity 
+  of the system.
+
+
+从带宽的角度来看，其带宽也会提升到4g的100倍左右，其实带宽提高的主要方法在于密集的组网: 5g网络将进一步使现有的小区结构微型化、分布化, 并通过小区间的相互协作，化干扰信号为有用信号, 从而解决小区微型化和分布化所带来的干扰问题, 并最大程度地提高整个网络的系统容量. 
+ 
+
+
+5g存在的问题主要在于基站的能耗，高密度部署将增大能量的消耗，另外多天线的部署也将增加天线之间的干扰。目前主要有两种网络部署方式： 
+HetNet and C-RAN，Heterogeneous Network (HetNet) Deployment 和 Cloud Radio Access Network (C-RAN) architecture，基本的图像入下： 
+ 
+
+
+5g网络中的关键技术：认知无线电+FLAT IP 
+FLAT IP：支持用户可以通过名字查询而不用IP地址，另外他也减少了网络的各个节点，降低了网络传输的费用，降低延迟，提高网络的灵活性。 
+认知无线电：认知无线电主要是一个智能的通信系统，可以让移动终端智能的感受外界环境，来连接各个网络。 
+ (5G Key Technologies: Identifying Innovation Opportunity)
+
+主要参考文献：
+
+
+5G Key Technologies: Identifying Innovation Opportunity 5G
+Technology of Mobile Communication:  A Survey the 5th generation of mobile
+networks and wireless systems Towards converged 5G mobile
+5G移动通信发展趋势与若干关键技术
+5G无线通信技术概念及相关应用,,,,,

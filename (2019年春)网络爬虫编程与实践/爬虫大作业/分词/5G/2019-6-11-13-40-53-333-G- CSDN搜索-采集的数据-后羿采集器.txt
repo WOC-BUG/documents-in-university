@@ -1,0 +1,49 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 移动网/n 络/ng V/en 2/m X/en ,/w 人们/n 对于/p 速度/n 的/u 追求/v 是/v 永无止境/iv 的/u ，/w 虽然/c 在/d 大众/n 的/u 眼里/s 4G/n 已经/d 足够/v 快/a ，/w 但/c 科学家/n 实际上/d 早就/d 开始/v 了/dg 针对/v 下一代/n 通讯/n 技术/n 的/u 研究/v ，/w 今天/t 我/r 就/d 带/ng 大家/r 看一看/vyv 未来/t 5/m G/m 移动网/n 络/ng 的/u 大致/b 面貌/n ,/w stoneyyhit/en ,/w https://blog.csdn.net/stoneyyhit/article/details/49074937/url ,/w 2015-10-12/t ,/w 2632/m 次/a 阅读/v ,/w 5/m G/m 移动网/n 络/ng V/en 2/m X/en -/w stoneyyhit/en 的/u 专栏/n ,/w 2015年10月12日 15:58:37/t ,/w http://www.pcpop.com/doc/1/1080/1080103.shtml/url
+
+如何/r 提高/v 互联网/n 接入/v 速度/n 一直/d 是/v 各国/r 运营商/n 所/n 研讨/v 的/u 重点课/n 题/n ，/w 从/p 80/m 年代初/n 的/u 模拟信号/ln 到/ng 现在/t 的/u 4G/n 移动网/n 络/ng 即将/d 普及/a ，/w 数据/n 交换/v 速度/n 已经/d 有/v 了/dg 质/n 的/u 飞跃/v 。/w 人们/n 对于/p 速度/n 的/u 追求/v 是/v 永无止境/iv 的/u ，/w 虽然/c 在/d 大众/n 的/u 眼里/s 4G/n 已经/d 足够/v 快/a ，/w 但/c 科学家/n 实际上/d 早就/d 开始/v 了/dg 针对/v 下一代/n 通讯/n 技术/n 的/u 研究/v ，/w 今天/t 我/r 就/d 带/ng 大家/r 看一看/vyv 未来/t 5/m G/m 移动网/n 络/ng 的/u 大致/b 面貌/n 。/w
+
+什么/r 是/v 5/m G/m 移动网/n 络/ng ？/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w
+很多/mq 人/n 可能/a 一/m 上来/v 就/d 有/v 这个/r 疑问/n ，/w 什么/r 是/v 5/m G/m 移动网/n 络/ng ？/w 大家/r 可能/a 已经/d 知道/v ，/w 这里/r 的/u G/en 是/v Generation/en （/w 代/n ）/w 的/u 意思/n ，/w 所以/c 5/m G/m 是/v 第五/m 代/n 移动通讯/n 技术/n 。/w
+
+从/p 手机/np 的/u 出现/v 一直/d 到/ng 现在/t 移动网/n 络/ng 遍布/v 各个/r 角落/n ，/w 数据/n 的/u 传输/v 经历/n 过多/a 种/ng 方式/n 的/u 演进/v 。/w 最初/t 只有/c 模拟/v 音频/n 信号/n ，/w 从/p 90/m 年代/n 才/d 开始/v 演变/v 为数/n 字/n 信号/n ，/w 以/p
+GSM/en //w GPRS/n 和/c EDGE/en 为主/v 的/u 2/m G/en 服务/v 成为/v 主流/n 。/w 进入/v 21/m 世纪/n ，/w 3G/n 的/u 出现/v 带来/v 了/dg 下行/v 速率/n 上/f 极大/a 的/u 飞跃/v ，/w 从/p Kbps/en 级别/n 直接/a 跃升/v 至/d Mbps/q 级别/n ，/w WCDMA/n 制式/n 以及/c 后续/b 的/u HSPA/en 几乎/d 和/c 家用/b 宽带/n 的/u 速率/n 对等/v 。/w
+
+4G/n 时代/n 来临/v 后/f ，/w FDD/n 和/c TD/n 两/m 种/ng 工作/n 方式/n 的/u LTE/en 网络/n 成为/v 了/dg 人们/n 热议/n 的/u 焦点/n ，/w 在/d 全球/n 200/m 多个/n 国家/n 采用/v FDD/en LTE/en 的/u 情形/n 下/f ，/w 国内/s 当局/n 则/c 首先/c 为/p 三家/nz 运营商/n 发放/v 了/dg TD/n 牌照/n ，/w 不得不/d 认为/v 是/v 扶持/v 在/d 3G时代/n 落下脚/v 步/n 的/u 中国移动/nt 。/w 虽然/c 近期/t 工信部/nt 为/p 联通/nz 和/c 电信/n 发放/v 了/dg FDD/n 牌照/n ，/w 但/c 终归/d 还是/c 迟/a 了/dg 点/m 。/w
+
+不过/c 这种/r 格局/n 将/d 在/d 5/m G/m 时代/n 有所/v 改变/v ，/w 因为/c 5/m G网/n 络/ng 有/v 很大/a 可能性/n 会/n 统一/a 网络/n 制式/n ，/w 或者说/c 在/d 当前/t 4G/n 模式/n 不便/a 的/u 情况/n 下/f ，/w 纳入/v WLAN/en 802.11/m ax/en （/w 也就是/n 802.11/m ac/en Triple/en E/en ）/w 作为/n 辅助工具/n ，/w 利用/v MU/en -/w MIMO/en （/w 多用/b 户/ng 多/a 入/ng 多/a 出/q ）/w 技术/n 改善/v 网络资源/n 利用率/n ，/w 为/p 移动互联网/ln 终端/n 提供/v 互不/d 干扰/v 的/u 接入/v 平台/n 。/w 这个/r 接入/v 平台/n 的/u 标准化/v 最快/a 将于/n 明年年初/t 公布/v ，/w 国内/s 的/u 进展/v 也/d 时分/n 迅速/a ，/w 目前/t 正/a 由/p 大唐电信/nt 带领/v 各/r 大/a 研发机构/n 进行/v 深度/n 探讨/v 。/w
+虽然/c 目前/t 来看/u 5/m G/m 没有/d 一个/mq 确定/a 的/u 制式/n 或/c 标准/a ，/w 但/c 5/m G/m 预计/v 会/n 带来/v 1/m Gbps/en +/0 的/u 下行/v 速率/n 以及/c 更/d 低/a 的/u 延迟/v 和/c 更/d 高/a 的/u 可靠性/n 。/w
+5/m G网/n 络/ng 利用/v 了/dg 哪些/r 技术/n ？/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w
+上文/n 提到/v ，/w 5/m G网/n 络/ng 很/d 有/v 可能/a 采用/v LTE/en 的/u 基础/n 架构/n 不变/v ，/w 那么/c 这里/r 首先/c 要/v 介绍/v 一下/d 两/m 种/ng LTE/en （/w TDD/en //w FDD/n ）/w 的/u 传输/v 模式/n 。/w
+
+TDD/n 指代/v 时分/n 双工/nz ，/w 也就是说/ldm 上下行/j 传输/v 在/d 同一/b 频段/n 上/f 按照/p 时间/n 分配/v 交叉/v 进行/v ；/w 而/c FDD/n 则/c 是/v 频/ag 分/b 双工/nz ，/w 即/c 上下行/j 分处/n 不同/a 频段/n 同时/c 进行/v 。/w 相比/v 于/ng TDD/n 而言/u ，/w FDD/n 在/d 延时/v 上/f 更具/v 优势/n ，/w 而/c TDD/n 则/c 在/d 频谱/n 利用率/n 上/f 比/p FDD/n 更/d 高/a ，/w 在/d 人口/n 密集/a 的/u 地区/ny ，/w TDD/n 相对/b 承载/v 能力/n 更/d 强/a 。/w
+
+由于/c 5/m G/m 时代/n 将/d FDD/n 和/c TDD/n 频谱/n 统一/a ，/w 所以/c 如何/r 最大化/v 频谱/n 资源/n 利用率/n 必将/d 成为/v 5/m G/m 研发/v 者/k 要/v 考虑/v 的/u 因素/n 。/w 其中/r SCMA/en （/w Sparse/en Code/en Multiple/en Access/en 稀疏/a 码/ng 多/a 址/ng 接入/v ）/w 、/w PDMA/en （/w 图/n 分/b 多/a 址/ng 接入/v ）/w 、/w NOMA/en （/w 非/d 正交/b 多/a 址/ng 接入/v ）/w 成为/v 可/v 扩大/v 资源/n 利用率/n 的/u 三大/n 技术/n 候选/b ，/w 其中/r 前/f 两者/r 非/d 别/d 由/p 华为/nz 和/c 大唐电信/nt 提出/v 。/w
+
+同时/c ，/w 5/m G/m 时代/n 还/d 需/ng 依托/v 于超/nr 密度/n 网络/n （/w Ultra/en -/w Dense/en Network/en ）/w 以及/c 大规模/b 多/a 入/ng 多/a 出/q （/w Massive/en MIMO/en ，/w 如上/n 图/n ）/w 和/c （/w All/en Sequence/en Access/en ）/w 全频/nr 接入/v 技术/n ，/w 除了/p 要/v 让/v 更多/n 的/u 设备/n 能够/v 在/d 同一/b 基站/n 覆盖/v 区域/n 同时/c 使用/v ，/w 还/d 将/d 让/v 一个/mq 设备/n 支持/v 多种/a 频段/n 的/u 数据/n 信号/n 传输/v 。/w
+
+除了/p 主要/b 技术/n ，/w 还有/v 许多/mq 很/d 有/v 潜力/n 的/u 技术/n 能够/v 纳入/v 最终/d 的/u 5/m G/m 标准/a 当中/f ，/w 譬如/v FBMC/en （/w 滤波器/n 组/n 多/a 载波/n 系统/a ）/w 、/w F/en -/w OFDM/n （/w 正交/b 频/ag 分/b 复用/v 技术/n ）/w ，/w 这些/r 都/d 能/ng 为/p 5/m G网/n 络/ng 的/u 可靠性/n 做出/v 贡献/n 。/w
+5/m G网/n 络/ng 带来/v 了/dg 哪些/r 优势/n 指标/n ？/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w
+介绍/v 完/ng 技术/n 层面/n ，/w 接下来/c 就要/d 探讨/v 一下/d 5/m G/m 相比/v 于/ng 现在/t 的/u 网络/n 能/ng 为/p 用户/n 带来/v 哪些/r 优势/n 。/w 先来/nz 看/u 一下/d 5/m G/m 在/d 未来/t 的/u 使用/v 场景/n ：/w
+
+主要/b 分为/v 三大/n 类/n ：/w 智能/n 手机/np 及/c 可/v 穿戴/n 领域/n 、/w 云计算/n 和/c 智能/n 家电/n 领域/n 、/w 工农/n 经济/n 医疗/n 领域/n 。/w 综上/ldm 基本上/d 涵盖/v 了/dg 所有人/n 类/n 可以/a 接触/v 到/ng 的/u 环境/n ，/w 也就是/n 物联网/n 的/u 整个/b 范畴/n 。/w 如果/c 5/m G网/n 络/ng 能/ng 在/d 所有/b 这些/r 使用/v 场景/n 中/f 覆盖/v ，/w 则/c 需要/n 做到/v 以下/f 几点/t ：/w
+●/x  /0 高速/b 率/ag
+这/r 一点/mq 不用/d 多/a 说/ag ，/w 在/d 现如今/t 的/u 4G/n 标准/a 下/f ，/w LTE/en -/w Advance/en Cat/en .6/m 等/ng 以上/f 标准/a 已经/d 可以/a 达到/v 300/m Mbps/q 甚至/c 更/d 高/a 的/u 速率/n ，/w 而/c 5/m G/m 的/u 下行/v 速率/n 至少/d 为/p 1/m Gbps/en 。/w 日前/t 英国/ns 科研/n 团队/n 已经/d 在/d 实验室/nc 中达/nz 成/ng 了/dg 1/m Tbps/en 的/u 下行/v 速率/n ，/w 约合/vn 目前/t 4G/n 标准速/n 度/k 的/u 6万/m 倍/d （/w 点击/v 查看/v ）/w ，/w 每秒/r 可传/nz 输/v 30/m 部/n 蓝光/nz 电影/n 。/w 虽然/c 正式/a 商用/b 的/u 5/m G/m 可能/a 没有/d 这么/r 夸张/n ，/w 但/c 轻松/a 突破/v USB/n
+3.0/m 的/u 传输/v 速度/n 极限/n 还是/c 很/d 有/v 可能/a 的/u 。/w
+
+●/x  /0 低/a 延时/v
+延时/v 是/v 阻碍物/n 联网/v 中/f 智能/n 汽车/np 、/w 智能/n 医疗/n 和/c 智能/n 工业/n 领域/n 发展/v 的/u 劲敌/n ，/w 高/a 延时/v 不仅/c 会/n 造成/v 数据传输/n 时效性/n 降低/v ，/w 还/d 会/n 影响/v 安全/a 。/w
+
+以/p 智能/n 汽车/np 为/p 例/n ，/w 人类/n 的/u 制动/v 反应/n 时间/n 大概/b 在/d 500/m ms/n 左右/f ，/w 如果/c 汽车/np 以/p 60/m Km/en //w h/n 的/u 行进/v 速度/n 行驶/v ，/w 遭遇/n 紧急/a 情况/n 时人/n 往往/d 会/n 在/d 车/np 多行/nz 进/ng 8/m 米后才/nr 进行/v 刹车/n 动作/n 。/w 而/c 5/m G/m 则/c 要/v 将/d 延时/v 降低/v 到/ng 1/m ms/n ，/w 智能/n 汽车/np 主动/a 减速/v 的/u 安全性/n 就/d 提高/v 很多/mq 。/w
+●/x  /0 高承/nr 载力/n
+不知/v 道/n 大家/r 是否/v 遇到/v 过/d 这种/r 场景/n ：/w 参加/v 大型/b 体育赛事/n 或/c 演唱会/n 时/n ，/w 想/v 分享/v 照片/n 却/d 发现/v 怎么/r 发/q 也/d 发/q 不/d 出去/v ？/w 其实/d 这/r 就/d 涉及到/v 了/dg 基站/n 的/u 承载力/n 问题/n 。/w 在/d 进行/v 一些/mq 人群/n 密集/a 的/u 公共/b 活动/n 时/n ，/w 三大/n 运营商/n 往往/d 会派/n 驻/v 移动/v 基站/n 来/u 暂时/d 提高/v 所在区/n 域/ng 的/u 网络/n 承载力/n 。/w
+
+5/m G/m 标准/a 将/d 把/p 每/r 平方千米/q 的/u 承载力/n 提高/v 到/ng 106/m 级别/n 以上/f ，/w 即可/v 以/p 同时/c 让/v 1/m ,/w 000/m ,/w 000/m 台/n 以上/f 的/u 设备/n 连接/v 网络/n ，/w 并/c 保证/v 速度/n 和畅/a 通/a 。/w 而且/c 它/r 所/n 消耗/v 的/u 能源/n 还要/v 尽量/d 的/u 少/a ，/w 达到/v 环境/n 友好/a 标准/a 。/w
+综上/ldm 就是/n 5/m G网/n 络/ng 具备/v 的/u 优势/n ，/w 在/d 未来/t 的/u 5/m G网/n 络/ng 环境/n 下/f ，/w 人类/n 基本/a 可以/a 实现/v “/w 零/m ”/w 延时/v 上网/v 、/w “/w 零/m ”/w 缓冲/v 观看/v 流媒体/n 等/ng 体验/v ，/w 非常/b 令/ag 人/n 期待/v 。/w
+5/m G网/n 络/ng 的/u 资费/n 如何/r 计算/v ？/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w
+最后/f 就要/d 聊一聊/v 资费/n 的/u 问题/n ，/w 众所周知/iv ，/w 网络/n 制式/n 每/r 升级/v 一次/mq ，/w 运营商/n 的/u 套餐/n 就/d 会/n 贵/a 上/f 那么/c 一点/mq 。/w 而/c 5/m G网/n 络/ng 的/u 套餐/n 会/n 有/v 多么/d 贵/a 呢/ng ？/w 如果/c 按/p 5/m G/m 最低/a 标准/a 的/u 速度/n ——/w 1/m Gbps/en 来看/u ，/w 那么/c 你/r 8/m 秒/q 就/d 可以/a 消耗/v 完/ng 1/m GB/n 的/u 流量/n 。/w 按/p 联通/nz 3M/nz B/n 流量/n 1/m 块钱/q 的/u 标准/a ，/w 你/r 在/d 这/r 8/m 秒/q 内/f 就/d 花/a 了/dg 341/m 元/q 之/u 多/a ，/w 这/r 也/d 是/v 本文/r 标题/n 的/u 来历/n 了/dg 。/w
+
+不过/c 终归/d 是/v 个/q 玩笑/n ，/w 在/d 5/m G网/n 络/ng 商用/b 时/n ，/w 如何/r 合理/a 的/u 制定/v 流量/n 资费标准/n 确实/a 是/v 一个/mq 问题/n 。/w 理想/a 状态/n 下/f ，/w 由于/c 低/a 延时/v 和/c 高/a 可靠性/n ，/w 语音/n 电话/np 和/c SMS/n 短信/n 可能/a 会/n 消亡/v 。/w 取而代之/iv 可能/a 是/v 限时/v 不/d 限量/n 的/u 套餐/n 或/c 限量/n 不/d 限时/v 的/u 套餐/n 。/w 还有/v 一/m 种/ng 可能/a ，/w 就是/n 运营商/n 会/n 限制/v 不同/a 资费/n 区间/n 的/u 5/m G/m 接入/v 速度/n ，/w 付出/v 最/d 多/a 的/u 用户/n 才能/v 享受/v 到/ng 最快/a 的/u 5/m G网/n 络/ng 。/w
+总结/n ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w ——/w
+
+说/ag 了/dg 这么/r 多/a ，/w 大家/r 应该/v 对/a 未来/t 的/u 5/m G/m 有/v 了/dg 一定/b 了解/v ，/w 距离/n 它/r 的/u 正式/a 商用/b 还有/v 几/m 年/n 的/u 时间/n ，/w 在/d 这几年/t 中/f ，/w 手机/np 也/d 会/n 伴随/v 着/n 网络/n 研发/v 的/u 深入/a 产生/v 一些/mq 变化/v ，/w 但/c 产品/n 的/u 大致/b 方向/n 不会/v 变/v ，/w 始终/d 是/v 轻量/n 化/k 、/w 虚拟化/v 。/w 也许/d 过/d 不了/v 多久/r ，/w 虚拟现实/ln 设备/n 就/d 能/ng 取代/v 手机/np ，/w 成为/v 人们/n 每天/t 必备/v 的/u 高科技/n 产品/n 。/w 但/c 这/r 一切/r 都/d 归功/v 于/ng 互联网/n 的/u 高速/b 发展/v ，/w 相信/v 不久/t 的/u 将来/t ，/w 人们/n 就/d 可以/a 迈进/v 万物/n 联网/v 的/u 智能/n 时代/n 。/w ■/0 ,/w ,/w ,/w ,/w ,/w

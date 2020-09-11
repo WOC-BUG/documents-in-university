@@ -1,0 +1,38 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m g/m 的/u 基础知识/n ，/w 发展/v 及/c 现状/n ,/w 根据/n report/en ：/w The/en 5/m th/en generation/en of/en mobile/en networks/en and/en wireless/en systems/en 我们/r 可以/a 获得/v 5/m g/m 传输/v 的/u 整体/n 框架/n n/en n/en 5/m g/m 的/u 基本/a 特点/n ：/w 覆盖率/n 增大/v ，/w 传输/v 速率/n 提升/v ，/w 延迟/v 减少/v ，/w 传输/v 带宽/n 增加/v ，/w M/en 2/m M/n 的/u cost/en 降低/v 4g/n 和/c 5/m g/m 的/u 基本/a 区别/n 就/d 在于/v 速度/n ，/w 5/m g/m 的/u 传输/v 模式/n 不再/d 依赖/v 于/ng 时分/n 和频/nr 分/b ，/w 5/m g/m 使用/v BDMA/en （/w Beam/en Division/en ,/w linglun/en 3/m ,/w https://blog.csdn.net/linglun3/article/details/44808209/url ,/w 2015-04-01/t ,/w 7013/m 次/a 阅读/v ,/w 5/m g/m 的/u 基础知识/n ，/w 发展/v 及/c 现状/n -/w 胖子/n jimmy/en 的/u 学习/v 记录/n ~/w ,/w 2015年04月01日 15:55:39/t ,/w 根据/n report/en ：/w The/en 5/m th/en generation/en of/en mobile/en networks/en and/en wireless/en systems/en 我们/r 可以/a 获得/v 5/m g/m 传输/v 的/u 整体/n 框架/n
+
+5/m g/m 的/u 基本/a 特点/n ：/w 覆盖率/n 增大/v ，/w 传输/v 速率/n 提升/v ，/w 延迟/v 减少/v ，/w 传输/v 带宽/n 增加/v ，/w M/en 2/m M/n 的/u cost/en 降低/v
+
+4g/n 和/c 5/m g/m 的/u 基本/a 区别/n 就/d 在于/v 速度/n ，/w 5/m g/m 的/u 传输/v 模式/n 不再/d 依赖/v 于/ng 时分/n 和频/nr 分/b ，/w 5/m g/m 使用/v BDMA/en （/w Beam/en Division/en Multiple/en Access/en -/w 5/m G/m ）/w 作为/n 网络/n 接口/n ，/w 以/p 提高/v 网络/n 的/u 传输/v 速度/n 和/c 带宽/n 。/w
+
+
+BDMA/en ：/w When/en a/en base/en station/en communicates/en with/en mobile/en stations/en ,/w an/en
+orthogonal/en beam/en is/en allocated/en to/en each/en mobile/en station./url The/en BDMA/en
+technique/en of/en the/en present/en invention/en divides/en an/en antenna/en beam/en according/en
+to/en locations/en of/en the/en mobile/en stations/en to/en allow/en the/en mobile/en stations/en to/en
+give/en multiple/en accesses/en ,/w thereby/en significantly/en increasing/en the/en capacity/en
+of/en the/en system./url
+
+
+从/p 带宽/n 的/u 角度/n 来看/u ，/w 其/r 带宽/n 也/d 会/n 提升/v 到/ng 4g/n 的/u 100/m 倍/d 左右/f ，/w 其实/d 带宽/n 提高/v 的/u 主要方/n 法/k 在于/v 密集/a 的/u 组网/n :/w 5/m g网/n 络/ng 将/d 进一步/d 使/ng 现有/v 的/u 小区/ny 结构/n 微型化/v 、/w 分布/v 化/k ,/w 并/c 通过/p 小区/ny 间/f 的/u 相互/b 协作/v ，/w 化/k 干扰/v 信号/n 为/p 有用/a 信号/n ,/w 从而/c 解决/v 小区/ny 微型化/v 和/c 分布/v 化/k 所/n 带来/v 的/u 干扰/v 问题/n ,/w 并/c 最大/a 程度/n 地/n 提高/v 整个/b 网络/n 的/u 系统/a 容量/n ./m
+
+
+
+5/m g/m 存在/v 的/u 问题/n 主要/b 在于/v 基站/n 的/u 能耗/n ，/w 高密/a 度/k 部署/v 将/d 增大/v 能量/n 的/u 消耗/v ，/w 另外/c 多天/nz 线/n 的/u 部署/v 也/d 将/d 增加/v 天线/n 之间/f 的/u 干扰/v 。/w 目前/t 主要/b 有/v 两/m 种/ng 网络部/n 署/ng 方式/n ：/w
+HetNet/en and/en C/en -/w RAN/en ，/w Heterogeneous/en Network/en (/w HetNet/en )/w Deployment/en 和/c Cloud/en Radio/en Access/en Network/en (/w C/en -/w RAN/en )/w architecture/en ，/w 基本/a 的/u 图像/n 入/ng 下/f ：/w
+
+
+
+5/m g网/n 络/ng 中/f 的/u 关键/a 技术/n ：/w 认知/v 无线电/n +/0 FLAT/en IP/en
+FLAT/en IP/n ：/w 支持/v 用户/n 可以通过/n 名字/n 查询/v 而/c 不用/d IP地址/n ，/w 另外/c 他/r 也/d 减少/v 了/dg 网络/n 的/u 各个/r 节点/n ，/w 降低/v 了/dg 网络传输/n 的/u 费用/n ，/w 降低/v 延迟/v ，/w 提高/v 网络/n 的/u 灵活性/n 。/w
+认知/v 无线电/n ：/w 认知/v 无线电/n 主要/b 是/v 一个/mq 智能/n 的/u 通信/v 系统/a ，/w 可以/a 让/v 移动/v 终端/n 智能/n 的/u 感受/n 外界/n 环境/n ，/w 来/u 连接/v 各个/r 网络/n 。/w
+(/w 5/m G/en Key/en Technologies/en :/w Identifying/en Innovation/en Opportunity/en )/w
+
+主要/b 参考文献/n ：/w
+
+
+5/m G/en Key/en Technologies/en :/w Identifying/en Innovation/en Opportunity/en 5/m G/m
+Technology/en of/en Mobile/en Communication/en :/w A/en Survey/en the/en 5/m th/en generation/en of/en mobile/en
+networks/en and/en wireless/en systems/en Towards/en converged/en 5/m G/en mobile/en
+5/m G/m 移动通信/ln 发展/v 趋势/n 与/c 若干/mq 关键/a 技术/n
+5/m G/m 无线通信/ln 技术/n 概念/n 及/c 相关/v 应用/v ,/w ,/w ,/w ,/w ,/w

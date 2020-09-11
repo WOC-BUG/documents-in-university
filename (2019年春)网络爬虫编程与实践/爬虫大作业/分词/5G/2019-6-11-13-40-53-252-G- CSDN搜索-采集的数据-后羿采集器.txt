@@ -1,0 +1,178 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+不想/v 写/v 标题/n 1/m ,/w LPWANnLow/en Power/en Wide/en Area/en Networkn/en 低/a 功耗/n 、/w 低速/d 率/ag 、/w 广/a 覆盖/v nnnnnnLoRaneMTCnsigfoxnNB/en -/w ioLnnnnn/en 通讯/n 标准/a nnCat/en -/w M/en 1/m n/n –/0 nCat/en -/w NB/en 1/m nnn/en 上行/v nn/en 1/m Mn/n –/0 n/en 60/m Knnn/en 下行/v nn/en 1/m Mn/n –/0 n/en 20/m Knnn/en 移动性/n nn/en 是/v n/n –/0 n/n 否/ag nnn/en 语音/n 通信/v nn/en 有/v n/n –/0 n/n 无/v nnn/en 应用/v nn/en 穿戴/n 设备/n n/n –/0 n/n 水电气/n 表/n 等/ng nnnn/en 关于/p 芯片/n nnnnnn/en 核心/n n/n 芯片/n n/n 应用/v n/en .../m ,/w andor/en 5/m ,/w https://blog.csdn.net/andor5/article/details/84571213/url ,/w 2018-11-27/t ,/w 23/m 次/a 阅读/v ,/w 不想/v 写/v 标题/n 1/m -/w andor/en 5/m 的/u 博客/n ,/w 2018年11月27日 18:26:50/t ,/w LPWAN/en
+Low/en Power/en Wide/en Area/en Network/en
+低/a 功耗/n 、/w 低速/d 率/ag 、/w 广/a 覆盖/v
+
+
+
+
+
+LoRa/en
+eMTC/en
+sigfox/en
+NB/en -/w ioL/en
+
+
+
+
+通讯/n 标准/a
+
+Cat/en -/w M1/n
+–/0
+Cat/en -/w NB/en 1/m
+
+
+上行/v
+
+1/m M/n
+–/0
+60/m K/n
+
+
+下行/v
+
+1/m M/n
+–/0
+20/m K/n
+
+
+移动性/n
+
+是/v
+–/0
+否/ag
+
+
+语音/n 通信/v
+
+有/v
+–/0
+无/v
+
+
+应用/v
+
+穿戴/n 设备/n
+–/0
+水电气/n 表/n 等/ng
+
+
+
+关于/p 芯片/n
+
+
+
+
+
+核心/n
+芯片/n
+应用/v
+
+
+
+
+华为/nz
+NB/en -/w IoL/en
+Boudica/en 150/m
+水气/n 、/w 家电/n 、/w 冷链/n 、/w 门锁/n 、/w 路灯/n
+
+
+高通/nz
+NB/en -/w IoL/en &/0 eMTC/en
+MDM/en 9206/m
+智能/n 设备/n &/0 …/w
+
+
+芯片/n 厂商/n ：/w 英特尔/nz 、/w Nordic/en 、/w Altair/en 、/w Sequans/en 、/w 锐迪/nz 科/n
+模组/n 厂商/n ：/w 中兴/nz 物联/n 、/w 芯/ng 讯通/nz 、/w 龙尚/nr 科技/n
+
+关于/p NB/en -/w ioL/en
+Narrow/en Band/en Internet/en of/en Thing/en
+基于/p 蜂窝网/nz 络/ng ，/w 180/m KHz/q ，/w 智慧城市/ln （/w 水/n 气/n 交通/n 环保/n ）/w
+
+
+
+
+
+基站/n 数/m
+范围/n
+连接/v 数/m
+网络/n 数/m
+
+
+
+
+2017/m
+40万/m
+省会/n
+2000万/m
+39/m 张/ng
+
+
+2020/m
+160万/m
+–/0
+6亿/m
+–/0
+
+
+2017年中/t 国/n 智能家居/n 市场/ny 达/ng 3254.7亿/m
+2020年/t 预计/v 5819.3亿/m
+
+关于/p 物联网/n
+连接/v +/0 平台/n +/0 应用/v
+
+管理/v 平台/n
+
+
+
+
+
+OneLink/en
+CC/n
+DCP/en
+GDSP/en
+
+
+
+
+所属/b
+中国移动/nt
+Jasper/en
+爱立信/nz
+沃达丰/nz
+
+
+国家/n
+中国/ns
+美国/ns
+瑞典/ns
+英国/ns
+
+
+连接/v 数/m
+3.86亿/m
+–/0
+–/0
+–/0
+
+
+全国/n 首例/n NB/en -/w IoL/en 技术/n 大规模/b 应用/v 到/ng 电动/b 自行车/np
+项目/n 资金/n 1.6亿/m ，/w 300万/m 安装/v 量/n
+河南/ns 郑州/ns 移动/v 提供/v 智能终端/n 设计开发/n 、/w NB/en -/w IoL/en 网络建设/n
+中/f 移/v 物联/n 提供/v “/w 电车/np 卫士/n ”/w 综合/v 解决方案/n
+
+5/m G/m 只是/c 速度/n 更快/n 吗/r ？/w
+速度/n Gb/n 级/n ，/w 接入/v 量/n 百万/m //w 平方公里/q ，/w 时延/j 几/m 毫秒/q
+更/d 高/a 的/u 可靠性/n 以及/c 更/d 低/a 的/u 时延/j
+满足/a 物联网/n 海量/n 接入/v 场景/n
+推动/v 车联网/nt 、/w 物联网/n 、/w 智慧城市/ln 、/w 无人机/np 网络/n
+要/v 想/v 富先/nr 修路/v ，/w 5/m G/m 这/r 条/ng 康庄大道/in 已然/d 落成/v
+各个/r 领域/n 将/d 会/n 出现/v 融合/v ，/w 多元化/v 是/v 趋势/n ，/w 旧/a 的/u 概念/n 会/n 被/ng 重新/d 定义/n ，/w 我/r 想/v 这是/n 个/q 有趣/a 的/u 时代/n ，/w 百家争鸣/iv 。/w 专业/a 可以/a 更/d 开放/a ，/w 人文学科/ln 会/n 有/v 更多/n 的/u 选择/n 。/w
+大量/mq 的/u 数据/n 需要/n 被/ng 合理/a 管理/v ，/w 数据库/n 或许/d 需要/n 新/a 的/u 形态/n 结构/n 来/u 适应/v ，/w 数据/n 间/f 的/u 松散/a 联系/v 也/d 应该/v 被/ng 重视/v 。/w 200/m 次/a 的/u 硬币/n 投掷/v ，/w 可能/a 199/m 次/a 正面/b 1/m 次/a 反面/b ，/w 但/c 当/ag 投掷/v 次数/n 无穷大/n 的/u 时候/n ，/w 结果/c 是/v 1/m :/w 1/m 。/w 所以/c 我/r 认为/v 这/r 也/d 是从/v 新/a 认识/n 事物/n 的/u 一次/mq 机会/n 。/w
+大数据/n 大/a 负担/n ，/w 现有/v 的/u 网络/n 架构/n 能否/v 承载/v 重任/n ，/w 新/a 的/u 路由器/n ，/w 新/a 的/u 协议/n ，/w 或许/d 也/d 已经/d 在/d 路上/s 。/w
+我/r 认为/v 网络安全/n 应该/v 跟/c 国家安全/n 一样/a 重要/a ，/w 更多/n 的/u 连入/v 意味着/v 更多/n 的/u 漏洞/n ，/w 个人电脑/n 的/u 非法/b 闯入/v 等于/v 私闯/v 民宅/n ，/w 适应/v 于新/nr 时期/n 的/u 法律/n 不/d 应/ng 被/ng 忽视/v 。/w
+智慧城市/ln 具体/a 到家/v 庭/ng ，/w 家庭/n 管家/n 是/v 个/q 不错/a 的/u 应用/v ，/w 帮助/v 管理/v 智能家居/n ，/w 了解/v 使用/v 情况/n ，/w 维护/v 家庭/n 网络安全/n 。/w
+生活/n 的/u 新方/n 式/k
+5/m G网/n 络/ng 很大/a ，/w 我们/r 需要/n 把/p 她/r 落实/v 到/ng 生活/n 的/u 一点一滴/ln 上/f 。/w
+能够/v 跟/c 这个/r 世界/n 一起/d 改变/v 真的/d 很/d 酷/a ~/w ,/w ,/w ,/w ,/w ,/w

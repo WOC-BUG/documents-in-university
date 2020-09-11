@@ -1,0 +1,23 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en ,/w 我们/r 天天/d 都/d 在/d 说/ag 5/m G/m ，/w 盼/v 5/m G/m ，/w 就是/n 因为/c 5/m G/m 很/d 牛/a 掰/v 。/w 那么/c ，/w 它/r 到底/d 牛/a 掰/v 在/d 哪/r 呢/ng ？/w n/en n/en n/en n/en 其实/d ，/w 5/m G/m 的/u 主要/b 优点/n ，/w 总结/n 而言/u ，/w 就/d 三个/n ：/w n/en n/en 1/m Gbps/en 的/u 用户/n 体验/v 速率/n n/en n/en 毫秒/q 级/n 的/u 延迟/v n/en n/en 百万/m 级/n //w k/n ㎡/0 的/u 终端/n 接入/v n/en n/en n/en n/en ITU/n （/w 国际电信联盟/nt ）/w 给出/v 了/dg 更/d 高大上/a 的/u 叫法/n ，/w 归纳/v 为/p 三大/n 典型/a 应用/v 场景/n ：/w n/en n/en n/en n/en n/en 由于/c 物联网/n 尤其/d 是/v 互联网/n 汽车/np 等/ng 产业/n 的/u 快速/b 发展/v ，/w 其/r ,/w qywl/en _/0 1050/m ,/w https://blog.csdn.net/qywl_1050/article/details/79215013/url ,/w 2018-01-31/t ,/w 888/m 次/a 阅读/v ,/w 5/m G/en -/w qywl/en _/0 1050/m 的/u 博客/n ,/w 2018年01月31日 11:26:38/t ,/w 我们/r 天天/d 都/d 在/d 说/ag 5/m G/m ，/w 盼/v 5/m G/m ，/w 就是/n 因为/c 5/m G/m 很/d 牛/a 掰/v 。/w 那么/c ，/w 它/r 到底/d 牛/a 掰/v 在/d 哪/r 呢/ng ？/w
+
+
+
+其实/d ，/w 5/m G/m 的/u 主要/b 优点/n ，/w 总结/n 而言/u ，/w 就/d 三个/n ：/w
+
+1/m Gbps/en 的/u 用户/n 体验/v 速率/n
+
+毫秒/q 级/n 的/u 延迟/v
+
+百万/m 级/n //w k/n ㎡/0 的/u 终端/n 接入/v
+
+
+
+ITU/n （/w 国际电信联盟/nt ）/w 给出/v 了/dg 更/d 高大上/a 的/u 叫法/n ，/w 归纳/v 为/p 三大/n 典型/a 应用/v 场景/n ：/w
+
+
+
+
+由于/c 物联网/n 尤其/d 是/v 互联网/n 汽车/np 等/ng 产业/n 的/u 快速/b 发展/v ，/w 其/r 对/a 网络/n 速度/n 有着/v 更/d 高/a 的/u 要求/n ，/w 这/r 无疑/d 成为/v 推动/v 5/m G网/n 络/ng 发展/v 的/u 重要/a 因素/n 。/w
+
+5/m G/m 很/d 重要/a ，/w 但是/c 4G/n 也/d 很/d 重要/a 。/w ,/w ,/w ,/w ,/w ,/w

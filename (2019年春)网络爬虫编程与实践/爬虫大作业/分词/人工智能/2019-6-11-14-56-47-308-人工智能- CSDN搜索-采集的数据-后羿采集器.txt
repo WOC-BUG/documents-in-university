@@ -1,0 +1,213 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_34290352/article/details/89690702/url ,/w 全书/n 共/d 分为/v 6/m 个/q 章节/n ，/w 6/m 个/q 主题/n ：/w nn/en 人工智能/n 现状/n n/n 人工智能/n 发展/v 历程/n n/n 人工智能/n 对/a 人类/n 有/v 威胁/v 吗/r n/n 人工智能/n 目前/t 的/u 典型/a 应用/v 场景/n n/n 人工智能/n 带来/v 的/u 创新创业/lv 机遇/n n/n 人工智能/n 时代/n 教育/n 与/c 个人/n 发展/v nn/en 用/ng 第一/m 章中/nr 提到/v 的/u Primsa/en 软件/n ，/w 给/v 自家/r 狗/n 拍照/v 后/f 用/ng 生成/v 不同/a 风格/n 的/u 画作/n nnnnnnnnnn/en 素描/n nnnnnnnnnnnnnnn/en 油画/n nnnnnn/en 精彩/a 看点/n n/n 什么/r 是/v 人工智能/n n/n 第/m .../m ,/w https://blog.csdn.net/weixin_34290352/article/details/89690702/url ,/w ,/w weixin/en _/0 34290352/m ,/w 2018-03-04/t ,/w //blog.csdn.net/weixin_34290352/article/details/89690702/url ,/w 21/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 34290352/m 的/u 博客/n ,/w 2018年03月04日 22:19:00/t ,/w 转/q 人工智能/n
+
+
+
+2018年03月04日 22:19:00/t
+weixin/en _/0 34290352/m
+阅读/v 数/m ：/w 22/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+/0
+
+
+全书/n 共/d 分为/v 6/m 个/q 章节/n ，/w 6/m 个/q 主题/n ：/w
+人工智能/n 现状/n
+人工智能/n 发展/v 历程/n
+人工智能/n 对/a 人类/n 有/v 威胁/v 吗/r
+人工智能/n 目前/t 的/u 典型/a 应用/v 场景/n
+人工智能/n 带来/v 的/u 创新创业/lv 机遇/n
+人工智能/n 时代/n 教育/n 与/c 个人/n 发展/v
+用/ng 第一/m 章中/nr 提到/v 的/u Primsa/en 软件/n ，/w 给/v 自家/r 狗/n 拍照/v 后/f 用/ng 生成/v 不同/a 风格/n 的/u 画作/n
+
+
+/0
+
+
+
+
+
+
+素描/n
+
+
+
+
+
+
+
+/0
+
+
+
+
+
+
+油画/n
+
+
+
+
+
+精彩/a 看点/n
+什么/r 是/v 人工智能/n
+第一/m 章/n 最后/f 提到/v 了/dg 人工智能/n 的/u 5/m 种/ng 定义/n ：/w
+AI/n 就是/n 让/v 人/n 觉得/v 不可思议/iv 的/u 计算机程序/ln
+AI/n 就是/n 与/c 人类/n 思考/v 方式/n 相似/a 的/u 计算机程序/ln
+AI/n 就是/n 与/c 人类/n 行为/n 相似/a 的/u 计算机程序/ln
+AI/n 就是/n 会/n 学习/v 的/u 计算机程序/ln
+AI/n 就是/n 根据/n 对/a 环境/n 的/u 感知/v ，/w 做出/v 合理/a 的/u 行动/v ，/w 并/c 获得/v 最大/a 收益/n 的/u 计算机程序/ln
+
+
+
+
+其中/r ，/w 第二/m 种/ng 定义/n 被/ng 作者/n 明确/a 否决/v ，/w 因为/c 目前/t 人类/n 自己/r 对/a 自己/r 大脑/n 的/u 工作/n 机理/n 认知/v 尚/ag 浅/a ；/w 第四/m 种/ng 定义/n 则/c 反应/n 了/dg 当前/t 的/u AI/n 技术/n 趋势/n ——/w 机器/np 学习/v 。/w 我/r 个人/n 更/d 喜欢/v 最后/f 一个/mq 定义/n ：/w 根据/n 对/a 环境/n 的/u 感知/v ，/w 作出/v 合理/a 的/u 行动/v ，/w 并/c 获得/v 最大/a 收益/n ，/w 这个/r 定义/n 也/d 可用/a 于日常/nr 生活/n 中/f ，/w 当然/b ，/w 合理/a 的/u 行动/v 要/v 在/d 法律/n 和道德允/nr 许/u 的/u 范围/n 内/f 。/w
+不同/a 的/u 角度/n 看/u AI/n 会/n 得到/v 不同/a 的/u 定义/n ，/w 不同/a 的/u 定义/n 会/n 导致/v 不同/a 的/u 研究方向/n 。/w 在/d 《/w 纯粹/a 经济学/n 》/w 的/u 序言/n 中/f 提到/v ，/w 不同/a 的/u 经济/n 理论/n 造就/n 不同/a 的/u 经济/n 制度/n ，/w 进而/c 造就/n 不同/a 的/u 经济社会/ln 后果/n 。/w 所以/c ，/w 在/d 生活/n 、/w 工作/n 中/f ，/w 一个/mq 好/a 的/u 引导/v 理论/n 是/v 十分/d 必要/a 的/u 。/w 这里/r 顺道/v 给/v 大家/r 安利/nz 一/m 篇文章/n ——/w 如何/r 用/ng 一/m 种/ng 思维/n ，/w 解决/v 人生/n 99%/m 的/u 困惑/a ，/w 文章/n 中/f 提到/v 了/dg 定义/n 式/k 思维/n 。/w 定义/n 的/u 过程/n ，/w 本质/n 上/f 是在/n 回答/v 一个/mq 事物/n 是/v 什么/r ，/w 不是/n 什么的/r 过程/n ，/w 是/v 建立/v 事物/n 的/u 边界/n ，/w 锁定/v 事物/n 本质/n 特征/n 的/u 过程/n 。/w 多数/n 事情/n 搞/v 不定/d 是/v 因为/c 人/n 对/a 事情/n 的/u 定义/n 不/d 清晰/a 导致/v 的/u 。/w
+人工智能/n 简史/n
+本章/r 对/a 人工智能/n 的/u 历史/n 作/ng 了/dg 简单/a 梳理/v ，/w 用书/n 中/f 的/u 一/m 张/ng 图片/n 概括/a 就是/n ：/w
+
+
+/0
+
+
+
+
+
+
+/0
+
+
+
+
+
+
+
+
+
+人们/n 对于/p 人工智能/n 的/u 认识/n 可谓/v 一波三折/iv ，/w 先是/d 被/ng AI/n 技术/n 在/d 某些/r 领域/n 的/u 惊艳/v 表现/v 震撼/v 到/ng ，/w 进而/c 对/a AI/n 抱有/v 很/d 高/a 的/u 心理/n 预期/b ，/w 然后/c 认识/n 到/ng 其/r 局限性/n ，/w 导致/v 巨大/a 的/u 心理/n 落差/n 。/w 这/r 有点儿/d 像/n 《/w 三/m 体/k Ⅱ/0 ：/w 黑暗/a 森林/n 》/w 中/f ，/w 在/d 三/m 体/k 入侵/v 舰队/nc 毁灭/v 人类/n 太空/s 舰队/nc 后/f ，/w 罗辑/nr 的/u 待遇/n 。/w 主角/n 罗/n 辑/q 先是/d 被/ng 寄予/v 拯救/v 人类/n 的/u 厚望/n 而/c 被/ng 抬/v 上/f 神坛/n ，/w 但/c 并未/d 能/ng 给/v 到/ng 民众/n 一个/mq 符合/v 预期/b 的/u 计划/n 而/c 又/d 惨遭/v 唾弃/v 。/w 其实/d ，/w 现实/a 生活/n 中/f 也/d 是/v 如此/r ，/w 所谓/b 希望/n 越/d 大/a ，/w 失望/a 越/d 大/a 。/w
+/0
+
+
+/0 高德/nz 纳/ng 技术成熟/n 度/k 曲线/n ：/w
+
+
+
+
+
+
+/0
+
+
+
+
+
+但/c ，/w 本书/r 作者/n 看好/v 第三/m 次/a 也就是/n 当前/t 我们/r 正在/n 经历/n 的/u AI/n 热潮/n ，/w 一句话/n 概括/a 原因/n 就是/n ，/w 本次/r AI/n 热潮/n 有/v 商业/n 需求/n 推动/v 且/c AI/n 被/ng 用于/v 解决/v 具体/a 场景/n 中/f 的/u 实际/a 问题/n （/w 如/c ：/w 自动/b 驾驶/v ，/w 语音/n 识别/v 等/ng ）/w 。/w 在/d 本章/r 末/f ，/w 书/n 中用/n 通俗/a 易懂/a 的话/u 对/a 深度/n 学习/v 和/c 大数据/n 与/c 人工智能/n 的/u 关系/n 做/v 了/dg 详尽/a 的/u 阐述/v ，/w 正是/v 深度/n 学习/v 与/c 大数据/n 携手/v 早就/d 了/dg 第三/m 次/a AI/n 热潮/n ，/w 读后/n 受益匪浅/lv 。/w
+人工智能/n 会/n 威胁/v 到/ng 人类/n 吗/r
+先科/nz 普/ag 三个/n 概念/n ：/w
+弱/a 人工智能/n 也/d 称/ag 限制/v 领域/n 人工智能/n 或/c 应用型/n 人工智能/n ，/w 指/ng 的/u 是/v 专注/a 于/ng 且/c 只能/v 解决/v 特定/b 领域/n 问题/n 的/u 人工智能/n ，/w 也/d 是/v 当前/t 人工智能/n 所/n 处/nc 的/u 阶段/n 。/w
+强人/n 工智/nz 能/ng 又称/n 通用型/nz 人工智能/n 或/c 完全/a 人工智能/n ，/w 指/ng 的/u 是/v 可以/a 胜任/v 人类/n 所有/b 工作/n 的/u 人工智能/n 。/w
+超人/n 工智/nz 能/ng 计算机程序/ln 通过/p 不断/d 发展/v ，/w 可以/a 比/p 世界/n 上/f 最/d 聪明/a 、/w 最/d 有/v 天赋/n 的/u 人类/n 还/d 聪明/a ，/w 那么/c ，/w 由此/d 产生/v 的/u 人工智能/n 系统/a 就/d 可以/a 被/ng 称为/v 超人/n 工智/nz 能/ng 。/w
+
+
+
+
+第三章/n 通过/p 两/m 篇文章/n ——/w 的/u 一个/mq 故意/b 不通/a 过/d 图灵/n 测试/v 的/u 人工智能/n 和/c AI/n 只是/c 人类/n 的/u 工具/n ：/w 专访/n 杰/ag 瑞/ag ·/w 卡普兰/nr 来/u 引出/v 两/m 种/ng 截然/d 相反/v 的/u 观点/n ：/w
+AI/n 快要/d 毁灭/v 人类/n 了/dg
+人类/n 离/ng 威胁/v 还/d 相当/d 遥远/a
+
+
+
+
+书/n 中/f 提到/v 第一/m 种/ng 观点/n 的/u 持有者/n 霍金/nr 和埃隆/nr ·/w 马斯克/nr 公开/a 发表/v 了/dg 对于/p 人工智能/n 发展/v 的/u 担忧/v ，/w 同时/c 赞扬/v 二/m 位/q 不是/n 悲观/a 的/u 担忧/v ，/w 而是/n 积极行动/n 来/u 预防/v 人工智能/n 对/a 人类/n 可能/a 造成/v 的/u 威胁/v 。/w
+我/r 不/d 认同/v 蒂/ng 姆/ng 在/d 人工智能/n 发展/v 上/f 的/u 观点/n ，/w 但/c 我/r 认可/v 他/r 的/u 两/m 句/q 话/n ：/w
+指数/n 级/n 增长/v 的/u 开端/n 可能/a 像/n 蜗牛/n 漫步/v ，/w 但是/c 后期/t 会/n 跑/ng 得/e 非常/b 快/a
+软件/n 的/u 发展/v 可能/a 看起来/v 很/d 缓慢/a ，/w 但是/c 一次/mq 顿悟/v ，/w 就/d 能/ng 永远/b 改变/v 进步/a 的/u 速度/n
+
+
+
+
+作者/n 自己/r 则/c 持/v 第二/m 种/ng 态度/n ，/w 现在/t 还/d 远/a 没/d 到/ng 必须/d 分散/a 精力/n 去/v 担心/v 未来/t ，/w 或/c 为/p 可能/a 的/u 机器/np 威胁/v 做/v 准备/v 的/u 地步/n 。/w 第一/m 种/ng 观点/n 建立/v 在/d 技术/n 人类/n 科技/n 总是/d 以/p 加速度/n 形式/n 跃进/v 的/u 基础/n 上/f 。/w 在/d 这个/r 基础/n 上进/a 行/a 推导/v ，/w 会/n 得出/v ：/w
+
+一个/mq 人工智能/n 系统/a 花/a 了/dg 几十/mq 年时/n 间/f 达到/v 了/dg 人类/n 脑残/v 智障/n 的/u 水平/n ，/w 而/c 当/ag 这个/r 节点/n 发生/v 的/u 时候/n ，/w 电脑/np 对于/p 世界/n 的/u 感知/v 大概/b 和/c 一个/mq 4/m 岁/q 小孩/n 一般/a ；/w 而/c 在/d 这个/r 节点/n 后/f 一小/j 时/n ，/w 电脑/np 立马/d 推导/v 出/q 了/dg 统一/a 广义相对论/n 和/c 量子力学/ln 的/u 物理学/n 理论/n ；/w 而/c 在/d 这/r 之后/f 一个/mq 半/m 小时/n ，/w 这个/r 强人/n 工智/nz 能/ng 变成/v 了/dg 超人/n 工智/nz 能/ng ，/w 智能/n 达到/v 了/dg 普通人/n 类/n 的/u 17万/m 倍/d 。/w
+
+
+
+
+
+而/c 作者/n 则/c 认为/v ，/w 特定/b 技术/n 如/c 人工智能/n ，/w 在/d 一/m 段/n 时间/n 的/u 加速/v 发展/v 后/f ，/w 会/n 遇到/v 某些/r 难以/d 逾越/v 的/u 技术/n 瓶颈/n 。/w 从/p 技术/n 角度/n 来说/u ，/w 从/p 弱/a 人工智能/n 到/ng 强人/n 工智/nz 能/ng 之间/f 的/u 鸿沟/n 可能/a 比/p 我们/r 想象/v 的/u 要/v 大/a 得/e 多/a 。/w 而且/c ，/w 由于/c 基础科学/n （/w 如/c 物理学/n 和/c 生物学/n ）/w 尚/ag 缺乏/v 对/a 人类/n 智慧/n 和/c 意识/n 的/u 精确/a 描述/v ，/w 从/p 弱/a 人工智能/n 发展/v 到/ng 强人/n 工智/nz 能/ng ，/w 期间/f 有/v 很大/a 概率/n 存在/v 短期/b 内难/n 以/p 解决/v 的/u 技术/n 难题/n 。/w
+
+我们/r 所/n 面对/v 的/u ，/w 只不过/d 是/v 一些/mq 列/n 工程设计/n 上/f 的/u 问题/n 。/w 我们/r 必须/d 确保/v 我们/r 设计制造/n 的/u 产品/n 和服/n 务/dg 符合/v 我们/r 的/u 愿望/n 和/c 预期/b 。/w 你/r 知道/v ，/w 这件/mq 事/n 与/c 桥梁/n 工程师/nx 们/k 使用/v 一整套/b 质量/n 保障/v 方案/n 来/u 确保/v 他们/r 建造/v 的/u 桥梁/n 不会/v 坍塌/v 没有/d 什么/r 两样/mq 。/w 我们/r 有/v 许多/mq 工程学/n 上/f 的/u 原则/n ，/w 来/u 指导/v 我们/r 测试/v 一个/mq 系统/a ，/w 什么样/r 的/u 系统/a 是/v 合格/a 的/u ，/w 什么样/r 的/u 系统/a 是/v 足够/v 安全/a 的/u ，/w 等等/u 。/w 在/d 人工智能/n 领域/n ，/w 我们/r 同样/b 需要/n 这样/r 的/u 技术/n ，/w 因为/c 人工智能/n 十分/d 强大/a ，/w 具有/v 潜在/b 的/u 危险性/n 。/w 但/c 这/r 并/c 不是/n 因为/c 智能机/n 器/k 会/n 像/n 人类/n 一样/a 思考/v ，/w 只是/c 因为/c 它们/r 十分/d 强大/a ，/w 我们/r 必须/d 小心/a 使用/v 它们/r 。/w
+
+
+
+
+
+华盛顿/ns 计算机/np 科学家/n 奥/ag 伦/ng 伊兹奥尼/nr 则/c 表示/v ：/w
+
+“/w 今天/t 的/u 人工智能/n 发展/v ，/w 距离/n 人们/n 可能/a 或/c 应该/v 担忧/v 机器/np 统治/v 世界/n 的/u 成都/ns ，/w 还/d 非常/b 遥远/a ....../m 如果/c 我们/r 讨论/v 的/u 是/v 一千/m 年后/t 或/c 更/d 遥远/a 的/u 未来/t ，/w AI/n 是否/v 有/v 可能/a 给/v 人/n 来/u 带来/v 厄运/n ？/w 绝对/a 是/v 可能/a 的/u ，/w 但/c 我/r 不/d 认为/v 这种/r 长期/n 的/u 讨论/v 应该/v 分散/a 我们/r 关注/v 真实/a 问题/n 的/u 注意力/n 。/w ”/w
+
+
+
+
+
+今天/t 的/u 人工智能/n 在/d 跨/ng 领域/n 推理/v 、/w 抽象/a 能力/n 、/w 知其然/l 也/d 知其所以然/l 、/w 常识/n 、/w 审美/v 、/w 情感/n 、/w 自我/r 意识/n 七/m 个/q 领域/n 还/d 很/d “/w 稚嫩/a ”/w 。/w 但/c 若/c ，/w 人工智能/n 拥有/v 了/dg 自我/r 意识/n 或/c 情感/n 后/f 会/n 是/v 怎样/r 的/u 一/m 幅/ng 场景/n ？/w 届时/d AI/n 将/d 不再/d 是/v 冷冰冰/z 的/u 机器/np ，/w 电影/n 黑客帝国/n 就是/n 讲述/v 人类/n 反抗/v 具有/v 自我/r 意识/n 的/u 机器/np 的/u 暴政/n 的/u 故事/n ；/w 电影人/n 工智/nz 能/ng 则/c 讲述/v 了/dg 具有/v 情感/n 的/u 机器人/n 融入/v 人类/n 家庭/n 的/u 故事/n 。/w
+应该/v 说/ag ，/w 可/v 预见/n 的/u 未来/t AI/n 对于/p 人类/n 的/u 威胁/v 主要/b 在于/v 失业/v 问题/n 。/w 在/d 第四章/nz 及第/v 六/m 章中/nr ，/w 均/ag 对于/p 人工智能/n 可能/a 带来/v 的/u 失业/v 问题/n 做/v 了/dg 相关/v 的/u 论述/v 。/w
+五/m 秒钟/q 准则/n 在/d 判断/n 一/m 项/ng 工作/n 是否/v 会/n 被/ng 人工智能/n 取代/v 问题/n 上/f ，/w 作者/n 李开复/nr 提出/v 五/m 秒钟/q 准则/n ：/w
+
+一/m 项/ng 本来/b 有人/r 从事/v 的/u 工作/n ，/w 如果/c 人/n 可以/a 在/d 5/m 秒钟/q 以内/f 对/a 工作/n 中/f 需要/n 思考/v 和/c 决策/n 的/u 问题/n 做出/v 相应/v 的/u 决定/n ，/w 那么/c ，/w 这项/r 工作/n 就/d 有/v 非常/b 大/a 的/u 可能/a 被/ng 人工智能/n 技术/n 全部/mq 或/c 部分/n 取代/v 。/w
+
+
+
+
+
+按照/p 这个/r 标准/a ，/w 交易员/n ，/w 司机/n 等/ng 职位/n 会/n 被/ng 人工智能/n 取代/v 。/w 但/c 作者/n 也/d 明确/a 表示/v ，/w 五/m 秒钟/q 准则/n 只是/c 个/q 经验/n 法则/n ，/w 如/c ，/w 护理/v 工作/n ，/w 很少/mq 有/v 复杂/a 的/u 决策/n 过程/n ，/w 但/c 它/r 很/d 难/a 被/ng 机器/np 取代/v ，/w 因为/c 这项/r 工作/n 需要/n 较/d 多/a 的/u 人/n 与/c 人/n 之间/f 的/u 交流/v 。/w 但/c ，/w 收银/v 、/w 银行/nc 柜台/n 这些/r 也/d 需/ng 与/c 顾客/n 交流/v 的/u 工作/n 却/d 有/v 被/ng 替代/v 的/u 趋势/n ，/w 我/r 觉着/v 在/d 判断/n 人工智能/n 是否/v 可以/a 替代/v 某/r 项/ng 工作/n 时/n ，/w 还/d 应/ng 结合/v 替代/v 的/u 经济/n 成本/n 这个/r 维度/n 加以/v 考虑/v 。/w
+作者/n 认为/v ，/w 将来/t 大部分/n 工作/n 只是/c 工作内容/n 发生/v 转换/v 而/c 非/d 消失/v 。/w 在/d 未来/t 10/m 年/n 里/f ，/w 至少/d 有/v 一半/m 的/u 人/n 需要/n 关系/n 自己/r 的/u 工作/n 与/c 人工智能/n 的/u 关系/n ，/w 需要/n 在/d 未来/t 的/u 人机/n 写作/v 模式/n 中/f ，/w 找到/v 自己/r 的/u 新/a 位置/n 。/w
+漫漫/z 千年/n 人类/n 文明史/n ，/w 因/c 科技/n 进步/a 而/c 造成/v 的/u 社会/n 格局/n 、/w 经济/n 结构/n 的/u 调整/v 、/w 变革/v 、/w 阵痛/v 乃至/c 暂时/d 的/u 倒退/v 都/d 屡见不鲜/iv 。/w 但/c ，/w 从/p 全局/n 视角/n 看/u ，/w 历史/n 上/f 还/d 没有/d 哪/r 次/a 科技/n 革命/a 成为/v 人类/n 灾难/n 而/c 不是/n 福音/n 。/w
+书/n 中/f 第四章/nz 最后/f ，/w 还/d 对/a AI/n 可能/a 对/a 人类/n 社会/n 产生/v 的/u 影响/v 与/c 变革/v 做/v 了/dg 简要/a 论述/v 。/w
+AI/n 时代/n 的/u 教育/n 与/c 个人/n 发展/v
+本书/r 最后/f ，/w 对于/p AI/n 时代/n 教育体系/n 应该/v 做/v 怎样/r 的/u 变革/v 和/c 个人/n 的/u 发展/v 问题/n 做/v 了/dg 论述/v 。/w 怎样/r 学/k 比/p 学/k 什么/r 重要/a ，/w 作者/n 还/d 推荐/v 了/dg 几/m 种/ng 学习方法/n ，/w 如/c ：/w
+主动/a 挑战/v 极限/n
+向/p 机器/np 学习/v
+启发式/b 教育/n
+学习/v 要/v 追随/v 兴趣/n
+....../m
+
+
+
+
+个人/n 感觉/n 这些/r 有点儿/d 形而上/a ，/w 说/ag 到/ng 学习方法/n ，/w 我/r 正在/n 看/u 一本/nz 书/n ——/w 《/w 如何/r 高效/b 学习/v 》/w ，/w 该书/r 提到/v 了/dg 整体性/n 学习/v ，/w 由于/c 目前/t 尚未/d 完成/v 该书/r 的/u 阅读/v ，/w 更为/d 能/ng 实践/v 书/n 中/f 的/u 学习方法/n ，/w 所以/c 不/d 做/v 过多/a 的/u 介绍/v 。/w 若/c 有/v 兴趣/n ，/w 大家/r 可以/a 自行/b 翻阅/v 。/w
+若/c AI/n 可以/a 胜任/v 绝大多数/n 人类/n 工作/n ，/w 那么/c 人/n 还有/v 存在/v 的/u 意义/n 吗/r ？/w 答案/n 是/v ，/w 不要/df 停止/v 思考/v 。/w 黑客帝国/n 里面/f ，/w 第一/m 代/n 在/d 设计/v 第一/m 代/n 母体/n 时/n ，/w 模拟/v 出/q 的/u 人类/n 生存/v 环境/n 是/v 一个/mq 极乐/n 园/ng ，/w 结果/c 培养皿/n 中/f 的/u 人类/n 因为/c 大脑/n 无需/v 对/a 周围/f 环境/n 进行/v 分析/v ，/w 进而/c 做出/v 对/a 最/d 优选/v 择/v 而/c 导致/v 大量/mq 死亡/v 。/w 大脑/n 一旦/d 停止/v 思考/v ，/w 人/n 也/d 就/d 失去/v 了/dg 为人/v 的/u 意义/n 。/w
+结语/n
+本书/r 有/v 创新/v 工厂/nc 创始人/n 李开复/nr 和王咏刚合/nr 着/n ，/w 李开复/nr 在/d 人工智能/n 领域/n 深耕/v 多年/n ，/w 颇/d 有/v 造诣/n ；/w 王咏刚/nr 则/c 是/v IT/n 行业/n 的/u 大牛/nz 。/w 全书/n 通俗/a 易懂/a 而/c 又/d 不失/v 专业/a 水准/n ，/w 通篇/n 没有/d 晦涩/a 的/u 专业/a 术语/n 和/c 枯燥/a 的/u 数学/n 公式/n ，/w 是/v 科普/b 人工智能/n 的/u 优秀/a 读物/n ，/w 值得/v 一/m 读/ng 。/w
+推荐/v 阅读/v
+一个/mq 故意/b 不通/a 过/d 图灵/n 测试/v 的/u 人工智能/n AI/n 只是/c 人类/n 的/u 工具/n ：/w 专访/n 杰/ag 瑞/ag ·/w 卡普兰/nr 10/m 个/q 机器/np 学习/v 的/u JavaScript/n 示例/n 如何/r 用/ng 一/m 种/ng 思维/n ，/w 解决/v 人生/n 99%/m 的/u 困惑/a
+书籍推荐/n
+《/w 人工智能/n 》/w 《/w 大数据/n 时代/n 》/w
+影视/b 推荐/v
+《/w 黑客帝国/n 》/w 三部曲/n 《/w 人工智能/n 》/w 《/w 异/ag 次/a 元/q 骇客/n 》/w 《/w 机器人/n 总动员/v 》/w
+文章/n 较/d 长/a ，/w 文笔/n 较/d 烂/a ，/w 能/ng 读/ng 到/ng 最后/f 哥们/n 对/a 你/r 表示/v 佩服/v 和同/nz 情/n ，/w ：/w )/w 。/w
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n
+本文/r 为/p 作者/n 原创/n ，/w 版权/n 归/ng 作者/n 雪/n 飞鸿/n 所有/b 。/w 转载/v 必须/d 保留/v 文章/n 的/u 完整性/n ，/w 且/c 在/d 页面/n 明显/a 位置/n 处/nc 标明/v 原文/n 链接/n 。/w
+如/c 有/v 问题/n ，/w 请/v 发送/v 邮件/n 和/c 作者/n 联系/v 。/w

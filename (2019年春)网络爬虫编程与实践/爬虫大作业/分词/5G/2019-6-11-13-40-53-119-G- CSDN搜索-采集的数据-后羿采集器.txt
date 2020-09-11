@@ -1,0 +1,16 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 学习/v ,/w n/en n/en n/en 1./m 什么/r 是/v 5/m G/en 5/m G/m 就是/n 第五/m 代通信技/nr 术/ng ，/w 主要/b 特点/n 是/v 超宽/n 带/ng 、/w 毫米/q 级/n 波长/n 、/w 超高速/b 度/k 、/w 超低/h 延时/v 。/w nnnnn/en n/en n/en n/n 波长/n 频率计/nz 算/d 公式/n nnnnn/en 电磁波/n 波长/n &/0 频率计/nz 算/d 公式/n n/n 频率/n ：/w 数字/n 信号/n 的/u 传输/v ，/w 受限/v 于载/nr 频频/d 率/ag 在/d 单位/n 时间/n 内/f 可变/v 化/k 次数/n ，/w 频率/n 越/d 高/a ，/w 单位/n 时间/n 内/f 可变/v 换/v 次数/n 越多/nz 。/w 波长/n ：nnnn.../url ,/w weixin/en _/0 33708432/m ,/w https://blog.csdn.net/weixin_33708432/article/details/87670371/url ,/w 2018-10-15/t ,/w 51/m 次/a 阅读/v ,/w 5/m G/m 学习/v -/w weixin/en _/0 33708432/m 的/u 博客/n ,/w 2018年10月15日 10:23:00/t ,/w 1./m 什么/r 是/v 5/m G/en 5/m G/m 就是/n 第五/m 代通信技/nr 术/ng ，/w 主要/b 特点/n 是/v 超宽/n 带/ng 、/w 毫米/q 级/n 波长/n 、/w 超高速/b 度/k 、/w 超低/h 延时/v 。/w
+
+
+
+
+
+
+
+波长/n 频率计/nz 算/d 公式/n
+
+
+
+
+电磁波/n 波长/n &/0 频率计/nz 算/d 公式/n
+频率/n ：/w 数字/n 信号/n 的/u 传输/v ，/w 受限/v 于载/nr 频频/d 率/ag 在/d 单位/n 时间/n 内/f 可变/v 化/k 次数/n ，/w 频率/n 越/d 高/a ，/w 单位/n 时间/n 内/f 可变/v 换/v 次数/n 越多/nz 。/w 波长/n ：/w ,/w ,/w ,/w ,/w ,/w

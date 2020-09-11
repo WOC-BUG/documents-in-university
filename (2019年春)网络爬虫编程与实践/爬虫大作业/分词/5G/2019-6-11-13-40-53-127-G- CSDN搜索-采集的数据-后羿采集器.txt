@@ -1,0 +1,123 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en &/0 OTN/en ,/w Machine/en Type/en Communications/en @/w 3/m GPP/en Rel/en 10/m
+
+BarrowBand/en 5/m g/en with/en LTE/en IoT/en 2016/m
+
+LTE/en IoT/en to/en Massive/en IoT/en 2017/m
+
+LTE/en IoT/en to/en Massive/en IoT/en 2018/m
+
+5/m G/m
+
+
+
+
+
+5/m G/en Ra/en .../m ,/w weixin/en _/0 33980459/m ,/w https://blog.csdn.net/weixin_33980459/article/details/91273366/url ,/w 2019-03-13/t ,/w 2/m 次/a 阅读/v ,/w 5/m G/en &/0 OTN/en -/w weixin/en _/0 33980459/m 的/u 博客/n ,/w 2019年03月13日 11:18:00/t ,/w 3/m GPP/en ：/w The/en Mobile/en Broadband/en Standard./url
+
+Machine/en Type/en Communications/en @/w 3/m GPP/en Rel/en 10/m
+
+BarrowBand/en 5/m g/en with/en LTE/en IoT/en 2016/m
+
+LTE/en IoT/en to/en Massive/en IoT/en 2017/m
+
+LTE/en IoT/en to/en Massive/en IoT/en 2018/m
+5/m G/m
+
+
+
+
+
+5/m G/en Radio/en Access/en architecture/en
+
+SA/en :/w Standalone/en ,/w NSA/en :/w Non/en -/w Standalone/en
+
+5/m G/en NR/en :/w New/en Radio./url
+5/m G/en 一展/v 拳脚/n 的/u 三大/n 场景/n
+eMBB/en ：/w Enhanced/en Mobile/en Broadband/en 增强/v 移动/v 宽带/n
+
+Refer/en to/en using/en 5/m G/en as/en an/en evolution/en to/en 4/m G/en LTE/en mobile/en broadband/en services/en with/en faster/en connections/en ,/w higher/en throughput/en ,/w and/en more/en capacity./url
+The/en initial/en phase/en of/en 5/m G/en Non/en -/w Standalone/en (/w NSA/en )/w deployments/en focuses/en on/en eMBB/en ,/w which/en provides/en greater/en data/en -/w bandwidth/en complemented/en by/en moderate/en latency/en improvements/en on/en both/en 5/m G/en NR/en and/en 4/m G/en LTE/en ./m This/en will/en help/en to/en develop/en today/en ’/w s/en mobile/en broadband/en use/en cases/en such/en as/en emerging/en AR/en //w VR/en media/en and/en applications/en ,/w UltraHD/en or/en 360-/t degree/en streaming/en video/en and/en many/en more/en ./m
+
+URLLC/en ：/w Ultra/en Reliable/en Low/en Latency/en Communications/en
+
+refer/en to/en using/en the/en network/en for/en mission/en critical/en applications/en that/en requires/en uninterrupted/en and/en robust/en data/en exchange./url
+
+mMTC/en ：/w Massive/en Machine/en Type/en Communications/en 海量/n 机器/np 连接/v
+
+refers/en to/en the/en type/en of/en usage/en that/en connect/en to/en large/en number/en of/en low/en power/en ,/w low/en cost/en device/en in/en a/en wide/en area/en (/w LPWA/en )/w which/en have/en high/en requirements/en on/en scalability/en and/en increased/en battery/en lifetime./url
+
+LTE/en IoT/en
+massive/en IoT/en ?/w
+at/en least/en 1/m M/en devices/en per/en km/en 2./m
+simplest/en devices/en that/en communicate/en infrequently/en ;/w ultra/en -/w energy/en efficient/en (/w 10/m +/0 year/en battery/en life/en )/w ./m
+
+NB/en -/w IoT/en :/w Narrowband/en IoT/en ./m (/w M/en 2/m M/en )/w
+meters/en and/en sensors./url
+
+eMTC/en :/w enhanced/en Machine/en Type/en Communication./url
+
+AI/n （/w Artificial/en Intelligence/en ）/w
+
+ADAS/en ：/w Advanced/en driver/en -/w assistance/en systems/en
+
+AR/en //w VR/n ：/w
+Virtual/en Reality./url
+Augmented/en reality/en :/w an/en application/en of/en virtual/en reality/en in/en the/en real/en world./url Mixed/en reality/en //w hybrid/en reality/en //w Computer/en -/w mediated/en reality./url
+Qi/en
+An/en open/en interface/en standard/en that/en defines/en wireless/en power/en transfer/en ,/w developed/en by/en the/en Wireless/en Power/en Consortium./url
+
+
+
+
+
+Qi/en
+
+
+
+
+
+
+PRx/en -/w a/en power/en receiver/en &/0 PTx/en -/w a/en power/en transmitter/en
+
+
+
+
+
+
+Generic/en block/en diagram/en of/en a/en wireless/en power/en system/en
+
+
+
+
+
+
+Generic/en block/en diagram/en of/en an/en inductive/en wireless/en power/en system/en
+
+
+
+
+
+
+终端/n 侧/f 人工智能/n
+
+
+
+
+
+
+Evolution/en of/en cellular/en networks/en supporting/en IoT/en tracffic/en growth/en
+
+
+
+
+
+
+scalability/en ,/w coverage/en ,/w availability/en ,/w latency/en ,/w interoperability/en ,/w and/en security/en
+
+
+OTN/en :/w Optical/en Transport/en Network/en
+
+IMS/en :/w IP/en Multimedia/en Subsystem/en
+
+转载/v 于/ng :https://www.jianshu.com/p/1526d79d6adc/url ,/w ,/w ,/w ,/w ,/w

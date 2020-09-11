@@ -1,0 +1,76 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G名词术语,5GC                         5G Core Network                                              5G核心网nn5QI                           5G QoS Identifier                                             5G服务质量标识nnAM...,xunye_dream,https://blog.csdn.net/xunye_dream/article/details/82025436,2018-08-24,3097次阅读,5G名词术语 - xunye的博客,2018年08月24日 21:23:54,5GC                         5G Core Network                                              5G核心网
+
+5QI                           5G QoS Identifier                                             5G服务质量标识
+
+AMF                        Access and Mobility Management Function     访问和移动管理功能
+
+CGI                          Cell Global Identifier                                         小区全局标识
+
+CP                            Control Plane                                                   控制面
+
+DRB                         Data Radio Bearer                                            数据无线承载
+
+E-CID                      Enhanced Cell-ID                                               增强小区ID
+
+EP                             Elementary Procedure                                     基本流程
+
+E-RAB                     E-UTRAN Radio Access Bearer                        E-UTRAN无线接入承载
+
+GBR                         Guaranteed Bit Rate                                         保证比特率                                   
+
+GTP                          GPRS Tunnelling Protocol                               GPRS隧道协议                     
+
+GUAMI                   Globally Unique AMF Identifier                           全球唯一的AMF标识符
+
+IE                             Information Element                                          信元
+
+K_AFM_CIK         KAMF Change Indicator                                       
+
+LMF                         Location Management Function                        位置管理功能
+
+N3IWF                    Non 3GPP InterWorking Function
+
+NAS                         Non-Access Stratum                                         非接入层
+
+NGAP                      NG Application Protocol
+
+NRPPa                     NR Positioning Protocol Annex                       NR定位协议附件
+
+NSSAI                     Network Slice Selection Assistance Information   网络切片选择辅助信息
+
+OTDOA                   Observed Time Difference of Arrival
+
+PDCP                       Packet Data Convergence Protocol                 数据包传输协议
+
+PLMN                      Public Land Mobile Network                             公用陆地移动网络
+
+PWS                         Public Warning System                                   公共告警系统
+
+QoS                          Quality of Service                                            服务质量
+
+RAN                         Radio Access Network                                    无线接入网络
+
+RRC                         Radio Resource Control                                  无线资源控制
+
+SCTP                       Stream Control Transmission Protocol            流控制传输协议
+
+SMF                         Session Management Function                       会话管理功能
+
+S-NG-RAN node    Secondary NG-RAN node                                 辅助NG-RAN节点
+
+S-NSSAI                  Single Network Slice Selection Assistance Information     单网络切片选择辅助信息
+
+TAI                          Tracking Area Identity                                      跟踪区域标识
+
+TEID                        Tunnel Endpoint Identifier                               隧道端点标识符
+
+TNL                         Transport Network Layer                                 传输网络层
+
+TNLA                      Transport Network Layer Association              传输网络层协会
+
+UE                            User Equipment                                             用户设备
+
+UP                            User Plane                                                     用户面
+
+UPF                          User Plane Function                                      用户面功能,,,,,

@@ -1,0 +1,82 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n 到底/d 有/v 多/a 火/a ，/w 年薪/n 25 万/m 只是/c 白菜/n 价/n ……/w ,/w https://blog.csdn.net/SzM21C11U68n04vdcLmJ/article/details/78410206/url ,/w 文/n 末/f 有/v 福利/n
+机器/np 学习/v ，/w iOS/en 课程/n ，/w Python/en 课程/n 全部/mq 免费/v 送/v
+
+
+
+
+人工智能/n 到底/d 有/v 多/a 火/a ？/w 近日/t ，/w 一/m 份/n 互联网/n 校/n 招/ng 高薪/n 清单/n 为/p 我们/r 揭晓/v 了/dg 答案/n 。/w 谷歌/nt 中国/ns 、/w 微软/nt 、/w 腾讯/nt 等/ng 知名/a 互联网/n 企业/n 为人/v 工智/nz 能/ng 岗位/n 开出/v 的/u 年薪/n 水平/n 均达/ns 到/ng 了/dg 30 万/m 以上/f 。/w 多个/n 机构/n 的/u 调研/v 数据/n 显示/v ，/w 当前/t 机器/np 学习/v 、/w 深度/n 学习/v 、/w 人工智能/n 等/ng 领域/n 的/u 人才/n 缺口/n 较大/a ，/w 25 万/m 的/u 技术/n 岗位/n 薪酬/n 并/c 没有/d 吸引力/n ，/w 对于/p 算法/n 的/u 岗位/n 而言/u ，/w 年薪/n
+30 万/m 也/d 只是/c 起步/v 。/w ,/w https://blog.csdn.net/SzM21C11U68n04vdcLmJ/article/details/78410206/url ,/w //blog.csdn.net/SzM21C11U68n04vdcLmJ/article/details/78410206/url ,/w ,/w ,/w ,/w ,/w 人工智能/n 到底/d 有/v 多/a 火/a ，/w 年薪/n 25 万/m 只是/c 白菜/n 价/n ……/w -/w 燕/ng 哥/nm 带/ng 你/r 学/k 算法/n ,/w 2017年10月31日 00:00:00/t ,/w 转/q 人工智能/n 到底/d 有/v 多/a 火/a ，/w 年薪/n 25 万/m 只是/c 白菜/n 价/n ……/w
+
+
+
+2017年10月31日 00:00:00/t
+燕/ng 哥/nm 带/ng 你/r 学/k 算法/n
+阅读/v 数/m ：8623/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+文/n 末/f 有/v 福利/n
+机器/np 学习/v ，/w iOS/en 课程/n ，/w Python/en 课程/n 全部/mq 免费/v 送/v
+
+
+
+人工智能/n 到底/d 有/v 多/a 火/a ？/w 近日/t ，/w 一/m 份/n 互联网/n 校/n 招/ng 高薪/n 清单/n 为/p 我们/r 揭晓/v 了/dg 答案/n 。/w 谷歌/nt 中国/ns 、/w 微软/nt 、/w 腾讯/nt 等/ng 知名/a 互联网/n 企业/n 为人/v 工智/nz 能/ng 岗位/n 开出/v 的/u 年薪/n 水平/n 均达/ns 到/ng 了/dg 30 万/m 以上/f 。/w 多个/n 机构/n 的/u 调研/v 数据/n 显示/v ，/w 当前/t 机器/np 学习/v 、/w 深度/n 学习/v 、/w 人工智能/n 等/ng 领域/n 的/u 人才/n 缺口/n 较大/a ，/w 25 万/m 的/u 技术/n 岗位/n 薪酬/n 并/c 没有/d 吸引力/n ，/w 对于/p 算法/n 的/u 岗位/n 而言/u ，/w 年薪/n
+30 万/m 也/d 只是/c 起步/v 。/w
+
+近日/t ，/w 一/m 份/n 2018/m 届/q 互联网/n 校/n 招/ng 高薪/n 清单/n 在/d 网络/n 流传/v ，/w 清单/n 显示/v 了/dg 众多/a 知名/a 互联网/n 企业/n 技术类/n 岗位/n 的/u 年薪/n 水平/n ，/w 动辄/d 30 万/m 以上/f 的/u 出价/v ,/w 引起/v 了/dg 不少/mq 高校/n 应届生/n 的/u 关注/v 。/w 而/c 从/p 拿到/v 这些/r 企业/n offer/en 的/u 同学/nm 反馈/v 来看/u ，/w 这份/mq 清单/n 显示/v 的/u 年薪/n 水平/n 还是/c 比较/d 准确/a 的/u 。/w 另外/c ，/w 今年/t 互联网/n 企业/n 中研/nz 究/d 深度/n 学习/v 、/w 机器/np 学习/v 、/w 人工智能/n 等/ng 岗位/n 比较/d 火热/z ，/w 在/d 他们/r 看来/v ，/w 校/n 招/ng 年薪/n
+25 万/m 人民币/n 只是/c 白菜/n 价/n 。/w
+
+其中包括/n 谷歌/nt 中国/ns 、/w 微软/nt 、/w google/n 、/w 腾讯/nt 、/w 大/a 疆/jns 、/w 海康/nz 、/w 华为/nz 、/w 网易/nt 游戏/n 、/w 阿里巴巴/nz 、/w 滴滴/qq 、/w 百度/nt 、/w 今日/t 头条/n 的/u 知名/a 互联网/n 企业/n ，/w 他们/r 给/v 校/n 招生/v 开出/v 的/u 年薪/n 水平/n 均/ag 在/d 30 万/m 以上/f ，/w 不过/c 提供/v 以上/f 薪资/n 水平/n 的/u 岗位/n 也/d 多/a 为/p 算法/n 工程师/nx 、/w 研发/v 工程师/nx 、/w 软件工程/n 师/n 等/ng 技术性/n 较/d 强/a 的/u 岗位/n 。/w
+其中/r ，/w 谷歌/nt 中国/ns 的/u 人工智能/n 岗位/n 年薪/n 最高/a ，/w 达/ng 56 万/m 元人/n 民/ng 币/ng ，/w 其次/c 是/v 微软/nt 的/u 算法/n 工程师/nx 岗位/n ，/w 年薪/n 51 万/m ，/w 第三/m 是/v 谷歌/nt 的/u 算法/n 工程师/nx 岗位/n ，/w 年薪/n 50 万/m ，/w 排/n 在/d 第四/m 、/w 第五/m 的/u 是/v 腾讯/nt 公司/nc 的/u 基础/n 应用/v 研究/v （/w SSP/en ）/w 岗位/n 和腾讯云/nr 后台/n 研发/v 工程师/nx 岗位/n ，/w 年薪/n 分别/d 是/v 45-50 万/t 、/w 32.4 万/m 。/w 整体/n 来看/u ，/w 算法/n 工程师/nx 岗位/n 最/d 吃香/a 。/w
+多个/n 研究机构/n 近期/t 发布/v 的/u 报告/n 显示/v ，/w 中国/ns 大量/mq 资金/n 正/a 流向/n 人工智能/n ，/w 尤其/d 是/v 与其/c 他/r 行业/n 的/u 应用/v 结合/v ，/w 中国企业/n 在/d 这/r 一/m 层面/n 的/u 融资额/n 已/d 逼近/v 美国/ns 。/w 与此同时/ldm ，/w 中国企业/n 还/d 在/d 人才/n 争夺/v 方面/n 投入/a 重金/n “/w 补足/v ”/w ，/w 并/c 在/d 应用层/n 面/a 与/c 美国/ns 不相上下/iv 后/f ，/w 开始/v 向/p 核心/n 技术/n 领域/n 进发/v 。/w 据/ng 证券市场/n 周刊/n ，/w 2010 年/t 到/ng 2017 年 5/t
+月/n ，/w 中国/ns AI/en 领域/n 共/d 发生/v 2218/m 起/q 投资/n 事件/n ，/w 涉及/v 投资/n 金额/n 达/ng 668.42 亿/m 元人/n 民/ng 币/ng 。/w
+/0  /0 如何/r 选择/n 和/c 学习/v
+说实话/l ，/w 人工智能/n ，/w 机器/np 学习/v ，/w 算法/n 这些/r 东西/n 相比/v 较/d 而言/u 是/v 比较/d 难/a 学/k 的/u ，/w 技术性/n ，/w 研究性/n 比/p 一般/a 应用性/n 的/u 开发/v 更/d 难/a ，/w 更/d 费/n 脑子/n ，/w 学习/v 人工智能/n ，/w 机器/np 学习/v 以及/c 算法/n 我/r 认为/v 不仅仅/d 只/bg 看重/v 它/r 目前/t 的/u 火热/z ，/w 以及/c 薪水/n 待遇/n 高/a 这些/r 外在/b ，/w 要/v 想/v 学好/v 这些/r ，/w 其实/d 更/d 重要/a 的/u 是/v 需要/n 兴趣/n 以及/c 研究型/n 的/u 头脑/n 。/w 兴趣/n 是/v 最好/d 的/u 老师/nx ，/w 如果/c 对/a 算法/n ，/w 机器/np 学习/v 感兴趣/a 这是/n 最好/d 的/u 学习/v 方式/n 。/w
+最近/t 很多/mq 人/n 问/v 我/r ，/w 学习/v Android/en 好/a ，/w 还是/c 读研/v 究/d 生好/nz ，/w 我/r 是/v 去/v 读研/v ，/w 还是/c 去/v 直接/a 实习/v ？/w 说实话/l ，/w 如果/c 你/r 对/a 算法/n ，/w 人工智能/n 感兴趣/a 的话/u ，/w 作为/n 学生/n ，/w 可以/a 考虑/v 读研/v 究/d 生/a ，/w 这/r 对于/p 你/r 视野/n 的/u 提高/v ，/w 学习/v 的/u 深度/n 都/d 很/d 有/v 帮助/v ，/w 可以/a 选择/n 算法/n ，/w 人工智能/n 这个/r 方向/n ，/w 毕竟/d 现在/t 移动端/n 应用开发/n 很/d 饱和/v 。/w 当然/b ，/w 随着/p 越来越/d 火爆/a ，/w 早/a 入/ng 总/b 比/p 晚/a 进来/v 的/u 好/a ，/w 说不定/d 哪/r 天/n 就/d 跟/c 现在/t 的/u 移动/v 开发/v 一样/a 了/dg ，/w 人多/nz 就/d 不值/a 钱/n 了/dg 。/w 但是/c 说实话/l ，/w 人工智能/n 和/c 算法/n 相对/b 来说/u ，/w 门槛/n 还是/c 比较/d 高/a 的/u 。/w
+对于/p 我们/r 已经/d 工作/n 了/dg 的/u 人/n ，/w 如果/c 想/v 学习/v 这方面/mq 的/u 知识/n 该/r 怎么办/r 呢/ng ？/w 如何/r 系统性/n 的/u 学习/v 人工智能/n 、/w 大数据/n 和/c 复杂系统/n 呢/ng ？/w 如何/r 写出/v 一个/mq 人工智能/n 程序/n ？/w 如何/r 成为/v 一名/nz AI/en 工程师/nx 实现/v 华丽/a 变身/v 呢/ng ？/w 其实/d 方式/n 有/v 很多/mq ，/w 比如/v 万/m 门/n 大学/nc 推出/v 《/w 人工智能/n 、/w 大数据/n 与/c 复杂系统/n 一月/t 特训班/n 》/w ，/w 从/p
+Alpha/en —/w GO/en 到/ng 无人/b 驾驶/v ，/w 人工智能/n AI/en 结合/v 大数据/n 发挥/v 出/q 惊人/a 功效/n 的/u 场景/n 越来越/d 多/a 。/w 如何/r 从/p 零/m 开始/v 真正/b 入门/v 这个/r 领域/n ？/w 人工智能/n 、/w 大数据/n 与/c 复杂系统/n 一月/t 特训班/n 可以/a 帮/ng 到/ng 你们/r ！/w
+具体/a 内容/n 如下/v ：/w
+
+本/d 课程/n 分/b 五/m 个部/n 分/b ：/w 人工智能/n 数学基础/n 充电/v ，/w Ipython/en notebook/en 数据挖掘/n 实战/n ，/w 机器/np 学习/v vs/en 复杂系统/n 理论/n 之旅/n ，/w 深度/n 学习/v 编程/v 实战/n ，/w 人工智能/n 产业/n 实战/n 几/m 大板/ns 块/q 。/w 导师/n 有/v 来自/v 世界/n 顶级/a 名校/n 的/u 大拿/n 和/c 知名/a AI/en 创业/v 公司/nc 的/u CTO/en 等/ng 组成/v 。/w
+
+/0  /0 课程/n 导师/n 及/c 顾问团/n
+
+/0  /0 课程/n 目录/n
+
+/0  /0 【/w 适合/v 对象/n 】/w
+1./m 有/v 一定/b 数学/n 或/c 编程/v 基础/n ，/w 想/v 学习/v 和/c 了解/v 人工智能/n 的/u 学习者/n 。/w
+2./m 计算机/np 相关/v 专业/a ，/w 未来/t 向/p 人工智能/n 领域/n 方向/n 发展/v 。/w
+3./m 其他/r 理工/n 背景/n ，/w 想/v 转型/v 人工智能/n 领域/n 。/w
+
+4./m 希望/n 从/p 0/m 到/ng 1/m ，/w 有志于/v 进入/v 智能/n 领域/n 的/u 学习者/n 。/w
+/0  /0 【/w FAQ/en 】/w
+Q/en 1/m :/w 学习/v 这/r 门/n 课程/n 需要/n 什么/r 预备/v 知识/n ？/w
+A/b ：/w 课程/n 会/n 讲解/v 需要/n 的/u 数学/n 和/c Python/en 编程/v 的/u 基础知识/n ，/w 没有/d 基础知识/n 也/d 不用/d 担心/v ，/w 现在/t 报名/v 即/c 赠送/v 万/m 门/n 大学/nc 系统学/n 习/ng 课程/n 《/w 高等/b 数学/n 特训班/n 》/w 、/w 《/w 线性代数/n 两日/t 特训班/n 》/w 、/w 《/w 三小/j 时变/n 身/ng Python/en 极/d 客/n 》/w ，/w 用来/v 夯实/v 基础/n 。/w
+Q/en 2/m :/w 学习/v 过程/n 中/f 问题/n 如何/r 解答/v ？/w
+A/b ：/w 拥有/v 专属/b 学习/v 社群/n ，/w 相关/v 问题/n 随时/d 可以/a 在/d 群/n 里/f 交流/v 问答/v 。/w
+Q/en 3/m ：/w 课程/n 怎么/r 收费/v ？/w
+A/b ：/w 人工智能/n 、/w 大数据/n 与/c 复杂系统/n 一月/t 特训班/n 原价/n 3998/m 元/q ，/w 前/f 100/m 名/n 享受/v 8/m 折/ng 优惠价/n */w */w 3199/m 元/q */w */w ，/w 名额有限/n ，/w 先/d 到/ng 先得/nz ！/w
+Q/en 4/m ：/w 都/d 有/v 什么/r 人/n 报名/v 你们/r 的/u 课/n 了/dg ？/w
+A/b ：/w 报名/v 我们/r 的/u 课程/n 的/u 学院/nc 有/v 来自/v 各/r 大/a 高校/n 的/u ：/w 清华/nt 、/w 北大/nt 、/w 中科院/nt 、/w 港科大/nt 、/w 中科大/nt 、/w 南科大/nt 、/w 北师大/nt 、/w 剑桥大学/nt 、/w 早稻田/nz 等等/u ，/w 等/ng 你/r 进/ng 群/n 与/c 大家/r 一起/d 交流/v 探讨/v 。/w
+/0 【/w 最后/f ，/w 沉甸甸/z 的/u 免费/v 课程/n 大礼包/n 来/u 啦/y ~/w 】/w
+《/w 机器/np 学习/v Machine/en Learning/en 》/w
+《/w 深度/n 学习/v 和神经/nr 网络/n 》/w
+《/w 理工科/n 专业/a 如何/r 进入/v 金融/n 行业/n 》/w
+《/w iOS/en 开发/v 三小/j 时/n 极速/n 入门/v 》/w
+《/w 三小/j 时变/n 身/ng python/en 极/d 客/n 》/w
+/0 机器/np 学习/v ，/w iOS/en 课程/n ，/w Python/en 课程/n 全部/mq 都/d 有/v ！/w ！/w ！/w
+/0 扫描/v 下方/f 二维码/n ，/w 全部/mq 免费赠送/n ~/w
+/0  /0 【/w 现在/t 报名/v &/0 咨询/v 】/w
+
+扫描/v 二维码/n ，/w 免费/v 领取/v 课程/n 大礼包/n

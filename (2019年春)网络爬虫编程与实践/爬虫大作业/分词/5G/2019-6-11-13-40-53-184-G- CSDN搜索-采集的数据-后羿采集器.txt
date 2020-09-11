@@ -1,0 +1,74 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 时代/n 谁/r 的/u 天下/n ？/w ？/w ？/w ,/w 中国联通/nt 终端/n 与/c 渠道/n 支撑/v 中心/nc 副总/b 经理/nx 陈丰伟/nr 最近/t 忙/a 坏/a 了/dg ，/w 经济观察/n 报/n 记者/nx 联系/v 他/r 时/n ，/w 他/r 刚/ag 从/p 巴展/nr （/w MWC/en 大会/nh ）/w 回国/v 的/u 第二/m 天/n ；/w 之后/f 他/r 又/d 去/v 参加/v 一个/mq 5/m G/m 的/u 会/n ，/w 晚上6点/t 多/a ，/w 陈丰伟/nr 终于/d 有时/d 间/f 来/u 聊聊/v 他/r 眼中/s 的/u 运营商/n 的/u 5/m G/m 布局/n 。/w nn/en 在/d 巴塞罗那/ns 结束/v 的/u 世界/n 移动通信/ln 大会/nh （/w MWC/en 大会/nh ）/w 上/f ，/w 最/d 亮眼/a 的/u 产品/n 就是/n 华为/nz 首/m 款/n 5/m G/m 折迭/n 屏/ng 手机/np MateX/en 和三星可/nr 折迭/n 屏/ng 手机/np GalaxyFold/en ，/w 5/m G/m 盛宴/n 愈来愈/d 近/a 。/w nn/en 而/c 中国移动/nt 、/w 联通/nz 、/w 电信/n 三大/n 运营商/n 作/ng .../m ,/w zhangchen/en 124/m ,/w https://blog.csdn.net/zhangchen124/article/details/88368691/url ,/w 2019-03-09/t ,/w 769/m 次/a 阅读/v ,/w 5/m G/m 时代/n 谁/r 的/u 天下/n ？/w ？/w ？/w -/w 张晨光/nr 老师/nx 的/u 播客/n ,/w 2019年03月09日 17:17:34/t ,/w 中国联通/nt 终端/n 与/c 渠道/n 支撑/v 中心/nc 副总/b 经理/nx 陈丰伟/nr 最近/t 忙/a 坏/a 了/dg ，/w 经济观察/n 报/n 记者/nx 联系/v 他/r 时/n ，/w 他/r 刚/ag 从/p 巴展/nr （/w MWC/en 大会/nh ）/w 回国/v 的/u 第二/m 天/n ；/w 之后/f 他/r 又/d 去/v 参加/v 一个/mq 5/m G/m 的/u 会/n ，/w 晚上6点/t 多/a ，/w 陈丰伟/nr 终于/d 有时/d 间/f 来/u 聊聊/v 他/r 眼中/s 的/u 运营商/n 的/u 5/m G/m 布局/n 。/w
+
+在/d 巴塞罗那/ns 结束/v 的/u 世界/n 移动通信/ln 大会/nh （/w MWC/en 大会/nh ）/w 上/f ，/w 最/d 亮眼/a 的/u 产品/n 就是/n 华为/nz 首/m 款/n 5/m G/m 折迭/n 屏/ng 手机/np MateX/en 和三星可/nr 折迭/n 屏/ng 手机/np GalaxyFold/en ，/w 5/m G/m 盛宴/n 愈来愈/d 近/a 。/w
+
+而/c 中国移动/nt 、/w 联通/nz 、/w 电信/n 三大/n 运营商/n 作为/n 网络基础/n 设施/n 的/u 搭建/v 者/k ，/w 注定/v 将/d 成为/v 这场/mq 盛宴/n 的/u 主角/n 。/w
+
+4G/n 时代/n 领先/v 一/m 步/n 的/u 中国移动/nt 资金/n 储备/n 充盈/v ，/w 中国电信/nt 、/w 中国联通/nt 拿/p 什么/r 来/u 打/q 5/m G/m 的/u 牌/n ？/w 而/c 此外/c ，/w 广电/n 也/d 加入/v 了/dg 5/m G/m 赛道/n ，/w 它/r 会/n 是/v 一个/mq “/w 搅局/v 者/k ”/w 吗/r ？/w
+
+“/w 5/m G/m 时代/n ，/w 中国/ns 有望/v 和/c 全球/n 保持/v 同步/b ，/w 从/p 成熟/a 的/u 角度/n 来看/u ，/w 5/m G/m 也/d 不是/n 一蹴而就/iv 的/u ，/w 大家/r 都/d 是/v 摸着石头过河/l 。/w ”/w 陈丰伟/nr 对/a 经济观察/n 报/n 说/ag ，/w “/w 未来/t ，/w 三大/n 运营商/n 在/d 整个/b 5/m G/m 领域/n 里/f 会/n 有所/v 侧重/v ，/w 在/d 所有/b 领域/n 都/d 领先/v 则/c 不/d 太/ag 现实/a 。/w ”/w
+
+在/d 独立/a 通信/v 分析师/n 付亮/nr 看来/v ，/w 目前/t 在/d 移动网/n 络/ng 方面/n ，/w 新/a 加入/v 5/m G/m 赛道/n 的/u 广电/n 远远/d 落后/a 于/ng 三大/n 运营商/n 。/w 不过/c ，/w IT/n 独立/a 分析师/n 唐欣/nr 则/c 认为/v ，/w 5/m G/m 不仅仅/d 是/v 一个/mq 商业/n 投资/n ，/w 更多/n 的/u 是/v 一/m 种/ng 基础设施/n 投资/n 。/w 三大/n 运营商/n 未来/t 都/d 将/d 更多/n 转变/v 为/p 国家/n 公用/v 服务机构/n 。/w
+
+毋庸置疑/ldm ，/w 不论/c 主角/n 变成/v 了/dg 几/m 个/q ，/w 这是/n 一/m 场/ng 5/m G/m 时代/n 话语权/n 的/u 争夺战/n 。/w
+
+5/m G/m 拼/v 什么/r
+
+5/m G/m 牌照/n 何时/r 发放/v 是/v 三大/n 运营商/n 极为/d 关心/v 的/u 事情/n ，/w 3月5日/t ，/w 工信部/nt 部长/nx 苗圩/nr 用/ng “/w 很快/d 了/dg ”/w 这/r 三个字/nz ，/w 给出/v 了/dg 一个/mq 时间/n 上/f 的/u 信号/n 。/w
+
+苗圩/nr 还/d 透露/v ，/w 目前/t ，/w 三大/n 运营商/n 已经/d 基本/a 确定/a 了/dg 第一/m 批/q 5/m G/m 试点/n 城市/n ，/w 这些/r 城市/n 的/u 5/m G/m 测试/v 工作/n 正在/n 有序/a 的/u 展开/v ，/w 5/m G网/n 络/ng 在/d 中国/ns 的/u 落实/v 时间/n 初步/b 定/d 在/d 2019年/t 左右/f 。/w
+
+相比/v 于/ng 中国移动/nt 、/w 中国电信/nt ，/w 中国联通/nt 聚焦/v 于/ng 5/m G/m 的/u 诉求/n 更/d 强烈/a 一些/mq 。/w
+
+“/w 因为/c 联通/nz 在/d 国内/s 属于/v 弱势/n 运营商/n ，/w 在/d 全球/n 的/u 竞争/v 案例/n 情况/n 来看/u ，/w 只有/c 在/d 一/m 种/ng 新/a 的/u 技术/n 条件/n 下/f ，/w 有/v 更/d 积极/a 的/u 做法/n 、/w 创新/v 的/u 做法/n ，/w 才/d 有/v 可能/a 弯道/n 超车/v ，/w 争取/v 更/d 大/a 的/u 市场/ny 份额/n ，/w 在/d 原有/v 的/u 技术/n 和/c 市场/ny 模式/n 下/f 是/v 难/a 有/v 份额/n 上/f 的/u 变化/v 。/w ”/w 陈丰伟/nr 说/ag 。/w
+
+财报/n 显示/v ，/w 2018年上/t 半年/n ，/w 中国移动/nt 营收/n 为/p 3918亿/m 元/q ，/w 同比/d 增长/v 2.9%/m 。/w 净利润/n 为/p 656.41亿/m 元/q ，/w 同比/d 增长/v 4.7%/m ；/w 中国电信/nt 营收/n 为/p 1930亿/m 元/q ，/w 同比/d 增长/v 4.7%/m ；/w 净利润/n 为/p 135.7亿/m 元/q ，/w 同比/d 增长/v 8.1%/m ；/w 中国联通/nt 营收/n 为/p 1491.1亿/m 元/q ，/w 同比/d 增长/v 7.9%/m ，/w 净利润/n 为/p 25.8亿/m 元/q ，/w 同比/d 增长/v 231.84%/m 。/w 显然/a ，/w 中国联通/nt 与/c 中国移动/nt 、/w 中国电信/nt 的/u 营收/n 和/c 净利润/n 规模/n 上相/a 差/a 颇/d 大/a 。/w
+
+谈到/v 三大/n 运营商/n 的/u 风格/n 和/c 理念/n ，/w 电信/n 行业分析/n 师陈志刚/nr 告诉/v 记者/nx ，/w 从/p 细微/a 的/u 角度/n 来看/u ，/w 中国移动/nt 的/u 执行力/n 更/d 强/a ，/w 中国电信/nt 比较/d 偏/a 于/ng 保守/a ，/w 中国联通/nt 的/u 身段/n 灵活/a ，/w 创新/v 很/d 活跃/a ，/w 但是/c ，/w 耐心/a 不足/a 。/w “/w 相对/b 来说/u 是/v ，/w 中国电信/nt 走/v 的/u 比较/d ‘/w 稳扎稳打/iv ’/w ，/w 各个/r 方面/n 都/d 照顾/v 的/u 很/d 全面/a ，/w 其/r 现在/t 的/u 资源/n 也/d 不是/n 最好/d ，/w 也/d 不是/n 最差/a 。/w ”/w 付亮/nr 说/ag 。/w
+
+通信行业/n 5/m G/m 专家/n 邹学勇/nr 对/a 记者/nx 说/ag ，/w 在/d 5/m G/m 时代/n ，/w 三大/n 运营商/n 从/p 管道/n 运营/v 走上/v 个性化/v 业务/n 运营/v ，/w 类似/a 从/p 大商/j 场/ng 、/w 大杂烩/n 运营/v ，/w 变成/v 小卖部/n 、/w 个性化/v 运营/v ，/w 运营商/n 越来越/d 互联网化/v ，/w 运用/v 大数据/n 能力/n ，/w 从/p 流量/n 有效/a 应用/v 、/w 业务/n 个性化/v 、/w 用户/n 层次/n 细分/v 服务/v 。/w
+
+目前/t ，/w 5/m G/m 有/v 两/m 种/ng 主/b 网/n 方式/n ISA/n 、/w SA/n ，/w 简单/a 来说/u ，/w ISA/n 是由/n 4G/n 和/c 5/m G/m 溷/ag 合/ng 主/b 网/n ，/w 而/c SA/n 是由/n 5/m G/m 单独/b 主/b 网/n ，/w SA/n 需要/n 有/v 一个/mq 成熟/a 的/u 过程/n ，/w 在/d 今年/t 下半年/t 才/d 会/n 提供/v 成熟/a 条件/n ，/w 但/c ISA/n 未来/t 演变/v 方向/n 也/d 是/v 向/p SA/n 去/v 发展/v 。/w 一/m 位/q 长期/n 关注/v 通信行业/n 的/u 专家/n 对/a 记者/nx 表示/v ，/w 电信/n 采用/v SA/n 方式/n ，/w 联通/nz 、/w 移动/v 则/c 采用/v ISA/n 方式/n ，/w 电信/n 的/u 5/m G/m 的/u 服务器/n 相比之下/lv 就/d 会/n 慢/a 一/m 步/n 。/w
+
+“/w 而/c 目前/t 5/m G/m 面临/v 基础网/n 络/ng 投入/a 建设/v 、/w 商业/n 模式/n 的/u 创新/v 、/w 用户/n 个性化/v 需求/n 多样性/n 、/w 以及/c 人才流/n 动/dg 性/k 等/ng 困难/a ，/w 不容忽视/lv ，/w 也/d 在/d 考验/v 运营商/n 的/u 迭代/v 能力/n 。/w ”/w 邹学勇/nr 对/a 记者/nx 说/ag 。/w
+
+5/m G/m 时代/n 大家/r 比拼/n 的/u ，/w 无非/d 是/v 资金/n 、/w 用户/n 以及/c 基础设施/n 。/w 而/c 在/d 多/a 位/q 专家/n 来看/u ，/w 中国移动/nt 在/d 4G/n 转/q 5/m G/m 的/u 路上/s 更具/v 有/v 优势/n 。/w
+
+中国移动/nt 在/d 4G/n 时代/n 能/ng 保持/v 领先/v ，/w 实际上/d 并/c 不是/n 没有/d 原因/n 的/u ，/w 陈志刚/nr 表示/v ，/w 一/m 是在/n 中国移动/nt 的/u 企业/n 文化/n 里面/f ，/w 始终/d 把/p 网络/n 质量/n 作为/n 企业/n 的/u 生命线/n ，/w 所以/c 中国移动/nt 的/u 网络/n 质量/n 的/u 要求/n 是/v 非常/d/mopo(d) 的/u 严格/a ，/w 也/d 投入/a 大量/mq 的/u 资源/n 去/v 做/v 这件/mq 事情/n ，/w 短短的/z 一两/m 年时/n 间/f 把/p 基站/n 规模/n 达到/v 了/dg 上百/m 万/m 。/w “/w 移动/v 的/u 营收/n 能力/n 第一/m ，/w 再/d 加上/v 政企/n 市场/ny 的/u 布局/n ，/w 行业应用/n 收入/n 递增/v ，/w 打破/v 了/dg 单一/a 资费/n 套餐/n 的/u 营收/n 模式/n 。/w ”/w 邹学勇/nr 说/ag 。/w 而/c 在/d 通信行业/n 观察者/n 项/ng 立/d 刚/ag 看来/v ，/w 在/d 网络建设/n 方面/n 需要/n 大量/mq 的/u 资金/n ，/w 中国移动/nt 在/d 去年/t 中旬/t 披露/v 的/u 现金/n 及/c 银行/nc 结存/n 余额/n 为/p 3948亿/m 元/q 。/w 付亮/nr 对/a 记者/nx 表示/v ，/w 中国移动/nt 拥有/v 9亿/m 用户/n ，/w 且/c 优质/b 用户/n 较/d 多/a ，/w 这些/r 用户/n 也/d 会/n 对/a 5/m G/m 发展/v 有利/a ；/w 其次/c ，/w 在/d 技术/n 、/w 资源/n 方面/n 也/d 领先/v ，/w 如/c 5/m G/m 基站/n 、/w 铁塔/n ，/w 中国移动/nt 现在/t 4G/n 基站/n 有/v 206万/m ，/w 在/d 这些/r 基站/n 本身/r 上/f ，/w 可以/a 直接/a 开发/v 5/m G/m 设备/n 。/w 但/c 无论/c 是/v 新/a 加一/nz 个/q 5/m G/m 基站/n ，/w 还是/c 用/ng 4G/n 、/w 5/m G/m 融合/v 的/u 新/a 基站/n 换/v 掉/v 旧/a 基站/n ，/w 这/r 在/d 网络建设/n 方面/n 差距/n 相对/b 来说/u 会/n 小一/nz 些/q 。/w
+
+邹学勇/nr 表示/v ，/w 5/m G/m 拼/v 的/u 不再/d 是/v 基础/n 语音/n 、/w 短/a 彩信/n 和/c 流量/n 收入/n ，/w 更多/n 是/v 行业/n 和/c 通信/v 结合/v 的/u 差异化/v ，/w 这/r 需要/n 考验/v 三大/n 运营商/n 的/u 整合/v 和/c 渗透/v 能力/n 。/w 今年/t 内/f 要/v 全国开通/n 携/v 号/n 转/q 网/n ，/w 意味着/v 手机号码/n 不再/d 是/v 绑定/v 用户/n 的/u 壁垒/n ，/w 更多/n 靠/ng 差异化/v 服务/v 收入/n 保/ng 增长/v 。/w
+
+最大/a 的/u 问题/n
+
+5/m G/m 最大/a 的/u 问题/n 是/v 设备/n 更新/v 投入/a 很大/a ，/w 而/c 商业化/v 回报/v 周期/n 可能/a 会/n 非常/b 长/a 。/w IT/n 独立/a 分析师/n 唐欣/nr 表示/v ，/w 5/m G/m 不仅仅/d 是/v 一个/mq 商业/n 投资/n ，/w 更多/n 的/u 是/v 一/m 种/ng 基础设施/n 投资/n 。/w 三大/n 运营商/n 未来/t 都/d 将/d 更多/n 转变/v 为/p 国家/n 公用/v 服务机构/n 。/w 国家政策/n 对/a 运营商/n 影响/v 会/n 很大/a 。/w 三大/n 运营商/n 之间/f 的/u 高层/n 管理人/n 员/k 也/d 会/n 相互/b 流动/v ，/w 相互之间/l 的/u 竞争性/n 也/d 会/n 减弱/v ，/w 所以/c 谈不上/v 谁/r 的/u 实力/n 更/d 强/a ，/w 大家/r 都/d 是/v 为/p 国家政策/n 服务/v 。/w
+
+中国移动/nt 目前/t 分别/d 在/d 上海/ns 、/w 广州/ns 、/w 苏州/ns 、/w 武汉/ns 、/w 杭州/ns 开展/v 5/m G/m 外场/n 测试/v ，/w 每个/r 城市/n 将/d 建设/v 超过/v 100/m 个/q 5/m G/m 基站/n ，/w 还/d 将/d 在/d 北京/ns 、/w 成都/ns 、/w 深圳/ns 等/ng 12/m 个/q 城市/n 再/d 进行/v 5/m G/m 业务/n 应用/v 示范/v ：/w 中国联通/nt 则/c 在/d 北京/ns 、/w 天津/ns 、/w 杭州/ns 、/w 南京/ns 、/w 武汉/ns 、/w 贵阳/ns 、/w 成都/ns 、/w 深圳/ns 、/w 福州/ns 、/w 郑州/ns 、/w 沉/a 阳/ag 、/w 青岛/n 等/ng 16/m 个/q 城市/n 开展/v 5/m G/m 试点/n ；/w 中国电信/nt 5/m G/m 试点/n 城市/n 将/d 在/d 雄/ag 安/ag 、/w 深圳/ns 、/w 上海/ns 、/w 苏州/ns 、/w 成都/ns 、/w 兰州/ns 六/m 个/q 城市/n 开展/v 。/w 此外/c ，/w 将/d 根据/n 国家/n 相关/v 部委/n 要求/n 继续/v 扩大/v 试点/n 范围/n ，/w 将/d 再/d 增设/v 6/m 个/q 城市/n 。/w
+
+其实/d ，/w 从/p 4G/n 跨越/v 到/ng 5/m G/m 的/u 难度/n 很大/a ，/w 本身/r 速度/n 提升/v 很快/d ，/w 且/c 很多/mq 新技术/n 没有/d 什么/r 借鉴/v 。/w “/w 目前/t ，/w 5/m G/m 时代/n 中国/ns 和/c 全球/n 保持/v 同步/b 的/u ，/w 从/p 成熟/a 的/u 角度/n 来看/u ，/w 大家/r 都/d 是/v 摸/v 着/n ‘/w 石头/n 过河/v ’/w 。/w ”/w 陈丰伟/nr 说/ag ，/w 但/c 在/d 个人/n 移动/v 方面/n ，/w 5/m G/m 市场/ny 是/v 不/d 需要/n 做/v 用户/n 教育/n ，/w 只要/c 有/v 5/m G网/n 络/ng 、/w 5/m G/m 终端/n ，/w 用户/n 肯定/a 会/n 愿意/v 购买/v 5/m G/m 的/u 不会/v 买/v 4G/n 的/u ，/w 但/c 在/d 刚出/v 3G/n 、/w 4G/n 终端/n 的/u 时候/n ，/w 我们/r 做/v 了/dg 大量/mq 用户/n 教育/n 的/u 工作/n 是/v “/w 为什么/r 要/v 用/ng 智能/n 手机/np ”/w 、/w “/w 为什么/r 要/v 用/ng 更快/n 的/u 上网/v 速度/n ”/w 、/w 说服/v 用户/n 买/v 智能/n 手机/np 的/u 同时/c ，/w 要/v 办/v 流量/n 套餐/n ，/w 通过/p 3G/n 、/w 4G/n 这/r 十/m 年/n 的/u 用户/n 教育/n ，/w 当/ag 5/m G/m 来临/v 时/n 则/c 不/d 需要/n 做/v 这些/r 工作/n 了/dg 。/w
+
+这/r 或许/d 也/d 因为/c 中国人/n 更/d 容易/a 接受/v 新鲜事/n 物/ng 。/w 从/p 2G/n 切换/v 3G/n 、/w 3G/n 切换/v 4G/n 速度/n 来看/u ，/w 让/v 中国人/n 接受/v 只用/v 了/dg 1/m 至/d 2/m 年时/n 间/f ，/w 这/r 比国/nz 外/f 要/v 短/a 很多/mq ，/w 国外/s 一般/a 一个/mq 制式/n 切换/v 都/d 需要/n 3-4年/t 的/u 时间/n 。/w “/w 除了/p 个人/n 移动通信/ln 的/u 场景/n ，/w 其他/r 场景/n 以及/c 各种/r 垂直/v 的/u 应用/v 市场/ny ，/w 都/d 需要/n 开发/v ，/w 网络设备/n 需要/n 成熟/a ，/w 因为/c 其/r 还/d 在/d 边研发边/nr 投入/a 版本/n 还/d 在/d 不断/d 的/u 升级/v 状态/n ，/w 包括/v 运营商/n 需要/n 投入/a 资金/n 去/v 建设/v ，/w 终端/n 现在/t 也/d 是从/v 芯片/n 到/ng 软件/n 到/ng 整机/n 也/d 需要/n 一个/mq 过程/n 。/w ”/w 陈丰伟/nr 说/ag 。/w
+
+基于/p 现在/t 的/u 市场/ny 需求/n 和/c 投入/a 来/u 算/d ，/w 大家/r 都/d 说/ag 5/m G/m 会/n 改变/v 社会/n ，/w 是/v 全球/n 发展/v 的/u 大/a 趋势/n ，/w 在/d 陈丰伟/nr 看来/v ，/w 在/d 未来/t 开拓/v 的/u 市场/ny 方面/n ，/w 也/d 不仅仅/d 是/v 用户/n 从/p 4G/n 手机/np 到/ng 5/m G/m 手机/np ，/w 而是/n 市场/ny 空间/n 的/u 增量/n 不断/d 扩大/v ，/w 不是/n 一个/mq 静止/v 的/u 市场/ny 。/w 在/d 2/m G/en -/w 4G/n 时代/n ，/w 只有/c 一个/mq 竞争/v 领域/n 就是/n 个人/n 移动通信/ln 业务/n ，/w 而/c 在/d 5/m G/m 时代/n ，/w 技术/n 方面/n 全球/n 基本/a 都/d 是/v 统一/a 的/u ，/w “/w 未来/t ，/w 三大/n 运营商/n 在/d 整个/b 5/m G/m 领域/n 里/f 会/n 有所/v 侧重/v ，/w 在/d 所有/b 领域/n 都/d 领先/v 则/c 不/d 太/ag 现实/a ，/w 比如/v 有的/r 会/n 侧重/v 物联网/n ，/w 有的/r 会/n 在/d 个人/n 移动通信/ln 方面/n 领先/v 。/w ”/w “/w 这个/r 变化/v 主要/b 是从/v 被动/a 的/u 使用/v 到/ng 主动/a 的/u 掌握/v 核心/n 技术/n 的/u 过程/n 。/w 5/m G/m 对/a 中国通/n 讯/ng 行业/n 应该/v 不会/v 立刻/d 带来/v 一个/mq 质/n 的/u 变化/v ，/w 而是/n 为/p 今后/t 十几/mq 年/n ，/w 如/c 物联网/n 的/u 发展/v 扫清/v 了/dg 很多/mq 技术/n 上/f 的/u 障碍/n ，/w 这个/r 影响/v 是/v 逐步/d 显现/v 的/u 。/w ”/w 唐欣/nr 称/ag 。/w
+
+此外/c ，/w 广电/n 也/d 要/v 加入/v 5/m G/m 队伍/n ，/w 广电网/n 络/ng 也/d 是/v 遍布/v 各处/r ，/w 加上/v 广电/n 的/u 内容丰富/n ，/w 在/d 5/m G/m 时代/n 也/d 有/v 一/m 博/ag 。/w 但/c 在/d 付亮/nr 看来/v ，/w 而/c 固/ag 网/n 和/c 移动网/n 有/v 区别/n ，/w 固/ag 网/n 就是/n 有线电视/ln 到达/v 用户/n 家里/s 只需/n 要/v 改造/v 一下/d 设备/n ，/w 固定/a 电话/np 就/d 可以/a 到/ng 你家/r ，/w 宽带/n 就/d 可以/a 到/ng 你家/r ，/w 且/c 有线/b 宽带/n 在/d 各个/r 城市发展/n 比较/d 多/a 。/w “/w 但/c 移动网/n 基本/a 有/v 一个/mq 问题/n ，/w 就是/n 必须/d 工信部/nt 批准/v 企业/n 将/d 这些/r 频段/n 用于/v 基本/a 通信/v ，/w 而且/c 又/d 必须/d 基于/p 频段/n 上/f ，/w 要/v 让/v 用户/n 能/ng 用/ng 起来/v ，/w 目前/t 广电/n 远远/d 落后/a 于/ng 三大/n 运营商/n 。/w ”/w
+
+争夺/v 话语权/n
+
+从/p 2G/n 到/ng 5/m G/m ，/w 我国/n 移动通讯/n 行业/n 话语权/n 、/w 技术/n 能力/n 在/d 全球/n 的/u 声音/n 越来越/d 强烈/a ，/w 而/c 这/r 一系列/b 的/u 转变/v 则/c 经历/n 了/dg 30-40年/t 的/u 时间/n 跨度/n 。/w
+
+在/d 起初/d 通讯/n 设施/n 是/v 很/d 落后/a 的/u ，/w 技术/n 力量/n 薄弱/a 主要/b 靠/ng 引进/v ，/w “/w 基本上/d 在/d 白纸/n 上/f 作画/v ，/w 属于/v 一穷二白/ia 的/u 情况/n ，/w ”/w 中国电信/nt 相关/v 人士/n 对/a 记者/nx 表示/v ，/w 而/c 从/p 产业链/n 的/u 角度/n 讲/v ，/w 此前/r 我国/n 也/d 一直/d 是/v 跟随/n 的/u 状态/n ，/w 在/d 陈丰伟/nr 看来/v ，/w 国外/s 先/d 成熟/a 后/f 国内/s 才/d 跟随/n 开展/v 业务/n ，/w 不单/c 是/v 移动通信/ln ，/w 包括/v 固/ag 网/n 、/w 数据通信/n 设备/n 以前/f 都/d 比较/d 依赖/v 国外/s 厂商/n ，/w 所以/c 此前/r 有成/v 熟/a 的/u 产业链/n 可以/a 借用/v 。/w
+
+1994年/t 底/n ，/w 在/d 广东/ns 中国/ns 开通/a 首/m 个/q GSM网/n 络/ng 开始/v ，/w 中国移动/nt 和联通/nr 采用/v GSM网/n 络/ng ，/w 中国电信/nt 则/c 是/v CDMA网络/n ，/w “/w 2G/n 网络/n 到/ng 现在/t 已经/d 20/m 多年/n ，/w 2G/n 网络/n 主要/b 能力/n 是/v 语音/n 业务/n ，/w 另/d 一个/mq 最大/a 的/u 能力/n 就是/n 承载/v 物联网/n 的/u 链接/n 。/w 目前/t 中国联通/nt 2G/n 网络/n 陆续/d 在/d 关闭/v ，/w 2G/n 网络/n 退出/v 只是/c 时间/n 问题/n ，/w 2G/n 网络/n 最大/a 价值/n 是/v 物联网/n ：/w NB/en -/w IOT/en ，/w 已经/d 超过/v 3亿/m 。/w ”/w 邹学勇/nr 对/a 记者/nx 说/ag 。/w
+
+直到/v 3G时代/n ，/w 中国/ns 才/d 开始/v 进入/v 到/ng 国际标准/n 的/u 竞争/v 中/f ，/w 从/p 一/m 片/n 空白/n 到/ng 追赶/v ，/w 三大/n 运营商/n 采用/v 了/dg 三个/n 不同/a 的/u 标准/a ，/w 这/r 决定/n 运营商/n 的/u 网络/n 品质/n 和/c 竞争/v 实力/n 。/w 项/ng 立/d 刚/ag 对/a 记者/nx 表示/v ，/w 中国联通/nt 在/d 这个/r 时代/n 的/u 成绩/n 较/d 好/a ，/w 是/v 因为/c 拿到/v 了/dg WCDMA/n 的/u 牌照/n ，/w 中国电信/nt 则/c 拿到/v 了/dg CDMA/en 2000/m 的/u 牌照/n ，/w 中国联通/nt 和/c 中国电信/nt 的/u 3G网络/n 是/v 成熟/a 的/u 解决方案/n ，/w 而/c 移动/v 则/c 是/v 中国/ns 自主研发/n TD/en -/w SCD/en －/w MA/n 的/u 牌照/n ，/w 其/r 技术成熟/n 度/k 、/w 稳定性/n 和/c 终端/n 支持/v 需要/n 时间/n 普及/a ，/w 和/c 前/f 两/m 家/k 存在/v 差距/n 。/w
+
+在/d 唐欣/nr 看来/v ，/w 3G时代/n 中国移动/nt 还/d 不是/n 特别/a 突出/a 的/u 原因/n 主要/b 是/v 政策/n 方面/n ，/w 3G时代/n 移动/v 没有/d 获得/v 最好/d 的/u 频段/n 资源/n 和制式资/nr 源/ng ，/w 可以/a 说是/n 国家/n 让/v 移动/v 做出/v 一定/b 牺牲/v 来/u 支持/v 国内/s 技术/n 发展/v 。/w 而/c 4G/n 时代/n 这种/r 政策性/n 牺牲/v 不再/d 继续/v ，/w 所以/c 优势/n 显现/v 出来/v 。/w
+
+“/w 大家/r 在/d 4G/n 时代/n 采用/v 的/u TD/en -/w LTE/en 和/c FDD/en -/w LTE/en 两/m 种/ng 制式/n ，/w 技术/n 差距/n 已经/d 不明/v 显/v 了/dg ，/w 中国移动/nt 首先/c 开始/v 发力/v 业绩/n 也/d 是/v 不错/a 的/u ，/w 而/c 如今/t 的/u 5/m G/m 因为/c 只有/c 一个/mq 统一/a 的/u 标准/a ，/w 所以/c 此前/r 因为/c 通信/v 标准/a 的/u 制式/n 产生/v 的/u 影响/v 已经/d 没有/d 了/dg 。/w ”/w 项/ng 立/d 刚/ag 说/ag 。/w
+
+随着/p 中国/ns 对/a 通讯/n 产业/n 的/u 影响/v 越来越/d 大/a ，/w 华为/nz 、/w 中兴/nz 这些/r 设备/n 商/n 的/u 实力/n 增强/v ，/w 很多/mq 运营商/n 也/d 在/d 采购/v 华为/nz 、/w 中兴/nz 的/u 设备/n 来/u 搭建/v 网络/n 。/w 同时/c ，/w 从/p 4G/n 开始/v ，/w 国内/s 华为/nz 、/w OV/en 、/w 小米/n 等/ng 终端/n 厂商/n ，/w 无论/c 是从/v 硬件/n 配置/n 的/u 角度/n ，/w 还是/c 产品/n 的/u 革命性/n 角度/n 都/d 已经/d 领先/v 。/w “/w 算/d 起来/v ，/w 我国/n 智能终端/n 的/u 制造/v 占据/v 全球/n 的/u 70%/m 以上/f ，/w 包括/v 很多/mq 都/d 是在/n 中国/ns 厂商/n 生产/v ，/w 然后/c 出口/n 至/d 国外/s 。/w ”/w 陈丰伟/nr 说/ag 。/w
+
+这/r 一波/nz 红利/n 主要/b 来自/v 中国/ns 的/u 通信/v 市场/ny 的/u 快速/b 发展/v ，/w 在/d 陈丰伟/nr 看来/v ，/w 市场/ny 好/a 、/w 用户/n 多/a ，/w 自然/a 需要/n 的/u 终端/n 也/d 多/a ，/w 网络设备/n 也/d 多/a 。/w 目前/t 中国/ns 整个/b 通讯/n 市场/ny ，/w 无论/c 是/v 消费/v 用户/n ，/w 还是/c 整个/b 设备/n 市场/ny 能/ng 占/ng 到/ng 全球/n 的/u 25-30%/t 的/u 份额/n ，/w 属于/v 第一/m 大市场/n 了/dg
+
+。/w ,/w ,/w ,/w ,/w ,/w

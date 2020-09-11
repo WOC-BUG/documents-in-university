@@ -1,0 +1,60 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+3/m GPP/en TS/en 23.50/m 1/m V15.2.0/url ,/w 5.6/m 会话/v 管理/v nn/en */w */w nn5.6.1/url 概述/v nn/en */w */w nnnUE/en 用户/n 设备/n nDNN/en Data/en Network/en Name/en 和/c APN/en 类似/a nS/en -/w NSSAI/en 单/b 网络/n 切片/n 选择/n 辅助/v 信息/n nAMF/en 访问/v 和/c 移动/v 管理/v 功能/n nSMF/en 会话/v 管理/v 功能/n nNRF/en 网络/n 存储/v 库/n 功能/n nUDM/en 统一/a 数据管理/n nDN/en 数据网/n 络/ng nLADN/en 局域/n 数据网/n 络/ng nSSC/en 会话/v 和服/n 务/dg 连续性/n nnn/en 5/m GC/en 支持/v PDU/en 连接/v 服务/v ，/w 即/c ，/w 在/d UE/en 和/c 由/p DNN/en 标识/n 的/u 数据网/n 络/ng 之间/f 提/n .../m ,/w weixin/en _/0 42010275/m ,/w https://blog.csdn.net/weixin_42010275/article/details/82261493/url ,/w 2018-08-31/t ,/w 628/m 次/a 阅读/v ,/w 3/m GPP/en TS/en 23.50/m 1/m V15.2.0/url -/w weixin/en _/0 42010275/m 的/u 博客/n ,/w 2018年08月31日 20:41:00/t ,/w 5.6/m 会话/v 管理/v
+
+*/w */w
+
+5.6.1/m 概述/v
+
+*/w */w
+
+
+UE/en 用户/n 设备/n
+DNN/en Data/en Network/en Name/en 和/c APN/en 类似/a
+S/en -/w NSSAI/en 单/b 网络/n 切片/n 选择/n 辅助/v 信息/n
+AMF/en 访问/v 和/c 移动/v 管理/v 功能/n
+SMF/en 会话/v 管理/v 功能/n
+NRF/en 网络/n 存储/v 库/n 功能/n
+UDM/en 统一/a 数据管理/n
+DN/en 数据网/n 络/ng
+LADN/en 局域/n 数据网/n 络/ng
+SSC/en 会话/v 和服/n 务/dg 连续性/n
+
+
+5/m GC/en 支持/v PDU/en 连接/v 服务/v ，/w 即/c ，/w 在/d UE/en 和/c 由/p DNN/en 标识/n 的/u 数据网/n 络/ng 之间/f 提供/v PDU/en 交换/v 的/u 服务/v 。/w 通过/p 根据/n UE/en 的/u 请求/n 建立/v 的/u PDU/en 会话/v 来/u 支持/v PDU/en 连接/v 服务/v 。/w
+每个/r S/en -/w NSSAI/en 的/u 订阅/v 信息/n 可能/a 包含/v 多个/n DNN/en 和/c 一个/mq 默认/v DNN/en 。/w 当/ag UE/en 没有/d 在/d 包含/v 给定/v S/en -/w NSSAI/en 的/u PDU/en 会话/v 建立/v 请求/n 的/u NAS/n 消息/n 中/f 提供/v DNN/en 时/n ，/w 如果/c UE/en 的/u 订阅/v 信息/n 中/f 存在/v 默认/v DNN/en ，/w 则/c 服务/v AMF/en 通过/p 为/p 该/r S/en -/w NSSAI/en 选择/n 默认/v DNN/en 来/u 确定/a 所/n 请求/n 的/u PDU/en 会话/v 的/u DNN/en ;/w 否则/c ，/w 服务/v AMF/en 为/p 该/r S/en -/w NSSAI/en 选择/n 本地/r 配置/n 的/u DNN/en 。/w 如果/c 网络/n 不支/v 持/v UE/en 提供/v 的/u DNN/en ，/w 并且/c AMF/en 不能/v 通过/p 查询/v NRF/en 来/u 选择/n SMF/en ，/w 则/c AMF/en 将/d 拒绝/v 来自/v UE/en 的/u 包含/v PDU/en 会话/v 建立/v 请求/n 的/u NAS/n 消息/n ，/w 其/r 原因/n 指示/n 不支/v 持/v DNN/en 。/w
+每个/r PDU/en 会话/v 支持/v 单个/b PDU/en 会话/v 类型/n ，/w 即/c 支持/v 在/d PDU/en 会话/v 建立/v 时/n 由/p UE/en 请求/n 的/u 单一/a 类型/n 的/u PDU/en 的/u 交换/v 。/w 定义/n 了/dg 以下/f PDU/en 会话/v 类型/n ：/w IPv4/n ，/w IPv6/n ，/w IPv/en 4/m v/en 6/m ，/w 以太网/n ，/w 非/d 结构化/vn 。/w
+PDU/en 会话/v 建立/v （/w 在/d UE/en 请求/n 时/n ）/w ，/w 修改/v （/w 在/d UE/en 和/c 5/m GC/en 请求/n 时/n ）/w 并且/c 使用/v 在/d UE/en 和/c SMF/en 之间/f 通过/p N/en 1/m 交换/v 的/u NAS/en SM/n 信令/n 释放/v （/w 在/d UE/en 和/c 5/m GC/en 请求/n 时/n ）/w 。/w 根据/n 应用服务/n 器/k 的/u 请求/n ，/w 5/m GC/en 能够/v 触发/v UE/en 中/f 的/u 特定/b 应用/v 。/w 当/ag 接收/v 到/ng 该/r 触发/v 消息/n 时/n ，/w UE/en 应将/nz 其/r 传递/v 给/v UE/en 中/f 的/u 所/n 识别/v 的/u 应用/v 。/w UE/en 中/f 识别/v 的/u 应用/v 可以/a 建立/v 到/ng 特定/b DNN/en 的/u PDU/en 会话/v ，/w 见/v 4.4.5/m 。/w
+SMF/en 可以/a 支持/v LADN/en 的/u PDU/en 会话/v ，/w 其中/r 对/a DN/n 的/u 访问/v 仅/d 在/d 特定/b LADN/en 服务区/n 域/ng 中/f 可用/a 。/w 这/r 在/d 5.6.5中/t 进一步/d 定义/n 。/w
+SMF/en 负责/a 检查/v UE/en 请求/n 是否/v 符合/v 用户/n 订阅/v 。/w 为此/l ，/w 它/r 检索/v 并/c 请求/n 从/p UDM/en 接收/v 关于/p SMF/en 级/n 订阅/v 数据/n 的/u 更新/v 通知/n 。/w 这些/r 数据/n 可能/a 表明/v 每个/r DNN/en 和/c 每个/r S/en -/w NSSAI/en ：/w
+
+
+允许/v 的/u PDU/en 会话/v 类型/n 和/c 默认/v 的/u PDU/en 会话/v 类型/n 。/w
+允许/v 的/u SSC/en 模式/n 和/c 默认/v 的/u SSC/en 模式/n 。/w
+QoS/en 信息/n （/w 参见/v 第/m 5.7/m 节/n ）/w ：/w 订阅/v 的/u Session/en -/w AMBR/en ，/w Default/en 5/m QI/en 和/c Default/en ARP/n 。/w
+静态/n IP/en 地址/n //w 前缀/n 。/w
+订阅/v 的/u 用户/n 平面/n 安全/a 策略/n 。/w
+与/c PDU/en 会话/v 相关/v 联/ng 的/u 计费/v 特性/n 。/w 该/r 信息/n 是由/n UDM/en 提供/v 给/v 另/d 一个/mq PLMN/en 中/f 的/u SMF/en （/w 对于/p LBO/en 模式/n 中/f 的/u PDU/en 会话/v ）/w 是由/n UDM/en //w UDR/en 中/f 的/u 运营商/n 策略/n 定义/n 的/u 。/w
+注/ng 1/m ：/w 充电/v 特性/n 的/u 内容/n 以及/c SMF/en 对/a 充电/v 特性/n 的/u 使用/v 在/d TS/en 32.24/m 0/m [/w 41/m ]/w 中/f 定义/n 。/w
+
+
+通过/p 多次/m 访问/v 注册/v 的/u UE/en 选择/n 通过/p 哪/r 种/ng 访问/v 来/u 建立/v PDU/en 会话/v 。/w 如/c TS/en 23.50/m 3/m [/w 45/m ]/w 中/f 所/n 定义/n 的/u ，/w HPLMN/en 可以/a 向/p UE/en 发送/v 策略/n 以/p 指导/v UE/en 选择/n 建立/v PDU/en 会话/v 的/u 接入/v 。/w
+注/ng 2/m ：/w 在/d 本/d 规范/a 的/u 发行/v 版/n 中/f ，/w 在任/v 何/ng 给定/v 时间/n ，/w PDU/en 会话/v 仅/d 通过/p 单个/b 接入网/n 络/ng 路由/n 。/w
+UE/en 可以/a 请求/n 在/d 3/m GPP/en 和/c 非/d 3/m GPP/en 接入/v 之间/f 移动/v PDU/en 会话/v 。/w 在/d 每个/r PDU/en 会话/v 的/u 基础/n 上/f 做出/v 在/d 3/m GPP/en 接入/v 和/c 非/d 3/m GPP/en 接入/v 之间/f 移动/v PDU/en 会话/v 的/u 决定/n ，/w 即/c ，/w UE/en 可以/a 在/d 给定/v 时间/n 具有/v 使用/v 3/m GPP/en 接入/v 的/u 一些/mq PDU/en 会话/v ，/w 而/c 其他/r PDU/en 会话/v 使用/v 非/d 3/m GPP/en 接入/v 。/w
+在/d 发送/v 到/ng 网络/n 的/u PDU/en 会话/v 建立/v 请求/n 消息/n 中/f ，/w UE/en 应/ng 提供/v PDU/en 会话/v ID/n 。/w PDU/en 会话/v ID/n 对于/p 每个/r UE/en 是/v 唯一/b 的/u ，/w 并且/c 是/v 用于/v 唯一/b 地标/n 识/ng UE/en 的/u PDU/en 会话/v 之一/r 的/u 标识符/n 。/w 当/ag 不同/a 的/u PLMN/en 用于/v 两/m 次/a 访问/v 时/n ，/w PDU/en 会话/v ID/n 应/ng 存储/v 在/d UDM/en 中/f 以/p 支持/v 3/m GPP/en 和/c 非/d 3/m GPP/en 接入/v 之间/f 的/u 切换/v 。/w UE/en 还/d 可以/a 提供/v ：/w
+
+
+PDU/en 会话/v 类型/n 。/w
+S/en -/w NSSAI/en 。/w
+DNN/en （/w 数据网/n 络/ng 名称/n ）/w 。/w
+SSC/en 模式/n （/w 第/m 5.6.9.2/m 节/n 中/f 定义/n 的/u 服务/v 和会/n 话/n 连续性/n 模式/n ）/w 。/w
+
+
+订阅/v 信息/n 可以/a 包括/v 每个/r 订阅/v 的/u S/en -/w NSSAI/en 的/u 通配符/n DNN/en ：/w 当/ag 通配符/n DNN/en 与/c 订阅/v 的/u S/en -/w NSSAI/en 相关/v 联/ng 时/n ，/w 对于/p 该/r S/en -/w NSSAI/en ，/w 订阅/v 允许/v UE/en 使用/v 任何/r DNN/en 值/a 建立/v PDU/en 会话/v 。/w
+注/ng 3/m ：/w 使/ng SMF/en 知道/v 正在/n 建立/v 的/u PDU/en 会话/v 的/u DNN/en 是/v 对应/v 于/ng 明确/a 订阅/v 的/u DNN/en 还是/c 对应/v 于/ng 通配符/n 订阅/v 的/u 使用/v 。/w 因此/c ，/w 如果/c PDU/en 会话/v 的/u DNN/en 不是/n 明确/a 订阅/v 的/u DNN/en 的/u 一部分/mq 并且/c SMF/en 中/f 的/u 本地/r 策略/n 要求/n UE/en 具有/v 对/a 该/r DNN/en 的/u 订阅/v ，/w 则/c SMF/en 可以/a 拒绝/v PDU/en 会话/v 建立/v 。/w
+UE/en 可以/a 同时/c 经由/p 3/m GPP/en 以及/c 经由/p 和/c 非/d 3/m GPP/en 接入网/n 络/ng 向/p 同一/b 数据网/n 络/ng 或/c 不同/a 数据网/n 络/ng 建立/v 多个/n PDU/en 会话/v 。/w
+UE/en 可以/a 建立/v 到/ng 同一/b 数据网/n 络/ng 的/u 多个/n PDU/en 会话/v ，/w 并/c 由/p 终止/v N/en 6/m 的/u 不同/a UPF/en 服务/v 。/w
+具有/v 多个/n 建立/v 的/u PDU/en 会话/v 的/u UE/en 可以/a 由/p 不同/a 的/u SMF/en 服务/v 。/w
+应/ng 在/d UDM/en 中/f 按/p PDU/en 会话/v 粒度/n 注册/v 和/c 注销/v SMF/en 。/w
+属于/v 同一/b UE/en 的/u 不同/a PDU/en 会话/v （/w 到/ng 相同/a 或/c 不同/a 的/u DNN/en ）/w 的/u 用户/n 平面/n 路径/n 可以/a 在/d AN/en 和/c 与/c DN/n 接口/n 的/u UPF/en 之间/f 完全/a 不/d 相交/v 。/w
+注/ng 4/m ：/w 如果/c UE/en 仅/d 可用/a 于/ng 监管/v 优先/v 服务/v ，/w 则/c SMF/en 可以/a 停用/v UE/en 的/u PDU/en 会话/v 的/u 用户/n 平面/n 资源/n ，/w 除/ng 紧急/a 服务/v 和/c MPS/en 等/ng 监管/v 优先/v 服务/v 外/f 。/w
+注/ng 5/m ：/w 本/d 规范/a 的/u 本版/r 本/d 未/d 规定/n UE/en 退出/v SMF/en 服务区/n 域/ng 时/n 的/u 处理/v 。/w ,/w ,/w ,/w ,/w ,/w

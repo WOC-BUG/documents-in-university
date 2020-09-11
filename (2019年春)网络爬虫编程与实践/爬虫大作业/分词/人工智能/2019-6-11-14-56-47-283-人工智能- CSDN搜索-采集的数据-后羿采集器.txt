@@ -1,0 +1,68 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/zsp_android_com/article/details/79205087/url ,/w 前言/n 人工智能/n （/w Artificial/en Intelligence/en ）/w ，/w 英/jns 缩/v AI/n ，/w 研究/v //w 开发/v 用于/v 模拟/v //w 扩展/v 人类/n 智能/n 的/u 理论/n 、/w 方法/n 、/w 技术/n 及/c 应用系统/n 技术科学/n 。/w 上世纪/t 50/m 年代/n 一/m 学术讨论/n 会/n （/w 计算机/np 科学史/n 着/n 名/n 达特茅斯/nz 会议/nh （/w Dartmouth/en Conferences/en ）/w ）/w ，/w 几/m 着/n 名/n 科学家/n 从不/d 同学/nm 科/n 角度/n 探讨/v 用/ng 机器/np 模拟/v 人类/n 智能/n 等/ng 问题/n 并/c 首/m 提/n “/w 人工智能/n ”/w 术语/n 。/w 人工智能/n 新兴/b 学科/n 诞生/v 。/w ,/w https://blog.csdn.net/zsp_android_com/article/details/79205087/url ,/w ,/w zsp/en _/0 android/en _/0 com/en ,/w 2018-01-30/t ,/w //blog.csdn.net/zsp_android_com/article/details/79205087/url ,/w 287/m 次/a 阅读/v ,/w 人工智能/n -/w snpmyn/en ,/w 2018年01月30日 14:07:32/t ,/w 原/b 人工智能/n
+
+
+
+2018年01月30日 14:07:32/t
+snpmyn/en
+阅读/v 数/m ：288/m
+
+
+标签/n ：/w
+人工智能/n 计算机/np 科学/a 脸部/n 识别/v 智能机/n 技术/n
+更多/n
+
+个人/n 分类/v ：/w
+人工智能/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/zsp_android_com/article/details/79205087/url
+
+
+
+
+
+
+前言/n
+
+人工智能/n （/w Artificial/en Intelligence/en ）/w ，/w 英/jns 缩/v AI/n ，/w 研究/v //w 开发/v 用于/v 模拟/v //w 扩展/v 人类/n 智能/n 的/u 理论/n 、/w 方法/n 、/w 技术/n 及/c 应用系统/n 技术科学/n 。/w
+
+上世纪/t 50/m 年代/n 一/m 学术讨论/n 会/n （/w 计算机/np 科学史/n 着/n 名/n 达特茅斯/nz 会议/nh （/w Dartmouth/en Conferences/en ）/w ）/w ，/w 几/m 着/n 名/n 科学家/n 从不/d 同学/nm 科/n 角度/n 探讨/v 用/ng 机器/np 模拟/v 人类/n 智能/n 等/ng 问题/n 并/c 首/m 提/n “/w 人工智能/n ”/w 术语/n 。/w 人工智能/n 新兴/b 学科/n 诞生/v 。/w
+
+
+应用/v
+
+
+电子游戏/n
+智能机/n 器/k 人/n
+人机/n 对弈/v
+人脸识别/lv
+
+
+人工智能/n 在/d 自然语言/n 识别/v 、/w 指纹识别/n 、/w 地图/n 导航/v 、/w 自动/b 驾驶/v 等/ng 方向/n 亦/d 很大/a 贡献/n 。/w
+
+评判/v
+
+评判/v 标准/a 即/c 图灵/n 测试/v 。/w 图灵/n 测试/v 是/v 着/n 名/n 科学家/n 阿/h 兰·麦/nr 席森/nr ·/w 图灵/n 1950年/t 提出/v ，/w 即/c 计算机程序/ln 5/m 分钟/q 内/f 回答/v 由/p 人类/n 所/n 提/n 一系列/b 问题/n 且/c 超/h 30%/m 回答/v 让/v 人类/n 误认/v 人/n 答/v 则/c 通/a 测试/v ，/w 表/n 该/r 程序/n 接近/v 人类/n 智能/n 。/w
+
+至今/d 世界/n 仅/d 一智/nz 能/ng 聊天/v 程序/n （/w 尤金/nr ·/w 古斯特/nr 曼/ag ）/w 勉/vg 通/a 图灵/n 测试/v 。/w 由此可见/ldm 人类/n 距/p 实现/v 真正/b 意义/n 人工智能/n 还有/v 很/d 长路/n 要/v 走/v 。/w
+
+关系/n
+
+人工智能/n 、/w 机器/np 学习/v 、/w 深度/n 学习/v 呈/ng 同心圆/n 关系/n ：/w
+
+*/w 外层/n 人工智能/n ，/w 提出/v 概念/n 至今/d 出现/v 多种/a 实现/v 思路/n //w 算法/n 。/w
+*/w 中间层/n 机器/np 学习/v ，/w 人工智能/n 子集/n ，/w 互联网/n 许多/mq 推荐/v 算法/n 、/w 相关性/n 排名/n 算法/n 依托/v 基础/n 。/w
+*/w 内层/n 深度/n 学习/v ，/w 机器/np 学习/v 为/p 基础/n 进步/a 升华/v ，/w 当今/t 人工智能/n 大/a 爆炸/v 核心/n 驱动/v 。/w

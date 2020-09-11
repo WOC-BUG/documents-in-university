@@ -1,0 +1,34 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+[/w 人工智能/n ]/w 人工智能/n 基础/n 语法/n 篇/ng ,/w https://blog.csdn.net/BaiHuaXiu123/article/details/53050497/url ,/w 前言/n n/en 可以/a 用来/v 开发/v 机器/np 学习/v 主要/b 有/v 三门/ns 语言/n :/w Python/en //w Java/en //w C/en +/0 +/0 ,/w 其中/r Python/en 是/v 主流/n ./m 下面/f 是/v Python/en 具体/a 的/u 学习/v 大纲/n ,/w 这个/r 大纲/n 我/r 也/d 是/v 借鉴/v 别人/r 的/u ,/w 所以/c 大家/r 也/d 可以/a 参考/v 来/u 学习/v 一下/d ./m n/n 人工智能/n 基础/n 语法/n 篇/ng ,/w https://blog.csdn.net/BaiHuaXiu123/article/details/53050497/url ,/w ,/w BaiHuaXiu/en 123/m ,/w 2016-11-06/t ,/w //blog.csdn.net/BaiHuaXiu123/article/details/53050497/url ,/w 6843/m 次/a 阅读/v ,/w [/w 人工智能/n ]/w 人工智能/n 基础/n 语法/n 篇/ng -/w 刘玉刚/nr ,/w 2016年11月06日 02:45:50/t ,/w 原/b [/w 人工智能/n ]/w 人工智能/n 基础/n 语法/n 篇/ng
+
+
+
+2016年11月06日 02:45:50/t
+刘玉刚/nr
+阅读/v 数/m ：6844/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 未经/d 博主/n 允许/v 不得/v 转载/v (/w https://github.com/ai-word/url )/w https://blog.csdn.net/BaiHuaXiu123/article/details/53050497/url
+
+
+
+
+
+
+#/w 前言/n
+
+可以/a 用来/v 开发/v 机器/np 学习/v 主要/b 有/v 三门/ns 语言/n :/w Python/en //w Java/en //w C/en +/0 +/0 ,/w 其中/r Python/en 是/v 主流/n ./m 下面/f 是/v Python/en 具体/a 的/u 学习/v 大纲/n ,/w 这个/r 大纲/n 我/r 也/d 是/v 借鉴/v 别人/r 的/u ,/w 所以/c 大家/r 也/d 可以/a 参考/v 来/u 学习/v 一下/d ./m
+
+#/w 人工智能/n 基础/n 语法/n 篇/ng

@@ -1,0 +1,38 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_42239044/article/details/85128290/url ,/w numpy/en :/w yield/en ,/w [/w ]/w ,/w (/w )/w ,/w ,/w [/w :/w ]/w nPython/en :/w zip/en ,/w linspace/en ,/w nkeras/en :/w Senquential/en ,/w Model.savenTesorflow:Session.run/url ,/w nDNNnCNNnRNN/en ,/w nOpenCVnmatplotlibnSGD/en ,/w nBNnn/en ,/w https://blog.csdn.net/weixin_42239044/article/details/85128290/url ,/w ,/w weixin/en _/0 42239044/m ,/w 2018-12-20/t ,/w //blog.csdn.net/weixin_42239044/article/details/85128290/url ,/w 44/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 42239044/m 的/u 博客/n ,/w 2018年12月20日 17:15:45/t ,/w 原/b 人工智能/n
+
+
+
+2018年12月20日 17:15:45/t
+Prestonhuang/en
+阅读/v 数/m ：/w 45/m 更多/n
+
+
+个人/n 分类/v ：/w
+人工智能/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+numpy/en :/w yield/en ,/w [/w ]/w ,/w (/w )/w ,/w {/0 }/0 ,/w [/w :/w ]/w
+Python/en :/w zip/en ,/w linspace/en ,/w
+keras/en :/w Senquential/en ,/w Model.save/url
+Tesorflow:Session.run/url ,/w
+DNN/en
+CNN/n
+RNN/en ,/w
+OpenCV/en
+matplotlib/en
+SGD/en ,/w
+BN/en

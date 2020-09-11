@@ -1,0 +1,20 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/jsjwq810/article/details/6026998/url ,/w 最近/t 在/d 看/u 人工智能/n ，/w 记得/v 本科/n 时/n 学/k 过/d ，/w 研究生/n 时/n 也/d 学/k 过/d ，/w 可是/c 还是/c 没有/d 什么/r 深刻/a 的/u 认识/n 。/w ,/w https://blog.csdn.net/jsjwq810/article/details/6026998/url ,/w ,/w jsjwq/en 810/m ,/w 2010-11-22/t ,/w //blog.csdn.net/jsjwq810/article/details/6026998/url ,/w 290/m 次/a 阅读/v ,/w 人工智能/n -/w jsjwq/en 810/m 的/u 专栏/n ,/w 2010年11月22日 14:50:00/t ,/w 原/b 人工智能/n
+
+
+
+2010年11月22日 14:50:00/t
+jsjwq/en 810/m
+阅读/v 数/m ：291/m
+
+
+
+
+
+
+
+
+
+
+
+最近/t 在/d 看/u 人工智能/n ，/w 记得/v 本科/n 时/n 学/k 过/d ，/w 研究生/n 时/n 也/d 学/k 过/d ，/w 可是/c 还是/c 没有/d 什么/r 深刻/a 的/u 认识/n 。/w

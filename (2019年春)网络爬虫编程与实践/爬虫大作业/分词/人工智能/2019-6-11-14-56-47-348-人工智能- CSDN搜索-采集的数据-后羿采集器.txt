@@ -1,0 +1,48 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qiezikuaichuan/article/details/51286497/url ,/w 2/m 、/w 人工智能/n rn/en  /0  /0 2.1/m 能/ng 完成/v 很多/mq 人类/n 无法/v 完成/v 的/u 工作/n ，/w 能够/v 帮助人/n 类/n 减少/v 工作量/n ，/w 能/ng 智能/n 的/u 为人/v 类/n 服务/v ，/w 就是/n 比/p 纯粹/a 的/u 机器/np ，/w 或者/c 纯粹/a 的/u 工具/n ，/w 更加/d 具有/v 智能/n 的/u 反应/n rn/en  /0  /0 2.2/m 具体/a 应用/v 的/u 领域/n ：/w  /0 rn/en 1/m 、/w 自动/b 驾驶/v 汽车/np rn/en  /0  /0  /0  /0 2/m 、/w 自动/b 关灯/v rn/en  /0  /0  /0  /0 3/m 、/w 陪/v 你/r 下棋/v rn/en  /0  /0  /0  /0 4/m 、/w 预测/v 我们/r 的/u 需求/n rn/en  /0  /0  /0 5/m 、/w 自动/b 翻译/n rn/en  /0  /0  /0 6/m 、/w ,/w https://blog.csdn.net/qiezikuaichuan/article/details/51286497/url ,/w ,/w qiezikuaichuan/en ,/w 2016-04-30/t ,/w //blog.csdn.net/qiezikuaichuan/article/details/51286497/url ,/w 301/m 次/a 阅读/v ,/w 人工智能/n -/w qiezikuaichuan/en 的/u 专栏/n ,/w 2016年04月30日 14:52:32/t ,/w 转/q 人工智能/n
+
+
+
+2016年04月30日 14:52:32/t
+孟德/nr 新书/n
+阅读/v 数/m ：302/m
+
+
+
+
+
+
+
+
+
+
+
+
+2/m 、/w 人工智能/n
+/0  /0 2.1/m 能/ng 完成/v 很多/mq 人类/n 无法/v 完成/v 的/u 工作/n ，/w 能够/v 帮助人/n 类/n 减少/v 工作量/n ，/w 能/ng 智能/n 的/u 为人/v 类/n 服务/v ，/w 就是/n 比/p 纯粹/a 的/u 机器/np ，/w 或者/c 纯粹/a 的/u 工具/n ，/w 更加/d 具有/v 智能/n 的/u 反应/n
+/0  /0 2.2/m 具体/a 应用/v 的/u 领域/n ：/w  /0
+1/m 、/w 自动/b 驾驶/v 汽车/np
+/0  /0  /0  /0 2/m 、/w 自动/b 关灯/v
+/0  /0  /0  /0 3/m 、/w 陪/v 你/r 下棋/v
+/0  /0  /0  /0 4/m 、/w 预测/v 我们/r 的/u 需求/n
+/0  /0  /0 5/m 、/w 自动/b 翻译/n
+/0  /0  /0 6/m 、/w 协助/v 旅游/v
+/0  /0  /0 7/m 、/w 智能/n 汽车/np ，/w 智能/n 电脑/np ，/w 会/n 说话/v 的/u 机器人/n ，/w 能/ng 跟/c 人/n 沟通/v 的/u 机器人/n 。/w
+/0  /0  /0 8/m 、/w 有情/a 感/ng 的/u 机器人/n ，/w 知道/v 你/r 的/u 想法/n ，/w
+/0  /0  /0 9/m 、/w 改造/v 汽车/np ，/w 智能/n 驾驶/v ，/w 自动/b 寻找/v 加油站/nc ，/w 自动/b 计算/v 加油站/nc
+/0  /0  /0 10/m 、/w 教育/n ，/w 远程教育/ln ，/w 可以/a 参加/v 任何/r 的/u 教育/n 活动/n ，/w 比如/v 我们/r 的/u 斯坦福/ns 的/u 那个/r 机器/np 学习/v 教育/n ，/w 很/d 有意/d 义/ng
+/0  /0  /0 11/m 、/w 医疗保健/n ，/w 体检/v ，/w 血液/n ，/w 眼睛/n ，/w 五官/n ，/w 尿液/n ，/w 的/u 检查/v ，/w 得到/v 你/r 的/u 数据/n ，/w 进行/v 分析/v 和/c 预测/v ，/w 是否/v 会/n 产生/v 多余/a 热量/n
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 是否/v 会/n 产生/v 脂肪/n ，/w 是否/v 会/n 怎么样/r ，/w 通过/p 图片/n 的/u 分析/v 得到/v 这个/r 东西/n 的/u 百科/n 。/w
+/0  /0  /0 12/m 、/w 体育/n ，/w 判断/n 今天/t 的/u 运动量/n 是否/v 足够/v ，/w 判断/n 今天/t 是否/v 会/n 疲劳/a 。/w 判断/n 今天/t 适合/v 进行/v 什么样/r 的/u 运动/n ，/w 帮/ng 你/r 预约/v
+/0  /0  /0 13/m 、/w 所有/b 的/u 地方/n ，/w 设备/n ，/w 人/n 都/d 能/ng 联网/v 。/w 叫/v 物联网/n 。/w 这/r 也/d 是/v 一/m 种/ng 商机/n 啊/y ，/w 把/p 所有/b 的/u 物品/n 都/d 链接/n 上网/v ，/w 就/d 能/ng 掌握/v 各种/r 物品/n 的/u 信息/n ，/w 进而/c 产生/v 有意思/a 的/u 事情/n ，/w 对/a 吧/y 。/w 恩/ng 恩/ng
+/0  /0  /0  /0 汽车/np 、/w 智慧城市/ln ，/w 教育/n 、/w 医疗/n 。/w 可/v 穿戴/n 设备/n ，/w 智能家居/n
+/0  /0  /0 14/m 、/w 智能家居/n 、/w 预测/v 电视节目/n 。/w 一句话/n ：/w 使/ng 家庭/n 更加/d 智能/n 。/w 更加/d smart/n
+/0  /0 15/m 、/w 可/v 穿戴/n 设备/n 。/w 肯定/a 是/v 有/v 他/r 的/u 好处/n ，/w 不然/c 不会/v 出现/v 。/w 挺/ag 好/a ，/w 挺/ag 酷/a 的/u
+/0  /0 16/m 、/w 更加/d 智能/n 提醒/v 。/w 手表/np ，/w 眼镜/n
+
+/0  /0 看过/v 人工智能/n 的/u 一些/mq 知识/n 之后/f ，/w 不可/v 否定/v ，/w 未来/t 人工智能/n 将/d 非常/b 普及/a ，/w 语音/n 识别/v ，/w 图像/n 识别/v ，/w 搜索/n ，/w 知识库/n 的/u 建立/v ，/w 机器/np 有感/v 情/n ，/w 能比/n 人类/n 更加/d 智能/n ，/w 这些/r 都/d 会/n 发生/v 。/w
+/0  /0 而且/c 肯定/a 是/v 一个/mq 非常/b 大/a 的/u 趋势/n 的/u 。/w 在/d 未来/t 20/m 年/n ，/w 30年中/t ，/w 就/d 会/n 非常/b 普及/a 了/dg 。/w
+1/m 、/w 机器人/n
+2/m 、/w 语言/n 识别/v
+3/m 、/w 图像/n 识别/v
+4/m 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng

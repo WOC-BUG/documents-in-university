@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+【5G】基本知识,n5G 网络和 4G 网络有什么区别？ - 小枣君的回答 - 知乎 ： 很好的入门科普，高频电波->毫米波长->天线阵列->MIMO，D2D，小基站广布nnn,baishuo8,https://blog.csdn.net/baishuo8/article/details/86744735,2019-02-01,488次阅读,【5G】基本知识 - 鹅城视觉驿站,2019年02月01日 20:52:28,5G 网络和 4G 网络有什么区别？ - 小枣君的回答 - 知乎 ： 很好的入门科普，高频电波->毫米波长->天线阵列->MIMO，D2D，小基站广布,,,,,

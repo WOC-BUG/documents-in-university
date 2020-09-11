@@ -1,0 +1,155 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+15/m 个/q 开源/v 的/u 顶级/a 人工智能/n 工具/n -/w 书写/v 人生/n -/w CSDN/en 博客/n ,/w https://blog.csdn.net/yelin042/article/details/78560501/url ,/w 在/d 本文/r 中/f ,/w 我们/r 将/d 聚焦/v 于/ng 开源/v 的/u 人工智能/n 工具/n ,/w 详细/a 的/u 了解/v 下/f 最/d 着/n 名/n 的/u 15/m 个/q 开源/v 人工智能/n 项目/n 。/w 以下/f 这些/r 开源/v 人工智能/n 应用/v 都/d 处于/v 人工智能/n 研究/v 的/u 最前沿/s 。/w 1./m Caffe/en 它/r 是/v .../m ,/w ,/w //blog.csdn.net/yelin042/article/details/78560501/url ,/w ,/w ,/w ,/w ,/w 15/m 个/q 开源/v 的/u 顶级/a 人工智能/n 工具/n -/w 书写/v 人生/n ,/w 2017年11月17日 13:58:52/t ,/w 转/q 15/m 个/q 开源/v 的/u 顶级/a 人工智能/n 工具/n
+
+
+
+2017年11月17日 13:58:52/t
+东边/f 的/u 小山/n
+阅读/v 数/m ：3032/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n artificial/en intelligence/en ，/w AI/n 是/v 科技/n 研究/v 中/f 最/d 热门/a 的/u 方向/n 之一/r 。/w 像/n IBM/nq 、/w 谷歌/nt 、/w 微软/nt 、/w Facebook/en 和/c 亚马逊/nr 等/ng 公司/nc 都/d 在/d 研发/v 上/f 投入/a 大量/mq 的/u 资金/n 、/w 或者/c 收购/v 那些/r 在/d 机器/np 学习/v 、/w 神经网络/n 、/w 自然语言/n 和/c 图像处理/n 等/ng 领域/n 取得/v 了/dg 进展/v 的/u 初创/v 公司/nc 。/w 考虑/v 到/ng 人们/n 对此/n 感兴趣/a 的/u 程度/n ，/w 我们/r 将/d 不会/v 惊讶/a 于斯坦福/nr 的/u 专家/n 在/d 人工智能/n 报告/n 中/f 得出/v 的/u 结论/n ：/w “/w 越来越/d 强大/a 的/u 人工智能/n 应用/v ，/w 可能/a 会/n 对/a 我们/r 的/u 社会/n 和/c 经济/n 产生/v 深远/a 的/u 积极/a 影响/v ，/w 这/r 将/d 出现/v 在/d 从/p 现在/t 到/ng
+2030 年/t 的/u 时间段/n 里/f 。/w ”/w
+
+在/d 最近/t 的/u 一/m 篇文章/n 中/f ，/w 我们/r 概述/v 了/dg
+45/m 个/q 十分/d 有趣/a 或/c 有/v 前途/n 的/u 人工智能/n 项目/n 。/w 在/d 本文/r 中/f ，/w 我们/r 将/d 聚焦/v 于/ng 开源/v 的/u 人工智能/n 工具/n ，/w 详细/a 的/u 了解/v 下/f 最/d 着/n 名/n 的/u 15/m 个/q 开源/v 人工智能/n 项目/n 。/w
+
+以下/f 这些/r 开源/v 人工智能/n 应用/v 都/d 处于/v 人工智能/n 研究/v 的/u 最前沿/s 。/w
+
+
+1./m Caffe/en
+
+
+
+它/r 是由/n 贾扬清/nr 在/d 加州/ns 大学/nc 伯克利分校/nt 的/u 读博/v 时/n 创造/n 的/u ，/w Caffe/en  /0 是/v 一个/mq 基于/p 表达/v 体系结构/n 和/c 可/v 扩展/v 代码/n 的/u 深度/n 学习/v 框架/n 。/w 使/ng 它/r 声名鹊起/iv 的/u 是/v 它/r 的/u 速度/n ，/w 这/r 让/v 它/r 受到/v 研究人员/n 和/c 企业/n 用户/n 的/u 欢迎/v 。/w 根据/n 其/r 网站/nc 所/n 言/ng ，/w 它/r 可以/a 在/d 一/m 天/n 之内/f 只用/v 一个/mq
+NVIDIA/en K/en 40/m GPU/en 处理/v 6000 万/m 多个/n 图像/n 。/w 它/r 是由/n 伯克利/ns 视野/n 和学习中/nr 心/n （/w BVLC/en ）/w 管理/v 的/u ，/w 并且/c 由/p NVIDIA/en 和/c 亚马逊/nr 等/ng 公司/nc 资助/v 来/u 支持它/n 的/u 发展/v 。/w
+
+
+2./m CNTK/en
+
+
+
+它/r 是/v 计算/v 网络工具/n 包/n Computational/en Network/en Toolkit/en 的/u 缩写/n ，/w CNTK/en  /0 是/v 一个/mq 微软/nt 的/u 开源/v 人工智能/n 工具/n 。/w 不论/c 是在/n 单个/b
+CPU/np 、/w 单个/b GPU/n 、/w 多个/n GPU/en 或是/c 拥有/v 多个/n GPU/en 的/u 多台/n 机器/np 上/f 它/r 都/d 有/v 优异/a 的/u 表现/v 。/w 微软/nt 主要/b 用/ng 它/r 做/v 语音/n 识别/v 的/u 研究/v ，/w 但是/c 它/r 在/d 机器翻译/ln 、/w 图像/n 识别/v 、/w 图像/n 字幕/n 、/w 文本/n 处理/v 、/w 语言/n 理解/v 和/c 语言/n 建模/v 方面/n 都/d 有着/v 良好/a 的/u 应用/v 。/w
+
+
+3./m Deeplearning/en 4/m j/en
+
+
+
+Deeplearning/en 4/m j/en  /0 是/v 一个/mq
+java/en 虚拟/v 机/np （/w JVM/en ）/w 的/u 开源/v 深度/n 学习/v 库/n 。/w 它/r 运行/v 在/d 分布式/b 环境/n 并且/c 集成/b 在/d Hadoop/en 和/c Apache/en Spark/en 中/f 。/w 这/r 使/ng 它/r 可以/a 配置/n 深度/n 神经网络/n ，/w 并且/c 它/r 与/c Java/n 、/w Scala/en 和/c 其他/r JVM/en 语言/n 兼容/v 。/w
+
+这个/r 项目/n 是由/n 一个/mq 叫做/v Skymind/en 的/u 商业/n 公司/nc 管理/v 的/u ，/w 它/r 为/p 这个/r 项目/n 提供/v 支持/v 、/w 培训/v 和/c 一个/mq 企业/n 的/u 发行/v 版/n 。/w
+
+
+4./m DMTK/en
+
+
+
+DMTK/en  /0 是/v 分布式/b 机器/np 学习/v 工具/n Distributed/en
+Machine/en Learning/en Toolkit/en 的/u 缩写/n ，/w 和/c CNTK/en 一样/a ，/w 是/v 微软/nt 的/u 开源/v 人工智能/n 工具/n 。/w 作为/n 设计/v 用于/v 大数据/n 的/u 应用程序/n ，/w 它/r 的/u 目标/n 是/v 更快/n 的/u 训练/v 人工智能/n 系统/a 。/w 它/r 包括/v 三个/n 主要/b 组件/n ：/w DMTK/en 框架/n 、/w LightLDA/en 主题/n 模型/n 算法/n 和/c 分布式/b （/w 多义/nz ）/w 字/n 嵌入/v 算法/n 。/w 为了/p 证明/n 它/r 的/u 速度/n ，/w 微软/nt 声称/v 在/d 一个/mq 八集/ns 群/n 的/u 机器/np 上/f ，/w 它/r 能够/v “/w 用/ng 100 万/m 个/q 主题/n 和/c 1000 万/m 个/q 单词/n 的/u 词汇表/n （/w 总共/d 10 万亿/m 参数/n ）/w 训练/v 一个/mq 主题/n 模型/n ，/w 在/d 一个/mq 文档/n 中/f 收集/v 1000 亿/m 个/q 符号/n ，/w ”/w 。/w 这/r 一成/nz 绩/ng 是/v 别的/r 工具/n 无法/v 比拟/v 的/u 。/w
+
+
+5./m H/en 20/m
+
+
+
+相比/v 起/q 科研/n ，/w H/en 2/m O/en  /0 更/d 注重/v 将/d
+AI/en 服务/v 于/ng 企业/n 用户/n ，/w 因此/c H/en 2/m O/en 有着/v 大量/mq 的/u 公司/nc 客户/n ，/w 比如/v 第一/m 资本金/n 融/v 公司/nc 、/w 思科/nz 、/w Nielsen/en Catalina/en 、/w PayPal/en 和/c 泛美/jb 都/d 是/v 它/r 的/u 用户/n 。/w 它/r 声称/v 任何人/r 都/d 可以/a 利用/v 机器/np 学习/v 和/c 预测/v 分析/v 的/u 力量/n 来/u 解决/v 业务/n 难题/n 。/w 它/r 可以/a 用于/v 预测/v 建模/v 、/w 风险/n 和/c 欺诈/v 分析/v 、/w 保险/a 分析/v 、/w 广告/n 技术/n 、/w 医疗保健/n 和/c 客户/n 情报/n 。/w
+
+它/r 有/v 两/m 种/ng 开源/v 版本/n ：/w 标准版/nz H/en 2/m O/en 和/c Sparking/en Water/en 版/n ，/w 它/r 被/ng 集成/b 在/d Apache/en Spark/en 中/f 。/w 也/d 有/v 付费/v 的/u 企业/n 用户/n 支持/v 。/w
+
+
+6./m Mahout/en
+
+
+
+它/r 是/v Apache/en 基金会/nc 项目/n ，/w Mahout/en  /0 是/v 一个/mq 开源/v 机器/np 学习/v 框架/n 。/w 根据/n 它/r 的/u 网站/nc 所/n 言/ng ，/w 它/r 有着/v 三个/n 主要/b 的/u 特性/n ：/w 一个/mq 构建/v 可/v 扩展/v 算法/n 的/u 编程/v 环境/n 、/w 像/n
+Spark/en 和/c H/en 2/m O/en 一样/a 的/u 预制/v 算法/n 工具/n 和/c 一个/mq 叫/v Samsara/en 的/u 矢量/n 数学/n 实验/n 环境/n 。/w 使用/v Mahout/en 的/u 公司/nc 有/v Adobe/n 、/w 埃森哲/nr 咨询公司/lnc 、/w Foursquare/en 、/w 英特尔/nz 、/w 领/ng 英/jns 、/w Twitter/en 、/w 雅虎/nt 和/c 其他/r 许多/mq 公司/nc 。/w 其/r 网站/nc 列/n 了/dg 出/q 第三方/n 的/u 专业/a 支持/v 。/w
+
+
+7./m MLlib/en
+
+
+
+由于/c 其/r 速度/n ，/w Apache/en Spark/en 成为/v 一个/mq 最/d 流行/v 的/u 大数据/n 处理/v 工具/n 。/w MLlib/en  /0 是/v
+Spark/en 的/u 可/v 扩展/v 机器/np 学习/v 库/n 。/w 它/r 集成/b 了/dg Hadoop/en 并/c 可以/a 与/c NumPy/en 和/c R/en 进行/v 交互/b 操作/v 。/w 它/r 包括/v 了/dg 许多/mq 机器/np 学习/v 算法/n 如/c 分类/v 、/w 回归/v 、/w 决策/n 树/n 、/w 推荐/v 、/w 集群/n 、/w 主题/n 建模/v 、/w 功能/n 转换/v 、/w 模型/n 评价/n 、/w ML/en 管道/n 架构/n 、/w ML/en 持久/a 、/w 生存/v 分析/v 、/w 频繁/a 项/ng 集/n 和/c 序列/n 模式/n 挖掘/v 、/w 分布式/b 线性代数/n 和/c 统计/v 。/w
+
+
+8./m NuPIC/en
+
+
+
+由/p  /0 Numenta/en  /0 公司/nc 管理/v 的/u  /0 NuPIC/en  /0 是/v 一个/mq 基于/p 分层/v 暂时/d 记忆/n Hierarchical/en
+Temporal/en Memory/en ，/w HTM/en 理论/n 的/u 开源/v 人工智能/n 项目/n 。/w 从/p 本质/n 上/f 讲/v ，/w HTM/en 试图/v 创建/v 一个/mq 计算机系/n 统/ng 来/u 模仿/v 人类/n 大脑皮层/ln 。/w 他们/r 的/u 目标/n 是/v 创造/n 一个/mq “/w 在/d 许多/mq 认知/v 任务/n 上/f 接近/v 或者/c 超越/v 人类/n 认知/v 能力/n ”/w 的/u 机器/np 。/w
+
+除了/p 开源/v 许可/v ，/w Numenta/en 还/d 提供/v NuPic/en 的/u 商业/n 许可/v 协议/n ，/w 并且/c 它/r 还/d 提供/v 技术/n 专利/n 的/u 许可证/n 。/w
+
+
+9./m OpenNN/en
+
+
+
+作为/n 一个/mq 为/p 开发者/n 和科研/nr 人员/n 设计/v 的/u 具有/v 高级/a 理解力/n 的/u 人工智能/n ，/w OpenNN/en  /0 是/v 一个/mq 实现/v 神经网络/n 算法/n 的/u
+c/en +/0 +/0 编程/v 库/n 。/w 它/r 的/u 关键/a 特性/n 包括/v 深度/n 的/u 架构/n 和/c 快速/b 的/u 性能/n 。/w 其/r 网站/nc 上/f 可以/a 查/ng 到/ng 丰富/a 的/u 文档/n ，/w 包括/v 一个/mq 解释/v 了/dg 神经网络/n 的/u 基本知识/n 的/u 入门教程/n 。/w OpenNN/en 的/u 付费/v 支持/v 由/p 一家/n 从事/v 预测/v 分析/v 的/u 西班牙/ns 公司/nc  /0 Artelnics/en  /0 提供/v 。/w
+
+
+10./m OpenCyc/en
+
+
+
+由/p Cycorp/en 公司/nc 开发/v 的/u  /0 OpenCyc/en  /0 提供/v 了/dg 对/a
+Cyc/en 知识库/n 的/u 访问/v 和/c 常识/n 推理/v 引擎/n 。/w 它/r 拥有超过/n 239/m ,/w 000/m 个/q 条目/n ，/w 大约/d 2/m ,/w 093/m ,/w 000/m 个/q 三元/nz 组/n 和/c 大约/d 69/m ,/w 000/m owl/en ：/w 这是/n 一/m 种类/n 似/d 于/ng 链接/n 到/ng 外部/f 语义/n 库/n 的/u 命名/v 空间/n 。/w 它/r 在/d 富领域模/nr 型/k 、/w 语义/n 数据/n 集成/b 、/w 文本/n 理解/v 、/w 特殊/a 领域/n 的/u 专家系统/n 和/c 游戏/n AI/en 中/f 有着/v 良好/a 的/u 应用/v 。/w 该/r 公司/nc 还/d 提供/v 另外/c 两个/n 版本/n 的/u Cyc/en ：/w 一个/mq 可/v 免费/v 的/u 用于/v 科研/n 但是/c 不/d 开源/v ，/w 和/c 一个/mq 提供/v 给/v 企业/n 的/u 但是/c 需要/n 付费/v 。/w
+
+
+11./m Oryx/en 2/m
+
+
+
+构建/v 在/d Apache/en Spark/en 和/c Kafka/en 之上/f 的/u  /0 Oryx/en
+2/m  /0 是/v 一个/mq 专门/b 针对/v 大规模/b 机器/np 学习/v 的/u 应用程序/n 开发/v 框架/n 。/w 它/r 采用/v 一个/mq 独特/a 的/u 三/m 层/n λ/0 架构/n 。/w 开发者/n 可以使/n 用/ng Orys/en 2/m 创建/v 新/a 的/u 应用程序/n ，/w 另外/c 它/r 还/d 拥有/v 一些/mq 预先/d 构建/v 的/u 应用程序/n 可以/a 用于/v 常见/a 的/u 大数据/n 任务/n 比如/v 协同/v 过滤/v 、/w 分类/v 、/w 回归/v 和聚/nr 类/n 。/w 大数据/n 工具/n 供应商/n Cloudera/en 创造/n 了/dg 最初/t 的/u Oryx/en 1/m 项目/n 并且/c 一直/d 积极/a 参与/v 持续/v 发展/v 。/w
+
+
+12./m PredictionIO/en
+
+
+
+今年/t 的/u 二月/t ，/w Salesforce/en 收购/v 了/dg  /0 PredictionIO/en ，/w 接着/c 在/d 七月/t ，/w 它/r 将/d 该/r 平台/n 和商标贡/nr 献给/v
+Apache/en 基金会/nc ，/w Apache/en 基金会/nc 将/d 其/r 列为/v 孵育/v 计划/n 。/w 所以/c 当/ag Salesforce/en 利用/v PredictionIO/en 技术/n 来/u 提升/v 它/r 的/u 机器/np 学习能力/n 时/n ，/w 成效/n 将/d 会同/v 步出/v 现在/t 开源/v 版本/n 中/f 。/w 它/r 可以/a 帮助/v 用户/n 创建/v 带有/v 机器/np 学习/v 功能/n 的/u 预测/v 引擎/n ，/w 这/r 可用/a 于/ng 部署/v 能够/v 实时/d 动态/n 查询/v 的/u Web/en 服务/v 。/w
+
+
+13./m SystemML/en
+
+
+
+最初/t 由/p IBM/en 开发/v ，/w  /0 SystemML/en  /0 现在/t 是/v 一个/mq
+Apache/en 大数据/n 项目/n 。/w 它/r 提供/v 了/dg 一个/mq 高度/b 可/v 伸缩/v 的/u 平台/n ，/w 可以/a 实现/v 高等/b 数学/n 运算/v ，/w 并且/c 它/r 的/u 算法/n 用/ng R/en 或/c 一/m 种类/n 似/d python/en 的/u 语法/n 写成/v 。/w 企业/n 已经/d 在/d 使用/v 它/r 来/u 跟踪/v 汽车维修/n 客户服务/n 、/w 规划/n 机场/ny 交通/n 和/c 连接/v 社会/n 媒体/n 数据/n 与/c 银行/nc 客户/n 。/w 它/r 可以/a 在/d Spark/en 或/c Hadoop/en 上/f 运行/v 。/w
+
+
+14./m TensorFlow/en
+
+
+
+TensorFlow/en  /0 是/v 一个/mq 谷歌/nt 的/u 开源/v 人工智能/n 工具/n 。/w 它/r 提供/v 了/dg 一个/mq 使用/v 数据流/n 图/n 进行/v 数值/n 计算/v 的/u 库/n 。/w 它/r 可以/a 运行/v 在/d 多种/a 不同/a 的/u 有着/v 单/b 或/c 多/a
+CPU/en 和/c GPU/en 的/u 系统/a ，/w 甚至/c 可以/a 在/d 移动/v 设备/n 上/f 运行/v 。/w 它/r 拥有/v 深厚/a 的/u 灵活性/n 、/w 真正/b 的/u 可/v 移植性/n 、/w 自动/b 微分/n 功能/n ，/w 并且/c 支持/v Python/en 和/c c++/n 。/w 它/r 的/u 网站/nc 拥有/v 十分/d 详细/a 的/u 教程/n 列表/v 来/u 帮助/v 开发者/n 和/c 研究人员/n 沉浸/v 于/ng 使用/v 或/c 扩展/v 他/r 的/u 功能/n 。/w
+
+
+15./m Torch/en
+
+
+
+Torch/en  /0 将/d 自己/r 描述/v 为/p ：/w “/w 一个/mq 优先/v 使用/v
+GPU/en 的/u 拥有/v 机器/np 学习/v 算法/n 广泛/a 支持/v 的/u 科学/a 计算/v 框架/n ”/w ，/w 它/r 的/u 特点/n 是/v 灵活性/n 和/c 速度/n 。/w 此外/c ，/w 它/r 可以/a 很/d 容易/a 的/u 通过/p 软件包/n 用于/v 机器/np 学习/v 、/w 计算机/np 视觉/n 、/w 信号处理/n 、/w 并行/v 处理/v 、/w 图像/n 、/w 视频/n 、/w 音频/n 和/c 网络/n 等/ng 方面/n 。/w 它/r 依赖/v 一个/mq 叫做/v LuaJIT/en 的/u 脚本/n 语言/n ，/w 而/c LuaJIT/en 是/v 基于/p Lua/en 的/u 。/w
+转载/v ：https://linux.cn/article-7830-1.html/url

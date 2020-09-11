@@ -1,0 +1,456 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+【/w 人工智能/n 】/w 人工智能/n 、/w 机器/np 学习/v 相关/v ,/w https://blog.csdn.net/weixin_34102807/article/details/86347595/url ,/w 编者按/n ：/w 本文/r 收集/v 了/dg 百/m 来/u 篇/ng 关于/p 机器/np 学习/v 和/c 深度/n 学习/v 的/u 资料/n ，/w 含/v 各种/r 文档/n ，/w 视频/n ，/w 源码/n 等/ng 。/w 而且/c 原文/n 也/d 会/n 不定期/d 的/u 更新/v ，/w 望/ng 看到/v 文章/n 的/u 朋友/n 能够/v 学到/v 更多/n 。/w rn/n 《/w Brief/en History/en of/en Machine/en Learning/en 》/w rn/n 介绍/v :/w 这是/n 一/m 篇/ng 介绍/v 机器/np 学习/v 历史/n 的/u 文章/n ，/w 介绍/v 很/d 全面/a ，/w 从/p 感知/v 机/np 、/w 神经网络/n 、/w 决策/n 树/n 、/w SVM/en 、/w Adaboost/en 到/ng 随机/b 森林/n 、/w Deep/en Learning.rn/url 《/w Deep/en Learning/en in/en N/en .../m ,/w https://blog.csdn.net/weixin_34102807/article/details/86347595/url ,/w ,/w weixin/en _/0 34102807/m ,/w 2016-09-09/t ,/w //blog.csdn.net/weixin_34102807/article/details/86347595/url ,/w 69/m 次/a 阅读/v ,/w 【/w 人工智能/n 】/w 人工智能/n 、/w 机器/np 学习/v 相关/v -/w weixin/en _/0 34102807/m 的/u 博客/n ,/w 2016年09月09日 14:48:00/t ,/w 转/q 【/w 人工智能/n 】/w 人工智能/n 、/w 机器/np 学习/v 相关/v
+
+
+
+2016年09月09日 14:48:00/t
+weixin/en _/0 34102807/m
+阅读/v 数/m ：/w 72/m
+
+
+
+
+
+
+
+
+
+
+
+编者按/n ：/w 本文/r 收集/v 了/dg 百/m 来/u 篇/ng 关于/p 机器/np 学习/v 和/c 深度/n 学习/v 的/u 资料/n ，/w 含/v 各种/r 文档/n ，/w 视频/n ，/w 源码/n 等/ng 。/w 而且/c 原文/n 也/d 会/n 不定期/d 的/u 更新/v ，/w 望/ng 看到/v 文章/n 的/u 朋友/n 能够/v 学到/v 更多/n 。/w
+《/w Brief/en History/en of/en Machine/en Learning/en 》/w
+介绍/v :/w 这是/n 一/m 篇/ng 介绍/v 机器/np 学习/v 历史/n 的/u 文章/n ，/w 介绍/v 很/d 全面/a ，/w 从/p 感知/v 机/np 、/w 神经网络/n 、/w 决策/n 树/n 、/w SVM/en 、/w Adaboost/en 到/ng 随机/b 森林/n 、/w Deep/en Learning./url
+《/w Deep/en Learning/en in/en Neural/en Networks/en :/w An/en Overview/en 》/w
+介绍/v :/w 这是/n 瑞士人/n 工智/nz 能/ng 实验室/nc Jurgen/en Schmidhuber/en 写/v 的/u 最新版/n 本/d 《/w 神经网络/n 与/c 深度/n 学习/v 综述/n 》/w 本/d 综述/n 的/u 特点/n 是以/c 时间/n 排序/v ，/w 从/p 1940 年/t 开始/v 讲/v 起/q ，/w 到/ng 60-80 年/t 代/n ，/w 80-90 年/t 代/n ，/w 一直/d 讲/v 到/ng 2000 年/t 后/f 及/c 最近/t 几/m 年/n 的/u 进展/v 。/w 涵盖/v 了/dg deep/en learning/en 里/f 各种/r tricks/en ，/w 引用/v 非常/b 全面/a ./m
+《/w A/en Gentle/en Introduction/en to/en Scikit/en -/w Learn/en :/w A/en Python/en Machine/en Learning/en Library/en 》/w
+介绍/v :/w 这是/n 一/m 份/n python/en 机器/np 学习/v 库/n ，/w 如果/c 您/r 是/v 一/m 位/q python/en 工程师/nx 而且/c 想/v 深入/a 的/u 学习机/n 器/k 学习/v ./m 那么/c 这/r 篇文章/n 或许/d 能够/v 帮助/v 到/ng 你/r ./m
+《/w How/en to/en Layout/en and/en Manage/en Your/en Machine/en Learning/en Project/en 》/w
+介绍/v :/w 这/r 一/m 篇/ng 介绍/v 如果/c 设计/v 和/c 管理/v 属于/v 你/r 自己/r 的/u 机器/np 学习/v 项目/n 的/u 文章/n ，/w 里面/f 提供/v 了/dg 管理/v 模版/n 、/w 数据管理/n 与/c 实践/v 方法/n ./m
+《/w Machine/en Learning/en is/en Fun/en !/w 》/w
+介绍/v :/w 如果/c 你/r 还/d 不知/v 道/n 什么/r 是/v 机器/np 学习/v ，/w 或则/c 是/v 刚刚/d 学习/v 感觉/n 到/ng 很/d 枯燥/a 乏味/a 。/w 那么/c 推荐/v 一/m 读/ng 。/w 这/r 篇文章/n 已经/d 被/ng 翻译/n 成/ng 中文/n ，/w 如果/c 有/v 兴趣/n 可以/a 移步/v  /0 http://blog.jobbole.com/67616//url
+《/w R/en 语言/n 参考/v 卡片/n 》/w
+介绍/v :/w R/en 语言/n 是/v 机器/np 学习/v 的/u 主要/b 语言/n ，/w 有/v 很多/mq 的/u 朋友/n 想/v 学习/v R/en 语言/n ，/w 但是/c 总是/d 忘记/v 一些/mq 函数/n 与/c 关键字/n 的/u 含义/n 。/w 那么/c 这/r 篇文章/n 或许/d 能够/v 帮助/v 到/ng 你/r
+《/w Choosing/en a/en Machine/en Learning/en Classifier/en 》/w
+介绍/v :/w 我/r 该/r 如何/r 选择/n 机器/np 学习/v 算法/n ，/w 这/r 篇文章/n 比较/d 直观/a 的/u 比较/d 了/dg Naive/en Bayes/en ，/w Logistic/en Regression/en ，/w SVM/en ，/w 决策/n 树/n 等/ng 方法/n 的/u 优劣/n ，/w 另外/c 讨论/v 了/dg 样本/n 大小/n 、/w Feature/en 与/c Model/en 权衡/v 等/ng 问题/n 。/w 此外/c 还有/v 已经/d 翻译/n 了/dg 的/u 版本/n :http://www.52ml.net/15063.html/url
+《/w An/en Introduction/en to/en Deep/en Learning/en :/w From/en Perceptrons/en to/en Deep/en Networks/en 》/w
+介绍/v ：/w 深度/n 学习/v 概述/v ：/w 从/p 感知/v 机/np 到/ng 深度/n 网络/n ，/w 作者/n 对于/p 例子/n 的/u 选择/n 、/w 理论/n 的/u 介绍/v 都/d 很/d 到位/v ，/w 由浅入深/lv 。/w 翻译/n 版本/n ：http://www.cnblogs.com/xiaowanyer/p/3701944.html/url
+《/w The/en LION/en Way/en :/w Machine/en Learning/en plus/en Intelligent/en Optimization/en 》/w
+介绍/v :/w </w 机器/np 学习/v 与/c 优化/v >/w 这是/n 一本/nz 机器/np 学习/v 的/u 小册子/n ，/w 短短/a 300/m 多/a 页/ng 道/n 尽/d 机器/np 学习/v 的/u 方方面面/ln ./m 图文并茂/lv ，/w 生动/a 易懂/a ，/w 没有/d 一/m 坨/q 坨/q 公式/n 的/u 烦恼/a ./m 适合/v 新手入门/n 打基础/v ，/w 也/d 适合/v 老手/n 温故而知新/l ./m 比起/v MLAPP/en //w PRML/en 等/ng 大部头/n ，/w 也许/d 这本/r 你/r 更/d 需要/n !/w 具体/a 内容/n 推荐/v 阅读/v :http://intelligent-optimization.org/LIONbook//url
+《/w 深度/n 学习/v 与/c 统计学/n 习/ng 理论/n 》/w
+介绍/v :/w 作者/n 是/v 来自/v 百度/nt ，/w 不过/c 他/r 本人/r 已经/d 在/d 2014 年 4 月/t 份/n 申请/n 离职/v 了/dg 。/w 但是/c 这/r 篇文章/n 很/d 不错/a 如果/c 你/r 不知/v 道/n 深度/n 学习/v 与/c 支持/v 向量/n 机/np //w 统计学/n 习/ng 理论/n 有/v 什么/r 联系/v ？/w 那么/c 应该/v 立即/d 看看/vv 这/r 篇文章/n ./m
+《/w 计算机/np 科学/a 中/f 的/u 数学/n 》/w
+介绍/v :/w 这本/r 书/n 是由/n 谷歌/nt 公司/nc 和/c MIT/en 共同/b 出品/n 的/u 计算机/np 科学/a 中/f 的/u 数学/n ：/w Mathematics/en for/en Computer/en Science/en ，/w Eric/en Lehman/en et/en al/en 2013/m 。/w 分为/v 5/m 大部分/n ：/w 1/m ）/w 证明/n ，/w 归纳/v 。/w 2/m ）/w 结构/n ，/w 数论/n ，/w 图/n 。/w 3/m ）/w 计数/v ，/w 求和/v ，/w 生成/v 函数/n 。/w 4/m ）/w 概率/n ，/w 随机/b 行走/v 。/w 5/m ）/w 递归/nz 。/w 等等/u
+《/w 信息/n 时代/n 的/u 计算机/np 科学/a 理论/n (/w Foundations/en of/en Data/en Science/en )/w 》/w
+介绍/v ：/w 信息/n 时代/n 的/u 计算机/np 科学/a 理论/n ，/w 目前/t 国内/s 有/v 纸质/b 书/n 购买/v ，/w iTunes/en 购买/v
+《/w Data/en Science/en with/en R/en 》/w
+介绍/v :/w 这是/n 一本/nz 由/p 雪城/n 大学/nc 新编/vn 的/u 第二/m 版/n 《/w 数据/n 科学/a 入门/v 》/w 教材/n ：/w 偏/a 实用型/n ，/w 浅显/a 易懂/a ，/w 适合/v 想/v 学习/v R/en 语言/n 的/u 同学/nm 选读/v 。/w
+《/w Twenty/en Questions/en for/en Donald/en Knuth/en 》/w
+介绍/v :/w 这/r 并/c 不是/n 一/m 篇/ng 文档/n 或/c 书籍/n 。/w 这是/n 篇/ng 向/p 图灵奖/nz 得主/n Donald/en Knuth/en 提问/v 记录稿/n ：/w 近日/t ，/w Charles/en Leiserson/en ,/w Al/en Aho/en ,/w Jon/en Bentley/en 等/ng 大神/n 向/p Knuth/en 提出/v 了/dg 20/m 个/q 问题/n ，/w 内容包括/n TAOCP/en ，/w P/en //w NP/en 问题/n ，/w 图灵机/n ，/w 逻辑/n ，/w 以及/c 为什么/r 大神/n 不用电/n 邮/ng 等等/u 。/w
+《/w Automatic/en Construction/en and/en Natural/en -/w Language/en Description/en of/en Nonparametric/en Regression/en Models/en 》/w
+介绍/v ：/w 不会/v 统计/v 怎么办/r ？/w 不知/v 道/n 如何/r 选择/n 合适/a 的/u 统计/v 模型/n 怎么办/r ？/w 那/c 这/r 篇文章/n 你/r 的/u 好好/d 读一读/vyv 了/dg 麻省理工/nt Joshua/en B/en ./m Tenenbaum/en 和/c 剑桥/n Zoubin/en Ghahramani/en 合作/v ，/w 写/v 了/dg 一/m 篇/ng 关于/p automatic/en statistician/en 的/u 文章/n 。/w 可以/a 自动/b 选择/n 回归/v 模型/n 类别/n ，/w 还/d 能/ng 自动/b 写/v 报告/n .../m
+《/w ICLR/en 2014/m 论文集/n 》/w
+介绍/v :/w 对/a 深度/n 学习/v 和/c representation/en learning/en 最新/a 进展/v 有/v 兴趣/n 的/u 同学/nm 可以/a 了解/v 一下/d
+《/w Introduction/en to/en Information/en Retrieval/en 》/w
+介绍/v ：/w 这是/n 一本/nz 信息/n 检索/v 相关/v 的/u 书籍/n ，/w 是由/n 斯坦福/ns Manning/en 与/c 谷歌/nt 副总/b 裁/ng Raghavan/en 等/ng 合着/v 的/u Introduction/en to/en Information/en Retrieval/en 一直/d 是/v 北美/ns 最/d 受/v 欢迎/v 的/u 信息/n 检索/v 教材/n 之一/r 。/w 最近/t 作者/n 增加/v 了/dg 该/r 课程/n 的/u 幻灯片/n 和/c 作业/n 。/w IR/en 相关/v 资源/n ：http://www-nlp.stanford.edu/IR-book/information-retrieval.html/url
+《/w Machine/en learning/en in/en 10/m pictures/en 》/w
+介绍/v :/w Deniz/en Yuret/en 用/ng 10/m 张/ng 漂亮/a 的/u 图/n 来/u 解释/v 机器/np 学习/v 重要/a 概念/n ：/w 1./m Bias/en //w Variance/en Tradeoff/en 2./m Overfitting/en 3./m Bayesian/en //w Occam's/en razor/en 4./m Feature/en combination/en 5./m Irrelevant/en feature/en 6./m Basis/en function/en 7./m Discriminative/en //w Generative/en 8./m Loss/en function/en 9./m Least/en squares/en 10./m Sparsity./url 很/d 清晰/a
+《/w 雅虎/nt 研究院/nc 的/u 数据/n 集/n 汇总/v 》/w
+介绍/v ：/w 雅虎/nt 研究院/nc 的/u 数据/n 集/n 汇总/v ：/w 包括/v 语言/n 类/n 数据/n ，/w 图/n 与/c 社交/n 类/n 数据/n ，/w 评分/n 与/c 分类/v 数据/n ，/w 计算/v 广告学/n 数据/n ，/w 图像/n 数据/n ，/w 竞赛/v 数据/n ，/w 以及/c 系统/a 类/n 的/u 数据/n 。/w
+《/w An/en Introduction/en to/en Statistical/en Learning/en with/en Applications/en in/en R/en 》/w
+介绍/v ：/w 这是/n 一本/nz 斯坦福/ns 统计学/n 着/n 名教授/n Trevor/en Hastie/en 和/c Robert/en Tibshirani/en 的/u 新书/n ，/w 并且/c 在/d 2014 年一月/t 已经/d 开课/v ：https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about/url
+Best/en Machine/en Learning/en Resources/en for/en Getting/en Started/en
+介绍/v ：/w 机器/np 学习/v 最佳/z 入门/v 学习资料/n 汇总/v 是/v 专为/n 机器/np 学习/v 初学者/n 推荐/v 的/u 优质/b 学习资源/n ，/w 帮助/v 初学者/n 快速/b 入门/v 。/w 而且/c 这/r 篇文章/n 的/u 介绍/v 已经/d 被/ng 翻译/n 成/ng 中文版/n 。/w 如果/c 你/r 不怎么/ld 熟悉/v ，/w 那么/c 我/r 建议/n 你/r 先/d 看一看/vyv 中文/n 的/u 介绍/v 。/w
+My/en deep/en learning/en reading/en list/en
+介绍/v :/w 主要/b 是/v 顺着/p Bengio/en 的/u PAMI/en review/en 的/u 文章/n 找出/v 来/u 的/u 。/w 包括/v 几/m 本/d 综述/n 文章/n ，/w 将近/d 100/m 篇/ng 论文/n ，/w 各位/r 山头/n 们/k 的/u Presentation/en 。/w 全部/mq 都/d 可以/a 在/d google/en 上/f 找到/v 。/w
+Cross/en -/w Language/en Information/en Retrieval/en
+介绍/v ：/w 这是/n 一本/nz 书籍/n ，/w 主要/b 介绍/v 的/u 是/v 跨/ng 语言/n 信息/n 检索/v 方面/n 的/u 知识/n 。/w 理论/n 很多/mq
+探索/v 推荐/v 引擎/n 内部/f 的/u 秘密/a ，/w 第/m 1/m 部分/n :/w 推荐/v 引擎/n 初探/v
+介绍/v :/w 本文/r 共有/v 三个/n 系列/n ，/w 作者/n 是/v 来自/v IBM/en 的/u 工程师/nx 。/w 它/r 主要/b 介绍/v 了/dg 推荐/v 引擎/n 相关/v 算法/n ，/w 并/c 帮助/v 读者/n 高效/b 的/u 实现/v 这些/r 算法/n 。/w 探索/v 推荐/v 引擎/n 内部/f 的/u 秘密/a ，/w 第/m 2/m 部分/n :/w 深度/n 推荐/v 引擎/n 相关/v 算法/n -/w 协同/v 过滤/v ,/w 探索/v 推荐/v 引擎/n 内部/f 的/u 秘密/a ，/w 第/m 3/m 部分/n :/w 深度/n 推荐/v 引擎/n 相关/v 算法/n -/w 聚/v 类/n
+《/w Advice/en for/en students/en of/en machine/en learning/en 》/w
+介绍/v ：/w 康奈尔大学/nt 信息/n 科学系/n 助理/n 教授/nx David/en Mimno/en 写/v 的/u 《/w 对/a 机器/np 学习/v 初学者/n 的/u 一点/mq 建议/n 》/w ，/w 写/v 的/u 挺/ag 实际/a ，/w 强调/v 实践/v 与/c 理论/n 结合/v ，/w 最后/f 还/d 引用/v 了/dg 冯/snr ·/w 的/u 名言/n :/w "/0 Young/en man/en ,/w in/en mathematics/en you/en don't/en understand/en things./url You/en just/en get/en used/en to/en them/en ./m "/0
+分布式/b 并行/v 处理/v 的/u 数据/n
+介绍/v ：/w 这是/n 一本/nz 关于/p 分布式/b 并行/v 处理/v 的/u 数据/n 《/w Explorations/en in/en Parallel/en Distributed/en Processing/en :/w A/en Handbook/en of/en Models/en ,/w Programs/en ,/w and/en Exercises/en 》/w ，/w 作者/n 是/v 斯坦福/ns 的/u James/en L/en ./m McClelland/en 。/w 着重/v 介绍/v 了/dg 各种/r 神/a 级/n 网络/n 算法/n 的/u 分布式/b 实现/v ，/w 做/v Distributed/en Deep/en Learning/en 的/u 童鞋/n 可以/a 参考/v 下/f
+《/w “/w 机器/np 学习/v ”/w 是/v 什么/r ？/w 》/w
+介绍/v :/w 【/w “/w 机器/np 学习/v ”/w 是/v 什么/r ？/w 】/w John/en Platt/en 是/v 微软/nt 研究院/nc 杰出/a 科学家/n ，/w 17 年/t 来/u 他/r 一直/d 在/d 机器/np 学习/v 领域/n 耕耘/v 。/w 近年来/t 机器/np 学习/v 变得/v 炙手可热/iv ，/w Platt/en 和同/nz 事/n 们/k 遂/d 决定/n 开设/v 博客/n ，/w 向/p 公众/n 介绍/v 机器/np 学习/v 的/u 研究进展/n 。/w 机器/np 学习/v 是/v 什么/r ，/w 被/ng 应用/v 在/d 哪里/r ？/w 来看/u Platt/en 的/u 这/r 篇/ng 博文/n
+《/w 2014 年/t 国际/n 机器/np 学习/v 大会/nh ICML/en 2014/m 论文/n 》/w
+介绍/v ：2014 年/t 国际/n 机器/np 学习/v 大会/nh （/w ICML/en ）/w 已经/d 于/ng 6 月 21-26 日/t 在/d 国家/n 会议中心/n 隆重/a 举办/v 。/w 本次/r 大会/nh 由/p 微软/nt 亚洲/ns 研究院/nc 和/c 清华大学/nt 联手/v 主办/v ，/w 是/v 这个/r 有着/v 30/m 多年历史/n 并/c 享誉世界/n 的/u 机器/np 学习/v 领域/n 的/u 盛会/n 首次/mq 来到/v 中国/ns ，/w 已/d 成功/a 吸引/v 海内外/s 1200/m 多/a 位/q 学者/n 的/u 报名/v 参与/v 。/w 干货/n 很多/mq ，/w 值得/v 深入/a 学习/v 下/f
+《/w Machine/en Learning/en for/en Industry/en :/w A/en Case/en Study/en 》/w
+介绍/v ：/w 这/r 篇文章/n 主要/b 是以/c Learning/en to/en Rank/en 为/p 例/n 说明/n 企业界/n 机器/np 学习/v 的/u 具体/a 应用/v ，/w RankNet/en 对/a NDCG/en 之类/r 不/d 敏感/a ，/w 加入/v NDCG/en 因素/n 后/f 变成/v 了/dg LambdaRank/en ，/w 同样/b 的/u 思想/n 从/p 神经网络/n 改为/v 应用/v 到/ng Boosted/en Tree/en 模型/n 就/d 成就/n 了/dg LambdaMART/en 。/w Chirs/en Burges/en ，/w 微软/nt 的/u 机器/np 学习/v 大神/n ，/w Yahoo/en 2010/m Learning/en to/en Rank/en Challenge/en 第一/m 名/n 得主/n ，/w 排序/v 模型/n 方面/n 有/v RankNet/en ，/w LambdaRank/en ，/w LambdaMART/en ，/w 尤其/d 以/p LambdaMART/en 最为/d 突出/a ，/w 代表/nx 论文/n 为/p ：/w  /0 From/en RankNet/en to/en LambdaRank/en to/en LambdaMART/en :/w An/en Overview/en  /0 此外/c ，/w Burges/en 还有/v 很多/mq 有名/a 的/u 代表作/n ，/w 比如/v ：/w A/en Tutorial/en on/en Support/en Vector/en Machines/en for/en Pattern/en Recognition/en
+Some/en Notes/en on/en Applied/en Mathematics/en for/en Machine/en Learning/en
+100/m Best/en GitHub/en :/w Deep/en Learning/en
+介绍/v :/w 100/m Best/en GitHub/en :/w Deep/en Learning/en
+《/w UFLDL/en -/w 斯坦福大学/nt Andrew/en Ng/en 教授/nx “/w Deep/en Learning/en ”/w 教程/n 》/w
+介绍/v :/w 本/d 教程/n 将/d 阐述/v 无/v 监督/v 特征/n 学习/v 和/c 深度/n 学习/v 的/u 主要/b 观点/n 。/w 通过/p 学习/v ，/w 你/r 也/d 将/d 实现/v 多个/n 功能/n 学习/v //w 深度/n 学习/v 算法/n ，/w 能/ng 看到/v 它们/r 为/p 你/r 工作/n ，/w 并/c 学习/v 如何/r 应用/v //w 适应/v 这些/r 想法/n 到/ng 新/a 问题/n 上/f 。/w 本/d 教程/n 假定/n 机器/np 学习/v 的/u 基本知识/n （/w 特别/a 是/v 熟悉/v 的/u 监督/v 学习/v ，/w 逻辑/n 回归/v ，/w 梯度/n 下降/v 的/u 想法/n ）/w ，/w 如果/c 你/r 不/d 熟悉/v 这些/r 想法/n ，/w 我们/r 建议/n 你/r 去/v 这里/r 机器/np 学习/v 课程/n ，/w 并先/nz 完成/v 第/m II/en ，/w III/en ，/w IV/en 章/n （/w 到/ng 逻辑/n 回归/v ）/w 。/w 此外/c 这/r 关于/p 这/r 套/n 教程/n 的/u 源代码/n 在/d github/en 上面/f 已经/d 有/v python/en 版本/n 了/dg  /0 UFLDL/en Tutorial/en Code/en
+*/w 《/w Deep/en Learning/en for/en Natural/en Language/en Processing/en and/en Related/en Applications/en 》/w
+介绍/v :/w 这份/mq 文档/n 来自/v 微软/nt 研究院/nc ，/w 精髓/n 很多/mq 。/w 如果/c 需要/n 完全/a 理解/v ，/w 需要/n 一定/b 的/u 机器/np 学习/v 基础/n 。/w 不过/c 有些/r 地方/n 会/n 让/v 人眼/n 前/f 一亮/nz ，/w 毛塞顿开/nr 。/w
+Understanding/en Convolutions/en
+介绍/v :/w 这是/n 一/m 篇/ng 介绍/v 图像/n 卷积/n 运算/v 的/u 文章/n ，/w 讲/v 的/u 已经/d 算/d 比较/d 详细/a 的/u 了/dg
+《/w Machine/en Learning/en Summer/en School/en 》/w
+介绍/v ：/w 每天/t 请/v 一个/mq 大牛/nz 来讲/u 座/ng ，/w 主要/b 涉及/v 机器/np 学习/v ，/w 大数据/n 分析/v ，/w 并行/v 计算/v 以及/c 人脑/n 研究/v 。/w https://www.youtube.com/user/smolix/url  /0 （/w 需/ng FQ/en ）/w
+《/w Awesome/en Machine/en Learning/en 》/w
+介绍/v ：/w 一个/mq 超级/b 完整/a 的/u 机器/np 学习/v 开源/v 库/n 总结/n ，/w 如果/c 你/r 认为/v 这个/r 碉堡/n 了/dg ，/w 那/c 后面/f 这个/r 列表/v 会/n 更/d 让/v 你/r 惊讶/a ：/w 【/w Awesome/en Awesomeness/en 】/w ，/w 国内/s 已经/d 有/v 热心/a 的/u 朋友/n 进行/v 了/dg 翻译/n 中文/n 介绍/v ，/w 机器/np 学习/v 数据挖掘/n 免费/v 电子书/n
+斯坦福/ns 《/w 自然语言/n 处理/v 》/w 课程/n 视频/n
+介绍/v :/w ACL/en 候任/v 主席/nx 、/w 斯坦福大学/nt 计算机系/n Chris/en Manning/en 教授/nx 的/u 《/w 自然语言/n 处理/v 》/w 课程/n 所有/b 视频/n 已经/d 可以/a 在/d 斯坦福/ns 公开课/n 网站/nc 上/f 观看/v 了/dg （/w 如/c Chrome/en 不行/a ，/w 可用/a IE/en 观看/v ）/w 作业/n 与/c 测验/v 也/d 可以/a 下载/v 。/w
+《/w Deep/en Learning/en and/en Shallow/en Learning/en 》/w
+介绍/v :/w 对比/v Deep/en Learning/en 和/c Shallow/en Learning/en 的/u 好文/nz ，/w 来着/y 浙大/nt 毕业/v 、/w MIT/en 读博/v 的/u Chiyuan/en Zhang/en 的/u 博客/n 。/w
+《/w Recommending/en music/en on/en Spotify/en with/en deep/en learning/en 》/w
+介绍/v :/w 利用/v 卷积/n 神经网络/n 做/v 音乐推荐/n 。/w
+《/w Neural/en Networks/en and/en Deep/en Learning/en 》/w
+介绍/v ：/w 神经网络/n 的/u 免费/v 在线/v 书/n ，/w 已经/d 写/v 了/dg 三/m 章/n 了/dg ，/w 还有/v 对应/v 的/u 开源/v 代码/n ：https://github.com/mnielsen/neural-networks-and-deep-learning/url  /0 爱好者/n 的/u 福音/n 。/w
+《/w Java/en Machine/en Learning/en 》/w
+介绍/v ：/w Java/en 机器/np 学习/v 相关/v 平台/n 和/c 开源/v 的/u 机器/np 学习/v 库/n ，/w 按照/p 大数据/n 、/w NLP/en 、/w 计算机/np 视觉/n 和/c Deep/en Learning/en 分类/v 进行/v 了/dg 整理/v 。/w 看起来/v 挺/ag 全/a 的/u ，/w Java/en 爱好者/n 值得/v 收藏/v 。/w
+《/w Machine/en Learning/en Theory/en :/w An/en Introductory/en Primer/en 》/w
+介绍/v ：/w 机器/np 学习/v 最/d 基本/a 的/u 入门/v 文章/n ，/w 适合/v 零基/nz 础/ng 者/k
+《/w 机器/np 学习/v 常见/a 算法/n 分类/v 汇总/v 》/w
+介绍/v ：/w 机器/np 学习/v 的/u 算法/n 很多/mq 。/w 很多/mq 时候/n 困惑/a 人们/n 都/d 是/v ，/w 很多/mq 算法/n 是/v 一类/b 算法/n ，/w 而/c 有些/r 算法/n 又是/n 从/p 其他/r 算法/n 中/f 延伸/v 出来/v 的/u 。/w 这里/r ，/w 我们/r 从/p 两个/n 方面/n 来/u 给/v 大家/r 介绍/v ，/w 第一/m 个/q 方面/n 是/v 学习/v 的/u 方式/n ，/w 第二/m 个/q 方面/n 是/v 算法/n 的/u 类似性/n 。/w
+《/w 机器/np 学习/v 经典/n 论文/n //w survey/en 合集/n 》/w
+介绍/v ：/w 看/u 题目/n 你/r 已经/d 知道/v 了/dg 是/v 什么/r 内容/n ，/w 没错/v 。/w 里面/f 有/v 很多/mq 经典/n 的/u 机器/np 学习/v 论文/n 值得/v 仔细/a 与/c 反复/d 的/u 阅读/v 。/w
+《/w 机器/np 学习/v 视频/n 库/n 》/w
+介绍/v ：/w 视频/n 由/p 加州理工学院/nt （/w Caltech/en ）/w 出品/n 。/w 需要/n 英语/n 底子/n 。/w
+《/w 机器/np 学习/v 经典/n 书籍/n 》/w
+介绍/v ：/w 总结/n 了/dg 机器/np 学习/v 的/u 经典/n 书籍/n ，/w 包括/v 数学基础/n 和/c 算法/n 理论/n 的/u 书籍/n ，/w 可/v 做为/v 入门/v 参考书/n 单/b 。/w
+《/w 16/m Free/en eBooks/en On/en Machine/en Learning/en 》/w
+介绍/v :/w 16/m 本机/nz 器/k 学习/v 的/u 电子书/n ，/w 可以/a 下载/v 下来/v 在/d pad/n ，/w 手机/np 上面/f 任意/b 时刻/d 去/v 阅读/v 。/w 不/d 多/a 我/r 建议/n 你/r 看/u 完/ng 一本/nz 再/d 下载/v 一本/nz 。/w
+《/w A/en Large/en set/en of/en Machine/en Learning/en Resources/en for/en Beginners/en to/en Mavens/en 》/w
+介绍/v :/w 标题/n 很大/a ，/w 从新/d 手/k 到/ng 专家/n 。/w 不过/c 看/u 完/ng 上面/f 所有/b 资料/n 。/w 肯定/a 是/v 专家/n 了/dg
+《/w 机器/np 学习/v 最佳/z 入门/v 学习资料/n 汇总/v 》/w
+介绍/v ：/w 入门/v 的/u 书/n 真的/d 很多/mq ，/w 而且/c 我/r 已经/d 帮/ng 你/r 找齐/v 了/dg 。/w
+《/w Sibyl/en 》/w
+介绍/v ：/w Sibyl/en 是/v 一个/mq 监督/v 式/k 机器/np 学习系统/n ，/w 用来/v 解决/v 预测/v 方面/n 的/u 问题/n ，/w 比如/v YouTube/en 的/u 视频/n 推荐/v 。/w
+《/w Deep/en Learning/en 》/w
+介绍/v ：/w Yoshua/en Bengio/en ,/w Ian/en Goodfellow/en ，/w Aaron/en Courville/en 着/n
+《/w Neural/en Network/en &/0 Text/en Mining/en 》/w
+介绍/v :/w 关于/p (/w Deep/en )/w Neural/en Networks/en 在/d NLP/en 和/c Text/en Mining/en 方面/n 一些/mq paper/en 的/u 总结/n
+《/w 前景/n 目标/n 检测/v 1/m （/w 总结/n ）/w 》/w
+介绍/v :/w 计算机/np 视觉/n 入门/v 之前/f 景/n 目标/n 检测/v 1/m （/w 总结/n ）/w
+《/w 行人/n 检测/v 》/w
+介绍/v :/w 计算机/np 视觉/n 入门/v 之行/nz 人/n 检测/v
+《/w Deep/en Learning/en –/0 important/en resources/en for/en learning/en and/en understanding/en 》/w
+介绍/v :/w Important/en resources/en for/en learning/en and/en understanding/en ./m Is/en awesome/en
+《/w Machine/en Learning/en Theory/en :/w An/en Introductory/en Primer/en 》/w
+介绍/v :/w 这/r 又是/n 一/m 篇/ng 机器/np 学习/v 初学者/n 的/u 入门/v 文章/n 。/w 值得/v 一/m 读/ng
+《/w Neural/en Networks/en and/en Deep/en Learning/en 》/w
+介绍/v :/w 在线/v Neural/en Networks/en and/en Deep/en Learning/en 电子书/n
+《/w Python/en 网页/n 爬虫/n &/0 文本/n 处理/v &/0 科学/a 计算/v &/0 机器/np 学习/v &/0 数据挖掘/n 兵器/n 谱/ng 》/w
+介绍/v :/w python/en 的/u 17/m 个/q 关于/p 机器/np 学习/v 的/u 工具/n
+《/w 神奇/a 的/u 伽玛/nz 函数/n (/w 上/f )/w 》/w
+介绍/v :/w 下集/n 在/d 这里/r 神奇/a 的/u 伽玛/nz 函数/n (/w 下/f )/w
+《/w 分布式/b 机器/np 学习/v 的/u 故事/n 》/w
+介绍/v :/w 作者/n 王益/nr 目前/t 是/v 腾讯/nt 广告/n 算法/n 总监/nx ，/w 王/n 益/dg 博士/nx 毕业/v 后/f 在/d google/en 任/c 研究/v 。/w 这/r 篇文章/n 王益/nr 博士/nx 7/m 年来/n 从/p 谷歌/nt 到/ng 腾讯/nt 对于/p 分布/v 机器/np 学习/v 的/u 所见所闻/iv 。/w 值得/v 细读/v
+《/w 机器/np 学习/v 提升/v 之/u 道/n （/w Level/en -/w Up/en Your/en Machine/en Learning/en ）/w 》/w
+介绍/v :/w 把/p 机器/np 学习/v 提升/v 的/u 级别/n 分为/v 0/m ~/w 4/m 级/n ，/w 每/r 级/n 需要/n 学习/v 的/u 教材/n 和/c 掌握/v 的/u 知识/n 。/w 这样/r ，/w 给/v 机器/np 学习者/n 提供/v 一个/mq 上进/a 的/u 路线图/n ，/w 以免/c 走弯路/lgv 。/w 另外/c ，/w 整个/b 网站/nc 都/d 是/v 关于/p 机器/np 学习/v 的/u ，/w 资源/n 很/d 丰富/a 。/w
+《/w Machine/en Learning/en Surveys/en 》/w
+介绍/v :/w 机器/np 学习/v 各个/r 方向/n 综述/n 的/u 网站/nc
+《/w Deep/en Learning/en Reading/en list/en 》/w
+介绍/v :/w 深度/n 学习/v 阅/vg 资源/n 列表/v
+《/w Deep/en Learning/en :/w Methods/en and/en Applications/en 》/w
+介绍/v ：/w 这是/n 一本/nz 来自/v 微/ag 的/u 研究员/nx li/en Peng/en 和/c Dong/en Yu/en 所/n 着/n 的/u 关于/p 深度/n 学习/v 的/u 方法/n 和/c 应用/v 的/u 电子书/n
+《/w Machine/en Learning/en Summer/en School/en 2014/m 》/w
+介绍/v :2014 年七/t 月/n CMU/en 举办/v 的/u 机器/np 学习/v 夏季/t 课/n 刚刚/d 结束/v 有近/n 50 小时/t 的/u 视频/n 、/w 十/m 多个/n PDF/en 版/n 幻灯片/n ，/w 覆盖/v 深度/n 学习/v ，/w ，/w 分布式/b 机器/np 学习/v ，/w 伸缩性/n 等/ng 热点话题/n 。/w 所有/b 13/m 名/n 讲师/n 都/d 是/v 牛人/n ：/w 包括/v 大牛/nz Tom/en Mitchell/en （/w 他/r 的/u ［/w 机器/np 学习/v ］/w 是/v 名校/n 的/u 常用/n 教材/n ）/w ，/w 还有/v CMU/en 李沐/nr ./m （/w 1080/m P/en 高清/a 哟/e ）/w
+《/w Sibyl/en :/w 来自/v Google/en 的/u 大规模/b 机器/np 学习系统/n 》/w
+介绍/v :/w 在/d 今年/t 的/u IEEE/en //w IFIP/en 可靠/a 系统/a 和/c 网络/n （/w DSN/en ）/w 国际会议/n 上/f ，/w Google/en 软件工程/n 师/n Tushar/en Chandra/en 做/v 了/dg 一个/mq 关于/p Sibyl/en 系统/a 的/u 主题/n 演讲/v 。/w Sibyl/en 是/v 一个/mq 监督/v 式/k 机器/np 学习系统/n ，/w 用来/v 解决/v 预测/v 方面/n 的/u 问题/n ，/w 比如/v YouTube/en 的/u 视频/n 推荐/v 。/w 详情/n 请/v 阅读/v  /0 google/en sibyl/en
+《/w Building/en a/en deeper/en understanding/en of/en images/en 》/w
+介绍/v :/w 谷歌/nt 研究院/nc 的/u Christian/en Szegedy/en 在/d 谷歌/nt 研究院/nc 的/u 博客/n 上/f 简要/a 地/n 介绍/v 了/dg 他们/r 今年/t 参加/v ImageNet/en 取得/v 好/a 成绩/n 的/u GoogLeNet/en 系统/a ./m 是/v 关于/p 图像处理/n 的/u 。/w
+《/w Bayesian/en network/en 与/c python/en 概率/n 编程/v 实战/n 入门/v 》/w
+介绍/v :/w 贝/ng 叶斯/nr 学习/v 。/w 如果/c 不是/n 很/d 清/a 可/v 看看/vv 概率/n 编程语言/n 与/c 贝/ng 叶斯/nr 方法/n 实践/v
+《/w AMA/en :/w Michael/en I/en Jordan/en 》/w
+介绍/v :/w 网友/n 问/v 伯克利/ns 机器/np 学习/v 大牛/nz 、/w 美国/ns 双料/b 院士/nx Michael/en I/en ./m Jordan/en ：/w "/0 如果/c 你/r 有/v 10 亿/m 美金/n ，/w 你/r 怎么/r 花/a ？/w Jordan/en :/w "/0 我会/r 用/ng 这/r 10 亿/m 美金/n 建造/v 一个/mq NASA/en 级别/n 的/u 自然语言/n 处理/v 研究项目/n 。/w "/0
+《/w 机器/np 学习/v &/0 数据挖掘/n 笔记/n _/0 16/m （/w 常见/a 面试/v 之/u 机器/np 学习/v 算法/n 思想/n 简单/a 梳理/v ）/w 》/w
+介绍/v :/w 常见/a 面试/v 之/u 机器/np 学习/v 算法/n 思想/n 简单/a 梳理/v
+《/w 文本/n 与/c 数据挖掘/n 视频/n 汇总/v 》/w
+介绍/v ：/w Videolectures/en 上/f 最/d 受/v 欢迎/v 的/u 25/m 个/q 文本/n 与/c 数据挖掘/n 视频/n 汇总/v
+《/w 怎么/r 选择/n 深度/n 学习/v 的/u GPUs/en 》/w
+介绍/v :/w 在/d Kaggle/en 上/f 经常/d 取得/v 不错/a 成绩/n 的/u Tim/en Dettmers/en 介绍/v 了/dg 他/r 自己/r 是/v 怎么/r 选择/n 深度/n 学习/v 的/u GPUs/en ,/w 以及/c 个人/n 如何/r 构建/v 深度/n 学习/v 的/u GPU/en 集群/n :/w  /0 http://t.cn/RhpuD1G/url
+《/w 对话/v 机器/np 学习/v 大神/n Michael/en Jordan/en ：/w 深度/n 模型/n 》/w
+介绍/v :/w 对话/v 机器/np 学习/v 大神/n Michael/en Jordan/en
+《/w Deep/en Learning/en 和/c Knowledge/en Graph/en 引爆/v 大数据/n 革命/a 》/w
+介绍/v :/w 还有/v ２/m ，/w ３/m 部分/n 。/w http://blog.sina.com.cn/s/blog_46d0a3930101gs5h.html/url
+《/w Deep/en Learning/en 教程/n 翻译/n 》/w
+介绍/v :/w 是/v Stanford/en 教授/nx Andrew/en Ng/en 的/u Deep/en Learning/en 教程/n ，/w 国内/s 的/u 机器/np 学习/v 爱好者/n 很/d 热心/a 的/u 把/p 这个/r 教程/n 翻译/n 成/ng 了/dg 中文/n 。/w 如果/c 你/r 英语/n 不好/a ，/w 可以/a 看看/vv 这个/r
+《/w Deep/en Learning/en 101/m 》/w
+介绍/v :/w 因为/c 近两年来/t ，/w 深度/n 学习/v 在/d 媒体/n 界/k 被/ng 炒作/v 很/d 厉害/a （/w 就/d 像/n 大数据/n ）/w 。/w 其实/d 很多/mq 人/n 都/d 还/d 不知/v 道/n 什么/r 是/v 深度/n 学习/v 。/w 这/r 篇文章/n 由浅入深/lv 。/w 告诉/v 你/r 深度/n 学究/n 竟是/v 什么/r ！/w
+《/w UFLDL/en Tutorial/en 》/w
+介绍/v :/w 这是/n 斯坦福大学/nt 做/v 的/u 一/m 免费/v 课程/n （/w 很/d 勉强/a ）/w ，/w 这个/r 可以/a 给/v 你/r 在/d 深度/n 学习/v 的/u 路上/s 给/v 你/r 一个/mq 学习/v 的/u 思路/n 。/w 里面/f 提到/v 了/dg 一些/mq 基本/a 的/u 算法/n 。/w 而且/c 告诉/v 你/r 如何/r 去/v 应用/v 到/ng 实际/a 环境/n 中/f 。/w 中文版/n
+《/w Toronto/en Deep/en Learning/en Demos/en 》/w
+介绍/v :/w 这是/n 多伦多大学/n 做/v 的/u 一个/mq 深度/n 学习/v 用来/v 识别/v 图片/n 标签/n ／/w 图/n 转/q 文字/n 的/u demo/n 。/w 是/v 一个/mq 实际/a 应用/v 案例/n 。/w 有源/b 码/ng
+《/w Deep/en learning/en from/en the/en bottom/en up/n 》/w
+介绍/v :/w 机器/np 学习/v 模型/n ，/w 阅读/v 这个/r 内容/n 需要/n 有/v 一定/b 的/u 基础/n 。/w
+《/w R/en 工具包/n 的/u 分类/v 汇总/v 》/w
+介绍/v :/w (/w CRAN/en Task/en Views/en ,/w 34/m 种/ng 常见/a 任务/n ，/w 每个/r 任务/n 又/d 各自/r 分类/v 列举/v 若干/mq 常用/n 相关/v 工具包/n )/w 例如/v :/w 机器/np 学习/v ，/w 自然语言/n 处理/v ，/w 时间序列/n 分析/v ，/w 空间/n 信息/n 分析/v ，/w 多重/b 变量/n 分析/v ，/w 计量经济学/n ，/w 心理/n 统计学/n ，/w 社会学/n 统计/v ，/w 化学/n 计量学/n ，/w 环境科学/ln ，/w 药物/n 代谢/v 动力学/n 等/ng
+《/w 机器/np 学习/v 常见/a 算法/n 分类/v 汇总/v 》/w
+介绍/v :/w 机器/np 学习/v 无疑/d 是/v 当前/t 数据分析/n 领域/n 的/u 一个/mq 热点/n 内容/n 。/w 很多/mq 人/n 在/d 平时/t 的/u 工作/n 中/f 都/d 或多或少/d 会/n 用到/v 机器/np 学习/v 的/u 算法/n 。/w 本文/r 为/p 您/r 总结/n 一下/d 常见/a 的/u 机器/np 学习/v 算法/n ，/w 以/p 供/ng 您/r 在/d 工作/n 和学习中参/nr 考/ng ./m
+《/w Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 》/w
+介绍/v :/w 很多/mq 干货/n ，/w 而且/c 作者/n 还/d 总结/n 了/dg 好几/m 个/q 系列/n 。/w 另外/c 还/d 作者/n 还/d 了/dg 一个/mq 文章/n 导航/v ./m 非常/b 的/u 感谢/v 作者/n 总结/n 。/w
+Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 二/m ）/w
+Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 三/m ）/w
+Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 四/m ）/w
+Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 五/m ）/w
+Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 六/m ）/w
+Deep/en Learning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 七/m ）/w
+DeepLearning/en （/w 深度/n 学习/v ）/w 学习/v 笔记/n 整理/v 系列/n 之/u （/w 八/m ）/w
+《/w Tutorials/en Session/en A/en -/w Deep/en Learning/en for/en Computer/en Vision/en 》/w
+介绍/v :/w 传送/v 理由/n ：/w Rob/en Fergus/en 的/u 用/ng 深度/n 学习/v 做/v 计算机/np 是/v 觉/n 的/u NIPS/en 2013/m 教程/n 。/w 有/v mp/en 4/m ,/w mp/en 3/m ,/w pdf/en 各种/r 下载/v  /0 他/r 是/v 纽约大学/nt 教授/nx ，/w 目前/t 也/d 在/d Facebook/en 工作/n ，/w 他/r 2014 年/t 的/u 8/m 篇/ng 论文/n
+《/w FudanNLP/en 》/w
+介绍/v :/w FudanNLP/en ，/w 这是/n 一个/mq 复旦大学/nt 计算机/np 学院/nc 开发/v 的/u 开源/v 中文/n 自然语言/n 处理/v （/w NLP/en ）/w 工具包/n Fudan/en NLP/en 里/f 包含/v 中文/n 分词/n 、/w 关键词/n 抽取/v 、/w 命名/v 实体/n 识别/v 、/w 词性/n 标注/n 、/w 时间词/n 抽取/v 、/w 语法/n 分析/v 等/ng 功能/n ，/w 对/a 搜索引擎/n 文本/n 分析/v 等/ng 极为/d 有/v 价值/n 。/w
+《/w Open/en Sourcing/en ml/en -/w ease/en 》/w
+介绍/v :/w LinkedIn/en 开源/v 的/u 机器/np 学习/v 工具包/n ，/w 支持/v 单机/n ，/w Hadoop/en cluster/en ，/w 和/c Spark/en cluster/en 重点/d 是/v logistic/en regression/en 算法/n
+《/w 机器/np 学习/v 周刊/n 》/w
+介绍/v :/w 对于/p 英语/n 不好/a ，/w 但/c 又/d 很/d 想/v 学习机/n 器/k 学习/v 的/u 朋友/n 。/w 是/v 一个/mq 大/a 的/u 福利/n 。/w 机器/np 学习/v 周刊/n 目前/t 主要/b 提供/v 中文版/n ，/w 还是/c 面向/v 广大/b 国内/s 爱好者/n ，/w 内容/n 涉及/v 机器/np 学习/v 、/w 数据挖掘/n 、/w 并行/v 系统/a 、/w 图像/n 识别/v 、/w 人工智能/n 、/w 机器人/n 等等/u 。/w 谢谢/v 作者/n
+《/w 线性代数/n 》/w
+介绍/v ：/w 《/w 线性代数/n 》/w 是/v 《/w 机器/np 学习/v 》/w 的/u 重要/a 数学/n 先导/n 课程/n 。/w 其实/d 《/w 线/n 代/n 》/w 这/r 门/n 课/n 讲/v 得/e 浅显/a 易懂/a 特别/a 不/d/mone1 容易/a/mopo ，/w 如果/c 一/m 上来/v 就/d 讲/v 逆序数/n 及/c 罗列/v 行列式/n 性质/n ，/w 很/d 容易/a 让/v 学生/n 失去/v 学习/v 的/u 兴趣/n 。/w 我/r 个人/n 推荐/v 的/u 最佳/z 《/w 线性代数/n 》/w 课程/n 是/v 麻省理工/nt Gilbert/en Strang/en 教授/nx 的/u 课程/n 。/w  /0 课程/n 主页/n
+《/w Big/en -/w data/en 》/w
+介绍/v :/w 大数据/n 数据处理/n 资源/n 、/w 工具/n 不/d 完备/a 列表/v ，/w 从/p 框架/n 、/w 分布式/b 编程/v 、/w 分布式/b 文件/n 系统/a 、/w 键/n 值/a 数据/n 模型/n 、/w 图/n 数据/n 模型/n 、/w 数据/n 可视化/vn 、/w 列/n 存储/v 、/w 机器/np 学习/v 等/ng 。/w 很/d 赞/ng 的/u 资源/n 汇总/v 。/w
+《/w machine/en learning/en for/en smart/en dummies/en 》/w
+介绍/v :/w 雅虎/nt 邀请/v 了/dg 一名/nz 来自/v 本/d 古里安/ns 大学/nc 的/u 访问/v 学者/n ，/w 制作/v 了/dg 一/m 套/n 关于/p 机器/np 学习/v 的/u 系列/n 视频/n 课程/n 。/w 本/d 课程/n 共/d 分为/v 7/m 期/ng ，/w 详细/a 讲解/v 了/dg 有关/v SVM/en ,/w boosting/en ,/w nearest/en neighbors/en ,/w decision/en trees/en 等/ng 常规/n 机器/np 学习/v 算法/n 的/u 理论/n 基础知识/n 。/w
+《/w Entanglement/en -/w Based/en Quantum/en Machine/en Learning/en 》/w
+介绍/v :/w 应对/v 大数据/n 时代/n ，/w 量子/n 机器/np 学习/v 的/u 第一/m 个/q 实验/n  /0 paper/en 下载/v
+《/w How/en a/en Math/en Genius/en Hacked/en OkCupid/en to/en Find/en True/en Love/en 》/w
+介绍/v :/w Wired/en 杂志/n 报道/n 了/dg UCLA/en 数学/n 博士/nx Chris/en McKinlay/en （/w 图/n 1/m ）/w 通过/p 大数据/n 手段/n +/0 机器/np 学习方法/n 破解/v 婚恋/n 网站/nc 配对/v 算法/n 找到/v 真爱/nz 的/u 故事/n ，/w 通过/p Python/en 脚本/n 控制/v 着/n 12/m 个/q 账号/n ，/w 下载/v 了/dg 婚恋/n 网站/nc 2/m 万/m 女/b 用户/n 的/u 600 万/m 问题/n 答案/n ，/w 对/a 他们/r 进行/v 了/dg 统计/v 抽样/v 及/c 聚/v 类/n 分析/v （/w 图/n 2/m ，/w 3/m ）/w ，/w 最后/f 终于/d 收获/n 了/dg 真爱/nz 。/w 科技/n 改变/v 命运/n ！/w
+《/w Underactuated/en Robotics/en 》/w
+介绍/v :/w MIT/en 的/u Underactuated/en Robotics/en 于/ng 2014 年 10 月 1 日/t 开课/v ，/w 该/r 课/n 属于/v MIT/en 研究生/n 级别/n 的/u 课程/n ，/w 对/a 机器人/n 和/c 非线性/b 动力系/n 统/ng 感兴趣/a 的/u 朋友/n 不妨/v 可以/a 挑战/v 一下/d 这/r 门/n 课程/n ！/w
+《/w mllib/en 实践/v 经验/n (/w 1/m )/w 》/w
+介绍/v :/w mllib/en 实践/v 经验/n 分享/v
+《/w Google/en Turns/en To/en Deep/en Learning/en Classification/en To/en Fight/en Web/en Spam/en 》/w
+介绍/v :/w Google/en 用/ng Deep/en Learning/en 做/v 的/u antispam/en (/w 反/b 垃圾邮件/ln )/w
+《/w NLP/en 常用/n 信息/n 资源/n 》/w
+介绍/v :/w NLP/en 常用/n 信息/n 资源/n */w  /0 《/w NLP/en 常用/n 信息/n 资源/n 》/w
+《/w 机器/np 学习/v 速/ag 查/ng 表/n 》/w
+介绍/v :/w 机器/np 学习/v 速/ag 查/ng 表/n
+《/w Best/en Papers/en vs/en ./m Top/en Cited/en Papers/en in/en Computer/en Science/en 》/w
+介绍/v ：/w 从/p 1996 年/t 开始/v 在/d 计算机/np 科学/a 的/u 论文/n 中/f 被/ng 引用/v 次数/n 最/d 多/a 的/u 论文/n
+《/w InfiniTAM/en :/w 基于/p 深度/n 图像/n 的/u 体/k 数据/n 集成/b 框架/n 》/w
+介绍/v ：/w 把/p 今年/t 的/u 一个/mq ACM/en Trans./url on/en Graphics/en (/w TOG/en )/w 论文/n 中/f 的/u 代码/n 整理/v 为/p 一个/mq 开源/v 的/u 算法/n 框架/n ，/w 共享/v 出来/v 了/dg 。/w 欢迎/v 大家/r 使用/v 。/w 可以/a 实时/d 的/u 采集/v 3/m D/en 数据/n 、/w 重建/v 出/q 三维/b 模型/n 。/w Online/en learning/en ，/w GPU/en Random/en forest/en ，/w GPU/en CRF/en 也/d 会后/t 续/ng 公开/a 。/w
+《/w Hacker's/en guide/en to/en Neural/en Networks/en 》/w
+介绍/v ：/w 【/w 神经网络/n 黑客/n 指南/n 】/w 现在/t ，/w 最/d 火/a 莫过于/lv 深度/n 学习/v （/w Deep/en Learning/en ）/w ，/w 怎样/r 更好/d 学习/v 它/r ？/w 可以/a 让/v 你/r 在/d 浏览器/n 中/f ，/w 跑/ng 起/q 深度/n 学习/v 效果/n 的/u 超酷/n 开源/v 项目/n convnetjs/en 作者/n karpathy/en 告诉/v 你/r ，/w 最佳/z 技巧/n 是/v ，/w 当/ag 你/r 开始/v 写/v 代码/n ，/w 一切/r 将/d 变得/v 清晰/a 。/w 他/r 刚/ag 发布/v 了/dg 一本/nz 图书/n ，/w 不断/d 在线/v 更新/v
+《/w Building/en a/en Production/en Machine/en Learning/en Infrastructure/en 》/w
+介绍/v ：/w 前/f Google/en 广告/n 系统工程/ln 师/n Josh/en Wills/en 讲述/v 工业界/n 和学术界/nr 机器/np 学习/v 的/u 异同/n ，/w 大实/nz 话/n
+《/w Deep/en Learning/en Sentiment/en Analysis/en for/en Movie/en Reviews/en using/en Neo/en 4/m j/en 》/w
+介绍/v ：/w 使用/v  /0 Neo/en 4/m j/en  /0 做/v 电影/n 评论/n 的/u 情感/n 分析/v 。/w
+《/w DeepLearning.University/url –/0 An/en Annotated/en Deep/en Learning/en Bibliography/en 》/w
+介绍/v ：/w 不仅/c 是/v 资料/n ，/w 而且/c 还/d 对/a 有些/r 资料/n 做/v 了/dg 注释/n 。/w
+《/w A/en primer/en on/en deeping/en learning/en 》/w
+介绍/v ：/w 深度/n 学习/v 入门/v 的/u 初级/b 读本/n
+《/w Machine/en learning/en is/en teaching/en us/en the/en secret/en to/en teaching/en 》/w
+介绍/v ：/w 机器/np 学习/v 教会/n 了/dg 我们/r 什么/r ？/w
+《/w scikit/en -/w learn/en ：/w 用于/v 机器/np 学习/v 的/u Python/en 模块/n 》/w
+介绍/v ：/w scikit/en -/w learn/en 是在/n SciPy/en 基础/n 上/f 构建/v 的/u 用于/v 机器/np 学习/v 的/u Python/en 模块/n 。/w
+《/w 对话/v 机器/np 学习/v 大神/n Michael/en Jordan/en ：/w 解析/v 领域/n 中/f 各类/r 模型/n 》/w
+介绍/v ：/w 乔丹/nr 教授/nx （/w Michael/en I/en ./m Jordan/en ）/w 教授/nx 是/v 机器/np 学习/v 领域/n 神经网络/n 的/u 大牛/nz ，/w 他/r 对/a 深度/n 学习/v 、/w 神经网络/n 有着/v 很/d 浓厚/a 的/u 兴趣/n 。/w 因此/c ，/w 很多/mq 提问/v 的/u 问题/n 中包/nz 含/v 了/dg 机器/np 学习/v 领域/n 的/u 各类/r 模型/n ，/w 乔丹/nr 教授/nx 对此/n 一一/m 做/v 了解/v 释/ng 和/c 展望/v 。/w
+《/w A/en */w 搜索/n 算法/n 的/u 可视化/vn 短/a 教程/n 》/w
+介绍/v ：/w A/en */w 搜索/n 是/v 人工智能/n 基本/a 算法/n ，/w 用于/v 高效/b 地/n 搜索/n 图中/nz 两点/t 的/u 最佳/z 路径/n ，/w 核心/n 是/v g/en (/w n/en )/w +/0 h/en (/w n/en )/w :/w g/en (/w n/en )/w 是从/v 起点/n 到顶/v 点/m n/n 的/u 实际/a 代价/n ，/w h/en (/w n/en )/w 是/v 顶点/n n/n 到/ng 目标/n 顶点/n 的/u 估算/v 代价/n 。/w 合集/n
+《/w 基于/p 云/n 的/u 自然语言/n 处理/v 开源/v 项目/n FudanNLP/en 》/w
+介绍/v ：/w 本项/r 目/ng 利用/v 了/dg Microsoft/en Azure/en ，/w 可以/a 在/d 几分/t 种/ng 内/f 完成/v NLP/en on/en Azure/en Website/en 的/u 部署/v ，/w 立即/d 开始/v 对/a FNLP/en 各种/r 特性/n 的/u 试用/v ，/w 或者/c 以/p REST/en API/en 的/u 形式/n 调用/v FNLP/en 的/u 语言/n 分析/v 功能/n
+《/w 吴/ng 立德/v 《/w 概率/n 主题/n 模型/n &/0 数据/n 科学/a 基础/n 》/w 》/w
+介绍/v ：/w 现任/b 复旦大学/nt 首席/b 教授/nx 、/w 计算机/np 软件/n 博士生/n 导师/n 。/w 计算机/np 科学研究/n 所/n 副/b 所长/nx ./m 内部/f 课程/n
+《/w 机器/np 学习/v 入门/v 资源/n 不/d 完全/a 汇总/v 》/w 》/w
+介绍/v ：/w 好/a 东西/n 的/u 干货/n 真的/d 很多/mq
+《/w 收集/v 从/p 2014 年/t 开始/v 深度/n 学习/v 文献/n 》/w
+介绍/v ：/w 从/p 硬件/n 、/w 图像/n 到/ng 健康/a 、/w 生物/n 、/w 大数据/n 、/w 生物/n 信息/n 再/d 到/ng 量子/n 计算/v 等/ng ，/w Amund/en Tveit/en 等/ng 维护/v 了/dg 一个/mq DeepLearning.University/url 小项/n 目/ng ：/w 收集/v 从/p 2014 年/t 开始/v 深度/n 学习/v 文献/n ，/w 相信/v 可以/a 作为/n 深度/n 学习/v 的/u 起点/n ,/w github/en
+《/w EMNLP/en 上/f 两/m 篇/ng 关于/p 股票/n 趋势/n 的/u 应用/v 论文/n 》/w
+介绍/v ：/w EMNLP/en 上/f 两/m 篇/ng 关于/p  /0 stock/en trend/en  /0 用到/v 了/dg deep/en model/en 组织/n 特征/n ；/w  /0 Exploiting/en Social/en Relations/en and/en Sentiment/en for/en Stock/en Prediction/en  /0 用到/v 了/dg stock/en network/en 。/w
+《/w Bengio/en 组/n （/w 蒙特利尔/ns 大学/nc LISA/en 组/n ）/w 深度/n 学习教程/n 》/w
+介绍/v ：/w 作者/n 是/v 深度/n 学习/v 一线/n 大牛/nz Bengio/en 组/n 写/v 的/u 教程/n ，/w 算法/n 深入显出/i ，/w 还有/v 实现/v 代码/n ，/w 一步步/qqy 展开/v 。/w
+《/w 学习/v 算法/n 的/u Neural/en Turing/en Machine/en 》/w
+介绍/v ：/w 许多/mq 传统/a 的/u 机器/np 学习/v 任务/n 都/d 是在/n 学习/v function/en ，/w 不过/c 谷歌/nt 目前/t 有/v 开始/v 学习/v 算法/n 的/u 趋势/n 。/w 谷歌/nt 另外/c 的/u 这/r 篇/ng 学习/v Python/en 程序/n 的/u  /0 Learning/en to/en Execute/en  /0 也/d 有/v 相似/a 之/u 处/nc
+《/w Learning/en to/en Rank/en for/en Information/en Retrieval/en and/en Natural/en Language/en Processing/en 》/w
+介绍/v ：/w 作者/n 是/v 华为技术有限公司/nt ，/w 诺亚方舟/ln 实验室/nc ，/w 首席/b 科学家/n 的/u 李航/nr 博士/nx 写/v 的/u 关于/p 信息/n 检索/v 与/c 自然语言/n 处理/v 的/u 文章/n
+《/w Rumor/en has/en it/en :/w Identifying/en Misinformation/en in/en Microblogs/en 》/w
+介绍/v ：/w 利用/v 机/np 用/ng 器/k 学习/v 在/d 谣言/n 的/u 判别/v 上/f 的/u 应用/v ，/w 此外/c 还有/v 两个/n 。/w 一个/mq 是/v 识别/v 垃圾/n 与/c 虚假/a 信息/n 的/u  /0 paper./url 还有/v 一个/mq 是/v 网络/n 舆情/n 及其/c 分析/v 技术/n
+《/w R/en 机器/np 学习/v 实践/v 》/w
+介绍/v ：/w 该/r 课程/n 是/v 网易/nt 公开课/n 的/u 收费/v 课程/n ，/w 不/d 贵/a ，/w 超级/b 便宜/a 。/w 主要/b 适合/v 于/ng 对/a 利用/v R/en 语言/n 进行/v 机器/np 学习/v ，/w 数据挖掘/n 感兴趣/a 的/u 人/n 。/w
+《/w 大数据/n 分析/v ：/w 机器/np 学习/v 算法/n 实现/v 的/u 演化/v 》/w
+介绍/v ：/w 本章/r 中/f 作者/n 总结/n 了/dg 三代/nz 机器/np 学习/v 算法/n 实现/v 的/u 演化/v ：/w 第一/m 代/n 非分/b 布/n 式/k 的/u ，/w 第二/m 代工/v 具/ng 如/c Mahout/en 和/c Rapidminer/en 实现/v 基于/p Hadoop/en 的/u 扩展/v ，/w 第三/m 代如/nr Spark/en 和/c Storm/en 实现/v 了/dg 实时/d 和/c 迭代/v 数据处理/n 。/w BIG/en DATA/en ANALYTICS/en BEYOND/en HADOOP/en
+《/w 图像处理/n ，/w 分析/v 与/c 机器/np 视觉/n 》/w
+介绍/v ：/w 讲/v 计算机/np 视觉/n 的/u 四/m 部/n 奇书/n （/w 应该/v 叫/v 经典/n 吧/y ）/w 之一/r ，/w 另外/c 三/m 本/d 是/v Hartley/en 的/u 《/w 多图/nz 几何/n 》/w 、/w Gonzalez/en 的/u 《/w 数字/n 图像处理/n 》/w 、/w Rafael/en C.Gonzalez/url //w Richard/en E.Woods/url 的/u 《/w 数字/n 图像处理/n 》/w
+《/w LinkedIn/en 最新/a 的/u 推荐/v 系统/a 文章/n Browsemaps/en 》/w
+介绍/v ：/w 里面/f 基本/a 没/d 涉及到/v 具体/a 算法/n ，/w 但/c 作者/n 介绍/v 了/dg CF/en 在/d LinkedIn/en 的/u 很多/mq 应用/v ，/w 以及/c 他们/r 在/d 做/v 推荐/v 过程/n 中/f 获得/v 的/u 一些/mq 经验/n 。/w 最后/f 一/m 条/ng 经验/n 是/v 应该/v 监控/v log/en 数据/n 的/u 质量/n ，/w 因为/c 推荐/v 的/u 质量/n 很/d 依赖/v 数据/n 的/u 质量/n ！/w
+《/w 初学者/n 如何/r 查阅/v 自然语言/n 处理/v （/w NLP/en ）/w 领域/n 学术资料/n 》/w
+介绍/v ：/w 初学者/n 如何/r 查阅/v 自然语言/n 处理/v （/w NLP/en ）/w 领域/n 学术资料/n
+《/w 树莓/n 派/n 的/u 人脸识别/lv 教程/n 》/w
+介绍/v ：/w 用/ng 树莓/n 派/n 和/c 相机/np 模块/n 进行/v 人脸识别/lv
+《/w 利用/v 深度/n 学习/v 与/c 大数据/n 构建/v 对话/v 系统/a 》/w
+介绍/v ：/w 如何/r 利用/v 深度/n 学习/v 与/c 大数据/n 构建/v 对话/v 系统/a
+《/w 经典/n 论文/n Leo/en Breiman/en ：/w Statistical/en Modeling/en :/w The/en Two/en Cultures/en 》/w
+介绍/v ：/w Francis/en Bach/en 合作/v 的/u 有关/v 稀疏/a 建模/v 的/u 新/a 综述/n (/w 书/n )/w ：/w Sparse/en Modeling/en for/en Image/en and/en Vision/en Processing/en ，/w 内容/n 涉及/v Sparsity/en ，/w Dictionary/en Learning/en ,/w PCA/en ,/w Matrix/en Factorization/en 等/ng 理论/n ，/w 以及/c 在/d 图像/n 和/c 视觉/n 上/f 的/u 应用/v ，/w 而且/c 第一部/n 分/b 关于/p Why/en does/en the/en l/en 1/m -/w norm/en induce/en sparsity/en 的/u 解释/v 也/d 很/d 不错/a 。/w
+《/w Reproducing/en Kernel/en Hilbert/en Space/en 》/w
+介绍/v ：/w RKHS/en 是/v 机器/np 学习/v 中/f 重要/a 的/u 概念/n ，/w 其/r 在/d large/en margin/en 分类/v 器/k 上/f 的/u 应用/v 也/d 是/v 广为/d 熟知/v 的/u 。/w 如果/c 没有/d 较/d 好/a 的/u 数学基础/n ，/w 直接/a 理解/v RKHS/en 可能/a 会/n 不易/a 。/w 本文/r 从/p 基本/a 运算/v 空间/n 讲/v 到/ng Banach/en 和/c Hilbert/en 空间/n ，/w 深入浅出/iv ，/w 一共/d 才/d 12/m 页/ng 。/w
+《/w Hacker's/en guide/en to/en Neural/en Networks/en 》/w
+介绍/v ：/w 许多/mq 同学/nm 对于/p 机器/np 学习/v 及/c 深度/n 学习/v 的/u 困惑/a 在于/v ，/w 数学/n 方面/n 已经/d 大致/b 理解/v 了/dg ，/w 但是/c 动/dg 起/q 手/k 来/u 却/d 不知/v 道/n 如何/r 下手/n 写/v 代码/n 。/w 斯坦福/ns 深度/n 学习/v 博士/nx Andrej/en Karpathy/en 写/v 了/dg 一/m 篇/ng 实战/n 版本/n 的/u 深度/n 学习/v 及/c 机器/np 学习教程/n ，/w 手把手/d 教/ng 你/r 用/ng Javascript/en 写/v 神经网络/n 和/c SVM/en ./m
+《/w 【/w 语料库/n 】/w 语料库/n 资源/n 汇总/v 》/w
+介绍/v ：/w 【/w 语料库/n 】/w 语料库/n 资源/n 汇总/v
+《/w 机器/np 学习/v 算法/n 之旅/n 》/w
+介绍/v ：/w 本文/r 会/n 过/d 一/m 遍/q 最/d 流行/v 的/u 机器/np 学习/v 算法/n ，/w 大致/b 了解/v 哪些/r 方法/n 可用/a ，/w 很/d 有/v 帮助/v 。/w
+《/w Reproducible/en Research/en in/en Computational/en Science/en 》/w
+介绍/v ：/w 这个/r 里面/f 有/v 很多/mq 关于/p 机器/np 学习/v 、/w 信号处理/n 、/w 计算机/np 视觉/n 、/w 深入/a 学习/v 、/w 神经网络/n 等/ng 领域/n 的/u 大量/mq 源代码/n （/w 或/c 可/v 执行/v 代码/n ）/w 及/c 相关/v 论文/n 。/w 科研/n 写论文/n 的/u 好/a 资源/n
+《/w NYU/en 2014 年/t 的/u 深度/n 学习/v 课程/n 资料/n 》/w
+介绍/v ：/w NYU/en 2014 年/t 的/u 深度/n 学习/v 课程/n 资料/n ，/w 有/v 视频/n
+《/w 计算机/np 视觉/n 数据/n 集/n 不/d 完全/a 汇总/v 》/w
+介绍/v ：/w 计算机/np 视觉/n 数据/n 集/n 不/d 完全/a 汇总/v
+《/w Machine/en Learning/en Open/en Source/en Software/en 》/w
+介绍/v ：/w 机器/np 学习/v 开源/v 软件/n
+《/w LIBSVM/en 》/w
+介绍/v ：/w A/en Library/en for/en Support/en Vector/en Machines/en
+《/w Support/en Vector/en Machines/en 》/w
+介绍/v ：/w 数据挖掘/n 十大/j 经典/n 算法/n 之一/r
+《/w 100/m Best/en GitHub/en :/w Deep/en Learning/en 》/w
+介绍/v ：/w github/en 上面/f 100/m 个/q 非常/b 棒/a 的/u 项目/n
+《/w 加州/ns 大学/nc 欧文/nr 分校/nc (/w UCI/en )/w 机器/np 学习/v 数据/n 集/n 仓库/n 》/w
+介绍/v ：/w 当前/t 加州/ns 大学/nc 欧文/nr 分校/nc 为/p 机器/np 学习/v 社区/ny 维护/v 着/n 306/m 个数/n 据/ng 集/n 。/w 查询/v 数据/n 集/n
+《/w Andrej/en Karpathy/en 个人主页/n 》/w
+介绍/v ：/w Andrej/en Karpathy/en 是/v 斯坦福大学/nt Li/en Fei/en -/w Fei/en 的/u 博士生/n ，/w 使用/v 机器/np 学习/v 在/d 图像/n 、/w 视频/n 语义/n 分析/v 领域/n 取得/v 了/dg 科研/n 和/c 工程/n 上/f 的/u 突破/v ，/w 发/q 的/u 文章/n 不/d 多/a ，/w 但/c 每个/r 都/d 很/d 扎实/a ，/w 在/d 每/r 一个/mq 问题/n 上/f 都/d 做到/v 了/dg state-of-art./url
+《/w Andrej/en Karpathy/en 的/u 深度/n 强化/v 学习/v 演示/v 》/w
+介绍/v ：/w Andrej/en Karpathy/en 的/u 深度/n 强化/v 学习/v 演示/v ，/w 论文/n 在/d 这里/r
+《/w CIKM/en 数据挖掘/n 竞赛/v 夺冠/v 算法/n -/w 陈运文/nr 》/w
+介绍/v ：/w CIKM/en Cup/en (/w 或者/c 称为/v CIKM/en Competition/en )/w 是/v ACM/en CIKM/en 举办/v 的/u 国际/n 数据挖掘/n 竞赛/v 的/u 名称/n 。/w
+《/w Geoffrey/en E/en ./m Hinton/en 》/w
+介绍/v ：/w 杰弗里/nr ·/w 埃弗里/nr FRS/en 是/v 一/m 位/q 英国/ns 出生/v 的/u 计算机/np 学家/n 和心/nz 理学家/n ，/w 以/p 其/r 在/d 神经网络/n 方面/n 的/u 贡献/n 闻名/v 。/w 辛顿/nr 是/v 反向/b 传播/v 算法/n 和/c 对比/v 散/a 度/k 算法/n 的/u 发明人/n 之一/r ，/w 也/d 是/v 深度/n 学习/v 的/u 积极/a 推动者/n ./m
+《/w 自然语言/n 处理/v 的/u 深度/n 学习/v 理论/n 与/c 实际/a 》/w
+介绍/v ：/w 微软/nt 研究院/nc 深度/n 学习/v 技术中心/n 在/d CIKM/en 2014 上/t 关于/p 《/w 自然语言/n 处理/v 的/u 深度/n 学习/v 理论/n 与/c 实际/a 》/w 教学/n 讲座/n 的/u 幻灯片/n
+《/w 用/ng 大数据/n 和/c 机器/np 学习/v 做/v 股票/n 价格/n 预测/v 》/w
+介绍/v ：/w 本文/r 基于/p </w 支持/v 向量/n 机/np 的/u 高频/b 限价/v 订单/n 的/u 动态/n 建模/v >/w 采用/v 了/dg Apache/en Spark/en 和/c Spark/en MLLib/en 从/p 纽约股票交易所/nt 的/u 订单/n 日志/n 数据/n 构建/v 价格/n 运动/n 预测/v 模型/n 。/w (/w 股票/n 有/v 风险/n ，/w 投资/n 谨慎/a )/w GitHub/en 源代码/n 托管地/n 址/ng ./m
+《/w 关于/p 机器/np 学习/v 的/u 若干/mq 理论/n 问题/n 》/w
+介绍/v ：/w 徐/ag 宗本院/nr 士/ng 将于/n 热爱/v 机器/np 学习/v 的/u 小伙伴/n 一起/d 探讨/v 有关/v 于/ng 机器/np 学习/v 的/u 几/m 个/q 理论性/n 问题/n ，/w 并/c 给出/v 一些/mq 有意/d 义/ng 的/u 结论/n 。/w 最后/f 通过/p 一些/mq 实例/n 来说/u 明/ag 这些/r 理论/n 问题/n 的/u 物理/n 意义/n 和实/nz 际/ng 应用/v 价值/n 。/w
+《/w 深度/n 学习/v 在/d 自然语言/n 处理/v 的/u 应用/v 》/w
+介绍/v ：/w 作者/n 还/d 着/n 有/v 《/w 这/r 就是/n 搜索引擎/n ：/w 核心/n 技术/n 详解/v 》/w 一书/n ，/w 主要/b 是/v 介绍/v 应用层/n 的/u 东西/n
+《/w Undergraduate/en machine/en learning/en at/en UBC/en 》/w
+介绍/v ：/w 机器/np 学习/v 课程/n
+《/w 人脸识别/lv 必读/v 的/u N/n 篇文章/n 》/w
+介绍/v ：/w 人脸识别/lv 必读/v 文章/n 推荐/v
+《/w 推荐/v 系统/a 经典/n 论文/n 文献/n 及/c 业界/n 应用/v 》/w
+介绍/v ：/w 推荐/v 系统/a 经典/n 论文/n 文献/n
+《/w 人脸识别/lv 必读/v 的/u N/n 篇文章/n 》/w
+介绍/v ：/w 人脸识别/lv 必读/v 文章/n 推荐/v
+《/w 第十二/m 届中/s 国/n "/0 机器/np 学习/v 及其/c 应用/v "/0 研讨会/n PPT/n 》/w
+介绍/v ：/w 第十二/m 届中/s 国/n "/0 机器/np 学习/v 及其/c 应用/v "/0 研讨会/n PPT/n
+《/w 统计/v 机器/np 学习/v 》/w
+介绍/v ：/w 统计学/n 习/ng 是/v 关于/p 计算机/np 基于/p 数据/n 构建/v 的/u 概率/n 统计/v 模型/n 并/c 运用/v 模型/n 对数/n 据/ng 进行/v 预测/v 和/c 分析/v 的/u 一门/nz 科学/a ，/w 统计学/n 习/ng 也/d 成为/v 统计/v 机器/np 学习/v 。/w 课程/n 来自/v 上海交通大学/nt
+《/w 机器/np 学习/v 导论/n 》/w
+介绍/v ：/w 机器/np 学习/v 的/u 目标/n 是/v 对/a 计算机/np 编程/v ，/w 以便/c 使用/v 样本数/n 据/ng 或/c 以往/t 的/u 经验/n 来/u 解决/v 给定/v 的/u 问题/n ./m
+《/w CIKM/en 2014/m 主题/n 报告/n 的/u 幻灯片/n 》/w
+介绍/v ：/w CIKM/en 2014/m Jeff/en Dean/en 、/w Qi/en Lu/n 、/w Gerhard/en Weikum/en 的/u 主题/n 报告/n 的/u 幻灯片/n ，/w Alex/en Smola/en 、/w Limsoon/en Wong/en 、/w Tong/en Zhang/en 、/w Chih/en -/w Jen/en Lin/en 的/u Industry/en Track/en 报告/n 的/u 幻灯片/n
+《/w 人工智能/n 和/c 机器/np 学习/v 领域/n 有趣/a 的/u 开源/v 项目/n 》/w
+介绍/v ：/w 部分/n 中文/n 列表/v
+《/w 机器/np 学习/v 经典/n 算法/n 详解/v 及/c Python/en 实现/v -/w -/w 基于/p SMO/en 的/u SVM/en 分类/v 器/k 》/w
+介绍/v :/w 此外/c 作者/n 还有/v 一/m 篇/ng 元/q 算法/n 、/w AdaBoost/en 　python/en 实现/v 文章/n
+《/w Numerical/en Optimization/en :/w Understanding/en L/en -/w BFGS/en 》/w
+介绍/v :/w 加州/ns 伯克利大学/nt 博士/nx Aria/en Haghighi/en 写/v 了/dg 一/m 篇/ng 超/h 赞/ng 的/u 数值/n 优化/v 博文/n ，/w 从/p 牛顿/nr 法/k 讲/v 到/ng 拟/v 牛顿/nr 法/k ，/w 再/d 讲/v 到/ng BFGS/en 以及/c L/en -/w BFGS/en ,/w 图文并茂/lv ，/w 还有/v 伪/ag 代码/n 。/w 强烈/a 推荐/v 。/w
+《/w 简明/a 深度/n 学习方法/n 概述/v （/w 一/m ）/w 》/w
+介绍/v :/w 还有/v 续集/n 简明/a 深度/n 学习方法/n 概述/v （/w 二/m ）/w
+《/w R/en language/en for/en programmers/en 》/w
+介绍/v :/w Ｒ/en 语言程序/n 员/k 私人/n 定制/v 版/n
+《/w 谷歌/nt 地图/n 解密/v ：/w 大数据/n 与/c 机器/np 学习/v 的/u 结合/v 》/w
+介绍/v :/w 谷歌/nt 地图/n 解密/v
+《/w 空间/n 数据挖掘/n 常用/n 方法/n 》/w
+介绍/v :/w 空间/n 数据挖掘/n 常用/n 方法/n
+《/w Use/en Google's/en Word/en 2/m Vec/en for/en movie/en reviews/en 》/w
+介绍/v :/w Kaggle/en 新/a 比赛/v ”/w When/en bag/en of/en words/en meets/en bags/en of/en popcorn/en “/w aka/en ”/w 边学边/nr 用/ng word/en 2/m vec/en 和/c deep/en learning/en 做/v NLP/en “/w 里面/f 全套/b 教程/n 教/ng 一步一步/qqm 用/ng python/en 和/c gensim/en 包/n 的/u word/en 2/m vec/en 模型/n ，/w 并/c 在/d 实际/a 比赛/v 里面/f 比/p 调/n 参数/n 和/c 清/a 数据/n 。/w 如果/c 已/d 装/ng 过/d gensim/en 不要/df 忘/v 升级/v
+《/w PyNLPIR/en 》/w
+介绍/v :/w PyNLPIR/en 提供/v 了/dg NLPIR/en //w ICTCLAS/en 汉语/n 分词/n 的/u Python/en 接口/n ，/w 此外/c  /0 Zhon/en  /0 提供/v 了/dg 常用/n 汉字/n 常量/n ，/w 如/c CJK/en 字符/n 和/c 偏旁/n ，/w 中文/n 标点/n ，/w 拼音/n ，/w 和/c 汉字/n 正则/n 表达式/n （/w 如/c 找到/v 文本/n 中/f 的/u 繁体字/n ）/w
+《/w 深度/n 卷积/n 神经网络/n 下/f 围棋/n 》/w
+介绍/v :/w 这/r 文章/n 说/ag 把/p 最近/t 模型/n 识别/v 上/f 的/u 突破/v 应用/v 到/ng 围棋/n 软件/n 上/f ，/w 打/q 16 万/m 张/ng 职业/n 棋谱/n 训练/v 模型/n 识别/v 功能/n 。/w 想法/n 不错/a 。/w 训练/v 后/f 目前/t 能/ng 做到/v 不用/d 计算/v ，/w 只/bg 看/u 棋盘/n 就/d 给出/v 下一步/ldm ，/w 大约/d 10/m 级/n 棋力/n 。/w 但/c 这/r 篇文章/n 太过/a 乐观/a ，/w 说/ag 什么/r 人类/n 的/u 最后/f 一块/d 堡垒/n 马上/d 就要/d 跨/ng 掉/v 了/dg 。/w 话说/v 得/e 太/ag 早/a 。/w 不过/c ，/w 如果/c 与/c 别的/r 软件/n 结合/v 应该/v 还有/v 潜力/n 可/v 挖/v 。/w @/w 万/m 精油/n 墨绿/b
+《/w NIPS/en 审稿/v 实验/n 》/w
+介绍/v :/w UT/en Austin/en 教授/nx Eric/en Price/en 关于/p 今年/t NIPS/en 审稿/v 实验/n 的/u 详细/a 分析/v ，/w 他/r 表示/v ，/w 根据/n 这次/r 实验/n 的/u 结果/c ，/w 如果/c 今年/t NIPS/en 重新/d 审稿/v 的话/u ，/w 会/n 有/v 一半/m 的/u 论文/n 被/ng 拒/vg 。/w
+《/w 2014 年/t 最佳/z 的/u 大数据/n ，/w 数据/n 科学/a 文章/n 》/w
+介绍/v :/w KDNuggets/en 分别/d 总结/n 了/dg 2014 年 1/t 4/m 个/q 阅读/v 最/d 多/a 以及/c 分享/v 最/d 多/a 的/u 文章/n 。/w 我们/r 从中/d 可以/a 看到/v 多个/n 主题/n ——/w 深度/n 学习/v ，/w 数据/n 科学家/n 职业/n ，/w 教育/n 和/c 薪酬/n ，/w 学习/v 数据/n 科学/a 的/u 工具/n 比如/v R/en 和/c Python/en 以及/c 大众/n 投票/v 的/u 最/d 受/v 欢迎/v 的/u 数据/n 科学/a 和数/n 据/ng 挖掘/v 语言/n
+《/w 机器/np 学习/v 经典/n 算法/n 详解/v 及/c Python/en 实现/v -/w -/w 线性/n 回归/v （/w Linear/en Regression/en ）/w 算法/n 》/w
+介绍/v :/w Python/en 实现/v 线性/n 回归/v ，/w 作者/n 还有/v 其他/r 很/d 棒/a 的/u 文章/n 推荐/v 可以/a 看看/vv
+《/w 2014 中/t 国大/j 数据/n 技术/n 大会/nh 33/m 位/q 核心/n 专家/n 演讲/v PDF/n 》/w
+介绍/v ：2014 中/t 国大/j 数据/n 技术/n 大会/nh 33/m 位/q 核心/n 专家/n 演讲/v PDF/en 下载/v
+《/w 使用/v RNN/en 和/c Paragraph/en Vector/en 做/v 情感/n 分析/v 》/w
+介绍/v ：/w 这是/n T/en ./m Mikolov/en &/0 Y/en ./m Bengio/en 最新/a 论文/n Ensemble/en of/en Generative/en and/en Discriminative/en Techniques/en for/en Sentiment/en Analysis/en of/en Movie/en Reviews/en ，/w 使用/v RNN/en 和/c PV/en 在/d 情感/n 分析/v 效果/n 不错/a ，/w ［/w 项目/n 代码/n ］/w (/w https://github.com/mesnilgr/iclr15/url )/w 公布/v 在/d github/en (/w 目前/t 是/v 空/a 的/u )/w 。/w 这/r 意味着/v Paragraph/en  /0 Vector/en 终于/d 揭开/v 面纱/n 了/dg 嘛/y 。/w
+《/w NLPIR/en //w ICTCLAS/en 2015 分/t 词/n 系统/a 大会/nh 上/f 的/u 技术/n 演讲/v 》/w
+介绍/v :/w NLPIR/en //w ICTCLAS/en 2015 分/t 词/n 系统/a 发布/v 与/c 用户/n 交流/v 大会/nh 上/f 的/u 演讲/v ，/w 请/v 更多/n 朋友/n 检阅/v 新版/b 分词/n 吧/y 。/w 我们/r 实验室/nc 同学/nm 的/u 演讲/v 包括/v ：/w 孙梦姝/nr -/w 基于/p 评论/n 观点/n 挖掘/v 的/u 商品/n 搜索/n 技术/n 研究/v  /0 李然/nr -/w 主题/n 模型/n
+《/w Machine/en Learning/en is/en Fun/en !/w 》/w
+介绍/v :/w Convex/en Neural/en Networks/en 解决/v 维/jns 数/m 灾难/n
+《/w CNN/en 的/u 反向/b 求导/nz 及/c 练习/n 》/w
+介绍/v :/w 介绍/v CNN/en 参数/n 在/d 使用/v bp/en 算法/n 时/n 该/r 怎么/r 训练/v ，/w 毕竟/d CNN/en 中/f 有/v 卷积/n 层/n 和/c 下/f 采样/v 层/n ，/w 虽然/c 和/c MLP/en 的/u bp/en 算法/n 本质/n 上相/a 同/a ，/w 但/c 形式/n 上/f 还是/c 有些/r 区别/n 的/u ，/w 很/d 显然/a 在/d 完成/v CNN/en 反向/b 传播/v 前/f 了解/v bp/en 算法/n 是/v 必须/d 的/u 。/w 此外/c 作者/n 也/d 做/v 了/dg 一个/mq 资源/n 集/n :/w 机器/np 学习/v ，/w 深度/n 学习/v ，/w 视觉/n ，/w 数学/n 等/ng
+《/w 正则/n 表达式/n 优化/v 成/ng Trie/en 树/n 》/w
+介绍/v :/w 如果/c 要/v 在/d 一/m 篇文章/n 中/f 匹配/v 十万/m 个/q 关键词/n 怎么办/r ？/w Aho/en -/w Corasick/en  /0 算法/n 利用/v 添加/v 了/dg 返回/v 边/d 的/u Trie/en 树/n ，/w 能够/v 在线/v 性/k 时间/n 内/f 完成/v 匹配/v 。/w 但/c 如果/c 匹配/v 十万/m 个/q 正则/n 表达式/n 呢/ng ？/w 这时候/r 可以/a 用到/v 把/p 多个/n 正则/n 优化/v 成/ng Trie/en 树/n 的/u 方法/n ，/w 如/c 日本/ns 人/n 写/v 的/u  /0 Regexp/en :/w :/w Trie/en
+《/w Deep/en learning/en Reading/en List/en 》/w
+介绍/v :/w 深度/n 学习/v 阅读/v 清单/n
+《/w Caffe/en 》/w
+介绍/v :/w Caffe/en 是/v 一个/mq 开源/v 的/u 深度/n 学习/v 框架/n ，/w 作者/n 目前/t 在/d google/en 工作/n ，/w 作者/n 主页/n  /0 Yangqing/en Jia/en (/w 贾扬清/nr )/w
+《/w GoogLeNet/en 深度/n 学习/v 模型/n 的/u Caffe/en 复现/v 》/w
+介绍/v :201/m 4/m ImageNet/en 冠军/n GoogLeNet/en 深度/n 学习/v 模型/n 的/u Caffe/en 复现/v 模型/n ,/w GoogleNet/en 论文/n ./m
+《/w LambdaNet/en ，/w Haskell/en 实现/v 的/u 开源/v 人工/b 神经网络/n 库/n 》/w
+介绍/v :/w LambdaNetLambdaNet/en 是由/n Haskell/en 实现/v 的/u 一个/mq 开源/v 的/u 人工/b 神经网络/n 库/n ，/w 它/r 抽象/a 了/dg 网络/n 创建/v 、/w 训练/v 并/c 使用/v 了/dg 高阶/n 函数/n 。/w 该/r 库/n 还/d 提供/v 了/dg 一/m 组/n 预定义/v 函数/n ，/w 用户/n 可以/a 采取/v 多种/a 方式/n 组合/n 这些/r 函数/n 来/u 操作/v 现实/a 世界/n 数据/n 。/w
+《/w 百度/nt 余凯/nr &/0 张潼/nr 机器/np 学习/v 视频/n 》/w
+介绍/v :/w 如果/c 你/r 从事/v 互联网/n 搜索/n ，/w 在线/v 广告/n ，/w 用户/n 行为分析/n ，/w 图像/n 识别/v ，/w 自然语言/n 理解/v ，/w 或者/c 生物/n 信息学/n ，/w 智能机/n 器/k 人/n ，/w 金融/n 预测/v ，/w 那么/c 这/r 门/n 核心/n 课程/n 你/r 必须/d 深入/a 了解/v 。/w
+《/w 杨强/nr 在/d TEDxNanjing/en 谈/ng 智能/n 的/u 起源/n 》/w
+介绍/v :/w "/0 人工智能/n 研究/v 分/b 许多/mq 流派/n 。/w 其中/r 之一/r 以/p IBM/en 为/p 代表/nx ，/w 认为/v 只要/c 有高/n 性能/n 计算/v 就/d 可/v 得到/v 智能/n ，/w 他们/r 的/u ‘/w 深蓝/b ’/w 击败/v 了/dg 世界/n 象棋/n 冠军/n ；/w 另/d 一流/a 派/n 认为/v 智能/n 来自/v 动物/n 本能/n ；/w 还有/v 个/q 很/d 强/a 的/u 流派/n 认为/v 只要/c 找/v 来/u 专家/n ，/w 把/p 他们/r 的/u 思维/n 用/ng 逻辑/n 一条条/qqy 写下/v ，/w 放到/v 计算机/np 里/f 就/d 行/a ……/w "/0 杨强/nr 在/d TEDxNanjing/en 谈/ng 智能/n 的/u 起源/n
+《/w 深度/n RNN/en //w LSTM/en 用于/v 结构化/vn 学习/v 0/m )/w 序列/n 标注/n Connectionist/en Temporal/en ClassificationICML/en 06/m 》/w
+介绍/v :/w 1/m )/w 机器翻译/ln  /0 Sequence/en to/en Sequence/en NIPS/en 14/m  /0 2/m )/w 成分/n 句法/n  /0 GRAMMAR/en AS/en FOREIGN/en LANGUAGE/en
+《/w Deep/en Learning/en 实战/n 之/u word/en 2/m vec/en 》/w
+介绍/v :/w 网易/nt 有道/v 的/u 三/m 位/q 工程师/nx 写/v 的/u word/en 2/m vec/en 的/u 解析/v 文档/n ，/w 从/p 基本/a 的/u 词/n 向量/n //w 统计/v 语言/n 模型/n -/w >/w NNLM/en -/w >/w Log/en -/w Linear/en //w Log/en -/w Bilinear/en -/w >/w 层次化/v Log/en -/w Bilinear/en ，/w 到/ng CBOW/en 和/c Skip/en -/w gram/en 模型/n ，/w 再/d 到/ng word/en 2/m vec/en 的/u 各种/r tricks/en ，/w 公式/n 推导/v 与/c 代码/n ，/w 基本上/d 是/v 网上/s 关于/p word/en 2/m vec/en 资料/n 的/u 大/a 合集/n ，/w 对/a word/en 2/m vec/en 感兴趣/a 的/u 朋友/n 可以/a 看看/vv
+《/w Machine/en learning/en open/en source/en software/en 》/w
+介绍/v :/w 机器/np 学习/v 开源/v 软件/n ，/w 收录/v 了/dg 各种/r 机器/np 学习/v 的/u 各种/r 编程语言/n 学术/n 与/c 商业/n 的/u 开源/v 软件/n ．/m 与/c 此类/r 似的/u 还有/v 很多/mq 例如/v :/w DMOZ/en -/w Computers/en :/w Artificial/en Intelligence/en :/w Machine/en Learning/en :/w Software/en ,/w 　LIBSVM/en -/w -/w A/en Library/en for/en Support/en Vector/en Machines/en ,/w 　Weka/en 3/m :/w Data/en Mining/en Software/en in/en Java/en ,/w 　scikit/en -/w learn/en :/w Machine/en Learning/en in/en Python/en ,/w 　Natural/en Language/en Toolkit/en :/w NLTK/en ,/w 　MAchine/en Learning/en for/en LanguagE/en Toolkit/en ,/w 　Data/en Mining/en -/w Fruitful/en and/en Fun/en ,/w 　Open/en Source/en Computer/en Vision/en Library/en
+《/w 机器/np 学习/v 入门者/n 学习指南/n 》/w
+介绍/v :/w 作者/n 是/v 计算机/np 研/ng 二/m (/w 写/v 文章/n 的/u 时候/n ，/w 现在/t 是/v 2015 年/t 了/dg 应该/v 快要/d 毕业/v 了/dg )/w ，/w 专业/a 方向/n 自然语言/n 处理/v ．/m 这是/n 一点/mq 他/r 的/u 经验之谈/i ．/m 对于/p 入门/v 的/u 朋友/n 或许/d 会/n 有/v 帮助/v
+《/w A/en Tour/en of/en Machine/en Learning/en Algorithms/en 》/w
+介绍/v :/w 这是/n 一/m 篇/ng 关于/p 机器/np 学习/v 算法/n 分类/v 的/u 文章/n ，/w 非常/b 好/a
+《/w 2014 年/t 的/u 《/w 机器/np 学习日/n 报/n 》/w 大/a 合集/n 》/w
+介绍/v :/w 机器/np 学习日/n 报/n 里面/f 推荐/v 很多/mq 内容/n ，/w 在/d 这里/r 有/v 一部分/mq 的/u 优秀/a 内容/n 就是/n 来自/v 机器/np 学习日/n 报/n ．/m
+《/w Image/en classification/en with/en deep/en learning/en 常用/n 模型/n 》/w
+介绍/v :/w 这是/n 一/m 篇/ng 关于/p 图像/n 分类/v 在/d 深度/n 学习/v 中/f 的/u 文章/n
+《/w 自动/b 语音/n 识别/v ：/w 深度/n 学习方法/n 》/w
+介绍/v :/w 作者/n 与/c Bengio/en 的/u 兄弟/n Samy/en 09 年/t 合编/v 《/w 自动/b 语音/n 识别/v ：/w 核/n 方法/n 》/w 3/m ）/w 李开复/nr 1989 年/t 《/w 自动/b 语音/n 识别/v 》/w 专/a 着/n ，/w 其/r 博导/n 、/w 94 年/t 图灵奖/nz 得主/n Raj/en Reddy/en 作/ng 序/n
+《/w NLP/en 中/f 的/u 中文/n 分词/n 技术/n 》/w
+介绍/v :/w 作者/n 是/v 360/m 电商/n 技术/n 组成员/n ，/w 这是/n 一/m 篇/ng NLP/en 在/d 中文/n 分词/n 中/f 的/u 应用/v
+《/w Using/en convolutional/en neural/en nets/en to/en detect/en facial/en keypoints/en tutorial/en 》/w
+介绍/v :/w 使用/v deep/en learning/en 的/u 人脸/n 关键点/n 检测/v ，/w 此外/c 还有/v 一/m 篇/ng  /0 AWS/en 部署/v 教程/n
+《/w 书籍推荐/n :/w Advanced/en Structured/en Prediction/en 》/w
+介绍/v :/w 由/p Sebastian/en Nowozin/en 等/ng 人/n 编纂/v MIT/en 出版/v 的/u 新书/n 《/w Advanced/en Structured/en Prediction/en 》/w http://t.cn/RZxipKG/url  /0 ，/w 汇集/v 了结/v 构/ng 化/k 预测/v 领域/n 诸多/mq 牛文/nr ，/w 涉及/v CV/en 、/w NLP/en 等/ng 领域/n ，/w 值得/v 一/m 读/ng 。/w 网上/s 公开/a 的/u 几/m 章草/n 稿/n :/w 一/m ,/w 二/m ,/w 三/m ,/w 四/m ,/w 五/m
+《/w An/en Introduction/en to/en Matrix/en Concentration/en Inequalities/en 》/w
+介绍/v :/w Tropp/en 把/p 数学家/n 用/ng 高深/a 装/ng 逼/v 的/u 数学/n 语言/n 写/v 的/u 矩阵/n 概率/n 不等式/n 用/ng 初等/b 的/u 方法/n 写出/v 来/u ，/w 是/v 非常/d/mopo(d) 好/a 的/u 手册/n ，/w 领域/n 内/f 的/u paper/en 各种/r 证明/n 都/d 在用/b 里面/f 的/u 结果/c 。/w 虽说/c 是/v 初等/b 的/u ，/w 但/c 还是/c 非常/b 的/u 难/a
+《/w The/en free/en big/en data/en sources/en you/en should/en know/en 》/w
+介绍/v :/w 不容/v 错过/v 的/u 免费/v 大数据/n 集/n ，/w 有些/r 已经/d 是/v 耳熟能详/iv ，/w 有些/r 可能/a 还是/c 第一次/n 听说/v ，/w 内容/n 跨越/v 文本/n 、/w 数据/n 、/w 多媒体/n 等/ng ，/w 让/v 他们/r 伴/ng 你/r 开始/v 数据/n 科学/a 之旅/n 吧/y ，/w 具体/a 包括/v ：Data.gov/url 、/w US/en Census/en Bureau/en 、/w European/en Union/en Open/en Data/en Portal/en 、/w Data.gov.uk/url 等/ng
+《/w A/en Brief/en Overview/en of/en Deep/en Learning/en 》/w
+介绍/v :/w 谷歌/nt 科学家/n 、/w Hinton/en 亲/a 传/ng 弟子/n Ilya/en Sutskever/en 的/u 深度/n 学习/v 综述/n 及/c 实际/a 建议/n
+《/w A/en Deep/en Dive/en into/en Recurrent/en Neural/en Nets/en 》/w
+介绍/v :/w 非常/b 好/a 的/u 讨论/v 递归/nz 神经网络/n 的/u 文章/n ，/w 覆盖/v 了/dg RNN/en 的/u 概念/n 、/w 原理/n 、/w 训练/v 及/c 优化/v 等/ng 各个/r 方面/n 内容/n ，/w 强烈/a 推荐/v ！/w 本文/r 作者/n Nikhil/en Buduma/en 还有/v 一/m 篇/ng  /0 Deep/en Learning/en in/en a/en Nutshell/en  /0 值得/v 推荐/v
+《/w 机器/np 学习/v ：/w 学习资源/n 》/w
+介绍/v :/w 里面/f 融合/v 了/dg 很多/mq 的/u 资源/n ，/w 例如/v 竞赛/v ，/w 在线/v 课程/n ，/w demo/n ，/w 数据/n 整合/v 等/ng 。/w 有/v 分类/v
+《/w Statistical/en foundations/en of/en machine/en learning/en 》/w
+介绍/v :/w 《/w 机器/np 学习/v 的/u 统计/v 基础/n 》/w 在线/v 版/n ，/w 该/r 手册/n 希望/n 在理/a 论/k 与/c 实践/v 之间/f 找到/v 平衡点/n ，/w 各/r 主要/b 内容/n 都/d 伴有/v 实际/a 例子/n 及/c 数据/n ，/w 书/n 中/f 的/u 例子/n 程序/n 都/d 是/v 用/ng R/en 语言/n 编写/v 的/u 。/w
+《/w A/en Deep/en Learning/en Tutorial/en :/w From/en Perceptrons/en to/en Deep/en Networks/en 》/w
+介绍/v :/w IVAN/en VASILEV/en 写/v 的/u 深度/n 学习/v 导引/v ：/w 从/p 浅层/b 感知/v 机/np 到/ng 深度/n 网络/n 。/w 高可/nr 读/ng
+《/w Research/en priorities/en for/en robust/en and/en beneficial/en artificial/en intelligence/en 》/w
+介绍/v :/w 鲁/ag 棒/a 及/c 有益/a 的/u 人工智能/n 优先/v 研究/v 计划/n ：/w 一/m 封/ng 公开信/n ，/w 目前/t 已经/d 有/v Stuart/en Russell/en ,/w Tom/en Dietterich/en ,/w Eric/en Horvitz/en ，/w Yann/en LeCun/en ,/w Peter/en Norvig/en ,/w Tom/en Mitchell/en ,/w Geoffrey/en Hinton/en ,/w Elon/en Musk/en 等/ng 人/n 签署/v  /0 The/en Future/en of/en Life/en Institute/en (/w FLI/en )/w ./m 这/r 封信/nz 的/u 背景/n 是/v 最近/t 霍金/nr 和/c Elon/en Musk/en 提醒/v 人们/n 注意/v AI/en 的/u 潜在/b 威胁/v 。/w 公开信/n 的/u 内容/n 是/v AI/en 科学家/n 们/k 站在/v 造福/v 社会/n 的/u 角度/n ，/w 展望/v 人工智能/n 的/u 未来/t 发展方向/n ，/w 提出/v 开发/v AI/en 系统/a 的/u Verification/en ，/w Validity/en ，/w Security/en ，/w Control/en 四点/t 要求/n ，/w 以及/c 需要/n 注意/v 的/u 社会问题/n 。/w 毕竟/d 当前/t AI/en 在/d 经济/n 领域/n ，/w 法律/n ，/w 以及/c 道德/a 领域/n 相关/v 研究/v 较/d 少/a 。/w 其实/d 还有/v 一/m 部/n 美剧/n 《/w 疑犯/n 追踪/v 》/w ,/w 介绍/v 了/dg AI/en 的/u 演进/v 从/p 一开始/t 的/u 自我/r 学习/v ，/w 过滤/v ，/w 图像/n 识别/v ，/w 语音/n 识别/v 等/ng 判断/n 危险/a ，/w 到/ng 第四/m 季/ng 的/u 时候/n 出现/v 了/dg 机器/np 通过/p 学习/v 成长/v 之后/f 想/v 控制/v 世界/n 的/u 状态/n 。/w 说/ag 到/ng 这里/r 推荐/v 收看/v 。/w
+《/w metacademy/en 》/w
+介绍/v :/w 里面/f 根据/n 词条/n 提供/v 了/dg 许多/mq 资源/n ，/w 还有/v 相关/v 知识/n 结构/n ，/w 路线图/n ，/w 用时/n 长短/n 等/ng 。/w 号称/v 是/v ”/w 机器/np 学习/v “/w 搜索引擎/n
+《/w FAIR/en open/en sources/en deep/en -/w learning/en modules/en for/en Torch/en 》/w
+介绍/v :/w Facebook/en 人工智能/n 研究院/nc （/w FAIR/en ）/w 开源/v 了/dg 一系列/b 软件库/n ，/w 以/p 帮助/v 开发者/n 建立/v 更/d 大/a 、/w 更快/n 的/u 深度/n 学习/v 模型/n 。/w 开放/a 的/u 软件库/n 在/d Facebook/en 被/ng 称作/v 模块/n 。/w 用/ng 它们/r 替代/v 机器/np 学习/v 领域/n 常用/n 的/u 开发/v 环境/n Torch/en 中/f 的/u 默认/v 模块/n ，/w 可以/a 在/d 更/d 短/a 的/u 时间/n 内/f 训练/v 更/d 大规模/b 的/u 神经网络/n 模型/n 。/w
+《/w 浅析/v 人脸/n 检测/v 之/u Haar/en 分类/v 器/k 方法/n 》/w
+介绍/v :/w 本文/r 虽然/c 是/v 写/v 于/ng 2012 年/t ，/w 但是/c 这/r 篇文章/n 完全/a 是/v 作者/n 的/u 经验/n 之/u 作/ng 。/w
+《/w 如何/r 成为/v 一/m 位数/n 据/ng 科学家/n 》/w
+介绍/v :/w 本文/r 是/v 对/a 《/w 机器/np 学习/v 实战/n 》/w 作者/n Peter/en Harrington/en 做/v 的/u 一个/mq 访谈/v 。/w 包含/v 了/dg 书/n 中部/f 分/b 的/u 疑问/n 解答/v 和/c 一点/mq 个人/n 学习/v 建议/n
+《/w Deep/en learning/en from/en the/en bottom/en up/n 》/w
+介绍/v :/w 非常/b 好/a 的/u 深度/n 学习/v 概述/v ，/w 对/a 几/m 种/ng 流行/v 的/u 深度/n 学习/v 模型/n 都/d 进行/v 了/dg 介绍/v 和/c 讨论/v
+《/w Hands/en -/w On/en Data/en Science/en with/en R/en Text/en Mining/en 》/w
+介绍/v :/w 主要/b 是/v 讲述/v 了/dg 利用/v R/en 语言/n 进行/v 数据挖掘/n
+《/w Understanding/en Convolutions/en 》/w
+介绍/v :/w 帮/ng 你/r 理解/v 卷积/n 神经网络/n ，/w 讲解/v 很/d 清晰/a ，/w 此外/c 还有/v 两/m 篇/ng  /0 Conv/en Nets/en :/w A/en Modular/en Perspective/en ，/w Groups/en &/0 Group/en Convolutions./url 作者/n 的/u 其他/r 的/u 关于/p 神经网络/n 文章/n 也/d 很/d 棒/a
+《/w Introduction/en to/en Deep/en Learning/en Algorithms/en 》/w
+介绍/v :/w Deep/en Learning/en 算法/n 介绍/v ，/w 里面/f 介绍/v 了/dg 06 年 /t 3/m 篇/ng 让/v deep/en learning/en 崛起/v 的/u 论文/n
+《/w Learning/en Deep/en Architectures/en for/en AI/n 》/w
+介绍/v :/w 一本/nz 学习/v 人工智能/n 的/u 书籍/n ，/w 作者/n 是/v Yoshua/en Bengio/en ，/w 相关/v 国内/s 报道/n
+《/w Geoffrey/en E/en ./m Hinton/en 个人主页/n 》/w
+介绍/v :/w Geoffrey/en Hinton/en 是/v Deep/en Learning/en 的/u 大牛/nz ，/w 他/r 的/u 主页/n 放/v 了/dg 一些/mq 介绍性/n 文章/n 和/c 课件/n 值得/v 学习/v
+《/w PROBABILITY/en THEORY/en :/w THE/en LOGIC/en OF/en SCIENCE/en 》/w
+介绍/v :/w 概率论/n ：/w 数理逻辑/ln 书籍/n
+《/w H2O/n 》/w
+介绍/v :/w 一个/mq 用来/v 快速/b 的/u 统计/v ，/w 机器/np 学习/v 并且/c 对于/p 数据/n 量/n 大/a 的/u 数学/n 库/n
+《/w ICLR/en 2015/m 会议/nh 的/u arXiv/en 稿件/n 合集/n 》/w
+介绍/v :/w 在/d 这里/r 你/r 可以/a 看到/v 最近/t 深度/n 学习/v 有/v 什么/r 新/a 动向/n 。/w
+《/w Introduction/en to/en Information/en Retrieval/en 》/w
+介绍/v :/w 此书/r 在/d 信息/n 检索/v 领域/n 家喻户晓/iv ，/w 除/ng 提供/v 该书/r 的/u 免费/v 电子版/n 外/f ，/w 还/d 提供/v 一个/mq  /0 IR/en 资源/n 列表/v  /0 ，/w 收录/v 了/dg 信息/n 检索/v 、/w 网络/n 信息/n 检索/v 、/w 搜索引擎/n 实现/v 等/ng 方面/n 相关/v 的/u 图书/n 、/w 研究中心/lnc 、/w 相关/v 课程/n 、/w 子/k 领域/n 、/w 会议/nh 、/w 期刊/n 等等/u ，/w 堪称/v 全集/n ，/w 值得/v 收藏/v
+/0
+参考资料/n ：/w
+巨头/n 转身/v 物联网/n ，/w 物联网/n 的/u 下/f 一/m 站/ny 是/v 人工智能/n ：https://zhuanlan.zhihu.com/p/21957944/url
+https://www.zhihu.com/question/31497611/url
+值得/v 我们/r 深度/n 学习/v 的/u 十大/j 开源/v 框架/n :http://www./url devstore.cn/essay/essayInfo/3734.html/url
+自学成才/lv 秘籍/n ！/w 机器/np 学习/v &/0 深度/n 学习/v 经典/n 资料/n 汇总/v ：http://www.techxue.com/techxue-12746-1.html/url
+近/a 200/m 篇/ng 机器/np 学习/v &/0 深度/n 学习资料/n 分享/v （/w 含/v 各种/r 文档/n ，/w 视频/n ，/w 源码/n 等/ng ）/w ：http://developer.51cto.com/art/201501/464174.htm/url
+一/m 文读懂/nr 机器/np 学习/v ，/w 大数据/n //w 自然语言/n 处理/v //w 算法/n 全/a 有/v 了/dg :http://www.open-open.com/lib/view/open1420615208000.html/url
+计算机/np 的/u 潜意识/n :http://www.cnblogs.com/subconscious/default.html?page=1/url
+机器/np 学习/v 最佳/z 入门/v 学习资料/n 汇总/v ：http://article.yeeyan.org/view/22139/410514/url

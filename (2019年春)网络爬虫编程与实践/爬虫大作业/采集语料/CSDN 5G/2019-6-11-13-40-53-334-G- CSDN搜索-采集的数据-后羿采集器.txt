@@ -1,0 +1,137 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G时域资源,5G时域资源时域结构自包含子帧mini-slot上下行子帧配比第一级，Cell-Specific RRC信令配置第二级，UE-Specific RRC信令配置第三级，Group-Common DCI第四级，UE-Specific DCIn时域结构nn上图是时域资源的基本结构，1frame = 10subframe = 10 * 14symbol，一个帧的时长为,littleBird_2,https://blog.csdn.net/littleBird_2/article/details/86768249,2019-02-06,811次阅读,5G时域资源 - littleBird_2的博客,2019年02月06日 14:50:48,5G时域资源时域结构自包含子帧mini-slot上下行子帧配比第一级，Cell-Specific RRC信令配置第二级，UE-Specific RRC信令配置第三级，Group-Common DCI第四级，UE-Specific DCI
+时域结构
+
+上图是时域资源的基本结构，1frame = 10subframe = 10 * 14symbol，一个帧的时长为10ms，每个帧由10个时长为1ms的子帧组成，每个子帧由Nsubframe,uslotNslotsubframe,u      N_{slot}^{subframe,u}Nslotsubframe,u​个slot组成，每个slot由NslotsymbNsymbslot      N_{symb}^{slot}Nsymbslot​个符号组成。
+Nsubframe,uslotNslotsubframe,u      N_{slot}^{subframe,u}Nslotsubframe,u​由子载波间隔配置（u）决定，NslotsymbNsymbslot      N_{symb}^{slot}Nsymbslot​由循环前缀（CP）决定，具体见下表
+
+
+
+
+
+
+
+
+
+
+
+0（15 kHz）
+14
+1
+
+
+1（30 kHz）
+14
+2
+
+
+2（60 kHz）
+14（正常CP）
+4
+
+
+2（60kHz）
+12（扩展CP）
+4
+
+
+3（120 kHz）
+14
+8
+
+
+4（240 kHz）
+14
+16
+
+
+符号长度与子载波间隔（scs）相关，具体如下：
+对应scs= 480 kHz，Tc=1/Δfmax∗Nf=0.509nsTc=1/Δfmax∗Nf=0.509ns      T_c=1/\Delta{f_{max}}*N_f  = 0.509 nsTc​=1/Δfmax​∗Nf​=0.509ns，其中NfNf      N_fNf​= 4096；
+对应scs=15 kHz，Ts=1/Δfref∗Nf,ref=32.552nsTs=1/Δfref∗Nf,ref=32.552ns      T_s=1/\Delta{f_{ref}}*N_{f,ref}  = 32.552 nsTs​=1/Δfref​∗Nf,ref​=32.552ns，其中Nf,refNf,ref      N_{f,ref}Nf,ref​= 2048。
+TsTs      T_sTs​和TcTc      T_cTc​之间的关系固定为k=Ts/Tc=64k=Ts/Tc=64      k=T_s/T_c=64k=Ts​/Tc​=64
+Slot长度与子载波间隔配置相关，具体为Tslot=1/2uTslot=1/2u      T_{slot}=1/2^uTslot​=1/2u
+
+
+
+
+u
+0
+1
+2
+3
+4
+
+
+
+
+TslotTslot      T_{slot}Tslot​
+1ms
+0.5ms
+0.25ms
+0.125ms
+0.0625ms
+
+
+自包含子帧
+定义：同一子帧包含UL、DL和GP
+
+引入自包含子帧的目的是为了更快的下行反馈和上行调度，这样就降低了RTT时延，并且可以迅速跟踪信道变化。
+同时，自包含子帧也有自身的一些问题，如：GP较小限制了小区的覆盖，对终端的硬件处理时延要求变高。
+mini-slot
+定义：时域调度长度小于14个symbol
+5G的调度基本单位分为两种类型：slot-based和Non-slot-based。其中slot-based对应的基本调度单位为slot，而Non-slot-based对应的基本调度单位是mini-slot，支持以{2,4,7}个symbol作为基本调度单位。
+上下行子帧配比
+5G对上下行子帧配比一共分了四个等级。
+第一级，Cell-Specific RRC信令配置
+TDD-UL-DL-ConfigCommon ::=          SEQUENCE {
+    referenceSubcarrierSpacing          SubcarrierSpacing,
+    pattern1                            TDD-UL-DL-Pattern,
+    pattern2                            TDD-UL-DL-Pattern                                                           OPTIONAL, -- Need R
+    ...
+}
+
+TDD-UL-DL-Pattern ::=               SEQUENCE {
+    dl-UL-TransmissionPeriodicity       ENUMERATED {ms0p5, ms0p625, ms1, ms1p25, ms2, ms2p5, ms5, ms10},
+    nrofDownlinkSlots                   INTEGER (0..maxNrofSlots),
+    nrofDownlinkSymbols                 INTEGER (0..maxNrofSymbols-1),
+    nrofUplinkSlots                     INTEGER (0..maxNrofSlots),
+    nrofUplinkSymbols                   INTEGER (0..maxNrofSymbols-1),
+    ...,
+    [[
+    dl-UL-TransmissionPeriodicity-v1530     ENUMERATED {ms3, ms4}                                                   OPTIONAL -- Need R
+    ]]
+}
+123456789101112131415161718
+dl-UL-TransmissionPeriodicity：配比周期，pattern1为配置的第一个周期，pattern2为配置的第二个周期，5G支持单周期和双周期配置；
+nrofDownlinkSlots：全下行slot的数目；
+nrofUplinkSlots：全上行slot的数目；
+nrofDownlinkSymbols：全下行slot后面的下行符号数；
+nrofUplinkSymbols：全上行slot前面的上行符号数；
+
+第二级，UE-Specific RRC信令配置
+TDD-UL-DL-ConfigDedicated ::=       SEQUENCE {
+    slotSpecificConfigurationsToAddModList      SEQUENCE (SIZE (1..maxNrofSlots)) OF TDD-UL-DL-SlotConfig           OPTIONAL, -- Need N
+    slotSpecificConfigurationsToreleaseList     SEQUENCE (SIZE (1..maxNrofSlots)) OF TDD-UL-DL-SlotIndex            OPTIONAL, -- Need N
+    ...
+}
+
+TDD-UL-DL-SlotConfig ::=            SEQUENCE {
+    slotIndex                           TDD-UL-DL-SlotIndex,
+    symbols                             CHOICE {
+        allDownlink                         NULL,
+        allUplink                           NULL,
+        explicit                            SEQUENCE {
+            nrofDownlinkSymbols                 INTEGER (1..maxNrofSymbols-1)                                       OPTIONAL, -- Need S
+            nrofUplinkSymbols                   INTEGER (1..maxNrofSymbols-1)                                       OPTIONAL  -- Need S
+        }
+    }
+}
+
+TDD-UL-DL-SlotIndex ::=             INTEGER (0..maxNrofSlots-1)
+12345678910111213141516171819
+如果已经配置了TDD-UL-DL-ConfigCommon，则TDD-UL-DL-ConfigDedicated只能配置F时隙
+第三级，Group-Common DCI
+基站通过PDCCH通知终端SFI（Slot Format Information）信息，承载该信息的PDCCH DCI格式为DCI format 2_0。
+关于SFI指示的具体内容，可以查看38.213的Table11.1.1-1
+第四级，UE-Specific DCI
+使用DCI format 0_0或DCI format 0_1中的字段“Time domain resource assignment”指示PUSCH在时域的资源分配情况。使用DCI format 1_0或DCI format 1_1中的字段“Time domain resource assignment”指示PDSCH在时域的资源分配情况。具体见协议38.212—7.3.1章节。,,,,,

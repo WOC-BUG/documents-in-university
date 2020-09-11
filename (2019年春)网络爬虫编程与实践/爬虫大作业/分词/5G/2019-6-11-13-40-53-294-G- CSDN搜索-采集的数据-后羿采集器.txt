@@ -1,0 +1,110 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+让/v 美国/ns 颤抖/v 的/u 5/m G/m ，/w 到底/d 牛/a 在/d 哪/r ？/w ,/w 有/v 一个/mq 重要/a 原因/n 是/v 5/m G/en 技术/n 。/w
+
+
+
+
+
+漫画/n 来源/n |/0 溷/ag 子/k 曰/vg 微信公众号/ln
+
+
+
+对此/n ，/w 任正非/nr 在/d 接受/v 采访/v 时/n 表示/v ，/w 美国/ns 的/u “/w 90/m 天/n 临时/b 执照/n ”/w ，/w 对于/p 华为/nz 来说/u 最重/a 要/v 的/u 还是/c 把/p 自己/r 能/ng 做/v 的/u 事/n 做好/v 。/w 华为/nz 的/u 5/m G/m 是/v 不会/v 受/v 影响/v 的/u 。/w 在/d 5/m G/m 技术/n 方面/n ，/w 别人/r 两三年/t 肯定/a 追/v 不/d 上/f 华为/nz 。/w
+
+
+
+此外/c ，/w 任/c 总/b 还/d 说道/v ，/w 政治家/n 怎么/r 想/v 的/u 我/r 真/a 不知/v 道/n 。/w 我/r 觉得/v 不能/v 因为/c 我们/r 领先/v 了/dg 美国/ns 就要/d 挨/v .../m ,/w msup/en 789/m ,/w https://blog.csdn.net/msup789/article/details/91042089/url ,/w 2019-06-06/t ,/w 15/m 次/a 阅读/v ,/w 让/v 美国/ns 颤抖/v 的/u 5/m G/m ，/w 到底/d 牛/a 在/d 哪/r ？/w -/w msup/en 789/m 的/u 博客/n ,/w 2019年06月06日 12:23:41/t ,/w 最近/t 一/m 段/n 时间/n ，/w 华为/nz 事件/n 成为/v 全球/n 热点/n 。/w 究竟/d 美国/ns 为什么/r 打压/v 华为/nz ？/w 有/v 一个/mq 重要/a 原因/n 是/v 5/m G/en 技术/n 。/w
+
+/0
+
+
+
+漫画/n 来源/n |/0 溷/ag 子/k 曰/vg 微信公众号/ln
+
+/0
+
+对此/n ，/w 任正非/nr 在/d 接受/v 采访/v 时/n 表示/v ，/w 美国/ns 的/u “/w 90/m 天/n 临时/b 执照/n ”/w ，/w 对于/p 华为/nz 来说/u 最重/a 要/v 的/u 还是/c 把/p 自己/r 能/ng 做/v 的/u 事/n 做好/v 。/w 华为/nz 的/u 5/m G/m 是/v 不会/v 受/v 影响/v 的/u 。/w 在/d 5/m G/m 技术/n 方面/n ，/w 别人/r 两三年/t 肯定/a 追/v 不/d 上/f 华为/nz 。/w
+
+/0
+
+此外/c ，/w 任/c 总/b 还/d 说道/v ，/w 政治家/n 怎么/r 想/v 的/u 我/r 真/a 不知/v 道/n 。/w 我/r 觉得/v 不能/v 因为/c 我们/r 领先/v 了/dg 美国/ns 就要/d 挨打/v ，/w 因为/c 5/m G/m 并/c 不是/n 原子弹/n ，/w 而是/n 造福/v 人类/n 社会/n 的/u 。/w
+
+/0
+
+5/m G/m 容量/n 是/v 4G/n 的/u 20/m 倍/d ，/w 是/v 2G/n 的/u 1万/m 倍/d ，/w 耗电/v 下降/v 了/dg 10/m 倍/d ，/w 华为/nz 每/r 一个/mq 站点/n 能/ng 给/v 欧洲/ns 节省/v 1万/m 欧/ng 。/w
+
+/0
+
+5/m G/m 基站/n 只有/c 一点点/mq 大/a ，/w 20/m 公斤/q ，/w 就/d 像/n 装/ng 文件/n 的/u 手提箱/np 那么/c 大/a ，/w 不/d 需要/n 铁塔/n 了/dg ，/w 可以/a 随意/a 地/n 装/ng 在/d 杆子/n 上/f 、/w 挂/q 在/d 墙上/s ；/w 我们/r 还有/v 耐腐蚀/nz 材料/n ，/w 几十/mq 年/n 不会/v 腐蚀/v ，/w 可以/a 把/p 5/m G/m 装/ng 在下/r 水道/n 里/f 。/w
+
+/0
+
+这样/r 的/u 方便/a 对/a 欧洲/ns 最/d 适合/v ，/w 欧洲/ns 有/v 非常/b 老/a 的/u 城区/n ，/w 不能/v 像/n 中国/ns 这样/r 安装/v 大铁/nz 塔/n 。/w
+
+/0
+
+当然/b 中国/ns 的/u 大铁/nz 塔/n 也/d 不/d 浪费/v ，/w 可以/a 把/p 5/m G/m 基站/n 挂/q 在/d 上面/f 。/w 但是/c 不/d 需要/n 新建/v 铁塔/n 了/dg 。/w
+
+/0
+
+每个/r 站点/n 不/d 需要/n 吊车/np 等/ng ，/w 在/d 工程费/n 用上/v 在/d 欧洲/ns 还/d 可以/a 降低/v 一万/m 欧元/n 。/w 不仅/c 是/v 铁塔/n ，/w 以前/f 的/u 基站/n 大/a 需要/n 吊车/np ，/w 把/p 吊车/np 开进/v 去/v 还/d 需要/n 封路/v 。/w 现在/t 5/m G/m 基站/n 我们/r 用人/v 手提/b 就/d 上去/v 了/dg ，/w 因此/c 很/d 简单/a 。/w
+
+/0
+
+另外/c ，/w 5/m G/m 带宽/n 的/u 能量/n 非常/b 大/a ，/w 能/ng 提供/v 非常/b 多/a 的/u 高清/a 内容/n ，/w 传播/v 8/m K/n 电视/np 很/d 简单/a 。/w
+
+/0
+
+宣传/v 上/f 说/ag 费用/n 下降/v 了/dg 10/m 倍/d ，/w 实际上/d 可以/a 下降/v 了/dg 100/m 倍/d ，/w 这样/r 老百姓/n 也/d 能/ng 看/u 高清/a 电视/np ，/w 文化/n 就/d 会/n 快速/b 提升/v 。/w 国家/n 发展/v 要/v 靠/ng 文化/n 、/w 哲学/n 、/w 教育/n ，/w 这是/n 发展国家/l 的/u 基础/n 。/w
+
+/0
+
+因此/c ，/w 5/m G/m 改变/v 一个/mq 社会/n ，/w 它/r 还有/v 非常/b 短/a 的/u 时延/j ，/w 可以/a 用于/v 工业/n 的/u 很多/mq 东西/n 。/w
+
+/0
+
+5/m G/m 确实/a 方便/a 且/c 厉害/a ，/w 那么/c 到底/d 什么/r 是/v 5/m G/m ？/w 今天/t 聊/v 点/m 硬/a 知识/n ！/w
+
+/0
+
+/0
+
+
+
+/0
+
+/0
+
+
+
+/0
+
+/0
+
+
+
+/0
+
+/0
+
+
+
+/0
+
+5/m G/m 的/u 诞生/v ，/w 小/a 编/ng 认为/v 就是/n 想要/v 搞定/v VR/n （/w 虚拟现实/ln ）/w 、/w 自动/b 驾驶/v 以及/c 物联网/n 的/u 加速/v 落地/v 。/w 作为/n 一名/nz 技术/n 人/n ，/w 如果/c 你/r 想/v 更深/a 入/ng 的/u 了解/v 当下/t 技术/n 的/u 发展/v 以及/c 未来/t 的/u 技术/n 趋势/n ，/w 不妨/v 6月21-23日/t ，/w 参加/v GIAC/en 全球/n 互联网/n 架构/n 大会/nh 深圳/ns 站/ny 吧/y ，/w 我们/r 邀请/v 到/ng 了/dg 多/a 位/q 大咖/n 围绕/v AR/n 、/w 自动/b 驾驶/v 及/c 5/m G/m 进行/v 深入/a 解读/v 及/c 探索/v 。/w
+
+/0
+
+精选/v 案例/n
+
+/0
+
+/0
+
+
+
+/0
+
+/0
+
+此外/c ，/w 组委会/nc 还/d 邀请/v 到/ng 了/dg 众多/a 一线/n 大厂/n 专家/n 出席/v ，/w 围绕/v AI/n 、/w 大中/j 台/n 、/w Cloud/en -/w Native/en 、/w IoT/en 、/w 溷/ag 沌/ng 工程/n 、/w Fintech/en 、/w 数据/n 及/c 商业智能/n 、/w 工程/n 文化/n 及/c 管理/v 、/w 经典/n 架构/n 等/ng 专题/n 分享/v 他们/r 的/u 实践/v 经验/n 、/w 遇到/v 的/u 问题/n 及/c 解决方案/n 。/w 具体/a 案例/n 详情/n ，/w 可/v 识别/v 图中/nz 二维码/n 查看/v 。/w ,/w ,/w ,/w ,/w ,/w

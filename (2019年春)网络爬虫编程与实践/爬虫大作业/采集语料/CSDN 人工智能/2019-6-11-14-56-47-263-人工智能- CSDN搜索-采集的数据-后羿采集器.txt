@@ -1,0 +1,38 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/weixin_42239044/article/details/85128290,numpy: yield,[],(),,[:]nPython:zip,linspace,nkeras:Senquential,Model.savenTesorflow:Session.run,nDNNnCNNnRNN,nOpenCVnmatplotlibnSGD,nBNnn,https://blog.csdn.net/weixin_42239044/article/details/85128290,,weixin_42239044,2018-12-20,//blog.csdn.net/weixin_42239044/article/details/85128290,44次阅读,人工智能 - weixin_42239044的博客,2018年12月20日 17:15:45,原        人工智能
+      
+      
+        
+                                                  2018年12月20日 17:15:45
+          Prestonhuang
+          阅读数：45更多
+          
+                                      
+                个人分类：
+                                  人工智能                                  
+              
+                                          
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+            
+            
+              
+            
+            numpy: yield,[],(),{},[:]
+Python:zip,linspace,
+keras:Senquential,Model.save
+Tesorflow:Session.run,
+DNN
+CNN
+RNN,
+OpenCV
+matplotlib
+SGD,
+BN

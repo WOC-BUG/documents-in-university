@@ -1,0 +1,45 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n +/0 ,/w https://blog.csdn.net/android_bar/article/details/75578783/url ,/w 2017年7月8日/t ，/w 国务院/nt 印发/v 《/w 新一代/n 人工智能/n 发展规划/n 》/w ，/w 提出/v 了/dg 面向/v 2030年/t 我国/n 新一代/n 人工智能/n 发展/v 的/u 指导思想/n 、/w 战略/n 目标/n 、/w 重点/d 任务/n 和保障措/nr 施/v ，/w 部署/v 构筑/v 我国/n 人工智能/n 发展/v 的/u 先发/nz 优势/n ，/w 加快/v 建设/v 创新型/n 国家/n 和/c 世界/n 科技/n 强国/n 。/w ,/w https://blog.csdn.net/android_bar/article/details/75578783/url ,/w ,/w android/en _/0 bar/en ,/w 2017-07-20/t ,/w //blog.csdn.net/android_bar/article/details/75578783/url ,/w 507/m 次/a 阅读/v ,/w 人工智能/n +/0 -/w 安卓学/nr 吧/y ,/w 2017年07月20日 22:32:22/t ,/w 原/b 人工智能/n +/0
+
+
+
+置顶/v
+2017年07月20日 22:32:22/t
+安卓学/nr 吧/y
+阅读/v 数/m ：509/m
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/android_bar/article/details/75578783/url
+
+
+
+
+
+2017年7月8日/t ，/w 国务院/nt 印发/v 《/w 新一代/n 人工智能/n 发展规划/n 》/w ，/w 提出/v 了/dg 面向/v 2030年/t 我国/n 新一代/n 人工智能/n 发展/v 的/u 指导思想/n 、/w 战略/n 目标/n 、/w 重点/d 任务/n 和保障措/nr 施/v ，/w 部署/v 构筑/v 我国/n 人工智能/n 发展/v 的/u 先发/nz 优势/n ，/w 加快/v 建设/v 创新型/n 国家/n 和/c 世界/n 科技/n 强国/n 。/w
+
+《/w 规划/n 》/w 明确/a 了/dg 我国/n 新一代/n 人工智能/n 发展/v 的/u 战略/n 目标/n ：/w 到/ng 2020年/t ，/w 人工智能/n 总体/n 技术/n 和/c 应用/v 与/c 世界/n 先进/a 水平/n 同步/b ，/w 人工智能/n 产业/n 成为/v 新/a 的/u 重要/a 经济/n 增长点/n ，/w 人工智能/n 技术应用/n 成为/v 改善/v 民生/n 的/u 新/a 途径/n ；/w 到/ng 2025年/t ，/w 人工智能/n 基础理论/ln 实现/v 重大/a 突破/v ，/w 部分/n 技术/n 与/c 应用/v 达到/v 世界/n 领先/v 水平/n ，/w 人工智能/n 成为/v 我国/n 产业/n 升级/v 和/c 经济/n 转型/v 的/u 主要/b 动力/n ，/w 智能/n 社会/n 建设/v 取得/v 积极/a 进展/v ；/w 到/ng 2030年/t ，/w 人工智能/n 理论/n 、/w 技术/n 与/c 应用/v 总体/n 达到/v 世界/n 领先/v 水平/n ，/w 成为/v 世界/n 主要/b 人工智能/n 创新中心/lnc 。/w
+
+《/w 规划/n 》/w 提出/v 六/m 个/q 方面/n 重点/d 任务/n ：/w
+
+一/m 、/w 构建/v 开放/a 协同/v 的/u 人工智能/n 科技创新/n 体系/n ，/w 从前/t 沿/p 基础理论/ln 、/w 关键/a 共性/n 技术/n 、/w 创新/v 平台/n 、/w 高端/n 人才/n 队伍/n 等/ng 方面/n 强化/v 部署/v 。/w
+
+二/m 、/w 培育/v 高端/n 高效/b 的/u 智能/n 经济/n ，/w 发展/v 人工智能/n 新兴/b 产业/n ，/w 推进/v 产业/n 智能化/v 升级/v ，/w 打造/v 人工智能/n 创新/v 高地/n 。/w
+
+三/m 、/w 建设/v 安全/a 便捷/a 的/u 智能/n 社会/n ，/w 发展/v 高效/b 智能/n 服务/v ，/w 提高/v 社会/n 治理/v 智能化/v 水平/n ，/w 利用/v 人工智能/n 提升/v 公共/b 安全/a 保障/v 能力/n ，/w 促进/v 社会/n 交往/v 的/u 共享/v 互信/v 。/w
+
+四/m 、/w 加强/v 人工智能/n 领域/n 军民/n 融合/v ，/w 促进/v 人工智能/n 技术/n 军民/n 双向/b 转化/v 、/w 军民/n 创新/v 资源/n 共建/v 共享/v 。/w
+
+五/m 、/w 构建/v 泛/ag 在/d 安全高效/n 的/u 智能化/v 基础设施/n 体系/n ，/w 加强/v 网络/n 、/w 大数据/n 、/w 高效/b 能/ng 计算/v 等/ng 基础设施/n 的/u 建设/v 升级/v 。/w
+
+六/m 、/w 前瞻/v 布局/n 重大/a 科技项目/n ，/w 针对/v 新一代/n 人工智能/n 特有/b 的/u 重大/a 基础理论/ln 和/c 共性/n 关键/a 技术/n 瓶颈/n ，/w 加强/v 整体/n 统筹/v ，/w 形成/v 以/p 新一代/n 人工智能/n 重大/a 科技项目/n 为/p 核心/n 、/w 统筹/v 当前/t 和/c 未来/t 研发/v 任务/n 布局/n 的/u 人工智能/n 项目/n 群/n 。/w
+
+《/w 规划/n 》/w 强调/v ，/w 要/v 充分/a 利用/v 已有/v 资金/n 、/w 基地/nc 等/ng 存量/n 资源/n ，/w 发挥/v 财政/n 引导/v 和/c 市场/ny 主导/n 作用/n ，/w 形成/v 财政/n 、/w 金融/n 和/c 社会/n 资本/n 多方/d 支持/v 新一代/n 人工智能/n 发展/v 的/u 格局/n ，/w 并/c 从/p 法律法规/n 、/w 伦理/n 规范/a 、/w 重点/d 政策/n 、/w 知识产权/ln 与/c 标准/a 、/w 安全/a 监管/v 与/c 评估/n 、/w 劳动力/n 培训/v 、/w 科学普及/n 等/ng 方面/n 提出/v 相关/v 保障/v 措施/n 。/w

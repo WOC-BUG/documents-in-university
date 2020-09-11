@@ -1,0 +1,20 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/jehuyang/article/details/80239922/url ,/w 人工智能/n 深度/n 学习/v 神经网络/n 在/d 双色球/n 彩票/n 中/f 的/u 应用/v 研究/v TensorFlow/en 实战/n ——/w 使用/v LSTM/en 预测/v 彩票/n ,/w https://blog.csdn.net/jehuyang/article/details/80239922/url ,/w ,/w jehuyang/en ,/w 2018-05-08/t ,/w //blog.csdn.net/jehuyang/article/details/80239922/url ,/w 1202/m 次/a 阅读/v ,/w 人工智能/n -/w jehuyang/en 的/u 博客/n ,/w 2018年05月08日 15:05:14/t ,/w 转/q 人工智能/n
+
+
+
+2018年05月08日 15:05:14/t
+jehuyang/en
+阅读/v 数/m ：1203/m
+
+
+
+
+
+
+
+
+
+
+
+TensorFlow/en 实战/n ——/w 使用/v LSTM/en 预测/v 彩票/n 双色球/n 的/u 深度/n 学习/v 预测/v

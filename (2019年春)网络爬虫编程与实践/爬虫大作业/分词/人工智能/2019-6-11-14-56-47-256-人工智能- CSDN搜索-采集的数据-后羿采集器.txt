@@ -1,0 +1,55 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_34021089/article/details/86962487/url ,/w n/en n/en n/en 可/v 解释性/n 与/c deep/en learning/en 的/u 发展/v n/n 大家/r 好/a ，/w 我/r 叫/v 张拳石/nr ，/w UCLA/en 博士后/n 。/w 目前/t 在/d 朱松纯/nr 老师/nx 的/u 实验室/nc ，/w 带领/v 一个/mq 团队/n ，/w 做/v explainable/en AI/n 方向/n 。/w 本文/r 的/u 题目/n 有些/r 大/a ，/w 这/r 篇/ng 短文/n 中/f ，/w 我/r 只/bg 简单/a 谈谈/v 个人/n 对/a deep/en learning/en 发展状况/n 的/u 感受/n ，/w 和/c 我/r 最近/t 的/u explanatory/en graph/en for/en CNNs/en 和/c interp/en …/w nncozmo/en 系列/n 之/u 入门/v - .../m ,/w https://blog.csdn.net/weixin_34021089/article/details/86962487/url ,/w ,/w weixin/en _/0 34021089/m ,/w 2018-01-02/t ,/w //blog.csdn.net/weixin_34021089/article/details/86962487/url ,/w 21/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 34021089/m 的/u 博客/n ,/w 2018年01月02日 15:36:00/t ,/w 原/b 人工智能/n
+
+
+
+2018年01月02日 15:36:00/t
+weixin/en _/0 34021089/m
+阅读/v 数/m ：/w 22/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+可/v 解释性/n 与/c deep/en learning/en 的/u 发展/v
+大家/r 好/a ，/w 我/r 叫/v 张拳石/nr ，/w UCLA/en 博士后/n 。/w 目前/t 在/d 朱松纯/nr 老师/nx 的/u 实验室/nc ，/w 带领/v 一个/mq 团队/n ，/w 做/v explainable/en AI/n 方向/n 。/w 本文/r 的/u 题目/n 有些/r 大/a ，/w 这/r 篇/ng 短文/n 中/f ，/w 我/r 只/bg 简单/a 谈谈/v 个人/n 对/a deep/en learning/en 发展状况/n 的/u 感受/n ，/w 和/c 我/r 最近/t 的/u explanatory/en graph/en for/en CNNs/en 和/c interp/en …/w cozmo/en 系列/n 之/u 入门/v -/w 有性/b 格/n 且/c 可编程/nz 的/u 机器人/n
+可编程/nz 的/u 机器人/n 不少/mq ，/w 灵活/a 而友/nz 好/a 的/u 却/d 不/d 多/a 不/d 智障/n 的/u 机器人/n 不/d 多/a ，/w 有性/b 格/n 的/u 就/d 更/d 少/a 可爱/a 的/u 机器人/n 中/f 我/r 最/d 中意/a 2/m 款/n :/w BB/en 8/m 和/c cozmo/en BB/en 8/m 可爱/a 且/c 呆/a ，/w cozmo/en 可爱/a 又/d 任性/a 来/u 个/q 它们/r 的/u 合影/n 这个/r 憨态可掬/iv 的/u 机器人/n ，/w 有些/r 像/n 微缩/b 版/n 的/u 瓦/n 力/n ，/w 不过/c 它/r 可/v 没/d 瓦/n 力/n 乖巧/a 它/r 从/p 睡眼惺忪/ia 中/f 醒来/v ，/w 伸伸/v 懒腰/n ，/w 便/ag 下/f 床/n …/w Apache/en Beam/en 实战/n 指南/n 之/u 基础/n 入门/v
+随着/p 大数据/n 2.0 时/t 代/n 悄然/d 到来/v ，/w 大数据/n 从简/v 单/b 的/u 批处理/v 扩展/v 到/ng 了/dg 实时/d 处理/v 、/w 流/ng 处理/v 、/w 交互式/b 查询/v 和/c 机器/np 学习/v 应用/v 。/w 早期/f 的/u 处理/v 模型/n (/w Map/en //w Reduce/en )/w 早已/d 经/ng 力不从心/iv ，/w 而且/c 也/d 很/d 难/a 应用/v 到处/d 理/n 流程/n 长/a 且/c 复杂/a 的/u 数据流/n 水线/n 上/f 。/w [/w 译/v ]/w 深度/n 学习/v 的/u 局限性/n
+关于/p 深度/n 学习/v 最/d 令/ag 人/n 惊讶/a 的/u 它/r 把/p 复杂/a 简单化/v 。/w 十/m 年前/t ，/w 没/d 人/n 能想/nz 到/ng ，/w 通过/p 梯度/n 下降/v 的/u 训练/v 简单/a 的/u 参数/n 模型/n ，/w 就/d 能/ng 实现/v 机器/np 感知/v 方面/n 的/u 如此/r 惊人/a 的/u 结果/c 。/w 现在/t ，/w 事实/n 证明/n ，/w 你/r 只需/n 要/v 考虑/v 足够/v 多/a 的/u 例子/n 以及/c 所/n 需要/n 的/u 大量/mq 参数/n 模型/n 就/d 够/d 了/dg 。/w 费曼/nr 曾经/d 这么/r 描述/v 过/d 宇宙/n ，/w 「/w It's/en not/en complicated/en ,/w it/n …/w [/w 译/v ]/w 最近/t 两个/n 月中/t 我/r 是/v 如何/r 开始/v 学习/v AI/en 的/u
+当/ag 我/r 关闭/v 我/r 的/u 创业/v 公司/nc Zeading/en 时/n ，/w 我/r 被/ng 这次/r 失败/v 惊醒/v 的/u 同时/c 感觉/n 心里/s 空落落/z 的/u ，/w 就/d 像/n 失去/v 了/dg 一些/mq 非常/b 特别/a 的/u 东西/n 。/w 全栈/nr 工程师/nx 在/d 面临/v 剧变/v 的/u 时代/n 是/v 不够/a 的/u 。/w 在/d 接下来/c 的/u 两/m 年中/f ，/w 没有/d 人工智能/n 技术/n 的/u 全栈将/nr 不再/d 是/v 全栈/nr 。/w 是时/t 候/ng 采取/v 行动/v 了/dg 。/w 我/r 做出/v 了/dg 我/r 认为/v 现在/t 唯一/b 能/ng 做/v 的/u 行动/v ——/w 像/n 开发者/n 那样/r 更/d …/w 为什么/r AlphaGo/en Zero/en ?/w
+在/d 2017年10月19日/t ,/w Google/en Deepmind/en 推出/v 了/dg 新一代/n 的/u 围棋/n 人工智能/n AlphaGo/en Zero/en ./m Alpha/en 狗/n zero/en 被/ng 放出/v 的/u 当天/t ,/w 我的朋友/n 圈/n ,/w 微博/n 等等/u 社交/n 平台/n 都/d 被/ng 刷屏/v 了/dg ./m 各/r 大/a 社交/n 版面/n 都/d 充斥/v 这/r AlphaGo/en Zero/en 的/u 新闻/n ./m 区块/n 链/ng 技术/n 中/f 的/u 机器/np 学习/v
+现代性/n 带来/v 了/dg 新/a 的/u 、/w 突破性/n 的/u 东西/n ，/w 这些/r 东西/n 能够/v 改变/v 世界/n 。/w
+现实/a 世界/n 的/u 问题/n 不能/v 通过/p 应用/v 简单/a 的/u 、/w 传统/a 的/u 算法/n 和方式来/nr 解决/v ，/w 所以/c 软件/n 创造者/n 们/k 必须/d 使用/v 新/a 的/u 技术/n 。/w Tensorflow/en ——/w 对/a 电影/n 评论/n 进行/v 分类/v
+TensorFlow/en 可/v 被/ng 用于/v 语音/n 识别/v 或/c 图像/n 识别/v 等/ng 多/a 项/ng 机器/np 深度/n 学习/v 领域/n ，/w 它/r 可在/n 小/a 到手/v 机/np 、/w 大/a 到/ng 数千/nz 台/n 服务器/n 上/f 运行/v 。/w 本文/r 展示/v 怎么/r 使用/v TensorFlow/en 实现/v 文本/n 的/u 简单/a 分类/v ，/w 判断/n 评论/n 是/v 正面/b 的/u 还是/c 负面/b 的/u 。/w 神经网络/n 和/c 深度/n 学习/v
+我/r 是/v 薛/ng 银亮/a ，/w 感谢/v 英文/n 原版/n 在线/v 书籍/n ，/w 这是/n 我/r 学习机/n 器/k 学习/v 过程/n 中/f 感觉/n 非常/b 适合/v 新手入门/n 的/u 一本/nz 书/n 。/w 鉴于/p 知识/n 分享/v 的/u 精神/n ，/w 我/r 希望/n 能/ng 将/d 其/r 翻译/n 过来/v ，/w 并/c 分享/v 给/v 所有/b 想/v 了解/v 机器/np 学习/v 的/u 人/n ，/w 本人/r 翻译/n 水平/n 有限/a ，/w 欢迎/v 读者/n 提出/v 问题/n 和/c 发现/v 错误/a ，/w 更/d 欢迎/v 大牛/nz 的/u 指导/v 。/w 因为/c 篇幅/n 较/d 长/a ，/w 文章/n 将/d 会/n 分为/v 多个/n 部分/n 进行/v ，/w 感兴趣/a 的/u 可以/a …/w 一/m 文读懂/nr 深度/n 学习/v 与/c 机器/np 学习/v 的/u 差异/n
+如果/c 你/r 经常/d 想/v 让/v 自己/r 弄清/v 楚/ag 机器/np 学习/v 和/c 深度/n 学习/v 的/u 区别/n ，/w 阅读/v 该文/r 章/n ，/w 我/r 将/d 用/ng 通俗/a 易懂/a 的/u 语言/n 为/p 你/r 介绍/v 他们/r 之间/f 的/u 差别/n 。/w 深度/n 学习/v 之/u 概述/v (/w Overview/en )/w
+本文/r 为/p 原创文章/n ，/w 转载/v 请/v 注明/v 作者/n 及/c 出/q 2016年/t 被/ng 称为/v 人工智能/n 的/u 元年/n ，/w 2017年/t 是/v 人/n 能/ng 智能/n 应用/v 的/u 元年/n ；/w 深度/n 学习/v 技术/n 和/c 应用/v 取得/v 飞速/d 发展/v ；/w 深度/n 学习/v 在/d 互联网/n 教育/n 场景/n 也/d 得到/v 广泛/a 应用/v 。/w 本文/r 主要/b 介绍/v 机器/np 学习/v 及/c 深度/n 学习/v 之/u 定义/n 及/c 基本/a 概念/n 、/w 相关/v 网络结构/ln 等/ng 。/w
+人工智能/n 究竟/d 能够/v 做/v 什么/r ？/w 对/a 我们/r 有/v 什么/r 影响/v …/w 奇点/n 到来/v ，/w 超越/v 人类/n 《/w Nature/en 论文/n ：/w 人工智能/n 从/p 0/m -/w 1/m 自学/v 打败/v 阿/h 法/k 狗/n 》/w 论文翻译/n
+阿/h 法/k 狗/n ZERO/en 以/p 100：0/t 打败/v 阿/h 法/k 狗/n ，/w 引起轰动/n ，/w 论文/n 在/d Nature/en 发表/v 。/w 1./m 完全/a 自学/v ，/w 超越/v 人类/n 。/w 2./m 发展/v 出超/v 越/d 人类/n 认知/v 的/u 新知/n 识/ng ，/w 新/a 策略/n 。/w 本文/r 是/v 我/r 和好/v 友/ag 春/n （/w 机器/np 学习/v 在读/vn 博士/nx ，/w 研究方向/n 为/p 自然语言/n 处理/v ，/w 机器/np 学习/v ，/w 深度/n 学习/v ，/w 微信/n 号/n ：/w zyc/en 973950709/m ）/w 一同/d 翻译/n ，/w 感谢/v 。/w 其/r …/w 一个/mq 框架/n 解决/v 几乎/d 所有/b 机器/np 学习/v 问题/n
+上周一/n 个/q 叫/v Abhishek/en Thakur/en 的/u 数据/n 科学家/n ，/w 在/d 他/r 的/u Linkedin/en 发表/v 了/dg 一/m 篇文章/n Approaching/en (/w Almost/en )/w Any/en Machine/en Learning/en Problem/en ，/w 介绍/v 他/r 建立/v 的/u 一个/mq 自动/b 的/u 机器/np 学习/v 框架/n ，/w 几乎/d 可以/a 解决/v 任何/r 机器/np 学习/v 问题/n 写给/v 人类/n 的/u 机器/np 学习/v 五/m 、/w 强化/v 学习/v
+写给/v 人类/n 的/u 机器/np 学习/v 五/m 、/w 强化/v 学习/v 从/p CNN/n 视角/n 看/u 在/d 自然语言/n 处理/v 上/f 的/u 应用/v
+卷积/n 神经网络/n （/w Convolutional/en Neural/en Network/en ）/w 最早/d 是/v 应用/v 在/d 计算机/np 视觉/n 当中/f ，/w 而/c 如今/t CNN/n 也/d 早已/d 应用/v 于/ng 自然语言/n 处理/v （/w Natural/en Language/en Processing/en ）/w 的/u 各种/r 任务/n 。/w Machine/en Learning/en in/en Action/en （/w 机器/np 学习/v 实战/n ）/w
+第一部/n 分/b
+机器/np 学习/v 基础/n
+k/en -/w 近邻/n 算法/n
+决策/n 树/n
+....../m 《/w Shadowsock/en 翻/v 墙/n 流量/n 检测/v 算法/n 》/w 论文翻译/n
+随着/p 机器/np 学习/v 技术/n 的/u 火热/z ，/w 国内/s 不少/mq 实验室/nc 一窝蜂/d 的/u 将/d 机器/np 学习/v 纳入/v 自己/r 的/u 科研课题/n 研究/v 之中/f ，/w 这样/r 可以/a 更好/d 的/u 找到/v 发/q 论文/n 的/u 结合点/n 。/w 我/r 之前/f 的/u 所在/n 实验室/nc 就/d 曾将/nz 机器/np 学习/v 引入/v 漏洞/n 挖/v 据/ng 的/u 研究/v 之中/f ，/w 取/v 到/ng 了/dg 很/d 好/a 的/u 效果/n 。/w 但是/c 据/ng 我/r 所知/n ，/w 有些/r 研究课题/n 将/d 机器/np 学习/v 引入/v 并/c 没有/d 带来/v 多少/r 收益/n 。/w 本文/r 将/d 机器/np 学习/v 引入/v Shad/en …/w 李/ng 飞飞/v 团队/n 最新/a 跨界/v 研究/v ：/w 神经/n 任务/n 编程/v NTP/en ，/w 让/v 机器人/n 具有/v 强大/a 泛化/v 能力/n
+9月26日/t ，/w 在/d 温哥华/ns 举行/v 的/u IROS/en 大会/nh 上/f ，/w 计算机/np 视觉/n 专家/n 、/w 斯坦福/ns AI/en Lab/en &/0 Vision/en Lab/en 主任/nx 李/ng 飞飞/v 做/v 了/dg “/w A/en Quest/en for/en Visual/en Intelligence/en ”/w 的/u 演讲/v ，/w 这/r 也/d 是/v 李/ng 飞飞/v 首次/mq 参加/v IROS/en 这/r 一/m 机器人/n 为主/v 题/n 的/u 大会/nh 。/w 深度/n 学习/v 革命/a 的/u 开端/n ：/w 卷积/n 神经网络/n
+本篇/r 将要/d 介绍/v 的/u 是/v ，/w 从/p 2006年/t 至今/d 的/u 神经网络/n 第三/m 次/a 浪潮/n 中/f ，/w 取得/v 巨大/a 成功/a 、/w 处于/v 最/d 核心/n 位置/n 的/u 技术/n ——/w 卷积/n 神经网络/n ，/w Convolutional/en Neural/en Network/en （/w CNN/n ）/w 。/w 2012年/t AlexNet/en 在/d ImageNet/en 上一/nz 战成/v 名/n ，/w 点/m 爆/v 了/dg 深度/n 学习/v 革命/a ，/w 这是/n 历史性/n 的/u 时刻/d 。/w 其中/r 的/u …/w 吴恩达眼/nr 中/f 的/u 深度/n 学习/v 七/m 雄/ag
+AI/n 时代/n ，/w 风云变幻/iv ，/w 人才辈出/iv ，/w 作为/n 全球/n 人工智能/n 技术/n 专家/n 之一/r ，/w 吴恩达眼/nr 中/f 有/v 哪些/r 人称/n 得/e 上/f AI/n 时代/n 的/u 英雄/n 呢/ng ？/w 简析/n AI/n （/w 深度/n 学习/v ）/w
+从/p 20/m 世纪/n 60/m 年代/n 开始/v ，/w 人们/n 就/d 在/d 期待/v 像/n 哈尔/nr （/w HAL/en ）/w 这样/r 的/u 科幻/b 级别/n 的/u AI/n ，/w 然而/c 直到/v 最近/t ，/w PC/n 和/c 机器人/n 还是/c 非常/b 愚笨/a 。/w 现在/t ，/w 科技/n 巨头/n 和/c 创业/v 公司/nc 宣告/v 了/dg AI/n 革命/a 的/u 到来/v ：/w 无人/b 驾驶/v 汽车/np 、/w 机器人/n 医生/nx 、/w 机器/np 投资者/n 等等/u 。/w 普华永道/nz 认为/v ，/w 到/ng 2030年/t ，/w AI/n 将/d 会/n 向/p 世界经济/n 贡献/n 15.7万亿/m 美元/n 。/w “/w AI/n ”/w …/w 写给/v 人类/n 的/u 机器/np 学习/v 三/m 、/w 无/v 监督/v 学习/v
+写给/v 人类/n 的/u 机器/np 学习/v 三/m 、/w 无/v 监督/v 学习机/n 器/k 学习/v 与/c 微博/n ：/w TensorFlow/en 在/d 微博/n 的/u 大规模/b 应用/v 与/c 实践/v
+TensorFlow/en 在/d 微博/n 业务/n 中/f 有/v 丰富/a 的/u 应用/v 场景/n ，/w 文字/n 、/w 图片/n 、/w 视频/n ，/w 各具特色/l 。/w 微博/n 机器/np 学习/v 平台/n 集成/b TensorFlow/en 服务/v ，/w 支持/v 分布式/b 训练/v ，/w 在/d 广告/n 点击/v 预测/v 应用/v 中/f ，/w 本轮/r 分享/v 的/u 主讲人/n 何沧平/nr 积累/n 了/dg 一些/mq TensorFlow/en 优化/v 经验/n ，/w 在/d 8 月 3 日/t 晚/a AI/en 前线/s 社群/n 分享/v 活动/n …/w 用/ng python/en 解读/v 十九/m 大/a
+斯坦福/ns 博士/nx 韩/jns 松/a 毕业论文/n ：/w 面向/v 深度/n 学习/v 的/u 高效/b 方法/n 与/c 硬件/n
+未来/t 将/d 出现/v 大量/mq 廉价/a 、/w 低/a 功耗/n 的/u 智能/n 设备/n 。/w 深度/n 神经网络/n 已经/d 发展/v 出/q 适合/v 机器/np 学习/v 任务/n 的/u 顶尖/n 技术/n 。/w 但是/c ，/w 这些/r 算法/n 计算/v 量/n 很大/a ，/w 使得/v 它们/r 难以/d 部署/v 到/ng 硬件/n 资源/n 有限/a 、/w 能量/n 预算/n 紧张/a 的/u 嵌入式/n 设备/n 中/f 。/w 由于/c 摩/n 尔/rg 定律/n 和/c 工艺/n 尺寸/n 缩小/v 正在/n 变/v 慢/a ，/w 仅/d 依赖/v 工艺/n 进步/a 无法/v 解决/v 这个/r 问题/n 。/w 为了/p 解决/v 该/r 问题/n ，/w 我们/r 研究/v 高效/b 的/u 算法/n 和/c …/w 机器/np 学习/v 之/u 决策/n 树/n 与/c 随机/b 森林/n 模型/n
+导语/n 本文/r 用/ng 容易/a 理解/v 的/u 语言/n 和例子来/nr 解释/v 了/dg 决策/n 树/n 三/m 种/ng 常见/a 的/u 算法/n 及其/c 优劣/n 、/w 随机/b 森林/n 的/u 含义/n ，/w 相信/v 能/ng 帮助/v 初学者/n 真正/b 地理/n 解相关/nr 知识/n 。/w 关于/p AlphaGo/en Zero/en -/w 田渊栋/nr
+老实/a 说/ag 这/r 篇/ng Nature/en 要/v 比/p 上一/nz 篇/ng 好/a 很多/mq ，/w 方法/n 非常/b 干净/a 标准/a ，/w 结果/c 非常/b 好/a ，/w 以后/f 肯定/a 是/v 经典文章/n 了/dg 。/w

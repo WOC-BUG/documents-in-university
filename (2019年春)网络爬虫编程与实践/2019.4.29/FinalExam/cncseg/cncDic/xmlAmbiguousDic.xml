@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root dicName="基础词典" pubtime="2018-07-09 15_54_10" tatalWordsNumber="0" trieTreeNumber="8">
+  <content>
+    <wn1 id="0" word="不" tag="F" layer="0">
+      <wn2 id="0" word="容" tag="F" layer="1">
+        <wn3 id="0" word="易" tag="不/d/mone1__容易/a/mopo__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="1" word="好" tag="F" layer="0">
+      <wn2 id="0" word="恶" tag="F" layer="1">
+        <wn3 id="0" word="心" tag="好/a__恶心/a/ne__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="2" word="和" tag="F" layer="0">
+      <wn2 id="0" word="同" tag="F" layer="1">
+        <wn3 id="0" word="学" tag="和/c/clue(c)__同学/nm__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="3" word="人" tag="F" layer="0">
+      <wn2 id="0" word="才" tag="F" layer="1">
+        <wn3 id="0" word="能" tag="人/n__才能/n/po(n)__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="4" word="是" tag="F" layer="0">
+      <wn2 id="0" word="非" tag="F" layer="1">
+        <wn3 id="0" word="常" tag="是/v__非常/d/mopo(d)__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="5" word="无" tag="F" layer="0">
+      <wn2 id="0" word="过" tag="F" layer="1">
+        <wn3 id="0" word="激" tag="无/v/mone1__过激/v/ne__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="6" word="项" tag="F" layer="0">
+      <wn2 id="0" word="规" tag="F" layer="1">
+        <wn3 id="0" word="定" tag="项/ng__规定/n__" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="7" word="中" tag="F" layer="0">
+      <wn2 id="0" word="国" tag="F" layer="1">
+        <wn3 id="0" word="海" tag="F" layer="2">
+          <wn4 id="0" word="洋" tag="中国/ns__海洋/n__" layer="3" />
+        </wn3>
+        <wn3 id="1" word="人" tag="F" layer="2">
+          <wn4 id="0" word="民" tag="中国/ns__人民/n__" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+  </content>
+</root>

@@ -1,0 +1,136 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 附着/v 若干/mq 题目/n -/w -/w 老/a 狐/ng 笔记/n ,/w 5/m G/m 附着/v 去/v 附着/v 参数/n 查找/v n/en 4G/n 添加/v 辅/ng 站/ny 的/u B1/n 事件/n 参数/n (/w NR/n 满足/a 什么/r 条件/n 才/d 可以/a 被/ng 添加/v )/w n/en 4G/n 附着/v 完成/v 后/f ，/w 下发/v 辅/ng 站/ny 测量/v 信息/n （/w RRC/en Con/en Config/en -/w >/w B1/n 事件/n ）/w ：/w nnB/en 1/m 门限/n =/0 -157/m +/0 52/m =/0 -105/m dBm/en ；/w nUE/en 上报/v 辅/ng 站/ny 测量/v 结果/c （/w MeasurementReport/en ）/w ：/w nnPCI/en 42/m ，/w 最强/a SSB/en 波束/n 2/m ，/w RSRP/en =/0 -157/m +/0 102/m =/0 55/m dBm/en ,/w weixin/en _/0 42178143/m ,/w https://blog.csdn.net/weixin_42178143/article/details/90666568/url ,/w 2019-05-30/t ,/w 61/m 次/a 阅读/v ,/w 5/m G/m 附着/v 若干/mq 题目/n -/w -/w 老/a 狐/ng 笔记/n -/w weixin/en _/0 42178143/m 的/u 博客/n ,/w 2019年05月30日 19:01:59/t ,/w 5/m G/m 附着/v 若干/mq 题目/n
+4G/n 添加/v 辅/ng 站/ny 的/u B1/n 事件/n 参数/n (/w NR/n 满足/a 什么/r 条件/n 才/d 可以/a 被/ng 添加/v )/w
+4G/n 附着/v 完成/v 后/f ，/w 下发/v 辅/ng 站/ny 测量/v 信息/n （/w RRC/en Con/en Config/en -/w >/w B1/n 事件/n ）/w ：/w
+
+B1/n 门限/n =/0 -157/m +/0 52/m =/0 -105/m dBm/en ；/w
+迟滞/a hys/en =/0 2/m */w 0.5/m =/0 1/m dB/n ；/w
+UE/en 上报/v 辅/ng 站/ny 测量/v 结果/c （/w MeasurementReport/en ）/w ：/w
+
+PCI/en 42/m ，/w 最强/a SSB/en 波束/n 2/m ，/w RSRP/en =/0 -157/m +/0 102/m =/0 -/w 55/m dBm/en ；/w
+NR/n 小区/ny PCI/n ，/w SSB/en 频/ag 点/m 、/w pointA/en 频/ag 点/m 和/c 对应/v 频率/n
+B1/n 测量/v 上报/v 后/f ，/w 下发/v RRCConnConfig/en （/w Event/en ：/w NRSCellAddAttempt/en ）/w ：/w
+
+Sub/en 3G/n （/w 频/ag 点/m 栅格/n 5/m KHz/q ）/w ，/w Band/en 41/m ；/w
+SSB/en 频/ag 点/m =/0 51291/m 0/m */w 5/m KHz/en +/0 0/m MHz/en =/0 2564.55/m MHz/q ；/w
+PointA/en 频/ag 点/m =/0 50317/m 2/m */w 5/m KHz/en +/0 0/m MHz/en =/0 2515.86/m MHz/q ；/w
+SSB/en 的/u 中心/nc RB/n 数/m =/0 （/w 512910 - 503172/t ）/w */w 5/30/1/t 2/m =/0 135.25/m ；/w
+SSB/en 的/u 起始/v RB/n 数/m =/0 135.25 - 1/t 0/m =/0 125.25/m ；/w
+（/w SSB/en 频/ag 域/ng 20/m RBs/en ）/w
+coreset/en 0/m 频/ag 域/ng 位置/n //w 时域/n 位置/n //w 时/n 频/ag 资源/n
+1/m 、/w Coreset/en 0/m 频/ag 域/ng 位置/n 确定/a ：/w
+下图/n 为/p Croeset/en 0/m 与/c SSB/en 频/ag 域/ng 关系/n ，/w 可见/c 频/ag 域/ng 位置/n ，/w 由/p 参数/n subcarrierOffset/en 、/w Offset/en 确定/a ，/w subcarrierOffset/en 在/d MIB/en 中/f ，/w Offset/en 由/p ControlResourceSetZero/en 索引/n 查/ng 表/n 获得/v ；/w
+
+下图/n MIB/en 截图/n ，/w 得到/v ssb/en 间隔/n 子/k 载波/n 数/m （/w subcarrieroffset/en ）/w =/0 6/m ，/w Coreset/en 0/m 索引/n （/w ControlResourceSetZero/en ）/w =/0 10/m ；/w
+
+Coreset/en 0/m 索引/n （/w controlResourceSetZero/en ）/w =/0 10/m ，/w 查找/v 下/f 表/n （/w 协议/n 3/m GPP/en TS/en 38.213/m ）/w ，/w 得到/v Offset/en =/0 12/m ；/w 同时/c 可/v 得到/v Coreset/en 0/m 的/u 时/n 频/ag 资源/n Number/en of/en RBs/en 、/w Number/en of/en Symbols/en ；/w
+
+Coreset/en 0/m 频/ag 域/ng 起始/v 位置/n =/0 SSB/en 起始/v 位置/n -/w 偏移/v 量/n
+SSB/en 起始/v 位置/n =/0 SSB/en 中心/nc 位置/n -/w SSB/en 频宽/n //w 2/m =/0 135.25/m RBs/en -/w 10/m RBs/en =/0 125.25/m RBs/en
+偏移/v 量/n =/0 subcarrierOffset/en （/w 15/m KHz/q ）/w /2 /1/t 2/m +/0 Offset/en =/0 0.25/m RB/en +/0 12/m RBs/en =/0 12.25/m RBs/en
+Coreset/en 0/m 起始/v 位置/n =/0 113/m RBs/en
+（/w 注/ng ：/w subcarrierOffset/en 都/d 是/v 按/p 15/m KHz/q 计算/v ，/w SSB/en 频/ag 域/ng 20/m 个/q RB/n ）/w
+2/m 、/w Coreset/en 0/m 时/n 频/ag 资源/n
+频/ag 域/ng （/w 上表/n Number/en of/en RBs/en ）/w ：/w 48/m RBs/en ，/w 时域/n （/w 上表/n Number/en of/en Symbols/en ）/w ：/w 1/m 符号/n ；/w
+3/m 、/w Coreset/en 0/m 时域/n 位置/n
+n/en 0/m =/0 （/w O/n ∗/0 2/m μ/0 +/0 ⌊/0 i/n ∗/0 M/n ⌋/0 ）/w modNFsn/en 0/m =/0 （/w O/n ∗/0 2/m μ/0 +/0 ⌊/0 i/n ∗/0 M/n ⌋/0 ）/w modNsF/en n/en _/0 0/m =/0 （/w O/en */w 2/m ^/0 μ/0 +/0 ⌊/0 i/en */w M/n ⌋/0 ）/w modN/en _/0 s/en ^/0 Fn/en 0/m ​/0 =/0 （/w O/n ∗/0 2/m μ/0 +/0 ⌊/0 i/n ∗/0 M/n ⌋/0 ）/w modNsF/en ​/0 n/en 0/m n/en 0/m n/en _/0 0/m n/en 0/m ​/0 表示/v Coreset/en 0/m 出现/v 的/u 起始/v 时隙/n 号/n ，/w OO/en OO/en 和/c MM/en MM/n 由/p searchSpaceZero/en 索引/n 查/ng 下/f 表/n 得到/v ，/w ii/en ii/en 是/v SSB/en index/en 编号/n ，/w NFsNsF/en N/en _/0 s/en ^/0 FNsF/en ​/0 是/v 一个/mq 无线/b 帧/q 包含/v 的/u 时隙/n 数/m ；/w
+由/p searchSpaceZero/en 索引/n 查表可/nr 得到/v 第/m n/en 0/m n/en 0/m n/en _/0 0/m n/en 0/m ​/0 时隙/n 的/u 起始/v 符号/n （/w First/en Symbol/en Index/en ）/w ；/w
+Coreset/en 0/m 的/u 无线/b 帧/q 周期/n 与/c SSB/en 周期/n 相同/a ，/w 因为/c 由/p SSB/en （/w MIB/en ）/w 指示/n Coreset/en 0/m ；/w
+UE/en 侧/f Coreset/en 0/m 连续/a 两个/n 时隙/n 监听/v （/w n/en 0/m n/en 0/m n/en _/0 0/m n/en 0/m ​/0 时隙/n 与/c 下/f 一个/mq 时隙/n ，/w 可能/a 在/d n/en 0/m n/en 0/m n/en _/0 0/m n/en 0/m ​/0 时隙/n 资源/n 不足/a ，/w Coreset/en 0/m 在下/r 一时/t 隙/ng 发送/v ）/w ；/w
+
+
+Pattern/en 0/m 、/w 1/m 、/w 2/m 表示/v SSB/en 与/c Coreset/en 0/m 的/u 相对/b 位置/n （/w 前后/f 结构/n ，/w 上下/f 结构/n ）/w ；/w frequency/en rang/en 1/m 表示/v FR/en 1/m ，/w 即/c Sub/en 6/m G/m
+初始/n BWP/en 内/f PDSCH/en 使用/v TYPEA/en 和/c TYPEB/en 调度/n 时/n ,/w 可/v 使用/v 的/u RE/n 起始/v 符号/n 和/c 长度/n ,/w BWP/en 频/ag 域/ng 指示/n TYPE/en 0/m 还是/c TPYE/en 1/m ，/w DMRS/en 类型/n 是/v Type/en 1/m 还是/c Type/en 2/m
+初始/n BWP/en 获取/v 流程/n （/w Initial/en DL/en BWP/en ，/w Initial/en UL/en BWP/en ，/w ）/w ：/w
+
+PDSCH/en 时域/n 资源分配/n ：/w
+TypeA/en 映射/v ：/w PDSCH/en 起始/v 符号/n 数/m 为/p ｛/0 0/m ，/w 1/m ，/w 2/m ，/w 3/m ｝/0 ，/w 长度/n 为/p 3/m ~/w 14/m 符号/n ；/w
+TypeB/en 映射/v ：/w PDSCH/en 起始/v 符号/n 数/m 为/p 0/m ~/w 12/m ，/w 长度/n 为/p ｛/0 2/m ，/w 4/m ，/w 7/m ｝/0 ，/w 主要/b 用于/v 自/d 包含/v 时隙/n ；/w
+SLIV/en （/w startSymbolAndLength/en ）/w 指示/n 起始/v 符号/n 和/c 连续/a 的/u 符号/n 长度/n ，/w 计算/v 方式/n 如下/v ：/w
+
+信令/n RRCConnConfig/en （/w Event/en ：/w NRERABSetupAttempt/en ）/w ：/w
+
+实际/a 使用/v 哪/r 一/m 种/ng 根据/n DCI/n 下发/v 指示/n ；/w
+PDSCH/en 频/ag 域/ng 资源分配/n ：/w
+NR/n 支持/v Type/en 0/m -/w bitmap/en 和/c Type/en 1/m -/w RIV/en 方式/n
+
+初始/n 上行/v BWP/en 的/u 带宽/n 配置/n ：/w
+Type/en 1/m 方式/n ，/w 即/c RIV/en 计算/v ：/w RIV/en =/0 NR/en  /0 B/n ∗/0 （/w LR/en  /0 B/n −/0 1/m ）/w +/0 RBs/en  /0 t/en  /0 a/en  /0 r/en  /0 tRIV/en =/0 NR/en  /0 B/n ∗/0 （/w LR/en  /0 B/n −/0 1/m ）/w +/0 RBs/en  /0 t/en  /0 a/en  /0 r/en  /0 t/en RIV/en =/0 N/en _/0 R/en ~/w _/0 B/en */w （/w L/en _/0 R/en ~/w _/0 B/en -/w 1/m ）/w +/0 RB/en _/0 s/en ~/w _/0 t/en ~/w _/0 a/en ~/w _/0 r/en ~/w _/0 tRIV/en =/0 NR/n ​/0  /0 B/n ​/0 ∗/0 （/w LR/n ​/0  /0 B/n ​/0 −/0 1/m ）/w +/0 RBs/en ​/0  /0 t/q ​/0  /0 a/b ​/0  /0 r/en ​/0  /0 t/q ​/0 NR/en  /0 BNR/en  /0 B/en N/en _/0 R/en ~/w _/0 BNR/en ​/0  /0 B/n ​/0 为/p 整个/b 带宽/n 的/u RB/n 数/m （/w 30/m KHz/q 子/k 载波/n 间隔/n ，/w 100/m M/n 带宽/n ，/w 对应/v 273/m 个/q RB/n ，/w 但/c 协议/n 在/d 这里/r 计入/v 保护/v 带宽/n ，/w 所以/c NR/en  /0 BNR/en  /0 B/en N/en _/0 R/en ~/w _/0 BNR/en ​/0  /0 B/n ​/0 为/p 275/m ）/w ，/w LR/en  /0 BLR/en  /0 B/en L/en _/0 R/en ~/w _/0 BLR/en ​/0  /0 B/n ​/0 为/p 被/ng 分配/v 带宽/n 的/u RB/n 数/m ，/w RBs/en  /0 t/en  /0 a/en  /0 r/en  /0 tRBs/en  /0 t/en  /0 a/en  /0 r/en  /0 t/en RB/en _/0 s/en ~/w _/0 t/en ~/w _/0 a/en ~/w _/0 r/en ~/w _/0 tRBs/en ​/0  /0 t/q ​/0  /0 a/b ​/0  /0 r/en ​/0  /0 t/q ​/0 为/p 起始/v RB/n ；/w
+代/n 入/ng 验证/v 计算/v 得/e ：/w
+275/m */w 48/m -/w 1/m +/0 113/m =/0 13038/m
+1/m
+起始/v 113/m RBs/en ，/w 带宽/n 48/m RBs/en ，/w 与/c 前面/f 一致/a ；/w
+下图/n RRCConnConfig/en （/w Event/en ：/w NRERABSetupAttempt/en ）/w ：/w
+
+
+DMRS/en for/en PDSCH/en
+分类/v ：/w
+Front/en Loaded/en DMRS/en ，/w 前置/v DMRS/en ，/w 1/m ~/w 2/m 符号/n ，/w 默认/v 需要/n 配置/n ；/w
+Additional/en DMRS/en ，/w 额外/b DMRS/en ，/w 1/m ~/w 3/m 符号/n ，/w 由/p 高层/n 配置/n ；/w
+类型/n ：/w
+Type/en 1/m ，/w 单/b 符号/n 最大/a 支持/v 4/m 端口/n ，/w 双/m 符号/n 8/m 端口/n ；/w
+Type/en 2/m ，/w 单/b 符号/n 最大/a 支持/v 6/m 端口/n ，/w 双/m 符号/n 12/m 端口/n ；/w
+
+
+RRCConnConfig/en （/w Event/en ：/w NRERABSetupAttempt/en ）/w ：/w
+
+专用/v BWP/en 内/f PDSCH/en 使用/v TYPEA/en 和/c TYPEB/en 调度/n 时/n ,/w 可/v 使用/v 的/u RE/n 起始/v 符号/n 和/c 长度/n ，/w BWP/en 频/ag 域/ng 指示/n TYPE/en 0/m 还是/c TPYE/en 1/m ，/w DMRS/en 类型/n 是/v Type/en 1/m 还是/c Type/en 2/m
+
+
+实际/a 使用/v 哪/r 一/m 种/ng 根据/n DCI/n 下发/v 指示/n ；/w
+
+BWP/en 带宽/n 由/p Type/en 1/m 方式/n 指示/n ，/w 即/c RIV/en 计算/v 方式/n ；/w
+
+代/n 入/ng 计算/v 得/e ：/w LR/en  /0 B/en =/0 273/m LR/en  /0 B/en =/0 273/m L/en _/0 R/en ~/w _/0 B/en =/0 273/m LR/n ​/0  /0 B/n ​/0 =/0 273/m ，/w RBs/en  /0 t/en  /0 a/en  /0 r/en  /0 t/en =/0 0/m RBs/en  /0 t/en  /0 a/en  /0 r/en  /0 t/en =/0 0/m RB/en _/0 s/en ~/w _/0 t/en ~/w _/0 a/en ~/w _/0 r/en ~/w _/0 t/en =/0 0/m RBs/en ​/0  /0 t/q ​/0  /0 a/b ​/0  /0 r/en ​/0  /0 t/q ​/0 =/0 0/m ，/w 即/c 全带/nz 宽/a ；/w
+275/m （/w 275-273/t +/0 1/m ）/w +/0 （/w 275-1-0/t ）/w =/0 1099/m
+1/m
+基站/n 几/m 个/q SSB/en ,/w SSB/en 的/u 物理/n 发送/v 周期/n
+RRCConnConfig/en （/w Event/en ：/w NRERABSetupAttempt/en ）/w ：/w
+
+8/m 个/q SSB/en ，/w 周期/n 20/m ms/n ；/w
+
+这里/r 使用/v 哪个/r Case/en ，/w 与/c band/en 相对/b 应/ng ，/w 协议/n 已/d 规定/n ；/w
+
+上图/n CaseC/en ，/w 8/m 个/q SSB/en 波束/n ，/w 20/m ms/n 周期/n ；/w
+PRACH/en 的/u 配置/n 了/dg 哪/r 几/m 个/q 根/n 序列/n //w NCS/en //w PARCH/en 格式/n //w PRACH/en 的/u 时域/n 和频域/nr 位置/n
+1/m 、/w PRACH/en 占用/v 时/n 频/ag 资源/n 由/p Preamble/en 码/ng 格式/n 确定/a ：/w
+
+上图/n 长/a 格式/n ，/w 下图/n 短/a 格式/n
+
+2/m 、/w PRACH/en 时域/n 起始/v 位置/n （/w RRCReConfiguration/en -/w >/w PRACH/en Configuration/en Index/en 索引/n ）/w
+
+
+查/ng 表/n （/w see/en TS/en 38.21/m 1/m [/w 16/m ]/w ,/w clause/en 6.3.3.2/m ）/w 得到/v Preamble/en 格式/n 为/p Format/en 0/m ，/w Prach/en 的/u 时域/n 起始/v 位置/n 为/p ，/w 每个/r 无线/b 帧/q ，/w 4/m 、/w 9/m 子/k 帧/q ，/w 0/m 符号/n 位/q 起始/v （/w Format/en 0/m 的/u Preamble/en 占/ng 时域/n 长/a 1/m ms/n ）/w ；/w
+3/m 、/w PRACH/en 频/ag 域/ng 起始/v 位置/n （/w RRCReConfiguration/en -/w >/w msg/en 1/m -/w FrequencyStart/en ）/w
+频/ag 域/ng 偏移/v RB/n 数/m （/w msg/en 1/m -/w FrequencyStart/en ）/w =/0 3/m ，/w 相对/b initialBWP/en 起始/v 位置/n 偏移/v ；/w
+msg/en 1/m -/w FDM/en =/0 1/m ，/w 该/r 参数/n 确定/a 一个/mq occasion/en 时域/n 位置/n 频/ag 分/b 多少/r 个/q PRACH/en ；/w
+
+ssb/en -/w perRACH/en -/w Occasion/en （/w eight/en ）/w 表示/v “/w SSB/en 数/m ”/w 与/c “/w 单个/b PRACH/en ”/w 的/u 对应/v 关系/n ；/w
+CB/en -/w PreamblePerSSB/en （/w 6/m ）/w 表示/v “/w 基于/p 竞争/v 的/u Preamble/en 数/m ”/w 与/c “/w 单个/b SSB/en ”/w 对应/v 关系/n ；/w
+
+4/m 、/w 根/n 序列/n 与/c NCS/en
+根/n 序列/n 由/p 根/n 序列/n 索引/n 确定/a prach/en -/w RootSequenceIndex/en =/0 L/en 839：0/t x/en 60/m （/w 96/m ）/w ；/w
+NCS/en 由/p 查/ng 表/n 得到/v ，/w zeroCorrelationZoneConfig/en =/0 3/m ，/w restrictedSetConfig/en =/0 unrestrictedSet/en ，/w 长/a 序列/n ，/w 查/ng 下/f 表/n 得/e NCS/en =/0 18/m ；/w
+可见/c 单个/b 根/n 序列/n 移位/v 可/v 得到/v 46/m 个/q （/w 839/18/t ）/w ；/w
+一个/mq 小区/ny 最/d 多/a 64/m 个/q preamble/en ，/w 循环/v 移位/v 数量/n 不到/v 64/m 个/q ，/w 则/c 通过/p 下/f 一个/mq 根/n 序列/n 循环/v 移位/v ，/w 直到/v 生成/v 64/m 个/q ；/w
+
+
+
+终端/n 在/d NR/n 发起/v 随机/b 接入/v 的/u 专用/v 前导/n ID/n
+即/c 分配/v 给/v 当前/t 接入/v UE/en 的/u 非/d 竞争/v 前导/n 码/ng ；/w
+由/p 前导/n 码/ng 索引号/n 指示/n ra/en -/w PreambleIndex/en =/0 6/m ；/w
+之前/f 基于/p 竞争/v 的/u 前导/n 码/ng 已/d 分配/v 6/m */w 8/m =/0 48/m 个/q ，/w 所以/c 剩余/v 非/d 竞争/v 前导/n 码/ng 64 - 4/t 8/m =/0 16/m 个/q ；/w
+
+NR/n 配置/n 了/dg 几/m 个/q 附加/v DMRS/en
+附加/v DMRS/en （/w Additional/en -/w DMRS/en ）/w ，/w 由/p dmrs/en -/w AdditionalPosition/en =/0 1/m 索引/n ；/w
+前置/v DMRS/en 是/v Type/en 2/m ，/w 双/m 符号/n （/w maxLength/en =/0 2/m ）/w ；/w
+
+下/f 表针/n 对/a 双/m 符号/n 前置/v DMRS/en ，/w ldld/en l/en _/0 dld/en ​/0 表示/v PDSCH/en 时域/n 符号/n 数/m ，/w l/en 0/m l/en 0/m l/en _/0 0/m l/en 0/m ​/0 表示/v 前置/v DMRS/en 的/u 位置/n ；/w 前面/f 得到/v dmrs/en -/w AdditionalPosition/en =/0 1/m ，/w 假设/n ld/en =/0 8/m ld/en =/0 8/m l/en _/0 d/en =/0 8/m ld/n ​/0 =/0 8/m ，/w 查/ng 下/f 表/n 可知/v ，/w 只有/c l/en 0/m l/en 0/m l/en _/0 0/m l/en 0/m ​/0 ，/w 即/c 只有/c 前置/v DMRS/en ；/w 若/c 假设/n ld/en =/0 10/m ld/en =/0 10/m l/en _/0 d/en =/0 10/m ld/n ​/0 =/0 10/m ，/w 查/ng 下/f 表/n 可知/v ，/w 有/v 附加/v DMRS/en ，/w 在/d 第/m 8/m 符号/n ；/w
+
+下/f 表针/n 对/a 单/b 符号/n 前置/v DMRS/en ，/w ldld/en l/en _/0 dld/en ​/0 表示/v PDSCH/en 时域/n 符号/n 数/m ，/w l/en 0/m l/en 0/m l/en _/0 0/m l/en 0/m ​/0 表示/v 前置/v DMRS/en 的/u 位置/n ；/w
+
+满足/a 什么/r 条件/n 辅/ng 站/ny 会/n 变更/v
+由/p A3/n 事件/n 确定/a ，/w offset/en =/0 2/m */w 0.5/m ，/w hys/en =/0 2/m */w 0.5/m ，/w timeToTrigger/en =/0 320/m ms/n ；/w
+
+辅/ng 站/ny 删除/v 条件/n
+由/p A2/n 事件/n 确定/a ，/w A2/n 门限/n =/0 -157/m +/0 36/m =/0 -121/m dBm/en ，/w hys/en =/0 2/m */w 0.5/m ，/w timeToTrigger/en =/0 640/m ms/n ；/w ,/w ,/w ,/w ,/w ,/w

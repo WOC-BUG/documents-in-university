@@ -1,0 +1,221 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qq_43124451/article/details/90898179/url ,/w 人工智能/n 实验/n 报告/n n/n 链接/n ：https://pan.baidu.com/s/1GtNG9_xYBrvEGsDSUDUQYwn/url 提取/v 码/ng ：/w j/en 7/m mln/en 复制/v 这/r 段/n 内容/n 后/f 打开/v 百度/nt 网/n 盘/ng 手机/np App/n ，/w 操作/v 更/d 方便/a 哦/e n/n 欢迎/v 使用/v Markdown/en 编辑器/n n/n 你好/n ！/w 这是/n 你/r 第一次/n 使用/v Markdown/en 编辑器/n 所/n 展示/v 的/u 欢迎/v 页/ng 。/w ,/w https://blog.csdn.net/qq_43124451/article/details/90898179/url ,/w ,/w qq/en _/0 43124451/m ,/w 2019-06-05/t ,/w //blog.csdn.net/qq_43124451/article/details/90898179/url ,/w 21/m 次/a 阅读/v ,/w 人工智能/n -/w qq/en _/0 43124451/m 的/u 博客/n ,/w 2019年06月05日 10:32:57/t ,/w 原/b 人工智能/n
+
+
+
+2019年06月05日 10:32:57/t
+qq/en _/0 43124451/m
+阅读/v 数/m ：/w 22/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n 实验/n 报告/n
+链接/n ：https://pan.baidu.com/s/1GtNG9_xYBrvEGsDSUDUQYw/url
+提取/v 码/ng ：/w j/en 7/m ml/q
+复制/v 这/r 段/n 内容/n 后/f 打开/v 百度/nt 网/n 盘/ng 手机/np App/n ，/w 操作/v 更/d 方便/a 哦/e
+欢迎/v 使用/v Markdown/en 编辑器/n
+你好/n ！/w 这是/n 你/r 第一次/n 使用/v Markdown/en 编辑器/n 所/n 展示/v 的/u 欢迎/v 页/ng 。/w 如果/c 你/r 想/v 学习/v 如何/r 使用/v Markdown/en 编辑器/n ,/w 可以/a 仔细/a 阅读/v 这/r 篇文章/n ，/w 了解/v 一下/d Markdown/en 的/u 基本/a 语法/n 知识/n 。/w
+新/a 的/u 改变/v
+我们/r 对/a Markdown/en 编辑器/n 进行/v 了/dg 一些/mq 功能/n 拓展/v 与/c 语法/n 支持/v ，/w 除了/p 标准/a 的/u Markdown/en 编辑器/n 功能/n ，/w 我们/r 增加/v 了/dg 如下/v 几点/t 新功能/n ，/w 帮助/v 你/r 用/ng 它/r 写博/v 客/n ：/w
+
+全新/b 的/u 界面设计/n ，/w 将/d 会/n 带来/v 全新/b 的/u 写作/v 体验/v ；/w
+在/d 创作中心/lnc 设置/v 你/r 喜爱/v 的/u 代码/n 高亮/nr 样式/n ，/w Markdown/en 将/d 代码/n 片/n 显示/v 选择/n 的/u 高亮/nr 样式/n 进行/v 展示/v ；/w
+增加/v 了/dg 图片/n 拖拽/v 功能/n ，/w 你/r 可以/a 将/d 本地/r 的/u 图片/n 直接/a 拖拽/v 到/ng 编辑/n 区域/n 直接/a 展示/v ；/w
+全新/b 的/u KaTeX/en 数学/n 公式/n 语法/n ；/w
+增加/v 了/dg 支持/v 甘特图/nr 的/u mermaid/en 语法/n 1/m 功能/n ；/w
+增加/v 了/dg 多屏/n 幕/n 编辑/n Markdown/en 文章/n 功能/n ；/w
+增加/v 了/dg 焦点/n 写作/v 模式/n 、/w 预览/v 模式/n 、/w 简洁/a 写作/v 模式/n 、/w 左右/f 区域/n 同步/b 滚轮/n 设置/v 等/ng 功能/n ，/w 功能/n 按钮/n 位于/v 编辑/n 区域/n 与/c 预览/v 区域/n 中间/f ；/w
+增加/v 了/dg 检查/v 列表/v 功能/n 。/w
+
+功能/n 快捷键/n
+撤销/v ：/w Ctrl/en //w Command/en +/0 Z/en
+重/a 做/v ：/w Ctrl/en //w Command/en +/0 Y/en
+加/ng 粗/a ：/w Ctrl/en //w Command/en +/0 B/n
+斜体/n ：/w Ctrl/en //w Command/en +/0 I/n
+标题/n ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 H/n
+无序/b 列表/v ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 U/n
+有序/a 列表/v ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 O/n
+检查/v 列表/v ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 C/n
+插入/v 代码/n ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 K/n
+插入/v 链接/n ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 L/b
+插入/v 图片/n ：/w Ctrl/en //w Command/en +/0 Shift/en +/0 G/m
+合理/a 的/u 创建/v 标题/n ，/w 有助于/v 目录/n 的/u 生成/v
+直接/a 输入/v 1/m 次/a #/w ，/w 并/c 按/p 下/f space/en 后/f ，/w 将/d 生成/v 1/m 级/n 标题/n 。/w
+输入/v 2/m 次/a #/w ，/w 并/c 按/p 下/f space/en 后/f ，/w 将/d 生成/v 2/m 级/n 标题/n 。/w
+以此类推/ldm ，/w 我们/r 支持/v 6/m 级/n 标题/n 。/w 有助于/v 使用/v TOC/en 语法/n 后生/n 成/ng 一个/mq 完美/a 的/u 目录/n 。/w
+如何/r 改变/v 文本/n 的/u 样式/n
+强调/v 文本/n 强调/v 文本/n
+加/ng 粗/a 文本/n 加/ng 粗/a 文本/n
+标记/n 文本/n
+删除/v 文本/n
+
+引用/v 文本/n
+
+H/en 2/m O/en is/en 是/v 液体/n 。/w
+210/m 运算/v 结果/c 是/v 1024./m
+插入/v 链接/n 与/c 图片/n
+链接/n :/w link/en ./m
+图片/n :/w
+带/ng 尺寸/n 的/u 图片/n :/w
+居中/v 的/u 图片/n :/w
+居中/v 并且/c 带/ng 尺寸/n 的/u 图片/n :/w
+当然/b ，/w 我们/r 为了/p 让/v 用户/n 更加/d 便捷/a ，/w 我们/r 增加/v 了/dg 图片/n 拖拽/v 功能/n 。/w
+如何/r 插入/v 一/m 段/n 漂亮/a 的/u 代码/n 片/n
+去/v 博客/n 设置/v 页面/n ，/w 选择/n 一/m 款/n 你/r 喜欢/v 的/u 代码/n 片/n 高亮/nr 样式/n ，/w 下面/f 展示/v 同样/b 高亮/nr 的/u 代码/n 片/n ./m
+//w //w An/en highlighted/en block/en
+var/en foo/en =/0 'bar'/en ;/w
+12/m
+生成/v 一个/mq 适合/v 你/r 的/u 列表/v
+
+项目/n
+
+项目/n
+
+项目/n
+
+
+
+
+
+
+项目/n 1/m
+项目/n 2/m
+项目/n 3/m
+
+
+计划/n 任务/n
+完成/v 任务/n
+
+创建/v 一个/mq 表格/n
+一个/mq 简单/a 的/u 表格/n 是/v 这么/r 创建/v 的/u ：/w
+
+
+
+
+项目/n
+Value/en
+
+
+
+
+电脑/np
+$/0 1600/m
+
+
+手机/np
+$/0 12/m
+
+
+导管/n
+$/0 1/m
+
+
+设定/v 内容/n 居中/v 、/w 居/ng 左/a 、/w 居/ng 右/f
+使用/v :---------:/t 居中/v
+使用/v :----------/t 居/ng 左/a
+使用/v ----------:/t 居/ng 右/f
+
+
+
+
+第一/m 列/n
+第二/m 列/n
+第三/m 列/n
+
+
+
+
+第一/m 列/n 文本/n 居中/v
+第二/m 列/n 文本/n 居/ng 右/f
+第三/m 列/n 文本/n 居/ng 左/a
+
+
+SmartyPants/en
+SmartyPants/en 将/d ASCII/n 标点/n 字符/n 转换/v 为/p “/w 智能/n ”/w 印刷/v 标点/n HTML/n 实体/n 。/w 例如/v ：/w
+
+
+
+
+TYPE/en
+ASCII/n
+HTML/n
+
+
+
+
+Single/en backticks/en
+'Isn't/en this/en fun/en ?/w '/en
+‘/w Isn/en ’/w t/en this/en fun/en ?/w ’/w
+
+
+Quotes/en
+"/0 Isn't/en this/en fun/en ?/w "/0
+“/w Isn/en ’/w t/en this/en fun/en ?/w ”/w
+
+
+Dashes/en
+-/w -/w is/en en/en -/w dash/en ,/w -/w -/w -/w is/en em/en -/w dash/en
+–/0 is/en en/en -/w dash/en ,/w —/w is/en em/en -/w dash/en
+
+
+创建/v 一个/mq 自定/nz 义/ng 列表/v
+
+Markdown/en
+Text/en -/w to/en -/w HTML/en conversion/en tool/en
+Authors/en
+John/en
+Luke/en
+
+如何/r 创建/v 一个/mq 注脚/n
+一个/mq 具有/v 注脚/n 的/u 文本/n 。/w 2/m
+注释/n 也/d 是/v 必不可少/la 的/u
+Markdown/en 将/d 文本/n 转换/v 为/p HTML/n 。/w
+KaTeX/en 数学/n 公式/n
+您/r 可以使/n 用/ng 渲染/v LaTeX/en 数学/n 表达式/n KaTeX/en :/w
+Gamma/en 公式/n 展示/v Γ/0 (/w n/en )/w =/0 (/w n/n −/0 1/m )/w !/w ∀/0 n/n ∈/0 N/n Γ/0 (/w n/en )/w =/0 (/w n/n −/0 1/m )/w !/w ∀/0 n/n ∈/0 N/en \/0 Gamma/en (/w n/en )/w =/0 (/w n/en -/w 1/m )/w !/w \/0 quad/en \/0 foralln/en \/0 in/en \/0 mathbb/en N/n Γ/0 (/w n/en )/w =/0 (/w n/n −/0 1/m )/w !/w ∀/0 n/n ∈/0 N/en 是/v 通过/p 欧拉/nr 积分/n
+Unexpected/en text/en node/en :/w '/en &/0 ThinSpace/en ;/w 'Unexpected/en text/en node/en :/w '/en &/0 ThinSpace/en ;/w '/en Γ/0 (/w z/en )/w =/0 ∫/0 0/m ∞/0 ​/0 tz/en −/0 1/m e/en −/0 tdt/en ./m
+
+你/r 可以/a 找到/v 更多/n 关于/p 的/u 信息/n LaTeX/en 数学/n 表达式/n here/en ./m
+
+新/a 的/u 甘特图/nr 功能/n ，/w 丰富/a 你/r 的/u 文章/n
+Mon/en 06/m Mon/en 13/m Mon/en 20/m 已/d 完成/v 进行/v 中/f 计划/n 一/m 计划/n 二/m 现有/v 任务/n Adding/en GANTT/en diagram/en functionality/en to/en mermaid/en
+
+关于/p 甘特图/nr 语法/n ，/w 参考/v 这儿/r ,/w
+
+UML/en 图表/n
+可以使/n 用/ng UML/en 图表/n 进行/v 渲染/v 。/w Mermaid./url 例如/v 下面/f 产生/v 的/u 一个/mq 序列/n 图/n ：/w :/w
+张三李四/ln 王/n 五/m 你好/n ！/w 李/ng 四/m ,/w 最近/t 怎么样/r ?/w 你/r 最近/t 怎么样/r ，/w 王/n 五/m ？/w 我/r 很/d 好/a ，/w 谢谢/v !/w 我/r 很/d 好/a ，/w 谢谢/v !/w 李/ng 四/m 想/v 了/dg 很/d 长时/nz 间/f ,/w 文字/n 太/ag 长/a 了/dg 不适/a 合/ng 放在/v 一行/n ./m 打量/v 着/n 王/n 五.../m 很/d 好/a .../m 王/n 五/m ,/w 你/r 怎么样/r ?/w 张三李四/ln 王/n 五/m
+这/r 将/d 产生/v 一个/mq 流程图/n 。/w :/w
+链接/n 长方形/n 圆圆/nr 角/n 长方形/n 菱形/n
+
+关于/p Mermaid/en 语法/n ，/w 参考/v 这儿/r ,/w
+
+FLowchart/en 流程图/n
+我们/r 依旧/z 会/n 支持/v flowchart/en 的/u 流程图/n ：/w
+Created/en with/en Rapha/en ë/0 l/en 2.2.0/m 开始/v 我/r 的/u 操作/v 确认/v ？/w 结束/v yesno/en
+
+关于/p Flowchart/en 流程图/n 语法/n ，/w 参考/v 这儿/r ./m
+
+导出/v 与/c 导入/v
+导出/v
+如果/c 你/r 想/v 尝试/v 使用/v 此/r 编辑器/n ,/w 你/r 可以/a 在/d 此/r 篇文章/n 任意/b 编辑/n 。/w 当/ag 你/r 完成/v 了/dg 一/m 篇文章/n 的/u 写作/v ,/w 在/d 上方/f 工具栏/n 找到/v 文章/n 导出/v ，/w 生成/v 一个/mq ./m md/n 文件/n 或者/c ./m html/n 文件/n 进行/v 本地/r 保存/v 。/w
+导入/v
+如果/c 你/r 想/v 加载/v 一/m 篇/ng 你/r 写/v 过/d 的/u ./m md/n 文件/n 或者/c ./m html/n 文件/n ，/w 在/d 上方/f 工具栏/n 可以/a 选择/n 导入/v 功能/n 进行/v 对应/v 扩展名/n 的/u 文件/n 导入/v ，/w
+继续/v 你/r 的/u 创作/n 。/w
+
+
+
+mermaid/en 语法/n 说明/n ↩/0 ︎/0
+
+注脚/n 的/u 解释/v ↩/0 ︎/0

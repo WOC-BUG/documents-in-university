@@ -1,0 +1,15 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G网/n 络/ng 要求/n ,/w 5/m G网/n 络/ng 要求/n neMBBnEnhanced/en Mobile/en Broadband/en ，/w 增强/v 移动/v 带宽/n n/n 峰值/n 速率/n :/w DL/en 20/m Gbps/en //w UL/en 10/m Gbpsn/en 用户/n 感知/v ：/w DL/en 100/m Mbps/en //w UL/en 50/m MbpsnmMTCnMassive/en Machine/en -/w Type/en Communications/en ,/w 海量/n 物联网/n 通信/v ，/w 即/c 超大/a 链接/n nuRLLCnUltra/en -/w Reliable/en and/en Low/en -/w Latency/en ,/w zhao/en _/0 ru/en _/0 jie/en ,/w https://blog.csdn.net/zhao_ru_jie/article/details/86516264/url ,/w 2019-01-16/t ,/w 81/m 次/a 阅读/v ,/w 5/m G网/n 络/ng 要求/n -/w zhao/en _/0 ru/en _/0 jie/en 的/u 博客/n ,/w 2019年01月16日 23:13:23/t ,/w 5/m G网/n 络/ng 要求/n
+eMBB/en
+Enhanced/en Mobile/en Broadband/en ，/w 增强/v 移动/v 带宽/n
+峰值/n 速率/n :/w DL/en 20/m Gbps/en //w UL/en 10/m Gbps/en
+用户/n 感知/v ：/w DL/en 100/m Mbps/en //w UL/en 50/m Mbps/q
+mMTC/en
+Massive/en Machine/en -/w Type/en Communications/en ,/w 海量/n 物联网/n 通信/v ，/w 即/c 超大/a 链接/n
+uRLLC/en
+Ultra/en -/w Reliable/en and/en Low/en -/w Latency/en Communications/en ，/w 极/d 高/a 可靠/a 极/d 低/a 时延/j 场景/n
+控制/v 面/a 10/m ms/en //w 用户/n 面/a eMBB/en 4/m ms/en //w 用户/n uRLLC0.5ms/url
+Network/en slicing/en
+网络/n 切片/n ，/w R/en 15/m 具备/v eMBB/en 切片/n 能力/n ，/w R/en 16/m 将/d 具备/v 全网/n 络/ng 切片/n 能力/n
+关键/a 技术/n ：/w 上下行/j 解耦/n 和/c 大规模/b MIMO/en
+参考/v ：/w 3/m GPP/en http://www.3gpp.org//url ,/w ,/w ,/w ,/w ,/w

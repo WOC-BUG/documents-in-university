@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G下行候选新波形简介(2)--W-OFDM与F-OFDM,见个人博客： http://ziyubiti.github.io/2018/04/04/5gnewwave2/,ziyubiti,https://blog.csdn.net/ziyubiti/article/details/79958915,2018-04-16,1471次阅读,5G下行候选新波形简介(2)--W-OFDM与F-OFDM - ziyubiti的专栏,2018年04月16日 12:12:14,见个人博客： https://ziyubiti.github.io/2018/04/04/5gnewwave2/,,,,,

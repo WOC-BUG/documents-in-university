@@ -1,0 +1,8 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 主要/b 参考/v 场景/n 【/w 5/m G/m 】/w ,/w 1./m 超高速/b 无线/b 连接/v 。/w nn/en 2./m 物联网/n 。/w 同步/b 误差/n 和/c 低速/d 通信/v 的/u 调制/v 方式/n 。/w nn/en 3./m 触觉/n 互联网/n 。/w 低/a 时延/j 。/w nn/en 4./m 无线/b 区域网/n （/w WRAN/en ）/w 。/w 人口/n 稀少/a 地区/ny （/w 多普勒/n 频/ag 移/v 忽略/v ，/w 时延/j 要求/n 降低/v ）/w .../m ,/w lanluyug/en ,/w https://blog.csdn.net/lanluyug/article/details/84857867/url ,/w 2018-12-06/t ,/w 436/m 次/a 阅读/v ,/w 5/m G/m 主要/b 参考/v 场景/n 【/w 5/m G/m 】/w -/w lanluyug/en 的/u 博客/n ,/w 2018年12月06日 15:53:16/t ,/w 1./m 超高速/b 无线/b 连接/v 。/w
+
+2./m 物联网/n 。/w 同步/b 误差/n 和/c 低速/d 通信/v 的/u 调制/v 方式/n 。/w
+
+3./m 触觉/n 互联网/n 。/w 低/a 时延/j 。/w
+
+4./m 无线/b 区域网/n （/w WRAN/en ）/w 。/w 人口/n 稀少/a 地区/ny （/w 多普勒/n 频/ag 移/v 忽略/v ，/w 时延/j 要求/n 降低/v ）/w ,/w ,/w ,/w ,/w ,/w

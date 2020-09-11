@@ -1,0 +1,40 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_33674437/article/details/86902529/url ,/w nnnnnAI/en 人才/n 储备/n nnnnnnAI/en 人才/n 平均/a 薪资/n nnnnnnAI/en 人才/n 细分/v n/n 轻松/a 看/u 懂/v 机器/np 学习/v 十大/j 常用/n 算法/n 从/p 机器/np 学习/v 谈起/v 普通/a 程序员/n 如何/r 向/p 人工智能/n 领域/n 靠拢/v  /0 数据/n 科学/a 入门/v 清单/n  /0 机器/np 智能/n 时代/n 生存/v 指南/n 人工智能/n 的/u 根目录/n 王晋东/nr 不在/v 家/k 知/ng 乎/e  /0 n/en n/en .../m ,/w https://blog.csdn.net/weixin_33674437/article/details/86902529/url ,/w ,/w weixin/en _/0 33674437/m ,/w 2017-06-22/t ,/w //blog.csdn.net/weixin_33674437/article/details/86902529/url ,/w 39/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 33674437/m 的/u 博客/n ,/w 2017年06月22日 14:11:00/t ,/w 原/b 人工智能/n
+
+
+
+2017年06月22日 14:11:00/t
+weixin/en _/0 33674437/m
+阅读/v 数/m ：/w 41/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+机器/np 学习/v ，/w 已有/v 席卷/v 全球/n 之/u 势/ng 。/w 一个/mq IT/n 信息/n 领域/n 学生/n ，/w 如果/c 没有/d 涉猎/v ，/w 似乎/d 有些/r 不/d 太合/nz 适/ag ，/w 将相/n 关/n 的/u 资料/n 整理/v 于/ng 此/r 。/w
+
+
+
+
+AI/n 人才/n 储备/n
+
+
+
+
+
+AI/n 人才/n 平均/a 薪资/n
+
+
+
+
+
+AI/n 人才/n 细分/v
+轻松/a 看/u 懂/v 机器/np 学习/v 十大/j 常用/n 算法/n 从/p 机器/np 学习/v 谈起/v 普通/a 程序员/n 如何/r 向/p 人工智能/n 领域/n 靠拢/v  /0 数据/n 科学/a 入门/v 清单/n  /0 机器/np 智能/n 时代/n 生存/v 指南/n 人工智能/n 的/u 根目录/n 王晋东/nr 不在/v 家/k 知/ng 乎/e

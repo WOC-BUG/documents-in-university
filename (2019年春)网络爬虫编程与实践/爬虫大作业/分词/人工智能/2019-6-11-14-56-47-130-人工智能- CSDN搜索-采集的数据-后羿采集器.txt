@@ -1,0 +1,351 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/caiyuezhen_blog/article/details/51396723/url ,/w 人工智能/n 实验课/n 的/u 程序/n ，/w 动物/n 识别/v 系统/a ，/w 本人/r 自己/r 编写/v ，/w 绝对/a 原创/n ！/w ,/w https://blog.csdn.net/caiyuezhen_blog/article/details/51396723/url ,/w ,/w caiyuezhen/en _/0 blog/en ,/w 2016-05-13/t ,/w //blog.csdn.net/caiyuezhen_blog/article/details/51396723/url ,/w 834/m 次/a 阅读/v ,/w 人工智能/n -/w caiyuezhen/en _/0 blog/en 的/u 博客/n ,/w 2016年05月13日 16:55:31/t ,/w 原/b 人工智能/n
+
+
+
+2016年05月13日 16:55:31/t
+caiyuezhen/en _/0 blog/en
+阅读/v 数/m ：837/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/caiyuezhen_blog/article/details/51396723/url
+
+
+
+
+﻿/0 ﻿/0
+#/w include/en </w stdio.h/url >/w
+#/w include/en </w stdlib.h/url >/w
+#/w include/en </w string.h/url >/w
+#/w define/en N/en 100/m
+typedef/en struct/en DB/en //w //w 事实/n 的/u 链/ng 表/n
+{/0  /0  /0 int/en Fact/en ;/w
+/0 struct/en DB/en */w next/en ;/w
+}/0 Links/en ,/w DB/en ;/w
+typedef/en struct/en Pre/en _/0 node/en //w //w 前提/n 的/u 链/ng 表/n
+{/0  /0  /0  /0 int/en pre/en ;/w
+/0 struct/en Pre/en _/0 node/en */w next/en ;/w
+}/0 Link/en ,/w Pre/en _/0 node/en ;/w
+typedef/en struct/en Con/en _/0 node/en //w //w 结论/n  /0
+{/0
+/0 struct/en Pre/en _/0 node/en */w Pre/en ;/w //w //w 前提/n 的/u 链/ng 表/n
+/0 int/en Con/en ;/w //w //w 结论/n
+/0 int/en flag/en ;/w //w //w 标记/n 是否/v 被/ng 激活/v
+/0 float/en prob/en ;/w //w //w 前提/n 成立/v 的/u 概率/n
+/0 struct/en Con/en _/0 node/en */w next/en ;/w //w //w 指向/v 下/f 一/m 条规/n 则/c
+}/0 LinkList/en ,/w Con/en _/0 node/en ;/w  /0  /0
+LinkList/en */w head/en 2/m ,/w */w tail/en 2/m ;/w
+void/en P/en _/0 act/en (/w Links/en */w db/en ,/w float/en max/en )/w ;/w
+void/en display/en (/w )/w //w //w 显示/v 特征/n
+{/0
+/0 FILE/en */w fp/en ;/w
+/0 char/en ch/en [/w 100/m ]/w ;/w
+/0 fp/en =/0 fopen/en (/w "/0 tezheng.txt/url "/0 ,/w "/0 r/en "/0 )/w ;/w //w //w 文件/n 的/u 打开/v
+/0 if/en (/w fp/en =/0 =/0 NULL/en )/w
+/0  /0 printf/en (/w "/0 Cannot/en open/en this/en file/en \/0 n/en "/0 )/w ;/w
+/0 while/en (/w fgets/en (/w ch/en ,/w 3/m ,/w fp/en )/w !/w =/0 NULL/en )/w
+/0  /0 printf/en (/w "/0 %/m s/en "/0 ,/w ch/en )/w ;/w
+/0 fclose/en (/w fp/en )/w ;/w
+/0 printf/en (/w "/0 \/0 n/en "/0 )/w ;/w
+}/0
+int/en find/en (/w Links/en */w p/en ,/w int/en m/en )/w //w //w 向/p 事实/n 中加/nz 入/ng 前/f 要/v 判/v 重/a
+{/0  /0 int/en flag/en =/0 0/m ;/w
+/0 while/en (/w p/en !/w =/0 NULL/en )/w
+/0 {/0
+/0  /0 if/en (/w m/en =/0 =/0 p/en -/w >/w Fact/en )/w
+/0  /0 {/0
+/0  /0  /0 flag/en =/0 1/m ;/w ;/w
+/0  /0  /0 break/en ;/w
+/0  /0 }/0
+/0  /0 p/en =/0 p/en -/w >/w next/en ;/w
+/0 }/0
+/0 return/en flag/en ;/w
+}/0
+Links/en */w Search/en (/w Links/en */w db/en )/w //w //w 更新/v prop/en 的/u 值/a
+{/0  /0 int/en m/en =/0 0/m ,/w n/en =/0 0/m ,/w flag/en =/0 0/m ;/w
+/0 LinkList/en */w p/en ;/w
+/0 Link/en */w s/en ;/w
+/0 Links/en */w q/en ,/w */w u/en ;/w
+/0 p/en =/0 head/en 2/m -/w >/w next/en ;/w
+/0 q/en =/0 db/en -/w >/w next/en ;/w
+/0 while/en (/w p/en !/w =/0 NULL/en )/w
+/0 {/0  /0
+/0  /0 s/en =/0 p/en -/w >/w Pre/en ;/w
+/0  /0 while/en (/w s/en !/w =/0 NULL/en )/w //w //w 前提/n 的/u 链/ng 表/n 与/c 事实/n 库/n 进行/v 比较/d
+/0  /0 {/0
+/0  /0  /0 q/en =/0 db/en -/w >/w next/en ;/w
+/0  /0  /0 while/en (/w q/en !/w =/0 NULL/en )/w
+/0  /0  /0 {/0
+/0  /0  /0  /0 if/en (/w q/en -/w >/w Fact/en =/0 =/0 s/en -/w >/w pre/en )/w  /0
+/0  /0  /0  /0  /0 m/en +/0 +/0 ;/w //w //w 记录/n 有/v 几/m 个/q 前提/n 存在/v 事实/n 的/u 链/ng 表/n 中/f
+/0  /0  /0  /0 q/en =/0 q/en -/w >/w next/en ;/w
+/0  /0  /0 }/0
+/0  /0  /0 s/en =/0 s/en -/w >/w next/en ;/w
+/0  /0  /0 n/en +/0 +/0 ;/w
+/0  /0 }/0
+/0  /0 if/en (/w m/en =/0 =/0 n/en &/0 &/0 m/en !/w =/0 0/m &/0 &/0 n/en !/w =/0 0/m )/w //w //w 当/ag 所有/b 前提/n 都/d 存在/v 事实/n 库/n 时/n ，/w 将/d 结论/n 也/d 加入/v 到/ng 事实/n 库/n 中/f
+/0  /0 {/0
+/0  /0  /0 if/en (/w find/en (/w db/en ,/w p/en -/w >/w Con/en )/w =/0 =/0 0/m )/w
+/0  /0  /0 {/0
+/0  /0  /0  /0 u/en =/0 (/w Links/en */w )/w malloc/en (/w sizeof/en (/w Links/en )/w )/w ;/w
+/0  /0  /0  /0 u/en -/w >/w Fact/en =/0 p/en -/w >/w Con/en ;/w
+/0  /0  /0  /0 u/en -/w >/w next/en =/0 db/en -/w >/w next/en ;/w
+/0  /0  /0  /0 db/en -/w >/w next/en =/0 u/en ;/w
+/0  /0  /0 }/0
+/0  /0  /0 if/en (/w p/en -/w >/w Con/en >/w =/0 25/m &/0 &/0 p/en -/w >/w Con/en </w =/0 31/m )/w //w //w 得到/v 结论/n 后/f 输出/v
+/0  /0  /0 {/0  /0 printf/en (/w "/0 此/r 动物/n 是/v :/w %/m d/en "/0 ,/w p/en -/w >/w Con/en )/w ;/w  /0
+/0  /0  /0  /0 break/en ;/w
+/0  /0  /0 }/0
+/0  /0 }/0
+/0  /0 p/en -/w >/w prob/en =/0 (/w float/en )/w m/en //w n/en ;/w
+/0  /0 //w //w printf/en (/w "/0 %/m f/en \/0 n/en "/0 ,/w p/en -/w >/w prob/en )/w ;/w
+/0  /0 p/en =/0 p/en -/w >/w next/en ;/w
+/0  /0 n/en =/0 0/m ;/w m/en =/0 0/m ;/w
+/0 }/0
+/0 return/en db/en ;/w
+}/0
+void/en Search/en _/0 LinkList/en (/w Links/en */w db/en )/w //w //w 识别/v 动物/n
+{/0  /0 int/en m/en =/0 0/m ,/w n/en =/0 0/m ,/w flag/en =/0 0/m ;/w
+/0 LinkList/en */w p/en ;/w
+/0 Link/en */w s/en ;/w
+/0 Links/en */w q/en ,/w */w u/en ;/w
+/0 p/en =/0 head/en 2/m -/w >/w next/en ;/w
+/0 q/en =/0 db/en -/w >/w next/en ;/w
+/0 while/en (/w p/en !/w =/0 NULL/en )/w
+/0 {/0  /0
+/0  /0 s/en =/0 p/en -/w >/w Pre/en ;/w
+/0  /0 while/en (/w s/en !/w =/0 NULL/en )/w //w //w 前提/n 的/u 链/ng 表/n 与/c 事实/n 库/n 进行/v 比较/d
+/0  /0 {/0
+/0  /0  /0 q/en =/0 db/en -/w >/w next/en ;/w
+/0  /0  /0 while/en (/w q/en !/w =/0 NULL/en )/w
+/0  /0  /0 {/0
+/0  /0  /0  /0 if/en (/w q/en -/w >/w Fact/en =/0 =/0 s/en -/w >/w pre/en )/w  /0
+/0  /0  /0  /0  /0 m/en +/0 +/0 ;/w //w //w 记录/n 有/v 几/m 个/q 前提/n 存在/v 事实/n 的/u 链/ng 表/n 中/f
+/0  /0  /0  /0 q/en =/0 q/en -/w >/w next/en ;/w
+/0  /0  /0 }/0
+/0  /0  /0 s/en =/0 s/en -/w >/w next/en ;/w
+/0  /0  /0 n/en +/0 +/0 ;/w
+/0  /0 }/0
+/0  /0 if/en (/w m/en =/0 =/0 n/en &/0 &/0 m/en !/w =/0 0/m &/0 &/0 n/en !/w =/0 0/m )/w //w //w 当/ag 所有/b 前提/n 都/d 存在/v 事实/n 库/n 时/n ，/w 将/d 结论/n 也/d 加入/v 到/ng 事实/n 库/n 中/f
+/0  /0 {/0
+/0  /0  /0 if/en (/w find/en (/w db/en ,/w p/en -/w >/w Con/en )/w =/0 =/0 0/m )/w
+/0  /0  /0 {/0
+/0  /0  /0  /0 u/en =/0 (/w Links/en */w )/w malloc/en (/w sizeof/en (/w Links/en )/w )/w ;/w
+/0  /0  /0  /0 u/en -/w >/w Fact/en =/0 p/en -/w >/w Con/en ;/w
+/0  /0  /0  /0 u/en -/w >/w next/en =/0 db/en -/w >/w next/en ;/w
+/0  /0  /0  /0 db/en -/w >/w next/en =/0 u/en ;/w
+/0  /0  /0 }/0
+/0  /0  /0 if/en (/w p/en -/w >/w Con/en >/w =/0 25/m &/0 &/0 p/en -/w >/w Con/en </w =/0 31/m )/w //w //w 得到/v 结论/n 后/f 输出/v
+/0  /0  /0 {/0  /0 printf/en (/w "/0 此/r 动物/n 是/v :/w %/m d/en "/0 ,/w p/en -/w >/w Con/en )/w ;/w  /0
+/0  /0  /0  /0 break/en ;/w
+/0  /0  /0 }/0
+/0  /0 }/0
+/0  /0 p/en -/w >/w prob/en =/0 (/w float/en )/w m/en //w n/en ;/w
+/0  /0 //w //w printf/en (/w "/0 %/m f/en \/0 n/en "/0 ,/w p/en -/w >/w prob/en )/w ;/w
+/0  /0 p/en =/0 p/en -/w >/w next/en ;/w
+/0  /0 n/en =/0 0/m ;/w m/en =/0 0/m ;/w
+/0 }/0
+/0 if/en (/w p/en =/0 =/0 NULL/en )/w
+/0  /0 P/en _/0 act/en (/w db/en ,/w 1.0/m )/w ;/w
+}/0
+void/en P/en _/0 act/en (/w Links/en */w db/en ,/w float/en max/en )/w //w //w 反向/b 演绎/v
+{/0
+/0 int/en x/en [/w 10/m ]/w ,/w y/en [/w 10/m ]/w ;/w
+/0 int/en i/en =/0 0/m ,/w j/en ,/w iflag/en =/0 0/m ,/w flag/en =/0 0/m ;/w
+/0 float/en a/en =/0 0/m ;/w
+/0 LinkList/en */w p/en ,/w */w t/en ;/w //w //w 规则/a
+/0 Link/en */w q/en ;/w //w //w 前提/n
+/0 Links/en */w s/en ,/w */w u/en ;/w //w //w 事实/n
+/0 s/en =/0 db/en -/w >/w next/en ;/w
+/0 p/en =/0 head/en 2/m -/w >/w next/en ;/w
+/0 while/en (/w p/en !/w =/0 NULL/en )/w //w //w 找到/v 规则/a 链/ng 表/n 中/f prob/en 最大/a 的/u 规则/a
+/0 {/0
+/0  /0 if/en (/w a/en </w p/en -/w >/w prob/en &/0 &/0 p/en -/w >/w prob/en !/w =/0 1/m &/0 &/0 p/en -/w >/w prob/en >/w 0/m &/0 &/0 p/en -/w >/w prob/en </w max/en )/w
+/0  /0 {/0  /0 a/en =/0 p/en -/w >/w prob/en ;/w
+/0  /0  /0 t/en =/0 p/en ;/w
+/0  /0 }/0
+/0  /0 p/en =/0 p/en -/w >/w next/en ;/w
+/0 }/0
+/0 q/en =/0 t/en -/w >/w Pre/en ;/w
+/0 while/en (/w q/en !/w =/0 NULL/en )/w
+/0 {/0
+/0  /0 iflag/en =/0 0/m ;/w
+/0  /0 s/en =/0 db/en -/w >/w next/en ;/w
+/0  /0 while/en (/w s/en !/w =/0 NULL/en )/w
+/0  /0 {/0
+/0  /0  /0 if/en (/w s/en -/w >/w Fact/en =/0 =/0 q/en -/w >/w pre/en )/w
+/0  /0  /0  /0 iflag/en =/0 1/m ;/w
+/0  /0  /0 s/en =/0 s/en -/w >/w next/en ;/w
+/0  /0 }/0
+/0  /0 if/en (/w iflag/en =/0 =/0 0/m )/w //w //w 记录/n 在/d 事实/n 中/f 不/d 存在/v 的/u 前提/n
+/0  /0 {/0  /0 x/en [/w i/en ]/w =/0 q/en -/w >/w pre/en ;/w
+/0  /0  /0 i/en +/0 +/0 ;/w
+/0  /0 }/0
+/0  /0 q/en =/0 q/en -/w >/w next/en ;/w
+/0 }/0
+/0 for/en (/w j/en =/0 0/m ;/w j/en </w i/en ;/w j/en +/0 +/0 )/w
+/0 {/0
+/0  /0 printf/en (/w "/0 缺少/v 以下/f 条件/n ，/w 确认/v 是否/v 存在/v (/w 0/m 不/d 存在/v ,/w 1/m 存在/v )/w :/w \/0 n/en "/0 )/w ;/w
+/0  /0 printf/en (/w "/0 %/m d/en \/0 n/en "/0 ,/w x/en [/w j/en ]/w )/w ;/w
+/0  /0 scanf/en (/w "/0 %/m d/en "/0 ,/w &/0 y/en [/w j/en ]/w )/w ;/w
+/0 }/0
+/0 for/en (/w j/en =/0 0/m ;/w j/en </w i/en ;/w j/en +/0 +/0 )/w
+/0  /0 if/en (/w y/en [/w j/en ]/w =/0 =/0 0/m )/w
+/0  /0  /0 {/0 flag/en =/0 1/m ;/w break/en ;/w }/0
+/0 for/en (/w j/en =/0 0/m ;/w j/en </w i/en ;/w j/en +/0 +/0 )/w //w //w 将/d 所有/b 存在/v 的/u 前提/n 加/ng 到/ng 事实/n 中/f
+/0 {/0
+/0  /0 if/en (/w y/en [/w j/en ]/w =/0 =/0 1/m )/w
+/0  /0 {/0
+/0  /0  /0 if/en (/w find/en (/w db/en ,/w x/en [/w j/en ]/w )/w =/0 =/0 0/m )/w
+/0  /0  /0 {/0
+/0  /0  /0  /0 u/en =/0 (/w Links/en */w )/w malloc/en (/w sizeof/en (/w Links/en )/w )/w ;/w
+/0  /0  /0  /0 u/en -/w >/w Fact/en =/0 x/en [/w j/en ]/w ;/w
+/0  /0  /0  /0 u/en -/w >/w next/en =/0 db/en -/w >/w next/en ;/w
+/0  /0  /0  /0 db/en -/w >/w next/en =/0 u/en ;/w
+/0  /0  /0 }/0
+/0  /0 }/0
+/0 }/0
+/0 if/en (/w flag/en =/0 =/0 0/m )/w //w //w 缺少/v 的/u 条件/n 全部/mq 存在/v
+/0 {/0
+/0  /0 if/en (/w find/en (/w db/en ,/w t/en -/w >/w Con/en )/w =/0 =/0 0/m )/w
+/0  /0 {/0
+/0  /0  /0 u/en =/0 (/w Links/en */w )/w malloc/en (/w sizeof/en (/w Links/en )/w )/w ;/w //w //w 将/d 结论/n 加/ng 到/ng 事实/n 中/f
+/0  /0  /0 u/en -/w >/w Fact/en =/0 t/en -/w >/w Con/en ;/w
+/0  /0  /0 u/en -/w >/w next/en =/0 db/en -/w >/w next/en ;/w
+/0  /0  /0 db/en -/w >/w next/en =/0 u/en ;/w
+/0  /0 }/0
+/0  /0 if/en (/w t/en -/w >/w Con/en >/w =/0 25/m &/0 &/0 t/en -/w >/w Con/en </w =/0 31/m )/w
+/0  /0  /0 printf/en (/w "/0 此/r 动物/n 是/v :/w %/m d/en \/0 n/en "/0 ,/w t/en -/w >/w Con/en )/w ;/w
+/0  /0 else/en
+/0  /0 {/0  /0 db/en =/0 Search/en (/w db/en )/w ;/w
+/0  /0  /0 P/en _/0 act/en (/w db/en ,/w 1.0/m )/w ;/w  /0
+/0  /0 }/0
+/0 }/0
+/0 else/en
+/0 {/0  /0 printf/en (/w "/0 重新/d 识别/v ....../m \/0 n/en "/0 )/w ;/w
+/0  /0 db/en =/0 Search/en (/w db/en )/w ;/w
+/0  /0 P/en _/0 act/en (/w db/en ,/w a/en )/w ;/w
+/0 }/0
+}/0
+void/en Read/en (/w )/w //w //w 从/p 文件/n 中/f 读取/v 规则/a 存/v 到/ng 链/ng 表/n 中/f
+{/0
+/0 Link/en */w p/en ;/w
+/0 LinkList/en */w s/en ;/w
+/0 char/en temp/en [/w 10/m ]/w ,/w ch/en ;/w
+/0 int/en ix/en ,/w con/en ,/w iflag/en =/0 0/m ;/w
+/0 int/en n/en =/0 -/w 1/m ;/w
+/0 FILE/en */w fp/en ;/w
+/0 s/en =/0 (/w LinkList/en */w )/w malloc/en (/w sizeof/en (/w LinkList/en )/w )/w ;/w
+/0 s/en -/w >/w Pre/en =/0 NULL/en ;/w
+/0 fp/en =/0 fopen/en (/w "/0 rule.txt/url "/0 ,/w "/0 r/en "/0 )/w ;/w //w //w 文件/n 的/u 打开/v
+/0 if/en (/w fp/en =/0 =/0 NULL/en )/w
+/0  /0 printf/en (/w "/0 Cannot/en open/en this/en file/en \/0 n/en "/0 )/w ;/w
+/0 //w //w else/en
+/0 //w //w  /0 printf/en (/w "/0 OK/en \/0 n/en "/0 )/w ;/w
+/0 ch/en =/0 fgetc/en (/w fp/en )/w ;/w
+/0 while/en (/w ch/en !/w =/0 EOF/en )/w
+/0 {/0
+/0  /0 if/en (/w iflag/en =/0 =/0 0/m )/w
+/0  /0 {/0
+/0  /0  /0 if/en (/w ch/en >/w =/0 48/m &/0 &/0 ch/en </w =/0 57/m )/w //w //w 读/ng 到/ng 数字/n
+/0  /0  /0 {/0
+/0  /0  /0  /0 n/en +/0 +/0 ;/w
+/0  /0  /0  /0 temp/en [/w n/en ]/w =/0 ch/en ;/w
+/0  /0  /0 }/0
+/0  /0  /0 else/en if/en (/w ch/en =/0 =/0 '/en ,/w '/en )/w //w //w 逗号/n
+/0  /0  /0 {/0
+/0  /0  /0  /0 n/en +/0 +/0 ;/w
+/0  /0  /0  /0 temp/en [/w n/en ]/w =/0 '/en \/0 0/m '/en ;/w
+/0  /0  /0  /0 ix/en =/0 atoi/en (/w temp/en )/w ;/w //w //w 将/d 字符串/n 转为/v 整/a 型/k
+/0  /0  /0  /0 //w //w printf/en (/w "/0 %/m d/en ,/w "/0 ,/w ix/en )/w ;/w
+/0  /0  /0  /0 p/en =/0 (/w Link/en */w )/w malloc/en (/w sizeof/en (/w Link/en )/w )/w ;/w //w //w 生成/v 前提/n 节点/n
+/0  /0  /0  /0 p/en -/w >/w pre/en =/0 ix/en ;/w
+/0  /0  /0  /0 p/en -/w >/w next/en =/0 s/en -/w >/w Pre/en ;/w
+/0  /0  /0  /0 s/en -/w >/w Pre/en =/0 p/en ;/w
+/0  /0  /0  /0 n/en =/0 -/w 1/m ;/w
+/0  /0  /0  /0 strcpy/en (/w temp/en ,/w "/0 "/0 )/w ;/w //w //w 清空/v 字符/n 数组/n temp/en
+/0  /0  /0 }/0
+/0  /0  /0 else/en if/en (/w ch/en =/0 =/0 '/en -/w '/en )/w
+/0  /0  /0  /0 iflag/en =/0 1/m ;/w
+/0  /0 }/0
+/0  /0 else/en
+/0  /0 {/0
+/0  /0  /0 if/en (/w ch/en !/w =/0 '/en >/w '/en )/w
+/0  /0  /0 {/0
+/0  /0  /0  /0 n/en +/0 +/0 ;/w
+/0  /0  /0  /0 temp/en [/w n/en ]/w =/0 ch/en ;/w
+/0  /0  /0  /0 if/en (/w ch/en =/0 =/0 '/en \/0 n'/en )/w
+/0  /0  /0  /0 {/0
+/0  /0  /0  /0  /0 n/en +/0 +/0 ;/w
+/0  /0  /0  /0  /0 temp/en [/w n/en ]/w =/0 '/en \/0 0/m '/en ;/w
+/0  /0  /0  /0  /0 con/en =/0 atoi/en (/w temp/en )/w ;/w
+/0  /0  /0  /0  /0 //w //w printf/en (/w "/0 -/w >/w %/m d/en \/0 n/en "/0 ,/w con/en )/w ;/w
+/0  /0  /0  /0  /0 s/en -/w >/w Con/en =/0 con/en ;/w
+/0  /0  /0  /0  /0 s/en -/w >/w flag/en =/0 0/m ;/w
+/0  /0  /0  /0  /0 s/en -/w >/w prob/en =/0 0/m ;/w
+/0  /0  /0  /0  /0 tail/en 2/m -/w >/w next/en =/0 s/en ;/w
+/0  /0  /0  /0  /0 tail/en 2/m =/0 s/en ;/w
+/0  /0  /0  /0  /0 tail/en 2/m -/w >/w next/en =/0 NULL/en ;/w
+/0
+/0  /0  /0  /0  /0 s/en =/0 (/w LinkList/en */w )/w malloc/en (/w sizeof/en (/w LinkList/en )/w )/w ;/w //w //w 生成/v 下/f 一个/mq 规则/a 节点/n
+/0  /0  /0  /0  /0 s/en -/w >/w Pre/en =/0 NULL/en ;/w //w //w 初始化/v Link/en 型/k 的/u 指针/n s/en -/w >/w pre/en 为/p 空/a
+/0  /0  /0  /0  /0 iflag/en =/0 0/m ;/w
+/0  /0  /0  /0  /0 n/en =/0 -/w 1/m ;/w
+/0  /0  /0  /0 }/0
+/0  /0  /0 }/0
+/0  /0 }/0
+/0  /0 ch/en =/0 fgetc/en (/w fp/en )/w ;/w
+/0 }/0
+/0 fclose/en (/w fp/en )/w ;/w //w //w 文件/n 的/u 关闭/v
+}/0
+void/en F/en _/0 act/en (/w )/w //w //w 输入/v 动物/n 特征/n
+{/0
+/0 int/en x/en ;/w
+/0 Links/en */w p/en ,/w */w db/en ;/w
+/0 db/en =/0 (/w Links/en */w )/w malloc/en (/w sizeof/en (/w Links/en )/w )/w ;/w
+/0 db/en -/w >/w next/en =/0 NULL/en ;/w
+/0 printf/en (/w "/0 请/v 依次/d 输入/v 动物/n 特征/n :/w (/w 以/p -/w 1/m 结束/v )/w \/0 n/en "/0 )/w ;/w
+/0 scanf/en (/w "/0 %/m d/en "/0 ,/w &/0 x/en )/w ;/w
+/0 while/en (/w x/en !/w =/0 -/w 1/m )/w
+/0 {/0
+/0  /0 p/en =/0 (/w Links/en */w )/w malloc/en (/w sizeof/en (/w Links/en )/w )/w ;/w
+/0  /0 p/en -/w >/w Fact/en =/0 x/en ;/w
+/0  /0 p/en -/w >/w next/en =/0 db/en -/w >/w next/en ;/w
+/0  /0 db/en -/w >/w next/en =/0 p/en ;/w
+/0  /0 scanf/en (/w "/0 %/m d/en "/0 ,/w &/0 x/en )/w ;/w
+/0 }/0
+/0 Search/en _/0 LinkList/en (/w db/en )/w ;/w
+}/0
+void/en main/en (/w )/w
+{/0
+/0 head/en 2/m =/0 (/w LinkList/en */w )/w malloc/en (/w sizeof/en (/w LinkList/en )/w )/w ;/w //w //w 规则/a 链/ng 表/n 初始化/v
+/0 head/en 2/m -/w >/w next/en =/0 NULL/en ;/w  /0  /0  /0  /0  /0  /0
+/0 tail/en 2/m =/0 head/en 2/m ;/w
+/0 display/en (/w )/w ;/w
+/0 Read/en (/w )/w ;/w
+/0 printf/en (/w "/0 \/0 n/en \/0 n/en */w */w */w */w */w */w */w */w */w */w */w 动物/n 识别/v 系统/a */w */w */w */w */w */w */w */w */w */w */w \/0 n/en \/0 n/en "/0 )/w ;/w
+/0 F/en _/0 act/en (/w )/w ;/w
+}/0
+//w */w
+/0 动物/n 有/v 斑点/n ，/w 长/a 脖/ng ，/w 长/a 腿/n ，/w 产/ng 奶/nm ，/w 有/v 蹄/ng ：/w -/w >/w 长颈鹿/n
+/0  /0 13/m ,/w 15/m ,/w 16/m ,/w 2/m ,/w 10/m -/w >/w 27/m
+/0 动物/n 产/ng 奶/nm ，/w 有/v 毛/a ，/w 有/v 蹄/ng ，/w 反刍/v ，/w 有/v 黑色/n 条纹/n ：/w -/w >/w 斑马/n
+/0  /0 2/m ,/w 1/m ,/w 10/m ,/w 11/m ,/w 14/m -/w >/w 28/m
+/0 动物/n 有/v 羽毛/n ,/w 会/n 游泳/v ,/w 黑白/b 二/m 色/n ,/w 不会/v 飞/bg -/w >/w 企鹅/n
+/0  /0 3/m ,/w 18/m ,/w 19/m ,/w 17/m -/w >/w 30/m
+/0 动物/n 有/v 毛/a ，/w 有/v 蹄/ng ，/w 有/v 斑点/n ，/w 长/a 脖/ng ，/w 会/n 游泳/v ，/w 善/ag 飞/bg
+/0  /0 1/m ,/w 10/m ,/w 13/m ,/w 15/m ,/w 18/m ,/w 20/m
+/0 1/m ,/w 9/m ,/w 8/m ,/w 13/m -/w 》/w 7/m -/w 》/w 12/m -/w 》/w 25/m
+*/w //w

@@ -1,0 +1,126 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+走进/v 5/m G/m 第一/m 城/n ：/w 这/r 才/d 叫/v 引领/v 5/m G/m ！/w ,/w 我/r 一路/n 兴奋/a 地/n 拍/ng 着/n 5/m G/m 基站/n 。/w nn/en 汽车/np 在/d 机场/ny 高速/b 上/f 飞驰/v ，/w 窗外/s 一座座/qqy 挂/q 上/f 了/dg 5/m G/en AAU/n 设备/n 的/u 通信/v 基站/n 匆匆/z 而/c 过/d 。/w 我/r 害怕/v 抓/v 不住/d 那些/r 画面/n ，/w 一路/n 不停/d 地/n 按着/p 快门/n 。/w nnnnnn/en 就/d 这样/r ，/w 我/r 来到/v 了/dg “/w 杭州/ns 5/m G/m 第一/m 城/n ”/w 。/w 有/v 了/dg 5/m G/m 基站/n 的/u 列/n 道/n 欢迎/v ，/w 我/r 想/v 这/r 注定/v 是/v 一/m 场/ng 难忘/a 之旅/n 吧/y 。/w ,/w yihuliunian/en ,/w https://blog.csdn.net/yihuliunian/article/details/90056161/url ,/w 2019-05-10/t ,/w 22/m 次/a 阅读/v ,/w 走进/v 5/m G/m 第一/m 城/n ：/w 这/r 才/d 叫/v 引领/v 5/m G/m ！/w -/w yihuliunian/en 的/u 博客/n ,/w 2019年05月10日 13:23:03/t ,/w 我/r 一路/n 兴奋/a 地/n 拍/ng 着/n 5/m G/m 基站/n 。/w
+
+汽车/np 在/d 机场/ny 高速/b 上/f 飞驰/v ，/w 窗外/s 一座座/qqy 挂/q 上/f 了/dg 5/m G/en AAU/n 设备/n 的/u 通信/v 基站/n 匆匆/z 而/c 过/d 。/w 我/r 害怕/v 抓/v 不住/d 那些/r 画面/n ，/w 一路/n 不停/d 地/n 按着/p 快门/n 。/w
+
+
+
+/0
+
+就/d 这样/r ，/w 我/r 来到/v 了/dg “/w 杭州/ns 5/m G/m 第一/m 城/n ”/w 。/w 有/v 了/dg 5/m G/m 基站/n 的/u 列/n 道/n 欢迎/v ，/w 我/r 想/v 这/r 注定/v 是/v 一/m 场/ng 难忘/a 之旅/n 吧/y 。/w
+
+2019年4月28日/t ，/w 浙江省人民政府/nt 与/c 中国电信/nt 、/w 中国移动/nt 、/w 中国联通/nt 、/w 中国/ns 铁塔/n 在/d 杭州/ns 共同/b 举办/v 5/m G/en +/0 行动/v 联合/v 发布会/n 。/w 本次/r 大会/nh 吸引/v 了/dg 全国/n 100/m 多家/n 国内外/s 知名企业/n 及/c 一/m 批/q 科研院所/j 参会/v 参展/v ，/w 集中/a 展示/v 了/dg 5/m G/m 最新技术/n 成果/n 和/c 应用/v 。/w
+
+走进/v 5/m G/m 第一/m 城/n ，/w 通过/p 这次/r 大会/nh ，/w 让/v 我们/r 头/k 一次/mq 感受/n 到/ng 了/dg 一个/mq 有血有肉/iv 有/v 灵魂/n 、/w 有/v 网络/n 有/v 应用/v 有生/b 态/ng 的/u 真正/b 的/u 先行/v 5/m G/m 。/w
+
+网络/n 先行/v
+
+从/p 国内/s 最长/a 5/m G/m 连续/a 覆盖/v 的/u 高速公路/n 说起/v
+
+这/r 段/n 有/v 5/m G/m 基站/n 列/n 道/n 欢迎/v 的/u 高速公路/n ，/w 是/v 目前/t 国内/s 实现/v 5/m G/m 连续/a 覆盖/v 的/u 最长/a 的/u 一/m 条/ng 高速公路/n 段/n ，/w 覆盖/v 范围/n 从/p 杭州/ns 萧山/ns 国际机场/lny 航站楼/n 至/d 钱江三桥/ns 段/n ，/w 由/p 浙江/ns 移动/v 联合/v 华为/nz 率先/d 完成/v 。/w
+
+这/r 意味着/v ，/w 在/d 杭州/ns ，/w 只要/c 乘客/n 下/f 了/dg 飞机/np 坐/v 上汽/nt 车/np ，/w 行驶/v 在/d 机场/ny 高速/b 上/f ，/w 打开/v 5/m G/m 手机/np ，/w 就/d 能/ng 享受/v 到/ng 飞/bg 一般/a 的/u 5/m G/m 速率/n 来/u 刷/ng 网页/n 、/w 看/u 视频/n ……/w
+
+值得一提的是/l ，/w 这/r 条/ng 国内/s 最长/a 5/m G/m 连续/a 覆盖/v 的/u 高速公路/n 的/u 背后/f ，/w 还是/c 一次/mq 5/m G/m 关键/a 场景/n 应用/v 的/u 重要/a 突破/v 。/w
+
+高速/b 场景/n 一直/d 是/v 无线网/n 优/a 工作/n 的/u 一大/j 痛点/n 。/w 在/d 高速/b 场景/n 下/f ，/w 由于/c 车辆/n 移动/v 时速/n 高达/v 100/m km/en //w h/n ，/w 会/n 带来/v 较大/a 的/u 多普勒/n 频/ag 移/v 和/c 快速/b 的/u 切换/v 要求/n ，/w 加上/v 高速/b 周边/n 覆盖/v 空旷/a ，/w 多/a 径/dg 效应/n 会/n 影响/v 速率/n 提升/v 。/w 为此/l ，/w 浙江/ns 移动/v 对/a 系统/a 进行/v 了/dg 无线/b 参数/n 优化/v 、/w 邻/ng 区/n 优化/v 、/w 天线/n 调整/v 多种/a 优化/v ，/w 为/p 将来/t 5/m G/m 在/d 高速/b 的/u 规模/n 应用/v 奠定/v 了/dg 基础/n 。/w
+
+其实/d ，/w 这/r 条/ng 5/m G/m 连续/a 覆盖/v 的/u 高速公路/n ，/w 不过/c 只是/c 浙江/ns 移动/v 5/m G网/n 络/ng 的/u 一块/d 拼图/v 而已/y 。/w
+
+眼下/t 浙江/ns 5/m G/m 正在/n 全面/a 布局/n ，/w 作为/n 5/m G/m 发展/v 的/u 领军/v 运营商/n ，/w 浙江/ns 移动/v 积极/a 开展/v 5/m G/m 规模/n 试验/v 网/n 建设/v 。/w 据/ng 浙江/ns 移动/v 消息/n ，/w 目前/t 移动/v 5/m G/m 覆盖/v 杭州/ns 、/w 宁波/n 、/w 温州/ns 、/w 嘉兴/ns 四/m 地/n ，/w 全省/n 其余/r 地市/n 也/d 正在/n 加快/v 5/m G/m 应用/v 示范区/n 建设/v ，/w 覆盖/v 范围/n 快速/b 扩展/v 中/f 。/w
+
+“/w 目前/t 已经/d 完成/v 了/dg 杭州/ns 的/u 核心/n 城区/n 及/c 未来/t 科技城/ns 、/w 滨江/ns 科技园区/ln ‘/w 一/m 核/n 两/m 创/ng ’/w 区域/n 的/u 覆盖/v ，/w 宁波/n 、/w 温州/ns 的/u 核心/n 商圈/n 以及/c 嘉兴/ns 乌镇/ns 也/d 将/d 陆续/d 实现/v 5/m G/m 覆盖/v ，/w 预计/v 6月/t 将/d 实现/v 杭州/ns 主城区/n 全/a 覆盖/v 。/w ”/w 浙江/ns 移动/v 的/u 工作人员/n 这样/r 表示/v 。/w
+
+应用/v 同行/n
+
+从实/d 验/v 室/n 走进/v 各行各业/ln
+
+有/v 网络/n ，/w 没/d 应用/v ，/w 这不/l 是/v 真正/b 的/u 5/m G/m ，/w 更/d 谈不上/v 领先/v 的/u 5/m G/m 。/w
+
+浙江/ns 5/m G/m 的/u 应用/v 在/d 哪里/r ？/w
+
+在/d 这里/r …/w
+
+/0
+
+
+
+在/d 本次/r 大会/nh 现场/s ，/w 数百/m 架/ng 无人机/np 编队/n 在/d 空中/s 整齐/a 变换/v 各种/r 造型/n ，/w 这是/n 在/d 展示/v 5/m G网/n 络/ng 超低/h 时延/j 特性/n 和/c 应用/v 。/w
+
+
+
+/0 ▲/x 5/m G/m 远程控制/n 无人机/np 编队/n 在/d 候场/v 中/f
+
+杭州/ns 湘/jns 湖景区/n 的/u 智能网/n 联/ng 无人车/n 出发/v 啦/y 。/w
+
+
+
+“/w 移动/v 5/m G/m 蜗/ng 必/d 达/ng -/w 无人/b 配送/v 物流/n 车/np ”/w 正在/n 配送/v 外卖/v 、/w 生鲜/b 、/w 快递/n …/w 解决/v “/w 最后一公里/l ”/w 的/u 配送/v 难题/n 。/w
+
+
+
+/0
+
+“/w 移动/v 5/m G/m 蜗/ng 小/a 白/a ”/w 正在/n 自动/b 清扫/v 垃圾/n ，/w 解决/v 环卫工/n 人/n “/w 高/a 负荷/n 工作/n 、/w 高危/b 作业/n ”/w 的/u 难题/n 。/w
+
+
+
+/0
+
+“/w 5/m G/m 立体化/v 指挥/n 防控/v ”/w 构建/v 了/dg 水域/n 、/w 陆域/n 、/w 空域/n 5/m G/m 立体化/v 数字/n 安防/nz 体系/n 以及/c 情报/n 、/w 指挥/n 、/w 行动/v 一体化/v 的/u 大数据/n 指挥/n 防控/v 平台/n ，/w 实现/v 了/dg 5/m G网/n 络/ng 技术/n 与/c 人工智能/n 、/w 物联网/n 、/w 云计算/n 、/w 大数据/n 等/ng 新技术/n 的/u 紧密/a 融合/v 。/w
+
+
+
+/0
+
+全国/n 首创/v 5/m G/m 远程/b 急救指挥中心/lnc 整合/v 了/dg 5/m G/m 远程/b 超声/n 、/w VR/n 浸入/v 式/k 实时/d 全景/n 体验/v 、/w 远程会诊/n 、/w 无人机/np 配送/v 医疗/n 物资/n 等/ng 多个/n 子系统/n ，/w 支持/v 远距离/n 超声/n 检查/v 、/w 救护车/n 移动/v 轨迹/n 和/c 患者/n 生命体/n 征信/n 息/ng 回传/v 、/w VR/n 浸入/v 式/k 实时/d 全景/n 呈现/v 、/w 远程/b 高清/a 音视频/n 互动/v 和/c 医疗/n 物资/n 紧急/a 调拨/v 等/ng 功能/n ，/w 前移/v 了/dg 急诊/n 救治/v 的/u 战线/n ，/w 大幅/a 提高/v 了/dg 急救/v 效率/n 。/w
+
+
+
+
+
+/0 ▲/x 5/m G/m 智慧/n 医疗/n 急救车/np 内场/n 景/n
+
+
+
+/0 ▲/x 用于/v 配送/v 医疗/n 物资/n 的/u 5/m G网/n 联/ng 无人机/np
+
+…/w
+
+值得/v 强调/v 的/u 是/v ，/w 这些/r 酷炫/a 的/u 5/m G/m 应用/v 不是/n DEMO/n 版/n ，/w 更/d 不是/n PPT/n 版/n ，/w 它们/r 都/d 是/v 实实在在/aa 的/u 接入/v 到/ng 了/dg 5/m G网/n 络/ng 中/f 的/u 应用/v 案例/n 。/w
+
+很多/mq 5/m G/m 应用/v 案例/n 已/d 走进/v 各行各业/ln …/w
+
+在/d 杭州/ns 汽轮/n 集团/nc 的/u 操作/v 车间/n ，/w 一名/nz 工作人员/n 正/a 用/ng 一/m 台/n 精密/a 的/u 电子/n 扫描/v 设备/n 对/a 着/n 一/m 台/n 汽缸/np 的/u 设备/n 进行/v 立体/b 扫描/v ，/w 车间/n 的/u 另/d 一边/d ，/w 一/m 台电/nz 脑/n 设备/n 的/u 屏幕/n 上/f 同时/c 显现/v 了/dg 实体/n 扫描/v 的/u 三维/b 模型/n ，/w 通过/p 与/c 标准/a 模型/n 的/u 比对/v ，/w 电脑/np 可以/a 实时/d 判断/n 该/r 产品/n 误差率/n 是否/v 在/d 正常/a 范围/n 内/f ，/w 如果/c 产品/n 合格/a ，/w 图/n 型/k 显示/v 为/p 绿色/n ，/w 如果/c 不合/a 格/n ，/w 图/n 型/k 则/c 自动/b 显示/v 为/p 红色/n 。/w 这是/n 由/p 浙江/ns 移动/v 与/c 杭汽轮/n 集团/nc 合作/v 打造/v 的/u 5/m G/m 三维/b 扫描/v 建模/v 检测系统/n ，/w 通过/p 激光/n 扫描/v 技术/n ，/w 可以/a 精确/a 快速/b 获取/v 物体/n 表面/n 三维/b 数据/n 并/c 生成/v 三维/b 模型/n ，/w 通过/p 5/m G网/n 络/ng 实时/d 将/d 测量/v 得到/v 的/u 海量/n 数据传输/n 到/ng 云端/n ，/w 由/p 云端/n 服务器/n 快速/b 处理/v 比对/v ，/w 确定/a 实体/n 三维/b 模型/n 是否/v 和/c 原始/a 理论/n 模型/n 保持/v 一致/a ，/w 同时/c 向/p 工厂/nc 实时/d 反馈/v 结果/c 。/w 该系/r 统/ng 使得/v 检测/v 时间/n 从/p 2-3天/t 降低/v 到/ng 了/dg 3-5分钟/t ，/w 使得/v 产品/n 从/p 抽检/v 变为/v 了/dg 精准/a 的/u 全/a 量/n 检测/v ，/w 还/d 建立/v 了/dg 质量/n 信息/n 数据库/n 。/w
+
+目前/t 浙江/ns 移动/v 与/c 杭汽轮/n 集团/nc 、/w 浙江/ns 中控/j 、/w 新安/n 化工/n 等/ng 工业/n 上市/v 企业/n 在/d 5/m G/m 工业/n 互联网/n 应用领域/n 开展/v 深入/a 的/u 合作/v ，/w 在/d 远程/b 维护/v 、/w 智能控制/n 、/w 工业/n 质检/n 等/ng 方面/n 开展/v 应用/v 测试/v 。/w
+
+在/d 宁波/n 舟山/ns 港/ag 梅山/ns 岛国/n 际/ng 集装箱码头/n 4/m 号/n 堆场/n ，/w 随着/p 远程控制/n 台视/n 频/ag 画面/n 逐个/d 亮起/nz ，/w 操作/v 人员/n 轻轻/d 拨动/v 控制/v 手柄/n ，/w 58/m 号/n 龙门吊/n 吊具/n 按照/p 指令/n 方向/n 精准/a 完成/v 移动/v ，/w 成功/a 实现/v 了/dg 基于/p 移动/v 5/m G网/n 络/ng 下/f 轮式/b 龙门吊/n 作业/n 管理/v 、/w 视频/n 回传/v 等/ng 各种/r 无线/b 信息化/v 应用/v 创新/v ，/w 标志/n 着/n 全球/n 第一/m 大港/ns 有/v 了/dg 5/m G/m 创新/v 应用/v 。/w
+
+在/d 杭州/ns 的/u 梦想/n 小镇/n ，/w 人们/n 已经/d 能够/v 使用/v 无人机/np 派送/v 外卖/v 订单/n 了/dg ，/w 在/d 商家/n 接到/v 订单/n 之后/f ，/w 将/d 商品/n 打包/v 好/a 放入/v 外卖/v 自取/v 站/ny ，/w 选择/n 取/v 货/n 地点/n 确认/v 后/f ，/w 包裹/n 会/n 在/d 站/ny 内/f 自动/b 被/ng 运送/v 至/d 无人机/np 的/u “/w 肚子/n ”/w 里/f ，/w 无人机/np 通过/p GPS导航/n 精准/a 降落/v 在/d 自助/b 取/v 货站/n 的/u 停机坪/n 上/f ，/w 自取/v 站/ny 的/u 升降/v 装置/n 将/d 无人机/np 上/f 的/u 货物/n 送到/v 取/v 货/n 窗口/n ，/w 就/d 能/ng 拿到/v 下单/v 的/u 物品/n 了/dg 。/w
+
+作为/n 网联/nt 通信/v 的/u 一/m 种/ng 全新/b 手段/n ，/w 5/m G网/n 络/ng 广/a 覆盖/v 、/w 低/a 时延/j 、/w 高安/ns 全/a 性/k 、/w 高行/nz 业/dg 赋/ng 能/ng 等/ng 特性/n ，/w 在/d 无人机/np 飞行/v 管理/v 应用领域/n 具有/v 显/v 着/n 优势/n 。/w 目前/t 浙江/ns 移动/v 联合/v 杭州/ns 迅/ag 蚁/ng 公司/nc 成立/v 了/dg 国内/s 首/m 个/q “/w 5/m G/m 无人机/np 物流/n 应用/v 创新/v 实验室/nc ”/w ，/w 探索/v 5/m G/m 无人机/np 在即/v 时/n 配送/v 领域/n 、/w 环境保护/ln 、/w 突发事件/ln 图像/n 采集/v 、/w 医疗设备/n 运输/v 、/w 应急/v 救援/v 和/c 构建/v 智慧城市/ln 等/ng 多方面/d 的/u 应用/v 融合/v 。/w
+
+网络/n 和/c 应用/v 落地/v 双/m 引领/v
+
+这/r 才/d 是/v 真正/b 的/u 5/m G/m ！/w
+
+说/ag 了/dg 这么/r 多/a ，/w 谈/ng 了/dg 这么/r 久/a ，/w 还是/c 让/v 我们/r 不/d 忘/v 初心/n ，/w 回到/v 原点/n ，/w 重新/d 复习/v 一下/d 到底/d 什么/r 是/v 5/m G/m 吧/y ？/w
+
+当初/t NGMN/n 是/v 这样/r 定义/n 的/u ：/w
+
+5/m G/m 是/v 一个/mq 端/ag 到/ng 端的/n 生态/n 系统/a ，/w 它/r 将/d 打造/v 一个/mq 全/a 移动/v 和/c 全连/n 接/ng 的/u 社会/n ，/w 它/r 交付/v 始终如一/iv 的/u 服务/v 体验/v ，/w 通过/p 现有/v 的/u 和/c 新/a 的/u 用/ng 例/n ，/w 以及/c 可持续发展/lv 的/u 商业/n 模式/n ，/w 为/p 客户/n 和合/v 作/ng 伙伴/n 创造/n 价值/n 。/w
+
+没错/v ，/w 5/m G/m 与/c 以往/t 的/u G/m 不一/v 样/ng ，/w 它/r 是/v 一个/mq 网络技术/n 与/c 商业/n 应用/v 双轮/nz 驱动/v 的/u G/m 。/w
+
+浙江/ns 移动/v 早/a 在/d 4G/n 时代/n 就/d 实现/v 了/dg 杭州/ns “/w 4G/n 第一/m 城/n ”/w 的/u 引领/v ，/w 驱动/v 繁荣/a 了/dg “/w 4G/n 改变/v 生活/n ”/w 的/u 移动/v 互联时代/n 。/w 面向/v “/w 5/m G/m 改变/v 社会/n ”/w 的/u 新时代/n ，/w 2018年5月16日/t ，/w 浙江/ns 移动/v 率先/d 发布/v 杭州/ns “/w 5/m G/m 之/u 城/n ”/w 计划/n ，/w 宣布/v 以/p “/w 个/q 十/m 百千万/mq ”/w 打造/v 5/m G/m 之/u 城/n ，/w 以/p “/w 五横/ns 七/m 纵/c ”/w 共/d 筑/jns 产业/n 联盟/nc ，/w 开启/v 了/dg 从/p 5/m G/m 试验/v 网/n 走向/v 实际/a 应用/v 的/u 新篇章/n 。/w
+
+也就是说/ldm ，/w 早/a 在/d 2018年/t ，/w 浙江/ns 移动/v 就/d 率先/d 确定/a 了/dg 网络技术/n 与/c 商业/n 应用/v 双轮/nz 驱动/v 的/u 5/m G/m 战略/n ，/w 在/d 政府/nc 的/u 大力/d 支持/v 下/f ，/w 与/c 产业/n 联盟/nc 伙伴/n 同心共济/i ，/w 将/d 5/m G/m 新技术/n 与/c 产业/n 应用/v 相/d 结合/v ，/w 共同/b 孵化/v 5/m G/m 产业/n 生态/n 。/w
+
+回头/d 一/m 看/u ，/w 在/d 短短/a 不到/v 一/m 年/n 的/u 时间/n 内/f ，/w 浙江/ns 5/m G/m 产业/n 可谓/v 硕果累累/la ，/w 真正/b 走出/v 了/dg 网络技术/n 和/c 产业/n 应用/v 双/m 引领/v 的/u 新姿/n 态/ng 。/w
+
+这/r 正好/a 印证/n 了/dg 业界/n 那/c 句/q 话/n ：/w 中国/ns 5/m G/m 看/u 浙江/ns ，/w 浙江/ns 5/m G/m 看/u 移动/v 吧/y ！/w
+
+/0
+
+品/k 略/d 个人/n 图书馆/ny  /0 http://www.pinlue.com//url ,/w ,/w ,/w ,/w ,/w

@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+3GPP 5G-NR 随笔（2-1）：NR信道带宽利用率、NR-ARFCN与channel raster,见个人博客： http://ziyubiti.github.io/2018/02/21/5gnrarfcn/,ziyubiti,https://blog.csdn.net/ziyubiti/article/details/79375645,2018-02-26,2489次阅读,3GPP 5G-NR 随笔（2-1）：NR信道带宽利用率、NR-ARFCN与channel raster - ziyubiti的专栏,2018年02月26日 12:07:04,见个人博客： https://ziyubiti.github.io/2018/02/21/5gnrarfcn/,,,,,

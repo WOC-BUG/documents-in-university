@@ -1,0 +1,80 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 无线/b 帧/q 结构/n ,/w 5/m G/m 无线/b 帧/q n/en 5/m G/m 无线/b 帧/q 时长/n 为/p 10/m ms/n ，/w 每个/r 无线/b 帧/q 包含/v 10/m 个子/n 帧/q ，/w 每个/r 子/k 帧/q 长度/n 均/ag 为/p 1/m ms/n 。/w nnnnn/en 子/k 帧/q n/n 时隙/n n/n 符号/n nnnnn/en 1/m 无线/b 帧/q =/0 10/m 子/k 帧/q nnnnnn/en 1/m 子/k 帧/q =/0 kkk/en 时隙/n nnnnnn/en 1/m 时隙/n =/0 14/m 符号/n nnn/en 每个/r 子/k 帧/q 到底/d 有/v 多少/r 个/q 时隙/n 取决于/v 参数/n uuu/en ，/w 其/r 取值/v 有/v 5/m 个/q ，/w 即/c 0/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 40/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 40/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 4/m 。/w ,/w sincerehz/en ,/w https://blog.csdn.net/sincerehz/article/details/86065493/url ,/w 2019-01-08/t ,/w 733/m 次/a 阅读/v ,/w 5/m G/m 无线/b 帧/q 结构/n -/w sincerehz/en 的/u 博客/n ,/w 2019年01月08日 11:53:02/t ,/w 5/m G/m 无线/b 帧/q
+一个/mq 5/m G/m 无线/b 帧/q 时长/n 为/p 固定/a 的/u 10/m ms/n ，/w 每个/r 无线/b 帧/q 包含/v 10/m 个子/n 帧/q ，/w 所以/c 每个/r 子/k 帧/q 长度/n 均/ag 为/p 1/m ms/n 。/w
+
+
+
+
+子/k 帧/q
+时隙/n
+符号/n
+
+
+
+
+1/m 无线/b 帧/q =/0 10/m 子/k 帧/q
+
+
+
+
+
+1/m 子/k 帧/q =/0 kk/en kk/en 时隙/n
+
+
+
+
+
+1/m 时隙/n =/0 14/m 符号/n
+
+
+每个/r 子/k 帧/q 到底/d 有/v 多少/r 个/q 时隙/n 取决于/v 参数/n uu/en uu/en ，/w 其/r 取值/v 有/v 5/m 个/q ，/w 即/c 0/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 40/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 4/m 0/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 40/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 4/m 。/w
+
+
+
+
+uu/en uu/en 取值/v
+子/k 载波/n 间隔/n 2/m n/en ×/m 15/m  /0 KHz/en 2/m n/en ×/m 15/m  /0 KHz/en 2/m ^/0 {/0 n/en }/0 \/0 times/en 15/m ~/w \/0 text/en {/0 KHz/en }/0 2/m n/en ×/m 15/m  /0 KHz/q
+kk/en kk/en 时隙/n //w 子/k 帧/q
+每个/r 时隙/n 时长/n (/w ms/en )/w
+
+
+
+
+0/m
+15/m
+1/m
+1/m
+
+
+1/m
+30/m
+2/m
+0.5/m
+
+
+2/m
+60/m
+4/m
+0.25/m
+
+
+3/m
+120/m
+8/m
+0.125/m
+
+
+4/m
+240/m
+16/m
+0.0625/m
+
+
+PS/en :/w LTE/en 的/u 子/k 载波/n 间隔/n 固定/a 为/p 15/m KHz/q 。/w
+
+相关/v 博文/n
+[/w 1/m ]/w https://blog.csdn.net/baidu_28937123/article/details/82382672/url
+[/w 2/m ]/w https://blog.csdn.net/zhihuiyu123/article/details/79047753/url
+[/w 3/m ]/w https://blog.csdn.net/u010178611/article/details/82257783/url
+[/w 4/m ]/w http://txrjy.com/thread-1027912-1-1.html/url ,/w ,/w ,/w ,/w [/w reply/en ]/w u/en 010569419/m [/w //w reply/en ]/w
+竟然/d 有/v 前辈/n 来/u 评论/n ，/w 幸甚/a 幸甚/a ，/w 非常/b 感谢/v ！/w ,/w

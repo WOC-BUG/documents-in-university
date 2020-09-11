@@ -1,0 +1,29 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/u010012788/article/details/77113679/url ,/w 人类/n 制造/v 的/u 能够/v 思维/n 和/c 表达/v 的/u 技术/n 或/c 物体/n 就/d 属于/v 人工智能/n 。/w 拍照/v 、/w 录音/v 、/w 录像/n 不是/n 人工智能/n ，/w 因为/c 他们/r 只/bg 相当于/v 采集/v 了/dg 图像/n 、/w 声音/n ，/w 没有/d 思维/n 的/u 过程/n ；/w 吊车/np 能/ng 吊起/v 千斤/q 重物/n ，/w 金刚钻/n 能/ng 钻/ng 透/a 钢板/n ，/w 他们/r 机械能/n 力/n 很/d 强大/a ，/w 但/c 需要/n 人工/b 操作/v ，/w 所以/c 他们/r 也/d 不/d 属于/v 人工智能/n 。/w 语音/n 识别/v 和/c 图像/n 识别/v 属于/v 人工智能/n ，/w 不仅/c 采集/v ,/w https://blog.csdn.net/u010012788/article/details/77113679/url ,/w ,/w u/en 010012788/m ,/w 2017-08-12/t ,/w //blog.csdn.net/u010012788/article/details/77113679/url ,/w 185/m 次/a 阅读/v ,/w 人工智能/n -/w u/en 010012788/m 的/u 博客/n ,/w 2017年08月12日 12:34:16/t ,/w 原/b 人工智能/n
+
+
+
+2017年08月12日 12:34:16/t
+流沙/n 谷/ng
+阅读/v 数/m ：186/m 更多/n
+
+
+个人/n 分类/v ：/w
+人工智能/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/0  /0  /0  /0  /0  /0 所谓/b 人工/b ，/w 就是/n 人造/b 的/u ，/w 不是/n 自然/a 生长/v 和/c 进化/v 的/u 。/w 智能/n ，/w 智/ag 代表/nx 智慧/n ，/w 就是/n 从/p 感觉/n 到/ng 记忆/n 到/ng 思维/n 这/r 一/m 过程/n ；/w 能/ng 代表/nx 能力/n ，/w 行为/n 和/c 语言/n 的/u 表达/v 过程/n 。/w 人类/n 制造/v 的/u 能够/v 思维/n 和/c 表达/v 的/u 技术/n 或/c 物体/n 就/d 属于/v 人工智能/n 。/w 拍照/v 、/w 录音/v 、/w 录像/n 不是/n 人工智能/n ，/w 因为/c 他们/r 只/bg 相当于/v 采集/v 了/dg 图像/n 、/w 声音/n ，/w 没有/d 思维/n 的/u 过程/n ；/w 吊车/np 能/ng 吊起/v 千斤/q 重物/n ，/w 金刚钻/n 能/ng 钻/ng 透/a 钢板/n ，/w 他们/r 机械能/n 力/n 很/d 强大/a ，/w 但/c 需要/n 人工/b 操作/v ，/w 所以/c 他们/r 也/d 不/d 属于/v 人工智能/n 。/w 语音/n 识别/v 和/c 图像/n 识别/v 属于/v 人工智能/n ，/w 不仅/c 采集/v 了/dg 声音/n 和/c 图像/n ，/w 还/d 对/a 听到/v 的/u 、/w 看到/v 的/u 进行/v 了/dg “/w 思维/n ”/w ，/w 把/p 看到/v 的/u 、/w 听到/v 的/u 表达/v 出来/v 。/w
+/0  /0  /0  /0  /0  /0 是否/v 能/ng 思维/n 是/v 区分/v 人工智能/n 和/c 非人/b 工智/nz 能/ng 的/u 一个/mq 标准/a 。/w 思维/n ，/w 从/p 信息论/n 的/u 角度/n ，/w 对/a 新/a 输入/v 信息/n 与/c 脑/n 内/f 储存/v 知识/n 经验/n 进行/v 一系列/b 复杂/a 的/u 心智/n 操作/v 过程/n 。/w 对于/p 人类/n 来说/u 主要/b 是/v 靠/ng 大脑/n 来/u 完成/v ，/w 对于/p 人工智能/n ，/w 离不开/v 计算机/np 。/w 大脑/n 和/c 计算机/np 只是/c 思维/n 的/u 物质/n 基础/n ，/w 属于/v 硬件/n 部分/n ，/w 还有/v 软件/n 部分/n ，/w 对于/p 人类/n 来说/u 就是/n 语言/n 和/c 逻辑/n ；/w 对于/p 人工智能/n 就是/n 编程语言/n 和/c 算法/n 。/w
+/0  /0  /0  /0  /0 利用/v 人工智能/n 可以/a 把/p 人类/n 从/p 一部分/mq 脑力劳动/ln 和/c 体力劳动/ln 中/f 解放/a 出来/v 。/w

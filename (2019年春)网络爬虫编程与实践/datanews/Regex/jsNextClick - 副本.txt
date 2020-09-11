@@ -1,0 +1,26 @@
+<script type="text/javascript">
+    function clickNext()
+    {
+        var reg =/下页|下一页|后页|&gt;|next|>|下一頁/i;
+        var containner = document.getElementById("id");
+        if(containner != null){
+        containner.scrollIntoView(false);
+    }
+        var alist = containner.getElementsByTagName("*");
+        if (alist == null || alist.length <=1 )
+    {
+        containner.click();
+    }
+        else {
+        var i = 0;
+        for (i = 0; i < alist.length; i++) {
+        var oneA = alist[i];
+        var oneAtxt = oneA.innerText;
+        if (oneAtxt.search(reg) >= 0) {
+        alist[i].click();
+        break;
+    }
+    }
+    }
+    }
+</script>

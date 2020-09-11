@@ -1,0 +1,137 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 时域/n 资源/n ,/w 5/m G/m 时域/n 资源/n 时域/n 结构/n 自/d 包含/v 子/k 帧/q mini/en -/w slot/en 上下行/j 子/k 帧/q 配比/n 第一/m 级/n ，/w Cell/en -/w Specific/en RRC/en 信令/n 配置/n 第二/m 级/n ，/w UE/en -/w Specific/en RRC/en 信令/n 配置/n 第三/m 级/n ，/w Group/en -/w Common/en DCI/n 第四/m 级/n ，/w UE/en -/w Specific/en DCIn/en 时域/n 结构/n nn/en 上图/n 是时/t 域/ng 资源/n 的/u 基本/a 结构/n ，/w 1/m frame/en =/0 10/m subframe/en =/0 10/m */w 14/m symbol/en ，/w 一个/mq 帧/q 的/u 时长/n 为/p ,/w littleBird/en _/0 2/m ,/w https://blog.csdn.net/littleBird_2/article/details/86768249/url ,/w 2019-02-06/t ,/w 811/m 次/a 阅读/v ,/w 5/m G/m 时域/n 资源/n -/w littleBird/en _/0 2/m 的/u 博客/n ,/w 2019年02月06日 14:50:48/t ,/w 5/m G/m 时域/n 资源/n 时域/n 结构/n 自/d 包含/v 子/k 帧/q mini/en -/w slot/en 上下行/j 子/k 帧/q 配比/n 第一/m 级/n ，/w Cell/en -/w Specific/en RRC/en 信令/n 配置/n 第二/m 级/n ，/w UE/en -/w Specific/en RRC/en 信令/n 配置/n 第三/m 级/n ，/w Group/en -/w Common/en DCI/n 第四/m 级/n ，/w UE/en -/w Specific/en DCI/n
+时域/n 结构/n
+
+上图/n 是时/t 域/ng 资源/n 的/u 基本/a 结构/n ，/w 1/m frame/en =/0 10/m subframe/en =/0 10/m */w 14/m symbol/en ，/w 一个/mq 帧/q 的/u 时长/n 为/p 10/m ms/n ，/w 每个/r 帧/q 由/p 10/m 个/q 时长/n 为/p 1/m ms/n 的/u 子/k 帧/q 组成/v ，/w 每个/r 子/k 帧/q 由/p Nsubframe/en ,/w uslotNslotsubframe/en ,/w u/en N/en _/0 {/0 slot/en }/0 ^/0 {/0 subframe/en ,/w u/en }/0 Nslotsubframe/en ,/w u/n ​/0 个/q slot/en 组成/v ，/w 每个/r slot/en 由/p NslotsymbNsymbslot/en N/en _/0 {/0 symb/en }/0 ^/0 {/0 slot/en }/0 Nsymbslot/en ​/0 个/q 符号/n 组成/v 。/w
+Nsubframe/en ,/w uslotNslotsubframe/en ,/w u/en N/en _/0 {/0 slot/en }/0 ^/0 {/0 subframe/en ,/w u/en }/0 Nslotsubframe/en ,/w u/n ​/0 由子/n 载波/n 间隔/n 配置/n （/w u/n ）/w 决定/n ，/w NslotsymbNsymbslot/en N/en _/0 {/0 symb/en }/0 ^/0 {/0 slot/en }/0 Nsymbslot/en ​/0 由/p 循环/v 前缀/n （/w CP/n ）/w 决定/n ，/w 具体/a 见/v 下/f 表/n
+
+
+
+
+
+
+
+
+
+
+
+0/m （/w 15/m kHz/q ）/w
+14/m
+1/m
+
+
+1/m （/w 30/m kHz/q ）/w
+14/m
+2/m
+
+
+2/m （/w 60/m kHz/q ）/w
+14/m （/w 正常/a CP/n ）/w
+4/m
+
+
+2/m （/w 60/m kHz/q ）/w
+12/m （/w 扩展/v CP/n ）/w
+4/m
+
+
+3/m （/w 120/m kHz/q ）/w
+14/m
+8/m
+
+
+4/m （/w 240/m kHz/q ）/w
+14/m
+16/m
+
+
+符号/n 长度/n 与/c 子/k 载波/n 间隔/n （/w scs/en ）/w 相关/v ，/w 具体/a 如下/v ：/w
+对应/v scs/en =/0 480/m kHz/q ，/w Tc/en =/0 1/m //w Δ/0 fmax/en ∗/0 Nf=0.509nsTc=1//url Δ/0 fmax/en ∗/0 Nf=0.509ns/url T/en _/0 c/en =/0 1/m //w \/0 Delta/en {/0 f/en _/0 {/0 max/en }/0 }/0 */w N/en _/0 f/en =/0 0.50/m 9/m nsTc/en ​/0 =/0 1/m //w Δ/0 fmax/en ​/0 ∗/0 Nf/n ​/0 =0.509ns/url ，/w 其中/r NfNf/en N/en _/0 fNf/en ​/0 =/0 4096/m ；/w
+对应/v scs/en =/0 15/m kHz/q ，/w Ts/en =/0 1/m //w Δ/0 fref/en ∗/0 Nf/en ,/w ref=32.552nsTs=1//url Δ/0 fref/en ∗/0 Nf/en ,/w ref=32.552ns/url T/en _/0 s/en =/0 1/m //w \/0 Delta/en {/0 f/en _/0 {/0 ref/en }/0 }/0 */w N/en _/0 {/0 f/en ,/w ref/en }/0 =/0 32.55/m 2/m nsTs/en ​/0 =/0 1/m //w Δ/0 fref/en ​/0 ∗/0 Nf/en ,/w ref/en ​/0 =32.552ns/url ，/w 其中/r Nf/en ,/w refNf/en ,/w ref/en N/en _/0 {/0 f/en ,/w ref/en }/0 Nf/en ,/w ref/en ​/0 =/0 2048/m 。/w
+TsTs/en T/en _/0 sTs/n ​/0 和/c TcTc/en T/en _/0 cTc/n ​/0 之间/f 的/u 关系/n 固定/a 为/p k/en =/0 Ts/en //w Tc/en =/0 64/m k/en =/0 Ts/en //w Tc/en =/0 64/m k/en =/0 T/en _/0 s/en //w T/en _/0 c/en =/0 64/m k/en =/0 Ts/n ​/0 //w Tc/n ​/0 =/0 64/m
+Slot/en 长度/n 与/c 子/k 载波/n 间隔/n 配置/n 相关/v ，/w 具体/a 为/p Tslot/en =/0 1/m //w 2/m uTslot/en =/0 1/m //w 2/m u/en T/en _/0 {/0 slot/en }/0 =/0 1/m //w 2/m ^/0 uTslot/en ​/0 =/0 1/m //w 2/m u/n
+
+
+
+
+u/n
+0/m
+1/m
+2/m
+3/m
+4/m
+
+
+
+
+TslotTslot/en T/en _/0 {/0 slot/en }/0 Tslot/en ​/0
+1/m ms/n
+0.5/m ms/n
+0.25/m ms/n
+0.125/m ms/n
+0.0625/m ms/n
+
+
+自/d 包含/v 子/k 帧/q
+定义/n ：/w 同一/b 子/k 帧/q 包含/v UL/en 、/w DL/n 和/c GP/n
+
+引入/v 自/d 包含/v 子/k 帧/q 的/u 目的/n 是/v 为了/p 更快/n 的/u 下行/v 反馈/v 和/c 上行/v 调度/n ，/w 这样/r 就/d 降低/v 了/dg RTT/n 时延/j ，/w 并且/c 可以/a 迅速/a 跟踪/v 信道/n 变化/v 。/w
+同时/c ，/w 自/d 包含/v 子/k 帧/q 也/d 有/v 自身/r 的/u 一些/mq 问题/n ，/w 如/c ：/w GP/n 较/d 小/a 限制/v 了/dg 小区/ny 的/u 覆盖/v ，/w 对/a 终端/n 的/u 硬件/n 处理/v 时延/j 要求/n 变/v 高/a 。/w
+mini/en -/w slot/en
+定义/n ：/w 时域/n 调度长/n 度/k 小于/v 14/m 个/q symbol/en
+5/m G/m 的/u 调度/n 基本/a 单位/n 分为/v 两/m 种类/n 型/k ：/w slot/en -/w based/en 和/c Non/en -/w slot/en -/w based/en 。/w 其中/r slot/en -/w based/en 对应/v 的/u 基本/a 调度/n 单位/n 为/p slot/en ，/w 而/c Non/en -/w slot/en -/w based/en 对应/v 的/u 基本/a 调度/n 单位/n 是/v mini/en -/w slot/en ，/w 支持/v 以/p {/0 2/m ,/w 4/m ,/w 7/m }/0 个/q symbol/en 作为/n 基本/a 调度/n 单位/n 。/w
+上下行/j 子/k 帧/q 配比/n
+5/m G/m 对/a 上下行/j 子/k 帧/q 配比/n 一共/d 分/b 了/dg 四/m 个/q 等级/n 。/w
+第一/m 级/n ，/w Cell/en -/w Specific/en RRC/en 信令/n 配置/n
+TDD/en -/w UL/en -/w DL/en -/w ConfigCommon/en :/w :/w =/0 SEQUENCE/en {/0
+referenceSubcarrierSpacing/en SubcarrierSpacing/en ,/w
+pattern/en 1/m TDD/en -/w UL/en -/w DL/en -/w Pattern/en ,/w
+pattern/en 2/m TDD/en -/w UL/en -/w DL/en -/w Pattern/en OPTIONAL/en ,/w -/w -/w Need/en R/en
+.../m
+}/0
+
+TDD/en -/w UL/en -/w DL/en -/w Pattern/en :/w :/w =/0 SEQUENCE/en {/0
+dl/en -/w UL/en -/w TransmissionPeriodicity/en ENUMERATED/en {/0 ms/en 0/m p/en 5/m ,/w ms/en 0/m p/en 625/m ,/w ms/en 1/m ,/w ms/en 1/m p/en 25/m ,/w ms/en 2/m ,/w ms/en 2/m p/en 5/m ,/w ms/en 5/m ,/w ms/en 10/m }/0 ,/w
+nrofDownlinkSlots/en INTEGER/en (/w 0../m maxNrofSlots/en )/w ,/w
+nrofDownlinkSymbols/en INTEGER/en (/w 0../m maxNrofSymbols/en -/w 1/m )/w ,/w
+nrofUplinkSlots/en INTEGER/en (/w 0../m maxNrofSlots/en )/w ,/w
+nrofUplinkSymbols/en INTEGER/en (/w 0../m maxNrofSymbols/en -/w 1/m )/w ,/w
+.../m ,/w
+[/w [/w
+dl/en -/w UL/en -/w TransmissionPeriodicity/en -/w v/en 1530/m ENUMERATED/en {/0 ms/en 3/m ,/w ms/en 4/m }/0 OPTIONAL/en -/w -/w Need/en R/en
+]/w ]/w
+}/0
+123456789101112131415161718/m
+dl/en -/w UL/en -/w TransmissionPeriodicity/en ：/w 配比/n 周期/n ，/w pattern/en 1/m 为/p 配置/n 的/u 第一/m 个/q 周期/n ，/w pattern/en 2/m 为/p 配置/n 的/u 第二/m 个/q 周期/n ，/w 5/m G/m 支持/v 单/b 周期/n 和双/nr 周期/n 配置/n ；/w
+nrofDownlinkSlots/en ：/w 全下/nz 行/a slot/en 的/u 数目/n ；/w
+nrofUplinkSlots/en ：/w 全/a 上行/v slot/en 的/u 数目/n ；/w
+nrofDownlinkSymbols/en ：/w 全下/nz 行/a slot/en 后面/f 的/u 下行/v 符号/n 数/m ；/w
+nrofUplinkSymbols/en ：/w 全/a 上行/v slot/en 前面/f 的/u 上行/v 符号/n 数/m ；/w
+
+第二/m 级/n ，/w UE/en -/w Specific/en RRC/en 信令/n 配置/n
+TDD/en -/w UL/en -/w DL/en -/w ConfigDedicated/en :/w :/w =/0 SEQUENCE/en {/0
+slotSpecificConfigurationsToAddModList/en SEQUENCE/en (/w SIZE/en (/w 1../m maxNrofSlots/en )/w )/w OF/en TDD/en -/w UL/en -/w DL/en -/w SlotConfig/en OPTIONAL/en ,/w -/w -/w Need/en N/n
+slotSpecificConfigurationsToreleaseList/en SEQUENCE/en (/w SIZE/en (/w 1../m maxNrofSlots/en )/w )/w OF/en TDD/en -/w UL/en -/w DL/en -/w SlotIndex/en OPTIONAL/en ,/w -/w -/w Need/en N/n
+.../m
+}/0
+
+TDD/en -/w UL/en -/w DL/en -/w SlotConfig/en :/w :/w =/0 SEQUENCE/en {/0
+slotIndex/en TDD/en -/w UL/en -/w DL/en -/w SlotIndex/en ,/w
+symbols/en CHOICE/en {/0
+allDownlink/en NULL/en ,/w
+allUplink/en NULL/en ,/w
+explicit/en SEQUENCE/en {/0
+nrofDownlinkSymbols/en INTEGER/en (/w 1../m maxNrofSymbols/en -/w 1/m )/w OPTIONAL/en ,/w -/w -/w Need/en S/b
+nrofUplinkSymbols/en INTEGER/en (/w 1../m maxNrofSymbols/en -/w 1/m )/w OPTIONAL/en -/w -/w Need/en S/b
+}/0
+}/0
+}/0
+
+TDD/en -/w UL/en -/w DL/en -/w SlotIndex/en :/w :/w =/0 INTEGER/en (/w 0../m maxNrofSlots/en -/w 1/m )/w
+12345678910111213141516171819/m
+如果/c 已经/d 配置/n 了/dg TDD/en -/w UL/en -/w DL/en -/w ConfigCommon/en ，/w 则/c TDD/en -/w UL/en -/w DL/en -/w ConfigDedicated/en 只能/v 配置/n F/n 时隙/n
+第三/m 级/n ，/w Group/en -/w Common/en DCI/n
+基站/n 通过/p PDCCH/en 通知/n 终端/n SFI/en （/w Slot/en Format/en Information/en ）/w 信息/n ，/w 承载/v 该/r 信息/n 的/u PDCCH/en DCI/n 格式/n 为/p DCI/en format/en 2/m _/0 0/m 。/w
+关于/p SFI/en 指示/n 的/u 具体/a 内容/n ，/w 可以/a 查看/v 38.213/m 的/u Table11.1.1-1/url
+第四/m 级/n ，/w UE/en -/w Specific/en DCI/n
+使用/v DCI/en format/en 0/m _/0 0/m 或/c DCI/en format/en 0/m _/0 1/m 中/f 的/u 字段/n “/w Time/en domain/en resource/en assignment/en ”/w 指示/n PUSCH/en 在/d 时域/n 的/u 资源分配/n 情况/n 。/w 使用/v DCI/en format/en 1/m _/0 0/m 或/c DCI/en format/en 1/m _/0 1/m 中/f 的/u 字段/n “/w Time/en domain/en resource/en assignment/en ”/w 指示/n PDSCH/en 在/d 时域/n 的/u 资源分配/n 情况/n 。/w 具体/a 见/v 协议/n 38.212/m —/w 7.3.1/m 章节/n 。/w ,/w ,/w ,/w ,/w ,/w

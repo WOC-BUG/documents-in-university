@@ -1,0 +1,24 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G NR协议栈----无线协议栈,NR无线协议栈分为两个平面：用户面和控制面。 n　　用户面(User Plane, UP）协议栈即用户数据传输采用的协议簇； n　　控制面(Control Plane, CP)协议栈即系统的控制信令传输采用的协议簇。nnn用户面 n　　NR用户平面相比LTE协议栈多了一层SDAP层，用户面协议从上到下依次是： n　　l SDAP层：Service Data Adaptation Protocol...,baidu_28937123,https://blog.csdn.net/baidu_28937123/article/details/82383860,2018-09-04,737次阅读,5G NR协议栈----无线协议栈 - baidu_28937123的博客,2018年09月04日 15:03:46,NR无线协议栈分为两个平面：用户面和控制面。 
+　　用户面(User Plane, UP）协议栈即用户数据传输采用的协议簇； 
+　　控制面(Control Plane, CP)协议栈即系统的控制信令传输采用的协议簇。
+
+
+用户面 
+　　NR用户平面相比LTE协议栈多了一层SDAP层，用户面协议从上到下依次是： 
+　　l  SDAP层：Service Data Adaptation Protocol 
+　　l  PDCP层：Packet Data Convergence Protocol 
+　　l  RLC层：Radio Link Control 
+　　l  MAC层：Medium Access Control 
+　　l  PHY层：Physical 
+　　
+控制面 
+　　NR控制面协议几乎与LTE协议栈一模一样，从上到下依次为： 
+　　l  NAS层：Non-Access Stratum 
+　　l  RRC层：Radio Resource Control 
+　　l  PDCP层：Packet Data Convergence Protocol 
+　　l  RLC层：Radio Link Con trol 
+　　l  MAC层：Medium Access Control 
+　　l  PHY层：Physical 
+ 
+　　UE所有的协议栈都位于UE内；而在网络侧，NAS层不位于基站gNB上，而是在核心网的AMF （Access and Mobility Management Function）实体上。还有一点需要强调的是，控制面协议栈不包含SDAP层。,,,,博主您好，不是说u只能取0,1,2,3,4吗？怎么在表格中出现一个u=5？,

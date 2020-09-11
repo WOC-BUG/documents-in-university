@@ -1,0 +1,13 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 会/n 带来/v 那/c 那些/r 变化/v ?/w ,/w 5/m G/m 会/n 带来/v 那/c 那些/r 变化/v 了/dg ，/w 在/d 这里/r 谈谈/v 我/r 的/u 想法/n ：/w nn/en 手机/np 的/u 存储/v 空间/n 变/v 大/a ：/w 因为/c 视频/n 可以/a 秒/q 级/n 打开/v ，/w 造成/v 下载/v 视频/n 或/c 缓存/n 文件/n 变/v 大/a ，/w 手机/np 需要/n 更/d 大/a 的/u 存储/v 空间/n 。/w n/n 看/u 视频/n 或/c 看/u 直播/v 都/d 看/u 高清/a 模式/n ，/w 因为/c 网速/n 快/a n/n 发/q 的/u 小视/v 频/ag 都/d 是/v 高清/a 模式/n ，/w 视频/n 不在/v 模/ng 煳/a n/n 会/n 带来/v 短视/a 频/ag ，/w 或/c 直播/v 网站/nc 新/a 的/u 发展/v 。/w 因为/c 这些/r 体验/v 更好/d 了/dg 。/w n/n 用户/n 更/d 喜欢/v 看/u 直播/v 了/dg 。/w 信息/n 传播/v 更快/n n/n 在线视频/n 处理/v ，/w 是/v 个/q 创业/v 点/m 。/w ,/w achirandliu/en ,/w https://blog.csdn.net/achirandliu/article/details/90554890/url ,/w 2019-05-26/t ,/w 10/m 次/a 阅读/v ,/w 5/m G/m 会/n 带来/v 那/c 那些/r 变化/v ?/w -/w achirandliu/en 的/u 专栏/n ,/w 2019年05月26日 00:45:19/t ,/w 5/m G/m 会/n 带来/v 那/c 那些/r 变化/v 了/dg ，/w 在/d 这里/r 谈谈/v 我/r 的/u 想法/n ：/w
+
+手机/np 的/u 存储/v 空间/n 变/v 大/a ：/w 因为/c 视频/n 可以/a 秒/q 级/n 打开/v ，/w 造成/v 下载/v 视频/n 或/c 缓存/n 文件/n 变/v 大/a ，/w 手机/np 需要/n 更/d 大/a 的/u 存储/v 空间/n 。/w
+看/u 视频/n 或/c 看/u 直播/v 都/d 看/u 高清/a 模式/n ，/w 因为/c 网速/n 快/a
+发/q 的/u 小视/v 频/ag 都/d 是/v 高清/a 模式/n ，/w 视频/n 不在/v 模/ng 煳/a
+会/n 带来/v 短视/a 频/ag ，/w 或/c 直播/v 网站/nc 新/a 的/u 发展/v 。/w 因为/c 这些/r 体验/v 更好/d 了/dg 。/w
+用户/n 更/d 喜欢/v 看/u 直播/v 了/dg 。/w 信息/n 传播/v 更快/n
+在线视频/n 处理/v ，/w 是/v 个/q 创业/v 点/m 。/w 用户/n 上传/v 视频/n ，/w 对视/v 频/ag 美化/v ，/w 再/d 返回/v 视频/n 给/v 用户/n 。/w 靠手/n 机/np 自己/r 处理/v 视频/n ，/w 还是/c 根/n 不/d 上/f 。/w
+无人机/np 在线/v 传/ng 视频/n 进一步/d 发展/v ，/w 因为/c 5/m G/m 传/ng 数据/n 了/dg 。/w
+
+若/c 有/v 其他/r 好/a 的/u 想法/n ，/w 也/d 欢迎/v 留言/n 补充/v 。/w
+2019年5月26日/t ,/w ,/w ,/w ,/w ,/w

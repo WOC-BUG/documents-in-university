@@ -1,0 +1,319 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G pdsch链路级仿真 收发端,CRC attachmentnn[trBlkCrc, trBlkCrcLen] = pdschCrcEncode(data)nn nnTB 和 CRC生成多项式进行二进制除法相除所得到的余数为CRC部分（没有进位，使用XOR来代替减法）。主要用来检测或校验数据传输后可能出现的错误。在CB级的CRC校验之后再对TB级的CRC进行验证，提高了正确率。nn nnpdsch中用到的生成多项式：nngCRC...,m0_37889738,https://blog.csdn.net/m0_37889738/article/details/86300420,2019-01-11,479次阅读,5G pdsch链路级仿真 收发端 - m0_37889738的博客,2019年01月11日 14:31:45,CRC attachment
+
+[trBlkCrc, trBlkCrcLen] = pdschCrcEncode(data)
+
+ 
+
+TB 和 CRC生成多项式进行二进制除法相除所得到的余数为CRC部分（没有进位，使用XOR来代替减法）。主要用来检测或校验数据传输后可能出现的错误。在CB级的CRC校验之后再对TB级的CRC进行验证，提高了正确率。
+
+ 
+
+pdsch中用到的生成多项式：
+
+gCRC24A (D)=[D24 +D23 +D18 +D17 +D14 +D11 +D10 +D7 +D6 +D5 +D4 +D3 +D+1]    L = 24;
+	gCRC16 (D)=[D16 + D12 + D5 +1]    L =16;
+     trBlkLen > 3824，生成多项式选用CRC24A，否则选用CRC16。
+
+gCRC24B(D)=[D24 +D23 +D6 +D5 +D+1]   L=24;
+     codeblocksegement 中每个CB进行CRC时使用多项式24B。
+
+ 
+
+TB级CRC流程如下：
+
+
+
+ 
+
+LDPC编码设计
+
+ 
+
+为了能支持IR-HARQ、以及适用于各种块大小和不同的码率，LDPC码在编码时需要可调节的设计。编码时，校验矩阵H会根据基本图BG（2个）和lifting size（Z 范围2～384）生成，这两个参数会根据码块大小、码率来选取。同一幅基本图多个Z值的设计使得编码可以适用于多种码长，并且这样的设计便于将计算分解为更多的较小的独立原子单元，因此，可以在硬件中更有效地实现更大的并行性。
+
+ 
+
+校验矩阵生成方法：
+
+The parity check matrix for NR structured LDPC codes can be defined by the base graph (BG), shift size Z, and shift coefficients ( Pij ), as follows: 1s and 0s in BG are replaced by a circularly-shifted Identity matrix and zero matrix of size Z x Z, respectively. The shift coefficients Pij are right cyclic shifts applied to the identity matrix for (i,j)-th element in BG.
+
+ 
+
+ 
+
+LDPC base graph selection
+
+bgn = pdschLdpcBaseGraphSel(trblklen, R)
+
+ 
+
+BG1适用于长码块高码率。BG2适用于短码块低码率。
+
+BG1 (dimension 46 × 68, Kb = 22 systematic columns) is mainly designed for block-sizes within approximately 300 to 8448 bits, code-rates between approximately 8/9 and 1/3, and further lower rates via repetition.
+	BG2 (dimension 42 × 52, Kb ∈{6,8,9,10} systematic columns) is mainly designed for block-sizes within 40 to 3840 bits, code-rates between approximately 2/3 and 1/5, and further lower rates via repetition.
+ 
+
+基本图选择流程如下：
+
+
+
+想要达到高码率，基本图不可以过小。
+	对于一个给定的码长，基本图越小，Z的值越大，越有利于解码时的并行处理，这样可以减小延迟、增大吞吐量。
+ 
+
+ 
+
+Code block segmentation and code block CRC attachment
+
+blkSeg = pdschLdpcCodeBlockSegment(trBlkCrc, bgn)
+
+
+
+i) 确定码块可以达到的最大长度Kcb：
+
+
+	
+		For LDPC base graph type 1 : Kcb = 8448
+			For LDPC base graph type 2 : Kcb = 3840
+		
+	
+   过长的码块会被分割为多个码块，并对每个码块进行CRC。
+
+ 
+
+ii) 确定码块个数
+
+   if B (Transport blocksize) < Kcb
+       L = 0
+       C (number of codeblocks) = 1
+       B' = B   // this mean 'No Segmentation'.
+   else
+       L = 24
+       C = Ceiling(B/(Kcb - L))
+       B' = B + C * L     
+
+ 
+
+iii) TB分到每个码块中的比特数
+
+   K'(the number of bits in each code block) = B'/C
+
+ 
+
+iv) 确定Kb
+
+   For LDPC base graph type 1
+
+Kb = 22
+
+ 
+   For LDPC base graph type 2
+
+if B (Transport blocksize) > 640
+
+Kb = 10
+
+else if B (Transport blocksize) > 560
+
+Kb = 9   
+
+else if B (Transport blocksize) > 192
+
+Kb = 8
+
+else
+
+Kb = 6
+
+ 
+
+v) find the minimum value of  Zc such that (Kb * Zc) >= K’
+
+   Zc=2^j *{2,3,5,7,9,11,13,15}   for   j = 0,1,2, 3, 4, 5 excluding those values exceeding Z = 384.
+
+ 
+
+vi) 确定码块长度K
+
+   set K = 22 Zc for LDPC base graph 1
+
+         K = 10 Zc for LDPC base graph 2
+
+ 
+
+vii) perform segmentation and add CRC bits
+
+   for k = K' to K-1  // Insertion of filler bis
+
+   Filler bits (or zero-padding) are appended to each CB before LDPC encoding, to match the information block-size to the encoder input size.
+
+
+
+ 
+
+Channel coding LDPC
+
+codedBlk = pdschLdpcEncode(blkSeg, bgn)
+
+
+
+                                                                     N
+
+ 
+
+for LDPC base graph 1：N = 66Zc 
+
+for LDPC base graph 2：N = 50Zc
+
+填充位改为0后再进行编码，输出时填充位还是NULL
+
+对前2*Zc比特打孔可以在不改变码率的情况下使输出包含跟多的冗余比特，提高性能
+
+ 
+
+ 
+
+Rate-matching and bit-selection
+
+codeWord = pdschLdpcRateMatch(codedBlk, outlen, rv, mod, nLayers)
+
+ 
+
+当不同TTI的数据比特发生改变时，为了匹配物理信道的承载能力，输入序列中的一些比特将被重发或者打孔，以确保在传输信道复用后总的比特率与所配置的物理信道承载能力相一致。
+
+ 
+
+i）circular buffer length Ncb =min( N, Nref )
+
+ 
+
+ii）determine Er
+
+if the r -th coded block is not scheduled for transmission as indicated by CBGTI according to Subclause 5.1.7.2 for DL-SCH and 6.1.5.2 for UL-SCH in [6, TS 38.214]
+
+Er =0;
+
+else
+
+Er is determined by
+
+N L  is the number of transmission layers that the transport block is mapped onto;
+	Qm is the modulation order;
+	G is the total number of coded bits available for transmission of the transport block;
+	C’
+
+
+iii）determine K0 by rv
+
+ 
+
+iV）从K0开始，跳过填充比特，取Er个比特作为输出
+
+ 
+
+关于Nref
+通过限制buffer大小限制最低码率，从而限制延迟大小。
+
+Typically, LDPC decoding latency depends on the number of edges in the base graph used for decoding. Thus, transmissions at higher code-rates (e.g. 1st transmission or higher MCS) can be decoded faster compared to the transmissions at lower rates (e.g. soft combined 1st and 2nd transmission or lower MCS). Thus, the decoding latency for large packets can be reduced by limiting (via LBRM) the lowest rate supported by such packets. This allows very high decoding throughput and lower latency. LBRM is thus an important factor that not only affects the UE complexity from the soft buffer perspective (or HARQ storage), but also facilitates decoding latency reduction.
+
+关于K0
+rv3的开始位置靠后可以适应初传未收到的情况。
+
+Defining the starting bit location of RV3 to be closer to the end of the LDPC codeword, allows more overlap with the systematic portion. Then, RV3 contains a part of the systematic bits as well as some extra parity bits which are not included in RV0. This results in RV3 being self-decodable up to a higher code-rate compared to the case it is defined uniformly.
+
+关于C’
+C'= C if CBGTI is not present in the DCI scheduling the transport block and C' is the number of scheduled code blocks of the transport block if CBGTI is present in the DCI scheduling the transport block.
+
+ 
+
+ 
+
+Bit-interleaving
+
+ 
+
+A post rate-matching bit-interleaver is applied and it is limited to each code block individually. A row-column interleaver with number of rows equal to the modulation order, and row-wise write and column- wise read is included at the output of the rate-matching. This can improve the performance by enabling systematic bit priority ordering for the first redundancy version.
+
+ 
+
+CB内在速率匹配之后进行交织，将数据排列在行数为调制阶数的矩阵中，行写列读。
+
+ 
+
+Code block concatenation 
+
+ 
+
+直接将上一部分的输出相连
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rate recovery
+
+codedBlk = pdschLdpcRateRecover(codeWord, trBlkLen, codeRate, rv, modu, rank);
+
+ 
+
+解速率匹配模块设计用来处理速率匹配的相反过程，将收到的比特恢复到原来的位置，用约定的0或1填充速率匹配时打掉的比特。
+
+在解速率匹配的时候需要确定：
+
+Ncb，K0，E    速率匹配
+	K，K’   确定填充比特位置
+	C，N   确定输出size
+i）根据E来进行码块的分割
+
+ii）根据Qm来进行解交织，列写行读
+
+iii）恢复（filler bits  K0起点  环形循环） 不知道的用0填充
+
+
+
+ 
+
+Channel decoding
+
+blkSeg = pdschLdpcDecode(codedBlk, bgn);
+
+ 
+
+i）由N求得Zc 进而得到K
+
+ii）2*Zc打孔的恢复
+
+iii）解码 输出整个CB
+
+ 
+
+ 
+
+Code block desegment
+
+[trBlkCrc, cbErr] = pdschLdpcCodeBlockDesegment(blkSeg, bgn, trBlkCrcLen);
+
+ 
+
+i）确定K’
+
+ii）每一块进行CRC校验
+
+iii）结果直接连接
+
+ 
+
+ 
+
+CRC decode
+
+[trBlk, tbErr] = pdschCrcDecode(trBlkCrc);
+
+ 
+
+输入trBlkCrc 和 CRC生成多项式进行二进制除法相除所得到的余数为0 则传输正确,,,,,

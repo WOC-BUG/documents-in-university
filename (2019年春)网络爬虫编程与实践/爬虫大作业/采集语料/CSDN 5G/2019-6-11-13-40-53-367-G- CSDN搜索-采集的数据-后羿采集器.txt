@@ -1,0 +1,9 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G NR协议栈----物理层(帧结构),nLTE的子载波间隔SCS为15KHz；而5G NR支持多种OFDM numerologies,根据38.211协议，目前每个子帧包含多少个slot是根据u这个值来确定，目前u取值有5个，为0,1,2,3,4。相对应的，LTE的符号长度为66.7us(不包括CP)， NR可以为6...,baidu_28937123,https://blog.csdn.net/baidu_28937123/article/details/82382672,2018-09-04,5841次阅读,5G NR协议栈----物理层(帧结构) - baidu_28937123的博客,2018年09月04日 14:31:42,NR中的一个frame的时间长度依然是10ms，包含10个subframe，其中每个subframe的时间为1ms。
+LTE的子载波间隔SCS为15KHz；而5G NR支持多种OFDM  numerologies,根据38.211协议，目前每个子帧包含多少个slot是根据u这个值来确定，目前u取值有5个，为0,1,2,3,4；一共有两种CP类型，Normal和Extended（扩展型）。扩展型CP只能用在子载波间隔为60KHz的配置下。相对应的，LTE的符号长度为66.7us(不包括CP)， NR可以为66,67us, 33.33us, 16.67us, 8.33us, 4.17us。 
+
+子载波间隔为15KHz、30KHz、60KHz和120KHz可用于数据传输信道；而15KHz、30KHz、120KHz和240KHz子载波间隔可以用于同步信道。
+NR的一个subframe（1ms）内可以包含多个slot，其配置如下表（这里列出normal CP的情况）： 
+note:   
+NR中RE(Resource element)依然为频域上一个子载波与时域上一个符号的面积。这里我们假设RE是个长方形，随着u增大，长方形的宽加倍，长减半，面积不变。也就是说不同u值下，一个RE所占用的时频域资源面积是不变的。
+NR的一个subframe（1ms）内可以包含多个slot，其配置如下表（这里列出extended CP的情况）：,,,,博主您好，不是说u只能取0,1,2,3,4吗？怎么在表格中出现一个u=5？,

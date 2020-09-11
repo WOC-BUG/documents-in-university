@@ -1,0 +1,83 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en NR/en 帧/q 结构/n ,/w 多数/n 内容/n 引用/v 自/d ：/w 5/m G/en //w NR/en -/w Frame/en Structurern/en 时域/n 帧/q 结构/n rnNR/en 中/f 定义/n 一/m 帧/q (/w radios/en frame/en )/w 的/u 长度/n 为/p 10/m ms/n ，/w 每/r 帧/q 分为/v 同样/b 的/u 两个/n 半/m 帧/q (/w half/en frame/en )/w ，/w 每个/r 半/m 帧/q 5/m ms/n ，/w 每/r 帧/q 中/f 有/v 10/m 个子/n 帧/q (/w subframe/en )/w 。/w rnrn/en 在/d LTE/en 中/f 每个/r 子/k 帧/q 分为/v 2/m 个/q slot/en ，/w 且/c Normal/en CP/n 下/f 每个/r 子/k 帧/q 14/m 个/q symbol/en 。/w ,/w chenweizhen/en 1991/m ,/w https://blog.csdn.net/chenweizhen1991/article/details/89922127/url ,/w 2019-05-07/t ,/w 30/m 次/a 阅读/v ,/w 5/m G/en NR/en 帧/q 结构/n -/w chenweizhen/en 1991/m 的/u 博客/n ,/w 2019年05月07日 15:32:03/t ,/w 多数/n 内容/n 引用/v 自/d ：/w 5/m G/en //w NR/en -/w Frame/en Structure/en
+时域/n 帧/q 结构/n
+NR/n 中/f 定义/n 一/m 帧/q (/w radios/en frame/en )/w 的/u 长度/n 为/p 10/m ms/n ，/w 每/r 帧/q 分为/v 同样/b 的/u 两个/n 半/m 帧/q (/w half/en frame/en )/w ，/w 每个/r 半/m 帧/q 5/m ms/n ，/w 每/r 帧/q 中/f 有/v 10/m 个子/n 帧/q (/w subframe/en )/w 。/w
+
+在/d LTE/en 中/f 每个/r 子/k 帧/q 分为/v 2/m 个/q slot/en ，/w 且/c Normal/en CP/n 下/f 每个/r 子/k 帧/q 14/m 个/q symbol/en 。/w NR/n 中/f 每个/r 子/k 帧/q 的/u slot/en 个数/n 与/c 子/k 载波/n 间隔/n 有关/v ，/w 但是/c 规定/n 每个/r slot/en 包含/v 14/m 个/q symbol/en (/w Normal/en CP/en )/w 。/w
+子/k 载波/n 间隔/n (/w SCS/en )/w
+NR/n 支持/v 5/m 种子/n 载波/n 间隔/n ，/w 6/m GHz/q 以下/f 频段/n 采用/v 15/m kHz/q 、/w 30/m kHz/q 、/w 60/m kHz/q 三/m 种子/n 载波/n 间隔/n ，/w 而/c 6/m GHz/q 主要/b 采用/v 120/m kHz/q 或/c 240/m kHz/q 子/k 载波/n 间隔/n 。/w
+
+subframe/en //w slot/en
+NR/n 以/p 时隙/n slot/en 为/p 基本/a 粒度/n 。/w 正常/a CP/n 情况/n 下/f ，/w 每个/r slot/en 包含/v 14/m 个/q 符号/n ，/w 扩展/v CP/n 情况/n 下/f 每个/r slot/en 含有/v 12/m 个/q 符号/n 。/w
+$/0 \/0 mu/en $/0 是/v NR/n 中新/nz 定义/n 的/u 一个/mq 参数/n ，/w 决定/n 子/k 载波/n 间隔/n 。/w 根据/n $/0 \/0 mu/en $/0 的/u 不同/a ，/w 每个/r 子/k 帧/q 的/u slot/en 个数/n 也/d 会/n 不同/a 。/w
+Nsubframe/en ,/w μ/0 slot/en =/0 2/m uNslotsubframe/en ,/w μ/0 =/0 2/m u/en N/en ^/0 {/0 subframe/en ,/w \/0 mu/en }/0 _/0 {/0 slot/en }/0 =/0 2/m ^/0 {/0 u/en }/0 Nslotsubframe/en ,/w μ/0 ​/0 =/0 2/m u/n
+
+Normal/en CP/n
+
+
+
+
+
+μ/0 μ/0 \/0 mu/en μ/0
+NslotsymbNsymbslot/en N/en ^/0 {/0 slot/en }/0 _/0 {/0 symb/en }/0 Nsymbslot/en ​/0
+`/0 N/en ^/0 {/0 frame/en ,/w \/0 mu/en }/0 _/0 {/0 slot/en }/0 $/0
+Nsubframe/en ,/w μ/0 slotNslotsubframe/en ,/w μ/0 N/en ^/0 {/0 subframe/en ,/w \/0 mu/en }/0 _/0 {/0 slot/en }/0 Nslotsubframe/en ,/w μ/0 ​/0
+
+
+
+
+0/m
+14/m
+10/m
+1/m
+
+
+1/m
+14/m
+20/m
+2/m
+
+
+2/m
+14/m
+40/m
+4/m
+
+
+3/m
+14/m
+80/m
+8/m
+
+
+4/m
+14/m
+160/m
+16/m
+
+
+
+Extern/en CP/n
+
+
+
+
+
+μ/0 μ/0 \/0 mu/en μ/0
+NslotsymbNsymbslot/en N/en ^/0 {/0 slot/en }/0 _/0 {/0 symb/en }/0 Nsymbslot/en ​/0
+Nframe/en ,/w μ/0 slotNslotframe/en ,/w μ/0 N/en ^/0 {/0 frame/en ,/w \/0 mu/en }/0 _/0 {/0 slot/en }/0 Nslotframe/en ,/w μ/0 ​/0
+Nsubframe/en ,/w μ/0 slotNslotsubframe/en ,/w μ/0 N/en ^/0 {/0 subframe/en ,/w \/0 mu/en }/0 _/0 {/0 slot/en }/0 Nslotsubframe/en ,/w μ/0 ​/0
+
+
+
+
+2/m
+14/m
+40/m
+4/m
+
+
+当/ag 子/k 载波/n 间隔/n 变/v 大/a 时/n ，/w 每个/r symbol/en 的/u 时长/n 也/d 变/v 短/a ，/w 相应/v 的/u slot/en 的/u 长度/n 也/d 随之/d 变小/v 。/w 15/m kHz/q 子/k 载波/n 时/n ，/w slot/en 为/p 1/m ms/n ；/w 30/m kHz/q 子/k 载波/n 时/n ，/w slot/en 为/p 0.5/m ms/n 。/w
+
+Slot/en Format/en
+3/m GPP/en 38.211/m 定义/n 了/dg 许多/mq 不同/a 的/u 时隙/n 格式/n 。/w 这种/r 概念/n 与/c 传统/a 的/u LTE/en TDD/n 子/k 帧/q 配置/n 相识/v 。/w 在/d NR/n 中/f 一个/mq slot/en 中/f 可以/a 同时/c 包含/v 上下行/j 业务/n 。/w 其中/r D/n 为/p 下行/v 符号/n ，/w U/n 为/p 上行/v 符号/n ，/w X/m 为/p 灵活/a 符号/n 。/w ,/w ,/w ,/w ,/w ,/w

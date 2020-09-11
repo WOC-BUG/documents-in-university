@@ -1,0 +1,78 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_33851604/article/details/90934354/url ,/w 历史/n n/en 1948年/t ，/w Walter/en Pitts/en 和/c Warren/en McCulloch/en 发表/v 了/dg 《/w 神经/n 活动/n 中/f 思想/n 内在/b 性/k 的/u 逻辑/n 演算/v （/w A/en Logical/en Calculus/en of/en Ideas/en Immanent/en in/en Nervous/en Activity/en ）/w 》/w ，/w 最早/d 描述/v 了/dg 神经网络/n n/en 1950年/t ，/w 阿/h 兰/ng ·/w 图灵/n （/w Alan/en Turing/en ）/w 发表/v 《/w Computing/en Machinery/en and/en I/en .../m ,/w https://blog.csdn.net/weixin_33851604/article/details/90934354/url ,/w ,/w weixin/en _/0 33851604/m ,/w 2018-10-06/t ,/w //blog.csdn.net/weixin_33851604/article/details/90934354/url ,/w 3/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 33851604/m 的/u 博客/n ,/w 2018年10月06日 13:28:00/t ,/w 转/q 人工智能/n
+
+
+
+2018年10月06日 13:28:00/t
+weixin/en _/0 33851604/m
+阅读/v 数/m ：/w 5/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+历史/n
+1948年/t ，/w Walter/en Pitts/en 和/c Warren/en McCulloch/en 发表/v 了/dg 《/w 神经/n 活动/n 中/f 思想/n 内在/b 性/k 的/u 逻辑/n 演算/v （/w A/en Logical/en Calculus/en of/en Ideas/en Immanent/en in/en Nervous/en Activity/en ）/w 》/w ，/w 最早/d 描述/v 了/dg 神经网络/n
+1950年/t ，/w 阿/h 兰/ng ·/w 图灵/n （/w Alan/en Turing/en ）/w 发表/v 《/w Computing/en Machinery/en and/en Intelligence/en （/w 计算机/np 器/k 与/c 智能/n ）/w 》/w ，/w 提出/v 了/dg 图灵/n 测试/v
+1951年/t ，/w 马文/nr ·/w 闵/ng 斯基/nz 与/c Dean/en Edmonds/en 建造/v 了/dg 第一/m 台/n 神经网络/n 机/np SNARC/en
+1955年/t ，/w 美国/ns 达特茅斯/nz 学院/nc 举行/v 了/dg 历史/n 上/f 第一次/n 人工智能/n 研讨会/n ，/w 约翰/nr ·/w 麦卡锡/nr 首次/mq 提出/v 了/dg 人工智能/n （/w Artificial/en Intelligence/en ，/w AI/n ）/w 概念/n
+1959年/t ，/w 阿/h 瑟/ng ·/w 萨缪尔/nr （/w Arthur/en Samuel/en ）/w 创造/n 了/dg 机器/np 学习/v （/w Machine/en Learning/en ，/w ML/q ）/w 一/m 词/n
+1965年/t ，/w 休伯特/nr ·/w 德/jns 雷福斯/nr 发表/v 了/dg 《/w 人工智能/n 与/c 炼金术/n 》/w 的/u 研究报告/n ，/w 对/a 人工智能/n 研究/v 提出/v 了/dg 重大/a 理论/n 挑战/v
+1993年/t ，/w 恩斯特/nr ·/w 迪克曼/nr 斯/r （/w Ernst/en Dickmanns/en ）/w 团队/n 改装/v 了/dg 一/m 辆/q 奔驰/v S/en 500/m 轿车/np ，/w 在/d 普通/a 交通/n 环境/n 下/f 自动/b 驾驶/v 了/dg 超过/v 1000/m 公里/q 的/u 距离/n
+1997年/t ，/w IBM/nq 研发/v 的/u 深蓝/b （/w Deep/en Blue/en ）/w 成为/v 第一/m 个/q 击败/v 人类/n 象棋/n 冠军/n 的/u 电脑/np 程序/n
+2006年/t ，/w Geoffrey/en Hinton/en 发表/v 《/w reducing/en the/en dimensionality/en of/en data/en with/en neural/en networks/en 》/w ，/w 提出/v 深度/n 学习/v （/w Deep/en learning/en ，/w DL/n ）/w
+2016年/t ，/w 谷歌/nt DeepMind/en 研发/v 的/u AlphaGo/en 在/d 围棋人机大战/nz 中/f 击败/v 韩国/ns 职业/n 九段/n 棋手/n 李世/nr 乭/0
+机器/np 学习/v
+定义/n ：/w 输入/v 历史数据/n （/w 训练/v 数据/n ）/w ，/w 输出/v 能/ng 拟合/v 历史数据/n 的/u 模型/n （/w 函数/n ）/w ，/w 用来/v 预测/v 新/a 的/u 入/ng 参/n 对应/v 的/u 结果/c
+训练/v ：/w 给/v 机器/np 学习/v 算法/n 输入/v 一/m 条数/n 据/ng ，/w 模型/n 即/c 被/ng 调整/v ，/w 以/p 更好/d 拟合/v 所以/c 数据/n
+有/v 监督/v 学习/v ：/w 每/r 条/ng 训练/v 数据/n 有/v 结果/c 信息/n ，/w 例如/v 分类/v 算法/n （/w 例/n ：/w 垃圾邮件/ln 识别/v ）/w ，/w 回归/v 算法/n
+无/v 监督/v 学习/v ：/w 训练/v 数据/n 没有/d 结果/c 信息/n ，/w 例如/v 聚/v 类/n 算法/n （/w 在/d 没有/d 已知/v 分类/v 的/u 情况/n 下/f 进行/v 分类/v ）/w ，/w 关联/v 规则/a 算法/n （/w 例/n ：/w 啤酒/n 纸/n 尿布/n 案例/n ）/w
+判别/v 模型/n ：/w 一个/mq 入/ng 参/n 只/bg 给出/v 一个/mq 结果/c
+生成/v 模型/n ：/w 一个/mq 入/ng 参/n 给出/v 多个/n 结果/c 的/u 概率/n
+分类/v 算法/n ：/w CART/en （/w 1984/m ）/w ，/w C/en 4.5/m （/w 1993/m ）/w ，/w SVM/en （/w 1995/m ）/w ，/w kNN/en （/w 1996/m ）/w ，/w AdaBoost/en （/w 1997/m ）/w 、/w Naive/en Bayes/en （/w 2001/m ）/w
+聚/v 类/n 算法/n ：/w K/en -/w Means/en （/w 1967/m ）/w
+关联/v 分析/v 算法/n ：/w Apriori/en （/w 1994/m ）/w 、/w FP/en -/w Growth/en （/w 2000/m ）/w
+步骤/n
+1/m 、/w 特征/n 工程/n ：/w 确定/a 入/ng 参/n 和/c 结果/c 都/d 有/v 哪些/r ，/w 入/ng 参/n 从/p 原始/a 数据/n 提取/v 转换/v 而/c 来/u
+2/m 、/w 定义/n 模型/n ：/w 预先/d 定义/n 一个/mq 模型/n ，/w f/en (/w x/en )/w =/0 ax/en ，/w x/m 是/v 入/ng 参/n ，/w a/b 是/v 系数/n
+3/m 、/w 定义/n 损失/n 函数/n ：/w 用来/v 衡量/v 预测值/n 与/c 真实/a 值/a 之间/f 的/u 差距/n ，/w f/en (/w y/en ,/w y/en 0/m )/w =/0 y/en -/w y/en 0/m
+4/m 、/w 定义/n 优化/v 算法/n ：/w 用来/v 调整/v 系数/n ，/w 以/p 进行/v 新/a 一轮/nz 训练/v ，/w f/en (/w a/en )/w =/0 a/en 0/m +/0 1/m
+5/m 、/w 输入/v 数据/n ，/w 进行/v 训练/v
+6/m 、/w 效果/n 评估/n ，/w 例如/v 正确率/n ，/w 平均/a 方差/n
+重复/v 1/m -/w 6/m ，/w 以/p 得到/v 更好/d 的/u 模型/n 和/c 系数/n
+人工/b 神经网络/n
+人工/b 神经网络/n ：/w 一/m 种/ng 有神/a 经网/nz 络/ng 特征/n 的/u 机器/np 学习方法/n
+感知/v 器/k
+感知/v 器/k （/w 一/m 种/ng 简单/a 的/u 神经网络/n 结构/n ）/w ：/w 神经元/n 的/u 多个/n 树突/n 的/u 输入/v （/w 入/ng 参/n ）/w 分别/d 为/p x/en 1/m 、/w x/en 2/m 、/w x/en 3/m ，/w 对应/v 的/u 权重/n （/w 系数/n ）/w 分别/d 为/p w/en 1/m 、/w w/en 2/m 、/w w/en 3/m ；/w 得到/v 点/m 积/n z/en =/0 w/en 1/m x/en 1/m +/0 w/en 2/m x/en 2/m +/0 w/en 3/m x/en 3/m ；/w z/en 经过/p 激活/v 函数/n ，/w 转换/v 为/p 1/m 或者/c -/w 1/m ；/w 输出/v 到/ng 轴突/n
+激活/v 函数/n ：/w f/en (/w z/en )/w =/0 z/en >/w 阈值/n ?/w 1:-1/t
+步调/n 函数/n ：/w 只/bg 输出/v 两个/n 固定/a 值/a 的/u 函数/n
+感知/v 器/k 分类/v 算法/n 训练/v 步骤/n
+1/m 、/w 特征/n 工程/n
+2/m 、/w 权重/n 全/a 设/v 为/p 0/m
+3/m 、/w 输入/v 一/m 条数/n 据/ng ，/w 数据/n 的/u 结果/c 为/p y/en 0/m ，/w 得到/v 输出/v 结果/c y/en
+4/m 、/w 执行权/n 重/a 更新/v 算法/n ，/w w/en 1/m =/0 w/en 1/m +/0 η/0 (/w y/en -/w y/en 0/m )/w x/en 1/m ，/w 其中/r η/0 为人/v 定/d 的/u ，/w 称为/v 学习/v 率/ag
+重复/v 3/m -/w 4/m ，/w 以/p 得到/v 更好/d 的/u 权重/n 系数/n
+单层/n 神经网络/n
+中间层/n 的/u 多个/n 神经元/n 处理/v 同一/b 组/n 数据/n ，/w 这些/r 神经元/n 的/u 输出/v 又/d 作为/n 中枢神经/ln 元/q 的/u 输入/v ，/w 最后/f 得到/v 所有/b 入/ng 参/n 的/u 权重/n 和/c 中间层/n 神经元/n 输出/v 的/u 权重/n
+深度/n 神经网络/n （/w 深度/n 学习/v ）/w
+多个/n 中间层/n
+阿里/ns 云/n
+智能/n 媒体/n 管理/v ：/w 图文/n 识别/v
+智能/n 语音/n 交互/b ：/w 录音/v 文件/n 识别/v 、/w 实时/d 语音/n 转写/v 、/w 一句话/n 识别/v 、/w 语音/n 合成/v
+图像/n 搜索/n ：/w 以图/v 搜/v 图/n
+人脸识别/lv Face/en Recognition/en
+机器翻译/ln
+图像/n 识别/v
+智能/n 对话/v 分析/v
+云客服/n ：/w 智能/n 客服/n
+自然语言/n 处理/v ：/w 多语/nz 言/ng 分词/n 、/w 词性/n 标注/n 、/w 命名/v 实体/n （/w 识别/v 文中/s 的/u 实体/n 词/n ）/w 、/w 情感/n 分析/v 、/w 中心词/n 提取/v 、/w 智能/n 文本/n 分类/v 、/w 文本/n 信息/n 抽取/v 、/w 商品/n 评价/n 解析/v
+印刷/v 文字/n 识别/v ：/w 通用型/nz 卡/n 证/ng 类/n 、/w 汽车/np 相关/v 识别/v 、/w 行业/n 票据/n 识别/v 、/w 资产/n 类/n 识别/v 、/w 通用/v 文字/n 识别/v 、/w 行业/n 文档/n 类/n 识别/v 、/w 视频/n 类/n 文字/n 识别/v 、/w 自定/nz 义/ng 模板/n 识别/v
+内容/n 安全/a ：/w 图片/n 鉴/ng 黄/a 、/w 图片/n 涉/vg 政/ng 暴恐/b 识别/v 、/w 图片/n LOGO/en 商标/n 检查/v 、/w 图片/n 垃圾/n 广告/n 识别/v 、/w 图片/n 不良/a 场景/n 识别/v 、/w 图片/n 风险/n 人物/n 识别/v 、/w 视频/n 风险/n 内容/n 识别/v 、/w 文本/n 反/b 垃圾/n 识别/v 、/w 语音/n 垃圾/n 识别/v

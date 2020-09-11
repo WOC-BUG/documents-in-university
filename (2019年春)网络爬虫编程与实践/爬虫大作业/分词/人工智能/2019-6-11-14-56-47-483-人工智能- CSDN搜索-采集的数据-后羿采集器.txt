@@ -1,0 +1,98 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n 常见/a 算法/n 简介/n -/w nfzhlk/en 的/u 专栏/n -/w CSDN/en 博客/n ,/w http://blog.csdn.net/nfzhlk/article/details/82725769/url ,/w ,/w ,/w http://blog.csdn.net/nfzhlk/article/details/82725769/url ,/w ,/w ,/w ,/w ,/w 人工智能/n 常见/a 算法/n 简介/n -/w nfzhlk/en 的/u 专栏/n ,/w 2018年09月16日 16:39:52/t ,/w 原/b 人工智能/n 常见/a 算法/n 简介/n
+
+
+
+2018年09月16日 16:39:52/t
+nfzhlk/en
+阅读/v 数/m ：16031/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 转载/v 请/v 注明/v 出处/n ，/w 谢谢/v ！/w https://blog.csdn.net/nfzhlk/article/details/82725769/url
+
+
+
+
+
+
+人工智能/n 的/u 三大/n 基石/n —/w 算法/n 、/w 数据/n 和/c 计算/v 能力/n ，/w 算法/n 作为/n 其中/r 之一/r ，/w 是/v 非常/d/mopo(d) 重要/a 的/u ，/w 那么/c 人工智能/n 都/d 会/n 涉及/v 哪些/r 算法/n 呢/ng ？/w 不同/a 算法/n 适用/a 于/ng 哪些/r 场景/n 呢/ng ？/w
+一/m 、/w 按照/p 模型/n 训练/v 方式/n 不同/a 可以/a 分为/v 监督/v 学习/v （/w Supervised/en Learning/en ）/w ，/w 无/v 监督/v 学习/v （/w Unsupervised/en Learning/en ）/w 、/w 半/m 监督/v 学习/v （/w Semi/en -/w supervised/en Learning/en ）/w 和强化/nr 学习/v （/w Reinforcement/en Learning/en ）/w 四大/j 类/n 。/w
+常见/a 的/u 监督/v 学习/v 算法/n 包含/v 以下/f 几/m 类/n ：/w
+（/w 1/m ）/w 人工/b 神经网络/n （/w Artificial/en Neural/en Network/en ）/w 类/n ：/w 反向/b 传播/v （/w Backpropagation/en ）/w 、/w 波尔/nr 兹/ng 曼/ag 机/np （/w Boltzmann/en Machine/en ）/w 、/w 卷积/n 神经网络/n （/w Convolutional/en Neural/en Network/en ）/w 、/w Hopfield/en 网络/n （/w hopfield/en Network/en ）/w 、/w 多层/n 感知/v 器/k （/w Multilyer/en Perceptron/en ）/w 、/w 径向/n 基/ng 函数/n 网络/n （/w Radial/en Basis/en Function/en Network/en ，/w RBFN/en ）/w 、/w 受限/v 波尔/nr 兹/ng 曼/ag 机/np （/w Restricted/en Boltzmann/en Machine/en ）/w 、/w 回归/v 神经网络/n （/w Recurrent/en Neural/en Network/en ，/w RNN/en ）/w 、/w 自/d 组织/n 映射/v （/w Self/en -/w organizing/en Map/en ，/w SOM/en ）/w 、/w 尖峰/n 神经网络/n （/w Spiking/en Neural/en Network/en ）/w 等/ng 。/w
+（/w 2/m ）/w 类/n （/w Bayesin/en ）/w ：/w 朴素/a （/w Naive/en Bayes/en ）/w 、/w 高斯贝叶斯/nr （/w Gaussian/en Naive/en Bayes/en ）/w 、/w 多/a 项/ng 朴素/a （/w Multinomial/en Naive/en Bayes/en ）/w 、/w 平均/a -/w 依赖性/n 评估/n （/w Averaged/en One/en -/w Dependence/en Estimators/en ，/w AODE/en ）/w
+贝/ng 叶/ag 斯/r 信念/n 网络/n （/w Bayesian/en Belief/en Network/en ，/w BBN/n ）/w 、/w 贝/ng 叶斯/nr 网络/n （/w Bayesian/en Network/en ，/w BN/en ）/w 等/ng 。/w
+（/w 3/m ）/w 决策/n 树/n （/w Decision/en Tree/en ）/w 类/n ：/w 分类/v 和/c 回归/v 树/n （/w Classification/en and/en Regression/en Tree/en ，/w CART/en ）/w 、/w 迭代/v Dichotomiser/en 3/m （/w Iterative/en Dichotomiser/en 3/m ，/w ID/en 3/m ）/w ,/w C/en 4.5/m 算法/n （/w C/en 4.5/m Algorithm/en ）/w 、/w C/en 5.0/m 算法/n （/w C/en 5.0/m Algorithm/en ）/w 、/w 卡/n 方/a 自动/b 交互/b 检测/v （/w Chi/en -/w squared/en Automatic/en Interaction/en Detection/en ，/w CHAID/en ）/w 、/w 决策/n 残/a 端/ag （/w Decision/en Stump/en ）/w 、/w ID/en 3/m 算法/n （/w ID/en 3/m Algorithm/en ）/w 、/w 随机/b 森林/n （/w Random/en Forest/en ）/w 、/w SLIQ/en （/w Supervised/en Learning/en in/en Quest/en ）/w 等/ng 。/w
+（/w 4/m ）/w 线性/n 分类/v 器/k （/w Linear/en Classifier/en ）/w 类/n ：/w Fisher/en 的/u 线性/n 判别/v （/w Fisher/en ’/w s/en Linear/en Discriminant/en ）/w
+线性/n 回归/v （/w Linear/en Regression/en ）/w 、/w 逻辑/n 回归/v （/w Logistic/en Regression/en ）/w 、/w 多/a 项/ng 逻辑/n 回归/v （/w Multionmial/en Logistic/en Regression/en ）/w 、/w 朴素/a 贝/ng 叶斯/nr 分类/v 器/k （/w Naive/en Bayes/en Classifier/en ）/w 、/w 感知/v （/w Perception/en ）/w 、/w 支持/v 向量/n 机/np （/w Support/en Vector/en Machine/en ）/w 等/ng 。/w
+常见/a 的/u 无/v 监督/v 学习类/n 算法/n 包括/v ：/w
+（/w 1/m ）/w 人工/b 神经网络/n （/w Artificial/en Neural/en Network/en ）/w 类/n ：/w 生成/v 对抗/v 网络/n （/w Generative/en Adversarial/en Networks/en ，/w GAN/en ）/w ，/w 前馈/v 神经网络/n （/w Feedforward/en Neural/en Network/en ）/w 、/w 逻辑学/n 习/ng 机/np （/w Logic/en Learning/en Machine/en ）/w 、/w 自/d 组织/n 映射/v （/w Self/en -/w organizing/en Map/en ）/w 等/ng 。/w
+（/w 2/m ）/w 关联/v 规则/a 学习/v （/w Association/en Rule/en Learning/en ）/w 类/n ：/w 先验/n 算法/n （/w Apriori/en Algorithm/en ）/w 、/w Eclat/en 算法/n （/w Eclat/en Algorithm/en ）/w 、/w FP/en -/w Growth/en 算法/n 等/ng 。/w
+（/w 3/m ）/w 分层/v 聚/v 类/n 算法/n （/w Hierarchical/en Clustering/en ）/w ：/w 单连锁聚/nr 类/n （/w Single/en -/w linkage/en Clustering/en ）/w ，/w 概念/n 聚/v 类/n （/w Conceptual/en Clustering/en ）/w 等/ng 。/w
+（/w 4/m ）/w 聚/v 类/n 分析/v （/w Cluster/en analysis/en ）/w ：/w BIRCH/en 算法/n 、/w DBSCAN/en 算法/n ，/w 期望/n 最大化/v （/w Expectation/en -/w maximization/en ，/w EM/n ）/w 、/w 模/ng 煳/a 聚/v 类/n （/w Fuzzy/en Clustering/en ）/w 、/w K/en -/w means/en 算法/n 、/w K/n 均值/n 聚/v 类/n （/w K/en -/w means/en Clustering/en ）/w 、/w K/en -/w medians/en 聚/v 类/n 、/w 均值/n 漂移/v 算法/n （/w Mean/en -/w shift/en ）/w 、/w OPTICS/en 算法/n 等/ng 。/w
+（/w 5/m ）/w 异常/a 检测/v （/w Anomaly/en detection/en ）/w 类/n ：/w K/n 最/d 邻近/v （/w K/en -/w nearest/en Neighbor/en ，/w KNN/en ）/w 算法/n ，/w 局部/n 异常/a 因子/n 算法/n （/w Local/en Outlier/en Factor/en ，/w LOF/en ）/w 等/ng 。/w
+常见/a 的/u 半/m 监督/v 学习类/n 算法/n 包含/v ：/w 生成/v 模型/n （/w Generative/en Models/en ）/w 、/w 低/a 密度/n 分离/v （/w Low/en -/w density/en Separation/en ）/w 、/w 基于/p 图形/n 的/u 方法/n （/w Graph/en -/w based/en Methods/en ）/w 、/w 联合/v 训练/v （/w Co/en -/w training/en ）/w 等/ng 。/w
+常见/a 的/u 强化/v 学习类/n 算法/n 包含/v ：/w Q/en 学习/v （/w Q/en -/w learning/en ）/w 、/w 状态/n -/w 行动/v -/w 奖励/v -/w 状态/n -/w 行动/v （/w State/en -/w Action/en -/w Reward/en -/w State/en -/w Action/en ，/w SARSA/en ）/w 、/w DQN/en （/w Deep/en Q/en Network/en ）/w 、/w 策略/n 梯度/n 算法/n （/w Policy/en Gradients/en ）/w 、/w 基于/p 模型/n 强化/v 学习/v （/w Model/en Based/en RL/n ）/w 、/w 时序/n 差分/n 学习/v （/w Temporal/en Different/en Learning/en ）/w 等/ng 。/w
+常见/a 的/u 深度/n 学习类/n 算法/n 包含/v ：/w 深度/n 信念/n 网络/n （/w Deep/en Belief/en Machines/en ）/w 、/w 深度/n 卷积/n 神经网络/n （/w Deep/en Convolutional/en Neural/en Networks/en ）/w 、/w 深度/n 递归/nz 神经网络/n （/w Deep/en Recurrent/en Neural/en Network/en ）/w 、/w 分层/v 时间/n 记忆/n （/w Hierarchical/en Temporal/en Memory/en ，/w HTM/en ）/w 、/w 深度/n 波尔/nr 兹/ng 曼/ag 机/np （/w Deep/en Boltzmann/en Machine/en ，/w DBM/en ）/w 、/w 栈/ng 式/k 自动/b 编码器/n （/w Stacked/en Autoencoder/en ）/w 、/w 生成/v 对抗/v 网络/n （/w Generative/en Adversarial/en Networks/en ）/w 等/ng 。/w
+二/m 、/w 按照/p 解决/v 任务/n 的/u 不同/a 来/u 分类/v ，/w 粗略/a 可以/a 分为/v 二分/v 类/n 算法/n （/w Two/en -/w class/en Classification/en ）/w 、/w 多分/mq 类/n 算法/n （/w Multi/en -/w class/en Classification/en ）/w 、/w 回归/v 算法/n （/w Regression/en ）/w 、/w 聚/v 类/n 算法/n （/w Clustering/en ）/w 和/c 异常/a 检测/v （/w Anomaly/en Detection/en ）/w 五/m 种/ng 。/w
+1.二分/t 类/n （/w Two/en -/w class/en Classification/en ）/w
+（/w 1/m ）/w 二分/v 类/n 支持/v 向量/n 机/np （/w Two/en -/w class/en SVM/en ）/w ：/w 适用/a 于/ng 数据/n 特征/n 较/d 多/a 、/w 线性/n 模型/n 的/u 场景/n 。/w
+（/w 2/m ）/w 二分/v 类/n 平均/a 感知/v 器/k （/w Two/en -/w class/en Average/en Perceptron/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 线性/n 模型/n 的/u 场景/n 。/w
+（/w 3/m ）/w 二分/v 类/n 逻辑/n 回归/v （/w Two/en -/w class/en Logistic/en Regression/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 线性/n 模型/n 的/u 场景/n 。/w
+（/w 4/m ）/w 二分/v 类/n 点/m 机/np （/w Two/en -/w class/en Bayes/en Point/en Machine/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 线性/n 模型/n 的/u 场景/n 。/w （/w 5/m ）/w 二分/v 类/n 决策/n 森林/n （/w Two/en -/w class/en Decision/en Forest/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 精准/a 的/u 场景/n 。/w
+（/w 6/m ）/w 二分/v 类/n 提升/v 决策/n 树/n （/w Two/en -/w class/en Boosted/en Decision/en Tree/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 精准度/n 高/a 、/w 内存/n 占用量/n 大/a 的/u 场景/n
+（/w 7/m ）/w 二分/v 类/n 决策/n 丛林/n （/w Two/en -/w class/en Decision/en Jungle/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 精确度/n 高/a 、/w 内存/n 占用量/n 小/a 的/u 场景/n 。/w
+（/w 8/m ）/w 二分/v 类/n 局部/n 深度/n 支持/v 向量/n 机/np （/w Two/en -/w class/en Locally/en Deep/en SVM/en ）/w ：/w 适用/a 于/ng 数据/n 特征/n 较/d 多/a 的/u 场景/n 。/w
+（/w 9/m ）/w 二分/v 类/n 神经网络/n （/w Two/en -/w class/en Neural/en Network/en ）/w ：/w 适用/a 于/ng 精准度/n 高/a 、/w 训练时间/n 较/d 长/a 的/u 场景/n 。/w
+解决/v 多分/mq 类/n 问题/n 通常/b 适用/a 三/m 种/ng 解决方案/n ：/w 第一/m 种/ng ，/w 从/p 数据/n 集/n 和/c 适用/a 方法/n 入手/v ，/w 利用/v 二分/v 类/n 器/k 解决/v 多分/mq 类/n 问题/n ；/w 第二/m 种/ng ，/w 直接/a 使用/v 具备/v 多分/mq 类/n 能力/n 的/u 多分/mq 类/n 器/k ；/w 第三/m 种/ng ，/w 将/d 二分/v 类/n 器/k 改进/v 成为/v 多分/mq 类/n 器/k 今儿/t 解决/v 多分/mq 类/n 问题/n 。/w
+常用/n 的/u 算法/n ：/w
+（/w 1/m ）/w 多分/mq 类/n 逻辑/n 回归/v （/w Multiclass/en Logistic/en Regression/en ）/w ：/w 适用/a 训练时间/n 短/a 、/w 线性/n 模型/n 的/u 场景/n 。/w
+（/w 2/m ）/w 多分/mq 类/n 神经网络/n （/w Multiclass/en Neural/en Network/en ）/w ：/w 适用/a 于/ng 精准度/n 高/a 、/w 训练时间/n 较/d 长/a 的/u 场景/n 。/w
+（/w 3/m ）/w 多分/mq 类/n 决策/n 森林/n （/w Multiclass/en Decision/en Forest/en ）/w ：/w 适用/a 于/ng 精准度/n 高/a ，/w 训练时间/n 短/a 的/u 场景/n 。/w
+（/w 4/m ）/w 多分/mq 类/n 决策/n 丛林/n （/w Multiclass/en Decision/en Jungle/en ）/w ：/w 适用/a 于/ng 精准度/n 高/a ，/w 内存/n 占用/v 较/d 小/a 的/u 场景/n 。/w
+（/w 5/m ）/w “/w 一对/mq 多/a ”/w 多分/mq 类/n （/w One/en -/w vs/en -/w all/en Multiclass/en ）/w ：/w 取决于/v 二分/v 类/n 器/k 效果/n 。/w
+回归/v
+回归/v 问题/n 通常/b 被/ng 用来/v 预测/v 具体/a 的/u 数值/n 而/c 非分/b 类/n 。/w 除了/p 返回/v 的/u 结果/c 不同/a ，/w 其他方/n 法/k 与/c 分类/v 问题/n 类似/a 。/w 我们/r 将/d 定量/n 输出/v ，/w 或者/c 连续/a 变量/n 预测/v 称为/v 回归/v ；/w 将/d 定性/v 输出/v ，/w 或者/c 离散/b 变量/n 预测/v 称为/v 分类/v 。/w 长/a 巾/ng 的/u 算法/n 有/v ：/w
+（/w 1/m ）/w 排序/v 回归/v （/w Ordinal/en Regression/en ）/w ：/w 适用/a 于/ng 对数/n 据/ng 进行/v 分类/v 排序/v 的/u 场景/n 。/w
+（/w 2/m ）/w 泊松/ns 回归/v （/w Poission/en Regression/en ）/w ：/w 适用/a 于/ng 预测/v 事件/n 次数/n 的/u 场景/n 。/w
+（/w 3/m ）/w 快速/b 森林/n 分/b 位数/n 回归/v （/w Fast/en Forest/en Quantile/en Regression/en ）/w ：/w 适用/a 于/ng 预测/v 分布/v 的/u 场景/n 。/w
+（/w 4/m ）/w 线性/n 回归/v （/w Linear/en Regression/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 线性/n 模型/n 的/u 场景/n 。/w
+（/w 5/m ）/w 贝/ng 叶斯/nr 线性/n 回归/v （/w Bayesian/en Linear/en Regression/en ）/w ：/w 适用/a 于/ng 线性/n 模型/n ，/w 训练/v 数据/n 量/n 较/d 少/a 的/u 场景/n 。/w
+（/w 6/m ）/w 神经网络/n 回归/v （/w Neural/en Network/en Regression/en ）/w ：/w 适用/a 于/ng 精准度/n 高/a 、/w 训练时间/n 较/d 长/a 的/u 场景/n 。/w
+（/w 7/m ）/w 决策/n 森林/n 回归/v （/w Decision/en Forest/en Regression/en ）/w ：/w 适用/a 于/ng 精准度/n 高/a 、/w 训练时间/n 短/a 的/u 场景/n 。/w
+（/w 8/m ）/w 提升/v 决策/n 树/n 回归/v （/w Boosted/en Decision/en Tree/en Regression/en ）/w ：/w 适用/a 于/ng 精确度/n 高/a 、/w 训练时间/n 短/a 、/w 内存/n 占用/v 较大/a 的/u 场景/n 。/w
+聚/v 类/n
+聚/v 类/n 的/u 目标/n 是/v 发现/v 数据/n 的/u 潜在/b 规律/n 和/c 结构/n 。/w 聚/v 类/n 通常/b 被/ng 用做/v 描述/v 和/c 衡量/v 不同/a 数据源/n 间/f 的/u 相似性/n ，/w 并/c 把/p 数据源/n 分类/v 到/ng 不同/a 的/u 簇/ng 中/f 。/w
+（/w 1/m ）/w 层次/n 聚/v 类/n （/w Hierarchical/en Clustering/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 、/w 大数据/n 量/n 的/u 场景/n 。/w
+（/w 2/m ）/w K/en -/w means/en 算法/n ：/w 适用/a 于/ng 精准度/n 高/a 、/w 训练时间/n 短/a 的/u 场景/n 。/w
+（/w 3/m ）/w 模/ng 煳/a 聚/v 类/n FCM/en 算法/n （/w Fuzzy/en C/en -/w means/en ，/w FCM/en ）/w ：/w 适用/a 于/ng 精确度/n 高/a 、/w 训练时间/n 短/a 的/u 场景/n 。/w
+（/w 4/m ）/w SOM/en 神经网络/n （/w Self/en -/w organizing/en Feature/en Map/en ，/w SOM/en ）/w ：/w 适用/a 于运/nr 行时/v 间/f 较/d 长/a 的/u 场景/n 。/w
+异常/a 检测/v
+异常/a 检测/v 是/v 指/ng 对数/n 据/ng 中/f 存在/v 的/u 不正/a 常/ag 或/c 非典/n 型/k 的/u 分体/v 进行/v 检测/v 和/c 标志/n ，/w 有时/d 也/d 称为/v 偏差/n 检测/v 。/w
+异常/a 检测/v 看起来/v 和监督/nr 学习/v 问题/n 非常/b 相似/a ，/w 都/d 是/v 分类/v 问题/n 。/w 都/d 是/v 对/a 样本/n 的/u 标签/n 进行/v 预测/v 和/c 判断/n ，/w 但是/c 实际上/d 两者/r 的/u 区别/n 非常/b 大/a ，/w 因为/c 异常/a 检测/v 中/f 的/u 正样/n 本/d （/w 异常/a 点/m ）/w 非常/b 小/a 。/w 常用/n 的/u 算法/n 有/v ：/w
+（/w 1/m ）/w 一分/t 类/n 支持/v 向量/n 机/np （/w One/en -/w class/en SVM/en ）/w ：/w 适用/a 于/ng 数据/n 特征/n 较/d 多/a 的/u 场景/n 。/w
+（/w 2/m ）/w 基于/p PCA/n 的/u 异常/a 检测/v （/w PCA/en -/w based/en Anomaly/en Detection/en ）/w ：/w 适用/a 于/ng 训练时间/n 短/a 的/u 场景/n 。/w
+常见/a 的/u 迁移/v 学习类/n 算法/n 包含/v ：/w 归纳/v 式/k 迁移/v 学习/v （/w Inductive/en Transfer/en Learning/en ）/w 、/w 直/a 推/v 式/k 迁移/v 学习/v （/w Transductive/en Transfer/en Learning/en ）/w 、/w 无/v 监督/v 式/k 迁移/v 学习/v （/w Unsupervised/en Transfer/en Learning/en ）/w 、/w 传递/v 式/k 迁移/v 学习/v （/w Transitive/en Transfer/en Learning/en ）/w 等/ng 。/w
+算法/n 的/u 适用/a 场景/n ：/w
+需要/n 考虑/v 的/u 因素/n 有/v ：/w
+（/w 1/m ）/w 数据/n 量/n 的/u 大小/n 、/w 数据/n 质量/n 和数/n 据/ng 本身/r 的/u 特点/n
+（/w 2/m ）/w 机器/np 学习/v 要/v 解决/v 的/u 具体/a 业务/n 场景/n 中/f 问题/n 的/u 本质/n 是/v 什么/r ？/w
+（/w 3/m ）/w 可以/a 接受/v 的/u 计算/v 时间/n 是/v 什么/r ？/w
+（/w 4/m ）/w 算法/n 精度/n 要求/n 有/v 多/a 高/a ？/w
+
+有/v 了/dg 算法/n ，/w 有/v 了/dg 被/ng 训练/v 的/u 数据/n （/w 经过/p 预处理/v 过/d 的/u 数据/n ）/w ，/w 那么/c 多次/m 训练/v （/w 考验/v 计算/v 能力/n 的/u 时候/n 到/ng 了/dg ）/w 后/f ，/w 经过/p 模型/n 评估/n 和/c 算法/n 人员/n 调/n 参/n 后/f ，/w 会/n 获得/v 训练/v 模型/n 。/w 当/ag 新/a 的/u 数据/n 输入/v 后/f ，/w 那么/c 我们/r 的/u 训练/v 模型/n 就/d 会/n 给出/v 结果/c 。/w 业务/n 要求/n 的/u 最/d 基础/n 的/u 功能/n 就算/d 实现/v 了/dg 。/w
+互联网/n 产品/n 自动化/v 运/ng 维/jns 是/v 趋势/n ，/w 因为/c 互联网/n 需要/n 快速/b 响应/v 的/u 特性/n ，/w 决定/n 了/dg 我们/r 对/a 问题/n 要/v 快速/b 响应/v 、/w 快速/b 修复/v 。/w 人工智能/n 产品/n 也/d 不/d 例外/n 。/w AI/en +/0 自动化/v 运/ng 维/jns 是/v 如何/r 工作/n 的/u 呢/ng ？/w
+
+参考/v ：/w 《/w 人工智能/n 产品/n 经理/nx –/0 AI/n 时代/n PM/n 修炼/v 手册/n 》/w
+作者/n ：/w 张竞宇/nr

@@ -1,0 +1,22 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/PTB_JF/article/details/81166206/url ,/w 由/p 三/m 种/ng 状态/n 对应/v -/w 1/m ，/w 0/m ，/w 1三/m 进制/n 组成/v ，/w 人工智能/n 有/v 三/m 种/ng 状态/n ，/w 分别/d 是/v 真/a （/w 1/m ）/w ，/w 假/a （/w 0/m ）/w ，/w 未知/v （/w -/w 1/m ）/w ，/w 人工智能/n 应/ng 相仿/v 人类/n ，/w 对/a 未知/v 的/u 事物/n 就/d 行/a 机器/np 学习/v 和/c 深度/n 学习/v 。/w nn/en 它/r 的/u 核心/n 在于/v 与/c 人类/n 较/d 接近/v 的/u 逻辑/n 思考/v 方式/n ，/w 通过/p 算法/n 使/ng 的/u 机器/np 有/v 思考/v 能力/n ，/w 逻辑/n 能力/n ，/w 判断/n 能力/n ，/w 学习能力/n 。/w .../m ,/w https://blog.csdn.net/PTB_JF/article/details/81166206/url ,/w ,/w PTB/en _/0 JF/en ,/w 2018-07-23/t ,/w //blog.csdn.net/PTB_JF/article/details/81166206/url ,/w 466/m 次/a 阅读/v ,/w 人工智能/n -/w PTB/en _/0 JF/n 的/u 博客/n ,/w 2018年07月23日 21:50:30/t ,/w 原/b 人工智能/n
+
+
+
+2018年07月23日 21:50:30/t
+PTB/en _/0 JF/n
+阅读/v 数/m ：468/m
+
+
+
+
+
+
+
+
+
+
+
+由/p 三/m 种/ng 状态/n 对应/v -/w 1/m ，/w 0/m ，/w 1三/m 进制/n 组成/v ，/w 人工智能/n 有/v 三/m 种/ng 状态/n ，/w 分别/d 是/v 真/a （/w 1/m ）/w ，/w 假/a （/w 0/m ）/w ，/w 未知/v （/w -/w 1/m ）/w ，/w 人工智能/n 应/ng 相仿/v 人类/n ，/w 对/a 未知/v 的/u 事物/n 就/d 行/a 机器/np 学习/v 和/c 深度/n 学习/v 。/w
+
+它/r 的/u 核心/n 在于/v 与/c 人类/n 较/d 接近/v 的/u 逻辑/n 思考/v 方式/n ，/w 通过/p 算法/n 使/ng 的/u 机器/np 有/v 思考/v 能力/n ，/w 逻辑/n 能力/n ，/w 判断/n 能力/n ，/w 学习能力/n 。/w

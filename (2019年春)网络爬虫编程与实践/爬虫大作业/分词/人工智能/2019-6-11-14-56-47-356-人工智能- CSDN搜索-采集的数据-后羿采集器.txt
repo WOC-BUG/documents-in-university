@@ -1,0 +1,502 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/dahuacai/article/details/50564368/url ,/w 来源/n ：/w 维基/nz 百科/n 链接/n ：https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDnn/url 人工智能/n （/w 英语/n ：/w Artificial/en  /0 Intelligence/en ,/w  /0 AI/n ）/w 亦/d 称/ag 机器/np 智能/n ，/w 是/v 指/ng 由/p 人工/b 制造/v 出来/v 的/u 系统/a 所/n 表现/v 出来/v 的/u 智能/n 。/w 通常/b 人工智能/n 是/v 指/ng 通过/p 普通/a 电脑/np 实现/v 的/u 智能/n 。/w ,/w https://blog.csdn.net/dahuacai/article/details/50564368/url ,/w ,/w dahuacai/en ,/w 2016-01-22/t ,/w //blog.csdn.net/dahuacai/article/details/50564368/url ,/w 3113/m 次/a 阅读/v ,/w 人工智能/n -/w dahuacai/en 的/u 专栏/n ,/w 2016年01月22日 21:29:27/t ,/w 转/q 人工智能/n
+
+
+
+2016年01月22日 21:29:27/t
+dahuacai/en
+阅读/v 数/m ：3114/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+来源/n ：/w 维基/nz 百科/n 链接/n ：https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/url
+
+人工智能/n （/w 英语/n ：/w Artificial/en  /0 Intelligence/en ,/w  /0 AI/n ）/w 亦/d 称/ag 机器/np 智能/n ，/w 是/v 指/ng 由/p 人工/b 制造/v 出来/v 的/u 系统/a 所/n 表现/v 出来/v 的/u 智能/n 。/w 通常/b 人工智能/n 是/v 指/ng 通过/p 普通/a 电脑/np 实现/v 的/u 智能/n 。/w 该/r 词/n 同时/c 也/d 指/ng 研究/v 这样/r 的/u 智能/n 系统/a 是否/v 能够/v 实现/v ，/w 以及/c 如何/r 实现/v 的/u 科学/a 领域/n 。/w
+
+一般/a 教材/n 中/f 的/u 定义/n 领域/n 是/v “/w 智能/n 代理/v （/w intelligent/en agent/en ）/w 的/u 研究/v 与/c 设计/v ”/w [/w 1/m ]/w ，/w 智能/n 代理/v 是/v 指/ng 一个/mq 可以/a 观察/v 周遭/n 环境/n 并作/v 出行/v 动/dg 以/p 达致/a 目标/n 的/u 系统/a 。/w [/w 2/m ]/w 约翰/nr ·/w 麦卡锡/nr 于/ng 1955年/t 的/u 定义/n 是/v [/w 3/m ]/w “/w 制造/v 智能机/n 器/k 的/u 科学/a 与/c 工程/n 。/w ”/w [/w 4/m ]/w
+
+人工智能/n 的/u 研究/v 是/v 高度/b 技术性/n 和/c 专业/a 的/u ，/w 各/r 分支/n 领域/n 都/d 是/v 深入/a 且/c 各/r 不/d 相通/v 的/u 。/w [/w 5/m ]/w
+
+人工智能/n 的/u 研究/v 可以/a 分为/v 几/m 个/q 技术/n 问题/n 。/w 其/r 分支/n 领域/n 主要/b 集中/a 在/d 解决/v 具体/a 问题/n ，/w 其中/r 之一/r 是/v ，/w 如何/r 使用/v 各种/r 不同/a 的/u 工具/n 完成/v 特定/b 的/u 应用程序/n 。/w AI/n 的/u 核心/n 问题/n 包括/v 推理/v ，/w 知识/n ，/w 规划/n ，/w 学习/v ，/w 交流/v ，/w 感知/v ，/w 移动/v 和/c 操作/v 物体/n 的/u 能力/n 等/ng 。/w [/w 6/m ]/w 强人/n 工智/nz 能/ng 目前/t 仍然/d 是/v 该/r 领域/n 的/u 长远/a 目标/n 。/w [/w 7/m ]/w 目前/t 比较/d 流行/v 的/u 方法/n 包括/v 统计/v 方法/n ，/w 计算/v 智能/n 和传统意/nr 义/ng 的/u AI/n 。/w 目前/t 有/v 大量/mq 的/u 工具/n 应用/v 了/dg 人工智能/n ，/w 其中包括/n 搜索/n 和数/n 学/k 优化/v ，/w 逻辑/n ，/w 基于/p 概率论/n 和/c 经济学/n 的/u 方法/n 等等/u 。/w
+
+
+
+
+
+概论/n
+
+
+人工智能/n 的/u 定义/n 可以/a 分为/v 两/m 部分/n ，/w 即/c “/w 人工/b ”/w 和/c “/w 智能/n ”/w 。/w “/w 人工/b ”/w 比较/d 好/a 理解/v ，/w 争议性/n 也/d 不大/n 。/w 有时/d 我们/r 会/n 要/v 考虑/v 什么/r 是/v 人力/n 所/n 能/ng 及/c 制造/v 的/u ，/w 或者/c 人/n 自身/r 的/u 智能/n 程度/n 有没有/vmv 高/a 到/ng 可以/a 创造/n 人工智能/n 的/u 地步/n ，/w 等等/u 。/w 但/c 总的来说/ldm ，/w “/w 人工/b 系统/a ”/w 就是/n 通常/b 意义/n 下/f 的/u 人工/b 系统/a 。/w
+
+关于/p 什么/r 是/v “/w 智能/n ”/w ，/w 就/d 问题/n 多多/a 了/dg 。/w 这/r 涉及到/v 其它/r 诸如/v 意识/n （/w consciousness/en ）/w 、/w 自我/r （/w self/en ）/w 、/w 心灵/n （/w mind/en ，/w 包括/v 无意识/d 的/u 精神/n （/w unconscious/en _/0 mind/en ）/w ）/w 等等/u 问题/n 。/w 人/n 唯一/b 了解/v 的/u 智能/n 是/v 人本/n 身/ng 的/u 智能/n ，/w 这是/n 普遍/a 认同/v 的/u 观点/n 。/w 但是/c 我们/r 对/a 我们/r 自身/r 智能/n 的/u 理解/v 都/d 非常/b 有限/a ，/w 对/a 构成/n 人/n 的/u 智能/n 的/u 必要/a 元素/n 也/d 了解/v 有限/a ，/w 所以/c 就/d 很/d 难/a 定义/n 什么/r 是/v “/w 人工/b ”/w 制造/v 的/u “/w 智能/n ”/w 了/dg 。/w 因此/c 人工智能/n 的/u 研究/v 往往/d 涉及/v 对/a 人/n 的/u 智能/n 本身/r 的/u 研究/v 。/w 其它/r 关于/p 动物/n 或/c 其它/r 人造/b 系统/a 的/u 智能/n 也/d 普遍/a 被/ng 认为/v 是/v 人工智能/n 相关/v 的/u 研究课题/n 。/w
+
+人工智能/n 目前/t 在/d 计算机/np 领域/n 内/f ，/w 得到/v 了/dg 愈加/d 广泛/a 的/u 发挥/v 。/w 并/c 在/d 机器人/n ，/w 经济/n 政治/n 决策/n ，/w 控制系统/n ，/w 仿真/v 系统/a 中/f 得到/v 应用/v 。/w
+
+发展史/n
+
+主/b 条目/n ：/w 人工智能/n 的/u 历史/n
+
+
+
+
+年代/n
+
+20/m 世纪/n 40/m 年代/n
+
+20/m 世纪/n 50/m 年代/n
+
+20/m 世纪/n 60/m 年代/n
+
+20/m 世纪/n 70/m 年代/n
+
+20/m 世纪/n 80/m 年代/n
+
+20/m 世纪/n 90/m 年代/n
+
+
+
+计算机/np
+1945/m  /0 计算机/np （/w ENIAC/n ）/w
+1957/m  /0 FORTRAN/en 语言/n
+/0
+/0
+/0
+/0
+
+
+
+人工智能/n 研究/v
+/0
+1953/m  /0 博弈论/n
+1956/m  /0 达/ng 特/ag 矛/n 斯/r 会议/nh
+/0
+1977/m  /0 知识/n 工程/n 宣言/n
+1982/m  /0 第五/m 代/n 电脑/np 计划/n 开始/v
+1991/m  /0 人工/b 神经网络/n
+
+
+
+人工智能/n 语言/n
+/0
+/0
+1960/m  /0 LISP/en 语言/n
+1973/m  /0 PROLOG/n 语言/n
+/0
+/0
+
+
+
+知识/n 表达/v
+/0
+/0
+/0
+1973/m  /0 生产/v 系统/a
+1976/m  /0 框架/n 理论/n
+/0
+/0
+
+
+
+专家系统/n
+/0
+/0
+1965/m  /0 DENDRAL/en
+1975/m  /0 MYCIN/en
+1980/m  /0 Xcon/n
+/0
+
+
+
+
+研究课题/n
+
+目前/t 人工智能/n 的/u 研究方向/n 已经/d 被/ng 分成/v 几/m 个子/n 领域/n ，/w 研究人员/n 希望/n 一个/mq 人工智能/n 系统/a 应该/v 具有/v 某些/r 特定/b 能力/n ，/w 以下/f 将/d 这些/r 能力/n 列出/v 并/c 说明/n 。/w [/w 6/m ]/w
+
+演绎/v 、/w 推理/v 和解/v 决/d 问题/n
+
+早期/f 的/u 人工智能/n 研究人员/n 直接/a 模仿/v 人类/n 进行/v 逐步/d 的/u 推理/v ，/w 就/d 像是/v 玩/ng 棋盘/n 游戏/n 或/c 进行/v 逻辑推理/n 时人/n 类/n 的/u 思考/v 模式/n 。/w [/w 8/m ]/w 到/ng 了/dg 1980/m 和/c 1990年/t 代/n ，/w 利用/v 概率/n 和/c 经济学/n 上/f 的/u 概念/n ，/w 人工智能/n 研究/v 还/d 发展/v 了/dg 非常/b 成功/a 的/u 方法/n 处理/v 不/d 确定/a 或/c 不/d 完整/a 的/u 资讯/n 。/w [/w 9/m ]/w
+
+对于/p 困难/a 的/u 问题/n ，/w 有/v 可能/a 需要/n 大量/mq 的/u 运算/v 资源/n ，/w 也就是/n 发生/v 了/dg “/w 可能/a 组合/n 爆/v 增/ng ”/w ：/w 当/ag 问题/n 超过/v 一定/b 的/u 规模/n 时/n ，/w 电脑/np 会/n 需要/n 天文/n 数量级/n 的/u 存储器/n 或是/c 运算/v 时间/n 。/w 寻找/v 更/d 有效/a 的/u 算法/n 是/v 优先/v 的/u 人工智能/n 研究项目/n 。/w [/w 10/m ]/w
+
+人类/n 解决/v 问题/n 的/u 模式/n 通常/b 是/v 用/ng 最快/a 捷/ag ，/w 直观/a 的/u 判断/n ，/w 而/c 不是/n 有意识/v 的/u ，/w 一步一步/qqm 的/u 推导/v ，/w 早期/f 人工智能/n 研究/v 通常/b 使用/v 逐步/d 推导/v 的/u 方式/n 。/w [/w 11/m ]/w 人工智能/n 研究/v 已经/d 于/ng 这种/r “/w 次/a 表征/n 性/k 的/u ”/w 解决/v 问题/n 方法/n 获取/v 进展/v ：/w 实体化/v Agent/en 研究/v 强调/v 感知/v 运动/n 的/u 重要性/n 。/w 神经网络/n 研究/v 试图/v 以/p 模拟/v 人类/n 和/c 动物/n 的/u 大脑/n 结构/n 重现/v 这种/r 技能/n 。/w
+
+知识/n 表示法/n
+
+
+
+
+
+An/en ontology/en represents/en knowledge/en as/en a/en set/en of/en concepts/en within/en a/en domain/en and/en the/en relationships/en between/en those/en concepts./url
+
+
+
+主/b 条目/n ：/w 知识/n 表示/v 和/c 常识/n 知识库/n
+
+规划/n
+
+
+File:Hierarchical-control-system.svg/url
+
+A/en  /0 hierarchical/en
+control/en system/en  /0 is/en a/en form/en of/en  /0 control/en
+system/en  /0 in/en which/en a/en set/en of/en devices/en and/en governing/en software/en is/en arranged/en in/en a/en hierarchy./url
+
+
+
+智能/n Agent/en 必须/d 能够/v 制定/v 目标/n 和实/nz 现/d 这些/r 目标/n 。/w [/w 12/m ]/w 他们/r 需要/n 一/m 种/ng 方法/n 来/u 创建/v 一个/mq 可/v 预测/v 的/u 世界/n 模型/n （/w 将/d 整个/b 世界/n 状态/n 用/ng 数学/n 模型/n 表现/v 出来/v ，/w 并能/nz 预测/v 它们/r 的/u 行为/n 将/d 如何/r 改变/v 这个/r 世界/n ）/w ，/w 这样/r 就/d 可以/a 选择/n 功效/n 最大/a 的/u 行为/n 。/w [/w 13/m ]/w  /0 在/d 传统/a 的/u 规划/n 问题/n 中/f ，/w 智能/n Agent/en 被/ng 假定/n 它/r 是/v 世界/n 中/f 唯一/b 具有/v 影响力/n 的/u ，/w 所以/c 它/r 要/v 做出/v 什么/r 行为/n 是/v 已经/d 确定/a 的/u 。/w [/w 14/m ]/w 但是/c ，/w 如果/c 事实/n 并非如此/lv ，/w 它/r 必须/d 定期/b 检查/v 世界/n 模型/n 的/u 状态/n 是否/v 和/c 自己/r 的/u 预测/v 相符/v 合/ng 。/w 如果/c 不符/v 合/ng ，/w 它/r 必须/d 改变/v 它/r 的/u 计划/n 。/w 因此/c 智能/n 代理/v 必须/d 具有/v 在/d 不/d 确定/a 结果/c 的/u 状态/n 下推/v 理/n 的/u 能力/n 。/w [/w 15/m ]/w  /0 在/d 多/a Agent/en 中/f ，/w 多个/n Agent/en 规划/n 以/p 合作/v 和/c 竞争/v 的/u 方式/n 去/v 完成/v 一定/b 的/u 目标/n ，/w 使用/v 演化/v 算法/n 和群体/nr 智能/n 可以/a 达成/v 一个/mq 整体/n 的/u 突现/v 行为/n 目标/n 。/w [/w 16/m ]/w
+
+学习/v
+
+主/b 条目/n ：/w 机器/np 学习/v
+
+机器/np 学习/v 的/u 主要/b 目的/n 是/v 为了/p 从/p 用户/n 和/c 输入/v 数据/n 等/ng 处/nc 获得/v 知识/n ，/w 从而/c 可以/a 帮助/v 解决/v 更多/n 问题/n ，/w 减少/v 错误/a ，/w 提高/v 解决/v 问题/n 的/u 效率/n 。/w 对于/p 人工智能/n 来说/u ，/w 机器/np 学习/v 从/p 一开始/t 就/d 很/d 重要/a 。/w 1956年/t ，/w 在/d 最初/t 的/u 达特茅斯/nz 夏季/t 会议/nh 上/f ，/w 雷蒙德/nr 索洛莫诺夫/nr 写/v 了/dg 一/m 篇/ng 关于/p 不/d 监视/v 的/u 概率/n 性/k 机器/np 学习/v ：/w 一个/mq 归纳/v 推理/v 的/u 机器/np 。/w
+
+自然语言/n 处理/v
+
+主/b 条目/n ：/w 自然语言/n 处理/v
+
+运动/n 和/c 控制/v
+
+主/b 条目/n ：/w 机器人学/n
+
+知觉/n
+
+主/b 条目/n ：/w 机器/np 感知/v 、/w 计算机/np 视觉/n 和/c 语音/n 识别/v
+
+机器/np 感知/v [/w 17/m ]/w 是/v 指/ng 能够/v 使用/v 感测器/nz 所/n 输入/v 的/u 数据/n （/w 如/c 照相机/np ，/w 麦克风/n ，/w 声纳/n 以及/c 其他/r 的/u 特殊/a 感测器/nz ）/w 然后/c 推断/v 世界/n 的/u 状态/n 。/w 计算机/np 视觉/n [/w 18/m ]/w 能够/v 分析/v 视频/n 输入/v 。/w 另外/c 还有/v 语音/n 识别/v [/w 19/m ]/w 、/w 人脸/n 辨识/v 和/c 物体/n 辨识/v 。/w [/w 20/m ]/w
+
+社交/n
+
+主/b 条目/n ：/w 情感/n 计算/v
+
+
+
+
+
+Kismet/en ,/w 一个/mq 具有/v 表情/n 等/ng 社交/n 能力/n 的/u 机器人/n [/w 21/m ]/w
+
+
+
+情感/n 和/c 社交/n 技能/n 对于/p 一个/mq 智能/n agent/en 是/v 很/d 重要/a 的/u 。/w 首先/c ，/w 通过/p 了解/v 他们/r 的/u 动机/n 和/c 情感/n 状态/n ，/w 代理人/n 能够/v 预测/v 别人/r 的/u 行动/v （/w 这/r 涉及/v 要素/n 博弈论/n 、/w 决策/n 理论/n 以及/c 能够/v 塑造/v 人/n 的/u 情感/n 和/c 情绪/n 感知/v 能力/n 检测/v ）/w 。/w 此外/c ，/w 为了/p 良好/a 的/u 人机交互/lv ，/w 智能/n 代理人/n 也/d 需要/n 表现/v 出/q 情绪/n 来/u 。/w 至少/d 它/r 必须/d 出现/v 礼貌/a 地/n 和/c 人类/n 打交道/v 。/w 至少/d ，/w 它/r 本身/r 应该/v 有/v 正常/a 的/u 情绪/n 。/w
+
+创造力/n
+
+主/b 条目/n ：/w 计算机/np 创造力/n
+
+一个/mq 人工智能/n 的/u 子/k 领域/n ，/w 代表/nx 了/dg 理论/n （/w 从/p 哲学/n 和心/nz 理学/n 的/u 角度/n ）/w 和实/nz 际/ng （/w 通过/p 特定/b 的/u 实现/v 产生/v 的/u 系统/a 的/u 输出/v 是/v 可以/a 考虑/v 的/u 创意/n ，/w 或/c 系统/a 识别/v 和/c 评估/n 创造力/n ）/w 所/n 定义/n 的/u 创造力/n 。/w 相关/v 领域/n 研究/v 的/u 包括/v 了/dg 人工/b 直觉/n 和/c 人工/b 想像/v 。/w
+
+多元/b 智能/n
+
+大多数/n 研究人员/n 希望/n 他们/r 的/u 研究/v 最终/d 将/d 被/ng 纳入/v 一个/mq 具有/v 多元/b 智能/n （/w 称为/v 强人/n 工智/nz 能/ng ）/w ，/w 结合/v 以上/f 所有/b 的/u 技能/n 并且/c 超越/v 大部分/n 人类/n 的/u 能力/n 。/w [/w 7/m ]/w 有些/r 人/n 认为/v 要/v 达成/v 以上/f 目标/n ，/w 可能/a 需要/n 拟人化/v 的/u 特性/n ，/w 如/c 人工/b 意识/n 或/c 人工/b 大脑/n 。/w [/w 22/m ]/w [/w 23/m ]/w  /0 上述/b 许多/mq 问题/n 被/ng 认为/v 是/v 人工智能/n 完整性/n ：/w 为了/p 解决/v 其中/r 一个/mq 问题/n ，/w 你/r 必须/d 解决/v 全部/mq 的/u 问题/n 。/w 即使/c 一个/mq 简单/a 和/c 特定/b 的/u 任务/n ，/w 如/c 机器翻译/ln ，/w 要求/n 机器/np 按照/p 作者/n 的/u 论点/n （/w 推理/v ）/w ，/w 知道/v 什么/r 是/v 被/ng 人/n 谈论/v （/w 知识/n ）/w ，/w 忠实/a 地/n 再现/v 作者/n 的/u 意图/n （/w 情感/n 计算/v ）/w 。/w 因此/c ，/w 机器翻译/ln 被/ng 认为/v 是/v 具有/v 人工智能/n 完整性/n ：/w 它/r 可能/a 需要/n 强人/n 工智/nz 能/ng ，/w 就/d 像是/v 人类/n 一样/a 。/w [/w 24/m ]/w
+
+强人/n 工智/nz 能/ng 和/c 弱/a 人工智能/n
+
+人工智能/n 的/u 一个/mq 比较/d 流行/v 的/u 定义/n ，/w 也/d 是/v 该/r 领域/n 较/d 早/a 的/u 定义/n ，/w 是由/n 当时/t 麻省理工学院/nt 的/u 约翰/nr ·/w 麦卡锡/nr 在/d 1956年/t 的/u  /0 达/ng 特/ag 矛/n 斯/r 会议/nh 上/f 提出/v 的/u ：/w 人工智能/n 就是/n 要/v 让/v 机器/np 的/u 行为/n 看起来/v 就/d 像是/v 人/n 所/n 表现/v 出/q 的/u 智能/n 行为/n 一样/a 。/w 但是/c 这个/r 定义/n 似乎/d 忽略/v 了/dg 强人/n 工智/nz 能/ng 的/u 可能性/n （/w 见/v 下/f ）/w 。/w 另/d 一个/mq 定义/n 指/ng 人工智能/n 是/v 人造/b 机器/np 所/n 表现/v 出来/v 的/u 智能/n 。/w 总体/n 来讲/u ，/w 目前/t 对/a 人工智能/n 的/u 定义/n 大多/d 可/v 划分/v 为/p 四/m 类/n ，/w 即/c 机器/np “/w 像/n 人/n 一样/a 思考/v ”/w 、/w “/w 像/n 人/n 一样/a 行动/v ”/w 、/w “/w 理性/n 地/n 思考/v ”/w 和/c “/w 理性/n 地行/nz 动/dg ”/w 。/w 这里/r “/w 行动/v ”/w 应/ng 广义/n 地理/n 解/ng 为/p 采取/v 行动/v ，/w 或/c 制定/v 行动/v 的/u 决策/n ，/w 而/c 不是/n 肢体/n 动作/n 。/w
+
+强人/n 工智/nz 能/ng
+
+主/b 条目/n ：/w 强人/n 工智/nz 能/ng
+
+强人/n 工智/nz 能/ng 观点/n 认为/v 有/v 可能/a 制造/v 出/q 真正/b 能/ng 推理/v （/w Reasoning/en ）/w 和解/v 决/d 问题/n （/w Problem/en
+solving/en ）/w 的/u 智能机/n 器/k ，/w 并且/c ，/w 这样/r 的/u 机器/np 能/ng 将/d 被/ng 认为/v 是/v 有知/v 觉/n 的/u ，/w 有/v 自我/r 意识/n 的/u 。/w 强人/n 工智/nz 能/ng 可以/a 有/v 两/m 类/n ：/w
+
+类人/b 的/u 人工智能/n ，/w 即/c 机器/np 的/u 思考/v 和/c 推理/v 就/d 像/n 人/n 的/u 思维/n 一样/a 。/w 非/d 类人/b 的/u 人工智能/n ，/w 即/c 机器/np 产生/v 了/dg 和/c 人/n 完全/a 不一/v 样/ng 的/u 知觉/n 和/c 意识/n ，/w 使用/v 和/c 人/n 完全/a 不一/v 样/ng 的/u 推理/v 方式/n 。/w
+
+弱/a 人工智能/n
+
+弱/a 人工智能/n 观点/n 认为/v 不可/v 能/ng 制造/v 出/q 能/ng 真正/b 地/n 推理/v 和解/v 决/d 问题/n 的/u 智能机/n 器/k ，/w 这些/r 机器/np 只不过/d 看起来/v 像是/v 智能/n 的/u ，/w 但是/c 并/c 不/d 真正/b 拥有/v 智能/n ，/w 也/d 不会/v 有/v 自主/v 意识/n 。/w
+
+强人/n 工智/nz 能/ng 的/u 研究/v 目前/t 处于/v 停滞不前/lv 的/u 状态/n 下/f 。/w 人工智能/n 研究者/n 不一/v 定/d 同意/v 弱/a 人工智能/n ，/w 也/d 不一/v 定/d 在乎/v 或者/c 了解/v 强人/n 工智/nz 能/ng 和/c 弱/a 人工智能/n 的/u 内容/n 与/c 差别/n 。/w 就/d 现下/nz 的/u 人工智能/n 研究领域/n 来看/u ，/w 研究者/n 已/d 大量/mq 造/ng 出/q 看起来/v 像是/v 智能/n 的/u 机器/np ，/w 获取/v 相当/d 丰硕/a 的/u 理论/n 上/f 和实/nz 质/n 上/f 的/u 成果/n ，/w 如/c 2009年/t 康乃尔大学/ns 教授/nx Hod/en
+Lipson/en 和其博/nr 士/ng 研究生/n Michael/en Schmidt/en 研发/v 出/q 的/u Eureqa/en 计算机程序/ln ，/w 只要/c 给予/v 一些/mq 数据/n ，/w 这/r 计算机程序/ln 自己/r 只用/v 几十/mq 个/q 小时/n 计算/v 就/d 推论/v 出/q 牛顿/nr 花费/n 多年/n 研究/v 才/d 发现/v 的/u 牛顿/nr 力学/n 公式/n ，/w 等于/v 只用/v 几十/mq 个/q 小时/n 就/d 自己/r 重新/d 发现/v 牛顿/nr 力学/n 公式/n ，/w 这/r 计算机程序/ln 也/d 能/ng 用来/v 研究/v 很多/mq 其他/r 领域/n 的/u 科学/a 问题/n 上/f 。/w
+
+对/a 强人/n 工智/nz 能/ng 的/u 哲学/n 争论/v
+
+“/w 强人/n 工智/nz 能/ng ”/w 一/m 词/n 最初/t 是/v 约翰/nr ·/w 罗杰斯/ns ·/w 希尔/nr 勒/ng 针对/v 计算机/np 和/c 其它/r 信息处/n 理/n 机器/np 创造/n 的/u ，/w 其/r 定义/n 为/p ：/w
+
+“/w 强人/n 工智/nz 能/ng 观点/n 认为/v 计算机/np 不仅/c 是/v 用来/v 研究人/n 的/u 思维/n 的/u 一/m 种/ng 工具/n ；/w 相反/v ，/w 只要/c 运行/v 适当/a 的/u 程序/n ，/w 计算机/np 本身/r 就是/n 有/v 思维/n 的/u 。/w ”/w （/w J/en Searle/en in/en Minds/en Brains/en and/en Programs./url The/en Behavioral/en and/en Brain/en Sciences/en ,/w vol/en ./m 3/m ,/w 1980/m ）/w
+
+关于/p 强人/n 工智/nz 能/ng 的/u 争论/v ，/w 不同于/n 更/d 广义/n 的/u 一元论/n 和/c 二元论/n 的/u 争论/v 。/w 其/r 争论/v 要点/n 是/v ：/w 如果/c 一/m 台/n 机器/np 的/u 唯一/b 工作/n 原理/n 就是/n 转换/v 编码/n 数据/n ，/w 那么/c 这/r 台/n 机器/np 是不是/vbv 有/v 思维/n 的/u ？/w 希尔/nr 勒/ng 认为/v 这是/n 不可/v 能/ng 的/u 。/w 他/r 举/ag 了/dg 个中/r 文房/n 间/f 的/u 例子/n 来说/u 明/ag ，/w 如果/c 机器/np 仅仅/d 是/v 转换/v 数据/n ，/w 而/c 数据/n 本身/r 是/v 对/a 某些/r 事情/n 的/u 一/m 种/ng 编码/n 表现/v ，/w 那么/c 在/d 不理/v 解这一/nr 编码/n 和/c 这/r 实际/a 事情/n 之间/f 的/u 对应/v 关系/n 的/u 前提/n 下/f ，/w 机器/np 不可/v 能/ng 对/a 其/r 处理/v 的/u 数据/n 有/v 任何/r 理解/v 。/w 基于/p 这/r 一/m 论点/n ，/w 希尔/nr 勒/ng 认为/v 即使/c 有机/b 器/k 通过/p 了/dg 图灵/n 测试/v ，/w 也/d 不一/v 定/d 说明/n 机器/np 就/d 真的/d 像/n 人/n 一样/a 有/v 思维/n 和/c 意识/n 。/w
+
+也/d 有/v 哲学家/n 持/v 不同/a 的/u 观点/n 。/w 丹尼尔/nz ·/w 在/d 其/r 着作/n 《/w 意识/n 的/u 解释/v 》/w （/w Consciousness/en
+Explained/en ）/w 里/f 认为/v ，/w 人/n 也/d 不过/c 是/v 一/m 台/n 有/v 灵魂/n 的/u 机器/np 而已/y ，/w 为什么/r 我们/r 认为/v ：/w “/w 人/n 可以/a 有/v 智能/n ，/w 而/c 普通机/n 器/k 就/d 不能/v ”/w 呢/ng ？/w 他/r 认为/v 像/n 上述/b 的/u 数据/n 转换机/nz 器/k 是/v 有/v 可能/a 有/v 思维/n 和/c 意识/n 的/u 。/w
+
+有的/r 哲学家/n 认为/v 如果/c 弱/a 人工智能/n 是/v 可/v 实现/v 的/u ，/w 那么/c 强人/n 工智/nz 能/ng 也/d 是/v 可/v 实现/v 的/u 。/w 比如/v 西/f 蒙/jns ·/w 布莱克本/ns （/w Simon/en
+Blackburn/en ）/w 在/d 其/r 哲学/n 入门/v 教材/n Think/en 里/f 说道/v ，/w 一个/mq 人/n 的/u 看起来/v 是/v “/w 智能/n ”/w 的/u 行动/v 并/c 不能/v 真正/b 说明/n 这个/r 人/n 就/d 真的/d 是/v 智能/n 的/u 。/w 我/r 永远/b 不可/v 能/ng 知道/v 另/d 一个/mq 人/n 是否/v 真的/d 像/n 我/r 一样/a 是/v 智能/n 的/u ，/w 还是/c 说/ag 她/r ／/w 他/r 仅仅/d 是/v 看起来/v 是/v 智能/n 的/u 。/w 基于/p 这个/r 论点/n ，/w 既然/c 弱/a 人工智能/n 认为/v 可以/a 令/ag 机器/np 看起来/v 像是/v 智能/n 的/u ，/w 那/c 就/d 不能/v 完全/a 否定/v 这/r 机器/np 是/v 真的/d 有/v 智能/n 的/u 。/w 布莱克本/ns 认为/v 这是/n 一个/mq 主观/a 认定/v 的/u 问题/n 。/w
+
+需要/n 指出/v 的/u 是/v ，/w 弱/a 人工智能/n 并非/d 和/c 强人/n 工智/nz 能/ng 完全/a 对立/v ，/w 也就是说/ldm ，/w 即使/c 强人/n 工智/nz 能/ng 是/v 可能/a 的/u ，/w 弱/a 人工智能/n 仍然/d 是/v 有意/d 义/ng 的/u 。/w 至少/d ，/w 今日/t 的/u 计算机/np 能/ng 做/v 的/u 事/n ，/w 像/n 算术/n 运算/v 等/ng ，/w 在/d 一百/j 多年/n 前/f 是/v 被/ng 认为/v 很/d 需要/n 智能/n 的/u 。/w
+
+研究/v 方法/n
+
+目前/t 没有/d 统一/a 的/u 原理/n 或/c 范式/n 指导/v 人工智能/n 研究/v 。/w 许多/mq 问题/n 上/f 研究者/n 都/d 存在/v 争论/v 。/w [/w 25/m ]/w  /0 其中/r 几/m 个/q 长久以来/l 仍/ag 没有/d 结论/n 的/u 问题/n 是/v ：/w 是否/v 应从/v 心理/n 或/c 神经/n 方面/n 模拟/v 人工智能/n ?/w 或者/c 像/n 鸟类/n 生物学/n 对于/p 航空/n 工程/n 一样/a ，/w 人类/n 生物学/n 对于/p 人工智能/n 研究/v 是/v 没有/d 关系/n 的/u ？/w [/w 26/m ]/w  /0 智能/n 行为/n 能否/v 用/ng 简单/a 的/u 原则/n （/w 如/c 逻辑/n 或/c 优化/v ）/w 来/u 描述/v ？/w 还是/c 必须/d 解决/v 大量/mq 完全/a 无关/v 的/u 问题/n ？/w [/w 27/m ]/w
+
+智能/n 是否/v 可以使/n 用/ng 高级/a 符号/n 表达/v ，/w 如/c 词/n 和/c 想法/n ？/w 还是/c 需要/n “/w 子/k 符号/n ”/w 的/u 处理/v ？/w [/w 28/m ]/w  /0 John/en
+Haugeland/en 提出/v 了/dg GOFAI/en （/w 出色/a 的/u 老式/b 人工智能/n ）/w 的/u 概念/n ，/w 也/d 提议/n 人工智能/n 应/ng 归类/v 为/p synthetic/en
+intelligence/en ，/w [/w 29/m ]/w 这个/r 概念/n 后来/t 被/ng 某些/r 非/d GOFAI/en 研究者/n 采纳/v 。/w [/w 30/m ]/w [/w 31/m ]/w
+
+控制论/n 与/c 大脑/n 模拟/v
+
+主/b 条目/n ：/w 控制论/n 和/c 计算/v 神经科学/n
+
+20/m 世纪/n 40/m 年代/n 到/ng 50/m 年代/n ，/w 许多/mq 研究者/n 探索/v 神经/n 学/k ，/w 信息/n 理论/n 及/c 控制论/n 之间/f 的/u 联系/v 。/w 其中/r 还/d 造/ng 出/q 一些/mq 使用/v 电子/n 网络/n 构造/n 的/u 初步/b 智能/n ，/w 如/c W/en ./m
+Grey/en Walter/en 的/u turtles/en 和/c Johns/en
+Hopkins/en Beast/en 。/w 这些/r 研究者/n 还/d 经常/d 在/d 普林斯顿大学/nt 和/c 英国/ns 的/u Ratio/en
+Club/en 举行/v 技术/n 协会/nc 会议/nh ./m [/w 32/m ]/w 直到/v 1960/m ,/w 大部分/n 人/n 已经/d 放弃/v 这个/r 方法/n ，/w 尽管/c 在/d 80/m 年代/n 再次/d 提出/v 这些/r 原理/n 。/w
+
+符号/n 处理/v
+
+主/b 条目/n ：/w GOFAI/en
+
+当/ag 20/m 世纪/n 50/m 年代/n ，/w 数字/n 计算机/np 研制/v 成功/a ，/w 研究者/n 开始/v 探索/v 人类/n 智能/n 是否/v 能/ng 简化/v 成/ng 符号/n 处理/v 。/w 研究/v 主要/b 集中/a 在/d 卡内基/nz 梅隆/nr 大学/nc ，/w 斯坦福大学/nt 和/c 麻省理工学院/nt ，/w 而/c 各自/r 有/v 独立/a 的/u 研究/v 风格/n 。/w John/en
+Haugeland/en 称/ag 这些/r 方法/n 为/p GOFAI/en （/w 出色/a 的/u 老式/b 人工智能/n ）/w [/w 33/m ]/w 。/w 60/m 年代/n ，/w 符号/n 方法/n 在/d 小型/b 证明/n 程序/n 上/f 模拟/v 高级/a 思考/v 有/v 很大/a 的/u 成就/n 。/w 基于/p 控制论/n 或/c 神经网络/n 的/u 方法/n 则/c 置于/v 次要/b [/w 34/m ]/w 。/w 60－70年/t 代/n 的/u 研究者/n 确信/n 符号/n 方法/n 最终/d 可以/a 成功/a 创造/n 强人/n 工智/nz 能/ng 的/u 机器/np ，/w 同时/c 这/r 也/d 是/v 他们/r 的/u 目标/n 。/w
+
+认知/v 模拟/v ：/w 经济学家/n 赫伯特/nr ·/w 西/f 蒙和艾/nr 伦/ng ·/w 纽厄尔/nr 研究人/n 类/n 问题/n 解决/v 能力/n 和/c 尝试/v 将/d 其/r 形式化/v ，/w 同时/c 他们/r 为人/v 工智/nz 能/ng 的/u 基本/a 原理/n 打下/v 基础/n ，/w 如/c 认知科学/n 、/w 运筹学/n 和经营科/nr 学/k 。/w 他们/r 的/u 研究/v 团队/n 使用/v 心理学/n 实验/n 的/u 结果/c 开发/v 模拟/v 人类/n 解决/v 问题/n 方法/n 的/u 程序/n 。/w 这方/r 法/k 一直/d 在/d 卡内基/nz 梅隆/nr 大学/nc 沿袭/v 下来/v ，/w 并/c 在/d 80/m 年代/n 于/ng Soar/en 发展/v 到/ng 高峰/n [/w 35/m ]/w [/w 36/m ]/w 。/w
+
+基于/p 逻辑/n ：/w 不/d 像/n 艾伦/nr ·/w 纽厄尔/nr 和/c 赫伯特/nr ·/w 西/f 蒙/jns ，/w 约翰/nr ·/w 麦卡锡/nr 认为/v 机器/np 不/d 需要/n 模拟/v 人类/n 的/u 思想/n ，/w 而/c 应/ng 尝试/v 找到/v 抽象/a 推理/v 和解/v 决/d 问题/n 的/u 本质/n ，/w 不管/c 人们/n 是否/v 使用/v 同样/b 的/u 算法/n [/w 26/m ]/w 。/w 他/r 在/d 斯坦福大学/nt 的/u 实验室/nc 致力于/v 使用/v 形式化/v 逻辑/n 解决/v 多种/a 问题/n ，/w 包括/v 知识/n 表示/v ，/w 智能/n 规划/n 和/c 机器/np 学习/v [/w 37/m ]/w 。/w 致力于/v 逻辑/n 方法/n 的/u 还有/v 爱丁堡大学/nt ，/w 而/c 促成/v 欧洲/ns 的/u 其他/r 地方/n 开发/v 编程语言/n Prolog/n 和/c 逻辑/n 编程/v 科学/a [/w 38/m ]/w 。/w
+
+“/w 反/b 逻辑/n ”/w :/w  /0 斯坦福大学/nt 的/u 研究者/n
+（/w 如/c 马文/nr ·/w 闵/ng 斯基/nz 和/c 西/f 摩/n 尔/rg ·/w 派/n 普特/q ）/w [/w 39/m ]/w 发现/v 要/v 解决/v 计算机/np 视觉/n 和/c 自然语言/n 处理/v 的/u 困难/a 问题/n ，/w 需要/n 专门/b 的/u 方案/n ：/w 他们/r 主张/n 不/d 存在/v 简单/a 和/c 通用/v 原理/n （/w 如/c 逻辑/n ）/w 能够/v 达到/v 所有/b 的/u 智能/n 行为/n 。/w Roger/en
+Schank/en 描述/v 他们/r 的/u “/w 反/b 逻辑/n ”/w 方法/n 为/p “/w scruffy/en ”/w [/w 27/m ]/w 。/w 常识/n 知识库/n （/w 如/c 道格拉斯/ns ·/w 莱纳特/nr 的/u Cyc/en ）/w 就是/n “/w scruffy/en ”/w AI/n 的/u 例子/n ，/w 因为/c 他们/r 必须/d 人工/b 一次/mq 编写/v 一个/mq 复杂/a 的/u 概念/n [/w 40/m ]/w 。/w
+
+基于/p 知识/n ：/w 大约/d 在/d 1970年/t 出现/v 大容量/n 内存/n 计算机/np ，/w 研究者/n 分别/d 以/p 三个/n 方法/n 开始/v 把/p 知识/n 构造/n 成/ng 应用软件/n [/w 41/m ]/w 。/w 这场/mq “/w 知识/n 革命/a ”/w 促成/v 专家系统/n 的/u 开发/v 与/c 计划/n ，/w 这是/n 第一/m 个/q 成功/a 的/u 人工智能/n 软件/n 形式/n [/w 42/m ]/w 。/w “/w 知识/n 革命/a ”/w 同时/c 让/v 人们/n 意识到/v 许多/mq 简单/a 的/u 人工智能/n 软件/n 可能/a 需要/n 大量/mq 的/u 知识/n 。/w
+
+子/k 符号/n 方法/n
+
+1980年/t 代/n 符号/n 人工智能/n 停滞不前/lv ，/w 很多/mq 人/n 认为/v 符号/n 系统/a 永远/b 不可/v 能/ng 模仿/v 人类/n 所有/b 的/u 认知/v 过程/n ，/w 特别/a 是/v 感知/v 、/w 机器人/n 、/w 机器/np 学习/v 和/c 模式/n 识别/v 。/w 很多/mq 研究者/n 开始/v 关注/v 子/k 符号/n 方法/n 解决/v 特定/b 的/u 人工智能/n 问题/n [/w 28/m ]/w 。/w
+
+自下而上/lv 、/w 接口/n agent/en 、/w 嵌入/v 环境/n （/w 机器人/n ）/w 、/w 行为/n 主义/n 、/w 新式/a AI/n ：/w 机器人/n 领域/n 相关/v 的/u 研究者/n ，/w 如/c Rodney/en
+Brooks/en ，/w 否定/v 符号/n 人工智能/n 而/c 专注/a 于/ng 机器人/n 移动/v 和/c 求生/v 等/ng 基本/a 的/u 工程/n 问题/n 。/w [/w 43/m ]/w 他们/r 的/u 工作/n 再次/d 关注/v 早期/f 控制论/n 研究者/n 的/u 观点/n ，/w 同时/c 提出/v 了/dg 在/d 人工智能/n 中/f 使用/v 控制/v 理论/n 。/w 这/r 与/c 认知科学/n 领域/n 中/f 的/u 表征/n 感知/v 论点/n 是/v 一致/a 的/u :/w 更/d 高/a 的/u 智能/n 需要/n 个体/n 的/u 表征/n （/w 如/c 移动/v ，/w 感知/v 和/c 形象/a ）/w 。/w
+
+计算/v 智能/n ：1980年/t 代中/nr David/en
+Rumelhart/en 等/ng 再次/d 提出/v 神经网络/n 和/c 联结/v 主义/n [/w 44/m ]/w 。/w 这/r 和/c 其他/r 的/u 子/k 符号/n 方法/n ，/w 如/c 模/ng 煳/a 控制/v 和/c 进化/v 计算/v ，/w 都/d 属于/v 计算/v 智能/n 学科/n 研究/v 范畴/n [/w 45/m ]/w 。/w
+
+统计学/n 方法/n
+
+1990年/t 代/n ，/w 人工智能/n 研究/v 发展/v 出/q 复杂/a 的/u 数学/n 工具/n 来/u 解决/v 特定/b 的/u 分支/n 问题/n 。/w 这些/r 工具/n 是/v 真正/b 的/u 科学/a 方法/n ，/w 即/c 这些/r 方法/n 的/u 结果/c 是/v 可测/nz 量/n 的/u 和/c 可/v 验证/v 的/u ，/w 同时/c 也/d 是/v 近期/t 人工智能/n 成功/a 的/u 原因/n 。/w 共用/b 的/u 数学/n 语言/n 也/d 允许/v 已有/v 学科/n 的/u 合作/v （/w 如数/d 学/k ，/w 经济/n 或/c 运筹学/n ）/w 。/w Stuart/en J/en ./m Russell/en 和/c Peter/en Norvig/en 指出/v 这些/r 进步/a 不亚于/v “/w 革命/a ”/w 和/c “/w neats/en 的/u 成功/a ”/w [/w 46/m ]/w 。/w 有人/r 批评/v 这些/r 技术/n 太/ag 专注/a 于/ng 特定/b 的/u 问题/n ，/w 而/c 没有/d 考虑/v 长远/a 的/u 强人/n 工智/nz 能/ng 目标/n [/w 47/m ]/w 。/w
+
+集成/b 方法/n
+
+智能/n agent/en 范式/n ：/w 智能/n agent/en 是/v 一个/mq 会/n 感知/v 环境/n 并作/v 出行/v 动/dg 以/p 达致/a 目标/n 的/u 系统/a 。/w 最/d 简单/a 的/u 智能/n agent/en 是/v 那些/r 可以/a 解决/v 特定/b 问题/n 的/u 程序/n 。/w 更/d 复杂/a 的/u agent/en 包括/v 人类/n 和/c 人类/n 组织/n （/w 如/c 公司/nc ）/w 。/w 这些/r 范式/n 可以/a 让/v 研究者/n 研究/v 单独/b 的/u 问题/n 和/c 找出/v 有用/a 且/c 可/v 验证/v 的/u 方案/n ，/w 而/c 不/d 需/ng 考虑/v 单一/a 的/u 方法/n 。/w 一个/mq 解决/v 特定/b 问题/n 的/u agent/en 可以使/n 用/ng 任何/r 可行/a 的/u 方法/n -/w 一些/mq agent/en 用/ng 符号/n 方法/n 和逻辑方/nr 法/k ，/w 一些/mq 则/c 是/v 子/k 符号/n 神经网络/n 或/c 其他/r 新/a 的/u 方法/n 。/w 范式/n 同时/c 也/d 给/v 研究者/n 提供/v 一个/mq 与其/c 他/r 领域/n 沟通/v 的/u 共同语言/n -/w -/w 如/c 决策/n 论/k 和/c 经济学/n （/w 也/d 使用/v abstract/en
+agents/en 的/u 概念/n ）/w 。/w 1990年/t 代/n 智能/n agent/en 范式/n 被/ng 广泛/a 接受/v 。/w [/w 2/m ]/w
+
+agent/en 体系结构/n 和/c 认知/v 体系结构/n ：/w 研究者/n 设计/v 出/q 一些/mq 系统/a 来/u 处理/v 多/a agent/en 系统/a 中/f 智能/n agent/en 之间/f 的/u 相互作用/lv 。/w [/w 48/m ]/w 一个/mq 系统/a 中包/nz 含/v 符号/n 和/c 子/k 符号/n 部分/n 的/u 系统/a 称为/v 溷/ag 合/ng 智能/n 系统/a ，/w 而/c 对/a 这种/r 系统/a 的/u 研究/v 则/c 是/v 人工智能/n 系统集成/n 。/w 分级/d 控制系统/n 则/c 给/v 反应/n 级别/n 的/u 子/k 符号/n AI/n 和/c 最高级/a 别的/r 传统/a 符号/n AI/n 提供/v 桥梁/n ，/w 同时/c 放宽/v 了/dg 规划/n 和世界建/nr 模/ng 的/u 时间/n 。/w
+
+实际/a 应用/v
+
+机器/np 视觉/n ，/w 指纹识别/n ，/w 人脸识别/lv ，/w 视网膜/n 识别/v ，/w 虹膜/n 识别/v ，/w 掌纹/n 识别/v ，/w 专家系统/n ，/w 自动/b 规划/n 等/ng 。/w
+
+学科/n 范畴/n
+
+人工智能/n 是/v 一门/nz 边沿/f 学科/n ，/w 属于/v 自然科学/n 和/c 社会科学/ln 的/u 交叉/v 。/w
+
+涉及/v 学科/n
+
+物理学/n 哲学/n 和/c 认知科学/n 逻辑学/n 数学/n 心理学/n 计算机/np 科学/a 控制论/n 决定论/n 不确定性/ln 原理/n
+
+研究/v 范畴/n
+
+
+自然语言/n 处理/v （/w NLP/en ;/w
+Natural/en Language/en Processing/en ）/w 知识/n 表现/v （/w Knowledge/en Representation/en ）/w 智能/n 搜索/n （/w Intelligent/en Search/en ）/w 推理/v 规划/n （/w Planning/en ）/w 机器/np 学习/v （/w Machine/en Learning/en ）/w 增强/v 式/k 学习/v （/w Reinforcement/en Learning/en ）/w 知识/n 获取/v 感知/v 问题/n 模式/n 识别/v 逻辑/n 程序设计/n 软/a 计算/v （/w Soft/en Computing/en ）/w 不/d 精确/a 和/c 不/d 确定/a 的/u 管理人/n 工/n 生命/n （/w Artificial/en Life/en ）/w 人工/b 神经网络/n （/w Artificial/en Neural/en Network/en ）/w 复杂系统/n 遗传/v 算法/n 数据挖掘/n （/w Data/en Mining/en ）/w 模/ng 煳/a 控制/v
+
+
+应用领域/n
+
+智能控制/n 机器人学/n 语言/n 和/c 图像/n 理解/v 遗传/v 编程/v 法学/n 信息系/n 统/ng
+
+
+参考文献/n
+
+教材/n
+
+
+Luger/en ,/w
+George/en ;/w  /0 Stubblefield/en ,/w
+William./url  /0 Artificial/en Intelligence/en :/w Structures/en and/en Strategies/en
+for/en Complex/en Problem/en Solving/en  /0 5/m th/en ./m The/en Benjamin/en //w Cummings/en Publishing/en Company/en ,/w Inc/en . 2004./m  /0 ISBN/en  /0 0-8053-4780-1./t Luger/en ,/w
+George./url 人工智能/n ：/w 复杂/a 问题/n 求解/v 的/u 结构/n 和/c 策略/n ./m 史忠植/nr 等/ng 译/v 原书/nr 第/m 4/m 版/n ./m 北京/ns :/w 机械工业出版社/nt . 2004./m  /0 ISBN/en  /0 7-111-12944-/t X/en  /0 （/w 中文/n ）/w ./m Neapolitan/en ,/w Richard/en ;/w Jiang/en ,/w Xia/en ./m  /0 Contemporary/en
+Artificial/en Intelligence./url Chapman/en &/0 Hall/CRC./url 2012./m  /0 ISBN/en  /0 978-143984-469-4./t Nilsson/en ,/w
+Nils/en ./m Artificial/en Intelligence/en :/w A/en New/en Synthesis./url Morgan/en Kaufmann/en Publishers./url 1998./m  /0 ISBN/en  /0 978-1-55860-467-4./t Nilsson/en ,/w
+Nils/en ./m 人工智能/n ./m 郑扣根/nr 等/ng 译/v ./m 北京/ns :/w 机械工业出版社/nt . 2000./m  /0 ISBN/en  /0 7-111-07885-3/t  /0 （/w 中文/n ）/w ./m Russell/en ,/w Stuart/en J/en ./m ;/w Norvig/en ,/w Peter./url  /0 Artificial/en
+Intelligence/en :/w A/en Modern/en Approach/en  /0 2/m nd/en ./m Upper/en Saddle/en River/en ,/w New/en Jersey/en :/w Prentice/en Hall/en . 2003./m  /0 ISBN/en  /0 0-13-790395-2./t Russell/en ,/w Stuart/en J/en ./m ;/w Norvig/en ,/w Peter./url  /0 人工智能/n ：/w 一/m 种/ng 现代/a 方法/n ./m
+姜哲译/nr 原书/nr 第/m 2/m 版/n ./m 北京/ns :/w 人民邮电出版社/nt . 2004./m  /0 ISBN/en  /0 9787115122285/m  /0 （/w 中文/n ）/w ./m Poole/en ,/w
+David/en ;/w  /0 Mackworth/en ,/w Alan/en ;/w  /0 Goebel/en ,/w
+Randy./url  /0 Computational/en Intelligence/en :/w A/en Logical/en Approach./url
+New/en York/en :/w Oxford/en University/en Press./url 1998./m  /0 ISBN/en  /0 0-19-510270-3./t Winston/en ,/w
+Patrick/en Henry./url Artificial/en Intelligence./url Reading/en ,/w Massachusetts/en :/w Addison-Wesley./url 1984./m  /0 ISBN/en  /0 0-201-08259-4./t Winston/en ,/w
+Patrick/en Henry./url  /0 人工智能/n ./m
+崔良沂/nr ，/w 赵永昌/nr 译/v 原书/nr 第/m 3/m 版/n ./m 北京/ns :/w 清华大学出版社/nt . 2005./m  /0 ISBN/en  /0 9787302103271/m  /0 （/w 中文/n ）/w ./m
+
+
+人工智能/n 历史/n
+
+
+Crevier/en ,/w
+Daniel./url AI/en :/w The/en Tumultuous/en Search/en for/en Artificial/en Intelligence./url New/en York/en ,/w NY/en :/w BasicBooks./url 1993./m  /0 ISBN/n
+0-465-02997-3./t McCorduck/en ,/w
+Pamela./url  /0 Machines/en Who/en Think/en  /0 2/m nd/en ./m Natick/en ,/w MA/en :/w
+A/en ./m K/en ./m Peters/en ,/w Ltd/en . 2004./m  /0 ISBN/en  /0 1-56881-205-1./t Nils/en ,/w Nilsson./url The/en Quest/en for/en Artificial/en Intelligence/en :/w A/en History/en of/en Ideas/en and/en Achievements./url New/en York/en :/w Cambridge/en University/en Press./url 2010./m
+
+
+其他/r
+
+
+ACM/n
+Computing/en Classification/en System/en :/w Artificial/en intelligence./url  /0 ACM/en ./m
+1998/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m Aleksander/en ,/w
+Igor/en ./m  /0 Artificial/en
+Neuroconsciousness/en :/w An/en Update./url IWANN./url 1995/m ./m （/w 原始/a 内容/n 存档/v 于/ng 2/m
+March/en 1997/m ）/w ./m  /0 BibTex/en  /0 Internet/n
+ArchiveBrooks/en ,/w
+Rodney./url  /0 Elephants/en Don't/en Play/en Chess/en  /0 (/w PDF/en )/w ./m
+Robotics/en and/en Autonomous/en Systems./url 1990/m ,/w  /0 6: 3/t –/0 15/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m  /0 doi:10.1016/S0921-8890/url (/w 05/m )/w 80025-9./t
+（/w 原始/a 内容/n 存档/v (/w PDF/en )/w 于/ng 9/m
+August/en 2007/m ）/w ../m Buchanan/en ,/w Bruce/en G/en ./m  /0 A/b
+(/w Very/en )/w Brief/en History/en of/en Artificial/en Intelligence/en  /0 (/w PDF/en )/w ./m AI/en Magazine./url 2005: 53/t –/0 60/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m （/w 原始/a 内容/n 存档/v  /0 (/w PDF/en )/w 于/ng 26/m
+September/en 2007/m ）/w ./m Dennett/en ,/w
+Daniel./url  /0 Consciousness/en
+Explained./url The/en Penguin/en Press./url 1991./m  /0 ISBN/en  /0 0-7139-9037-6./t Dreyfus/en ,/w
+Hubert./url  /0 What/en
+Computers/en Can't/en Do/en ./m New/en York/en :/w MIT/en Press./url 1972./m  /0 ISBN/en  /0 0-06-011082-1./t Dreyfus/en ,/w
+Hubert./url What/en Computers/en  /0 Still/en  /0 Can't/en Do/en ./m New/en York/en :/w MIT/en Press./url 1979./m  /0 ISBN/en  /0 0-262-04134-0./t Dreyfus/en ,/w
+Hubert/en ;/w Dreyfus/en ,/w Stuart./url Mind/en over/en Machine/en :/w The/en Power/en of/en Human/en Intuition/en and/en Expertise/en in/en the/en Era/en of/en the/en Computer./url Oxford/en ,/w UK/en :/w Blackwell./url 1986./m  /0 ISBN/en  /0 0-02-908060-6./t Dreyfus/en ,/w
+Hubert./url What/en Computers/en  /0 Still/en  /0 Can't/en Do/en ./m New/en York/en :/w MIT/en Press./url 1992./m  /0 ISBN/en  /0 0-262-54067-3./t Edelman/en ,/w
+Gerald./url  /0 Gerald/en
+Edelman/en –/0 Neural/en Darwinism/en and/en Brain/en -/w based/en Devices./url Talking/en Robots./url 23/m November/en 2007./m Fearn/en ,/w Nicholas./url The/en Latest/en Answers/en to/en the/en Oldest/en Questions/en :/w A/en Philosophical/en Adventure/en with/en the/en World's/en Greatest/en Thinkers./url New/en York/en :/w Grove/en Press./url 2007./m  /0 ISBN/en  /0 0-8021-1839-9./t Forster/en ,/w
+Dion/en ./m  /0 Self/en validating/en consciousness/en
+in/en strong/en artificial/en intelligence/en :/w An/en African/en theological/en contribution/en  /0 (/w PDF/en )/w ./m Pretoria/en :/w University/en of/en South/en Africa./url 2006./m Gladwell/en ,/w
+Malcolm./url  /0 Blink./url New/en
+York/en :/w Little/en ,/w Brown/en and/en Co/en . 2005./m  /0 ISBN/en  /0 0-316-17232-4./t Haugeland/en ,/w
+John/en ./m Artificial/en Intelligence/en :/w The/en Very/en Idea/en ./m Cambridge/en ,/w Mass.:/url MIT/en Press./url 1985./m  /0 ISBN/en  /0 0-262-08153-9./t Hawkins/en ,/w
+Jeff/en ;/w Blakeslee/en ,/w Sandra./url  /0 On/n
+Intelligence./url New/en York/en ,/w NY/en :/w Owl/en Books./url 2005./m  /0 ISBN/en  /0 0-8050-7853-3./t Hofstadter/en ,/w
+Douglas./url  /0 G/en ö/0 del/en ,/w Escher/en ,/w Bach/en :/w an/en Eternal/en
+Golden/en Braid./url New/en York/en ,/w NY/en :/w Vintage/en Books./url 1979./m  /0 ISBN/en  /0 0-394-74502-7./t Howe/en ,/w J/en ./m  /0 Artificial/en
+Intelligence/en at/en Edinburgh/en University/en :/w a/en Perspective./url November/en 1994/m  /0 [/w 30/m August/en  /0 2007/m ]/w ../m Kahneman/en ,/w
+Daniel/en ;/w Slovic/en ,/w D/en ./m ;/w  /0 Tversky/en ,/w
+Amos/en ./m Judgment/en under/en uncertainty/en :/w Heuristics/en and/en biases./url New/en York/en :/w Cambridge/en University/en Press./url 1982./m  /0 ISBN/en  /0 0-521-28414-7./t Kolata/en ,/w G/en ./m How/en can/en computers/en get/en common/en sense?./url Science./url 1982/m ,/w  /0 217/m  /0 (/w 4566/m )/w : 1237/m –/0 1238./m  /0 doi:10.1126/science.217.4566.1237./url  /0 PMID/en  /0 17837639./m Kurzweil/en ,/w
+Ray/en ./m  /0 The/en
+Age/en of/en Spiritual/en Machines./url Penguin/en Books./url 1999./m  /0 ISBN/en  /0 0-670-88217-8./t Kurzweil/en ,/w
+Ray/en ./m  /0 The/en
+Singularity/en is/en Near/en ./m Penguin/en Books./url 2005./m  /0 ISBN/en  /0 0-670-03384-7./t Lakoff/en ,/w
+George./url Women/en ,/w Fire/en ,/w and/en Dangerous/en Things/en :/w What/en Categories/en Reveal/en About/en the/en Mind/en ./m University/en of/en Chicago/en Press./url 1987./m  /0 ISBN/en  /0 0-226-46804-6./t Lakoff/en ,/w
+George/en ;/w  /0 N/en ú/0 ñ/0 ez/en ,/w
+Rafael/en E/en ./m  /0 Where/en
+Mathematics/en Comes/en From/en :/w How/en the/en Embodied/en Mind/en Brings/en Mathematics/en into/en Being./url Basic/en Books./url 2000./m  /0 ISBN/en  /0 0-465-03771-2../t Lenat/en ,/w
+Douglas/en ;/w Guha/en ,/w R/en ./m V/en ./m Building/en Large/en Knowledge/en -/w Based/en Systems./url Addison-Wesley./url 1989./m  /0 ISBN/en  /0 0-201-51752-3./t Lighthill/en ,/w
+Professor/en Sir/en James./url Artificial/en Intelligence/en :/w a/en paper/en symposium./url Science/en Research/en Council./url 1973./m  /0 |/0 contribution/en =/0 被/ng 忽略/v
+(/w 帮助/v )/w Lucas/en ,/w
+John/en ./m Minds/en ,/w Machines/en and/en G/en ö/0 del/en ./m (/w 编/ng )/w Anderson/en ,/w A/en ./m R/en ./m  /0 Minds/en
+and/en Machines./url 1961/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m （/w 原始/a 内容/n 存档/v 于/ng 19/m
+August/en 2007/m ）/w ./m Maker/en ,/w Meg/en Houston./url  /0 AI/en @/w 50/m :/w
+AI/en Past/en ,/w Present/en ,/w Future./url Dartmouth/en College./url 2006/m  /0 [/w 16/m October/en  /0 2008/m ]/w ./m （/w 原始/a 内容/n 存档/v 于/ng 8/m
+October/en 2008/m ）/w ./m McCarthy/en ,/w
+John/en ;/w  /0 Minsky/en ,/w Marvin/en ;/w  /0 Rochester/en ,/w
+Nathan/en ;/w  /0 Shannon/en ,/w Claude./url  /0 A/b
+Proposal/en for/en the/en Dartmouth/en Summer/en Research/en Project/en on/en Artificial/en Intelligence./url 1955/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m （/w 原始/a 内容/n 存档/v 于/ng 26/m
+August/en 2007/m ）/w ../m McCarthy/en ,/w
+John/en ;/w Hayes/en ,/w P/en ./m J/en ./m  /0 Some/en philosophical/en problems/en from/en
+the/en standpoint/en of/en artificial/en intelligence./url Machine/en Intelligence./url 1969/m ,/w  /0 4: 463/t –/0 502/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m （/w 原始/a 内容/n 存档/v 于/ng 10/m
+August/en 2007/m ）/w ./m McCarthy/en ,/w
+John/en ./m  /0 What/en Is/en Artificial/en Intelligence?./url
+12/m November/en 2007./m Minsky/en ,/w
+Marvin./url Computation/en :/w Finite/en and/en Infinite/en Machines./url Englewood/en Cliffs/en ,/w N/en ./m J/en ./m :/w Prentice-Hall./url 1967./m  /0 ISBN/en  /0 0-13-165449-7./t Minsky/en ,/w
+Marvin./url  /0 The/en
+Emotion/en Machine./url New/en York/en ,/w NY/en :/w Simon/en &/0 Schusterl./url 2006./m  /0 ISBN/en  /0 0-7432-7663-9./t Moravec/en ,/w
+Hans/en ./m  /0 The/en Role/en
+of/en Raw/en Power/en in/en Intelligence./url 1976/m  /0 [/w 30/m August/en  /0 2007/m ]/w ./m Moravec/en ,/w
+Hans/en ./m Mind/en Children./url Harvard/en University/en Press./url 1988./m  /0 ISBN/en  /0 0-674-57616-0./t NRC/en ,/w
+(/w United/en States/en National/en Research/en Council/en )/w ./m Developments/en in/en Artificial/en Intelligence./url Funding/en a/en Revolution/en :/w Government/en Support/en for/en Computing/en Research./url National/en Academy/en Press./url 1999./m Needham/en ,/w
+Joseph./url  /0 Science/en
+and/en Civilization/en in/en China/en :/w Volume/en 2./m Caves/en Books/en Ltd/en . 1986./m Newell/en ,/w
+Allen/en ;/w  /0 Simon/en ,/w H/en ./m
+A/en ./m  /0 GPS/en :/w A/en Program/en that/en Simulates/en Human/en Thought./url (/w 编/ng )/w Feigenbaum/en ,/w E/en ./m A/en ./m ;/w Feldman/en ,/w J/en ./m Computers/en and/en Thought./url New/en York/en :/w McGraw-Hill./url 1963./m Newell/en ,/w
+Allen/en ;/w  /0 Simon/en ,/w H/en ./m
+A/en ./m  /0 Communications/en of/en the/en ACM/en  /0 19/m  /0 (/w 3/m )/w ./m
+1976./m  /0 |/0 contribution/en =/0 被/ng 忽略/v
+(/w 帮助/v )/w ./m Nilsson/en ,/w
+Nils/en ,/w  /0 Artificial/en
+Intelligence/en Prepares/en for/en 2001/m  /0 (/w PDF/en )/w ,/w AI/en Magazine/en ,/w 1983/m ,/w  /0 1/m  /0 (/w 1/m )/w ,/w
+Presidential/en Address/en to/en the/en  /0 Association/en
+for/en the/en Advancement/en of/en Artificial/en Intelligence.Penrose/url ,/w
+Roger./url The/en Emperor's/en New/en Mind/en :/w Concerning/en Computer/en ,/w Minds/en and/en The/en Laws/en of/en Physics./url  /0 Oxford/en
+University/en Press./url 1989./m  /0 ISBN/en  /0 0-19-851973-7./t Searle/en ,/w
+John/en ./m  /0 Minds/en ,/w Brains/en
+and/en Programs./url Behavioral/en and/en Brain/en Sciences./url 1980/m ,/w  /0 3/m  /0 (/w 3/m )/w : 417/m –/0 457./m  /0 doi:10.1017/S0140525X00005756.Searle/url ,/w
+John/en ./m Mind/en ,/w language/en and/en society./url New/en York/en ,/w NY/en :/w Basic/en Books./url 1999./m  /0 ISBN/en  /0 0-465-04521-9./t  /0 OCLC/en  /0 231867665/m
+43689264./m Serenko/en ,/w Alexander/en ;/w Detlor/en ,/w Brian./url  /0 Intelligent/en
+agents/en as/en innovations/en  /0 (/w PDF/en )/w ./m AI/en and/en Society./url 2004/m ,/w  /0 18/m  /0 (/w 4/m )/w : 364/m –/0 381./m  /0 doi:10.1007/s00146-004-0310-5.Serenko/url ,/w Alexander/en ;/w Ruhi/en ,/w Umar/en ;/w Cocosila/en ,/w Mihail./url  /0 Unplanned/en
+effects/en of/en intelligent/en agents/en on/en Internet/en use/en :/w Social/en Informatics/en approach/en  /0 (/w PDF/en )/w ./m AI/en and/en Society./url 2007/m ,/w  /0 21/m  /0 (/w 1/m –/0 2/m )/w : 141/m –/0 166./m doi:10.1007/s00146-006-0051-8.Shapiro/url ,/w Stuart/en C/en ./m Artificial/en Intelligence./url (/w 编/ng )/w Shapiro/en ,/w Stuart/en C/en ./m  /0 Encyclopedia/en
+of/en Artificial/en Intelligence/en  /0 (/w PDF/en )/w  /0 2/m nd/en ./m New/en York/en :/w John/en Wiley./url 1992: 54/t –/0 57./m  /0 ISBN/en  /0 0-471-50306-1./t Simon/en ,/w
+H/en ./m A/en ./m  /0 The/en Shape/en of/en Automation/en for/en Men/en and/en Management./url New/en York/en :/w Harper/en &/0 Row/en . 1965./m Skillings/en ,/w Jonathan./url  /0 Getting/en
+Machines/en to/en Think/en Like/en Us/en ./m cnet/en ./m 3/m July/en 2006/m  /0 [/w 3/m February/en  /0 2011/m ]/w ./m Tecuci/en ,/w Gheorghe./url Artificial/en Intelligence./url Wiley/en Interdisciplinary/en Reviews/en :/w Computational/en Statistics/en (/w Wiley/en )/w ./m March/en //w April/en 2012/m ,/w  /0 4/m  /0 (/w 2/m )/w :/w
+168/m –/0 180./m  /0 doi:10.1002/wics.200.Turing/url ,/w
+Alan/en ./m  /0 Computing/en Machinery/en and/en Intelligence./url  /0 Mind/en  /0 LIX/en ./m
+October/en 1950: 433/t –/0 460/m  /0 [/w 2008-08-18/t ]/w ./m  /0 doi:10.1093/mind/LIX.236.433./url  /0 ISSN/en  /0 0026-4423./t van/en der/en Walt/en ,/w Christiaan/en ;/w Bernard/en ,/w Etienne./url  /0 Data/en
+characteristics/en that/en determine/en classifier/en performance/en  /0 (/w PDF/en )/w . 2006/m </w !/w –/0 –/0 year/en is/en presumed/en based/en on/en acknowledgements/en at/en the/en end/en of/en the/en article/en –/0 –/0 >/w  /0 [/w 5/m
+August/en  /0 2009/m ]/w ./m Vinge/en ,/w
+Vernor./url  /0 The/en Coming/en Technological/en Singularity/en :/w
+How/en to/en Survive/en in/en the/en Post/en -/w Human/en Era/en . 1993./m Wason/en ,/w
+P/en ./m C/en ./m ;/w Shapiro/en ,/w D/en ./m Reasoning./url (/w 编/ng )/w Foss/en ,/w B/en ./m M/en ./m New/en horizons/en in/en psychology./url Harmondsworth/en :/w Penguin./url 1966./m Weizenbaum/en ,/w
+Joseph./url  /0 Computer/en
+Power/en and/en Human/en Reason./url San/en Francisco/en :/w W/en ./m H/en ./m Freeman/en &/0 Company./url 1976./m  /0 ISBN/en  /0 0-7167-0464-1./t
+
+扩展/v 阅读/v
+
+TechCast/en Article/en Series/en ,/w John/en Sagi/en ,/w  /0 Framing/en
+ConsciousnessBoden/en ,/w
+Margaret/en ,/w Mind/en As/en Machine/en ,/w  /0 Oxford/en University/en
+Press/en ,/w 2006/m Johnston/en ,/w John/en (/w 2008/m )/w "/0 The/en Allure/en of/en Machinic/en Life/en :/w Cybernetics/en ,/w Artificial/en Life/en ,/w and/en the/en New/en AI/en "/0 ,/w MIT/en PressMyers/en ,/w Courtney/en Boyd/en ed/en ./m (/w 2009/m )/w ./m  /0 The/en
+AI/en Report./url Forbes/en June/en 2009/m Serenko/en ,/w Alexander./url  /0 The/en
+development/en of/en an/en AI/en journal/en ranking/en based/en on/en the/en revealed/en preference/en approach/en  /0 (/w PDF/en )/w ./m Journal/en of/en Informetrics./url 2010/m ,/w  /0 4/m  /0 (/w 4/m )/w : 447/m –/0 459./m doi:10.1016/j.joi.2010.04.001.Sun/url ,/w R/en ./m &/0 Bookman/en ,/w L/en ./m (/w eds/en ./m )/w ,/w  /0 Computational/en Architectures/en :/w Integrating/en Neural/en and/en Symbolic/en Processes./url Kluwer/en Academic/en Publishers/en ,/w Needham/en ,/w MA/en . 1994./m
+
+站/ny 外链/n 接/ng
+
+
+
+
+从维/nz 基/ng 百科/n 的/u 姊妹/n 项目/n 了解/v 更多/n 有关/v
+“/w Artificial/en Intelligence/en ”/w 的/u 内容/n ：/w
+
+
+
+维基/nz 词典/n 上/f 的/u 字/n 词/n 解释/v
+
+
+
+维基/nz 共享资源/n 上/f 的/u 多媒体/n 资源/n
+
+
+
+维基/nz 学院/nc 上/f 的/u 学习资源/n
+
+
+
+维基/nz 语录/n 上/f 的/u 名言/n
+
+
+
+维基/nz 文库/n 上/f 的/u 原始/a 文献/n
+
+
+
+维基/nz 教科书/n 上/f 的/u 教科书/n 和/c 手册/n
+
+
+
+
+What/en Is/en AI/en ?/w —/w An/en
+introduction/en to/en artificial/en intelligence/en by/en AI/en founder/en  /0 John/en
+McCarthy./url 开放式/b 目录/n 计划/n 中/f 的/u AI/n 相关/v 内容/n AITopics/en —/w A/en large/en directory/en of/en links/en and/en other/en
+resources/en maintained/en by/en the/en  /0 Association/en
+for/en the/en Advancement/en of/en Artificial/en Intelligence/en ,/w the/en leading/en organization/en of/en academic/en AI/en researchers.Artificial/url Intelligence/en
+Discussion/en group/en 机器人/n 智能机/n 器/k 人/n 智能/n 研/ng 学/k 论坛/nh 关于/p 人工智能/n ，/w 模式/n 识别/v ，/w 科学/a 交流/v 的/u 学术/n 论坛/nh ChinaAI.org/url —/w 中国人/n 工智/nz 能/ng 网/n －/w 人工智能/n |/0 模式/n 识别/v |/0 数字/n 图像处理/n AI/en Depot/en —/w community/en discussion/en ,/w news/en ,/w and/en articlesLoebner/en Prize/en websiteGame/en AI/n —/w 计算机/np 游戏/n 开发者/n 的/u AI/n 资源/n Kurzweil/en CyberArt/en Technologies/en —/w 关于/p 人工智能/n 艺术/n 的/u 网站/nc ，/w 里面/f 有着/v 名/n 的/u 人工智能/n 绘画/n 程序/n AARON/en 关于/p 人工智能/n ，/w 专家系统/n prolog/n 语言/n 全/a 介绍/v 的/u wiki/en 网站/nc 中华民国/ns 人工智能/n 学会/nc —/w 以/p 促进/v 中华民国/ns 人工智能/n 及/c 相关/v 领域/n 之/u 研究/v 、/w 发展/v 、/w 应用/v 与/c 交流/v 为/p 宗旨/n 的/u 民间/n 组织/n 。/w MostAI/en —/w 关于/p 人工智能/n 的/u 网站/nc ，/w AI/en Fans/n 交流/v 平台/n 智能/n 程序/n 自/d 进化/v 概念/n

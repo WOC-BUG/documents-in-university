@@ -1,0 +1,20 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_42205905/article/details/80309601/url ,/w 那/c 虽/c 算不上/l 人工智能/n 时代/n 的/u 开启/v ，/w 但/c 也/d 足够/v 成为/v 一道/n 里程碑/n ，/w 而/c 卡斯帕罗夫/nr 却/d 不幸/a 的/u 成为/v 了/dg 碑/n 上/f 的/u 的/u 铭文/n 。/w 所谓/b 人工智能/n ，/w 就是/n 要/v 实现/v 所有/b 目前/t 还/d 无法/v 不/d .../m ,/w https://blog.csdn.net/weixin_42205905/article/details/80309601/url ,/w ,/w weixin/en _/0 42205905/m ,/w 2018-05-14/t ,/w //blog.csdn.net/weixin_42205905/article/details/80309601/url ,/w 157/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 42205905/m 的/u 博客/n ,/w 2018年05月14日 14:54:49/t ,/w 转/q 人工智能/n
+
+
+
+2018年05月14日 14:54:49/t
+weixin/en _/0 42205905/m
+阅读/v 数/m ：158/m
+
+
+
+
+
+
+
+
+
+
+
+​/0 电脑/np “/w 深蓝/b ”/w 击败/v 国际象棋/n 第一/m 人/n 最近/t 全/a 中国/ns 都/d 在/d 讨论/v “/w 中国/ns 大脑/n ”/w ，/w 但/c 更多/n 地/n 还是/c 停留/v 在/d 概念/n 意淫/n ，/w 其实/d 基于/p 大数据/n 的/u 人工智能/n 技术/n 早已/d 经/ng 渗透/v 进/ng 我们/r 的/u 生活/n ，/w 陪伴/v 在/d 我们/r 的/u 身边/s 。/w [/w 1/m ]/w 几百/mq 数千/nz 年后/t ，/w 或许/d 没/d 人/n 会/n 记得/v 卡斯帕罗夫/nr 曾/d 是/v 世界/n 第一/m 的/u 象棋/n 高手/n ，/w 但/c 人们/n 会/n 记得/v ，/w 他/r 败给/v 了/dg 电脑/np “/w 深蓝/b ”/w 。/w 那/c 虽/c 算不上/l 人工智能/n 时代/n 的/u 开启/v ，/w 但/c 也/d 足够/v 成为/v 一道/n 里程碑/n ，/w 而/c 卡斯帕罗夫/nr 却/d 不幸/a 的/u 成为/v 了/dg 碑/n 上/f 的/u 的/u 铭文/n 。/w 所谓/b 人工智能/n ，/w 就是/n 要/v 实现/v 所有/b 目前/t 还/d 无法/v 不/d 借助/v 人类/n 智慧/n 才能/v 实现/v 的/u 任务/n 的/u 集合/n 。/w 或许/d “/w 人工智能/n ”/w 听/n 起来/v 总/b 让/v 人/n 想起/v 科幻小说/n 或者/c 科幻电影/n 中/f 的/u 那些/r 聪明/a 的/u robot/en ，/w 很/d 有趣/a ，/w 但/c 却/d 缺乏/v 真实感/n 。/w 可/v 实际上/d 机器人/n 外形/n 只不过/d 是/v 人工智能/n 的/u 容器/n 之一/r ，/w 人工智能/n 很早/d 之前/f 就/d 以/p 多种/a 形态/n 出现/v 在/d 生活/n 之中/f 。/w

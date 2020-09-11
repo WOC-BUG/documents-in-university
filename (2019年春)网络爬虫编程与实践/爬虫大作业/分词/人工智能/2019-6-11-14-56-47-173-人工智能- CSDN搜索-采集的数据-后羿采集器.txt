@@ -1,0 +1,44 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_33766168/article/details/85355087/url ,/w CVD/en 纳米/n rn/n 做/v 完/ng 大气/a 校正/v 后/f ，/w 为了/p 突出/a 层次感/n 以便/c 分类/v ，/w 再/d 做/v 其它/r 的/u 变换/v （/w 如/c ，/w 直方图/n 拉伸/v ）/w ，/w 这个/r 大气/a 校正/v 到底/d 用/ng 在/d 哪/r 　了/dg rn/n 人工智能/n rnnet/en =/0 newff/en (/w minmaxc/en (/w p/en )/w ,/w [/w 32 1/m ]/w ,/w 'tansig'/en ,/w 'purelin'/en ,/w 'traincgf'/en )/w ;/w  /0 rnrn/en 10510667/m  /0 新建/v 的/u 一个/mq 群/n  /0 对/a 材料/n 分析/v 中用/n 到/ng 的/u 相关/v 软件/n 进行/v 讨论/v 和/c 交流/v  /0 感兴趣/a 的/u 进/ng ,/w https://blog.csdn.net/weixin_33766168/article/details/85355087/url ,/w ,/w weixin/en _/0 33766168/m ,/w 2005-05-10/t ,/w //blog.csdn.net/weixin_33766168/article/details/85355087/url ,/w 8/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 33766168/m 的/u 博客/n ,/w 2005年05月10日 13:37:00/t ,/w 转/q 人工智能/n
+
+
+
+2005年05月10日 13:37:00/t
+weixin/en _/0 33766168/m
+阅读/v 数/m ：/w 9/m
+
+
+
+
+
+
+
+
+
+
+
+CVD/en 纳米/n
+做/v 完/ng 大气/a 校正/v 后/f ，/w 为了/p 突出/a 层次感/n 以便/c 分类/v ，/w 再/d 做/v 其它/r 的/u 变换/v （/w 如/c ，/w 直方图/n 拉伸/v ）/w ，/w 这个/r 大气/a 校正/v 到底/d 用/ng 在/d 哪/r 　了/dg
+人工智能/n
+net/en =/0 newff/en (/w minmaxc/en (/w p/en )/w ,/w [/w 32 1/m ]/w ,/w {/0 'tansig'/en ,/w 'purelin'/en }/0 ,/w 'traincgf'/en )/w ;/w  /0
+10510667/m  /0 新建/v 的/u 一个/mq 群/n  /0 对/a 材料/n 分析/v 中用/n 到/ng 的/u 相关/v 软件/n 进行/v 讨论/v 和/c 交流/v  /0 感兴趣/a 的/u 进/ng
+有没有/vmv 人/n 投/v 过/d materials/en letters/en 阿/h
+我们/r 老师/nx 投/v 过/d
+很/d 慢/a ？/w 哦/e ，/w 我/r 还/d 以为/v 快/a  /0
+好像/d 有/v 很多/mq 中国人/n 投/v ？/w
+你/r 可以/a 看看/vv 它/r 的/u 文章/n 从/p 投/v 到/ng 出版/v 的/u 时间/n ，/w 参/n 不/d 多/a 不要/df 1/m 年/n
+收录/v 的/u 很快/d
+哦/e ，/w 没/d 未/d 过/d ，/w 不过/c 对/a 它/r 不/d 感冒/v
+好像/d 主编/n 是/v JAP/en 的/u
+网址/n ：/w http://www.iceknowledge.com/calis/url
+登陆/v 该/r 网址/n 后/f ，/w 点击/v ：/w “/w Enter/en the/en site/en ”/w 进入/v 检索/v 页面/n
+/0
+最后/f 一个/mq ，/w 比较/d 通俗/a 的/u 图书馆/ny
+
+http://lib.myrtvu.com.cn/url
+账号/n teacher/en
+密码/n teacher/en
+
+大家/r 可以/a 进去/v 看看/vv 有/v 什么/r 需要/n 的/u 。/w
+/0
+有没有/vmv 能进/nz IEEE/n 的/u 帐号/n 和/c 密码/n 啊/y ？/w

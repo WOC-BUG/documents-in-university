@@ -1,0 +1,20 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/jehuyang/article/details/80239922,人工智能深度学习神经网络在双色球彩票中的应用研究TensorFlow实战——使用LSTM预测彩票,https://blog.csdn.net/jehuyang/article/details/80239922,,jehuyang,2018-05-08,//blog.csdn.net/jehuyang/article/details/80239922,1202次阅读,人工智能 - jehuyang的博客,2018年05月08日 15:05:14,转        人工智能
+      
+      
+        
+                                                  2018年05月08日 15:05:14
+          jehuyang
+          阅读数：1203
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            TensorFlow实战——使用LSTM预测彩票双色球的深度学习预测

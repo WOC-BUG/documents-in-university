@@ -1,0 +1,441 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/fqx13624921006/article/details/82877651/url ,/w n/en n/en n/en n/en 人工智能/n 学习/v 线路图/n nnPython/en 教程/n nnnnnPython/en 教程/n nPython/en 简介/n nPython/en 环境/n 搭建/v nPython/en 中文/n 编码/n nPython/en 基础/n 语法/n nPython/en 变量/n 类型/n nnnPython/en 运算符/n nPython/en 条件/n 语句/n nPython/en 循环/v 语句/n nPython/en 数字/n nPython/en 列表/v (/w List/en )/w n/en .../m ,/w https://blog.csdn.net/fqx13624921006/article/details/82877651/url ,/w ,/w fqx/en 13624921006/m ,/w 2018-09-28/t ,/w //blog.csdn.net/fqx13624921006/article/details/82877651/url ,/w 6280/m 次/a 阅读/v ,/w 人工智能/n -/w fqx/en 13624921006/m 的/u 博客/n ,/w 2018年09月28日 10:38:44/t ,/w 转/q 人工智能/n
+
+
+
+2018年09月28日 10:38:44/t
+FFlike/en
+阅读/v 数/m ：6282/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n 学习/v 线路图/n
+
+Python/en 教程/n
+
+
+
+
+Python/en 教程/n
+Python/en 简介/n
+Python/en 环境/n 搭建/v
+Python/en 中文/n 编码/n
+Python/en 基础/n 语法/n
+Python/en 变量/n 类型/n
+
+
+Python/en 运算符/n
+Python/en 条件/n 语句/n
+Python/en 循环/v 语句/n
+Python/en 数字/n
+Python/en 列表/v (/w List/en )/w
+Python/en 字符串/n
+
+
+Python/en 元/q 组/n
+Python/en 字典/n (/w Dictionary/en )/w
+Python/en 日期/n 和/c 时间/n
+Python/en 函数/n
+Python/en 模块/n
+Python/en File/en 及/c os/n 模块/n
+
+
+Python/en 文件/n IO/en
+Python/en 异常/a 处理/v
+Python/en 面向/v 对象/n
+Python/en 正则/n 表达式/n
+Python/en CGI/n 编程/v
+python/en 操作/v mysql/en 数据库/n
+
+
+Python/en 网络编程/n
+Python/en 使用/v SMTP/n 发送/v 邮件/n
+Python/en 多线程/n
+Python/en XML/n 解析/v
+python/en GUI/n 编程/v (/w Tkinter/en )/w
+Python2.x/url 与/c 3/m ​/0 ​/0 ./m x/m 版本/n 区别/n
+
+
+Python/en IDE/n
+Python/en JSON/en
+Python/en 100/m 例/n
+Python/en 实例/n 教程/n
+Python/en 3/m 实例/n 教程/n
+
+
+
+
+Python/en 文本/n 处理/v
+
+
+
+
+01/m Python/en -/w 文本/n 处理/v
+02/m Python/en -/w 文本/n 处理/v 简介/n
+03/m Python/en -/w 文本/n 处理/v 环境/n
+04/m Python/en -/w 字符串/n 不变/v 性/k
+05/m Python/en -/w 排序/v 线/n
+06/m Python/en -/w 重新/d 格式化/v 段落/n
+
+
+07/m Python/en -/w 在/d 段落/n 中计/v 算/d 令牌/n
+08/m Python/en -/w 转换/v 二进制/n 为/p ASCII/n 码/ng
+09/m Python/en -/w 字符串/n 作为/n 文件/n
+10/m Python/en -/w 向/p 后文/n 件/ng 阅读/v
+11/m Python/en -/w 过滤/v 重复/v 的/u 单词/n
+12/m Python/en -/w 从/p 文本/n 中/f 提取/v 电子邮件/ln
+
+
+13/m Python/en -/w 从/p 文本/n 提取/v URL/n
+14/m Python/en -/w 格式化/v 打印/v 数字/n
+15/m Python/en -/w 文本/n 处理/v 状态/n 机/np
+16/m Python/en -/w 资本化/vn 和/c 翻译/n
+17/m Python/en -/w 标记/n 化/k
+18/m Python/en -/w 删除/v 停用/v 词/n
+
+
+19/m Python/en -/w 同义词/n 和/c 反义词/n
+20/m Python/en -/w 文本/n 翻译/n
+21/m Python/en -/w 单词/n 替换/v
+22/m Python/en -/w 拼写/v 检查/v
+23/m Python/en -/w WordNet/en 界面/n
+24/m Python/en -/w Corpora/en Access/en
+
+
+25/m Python/en -/w 标记/n 单词/n
+26/m Python/en -/w Chunks/en 和/c Chinks/en
+27/m Python/en -/w 块/q 分类/v
+28/m Python/en -/w 文本/n 分类/v
+29/m Python/en -/w Bigrams/en
+30/m Python/en -/w 处理/v PDF/n
+
+
+31/m Python/en -/w 处理/v Word/n 文档/n
+32/m Python/en -/w 阅读/v RSS/n 提要/n
+33/m Python/en -/w 情感/n 分析/v
+34/m Python/en -/w 搜索/n 和/c 匹配/v
+35/m Python/en -/w 文本/n Munging/en
+36/m Python/en -/w 文本/n 包装/n
+
+
+37/m Python/en -/w 频率/n 分布/v
+38/m Python/en -/w 文本/n 摘要/n
+39/m Python/en -/w 词干/n 算法/n
+40/m Python/en -/w 约束/v 搜索/n
+
+
+
+
+AI/n 与/c Python/en
+
+
+
+
+人工智能/n 的/u 基本/a 概念/n
+Python/en 的/u 人工智能/n 入门/v
+Python/en 机器/np 学习/v
+Python/en 数据/n 准备/v
+Python/en 监督/v 学习/v ：/w 分类/v
+Python/en 监督/v 学习/v ：/w 回归/v
+
+
+Python/en 逻辑/n 编程/v
+Python/en 无人/b 监督/v 学习/v ：/w 聚/v 类/n
+Python/en 自然语言/n 处理/v
+自然语言/n 工具包/n NLTK/en
+Python/en 分析/v 时间序列/n 数据/n
+Python/en 语音/n 识别/v
+
+
+Python/en 启发式/b 搜索/n
+Python/en 游戏/n
+基于/p Python/en 神经网络/n
+Python/en 强化/v 学习/v
+Python/en 遗传/v 算法/n
+Python/en 计算机/np 视觉/n
+
+
+Python/en 深度/n 学习/v
+
+
+
+
+Numpy/en 教程/n
+
+
+
+
+NumPy/en 教程/n
+NumPy/en 介绍/v
+NumPy/en 环境/n
+NumPy/en ndarray/en 对象/n
+NumPy/en 数据/n 类型/n
+NumPy/en 数组/n 属性/n
+
+
+NumPy/en 数组/n 创建/v 例/n 程/ng
+来自/v 现有/v 数据/n 的/u NumPy/en 数组/n
+数值/n 范围/n 的/u NumPy/en 数组/n
+NumPy/en 索引/n 和/c 切片/n
+NumPy/en 高级/a 索引/n
+NumPy/en 广播/n
+
+
+NumPy/en 遍历/v 数组/n
+NumPy/en 数组/n 操作/v
+NumPy/en 二元/b 运算符/n
+NumPy/en 字符串/n 函数/n
+NumPy/en 数学/n 函数/n
+NumPy/en 算术/n 运算/v
+
+
+NumPy/en 统计/v 函数/n
+NumPy/en 排序/v ，/w 搜索/n 和/c 计数/v 功能/n
+NumPy/en 字节/n 交换/v
+NumPy/en 副本/n 和/c 视图/n
+NumPy/en 矩阵/n 库/n
+NumPy/en 线性代数/n
+
+
+NumPy/en Matplotlib/en
+使用/v Matplotlib/en 的/u NumPy/en 直方图/n
+IO/en 与/c NumPy/en
+
+
+
+
+Scipy/en 教程/n
+
+
+
+
+SciPy/en 教程/n
+SciPy/en 简介/n
+SciPy/en 环境/n 设置/v
+SciPy/en 的/u 基本功/n 能/ng
+SciPy/en Cluster/en
+SciPy/en 常量/n
+
+
+SciPy/en FFTpack/en
+SciPy/en 集成/b
+SciPy/en 插值/vn
+SciPy/en 输入/v 和/c 输出/v
+SciPy/en Linalg/en
+SciPy/en Ndimage/en
+
+
+SciPy/en 优化/v
+SciPy/en Stats/en
+SciPy/en CSGraph/en
+SciPy/en 空间/n
+SciPy/en ODR/en
+SciPy/en 特殊/a 包装/n
+
+
+
+
+Pandas/en 教程/n
+
+
+
+
+Pandas/en 教程/n
+Pandas/en 简介/n
+Pandas/en 环境/n 设置/v
+Pandas/en 数据结构/n 简介/n
+Pandas/en 序列/n
+Pandas/en DataFrame/en
+
+
+Pandas/en 面板/n
+Pandas/en 基本功/n 能/ng
+Pandas/en 描述性/n 统计/v
+Pandas/en 函数/n 应用程序/n
+Pandas/en 重建/v 索引/n
+Pandas/en 迭代/v
+
+
+Pandas/en 排序/v
+Pandas/en 处理/v 文本/n 数据/n
+Pandas/en 选项/n 和/c 自定/nz 义/ng
+Pandas/en 索引/n 和/c 选择/n 数据/n
+Pandas/en 统计/v 函数/n
+Pandas/en 窗口/n 函数/n
+
+
+Pandas/en Aggregations/en
+Pandas/en 缺少/v 数据/n
+Pandas/en GroupBy/en
+Pandas/en 合并/v _/0 加入/v
+Pandas/en 串联/v
+Pandas/en 日期/n 功能/n
+
+
+Pandas/en Timedelta/en
+Pandas/en 分类/v 数据/n
+Pandas/en 可视化/vn
+PandasIO/en 工具/n
+Pandas/en 稀疏/a 数据/n
+Pandas/en Caveats/en &/0 Gotchas/en
+
+
+Pandas/en 与/c SQL/n 比较/d
+
+
+
+
+Matplotlib/en 教程/n
+
+
+
+
+入门/v
+图例/n 、/w 标题/n 和/c 标签/n
+条形/n 图/n
+直方图/n
+散/a 点/m 图/n
+堆/k 迭/d 图/n
+
+
+饼图/n
+从/p 文件/n 加载/v 数据/n
+使用/v numpy/en 从/p 文件/n 加载/v 数据/n
+
+
+
+
+Seaborn/en 教程/n
+
+
+
+
+Seaborn/en 介绍/v
+Seaborn/en 环境/n 设置/v
+Seaborn/en 导入/v 数据/n 集/n 和库/nr
+Seaborn/en Figure/en Aesthetic/en
+Seaborn/en 调色板/n
+Seaborn/en 直方图/n
+
+
+Seaborn/en 核/n 密度/n 估计/v
+Seaborn/en 可视化/vn 成/ng 对/a 关系/n
+Seaborn/en 绘制/v 分类/v 数据/n
+Seaborn/en 观测/v 分布/v
+Seaborn/en 统计/v 估计/v
+Seaborn/en 绘制/v 宽幅/n 数据/n
+
+
+Seaborn/en 多/a 面板/n 分类/v 图/n
+Seaborn/en 线性/n 关系/n
+Seaborn/en Facet/en Grid/en
+Seaborn/en Pair/en Grid/en
+
+
+
+
+Python/en 数据/n 科学/a 教程/n
+
+
+
+
+Python/en 数据/n 科学/a 教程/n
+Python/en 数据/n 科学/a 介绍/v
+Python/en 数据/n 科学/a 环境/n 设置/v
+Python/en Pandas/en
+Python/en Numpy/en
+Python/en SciPy/en
+
+
+Python/en Matplotlib/en
+Python/en -/w 数据/n 清理/v
+Python/en 数据/n 操作/v
+Python/en 数据/n 清理/v
+处理/v CSV/en 数据/n 的/u Python/en
+Python/en 处理/v JSON/en 数据/n
+
+
+Python/en 处理/v XLS/en 数据/n
+Python/en 关系/n 数据库/n
+Python/en NoSQL/en 数据库/n
+Python/en 日期/n 和/c 时间/n
+Python/en 数据/n 调整/v
+Python/en 数据/n 聚合/v
+
+
+Python/en 阅读/v HTML/n 页面/n
+Python/en 处理/v 非/d 结构化/vn 数据/n
+Python/en Word/en Tokenization/en
+Python/en 的/u 词干/n 化/k 和/c 词形/n 化/k
+Python/en 图表/n 属性/n
+Python/en 图表/n 样式/n
+
+
+Python/en Box/en Plots/en
+Python/en 热图/nz
+Python/en 散/a 点/m 图/n
+Python/en 泡泡/n 图/n
+Python/en 3D/b 图表/n
+Python/en 时间序列/n
+
+
+Python/en 地理/n 数据/n
+Python/en 图形/n 数据/n
+Python/en 测量/v 中心/nc 趋势/n
+Python/en 测量/v 差异/n
+Python/en 正态分布/n
+Python/en 二/m 项/ng 分布/v
+
+
+Python/en 泊松/ns 分布/v
+Python/en 伯/ng 努/v 利/ag 分布/v
+Python/en 的/u P/n 值/a
+Python/en 关联/v
+Python/en 卡/n 方/a 检验/v
+Python/en 线性/n 回归/v
+
+
+
+
+Python/en 深度/n 学习教程/n
+
+
+
+
+Python/en 深度/n 学习教程/n
+Python/en 深度/n 学习/v 介绍/v
+Python/en 深度/n 学习/v 环境/n
+Python/en 深度/n 基础/n 机器/np 学习/v
+Python/en 深度/n 学习/v 人工/b 神经网络/n
+Python/en 深度/n 学习/v 深度/n 神经网络/n
+
+
+Python/en 深度/n 学习/v 基础/n
+Python/en 深度/n 学习/v 训练/v 神经网络/n
+Python/en 深度/n 学习/v 计算/v 图/n
+Python/en 深度/n 学习/v 应用程序/n
+Python/en 深度/n 学习/v 库/n 和/c 框架/n
+Python/en 深度/n 学习/v 实现/v
+
+
+
+
+</w //w div/en >/w
+</w link/en href/en =/0 "/0 https://csdnimg.cn/release/phoenix/mdeditor/markdown_views-8cccb36679.css/url "/0 rel/en =/0 "/0 stylesheet/en "/0 >/w
+</w //w div/en >/w
+123/m

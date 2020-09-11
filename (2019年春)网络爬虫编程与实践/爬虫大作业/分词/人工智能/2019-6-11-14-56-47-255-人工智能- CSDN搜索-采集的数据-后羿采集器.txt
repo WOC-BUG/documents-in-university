@@ -1,0 +1,806 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/miao243062960/article/details/83626266/url ,/w nn/en 一/m 、/w 人工智能/n 介绍/v nn/en  /0 nn/en 人工智能/n 是/v 很多/mq 技术/n 的/u 总称/n ，/w 包括/v 机器人/n 、/w 语言/n 识别/v 、/w 图像/n 识别/v 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng ，/w 因为/c 人工智能/n 尚/ag 在/d 发展/v 阶段/n ，/w 所以/c 也/d 没有/d 非常/b 精准/a 的/u 定义/n ，/w 在行/a 业内/b ，/w 人工智能/n 与/c 大数据/n 密不可分/lv ，/w 可以/a 将/d 很多/mq 大数据/n 的/u 应用/v （/w 云计算/n 平台/n 等/ng ）/w 归结/n 为人/v 工智/nz 能/ng 。/w nn/en 但/c 目前/t 的/u 科研工作/n 都/d 集中/a 在/d 弱/a 人工智能/n 这部分/mq ，/w 并/c 很/d 有/v 希望/n 在/d 近期/t 取得/v 重大/a 突破/v ，/w 电影/n 里/f 的/u 人工智能/n 多半/d 都/d 是在/n 描绘/v 强人/n 工智/nz 能/ng ，/w 而/c 这部分/mq 在/d 目前/t 的/u 现实/a 世界/n .../m ,/w https://blog.csdn.net/miao243062960/article/details/83626266/url ,/w ,/w miao/en 243062960/m ,/w 2018-11-01/t ,/w //blog.csdn.net/miao243062960/article/details/83626266/url ,/w 303/m 次/a 阅读/v ,/w 人工智能/n -/w miao/en 243062960/m 的/u 博客/n ,/w 2018年11月01日 20:19:32/t ,/w 转/q 人工智能/n
+
+
+
+2018年11月01日 20:19:32/t
+蟹/n 剥壳/v
+阅读/v 数/m ：304/m
+
+
+
+
+
+
+
+
+
+
+
+/0
+
+一/m 、/w 人工智能/n 介绍/v
+
+/0
+
+人工智能/n 是/v 很多/mq 技术/n 的/u 总称/n ，/w 包括/v 机器人/n 、/w 语言/n 识别/v 、/w 图像/n 识别/v 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng ，/w 因为/c 人工智能/n 尚/ag 在/d 发展/v 阶段/n ，/w 所以/c 也/d 没有/d 非常/b 精准/a 的/u 定义/n ，/w 在行/a 业内/b ，/w 人工智能/n 与/c 大数据/n 密不可分/lv ，/w 可以/a 将/d 很多/mq 大数据/n 的/u 应用/v （/w 云计算/n 平台/n 等/ng ）/w 归结/n 为人/v 工智/nz 能/ng 。/w
+
+但/c 目前/t 的/u 科研工作/n 都/d 集中/a 在/d 弱/a 人工智能/n 这部分/mq ，/w 并/c 很/d 有/v 希望/n 在/d 近期/t 取得/v 重大/a 突破/v ，/w 电影/n 里/f 的/u 人工智能/n 多半/d 都/d 是在/n 描绘/v 强人/n 工智/nz 能/ng ，/w 而/c 这部分/mq 在/d 目前/t 的/u 现实/a 世界/n 里/f 难以/d 真正/b 实现/v ，/w 因为/c 一方面/ldm 知识/n 比较/d 难以/d 总结/n ，/w 另一方面/ldm 总结/n 出来/v 的/u 知识/n 难以/d 教给/v 计算机/np ，/w 因为/c 你/r 自己/r 还/d 迷迷/v 煳/a 煳/a ，/w 觉得/v 似乎/d 有/v 规律/n ，/w 就是说/ldm 不/d 出来/v ，/w 又/d 怎么/r 能/ng 通过/p 编程/v 教给/v 计算机/np 呢/ng ？/w （/w 通常/b 将/d 人工智能/n 分为/v 弱/a 人工智能/n 和/c 强人/n 工智/nz 能/ng ，/w 前者/r 让/v 机器/np 具备/v 观察/v 和/c 感知/v 的/u 能力/n ，/w 可以/a 做到/v 一定/b 程度/n 的/u 理解/v 和/c 推理/v ，/w 而/c 强人/n 工智/nz 能/ng 让/v 机器/np 获得/v 自适/a 应能/nz 力/n ，/w 解决/v 一些/mq 之前/f 没有/d 遇到/v 过/d 的/u 问题/n ）/w 。/w
+
+弱/a 人工智能/n 有/v 希望/n 取得/v 突破/v ，/w 是/v 如何/r 实现/v 的/u ，/w “/w 智能/n ”/w 又/d 从/p 何而来/nr 呢/ng ？/w 这/r 主要/b 归功/v 于一/nr 种/ng 实现/v 人工智能/n 的/u 方法/n ——/w 机器/np 学习/v 。/w
+
+/0  /0  /0 机器/np 是/v 怎么学/n 习/ng 的/u 呢/ng ？/w 机器/np 储存/v 数据/n 的/u 能力/n 和/c 统计/v 能力/n 很/d 强/a ，/w 基于/p 统计学/n 习/ng ，/w 一定/b 能/ng 从/p 大量/mq 的/u 数字/n 中发/j 现/d 一定/b 的/u 规律/n 。/w
+
+/0
+
+例/n 、/w
+
+在/d 娱乐圈/n 有/v 很/d 好/a 的/u 一个/mq 例子/n ，/w 可见一斑/lv
+
+有/v 一/m 位/q 网友/n 统计/v 了/dg 知名/a 歌手/n 在/d 大陆/n 发行/v 的/u 9/m 张/ng 专辑/n 中 11/m 7/m 首/m 歌曲/n 的/u 歌词/n ，/w 同一/b 词语/n 在/d 一首/nz 歌/n 出现/v 只/bg 算/d 一次/mq ，/w 形容词/n 、/w 名词/n 和/c 动词/n 的/u 前/f 十名/nz 如下/v 表/n 所/n 示/vg （/w 词语/n 后面/f 的/u 数字/n 是/v 出现/v 的/u 次数/n ）/w ：/w
+
+
+a/b
+
+
+形容词/n
+
+
+b/n
+
+
+名词/n
+
+
+c/n
+
+
+动词/n
+
+
+0/m
+
+
+孤独/a :/w 34/m
+
+
+0/m
+
+
+生命/n :/w 50/m
+
+
+0/m
+
+
+爱/v :/w 54/m
+
+
+1/m
+
+
+自由/a :/w 17/m
+
+
+1/m
+
+
+路/ny :/w 37/m
+
+
+1/m
+
+
+碎/a :/w 37/m
+
+
+2/m
+
+
+迷惘/a :/w 16/m
+
+
+2/m
+
+
+夜/q :/w 29/m
+
+
+2/m
+
+
+哭/v :/w 35/m
+
+
+3/m
+
+
+坚强/a :/w 13/m
+
+
+3/m
+
+
+天空/n :/w 24/m
+
+
+3/m
+
+
+死/a :/w 27/m
+
+
+4/m
+
+
+绝望/a :/w 8/m
+
+
+4/m
+
+
+孩子/n :/w 23/m
+
+
+4/m
+
+
+飞/bg :/w 26/m
+
+
+5/m
+
+
+青春/n :/w 7/m
+
+
+5/m
+
+
+雨/n :/w 21/m
+
+
+5/m
+
+
+梦想/n :/w 14/m
+
+
+6/m
+
+
+迷茫/a :/w 6/m
+
+
+6/m
+
+
+石头/n :/w 9/m
+
+
+6/m
+
+
+祈祷/v :/w 10/m
+
+
+7/m
+
+
+光明/a :/w 6/m
+
+
+7/m
+
+
+鸟/n :/w 9/m
+
+
+7/m
+
+
+离去/v :/w 10/m
+
+/0
+
+如果/c 我们/r 随便/a 写/v 一/m 串/q 数字/n ，/w 然后/c 按照/p 数位/n 依次/d 在/d 形容词/n 、/w 名词/n 和/c 动词/n 中/f 取出/v 一个/mq 词/n ，/w 连/d 在/d 一起/d 会/n 怎么样/r 呢/ng ？/w
+
+例如/v 取/v 圆周率/n 3.1415926/m ，/w 对应/v 的/u 词语/n 是/v ：/w 坚强/a ，/w 路/ny ，/w 飞/bg ，/w 自由/a ，/w 雨/n ，/w 埋/v ，/w 迷惘/a 。/w 稍微/d 连接/v 和/c 润色/v 一下/d ：/w
+
+坚强/a 的/u 孩子/n ，/w
+
+依然/d 前行/v 在/d 路上/s ，/w
+
+张开/v 翅膀/n 飞/bg 向/p 自由/a ，/w
+
+让/v 雨水/n 埋葬/v 他/r 的/u 迷惘/a 。/w
+
+是不是/vbv 有点/d 感觉/n 了/dg ？/w 当然/b 真正/b 基于/p 统计/v 的/u 学习/v 算法/n 比/p 这个/r 简单/a 的/u 统计/v 复杂/a 的/u 多/a 。/w
+
+/0
+
+/0
+
+/0
+
+/0
+
+正文/n
+
+一/m 、/w 人工智能/n 相关/v 工作/n 介绍/v
+
+人工智能/n 方向/n 的/u 工作/n :/w
+
+1./m 数据/n 科学家/n
+
+2./m 软件工程/n 师/n
+
+3./m 机器/np 学习/v 工程师/nx
+
+4./m 软件/n 架构/n 师/n
+
+5./m 数据分析/n 师/n
+
+6./m 数据/n 仓库/n 工程师/nx
+
+7./m 全栈/nr 开发者/n
+
+8./m 研究科/n 学家/n
+
+等/ng
+
+/0
+
+二/m 、/w 人工智能/n 工程师/nx 的/u 技能/n 要求/n
+
+/0
+
+关于/p 数学/n
+
+/0
+
+数学/n 方面/n 技能/n 的/u 掌握/v 取决于/v 研究/v 深度/n 。/w 人工智能/n 并/c 不依/v 赖/a 与/c 任何/r 编程语言/n ，/w 这/r 意味着/v 开发/v 人员/n 需要/n 掌握/v 处理/v 数据/n 相关/v 的/u 其他/r 技术/n ，/w 其中包括/n 了/dg 算法/n ，/w 代数和/n 微积分/n 。/w 具备/v 这些/r 技能/n 的/u 重要性/n 显而易见/iv 。/w 同时/c 我们/r 还/d 需要/n 了解/v 人类/n 对于/p 自然语言/n 处理/v 的/u 思维/n 过程/n ，/w 其中/r 的/u 上下文/n 联系/v ，/w 隐含/v 意图/n 以及/c 所/n 描述/v 事物/n 间/f 的/u 联系/v 等等/u 。/w 这/r 需要/n 深入/a 洞察/v 人类/n 的/u 思维/n 过程/n 。/w
+
+数学/n 专业/a 的/u 学生/n 更/d 容易/a 成为/v 一名/nz 人工智能/n 项目/n 中/f 的/u 软件开发/n 人员/n ，/w 因为/c 他们/r 已经/d 具备/v 了/dg 统计学/n 的/u 基础/n ，/w 而/c 这/r 对/a 人工智能/n 或/c 机器/np 学习/v 是/v 非常/d/mopo(d) 重要/a 的/u 。/w 相反/v 一名/nz 普通/a 的/u 软件开发/n 人员/n 不可/v 能/ng 简单/a 的/u 通过/p 某些/r Python/en 库/n 的/u 运用/v 就/d 能/ng 解决/v 实际/a 问题/n 。/w
+
+统计学/n ，/w 数据/n 建模/v ，/w 大数据/n ，/w 深度/n 学习/v 和/c 递归/nz 神经网络/n 等/ng 知识/n 与/c 一/m 种/ng 或/c 多种/a 编程语言/n 相/d 结合/v ，/w 对于/p 试图/v 进入/v 人工智能/n 的/u 开发/v 人员/n 来说/u 是/v 一个/mq 比较/d 好/a 的/u 出发点/n 。/w 进而/c 把/p 实际/a 问题/n 从/p 更/d 高层次/n 的/u 角度/n 抽象/a 出来/v ，/w 从而/c 使/ng 的/u 计算机/np 能够/v 理解/v 并进/v 行/a 处理/v 。/w
+
+良好/a 的/u 数学/n 知识/n 和数/n 据/ng 科学/a 的/u 学术/n 背景/n ，/w 通过/p 不同/a 方式/n （/w 各种/r 研讨会/n ，/w 个人/n 博客/n 等/ng ）/w 跟上/v 这个/r 快速/b 发展/v 的/u 领域/n 。/w 擅长/v 处理/v 大数据/n 集/n 。/w 能够/v 快速/b 掌握/v 机器/np 学习/v 的/u 工具集/nz 并将/nz 其/r 集成/b 到/ng 更/d 大/a 的/u 项目/n 中/f 。/w
+
+对/a 众多/a 相关/v 数学/n 知识/n 进行/v 梳理/v ，/w 并建/v 立/d 自己/r 的/u 人工智能/n 知识/n 体系/n 。/w 比如/v ，/w  /0 了解/v 数据/n 类型/n ，/w 掌握/v 机器/np 学习/v ，/w 相关/v 算法/n ，/w 决策/n 树/n 和神经/nr 网络/n 。/w 还要/v 了解/v 业界/n 的/u 知名/a 项目/n （/w 开源/v 项目/n ，/w Apache/en ，/w 谷歌/nt ，/w IBM/nq ，/w 微软/nt ，/w R/en ，/w Python/en 等等/u ）/w 。/w
+
+/0
+
+/0
+
+关于/p 数据/n 科学/a
+
+/0
+
+能够/v 读/ng 懂/v 数据/n ，/w 挖掘/v 数据/n 中信/nt 息/ng ，/w 发现/v 数据/n 中/f 的/u 问题/n ，/w 对数/n 据/ng 敏感/a ，/w 能够/v 绘制/v 数据/n 地图/n 。/w 精通/v Python/en 和/c Java/n 。/w 了解/v TensorFlow/en ，/w Caf/en é/0 和/c Torch/en 等/ng 主流/n 人工智能/n 库/n 。/w  /0 能够/v 从/p HDFS/en 数据/n 湖/ny 或/c 数据库/n 中/f 提取/v 正确/a 的/u 数据/n 。/w  /0 知道/v 如何/r 使用/v 过滤器/n 。/w  /0 数据/n 的/u 质量/n 很/d 重要/a 。/w  /0 了解/v 如何/r 策划/n 和/c 准备/v 数据/n 。/w
+
+通过/p 各种/r 渠道/n 获取/v 理论/n 基础知识/n （/w 比如/v Coursera/en 上/f 的/u 相关/v 课程/n ）/w 。/w  /0 开始/v 为/p 一家人/n 工智/nz 能/ng 公司/nc 工作/n 或/c 在/d 现有/v 工作/n 中进/nz 行/a 一些/mq 人工智能/n 方面/n 的/u 实践/v 。/w  /0 我们/r 只是/c 让开/v 发/q 人员/n 使用/v 神经网络/n 来/u 构建/v 应用程序/n ，/w 以/p 了解/v 图像/n 何时/r 被/ng 完全/a 正确/a 呈现/v 。/w 了解/v 人工智能/n 框架/n 和/c Spark/en 。/w
+
+数据/n 科学家/n 要/v 具备/v 计算机/np 科学/a ，/w 分析部/n 署/ng ，/w ETL/en 等/ng 知识/n 。/w 注重/v 可用/a 数据/n ，/w 掌握/v 训练/v 系统/a 的/u 方法/n ，/w 从而/c 获得/v 最佳/z 的/u 训练/v 结果/c 。/w 通过/p 相关/v 培训/v 或/c 黑客/n 马拉松/n 提升/v 自身/r 技能/n 。/w  /0 如果/c 从事/v 机器/np 学习/v 算法/n 研究/v ，/w 与/c 语言学/n 团队/n 合作/v 对/a 机器/np 学习/v 数据/n 进行/v 预处理/v 。/w
+
+能够/v 灵活/a 熟练/a 地/n 使用/v 开源/v 工具/n ，/w 专注/a 于/ng 业务/n 问题/n 解决/v 。/w 通过/p R/en 和/c Python/en 进行/v 迭代/v 建模/v ，/w 并/c 使用/v Scala/en 进行/v 分布式/b 计算/v 。/w
+
+/0
+
+/0
+
+其他/r
+
+/0
+
+后/f 端/ag 开发/v 人员/n 需要/n 了解/v 机器/np 学习/v 和/c 大量/mq 关于/p 人工智能/n 的/u 开源/v 技术/n 。/w  /0 前端/f 开发/v 人员/n 需要/n 了解/v 聊天/v 机器人/n 及其/c 会话/v 流程/n 。/w
+
+开始/v 尝试/v 任意/b 一/m 种/ng 人工智能/n 技术/n ，/w 进行/v 不同于/n 传统/a 的/u 思维/n 方式/n 来/u 解决/v 问题/n 。/w 这点/mq 非常/b 重要/a 。/w 人工智能/n 开发/v 人员/n 主要/b 的/u 工作/n 就是/n “/w 教/ng ”/w 机器/np 。/w 把/p 问题/n 进行/v 分解/v 并/c 思考/v 如何/r 提高/v 训练/v 的/u 有效/a 。/w 然后/c 观察/v 训练/v 的/u 过程/n 并/c 对/a 并重/v 新/a 成为/v 学习/v 基础/n 。/w  /0 想想/v 你/r 需要/n 系统/a 理解/v 的/u 核心/n 概念/n 是/v 什么/r 。/w  /0 有/v 很多/mq 途径/n 可以/a 做/v 你/r 正在/n 寻找/v 的/u 东西/n 。/w  /0 获得/v 不同/a 的/u 心态/n 并/c 解决/v 手头/n 的/u 问题/n 。/w
+
+如今/t ，/w 由于/c 人工智能/n 的/u 最新/a 应用/v 需要/n 高度/b 专业化/v 的/u 理论/n 和实/nz 践/vg 知识/n ，/w 通过/p 研读/v 相关/v 的/u 博士/nx 学位/n 正/a 迅速/a 成为/v 最/d 基本/a 要求/n 。/w
+
+/0
+
+/0
+
+三/m 、/w 学习/v 路径/n
+
+阶段/n 一/m ：/w 数学基础/n
+
+1./m 数据分析/n
+
+常数/n e/en
+
+导数/n
+
+梯度/n
+
+Taylor/en
+
+gini/en 系数/n
+
+信息/n 熵/ng 与/c 组合/n 数/m
+
+2./m 概率论/n
+
+概率论/n 基础/n
+
+古典/b 模型/n
+
+常见/a 概率/n 分布/v
+
+大数/n 定理/n 和/c 中心/nc 极限/n 定理/n
+
+协方差/n (/w 矩阵/n )/w 和相/nr 关系/n 数/m
+
+最大/a 似/d 然/c 估计/v 和/c 最大/a 后/f 验/v 估计/v
+
+3./m 线性代数/n 及/c 矩阵/n
+
+线性/n 空间/n 及/c 线性/n 变换/v
+
+矩阵/n 的/u 基本/a 概念/n
+
+状态/n 转移/v 矩阵/n
+
+特征/n 向量/n
+
+矩阵/n 的/u 相关/v 乘法/n
+
+矩阵/n 的/u QR/n 分解/v
+
+对称/a 矩阵/n 、/w 正交/b 矩阵/n 、/w 正定/ns 矩阵/n
+
+矩阵/n 的/u SVD/en 分解/v
+
+矩阵/n 的/u 求导/nz
+
+数据/n 白化/v 及其/c 应用/v
+
+阶段/n 二/m ：/w Python/en
+
+1./m 环境/n 搭建/v
+
+Python2.7/url
+
+Anaconda/en
+
+Pycharm/en
+
+2./m Python/en 基础/n
+
+变量/n
+
+数据/n 类型/n
+
+列表/v
+
+元/q 组/n
+
+字典/n
+
+控制/v 语句/n
+
+循环/v 语句/n
+
+函数/n
+
+类/n 对象/n
+
+3./m Python/en 常用/n 库/n
+
+numpy/en
+
+scipy/en
+
+matplotlib/en
+
+panda/en
+
+time/n
+
+4./m Python/en 机器/np 学习/v 库/n
+
+scikitlearn/en
+
+阶段/n 三/m ：/w 机器/np 学习/v
+
+1./m 机器/np 学习/v 概述/v
+
+2./m 数据/n 清洗/v 和/c 特征/n 选择/n
+
+特征/n 抽取/v
+
+特征/n 转换/v
+
+特征/n 选择/n
+
+降/ng 维/jns
+
+3./m 回归/v 算法/n
+
+Linear/en Regression/en 算法/n
+
+Lasso/en Regression/en 算法/n
+
+Ridge/en Regression/en //w Classifier/en 算法/n
+
+K/en -/w 邻近/v 算法/n (/w KNN/en )/w
+
+4./m 决策/n 树/n 、/w 随机/b 森林/n 和/c 提升/v 算法/n
+
+决策/n 树/n 算法/n :/w ID/en 3/m 、/w C/en 4.5/m 、/w CART/en
+
+决策/n 树/n 优化/v
+
+Bagging/en
+
+随机/b 森林/n
+
+Adaboost/en 算法/n
+
+GBDT/en 算法/n
+
+5./m SVM/en
+
+线性/n 可/v 分支/n 持/v 向量/n 机/np
+
+核/n 函数/n 理解/v
+
+SMO/en 算法/n
+
+SVM/en 回归/v SVR/en 和/c 分类/v SVC/n
+
+6./m 聚/v 类/n 算法/n
+
+各种/r 相似/a 度度/v 量/n 介绍/v 及/c 相关/v 关系/n
+
+K/en -/w means/en 算法/n
+
+K/en -/w means/en 算法/n 优缺点/n 及/c 变种/n 算法/n
+
+密度/n 聚/v 类/n
+
+层级/n 聚/v 类/n
+
+谱/ng 聚/v 类/n
+
+7./m EM/n 算法/n
+
+最大/a 似/d 然/c 估计/v
+
+EM/n 算法/n 原理/n 讲解/v
+
+多元/b 高斯/nr 分布/v 的/u EM/n 实现/v
+
+主题/n 模型/n pLSA/en 及/c EM/n 算法/n
+
+8./m 贝/ng 叶斯/nr 算法/n
+
+朴素/a
+
+条件/n 概率/n 表达/v 形式/n
+
+贝/ng 叶斯/nr 网络/n 的/u 表达/v 形式/n
+
+9./m 隐/vg 马尔科夫/nr 模型/n
+
+概率/n 计算/v 问题/n
+
+前/f 向/p //w 后/f 向/p 算法/n
+
+HMM/en 的/u 参数/n 学习/v
+
+高斯/nr 溷/ag 合/ng 模型/n HMM/en
+
+10./m LDA/en 主题/n 模型/n
+
+LDA/en 主题/n 模型/n 概述/v
+
+共轭/a 先验/n 分布/v
+
+Dirichlet/en 分布/v
+
+Laplace/en 平滑/a
+
+Gibbs/en 采样/v 详解/v
+
+LDA/en 与/c word/en 2/m Vec/en 效果/n 比较/d
+
+阶段/n 四/m ：/w 深度/n 学习/v
+
+1./m 深度/n 学习/v 概述/v
+
+2./m BP/n 神经网络/n
+
+3./m CNN/n 卷积/n 神经网络/n
+
+4./m RNN/en 循环/v 神经网络/n
+
+5./m TensorFlow/en "/0
+
+阶段/n 五/m ：/w 分布式/b 搜索引擎/n Elasticsearch/en 开发/v
+
+1./m 课程/n 介绍/v
+
+2./m 初识/v ElasticSearch/en
+
+3./m ES/n 安装/v 部署/v
+
+4./m 插件/n 安装/v Head/en
+
+5./m 插件/n 安装/v ik/en
+
+6./m ES/n 中文/n 搜索/n 演示/v
+
+7./m Marvel/en 和/c Kibana/en 安装/v
+
+8./m ES/n 一些/mq 相关/v 概念/n
+
+9./m ES/n 请求/n 格式/n 和/c 返回/v
+
+10./m ES/n 索引/n 操作/v
+
+11./m ES/n 的/u 文档/n 新增/v 和/c 修改/v
+
+12./m ES/n 查询/v 演示/v
+
+13./m ES/n 查询/v 补充/v 和/c 删除/v
+
+14./m 多索/ns 引/ng 和/c 多/a 类别/n
+
+15.分/t 页/ng 和/c routing/en 介绍/v
+
+16./m ES/n 工作流程/n
+
+17./m Java/n 客户端/n 和创建/nr 连接/v
+
+18./m Index/en 操作/v
+
+19./m 数据/n 的/u 增/ng 、/w 删/v 、/w 改/ng
+
+20./m 数据/n 的/u 查询/v
+
+21./m spring/en 环境/n 集成/b
+
+22./m spring/en 篇/ng 操作/v index/en
+
+23./m Spring/en 操作/v CRUD/en 01/m
+
+24./m Spring/en 操作/v CRUD/en 02/m
+
+25./m 常见/a 索引/n 操作/v
+
+26./m 索引/n 的/u Mapping/en 操作/v
+
+27./m mapping/en 引入/v 01/m
+
+28./m mapping/en 引入/v 02/m
+
+29./m mapping/en 之/u properties/en 根/n 对象/n
+
+30./m mapping/en 数据/n 类型/n 之/u string/en 类型/n
+
+31./m mapping/en 其他/r 基本/a 数据/n 类型/n
+
+32./m mapping/en 数据/n 类型/n 之/u Object/en 类型/n
+
+33./m mapping/en 元/q 数据/n 和/c 动态/n 映射/v
+
+34./m mapping/en 动态/n 模板/n
+
+35./m 倒排/v 索引/n 概念/n
+
+36./m ES/n 的/u 动态/n 索引/n 原理/n
+
+37./m ES/n 动态/n 索引/n 的/u 问题/n 和解/v 决/d 原理/n
+
+38.初/t 识/ng DSL/n
+
+39./m DSL/n 高级/a 特性/n
+
+40./m 结构化/vn 查询/v 之/u 基本/a 查询/v
+
+41./m 结构化/vn 查询/v 之/u 复合/v 查询/v
+
+42./m 全文检索/n 第一/m 讲/v
+
+43./m 全文检索/n 第二/m 讲/v
+
+44./m 嵌套/v 类型/n 查询/v
+
+45./m 嵌套/v 类型/n 查询/v
+
+46./m DSL/n 之/u Java/n 操作/v
+
+47./m 全文检索/n 之/u Java/n 操作/v
+
+48./m 聚合/v 查询/v 之/u Java/n 操作/v
+
+49./m DSL/n 之/u Spring/en 操作/v
+
+50./m 高级/a 检索/v 之/u Spring/en 操作/v
+
+51./m ES/n 项目/n 引用/v 和/c 热搜词/n 功能/n 实现/v
+
+52./m 实现/v 思路/n 介绍/v 以及/c 简要/a 实现/v
+
+阶段/n 六/m ：/w 综合/v 项目/n
+
+1./m 广告/n CTR/n 预估/v (/w GBDT/en +/0 LR/n 或者/c DNN/en )/w
+
+2./m 时间序列/n 预测/v (/w SVR/en 或者/c RNN/en )/w
+
+3./m 图像/n 分类/v 及/c 检索/v (/w SVM/en 或者/c CNN/en )/w
+
+阶段/n 七/m ：/w 企业/n 项目/n 实战/n
+
+1./m 基于/p Python/en 数据分析/n 与/c 机器/np 学习/v 案例/n 实战/n 教程/n
+
+1./m Python/en 数据分析/n 与/c 机器/np 学习/v 实战/n 课程简介/n
+
+2./m Python/en 快速/b 入门/v
+
+3./m Python/en 科学/a 计算/v 库/n Numpy/en
+
+4./m Python/en 数据分析/n 处理/v 库/n Pandas/en
+
+5./m Python/en 可视化/vn 库/n Matplotlib/en
+
+6./m 回归/v 算法/n
+
+7./m 模型/n 评估/n
+
+8./m K/n 近邻/n 算法/n
+
+9./m 决策/n 树/n 与/c 随机/b 森林/n 算法/n
+
+10./m 支持/v 向量/n 机/np
+
+11./m 贝/ng 叶斯/nr 算法/n
+
+12./m 神经网络/n
+
+13./m Adaboost/en 算法/n
+
+14./m SVD/en 与/c 推荐/v
+
+15./m 聚/v 类/n 算法/n
+
+16./m 案例/n 实战/n ：/w 使用/v Python/en 库/n 分析/v 处理/v Kobe/en Bryan/en 职业生涯/n 数据/n
+
+17./m 案例/n 实战/n ：/w 信用卡/n 欺诈/v 行为/n 检测/v
+
+18./m 案例/n 实战/n ：/w 泰坦尼克号/nz 获救/v 预测/v
+
+19./m 案例/n 实战/n ：/w 鸢尾花/n 数据/n 集/n 分析/v
+
+20./m 案例/n 实战/n ：/w 级联/v 结构/n 的/u 机器/np 学习/v 模型/n
+
+21./m 案例/n 实战/n ：/w 员工/n 离职/v 预测/v
+
+22./m 案例/n 实战/n ：/w 使用/v 神经网络/n 进行/v 手写/b 字体/n 识别/v
+
+23./m 案例/n 实战/n ：/w 主/b 成分/n 分析/v
+
+24./m 案例/n 实战/n ：/w 基于/p NLP/en 的/u 股价/n 预测/v
+
+25./m 案例/n 实战/n ：/w 借贷/n 公司/nc 数据分析/n
+
+2./m 人工智能/n 与/c 深度/n 学习/v 实战/n
+
+1./m 深度/n 学习/v 概述/v 与/c 挑战/v
+
+2./m 图像/n 分类/v 基本/a 原理/n 门/n
+
+3./m 深度/n 学习/v 必备/v 基础知识/n 点/m
+
+4./m 神经网络/n 反向/b 传播/v 原理/n
+
+5./m 神经网络/n 整体/n 架构/n
+
+6./m 神经网络/n 案例/n 实战/n 图像/n 分类/v 任务/n
+
+7./m 卷积/n 神经网络/n 基本/a 原理/n
+
+8./m 卷积/n 参数/n 详解/v
+
+9./m 卷积/n 神经网络/n 案例/n 实战/n
+
+10./m 经典/n 网络/n 架构/n 分析/v
+
+11.分/t 类/n 与/c 回归/v 任务/n
+
+12.三/m 代/n 物体/n 检测/v 算法/n 分析/v
+
+13./m 数据/n 增强/v 策略/n
+
+14./m TransferLearning/en
+
+15./m 网络/n 架构/n 设计/v
+
+16./m 深度/n 学习/v 框架/n Caffe/en 网络结构/ln 配置/n
+
+17./m Caffe/en
+
+18./m 深度/n 学习/v 项目/n 实战/n 人脸/n 检测/v
+
+19./m 人脸/n 正负/n 样本数/n 据/ng 源/ng 制作/v
+
+20./m 人脸/n 检测/v 网络/n 架构/n 配置/n 习/ng 模型/n
+
+21./m 人脸/n 检测/v 代码/n 实战/n
+
+22./m 人脸/n 关键点/n 定位/n 项目/n 实战/n
+
+23./m 人脸/n 关键点/n 定位/n 网络/n 模型/n
+
+24./m 人脸/n 关键点/n 定位/n 构建/v 级联/v 网络/n
+
+25./m 人脸/n 关键点/n 定位/n 测试/v 效果/n 与/c 分析/v
+
+26./m Tensorflow/en 框架/n 实战/n
+
+27./m Tensorflow/en 构建/v 回归/v 模型/n
+
+28./m Tensorflow/en 构建/v 神经网络/n 模型/n
+
+29./m Tensorflow/en 深度/n 学习/v 模型/n
+
+30./m Tensorflow/en 打造/v RNN/en 网络/n 模型/n
+
+31./m Tensorflow/en 项目/n 实战/n 验证/v 识别/v
+
+32./m 项目/n 实战/n 图像/n 风格/n 转换/v
+
+33./m QLearning/en 算法/n 原理/n
+
+34./m DQN/en 网络/n 架构/n
+
+35./m 项目/n 实战/n DQN/en 网络/n 让/v AI/n 自己/r 玩游戏/n
+
+36./m 项目/n 实战/n 对抗/v 生成/v 网络/n 等/ng
+
+/0
+
+/0
+
+书籍/n ：/w
+
+1./m 《/w 用/ng Python/en 进行/v 自然语言/n 处理/v 》/w （/w 东南大学出版社/nt ）/w
+
+2./m cs181.1/url 伯克利/ns 人工智能/n 课程/n （/w edX/en ）/w
+
+3./m 斯坦福/ns 机器/np 学习/v 课程/n （/w Coursera/en ）/w
+
+4./m cs/en 229/m 斯坦福/ns 机器/np 学习/v 讲义/n
+
+5.一/m 个/q 文本/n 分类/v 的/u project/en
+
+6./m 《/w 统计学/n 习/ng 方法/n 》/w （/w 李航/nr ，/w 清华大学出版社/nt ）/w
+
+7./m Pattern/en Recognition/en And/en Machine/en Learning/en (/w PRML/en )/w
+
+8./m cs/en 224/m d/en 斯坦福/ns 自然语言/n 处理/v 课/n （/w YouTube/en 视频/n ）/w
+
+视频/n ：/w
+
+1./m Google/n 在/d Udacity/en 推出/v 免费/v 的/u 深度/n 学习/v 课程/n  /0 https://www.udacity.com/course/deep-learning--ud730/url
+
+2./m Coursera/en 上/f Andrew/en Ng/n 的/u 机器/np 学习/v 课程/n  /0 https://zh.coursera.org/learn/machine-learning/url
+
+3./m 廖君/nr 同学/nm 整理/v 的/u 机器/np 学习资料/n ：https://github.com/ty4z2008/Qix/blob/master/dl.md/url
+
+4./m MIT/n 出版社/nc 出版发行/n 《/w 深度/n 学习/v 》/w ，/w 三/m 位/q 来自/v 深度/n 学习/v 领域/n 最/d 顶级/a 的/u 科学家/n （/w 谷歌/nt 大脑/n 团队/n ）/w ：/w Ian/en Goodfellow/en 、/w Yoshua/en Bengio/en 和/c Aaron/en Courville/en 撰写/v 。/w
+
+/0
+
+/0
+
+/0
+
+/0
+
+/0
+
+励志/v ：/w 没有/d 做/v 不到/v 的/u 事/n ，/w 只有/c 不想/v 做/v 的/u 心/n 。/w You/en will/en make/en your/en dream/en come/en true/en if/en you/en never/en never/en never/en give/en up/en !/w !/w !/w

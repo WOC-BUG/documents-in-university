@@ -1,0 +1,3 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G,频率越高，电磁波携带的信息越多，传输速率越高。,bengxu,https://blog.csdn.net/bengxu/article/details/81447960,2018-08-06,508次阅读,5G - Finit的成长空间,2018年08月06日 07:27:47,c = fλ。 
+频率越高，电磁波携带的信息越多，传输速率越高；频率越高，波长越短，越接近直线传播，绕射能力越差，在传播介质中的衰减也越大，即电磁波信号能够覆盖的区域也更小。,,,,,

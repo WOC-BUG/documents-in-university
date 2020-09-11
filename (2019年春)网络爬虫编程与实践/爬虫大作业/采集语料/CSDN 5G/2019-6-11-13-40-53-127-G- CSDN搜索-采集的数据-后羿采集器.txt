@@ -1,0 +1,123 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G & OTN,Machine Type Communications @3GPP Rel 10
+
+BarrowBand 5g with LTE IoT 2016
+
+LTE IoT to Massive IoT 2017
+
+LTE IoT to Massive IoT 2018
+
+5G
+
+
+
+
+
+5G Ra...,weixin_33980459,https://blog.csdn.net/weixin_33980459/article/details/91273366,2019-03-13,2次阅读,5G & OTN - weixin_33980459的博客,2019年03月13日 11:18:00,3GPP：The Mobile Broadband Standard.
+
+Machine Type Communications @3GPP Rel 10
+
+BarrowBand 5g with LTE IoT 2016
+
+LTE IoT to Massive IoT 2017
+
+LTE IoT to Massive IoT 2018
+5G
+
+
+
+
+
+5G Radio Access architecture
+
+SA: Standalone, NSA:  Non-Standalone
+
+5G NR: New Radio.
+5G 一展拳脚的三大场景
+eMBB：Enhanced Mobile Broadband 增强移动宽带
+
+Refer to using 5G as an evolution to 4G LTE mobile broadband services with faster connections, higher throughput, and more capacity.
+The initial phase of 5G Non-Standalone (NSA) deployments focuses on eMBB, which provides greater data-bandwidth complemented by moderate latency improvements on both 5G NR and 4G LTE. This will help to develop today’s mobile broadband use cases such as emerging AR/VR media and applications, UltraHD or 360-degree streaming video and many more.
+
+URLLC：Ultra Reliable Low Latency Communications
+
+refer to using the network for mission critical applications that requires uninterrupted and robust data exchange.
+
+mMTC：Massive Machine Type Communications 海量机器连接
+
+refers to the type of usage that connect to large number of low power, low cost device in a wide area (LPWA) which have high requirements on scalability and increased battery lifetime.
+
+LTE IoT
+massive IoT?
+at least 1M devices per km2.
+simplest devices that communicate infrequently; ultra-energy efficient (10+ year battery life).
+
+NB-IoT: Narrowband IoT. (M2M)
+meters and sensors.
+
+eMTC: enhanced Machine Type Communication.
+
+AI（Artificial Intelligence）
+
+ADAS：Advanced driver-assistance systems
+
+AR / VR：
+Virtual Reality.
+Augmented reality: an application of virtual reality in the real world. Mixed reality / hybrid reality / Computer-mediated reality.
+Qi 
+An open interface standard that defines wireless power transfer, developed by the Wireless Power Consortium.
+
+
+
+
+
+Qi 
+
+
+
+
+
+
+PRx - a power receiver & PTx - a power transmitter
+
+
+
+
+
+
+Generic block diagram of a wireless power system
+
+
+
+
+
+
+Generic block diagram of an inductive wireless power system
+
+
+
+
+
+
+终端侧人工智能
+
+
+
+
+
+
+Evolution of cellular networks supporting IoT tracffic growth
+
+
+
+
+
+
+scalability, coverage, availability, latency, interoperability, and security
+
+
+OTN: Optical Transport Network
+
+IMS: IP Multimedia Subsystem
+
+转载于:https://www.jianshu.com/p/1526d79d6adc,,,,,

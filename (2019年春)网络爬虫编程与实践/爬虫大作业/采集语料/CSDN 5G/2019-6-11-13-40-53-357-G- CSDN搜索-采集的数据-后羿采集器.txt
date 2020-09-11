@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+3GPP 5G-NR 随笔（1-2）：NR-Sss序列特征,见个人博客： http://ziyubiti.github.io/2018/02/14/5gnrsss/,ziyubiti,https://blog.csdn.net/ziyubiti/article/details/79320945,2018-02-13,647次阅读,3GPP 5G-NR 随笔（1-2）：NR-Sss序列特征 - ziyubiti的专栏,2018年02月13日 12:09:59,见个人博客： https://ziyubiti.github.io/2018/02/14/5gnrsss/,,,,,

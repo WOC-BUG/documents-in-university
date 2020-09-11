@@ -1,0 +1,104 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 的/u 爆发/v 与/c 焦虑/a ,/w n/n 　　如今/t ，/w 全球/n 已经/d 正式/a 开启/v 了/dg “/w 5/m G/m 时代/n ”/w 。/w n/n 　　从/p 打电话/v 、/w 发信/v 息/ng 到/ng 微信/n 视频聊天/n ，/w 从/p 阅读/v 电子书/n 到/ng 看/u 直播/v 、/w 发抖/v 音/n ，/w 从/p 贪吃/a 蛇/n 到/ng “/w 农药/n ”/w 和/c “/w 吃/v 鸡/n ”/w ……/w 网络技术/n 的/u 不断/d 升级/v 迭代/v ，/w 让/v 我们/r 的/u 沟通/v 和/c 娱乐/v 方式/n 彻底/a 改变/v 。/w n/n 　　如果说/c 1G/n 到/ng 4G/n 都/d 是在/n 改善/v 人/n 与/c 人/n 之间/f 的/u 通信/v 质量/n ，/w 那么/c 5/m G/m ，/w 则/c 不单/c 是/v 让/v 我们/r .../m ,/w fadsf/en 15/m ,/w https://blog.csdn.net/fadsf15/article/details/88572036/url ,/w 2019-03-15/t ,/w 73/m 次/a 阅读/v ,/w 5/m G/m 的/u 爆发/v 与/c 焦虑/a -/w fadsf/en 15/m 的/u 博客/n ,/w 2019年03月15日 13:21:51/t ,/w 通讯/n 技术/n 的/u 发展/v 日新月异/ia ，/w 几乎/d 每/r 10/m 年/n 就是/n 一个/mq 时代/n ，/w 而/c 每个/r 时代/n 所/n 迸发/v 出/q 的/u 巨大/a 变革/v 力量/n ，/w 正/a 不断/d 影响/v 着/n 人类/n 的/u 生产/v 和/c 生活方式/n 。/w
+如今/t ，/w 全球/n 已经/d 正式/a 开启/v 了/dg “/w 5/m G/m 时代/n ”/w 。/w
+从/p 打电话/v 、/w 发信/v 息/ng 到/ng 微信/n 视频聊天/n ，/w 从/p 阅读/v 电子书/n 到/ng 看/u 直播/v 、/w 发抖/v 音/n ，/w 从/p 贪吃/a 蛇/n 到/ng “/w 农药/n ”/w 和/c “/w 吃/v 鸡/n ”/w ……/w 网络技术/n 的/u 不断/d 升级/v 迭代/v ，/w 让/v 我们/r 的/u 沟通/v 和/c 娱乐/v 方式/n 彻底/a 改变/v 。/w
+如果说/c 1G/n 到/ng 4G/n 都/d 是在/n 改善/v 人/n 与/c 人/n 之间/f 的/u 通信/v 质量/n ，/w 那么/c 5/m G/m ，/w 则/c 不单/c 是/v 让/v 我们/r 获得/v 更快/n 的/u 网络/n ，/w 它/r 是/v 通过/p 低/a 时延/j 、/w 高/a 稳定性/n 、/w 海量/n 设备/n 接入/v 等/ng 一系列/b 性能/n 的/u 提升/v ，/w 让/v 我们/r 真正/b 感受/n 到/ng 翻天覆地/iv 的/u 变化/v ——/w
+所以/c 即将/d 到来/v 了/dg 的/u 5/m G/m 时代/n ，/w 将/d 是/v 一/m 场/ng 全新/b 的/u 万物/n 互联/v 革命/a 。/w 作为/n 通信技术/n 更新/v 的/u 重要/a 节点/n ，/w 5/m G/m 将/d 全面/a 提升/v 网络/n 的/u 速率/n 、/w 稳定性/n 、/w 可靠性/n ，/w 实现/v 包括/v 3D/b 通信/v 、/w 在线/v VR/n 、/w 云游/v 戏/n 等/ng 全新/b 的/u 交互/b 体验/v 。/w
+不仅如此/ldm ，/w 5/m G/m 技术/n 还/d 将/d “/w 物联网/n ”/w 提升/v 到/ng 比/p “/w 人联网/n ”/w 更/d 高/a 的/u 级别/n ，/w 使/ng 个人/n 终端/n 与/c 万物/n 交互/b 。/w 届时/d ，/w 房子/n 、/w 汽车/np 、/w 家居/n 不再/d 是/v 一个个/qqy 冰冷/z 的/u 物件/n ，/w 而/c 成为/v 我们/r “/w 身体/n 中/f 的/u 一部分/mq ”/w 。/w
+在/d 时代/n 的/u 驱使/v 下/f ，/w 世界/n 各个/r 国家/n 的/u 政府/nc 和/c 企业/n 都/d 盯上/v 了/dg 5/m G/m 这块/r 诱人/a 的/u 肥肉/n ，/w 一/m 场/ng 史无前例/iv 的/u 革命/a 即将/d 全面/a 展开/v ……/w
+颠覆/v 性/k 的/u 技术/n 风口/n
+在/d 说/ag 5/m G/m 之前/f ，/w 我们/r 先来/nz 了解/v 下/f 从/p 1G/n 到/ng 5/m G/en 发生/v 了/dg 怎么样/r 的/u 改变/v ：/w
+所谓/b 1G/n ，/w 就是/n 指/ng 第一/m 代/n 无线电话/ln 技术/n ，/w 它/r 使用/v 模拟信号/ln 传输/v ，/w 存在/v 语音/n 品质/n 低/a 、/w 信号/n 不/d 稳定/a 、/w 覆盖/v 不够/a 广/a 、/w 串/q 号/n 、/w 盗号/v 等/ng 问题/n 。/w 这个/r 时代/n ，/w 摩托罗拉/nz 8000/m X/en (/w 大哥大/n )/w 大行其道/lv ，/w 是/v 权力/n 和/c 地位/n 的/u 象征/v 。/w
+2G/n 时代/n 采用/v 了/dg 数字/n 调制/v ，/w 不仅/c 安全性/n 更/d 高/a 、/w 通话/v 品质/n 也/d 极大/a 改善/v ，/w 同时/c 还/d 多/a 了/dg 数据传输/n 服务/v ，/w 速率/n 达到/v 9.6/m kbit/en //w s/en -14./m 4/m kbit/en //w s/b 。/w 这个/r 时代/n ，/w 除了/p 语音/n 通话/v ，/w 短信/n 成为/v 重要/a 的/u 沟通/v 桥梁/n ，/w 移动互联网/ln 也/d 初见/v 雏形/n 。/w
+3G/n 技术/n 以/p 码/ng 道/n 区分/v 用户/n ，/w 解决/v 大数据/n 传输/v 速率/n 过/d 低/a 问题/n 。/w 由于/c 实现/v 了/dg 高频/b 宽/a 和/c 稳定/a 的/u 传输/v ，/w 影像/n 电话/np 和/c 大量/mq 数据/n 的/u 传送/v 变得/v 更为/d 普遍/a 。/w 这个/r 时代/n ，/w 支持/v 各类/r 应用软件/n 的/u 智能/n 手机/np 成为/v 主流/n ，/w 移动互联网/ln 时代/n 正式/a 到来/v 。/w
+4G/n 是在/n 3G/n 基础/n 上/f 发展/v 起来/v 的/u ，/w 但/c 在/d 传输/v 速度/n 上/f 有着/v 更/d 大/a 的/u 提升/v ，/w 支持/v 各种高/n 速率/n 业务/n ，/w 再/d 加上/v 摄像头/n 等/ng 硬件/n 能力/n 的/u 飞速/d 进步/a ，/w 4G/n 开启/v 了/dg 空前/a 繁荣/a 的/u 移动互联网/ln 时代/n 。/w
+而/c 5/m G/m ，/w 则/c 不仅/c 是/v 2G/n 、/w 3G/n 、/w 4G/n 的/u 进化/v ，/w 更/d 不是/n 围绕/v 着手/v 机/np 技术/n 的/u 小修/v 小/a 补/ng ，/w 而是/n 未来/t 所有/b 产业/n 网络化/v 的/u 基础设施/n 。/w
+和/c 现有/v 4G/n 网络/n 相比/v 较/d ，/w 5/m G/en 网络/n 主要/b 有/v 三大/n 特点/n ：/w 超高/b 的/u 速率/n 、/w 超大/a 的/u 容量/n 、/w 超低/h 的/u 延时/v ——/w
+超高/b 的/u 速率/n
+通讯/n 依靠/n 的/u 是/v 电磁波/n ，/w 而/c 电磁波/n 有/v 一个/mq 显/v 着/n 的/u 特点/n ：/w 频率/n 越/d 高/a ，/w 波长/n 越/d 短/a ，/w 也/d 就/d 越/d 趋近/v 于/ng 直线/d 传播/v ，/w 速度/n 也/d 就/d 越/d 快/a 。/w
+目前/t ，/w 4G/n 信号/n 使用/v 的/u 是/v 低频/b 段/n ，/w 它/r 的/u 优点/n 在于/v 性能/n 好/a ，/w 覆盖面/n 广/a ，/w 能够/v 有效/a 减少/v 运营商/n 在/d 基站/n 的/u 投入/a ，/w 节省/v 资金/n 。/w 可/v 一旦/d 用户/n 变/v 多/a ，/w 数据传输/n 的/u “/w 路/ny ”/w 就/d 会/n 出现/v 拥堵/v 现象/n 。/w
+而/c 5/m G/m 使用/v 的/u 是/v 更/d 高/a 的/u 频段/n ，/w 不但/c 能/ng 缓解/v 低频/b 资源/n 的/u 紧张/a ，/w 由于/c 没有/d 了/dg 拥堵/v ，/w “/w 道路/n ”/w 更加/d 宽广/a ，/w 带宽/n 的/u 速率/n 得到/v 了/dg 极大/a 的/u 提高/v 。/w
+在/d 这些/r 特性/n 下/f ，/w 5/m G/m 提供/v 高达/v 10/m Gbps/en 的/u 峰值/n 数据/n 下载/v 速率/n ，/w 理想/a 情况/n 下/f ，/w 用户/n 能/ng 在/d 几秒/t 内/f 下载/v 1G/n 大小/n 的/u 高清/a 视频/n 。/w
+超大/a 的/u 容量/n
+高频/b 段/n 毫米波/n 能够/v 提升/v 传输/v 速率/n ，/w 但/c 高频/b 信号/n 很/d 难/a 穿过/v 固体/n 。/w 随着/p 传输/v 距离/n 的/u 增加/v ，/w 传输/v 速率/n 会/n 相比/v 4G/n 的/u 低频/b 段/n 下降/v 的/u 更快/n 。/w
+为/p 保证/v 高效/b 稳定/a 的/u 传输/v 速率/n ，/w 5/m G网/n 络/ng 需要/n 更多/n 的/u 基站/n ，/w 以便/c 稳定/a 的/u 信号/n 传输/v 效果/n 。/w 所以/c ，/w 5/m G/en 技术/n 引入/v 了/dg 体积/n 更/d 小/a 、/w 耗能/v 更/d 低/a 的/u 微/ag 基站/n ，/w 这种/r 基站/n 可以/a 安装/v 部署/v 在/d 城市/n 的/u 任何/r 位置/n ，/w 包括/v 路灯/n 、/w 信号灯/n 、/w 商场/ny 、/w 住房/n 等等/u 。/w
+由于/c 每个/r 基站/n 可以/a 从/p 其它/r 基站/n 接收/v 信号/n 并/c 向/p 任何/r 位置/n 的/u 用户/n 发送/v 数据/n ，/w 信号/n 接收/v 更加/d 均匀/a ，/w 承载量/n 更/d 大/a ，/w 很/d 好/a 地/n 解决/v 高频/b 段长/n 距离/n 传输/v 差/a 的/u 缺点/n 。/w
+超低/h 的/u 延时/v
+当/ag 我们/r 进行/v 网络视频/n 或/c 玩/ng 网络游戏/ln 时/n ，/w 经常/d 会/n 出现/v 延时/v 的/u 问题/n ，/w 这/r 一/m 现象/n 极大/a 地/n 影响/v 了/dg 用户/n 的/u 交互/b 体验/v 。/w 5/m G网/n 络/ng 的/u 出现/v ，/w 将/d 会/n 使/ng 延时/v 降到/v 极/d 低/a 。/w
+通过/p 边缘/n 计算/v 技术/n 将/d 接入网/n 与/c 互联网/n 业务/n 进行/v 深度/n 融合/v ，/w 5/m G/m 在/d 接入网/n 边缘/n 部署/v 计算/v 、/w 处理/v 和存储/nr 功能/n 的/u 云计算/n 设备/n ，/w 构建/v 移动/v 便捷/a 云/n ，/w 提供/v 信息/n 技术服务/n 环境/n 和/c 云计算/n 能力/n ，/w 减少/v 数据传输/n 过程/n 中/f 的/u 转发/v 和/c 处理/v 时间/n ，/w 降低/v 端/ag 到/ng 端的/n 延时/v 。/w
+数据表/n 明/ag ，/w 5/m G/m 极大/a 地/n 提高/v 了/dg 延迟/v 和数/n 据/ng 速率/n 。/w 它/r 可以/a 将/d 响应/v 时间/n 从/p 4G/n 的/u 平均/a 50/m 毫秒/q 减少/v 到/ng 1/m -/w 2/m 毫秒/q ，/w 为/p 更多/n 对/a 延时/v 要求/n 极致/n 的/u 应用/v 发展/v 提供/v 了/dg 可能/a 。/w
+应用/v 场景/n 空前/a 广阔/a
+高速/b 率/ag 、/w 大容量/n 、/w 低/a 时延/j 的/u 特性/n ，/w 使得/v 5/m G/m 技术/n 在/d 物联网/n 、/w 区块/n 链/ng 、/w 视频/n 社交/n 等/ng 领域/n 有/v 了/dg 更/d 高/a 的/u 效率/n 和/c 更好/d 的/u 业务/n 体验/v 。/w
+车联网/nt ——/w 更/d 安全高效/n 的/u 出行/v
+去年/t 7月/t ，/w 长安汽车/nt 与/c 华为/nz 签署/v 战略/n 合作/v ，/w 成功/a 贴/ag 上/f 了/dg 智能/n 标签/n ;/w 今年1月/t ，/w 双方/n 再次/d 联手/v 设立/v 长安/nz 华为/nz 联合/v 创新中心/lnc ，/w 瞄准/v L/en 4/m 级/n 自动/b 驾驶/v 5/m G/m 车联网/nt 等/ng 前瞻/v 技术/n ，/w 快速/b 布局/n 。/w
+车联网/nt ，/w 即/c 利用/v 车载/b 电子/n 传感/v 装置/n ，/w 通过/p 移动通讯/n 技术/n 、/w 汽车导航/n 系统/a 、/w 智能终端/n 设备/n 与/c 信息网/n 络/ng 平台/n ，/w 使/ng 车与路/nr 、/w 车、人/nr 以及/c 城市/n 之间/f 实时/d 联网/v ，/w 实现/v 信息/n 互联互通/lv 。/w
+在/d 5/m G/m 众多/a 的/u 应用/v 场景/n 中/f ，/w 车联网/nt 被/ng 认为/v 是/v 最/d 有/v 可能/a 出现/v 的/u 引爆点/n ——/w 它/r 本身/r 对/a 通信网络/n 有着/v 极/d 高/a 的/u 要求/n ，/w 大/a 带宽/n 、/w 低/a 时延/j 、/w 海量/n 的/u 连接/v 数量/n 、/w 严密/a 的/u 覆盖/v ，/w 这些/r 都/d 是/v 5/m G/m 所/n 具备/v 的/u 。/w
+5/m G/m 技术/n 把/p 端/ag 到/ng 端的/n 通信/v 时延/j 控制/v 在/d 10/m 毫秒/q 内/f ，/w 这/r 对于/p 保证/v 车辆/n 在/d 高速/b 行驶/v 中/f 的/u 安全/a 来说/u 尤为/d 关键/a 。/w 而/c 在/d 流量/n 峰值/n 和/c 连接/v 数/m 密度/n 方面/n ，/w 5/m G/m 又/d 能/ng 以/p 超过/v 每秒/r 10/m GB/n 的/u 传输/v 速度/n 和/c 106//t km/en 2/m 的/u 连接/v 数/m 密度/n 满足/a 车辆/n 与/c 人/n 、/w 与/c 交通/n 基础设施/n 之间/f 的/u 通信/v 需求/n 。/w
+此外/c ，/w 5/m G/m 还/d 可以通过/n V/en 2/m X/m 技术/n ，/w 弱化/v 对/a 车辆/n 端/ag 智能/n 的/u 要求/n ，/w 使得/v 汽车/np 拥有/v 超视/nz 距/p 的/u 感知/v 及信息/n 获取/v 能力/n ，/w 这/r 让/v 无人/b 驾驶/v 成为/v 可能/a 。/w
+工业/n 物联网/n ——/w 降低/v 成本/n 、/w 提高/v 效率/n
+随着/p 工厂/nc 智能化/v 转型/v 的/u 推进/v ，/w 物联网/n 作为/n 连接/v 人/n 、/w 机器/np 和/c 设备/n 的/u 关键/a 支撑/v 技术/n 正/a 受到/v 企业/n 的/u 高度/b 关注/v 。/w 这种/r 需求/n 在/d 推动/v 物联网/n 应用/v 落地/v 的/u 同时/c ，/w 也/d 极大/a 的/u 刺激/v 了/dg 5/m G/m 技术/n 的/u 发展/v 。/w
+在/d 工业/n 物联网/n 中/f ，/w 无线通信/ln 是/v 一/m 项/ng 关键性/n 技术/n ，/w 其中/r 5/m G/m 作为/n 下一代/n 移动通信/ln 技术/n ，/w 其/r 高速度/n 和/c 低/a 延时/v 的/u 巨大/a 优点/n ，/w 给/v 工业/n 厂商/n 的/u 物联网/n 方案/n 来/u 很多/mq 便利/a 。/w 快速/b 和实/nz 时/n 的/u 数据采集/n ，/w 对/a 预测性/n 维护/v 来说/u 是/v 十分/d 重要/a 的/u ，/w 5/m G/m 的/u 到来/v 无疑/d 是/v 一个/mq 巨大/a 的/u 利好/n 。/w
+5/m G/m 具有/v 广泛/a 的/u 接入/v 能力/n ，/w 拥有/v 每/r 平方公里/q 连接/v 一百万/m 台/n 设备/n 的/u 带宽/n ，/w 相比/v 于/ng 4G/n 的/u 一千/m 台/n 设备/n 连接/v 量/n ，/w 5/m G/m 的/u 连接/v 能力/n 要强/a 大/a 得/e 多/a ，/w 加上/v 其/r 更/d 低/a 的/u 延时/v 和/c 更快/n 的/u 速度/n 等/ng 特点/n ，/w 势必/d 会/n 进一步/d 激发/v 工业/n 物联网/n 的/u 潜在/b 能力/n 。/w
+事实上/ldm ，/w 行业/n 里/f 对/a 5/m G/m 在/d 工业/n 物联网/n 方面/n 的/u 应用/v 给予/v 了/dg 很/d 高/a 的/u 期待/v 。/w 之前/f 韩国/ns 全球/n 率先/d 商用/b 5/m G/m ，/w 就是/n 在/d 工业/n 领域/n 进行/v 的/u 落地/v 。/w
+VR/n 社交/n ——/w 人人/n 都/d 是/v “/w 头号/b 玩家/n ”/w
+2014年/t ，/w Facebook/en 以/p 20亿/m 美元/n 收购/v 虚拟现实/ln 技术/n 公司/nc Oculus/en VR/n ，/w 把/p 虚拟现实/ln (/w VR/en )/w 向/p 社交/n 领域/n 应用/v 推向/v 高潮/n 。/w
+然而/c ，/w 被/ng 炒/v 得/e 火热/z 的/u 虚拟现实/ln 始终/d 没有/d 真正/b 爆发/v ，/w 除了/p 技术/n 上/f 还有/v 待/p 开发/v 外/f ，/w 现有/v 网络/n 也/d 成/ng 了/dg 硬伤/n 。/w 受制于/v 诸多/mq 因素/n ，/w VR/n 产业/n 进退维谷/iv ，/w 成为/v 少数/mq 人群/n 的/u 玩具/n 。/w
+众所周知/iv ，/w VR/n 对于/p 显示/v 延迟/v 是/v 难以/d 容忍/v 的/u ，/w 对/a 传输/v 的/u 容错性/n 极为/d 敏感/a 。/w 在/d VR/n 体验/v 中/f ，/w VR/n 技术/n 对于/p 图像/n 的/u 要求/n 非常/b 高/a ，/w 导致/v 相关/v 的/u 图片以及/n 视频/n 等/ng 素材/n 的/u “/w 体积/n ”/w 非常/b 大/a 。/w
+目前/t 的/u 移动通信/ln 技术/n 还/d 不能/v 达到/v 这样/r 的/u 高标准/n 传输/v 要求/n 。/w 而/c 随着/p 5/m G/m 时代/n 的/u 到来/v ，/w VR/n 在/d 传输/v 方面/n 的/u 屏障/n 被/ng 打通/v ，/w 困扰/v VR/n 技术/n 在/d 移动端/n 应用/v 的/u 问题/n 将/d 会/n 迎刃而解/iv 。/w
+所以/c ，/w 一旦/d 5/m G/m 得以/v 展开/v ，/w 虚拟现实/ln 以/p 沉浸/v 式/k 体验/v 将/d 会/n 把/p 社交/n 推上/v 更/d 高/a 的/u 高度/b ，/w 即便/c 是/v 身处/v 异地/n ，/w 也/d 可以通过/n 虚拟现实/ln 场景/n 实现/v 超/h 真实/a 的/u 交互/b 体验/v 。/w
+智能家居/n ——/w 让/v 硬件/n 变得/v “/w 有血有肉/iv ”/w
+智能家居/n 依靠/n 互联网/n 进行/v 数据/n 连接/v ，/w 网络/n 质量/n 直接/a 关系/n 着/n 智能/n 设备/n 的/u 使用/v 体验/v ，/w 如果/c 网速/n 跟不上/v ，/w 智能/n 设备/n 必然/d 会/n 频繁/a 出现/v 卡/n 顿/q 的/u 现象/n 。/w
+5/m G网/n 络/ng 则/c 可以/a 显/v 着/n 提升/v 数据传输/n 效率/n ，/w 带给/v 用户/n 更快/n 捷/ag 、/w 优质/b 的/u 人机交互/lv 。/w 通过/p 整合/v 更多/n 的/u 物联/n 智能/n 设备/n ，/w 提供/v 更/d 流畅/a 的/u 多媒体/n 内容/n ，/w 5/m G/m 为/p 高质量/n 的/u 语音/n 和/c 视频/n 通话/v 做出/v 更好/d 的/u 保障/v 。/w
+根据/n 统计数据/n ，/w 在/d 全球/n 市场/ny ，/w 智能家居/n 产品/n 2018年/t 的/u 出货量/n 增长/v 了/dg 39%/m ，/w 预计/v 到/ng 2023年/t ，/w 智能家居/n 全球/n 市场/ny 规模/n 将/d 达/ng 1550亿/m 美元/n 。/w 可以/a 预测/v ，/w 伴随/v 着/n 5/m G/m 的/u 到来/v ，/w 智能家居/n 行业/n 将/d 会/n 以/p 倍/d 速/ag 前进/v 。/w
+作为/n 一个/mq 全新/b 的/u 战场/n ，/w 国内/s 硬件/n 厂商/n 的/u 争夺战/n 也/d 由/p 手机/np 向/p 智能家居/n 延伸/v ，/w 竞争/v 变得/v 白热化/v 。/w 其中/r 最/d 引人关注/l 的/u ，/w 就是/n 联想/v 在/d 智能/n 物联/n 产品市场/n 中/f 声名鹊起/iv 。/w
+从/p 2018年/t 实施/v SIoT/en 战略/n 转型/v 到/ng 业务/n 布局/n 实现/v 落地/v ，/w 联想/v 在/d 短短/a 一/m 年内/t 便/ag 取得/v 显/v 着/n 成果/n ，/w 覆盖/v 了/dg 智能/n 家庭/n 、/w 智能/n 办公/v 、/w 智能/n 移动/v 三大/n 场景/n ，/w 推出/v 了/dg 包括/v 联想/v 智能/n 指纹锁/nz 、/w 联想/v 智能/n 摄像机/np 、/w 联想/v Air/en 无线/b 蓝牙/n 音乐/n 耳机/np 等/ng 近/a 20/m 款/n 智能/n 物联/n 终端/n ，/w 一度/d 成为/v 市场/ny 热卖/v 的/u 网红/n 产品/n 。/w
+区块/n 链/ng ——/w 疯狂/a 之后/f 回归/v 应用/v 本质/n
+2018年/t ，/w 区块/n 链/ng 概念/n 在/d 一阵/t 狂欢/v 之后/f 沦为/v “/w 一地鸡毛/n ”/w ，/w 而/c 随着/p 5/m G/m 的/u 到来/v ，/w 这项/r 新技术/n 有望/v 实现/v 真正/b 的/u 产品/n 落地/v 。/w
+事实上/ldm ，/w 区块/n 链/ng 、/w 物联网/n 、/w 人工智能/n ，/w 三个/n 看似/v 不/d 相关/v 的/u 领域/n 与/c 5/m G/m 有着/v 紧密/a 的/u 联系/v ——/w
+相关/v 人士/n 表示/v ：/w 5/m G/m 是/v 传输/v 速度/n 及/c 传输网/n 络/ng ;/w 物联网/n 是/v 传输/v 媒介/n ，/w 用于/v 连接/v 物体/n 与/c 物体/n 的/u 桥梁/n ;/w 人工智能/n 是/v 对/a 传输/v 媒介/n 的/u 数据分析/n 及/c 处理/v ;/w 而/c 区块/n 链/ng 则/c 是/v 整个/b 媒介/n 传输/v 环境/n 的/u 协调员/n ，/w 可用/a 于/ng 处理/v 传输/v 速度/n 、/w 传输/v 媒介/n 、/w 媒介/n 数据分析/n 及/c 处理/v 之间/f 的/u 关系/n 。/w
+区块/n 链/ng 、/w 物联网/n 、/w 人工智能/n 和/c 5/m G/m 不可避免/l 的/u 融合/v ，/w 可以/a 形成/v 安全性/n 、/w 互联/v 性/k 、/w 自主性/n 和/c 高效性/n 的/u 有效/a 组合/n ，/w 从而/c 彻底/a 改变/v 整个/b 通讯/n 信息/n 传输/v 环境/n 。/w
+大国/n 之间/f 的/u 博弈/v
+2018年6月13日/t ，/w 3/m GPP/en (/w Third/en Generation/en Partnership/en Project/en ，/w 第三/m 代/n 合作伙伴/n 计划/n )/w 宣布/v 5/m G/en NR/n 独立/a 组网/n 标准/a 冻结/v ，/w 5/m G/m 大战/n 正式/a 打响/v 。/w
+关于/p 全球/n 5/m G/m 的/u 发展/v ，/w 业内/b 有/v 这样/r 一个/mq 说法/n ：/w 欧洲/ns 强/a 在/d 系统/a ，/w 美国/ns 强/a 在/d 芯片/n ，/w 中国/ns 强/a 在/d 综合/v 实力/n 。/w 这种/r 概括/a 不无道理/l ，/w 但/c 似乎/d 还/d 难以/d 为/p 我们/r 描绘/v 出/q 一个/mq 清晰/a 的/u 国际格局/n 。/w
+那么/c ，/w 5/m G/m 大战/n 到底/d 孰/r 强/a 孰/r 弱/a ，/w 中美/nz 日韩/n 欧/ng 到底/d 又是/n 谁/r 占上风/lgv 呢/ng ?/w
+美国/ns ：/w 人心不足蛇吞象/l
+一直/d 以来/f ，/w 美国/ns 为/p 争夺/v 5/m G/m 话语权/n ，/w 对/a 中国/ns 的/u 5/m G/m 进程/n 进行/v 全方位/n 围堵/v ，/w 可以/a 说是/n 无所不用其极/iv 。/w 但/c 即便/c 如此/r ，/w 美国/ns 的/u 5/m G/m 发展/v 却/d 并未/d 取得/v 领先/v 。/w
+上月底/t ，/w 美国第/n 一大/j 运营商/n Verizon/en 表示/v ，/w 因/c 5/m G/m 家庭/n 硬件/n 直至/v 2019年下/t 半年/n 才/d 将/d 推出/v ，/w 因此/c 暂停/v 5/m G/m 部署/v 。/w
+去年/t 12/m 月/n ，/w 美国第/n 二大/n 电信/n 运营商/n AT&T/n 宣布/v 在/d 全美/n 12/m 个/q 城市/n 推出/v “/w 5/m G网/n 络/ng ”/w ，/w 用户/n 将/d 会/n 在手/v 机上/s 看到/v 5/m G/m 的/u 标识/n ——/w “/w 5/m GE/n ”/w 。/w 然而/c ，/w 这/r 一/m 标识/n 随后/d 却/d 被/ng 爆出/v 是/v 假/a 5/m G/m ，/w 是/v 5/m GEvolution/en (/w 5/m G/m 进化/v )/w 的/u 缩写/n 。/w
+从/p 整个/b 产业链/n 看/u ，/w 美国/ns 掌控/n 上游/s 芯片/n ，/w 下游/s 有/v 苹果/n 、/w 谷歌/nt 等/ng 终端/n 和/c 互联网/n 巨头/n 。/w 但/c 在/d 中游/n ，/w 全球/n 五大/j 通信设备/n 厂商/n ，/w 中国/ns 独占/v 两/m 席/ng ，/w 欧洲/ns 有/v 诺基亚/nz 和爱/nr 立信/nz ，/w 韩国/ns 有/v 三星/nz ，/w 美国/ns 无一/nz 入围/v 。/w
+美媒/n 日前/t 爆料/v ，/w 特朗普/nr 政府/nc 将/d 5/m G/m 定性/v 为/p “/w 新军/n 备/dg 竞赛/v ”/w 。/w 在/d 这场/mq 竞赛/v 中/f ，/w 赢家/n 只有/c 一个/mq ，/w 成王败寇/i 。/w 只是/c ，/w 近期/t 发生/v 在/d 美国/ns 运营商/n 身上/s 的/u 种种/qq 事件/n ，/w 让/v 美国/ns 的/u 5/m G/m 野心/n 变得/v 越来越/d 尴尬/a 。/w
+作为/n 4G/n 最大/a 的/u 赢家/n 美国/ns ，/w 事实上/ldm 早/a 在/d 2016年/t 就/d 分配/v 了/dg 全球/n 第一/m 个/q 5/m G/m 频谱/n ，/w 但/c 随后/d 却/d 被/ng 中/f 、/w 韩等国/nr 赶上/v ，/w 这不/l 得/e 不让/v 人/n 感到/v 意外/a 。/w
+韩国/ns ：/w 率先/d 商用/b ，/w 但/c 成绩/n 平平/z
+去年/t 12月1日/t ，/w 韩国/ns 三大/n 电信/n 供应商/n 推出/v 5/m G/m 服务/v ，/w 同时/c 在/d 韩国/ns 发送/v 首批/n 5/m G/m 信号/n ，/w 这是/n 新一代/n 移动通信/ln 服务/v 在/d 全球/n 首次/mq 实现/v 商用/b 。/w
+随后/d ，/w 韩国/ns 最大/a 的/u 电信/n 公司/nc KT/n 董事长/nx 黄昌圭/nr 语出惊人/lv ，/w 声称/v 韩国/ns 将/d 主导/n 世界/n 5/m G/m 市场/ny ，/w 其/r 在/d 技术/n 上/f 更/d 先进/a 、/w 服务/v 上/f 更/d 周到/a 、/w 基础设施/n 更/d 完善/a 。/w 并且/c 表示/v 中美/nz 日/n 都/d 难以/d 望其项背/iv 。/w
+数据表/n 明/ag ，/w 韩国/ns 的/u 5/m G网/n 络/ng 覆盖/v 速度/n 的确/d 已经/d 超过/v 了/dg 美国/ns ，/w 成为/v 5/m G网/n 络/ng 建设/v 最快/a 的/u 国家/n 之一/r ，/w 但/c 韩国/ns 民众/n 对/a 5/m G/m 的/u 满意度/n 却是/d 很/d 低/a 的/u 。/w
+根据/n 今年年初/t 的/u 调查/n ，/w 韩国/ns 民/ng 对/a 5/m G/m 的/u 关注度/n 大大/a 低于/v 预期/b ，/w 韩媒/n 《/w MoneyS/en 》/w 将/d 民众/n 对于/p 5/m G/m 的/u 冷感/nz ，/w 归咎/v 于/ng 现在/t 韩国/ns 的/u 5/m G/m 服务/v “/w 无用/v 之外/f ，/w 又/d 无法/v 使用/v ”/w 。/w
+可以/a 说/ag ，/w 是/v 中美/nz 之间/f 的/u 5/m G/m 之/u 争/rg 让/v 韩国/ns 钻/ng 了/dg 一个/mq 空子/n ，/w 但/c 整体而言/ldm ，/w 说/ag 韩国/ns 已/d 正式/a 进入/v 5/m G/m 时代/n 未免/d 有点/d 牵强/a 。/w
+欧洲/ns ：/w 优势/n 渐/d 失/ng ，/w 境地/n 尴尬/a
+在/d 通讯/n 技术/n 方面/n ，/w 欧洲/ns 一直/d 领先/v 世界/n 。/w 2G/n 时代/n ，/w 欧洲/ns 国家/n 制定/v 全球/n 移动通信/ln 系统/a (/w GSM/en )/w 标准/a ;/w 3G时代/n ，/w 欧洲/ns 又/d 推出/v 宽带/n 码分多址/lv (/w WCDMA/en )/w ，/w 也/d 成为/v 了/dg 世界/n 通信/v 系统/a 的/u 标准/a 。/w
+进入/v 4G/n 时代/n 之后/f ，/w 欧洲/ns 开始/v 落后/a 于/ng 美国/ns ，/w 而/c 到/ng 了/dg 5/m G/m 时代/n ，/w 欧洲/ns 的/u 通讯/n 技术/n 基本/a 已/d 无力/v 与/c 中美/nz 相/d “/w 抗衡/v ”/w 。/w
+数据/n 显示/v ，/w 从/p 2012年/t 到/ng 2018年/t ，/w 欧洲/ns 电信/n 运营商/n 的/u 总/b 市值/n 从/p 2340亿/m 美元/n 下跌/v 至/d 1330亿/m 美元/n ，/w 蒸发/v 了/dg 近/a 一半/m 。/w 而/c 同一/b 时期/n ，/w 美国/ns 电信/n 运营商/n 的/u 总/b 市值/n 增加/v 了/dg 71%/m ，/w 亚洲/ns 电信/n 运营商/n 的/u 总/b 市值/n 增加/v 了/dg 13%/m ……/w
+近年来/t ，/w 欧洲/ns 国家/n 在/d 美国/ns 的/u 鼓动/v 下/f 把/p 华为/nz 拒之门外/lv ，/w 这/r 实际上/d 正/a 暴露/v 了/dg 其/r 在/d 5/m G/m 竞赛/v 中/f 的/u 落后/a 地位/n 。/w 事实/n 表明/v ，/w 打压/v 对华/v 为/p 非但/c 没有/d 对/a 其/r 产生/v 影响/v ，/w 反而/d 让/v 这些/r 欧洲/ns 国家/n 进一步/d 陷入/v 被动/a 地位/n 。/w
+此外/c ，/w 欧洲/ns 电信/n 运营商/n 与/c 欧盟/nt 政府/nc 一直/d “/w 不合/a ”/w ，/w 也/d 间接/b 地/n 拖/v 慢/a 了/dg 5/m G/m 的/u 部署/v ，/w 导致/v 5/m G/m 技术/n 落后/a 他人/r 。/w 与/c 韩国/ns 民众/n 相似/a ，/w 保守/a 的/u 欧洲人/n 对/a 5/m G/m 似乎/d 没有/d 过多/a 的/u 期待/v ，/w 对于/p 5/m G/m 项目/n ，/w 民间/n 不断/d 提出/v 了/dg 质疑/v 。/w
+“/w 欧洲/ns 在/d 电信/n 基础设施/n 和/c 下一代/n 通信技术/n 上/f 的/u 投资/n 在/d 全世界/n 来说/u 是/v 最少/d 的/u ，/w 我们/r 的/u 人均/b 投资额/n 还/d 不足/a 美国/ns 的/u 一半/m 。/w 所以/c 欧洲/ns 要/v 想/v 在/d 竞争/v 中/f 取胜/v 难度/n 非常/b 大/a ”/w ，/w 法国电信/nt 运营商/n Orange/en 公司/nc 的/u CEO/n 斯/r 蒂/ng 凡/ag ·/w 理查德/nr 说/ag 。/w
+中国/ns ：/w 当之无愧/iv 的/u 胜利者/n
+从/p 1G/n 到/ng 4G/n ，/w 中国/ns 开启/v 了/dg “/w 落后/a —/w 追赶/v —/w 持平/v ”/w 的/u 励志/v 之旅/n ;/w 到/ng 了/dg 5/m G/m 时代/n ，/w 中国通/n 讯/ng 产业/n 终于/d 迎来/v 了/dg 真正/b 意义/n 上/f 的/u 爆发/v 。/w
+尽管/c 美国/ns 通过/p 各种/r 手段/n 使坏/v ，/w 却/d 始终/d 无法/v 阻挡/v 中国/ns 5/m G/m 前进/v 的/u 步伐/n 。/w 种种迹象表明/l ，/w 中国/ns 5/m G/m 商用/b 日益/d 临近/v 。/w
+首先/c ，/w 作为/n 全球通/nz 信/n 设备制造/n 业/dg 的/u 龙头/n 老大/nm ，/w 华为/nz 依托/v 标准/a 优势/n ，/w 率先/d 突破/v 5/m G/m 规模/n 商用/b 的/u 关键/a 技术/n ;/w 以/p 全面/a 领先/v 的/u 5/m G/m 端/ag 到/ng 端/ag 能力/n ，/w 实现/v 5/m G/m 的/u 极/d 简/ag 网络/n 和/c 极/d 简运维/nr ，/w 推动/v 5/m G/m 大规模/b 商业/n 应用/v 和/c 生态/n 成熟/a 。/w
+前不久/t 华为/nz 宣布/v ，/w 其/r 已经/d 在/d 全世界/n 范围/n 内/f 签署/v 了/dg 30/m 份/n 5/m G/m 商业/n 合同/n ，/w 并将/nz 2.5万/m 座/ng 基站/n 运往/v 国际/n 市场/ny ，/w 明显/a 领先/v 于/ng 同行/n 。/w
+此外/c ，/w 国内/s 三大/n 电信/n 运营商/n 均/ag 已/d 计划/n 从/p 2019年/t 开始/v 投资/n 5/m G网/n 络/ng 部署/v ，/w 并建/v 立/d 5/m G/m 创新中心/lnc ，/w 同时/c 在/d 各/r 大城市/n 实施/v 外部/f 实地/d 测试/v ，/w 为/p 5/m G/m 做/v 准备/v 。/w
+可以/a 预见/n ，/w 随着/p 5/m G/m 技术/n 不断/d 深入/a 发展/v ，/w 5/m G/m 商用/b 步伐/n 的/u 加快/v ，/w 中国/ns 在/d 通讯/n 领域/n 已经/d 迎来/v 属于/v 自己/r 的/u “/w 中国/ns 时代/n ”/w 。/w
+狂欢/v 之后/f 需/ng 冷静/a
+尽管/c 前景/n 极为/d 广阔/a ，/w 2019年/t 又/d 被/ng 很多/mq 人/n 认为/v 是/v “/w 5/m G/m 建设/v 元年/n ”/w ，/w 但/c 不少/mq 人/n 表示/v ，/w 5/m G/m 应用/v 的/u 成熟/a 还/d 需要/n 一些/mq 时间/n 和/c 空间/n 。/w
+专家/n 指出/v ，/w 5/m G/m 还/d 面临/v 着/n 技术/n 、/w 产业/n 以及/c 应用/v 三大/n 挑战/v ——/w
+技术/n 方面/n ：/w 5/m G/m 带宽/n 从/p 几十/mq 兆/m 跃升/v 至/d 几/m 个/q G/m ，/w 对/a 终端/n 芯片/n 的/u 处理/v 能力/n 要求/n 非常/b 高，而/nr 5/m G/m 终端/n 目前/t 技术/n 尚/ag 不成/y 熟/a ，/w 存在/v 体验/v 不成/y 熟/a 、/w 稳定性/n 不好/a 的/u 问题/n 。/w
+产业/n 方面/n ：/w 5/m G网/n 络/ng 建/ng 完/ng 后/f ，/w 网/n 内/f 将/d 会/n 有/v 多少/r 终端/n ，/w 而/c 终端/n 数量/n 的/u 多少/r 取决于/v 终端/n 价格/n ，/w 而/c 终端/n 价格/n 的/u 因素/n 很大/a 程度/n 上/f 取决于/v 芯片/n ，/w 芯片/n 的/u 价格/n 又/d 很大/a 程度/n 上/f 取决于/v 规模/n 。/w 所以/c ，/w 5/m G/m 在/d 2019年/t 商用/b 很大/a 程度/n 上面/f 临/ng 这/r 一产/n 业/dg 问题/n 。/w
+应用/v 方面/n ：/w 预想/v 中/f 的/u 5/m G/m 应用/v 场景/n 非常/b 广阔/a ，/w 但/c 短期/b 内/f 仍/ag 将/d 以/p 手机/np 为主/v 。/w 通信/v 领域/n 的/u 发展/v ，/w 必须/d 充分/a 考虑/v 其/r 用户/n 对/a 技术应用/n 的/u 需求/n ，/w 而/c 目前/t 5/m G/m 的/u 杀手/n 级/n 应用/v 仍/ag 伏/ng 在/d 水下/s ，/w 需要/n 交给/v 时间/n 去/v 发掘/v 。/w
+以/p 5/m G/m 手机/np 为/p 例/n ，/w 当/ag 2019年/t 用户/n 真的/d 拿到/v 5/m G/m 手机/np 时/n ，/w 带来/v 的/u 最大/a 感受/n 可能/a 只是/c 网络/n 速度/n 提升/v ，/w 如果/c 体现/v 在/d 观看/v 高清/a 视频/n 则/c 几乎/d 无/v 卡/n 顿/q ，/w 下载/v 几乎/d 是/v 瞬间/t 的/u 事情/n 。/w
+而/c 一般来说/ldm ，/w 每/r 一代/n 网络/n 终端/n 的/u 提升/v ，/w 也/d 意味着/v 成本/n 的/u 提升/v ，/w 华为/nz 新/a 推出/v 5/m G/m 机型/n Mate/en X/m 售价/n 约/d 17500/m 元/q ，/w 三星/nz 5/m G/m 新品/n Galaxy/en Fold/en 价格/n 也/d 接近/v 14000/m 元/q ，/w 这样/r 的/u 售价/n 恐怕/d 短时/b 间/f 内/f 很/d 难/a 让/v 每个/r 人/n 都/d 体验/v 到/ng 。/w
+由于/c 5/m G/m 手机/np 多天/nz 线/n 技术/n 的/u 应用/v ，/w 无疑/d 会/n 增大/v 终端/n 体积/n ，/w 5/m G/m 高速/b 率/ag 的/u 数据传输/n 也/d 将/d 使/ng 终端/n 功耗/n 加剧/v 。/w 所以/c ，/w 手机/np 厂商/n 扎堆/v 发布/v 5/m G/m 手机/np 的/u 时候/n ，/w 更/d 应该/v 冷静/a 思考/v 新/a 的/u 手机/np 形态/n 、/w 能耗/n 、/w 潜在/b 商业/n 模式/n 等/ng 问题/n 。/w
+2018年/t ，/w 中国/ns 手机/np 市场/ny 销量/n 出现/v 下滑/v ，/w 购机/v 已经/d 从/p 增量/n 市场/ny 转向/v 存量/n 市场/ny ，/w 多个/n 中小/b 品牌手机/n 在/d 这/r 一/m 年/n 消失/v ，/w 而/c 2019年/t 的/u 5/m G/m 风口/n 必将/d 带来/v 的/u 新/a 的/u 一轮/nz 洗牌/v 。/w
+结语/n
+5/m G/m 是/v 舆论/n 场/ng 的/u 宠儿/n ，/w 俨然/v 被/ng 塑造/v 成/ng 了/dg 万能/b 的/u “/w 救世主/n ”/w 形象/a ，/w 其/r 引领/v 的/u 未来/t 已经/d 似乎/d 触手可及/lv ，/w 在/d 这个/r 时候/n ，/w 我们/r 更/d 应该/v 要/v 保持/v 足够/v 的/u 理性/n 。/w
+就/d 如/c 任正非/nr 所说/n ，/w “/w 5/m G/m 实际上/d 被/ng 夸大/v 了/dg 它/r 的/u 作用/n ……/w 实际上/d 现在/t 人类/n 社会/n 对/a 5/m G/m 还/d 没有/d 这么/r 迫切/a 的/u 需要/n ……/w ”/w 　　大连/ns 妇科检查/n 多少/r 钱/n http://www.bhyy0411.com//url
+5/m G/m 的/u 发展/v 是/v 缓慢/a 的/u ，/w 但/c 可以/a 预见/n 处于/v 生态链/n 的/u 每/r 一个/mq 企业/n 都/d 不会/v 错过/v 这/r 波/n 红利/n ，/w 只是/c 过于/d 渲染/v 5/m G/m 能力/n 可能/a 只/bg 会/n 带来/v 更多/n 失望/a 。/w ,/w ,/w ,/w ,/w ,/w

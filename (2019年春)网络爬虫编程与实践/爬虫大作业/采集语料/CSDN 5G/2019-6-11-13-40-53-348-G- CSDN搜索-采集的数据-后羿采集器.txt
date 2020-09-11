@@ -1,0 +1,295 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G协议分类整理,n本文主要是将3gpp 中有关5g的协议分类整理出来，方便查阅。协议下载可到 3gpp官网，同时参考了 5G协议下载地址及介绍、5G 3GPP协议各版本的内容详表nn协议分层：nn n n n n n n n 网元n 协议大类n 协议号n 描述n 中文介绍n n n NR整体n 整体描述n 38.300n NR ...,u013597671,https://blog.csdn.net/u013597671/article/details/84449374,2018-11-24,2647次阅读,5G协议分类整理 - u013597671的专栏,2018年11月24日 16:53:07,本文主要是将3gpp 中有关5g的协议分类整理出来，方便查阅。协议下载可到 3gpp官网，同时参考了 5G协议下载地址及介绍、5G 3GPP协议各版本的内容详表
+
+协议分层：
+
+ 
+   
+   
+   
+   
+   
+   
+    网元
+    协议大类
+    协议号
+    描述
+    中文介绍
+   
+   
+    NR整体
+    整体描述
+    38.300
+    NR and NG-RAN Overall Description
+    5G NR综述，整个接入网整体及各层的基本介绍
+   
+   
+    接入网 NR
+    总体
+    38.104
+    NR; Base Station radio transmission and reception
+    NR；基站无线发送和接收
+   
+   
+    38.113
+    NR；Base Station EMC
+    NR；基站电磁兼容性（EMC）
+   
+   
+    38.133
+    NR；Requirement for support RRM
+    NR；支持无线资源管理（RRM）
+   
+   
+    37.340
+    Multi-connectivity
+    5G多RAT（4/5G双连接）架构，包括各基本流程信令
+   
+   
+    38.401
+    NG-RAN Architecture description
+    5G接入网架构，包括NG、Xn和F1接口以及它们与空中接口的交互
+   
+   
+    空口 L1
+    38.201
+    NR;   Physical layer; General description
+    物理层综述，TS38.21X协议架构介绍
+   
+   
+    38.202
+    NR;   Physical layer services provided by the physical layer
+    物理层的功能与服务
+   
+   
+    38.211
+    NR;   Physical channels and modulation
+    物理层帧结构、信道、调制、信号
+   
+   
+    38.212
+    NR;   Multiplexing and channel coding
+    描述了传输信道和控制信道的数据处理，包括复用、信道编码、交织、调制等
+   
+   
+    38.213
+    NR;   Physical layer procedures for control
+    物理层控制过程：同步、上行功控、随机接入、UE上报和接收控制信息过程
+   
+   
+    38.214
+    NR;   Physical layer procedures for data
+    物理层数据过程：功率控制，PDSCH/PUSCH数据处理过程
+   
+   
+    38.215
+    NR;   Physical layer measurements
+    物理层测量：UE和网络侧测量控制，UE测量能力
+   
+   
+    空口 L2/L3
+    38.321
+    NR;   Medium Access Control (MAC) protocol specification
+    NR   MAC层协议，定义了MAC层处理过程，信道和信道映射，MAC层数据单元的格式等
+   
+   
+    38.322
+    NR;   Radio Link Control (RLC) specification
+    NR   RLC层协议，定义了RLC层处理过程，包括TM/UM/AM三种传输模式，ARQ过程，RLC层数据单元格式等
+   
+   
+    38.323
+    NR;   Packet Data Convergence Protocol (PDCP) specification
+    NR   PDCP层协议，定义了PDCP层处理过程，PDCP层数据单元格式等
+   
+   
+    38.331
+    NR;   Radio Resource Control (RRC); Protocol specification
+    NR   RRC层协议，定义了RRC层过程，包括系统消息，连接态控制，测量控制等一系列的配置过程，RRC数据单元格式等
+   
+   
+    NG接口
+    38.410
+    NG-RAN;   NG general aspects and principles
+    NG接口综述，TS38.41X协议架构介绍
+   
+   
+    38.411
+    NG-RAN;   NG layer 1
+    NG接口相关的物理层技术
+   
+   
+    38.412
+    NG-RAN;   NG signalling transport
+    NG控制面流程
+   
+   
+    38.413
+    NG-RAN;   NG Application Protocol (NGAP)
+    RAN和AMF的控制面信令消息
+   
+   
+    38.414
+    NG-RAN;   NG data transport
+    NG接口数据面传输规范
+   
+   
+    38.415
+    NG-RAN;  PDU Session User Plane protocol
+    PDU会话用户面协议
+   
+   
+    Xn接口
+    38.420
+    NG-RAN;   Xn general aspects and principles
+    Xn接口综述，TS38.42X协议架构介绍
+   
+   
+    38.421
+    NG-RAN;   Xn layer 1
+    Xn接口相关的物理层技术
+   
+   
+    38.422
+    NG-RAN;   Xn signalling transport
+    描述了如何在Xn接口传输信令消息
+   
+   
+    38.423
+    NG-RAN;   Xn Application Protocol (XnAP)
+    NG-RAN之间控制面信令消息
+   
+   
+    38.424
+    NG-RAN;   Xn data transport
+    Xn接口数据面传输规范
+   
+   
+    38.425
+    NG-RAN;   Xn interface user plane protocol
+    Xn接口用户面协议栈
+   
+   
+    定位
+    38.455
+    NR-RAN； NR Positioning Protocol
+    NR定位协议
+   
+   
+    E1接口
+    38.460
+    NG-RAN;   E1 general aspects and principles
+    E1接口综述，TS38.46X协议架构介绍
+   
+   
+    38.461
+    NG-RAN;   E1 layer 1
+    E1接口相关的物理层技术
+   
+   
+    38.462
+    NG-RAN;   E1 signalling transport
+    描述了如何在E1接口传输信令消息
+   
+   
+    38.463
+    NG-RAN;   E1 Application Protocol (F1AP)
+    E1接口的控制面信令消息
+   
+   
+    F1接口
+    38.470
+    NG-RAN;   F1 general aspects and principles
+    F1接口综述，TS38.47X协议架构介绍
+   
+   
+    38.471
+    NG-RAN;   F1 layer 1
+    F1接口相关的物理层技术
+   
+   
+    38.472
+    NG-RAN;   F1 signalling transport
+    描述了如何在F1接口传输信令消息
+   
+   
+    38.473
+    NG-RAN;   F1 Application Protocol (F1AP)
+    F1接口的控制面信令消息
+   
+   
+    38.474
+    NG-RAN;   F1 data transport
+    F1接口数据面传输规范
+   
+   
+    38.475
+    NG-RAN;   F1 interface user plane protocol
+    F1接口用户面协议栈
+   
+   
+    终端
+    终端
+    38.101-1~3
+    User Equipment (UE) transmission and reception
+    NR UE无线发送和接收
+   
+   
+    38.124
+    User Equipment (UE) EMC
+    NR UE电磁兼容性（EMC）
+   
+   
+    38.304
+    User Equipment (UE) procedures in idle mode
+    NR UE空闲态和非活动态下，在接入层（AS）部分的过程，包括：PLMN选择、小区选择和重选的过程，以及相关门限
+   
+   
+    38.305
+    User Equipment (UE) positioning in NG-RAN
+    描述了终端定位相关的协议
+   
+   
+    38.306
+    User Equipment (UE) radio access capabilities
+    UE无线接入能力
+   
+   
+    38.307
+    Requirements on User Equipments (UEs) supporting a release-independent   frequency band
+    UE支持释放无关频带
+   
+   
+    38.508-1~2
+    User Equipment (UE) conformance specification
+    UE一致性规范
+   
+   
+    38.509
+    User Equipment (UE) conformance specification testing
+    UE一致性测试
+   
+   
+    38.521-1~3
+    User Equipment (UE) conformance specification radio transmission and reception
+    UE一致性：无线发送和接收
+   
+   
+    38.522
+    User Equipment (UE) conformance specification； Applicability of RF and rrm TEST
+    UE一致性：RF和RRM测试
+   
+   
+    38.523-1~3
+    User Equipment (UE) conformance specification
+    UE一致性：协议、实现和测试
+   
+   
+    NR 技术研究
+    NR 技术研究
+    38.8xx - 38.9xx
+    
+    相关技术的研究
+   
+   
+    5GC 待补充.....,,,,,

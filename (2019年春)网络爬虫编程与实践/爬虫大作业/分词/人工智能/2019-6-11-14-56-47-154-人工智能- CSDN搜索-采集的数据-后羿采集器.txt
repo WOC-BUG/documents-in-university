@@ -1,0 +1,22 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_34177064/article/details/90945982/url ,/w Python/en 教程/n Python/en 是/v 一/m 种/ng 通用/v 的/u 解释/v 型/k ，/w 交互式/b ，/w 面向/v 对象/n 和/c 高级/a 编程语言/n Python/en 文本/n 处理/v Python/en 文本/n 处理/v AI/n 与/c PythonAI/en 与/c PythonNumpy/en 教程/n NumPy/en 代表/nx Numerical/en Python/en ，/w 它/r 是/v 一个/mq 由/p 多/a .../m Scipy/en 教程/n SciPy/en 是/v 一个/mq 开放/a 源码/n 的/u BSD/n 许可/v 数学/n ，/w 科学/a 和/c 工程/n 库/n 。/w Pandas/en 教程/n Pandas/en 是/v 一个/mq 易于/v 使用/v 的/u Pytho.../url ,/w https://blog.csdn.net/weixin_34177064/article/details/90945982/url ,/w ,/w weixin/en _/0 34177064/m ,/w 2019-05-30/t ,/w //blog.csdn.net/weixin_34177064/article/details/90945982/url ,/w 3/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 34177064/m 的/u 博客/n ,/w 2019年05月30日 09:57:00/t ,/w 转/q 人工智能/n
+
+
+
+2019年05月30日 09:57:00/t
+weixin/en _/0 34177064/m
+阅读/v 数/m ：/w 4/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python/en 教程/n Python/en 是/v 一/m 种/ng 通用/v 的/u 解释/v 型/k ，/w 交互式/b ，/w 面向/v 对象/n 和/c 高级/a 编程语言/n Python/en 文本/n 处理/v Python/en 文本/n 处理/v AI/n 与/c PythonAI/en 与/c PythonNumpy/en 教程/n NumPy/en 代表/nx Numerical/en Python/en ，/w 它/r 是/v 一个/mq 由/p 多/a .../m Scipy/en 教程/n SciPy/en 是/v 一个/mq 开放/a 源码/n 的/u BSD/n 许可/v 数学/n ，/w 科学/a 和/c 工程/n 库/n 。/w Pandas/en 教程/n Pandas/en 是/v 一个/mq 易于/v 使用/v 的/u Python/en 数据结构/n 和数/n 据/ng 分析/v 工具/n 。/w Matplotlib/en 教程/n Matplotlib/en 是/v 一个/mq Python/en 图形/n 库/n 。/w Seaborn/en 教程/n Seaborn/en 教程/n Python/en 数据/n 科学/a 教程/n 介绍/v 使用/v Python/en 编程语言/n 在/d 数据/n 科学/a 中/f 使用/v 的/u 各种/r 技术/n 。/w Python/en 深度/n 学习教程/n 神经网络/n 是/v 并行/v 计算/v 设备/n ，/w 基本上/d 是/v 试图/v 建立/v 大脑/n 的/u 计算机/np 模型/n 。/w PyTorch/en 教程/n

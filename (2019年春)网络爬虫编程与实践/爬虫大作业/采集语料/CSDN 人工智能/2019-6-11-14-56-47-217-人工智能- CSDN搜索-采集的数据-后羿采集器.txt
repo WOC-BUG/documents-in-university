@@ -1,0 +1,31 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/xlpdingding/article/details/83004878,文章目录人工智能的分类计算机视觉rn人工智能的分类rnrn计算机视觉（CV，Computer Vision）rn语音识别rn自然语言处理rn推荐系统、专家系统rnrn计算机视觉rnrn,https://blog.csdn.net/xlpdingding/article/details/83004878,,xlpdingding,2018-10-31,//blog.csdn.net/xlpdingding/article/details/83004878,324次阅读,人工智能 - xlpdingding的博客,2018年10月31日 15:21:41,原        人工智能
+      
+      
+        
+                                                  2018年10月31日 15:21:41
+          我是波多
+          阅读数：325
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+            
+            
+              
+            
+            文章目录人工智能的分类计算机视觉
+人工智能的分类
+
+计算机视觉（CV，Computer Vision）
+语音识别
+自然语言处理
+推荐系统、专家系统
+
+计算机视觉

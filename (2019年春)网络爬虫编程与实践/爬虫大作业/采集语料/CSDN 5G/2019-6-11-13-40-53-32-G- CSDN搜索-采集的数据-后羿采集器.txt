@@ -1,0 +1,16 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G,5G通讯与技术nnhttps://wenku.baidu.com/view/6b47010c905f804d2b160b4e767f5acfa1c783fb.htmlnnnn5G 简介nnhttps://zhuanlan.zhihu.com/p/41182443nnnn各种频率介绍nnhttps://zhuanlan.zhihu.com/p/55862694n,funkidd,https://blog.csdn.net/funkidd/article/details/88541831,2019-03-13,14次阅读,5G - funkidd的博客,2019年03月13日 21:22:37,5G通讯与技术
+
+https://wenku.baidu.com/view/6b47010c905f804d2b160b4e767f5acfa1c783fb.html
+
+ 
+
+5G 简介
+
+https://zhuanlan.zhihu.com/p/41182443
+
+ 
+
+各种频率介绍
+
+https://zhuanlan.zhihu.com/p/55862694,,,,,

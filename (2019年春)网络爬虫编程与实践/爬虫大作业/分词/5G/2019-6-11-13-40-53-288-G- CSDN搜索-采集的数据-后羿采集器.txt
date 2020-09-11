@@ -1,0 +1,82 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en NR/n 的/u 加/ng 扰/ag 与/c 解扰/v ,/w 5/m G/en NR/n 的/u 加/ng 扰/ag 与/c 解扰/v nn/en 2018年01月03日 19:01:4/t 5/m wingsofsilence/en 阅读/v 数/m ：1435/m nn/en 【/w 声明/n 】/w ：/w 本文/r 为/p 原创文章/n ，/w 发表/v 于/ng wingsofsilence/en 的/u CSDN/en 博客/n 。/w n/n 欢迎/v 转载/v ，/w 但/c 请/v 务必/d 保留/v 本/d 信息/n ，/w 注明/v 文章/n 出处/n 。/w ,/w LN/en 973331487/m ,/w https://blog.csdn.net/LN973331487/article/details/90201276/url ,/w 2019-05-14/t ,/w 9/m 次/a 阅读/v ,/w 5/m G/en NR/n 的/u 加/ng 扰/ag 与/c 解扰/v -/w LN/en 973331487/m 的/u 博客/n ,/w 2019年05月14日 10:27:25/t ,/w 5/m G/en NR/n 的/u 加/ng 扰/ag 与/c 解扰/v
+
+2018年01月03日 19:01:4/t 5/m wingsofsilence/en 阅读/v 数/m ：1435/m
+
+【/w 声明/n 】/w ：/w 本文/r 为/p 原创文章/n ，/w 发表/v 于/ng wingsofsilence/en 的/u CSDN/en 博客/n 。/w
+欢迎/v 转载/v ，/w 但/c 请/v 务必/d 保留/v 本/d 信息/n ，/w 注明/v 文章/n 出处/n 。/w  /0
+本文/r 作者/n :/w wingsofsilence/en  /0
+
+本文/r 原始/a 地址/n ：http://blog.csdn.net/wingsofsilence/article/details/78964413/url  /0
+
+解扰/v 在/d 接收/v 端/ag 流程/n 中/f 的/u 位置/n 如下/v 图/n ：/w
+
+/0
+
+
+
+/0
+
+第一部/n 分/b ：/w 加/ng 扰/ag
+
+/0
+
+/0
+
+加/ng 扰/ag 的/u 目的/n 主要/b 在于/v ：/w
+
+1/m 、/w 减小/v 临/ng 小区/ny 间/f 的/u 干扰/v 。/w 在/d 发送/v 端/ag 用/ng 小区/ny 专用/v 扰/ag 码/ng 序列/n 进行/v 加/ng 扰/ag ，/w 接收/v 端/ag 再/d 进行/v 解扰/v ，/w 只有/c 本/d 小区/ny 内/f 的/u UE/en 才能/v 根据/n 本/d 小区/ny 的/u ID/n 形成/v 的/u 小区/ny 专用/v 扰/ag 码/ng 序列/n 对接/v 收到/v 得/e 本/d 小区/ny 内/f 的/u 信息/n 进行/v 解扰/v 。/w
+
+/0
+
+2/m 、/w 将/d 干扰/v 信号/n 随机/b 化/k 。/w 设计/v 数字通信/ln 系统/a 时/n ，/w 通常/b 假设/n 信源/n 序列/n 是/v 随机/b 序列/n ，/w 而/c 实际/a 信源/n 发出/v 的/u 序列/n 不一/v 定/d 满足/a 此条/mq 件/ng ，/w 尤其/d 出现/v 长/a 0/m 串/q 时/n ，/w 给/v 接收/v 端/ag 提取/v 信号/n 带来/v 一定/b 困难/a 。/w 通常/b ，/w 接收/v 端的/n 码/ng 元/q 同步/b 信号/n 是从/v 接收/v 到/ng 的/u 数字/n 信号/n 的/u “/w 0/m ”/w 和/c “/w 1/m ”/w 的/u 交变/j 时刻/d 中/f 提取/v 的/u ，/w 如果/c 序列/n 中经/j 常/ag 出现/v 长/a 游程/n （/w 0/m 或/c 1/m 游程/n ）/w ，/w 则/c 将/d 会长/nx 时间/n 不/d 出现/v “/w 0/m ”/w 和/c “/w 1/m ”/w 码/ng 元/q 的/u 交变/j 点/m ，/w 从而/c 影响/v 码/ng 元/q 同步/b 的/u 建立/v 和/c 保持/v 。/w 因此/c ，/w 需要/n 对/a 信源/n 序列/n 进行/v 扰/ag 码/ng 处理/v ，/w 使/ng 其/r 随机/b 化/k 。/w 扰/ag 码/ng 可以/a 减少/v 连/d “/w 0/m ”/w 或/c 连/d “/w 1/m ”/w 的/u 长度/n ，/w 保证/v 接收机/n 能/ng 提取/v 到/ng 定时/b 信号/n 。/w
+
+/0
+
+加/ng 扰/ag 的/u 公式/n ：/w
+
+/0
+
+
+
+/0
+
+其中/r ，/w b/n 为/p 发送/v 信号/n ，/w c/n 为/p 扰/ag 码/ng 序列/n ，/w 是由/n c/en _/0 init/en 为/p 初始值/n 产生/v 的/u 伪/ag 随机/b 序列/n 。/w 不同/a 信道/n 的/u 初始值/n 如下/v ：/w  /0
+
+
+
+/0
+
+/0
+
+加/ng 扰/ag 过程/n 的/u 示例/n ：/w
+
+
+
+/0
+
+扰/ag 码/ng 为/p 0/m 时/n ，/w 不/d 改变/v 原有/v 序列/n ；/w 扰/ag 码/ng 为/p 1/m 时/n ，/w 序列/n 进行/v 0/m //w 1/m 对换/v 。/w
+
+/0
+
+/0
+
+/0
+
+第二/m 部分/n ：/w 解扰/v
+
+解扰/v 的/u 通用/v 方式/n 是/v 对/a 解调/v 之后/f 的/u 软/a 比特/q 进行/v 符号/n 的/u 变化/v 。/w
+
+
+
+c/n 为/p 同发/nz 送/v 端相/v 同/a 的/u 扰/ag 码/ng 序列/n 。/w LLR/en 为/p 解调/v 之后/f 的/u 软/a 比特/q 信息/n 。/w 1/m -/w 2/m c/n 的/u 目的/n 是/v 对/a LLR/en 进行/v 正负/n 的/u 符号/n 变化/v 。/w
+
+示例/n 如下/v ：/w
+
+
+
+/0
+
+/0
+
+扰/ag 码/ng 为/p 0/m 时/n ，/w 不/d 改变/v 原有/v 序列/n ；/w 扰/ag 码/ng 为/p 1/m 时/n ，/w 序列/n 进行/v ±/m 变换/v 。/w ,/w ,/w ,/w ,/w ,/w

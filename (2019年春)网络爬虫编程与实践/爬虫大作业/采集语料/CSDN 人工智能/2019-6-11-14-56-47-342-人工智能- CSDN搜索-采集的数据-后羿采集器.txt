@@ -1,0 +1,31 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/A_wdjj_B/article/details/78984484,rn人工智能肯定要推出新的一套东西，语言简洁，模糊能力强，推断能力强，转化能力强。,https://blog.csdn.net/A_wdjj_B/article/details/78984484,,A_wdjj_B,2018-01-05,//blog.csdn.net/A_wdjj_B/article/details/78984484,150次阅读,人工智能 - A_wdjj_B的博客,2018年01月05日 19:25:28,原        人工智能
+      
+      
+        
+                                                  2018年01月05日 19:25:28
+          A_wdjj_B
+          阅读数：151
+          
+                          
+                标签：
+                                  人工智能                                  
+              更多
+                                      
+                个人分类：
+                                  智能                                  
+              
+                                          
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            
+现在编程的语言过于繁琐，编程效率低，编程思想老套。
+人工智能肯定要推出新的一套东西，语言简洁，模糊能力强，推断能力强，转化能力强。

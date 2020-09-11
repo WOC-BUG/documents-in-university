@@ -1,0 +1,64 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+使用/v Aircrack/en -/w ng/n 套件/n 在/d 5/m Ghz/q 无线网/n 频段/n ,/w rn/n 在/d 百度/nt 必应/n 查/ng 了/dg 下/f ，/w Aircrack/en -/w ng/n 套件/n 在/d 5/m G/m 频段/n WiFi/n 下/f 使用/v 的/u 文章/n 很少/mq ，/w 我/r 查/ng 了/dg 部分/n 资料/n ，/w 外加/v 部分/n 实践/v 和/c 摸索/v 写下/v 本次/r 文章/n 。/w rn/n 原因/n 可能/a 是/v 因为/c 5/m G/m 频段/n 穿透/v 性/k 较差/a （/w 相对/b 于/ng 2.4/m G/m ）/w ，/w 监听/v 时候/n 信号/n 差/a ，/w 近距/n 离/ng 渗透/v 容易/a 被/ng .../m ,/w CK/en 2009159/m ,/w https://blog.csdn.net/CK2009159/article/details/84096343/url ,/w 2018-11-15/t ,/w 660/m 次/a 阅读/v ,/w 使用/v Aircrack/en -/w ng/n 套件/n 在/d 5/m Ghz/q 无线网/n 频段/n -/w CK/en 2009159/m 的/u 博客/n ,/w 2018年11月15日 10:50:30/t ,/w 小/a 白小白/nr 上楼/v 梯/ng ，/w 抽出/v 小/a 天线/n ，/w 打开/v 电视机/np ，/w 电视/np 不好/a 看/u ，/w 关掉/v 电视机/np ,/w 。/w
+从小/d 白/a 开始/v 吧/y !/w
+！/w ！/w ！/w CK/en 2009159/m 的/u 原创文章/n 2018.11.15/m ！/w ！/w ！/w
+不/d 干/a 纸上谈兵/iv ，/w 一切/r 从实/d 际/ng 出发/v ，/w 不/d 坑人/v 。/w
+在/d 百度/nt 必应/n 查/ng 了/dg 下/f ，/w Aircrack/en -/w ng/n 套件/n 在/d 5/m G/m 频段/n WiFi/n 下/f 使用/v 的/u 文章/n 很少/mq ，/w 我/r 查/ng 了/dg 部分/n 资料/n ，/w 外加/v 部分/n 实践/v 和/c 摸索/v 写下/v 本次/r 文章/n 。/w
+原因/n 可能/a 是/v 因为/c 5/m G/m 频段/n 穿透/v 性/k 较差/a （/w 相对/b 于/ng 2.4/m G/m ）/w ，/w 监听/v 时候/n 信号/n 差/a ，/w 近距/n 离/ng 渗透/v 容易/a 被/ng 发现/v (/w 几乎/d 需要/n 贴/ag 脸/n 才能/v 搜/v 到/ng 信号/n ，/w 虽然/c 有点/d 夸张/n ，/w 但是/c 基本/a 也/d 就/d 这样子/r 了/dg )/w ，/w 所以/c 5/m G/m 功能/n 对于/p 大多数/n 人/n 来说/u 太/ag 鸡肋/n ，/w 只能/v 用于/v 小/a 范围/n 内/f 研究/v 。/w
+经过/p 一/m 天/n 的/u 折腾/v ，/w 淌/v 平/a 了/dg 几/m 个/q 坑/n ，/w 现将/nz 经验/n 写出/v 来/u 。/w
+目录/n 如下/v ：/w
+1/m 、/w 工作/n 前/f 硬件/n 准备/v
+2/m 、/w 运行/v 环境/n 及/c 设置/v （/w 本文/r 章/n 只/bg 讨论/v 在/d VMware/en Workstation/en Pro/n 虚拟/v 机/np 内/f 的/u 情况/n ）/w
+3/m 、/w Kali/en Linux/n 下/f 驱动/v 安装/v
+4/m 、/w Aircrack/en -/w ng/n 在/d 5/m G/m 频段/n 下/f 的/u 使用/v 。/w
+1/m 、/w 工作/n 前/f 硬件/n 准备/v ：/w
+首先/c 得/e 有/v 一个/mq 在/d Kali/en Linux/n 列表/v 支持/v 内/f 的/u 5/m G网/n 卡/n
+我/r 使用/v 的/u 是/v USB/en 3.0/m 的/u ALFA/en AWUS/en 036/m ACH/en 尽量/d 选/ng Kali/en Linux/n 推荐/v 的/u 网卡/n 。/w
+2/m 、/w 运行/v 环境/n 级/n 必要/a 的/u 设置/v 。/w
+我/r 使用/v 的/u 是/v
+
+首先/c 下载/v kali/en linux/n 的/u 镜像/n ，/w 官方/n 下载/v ！/w ！/w ！/w
+先/d 不要/df 开机/v ，/w 首先/c 要/v 进行/v 的/u 是/v 镜像/n 升级/v 。/w
+
+CPU/np 支持/v 虚拟化/v 的/u 请/v 打开/v
+*/w */w
+请/v 务必/d 在/d USB/n 控制器/n 里边/f 打开/v USB3.0/url 支持/v ，/w 第一/m 项/ng 必/d 选/ng ，/w 其他/r 随意/a ！/w ！/w ！/w ！/w
+*/w */w
+基本上/d 真的/d 是/v 小/a 白/a 教程/n 了/dg ，/w 连/d 虚拟/v 机/np 配置/n 都/d 过/d 了/dg 一次/mq 了/dg 啊/y 。/w
+配置/n 完成/v 后/f 使用/v apt/en 升级/v 到/ng 系统/a 最新/a 的/u 版本/n ，/w 升级/v 命令/n 以前/f 已经/d 说/ag 过/d 了/dg ，/w 源/ng 为了/p 速度快/n 使用/v 国内/s 的/u 源/ng ，/w 源/ng 的/u 地址/n 请/v 自行/b 百度/nt 。/w
+升级/v 后/f 的/u Kali/en Linux/n 版本/n 如下/v ：/w
+root/en @/w kali/en :/w ~/w #/w uname/en -/w a/b
+Linux/en kali/en 4.18.0-/t kali/en 2/m -/w amd/en 64/m #/w 1/m SMP/en Debian/en 4.18.10-2/t kali/en 1/m (/w 2018-10-09/t )/w x/en 86/m _/0 64/m GNU/en //w Linux/n
+至此/d 基本上/d 已经/d 完成/v 了/dg 基本/a 的/u 配置/n ，/w 其中/r 的/u 重点/d 是/v 一定/b 要/v 打开/v USB3.0/url 的/u 支持/v ，/w 否则/c kali/en 识别/v 错误/a 会/n 导致/v 无法/v 使用/v ，/w 我/r 在/d 这点/mq 上/f 被/ng 坑/n 过/d ，/w 用/ng 了/dg 半/m 个/q 小时/n 才/d 查出/v 原因/n 。/w
+3/m 、/w Kali/en Linux/n 下/f 驱动/v 安装/v
+驱动/v 名字/n 太/ag 长/a 记/ng 不住/d ，/w 所以/c 用/ng 了/dg apt/en search/en 命令/n
+apt/en search/en realtek/en
+1/m
+使用/v 命令/n 安装/v 驱动/v 重启/v 系统/a 即可/v
+apt/en -/w get/en install/en realtek/en -/w rtl/en 88/m xxau/en -/w dkms/en
+1/m
+我/r 在/d 安装/v 驱动/v 的/u 时候/n 没有/d 遇到/v 错误/a ，/w 很/d 顺利/a ，/w 故/c 在/d 这里/r 不/d 讨论/v 安装/v 驱动/v 出错/v 的/u 问题/n 。/w
+不过/c 在/d 实际/a 使用/v 时/n 发现/v 驱动/v 不/d 太/ag 稳定/a ，/w 经常/d 莫名其妙/ia 的/u 网卡/n down/en 掉/v 了/dg ，/w 重新/d 拔/v 插/v 网卡/n 即可/v 。/w 有/v 经验/n 的/u 或者/c 知道/v 为啥/r 的/u 请/v 告诉/v 我/r 一下/d 。/w
+4/m 、/w Aircrack/en -/w ng/n 在/d 5/m G/m 频段/n 下/f 的/u 使用/v 。/w
+airodump/en -/w ng/n 默认/v 是在/n 2.4/m G/m 频段/n 下工/v 作/ng ，/w 是/v 搜索/n 不/d 出来/v 5/m G/m 信号/n 的/u ，/w 这里/r 需要/n 一个/mq 参数/n 指定/v 频率/n 或者/c 频道/n 指定/v 频率/n 的/u 是/v -/w C/en 大写/n 指定/v 频道/n 的/u 是/v -/w c/en 小写/n 请/v 分清/v 大小写/j ，/w 个人/n 偏好/n 使用/v 频率/n 。/w
+首先/c 使用/v 命令/n 检查/v 网卡/n 支持/v 的/u 频率/n 频段/n
+iw/en list/en
+1/m
+
+网卡/n 会/n 列出/v 所有/b 支持/v 的/u 频率/n 包括/v 2.4/m G/m 的/u 频段/n ，/w 上图/n 只/bg 截取/v 了/dg 5/m G/m 相关/v 的/u 频率/n ，/w 如果/c 没有/d 的话/u ，/w 就是/n 网卡/n 不支/v 持/v 5/m G/m 频段/n 。/w
+既然/c 网卡/n 支持/v 5/m G/m 那/c 就/d 可以/a 开工/v 了/dg 。/w
+aircrack/en -/w ng/n 命令/n 大家/r 都/d 应该/v 很/d 熟悉/v 了/dg ，/w 不/d 写/v 了/dg ，/w 贴/ag 个/q 图/n 出来/v 代替/v 吧/y 。/w
+由于/c 驱动/v 默认/v 的/u 就是/n 打开/v 了/dg 监听/v 模式/n ，/w 所以/c 并/c 没有/d 出现/v 网卡/n 名称/n +/0 mon/en 的/u 状态/n ！/w
+
+airodump/en -/w ng/en -/w C/en 5180-588/t 5/m wlan/en 0/m
+1/m
+现在/t 用/ng airodump/en -/w ng/n 使用/v -/w C/n 参数/n 指定/v 5/m G/m 频段/n 的/u 频率/n 。/w 程序/n 会/n 验证/v 一下/d 频率/n 是否/v 正确/a ，/w 正确/a 的话/u 就/d 会/n 进入/v 监听/v 界面/n 了/dg 。/w
+黄色/n 划线/v 的/u 就是/n 5/m G/m 的/u wifi/en 5/m G/m 的/u 频道/n 都/d 比较/d 大/a ，/w 一般/a 都/d 在/d 100/m 往/p 上/f
+也/d 可以使/n 用/ng 小写/n 的/u -/w c/n 指定/v 频道/n
+指定/v 频道/n 后/f 如下/v 图/n
+
+红色/n 划线/v 的/u 就是/n 5/m G/en WiFi/n ！/w
+频率/n 和/c 频段/n 的/u 区别/n 在/d 两/m 张/ng 图片/n 的/u 左上角/f ，/w 一个/mq 是/v CH/n 一个/mq 是/v Freq/en （/w 英文/n 频率/n 的/u 短/a 写/v ）/w 。/w
+解决/v 了/dg 监听/v 问题/n ，/w 那么/c 抓/v 握手/v 包/n 的/u 问题/n 也/d 就/d 解决/v 了/dg 。/w
+留/ng 一个/mq 问题/n aireplay/en -/w ng/n 在/d 5/m G/m 下/f 的/u 使用/v ，/w 我们/r 下次/t 再说/c 啦/y ！/w 2018.12.1/m
+没/d 啥/r 说/ag 的/u 主要/b 是/v 选/ng 好网/nz 卡/n 就/d 可以/a 了/dg ，/w 比如/v 网卡/n 是/v wlan/en 0/m 输入/v 命令/n 时/n 网卡/n 就是/n wlan/en 0/m 如果/c 是/v wlan/en 0/m mon/en 输入/v 命令/n 时候/n 就是/n wlan/en 0/m mon/en 。/w 2019.1.9/m ,/w ,/w ,/w ,/w ,/w

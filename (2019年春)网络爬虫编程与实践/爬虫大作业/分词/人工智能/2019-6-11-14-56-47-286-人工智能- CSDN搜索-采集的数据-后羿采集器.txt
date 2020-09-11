@@ -1,0 +1,31 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/e12345678910/article/details/89440118/url ,/w 人工智能/n 对于/p 大数据/n 有/v 多重/b 要/v ？/w n/n 人工智能/n 是/v 靠/ng 优秀/a 的/u 算法/n 使得/v 一些/mq 东西/n 智能化/v ，/w 可以/a 理解/v 为/p 提高/v 一些/mq 智能/n 产品/n 的/u 智商/n 。/w 大数据/n 是从/v 海量/n 的/u 数据/n 中/f ，/w 找出/v 一些/mq 事物/n 的/u 规律/n ，/w 这个/r 就/d 好像/d 高中/nc 数学/n 中/f 的/u 举例/v 证明/n ，/w 从/p 数据分析/n 中/f 得到/v 我们/r 想要/v 的/u 东西/n 。/w 人工智能/n 能够/v 解决/v 大数据/n 出现/v 的/u 问题/n 。/w 大数据/n 是/v 人工智能/n 的/u 基础/n ，/w 人工智能/n 发挥/v 大数据/n 的/u 价值/n 。/w nn/en .../m ,/w https://blog.csdn.net/e12345678910/article/details/89440118/url ,/w ,/w e/en 12345678910/m ,/w 2019-04-21/t ,/w //blog.csdn.net/e12345678910/article/details/89440118/url ,/w 85/m 次/a 阅读/v ,/w 人工智能/n -/w 孙/ng 博雅/nz 廊坊/n 师范学院/lnc 信息/n 技术/n 提高班/n 十三/m 期/ng ,/w 2019年04月21日 21:32:38/t ,/w 原/b 人工智能/n
+
+
+
+2019年04月21日 21:32:38/t
+孙雪/nr snowy/en
+阅读/v 数/m ：/w 86/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/e12345678910/article/details/89440118/url
+
+
+
+
+
+
+人工智能/n 对于/p 大数据/n 有/v 多重/b 要/v ？/w
+人工智能/n 是/v 靠/ng 优秀/a 的/u 算法/n 使得/v 一些/mq 东西/n 智能化/v ，/w 可以/a 理解/v 为/p 提高/v 一些/mq 智能/n 产品/n 的/u 智商/n 。/w 大数据/n 是从/v 海量/n 的/u 数据/n 中/f ，/w 找出/v 一些/mq 事物/n 的/u 规律/n ，/w 这个/r 就/d 好像/d 高中/nc 数学/n 中/f 的/u 举例/v 证明/n ，/w 从/p 数据分析/n 中/f 得到/v 我们/r 想要/v 的/u 东西/n 。/w 人工智能/n 能够/v 解决/v 大数据/n 出现/v 的/u 问题/n 。/w 大数据/n 是/v 人工智能/n 的/u 基础/n ，/w 人工智能/n 发挥/v 大数据/n 的/u 价值/n 。/w

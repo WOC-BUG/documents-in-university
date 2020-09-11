@@ -1,0 +1,90 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+[5G][NR] SSB,1. 什么是SSB？nnnSSB即Synchronization Signal Block,包括PSS,SSS,PBCH。nn3gpp 38.300中提供了SSB的时频资源示意图。可见，SSB中的PSS和SSS各占用1个symbol和127个子载波，PBCH占用3个symbol和240个子载波（20个RBs）。nnnnn2. SSB的时频结构nnn根据3gpp 38.211：nn1> S...,GYK0812,https://blog.csdn.net/GYK0812/article/details/90713389,2019-05-31,7次阅读,[5G][NR] SSB - GYK0812的博客,2019年05月31日 18:38:45,1. 什么是SSB？
+
+
+SSB即Synchronization Signal Block,包括PSS,SSS,PBCH。
+
+3gpp 38.300中提供了SSB的时频资源示意图。可见，SSB中的PSS和SSS各占用1个symbol和127个子载波，PBCH占用3个symbol和240个子载波（20个RBs）。
+
+
+
+
+2. SSB的时频结构
+
+
+根据3gpp 38.211：
+
+1>  SSB 用天线端口4000来发送
+
+2>  SSB内包含的PSS,SSS,PBCH使用相同的循环前缀和SCS
+
+3>  对于SSB typeA（sub 6G/ FR1），SCS =15KHz / 30KHz,  {0,1,2,...23}, 但要注意  和 以15KHz来计算
+
+4> 对于SSB typeB （毫米波 / FR2），SCS = 120KHz /240KHz，   {0,1,2,...11}, 但要注意  和 以60KHz来计算
+
+ 在NSA模式中，UE可以通过RRC信令直接获得SSB的频点位置：IE: absoluteFrequencySSB.
+
+而在SA模式中，需要通过小区搜索来获取SSB的位置。
+
+
+
+
+
+
+
+
+3. 
+
+
+SSB和  在不同的Frequency Range对应的子载波间隔不同，见下表：
+
+SSB Type
+			SSB的SCS 
+			 的SCS
+			取值
+			 的SCS
+		Type A (FR1)
+			15 / 30 KHz
+			
+			15KHz 
+
+			 
+			
+			
+			0,1,2,…,23
+
+			（由MIB中的IE:ssb-SubcarrierOffset 和PBCH Payload来共同指示）
+			
+			15KHz
+		Type B (FR2)
+			120 / 240 KHz
+			IE: subcarrierSpacingCommon
+			0,1,2,…,11
+			60KHz
+		
+
+
+
+如果IE: ssb-SubcarrierOffset 不存在，则  即为SSB和Ponit A之间的频率偏差。如下图：
+
+
+
+
+4. SSB的时域位置 
+
+
+
+
+在5G中，每个SSB对应一个beam，我们讨论SSB的最短时间跨度为5ms，也就是半帧。一个半帧中可能存在多个SSB，我们将一个半帧中存在的一个或多个SSB称为SS Burst Set，一个SS Burst Set中的SSB包含的信息相同。
+
+两个SS Burst Set出现的时间，也就是存在SSB的半帧出现的时间是可以配置的，成为SS Burst Set Periodicity。默认为20ms，如上图所示。
+
+当UE初次进行小区搜索时，可以假设SSB Burst Set的周期时20ms，发送示意图如上图。
+
+5ms内，SSB的最大个数定义为Lmax，对应不同的SCS和频率，Lmax可以为4， 8，64。 见下表。
+
+其中，s为SSB的其实symbol。
+
+可见：当 f<3G, Lmax=4 ;  3G<f<6G, Lmax=8 ;  6G<f, Lmax=64 ; 
+
+SSB的index是按照时间顺序升序排列，并且唯一的。当Lmax=4时，SSB的index依次为0，1，2，3.,,,,,

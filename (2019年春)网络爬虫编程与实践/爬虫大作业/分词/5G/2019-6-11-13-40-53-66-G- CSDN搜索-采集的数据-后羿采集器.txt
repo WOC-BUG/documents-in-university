@@ -1,0 +1,20 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 白皮书/n ,/w n/en n/en n/en 在/d 我/r 理解/v ，/w 5/m G/m 和/c 4G/n 的/u 定位/n 很/d 相似/a ，/w 都/d 是/v 对/a 设备/n 单元/n 的/u 传输/v 能力/n 升级/v ，/w 4G/n 的/u 升级/v ，/w 带来/v 的/u 是/v 信息/n 交流/v 方式/n 的/u 改变/v ，/w 结合/v 这个/r 十/m 年/n 智能终端/n 的/u 形式/n ，/w 创造/n 了/dg 短视/a 频/ag 、/w LBS/en 服务/v 等/ng 应用/v ，/w 成就/n 了/dg 头条/n 抖/v 音/n 快手/n 等/ng 企业/n ，/w 带来/v 的/u 是/v 整个/b 移动端/n 增长/v 。/w 5/m G/m 更快/n 的/u 速度/n &/0 更/d 便宜/a 的/u 流量/n &/0 更/d 强壮/a 的/u 连贯性/n ，/w 会/n 引导/v ，/w 从/p 底层/n 人性/n 角度/n 发展/v 出/q 更/d 符合/v 人类/n 生活/n 习惯/n 的/u 社交/n 娱乐生活/n 方式/n ，/w 把握/v 住/v 这些/r 机会/n 。/w .../m ,/w weixin/en _/0 33739541/m ,/w https://blog.csdn.net/weixin_33739541/article/details/87805350/url ,/w 2018-03-20/t ,/w 22/m 次/a 阅读/v ,/w 5/m G/m 白皮书/n -/w weixin/en _/0 33739541/m 的/u 博客/n ,/w 2018年03月20日 21:13:00/t ,/w 在/d 我/r 理解/v ，/w 5/m G/m 和/c 4G/n 的/u 定位/n 很/d 相似/a ，/w 都/d 是/v 对/a 设备/n 单元/n 的/u 传输/v 能力/n 升级/v ，/w 4G/n 的/u 升级/v ，/w 带来/v 的/u 是/v 信息/n 交流/v 方式/n 的/u 改变/v ，/w 结合/v 这个/r 十/m 年/n 智能终端/n 的/u 形式/n ，/w 创造/n 了/dg 短视/a 频/ag 、/w LBS/en 服务/v 等/ng 应用/v ，/w 成就/n 了/dg 头条/n 抖/v 音/n 快手/n 等/ng 企业/n ，/w 带来/v 的/u 是/v 整个/b 移动端/n 增长/v 。/w 5/m G/m 更快/n 的/u 速度/n &/0 更/d 便宜/a 的/u 流量/n &/0 更/d 强壮/a 的/u 连贯性/n ，/w 会/n 引导/v ，/w 从/p 底层/n 人性/n 角度/n 发展/v 出/q 更/d 符合/v 人类/n 生活/n 习惯/n 的/u 社交/n 娱乐生活/n 方式/n ，/w 把握/v 住/v 这些/r 机会/n 。/w "/0 4G/n 已经/d 满足/a 人们/n 当前/t 所有/b 对/a 互联网/n 内容/n 速度/n 的/u 需求/n 了/dg ，/w 不/d 需要/n 5/m G/en "/0 这种/r 理论/n 其实/d 稍/d 想/v 就/d 不靠/v 谱/ng ，/w 人类/n 基因/n 刻/ag 着/n 两/m 字/n ，/w 优化/v ，/w 5/m G/m 能否/v 成功/a 普及/a ，/w 更多/n 是/v 看/u 基于/p 5/m G/m 衍生/v 出来/v 的/u 应用/v ，/w 是不是/vbv 真的/d 满足/a 未来/t 十/m 年/n 用户/n 需求/n 。/w 5/m G/m 正处/n 于/ng 标准/a 制定/v 和/c 产业化/v 培育/v 的/u ，/w 短期/b 看/u ，/w 主要/b 关注/v 频段/n 制定/v ，/w 初级/b 商用/b 进程/n ，/w 长期/n 看/u ，/w 内容/n +/0 垂直/v 行业/n 因为/c 高速/b 便宜/a 流量/n 带来/v 的/u 颠覆/v 1.5/m G/m 技术/n 概念/n 普及/a 峰值/n 速率/n 、/w 移动性/n 、/w 时延/j 、/w 频谱/n 效率/n 、/w 用户/n 体验/v 速率/n 、/w 连接/v 数/m 密度/n 、/w 流量/n 密度/n 、/w 能效/n
+
+
+
+
+
+2. 5/m G/m 对/a 经纪/v 增长/v 的/u 作用/n 1./m 投资/n 需求/n 路径/n ：/w 5/m G/m 技术/n 的/u 大规模/b 产业化/v ，/w 首先/c 要/v 以/p 运营商/n 网络设备/n 的/u 先期/d 投入/a 作为/n 先决条件/n ，/w 运营商/n 对/a 网络设备/n 的/u 投入/a ，/w 会/n 带动/v 相关/v 元器件/n ，/w 设备/n 行业/n 的/u 拉升/v 2./m 投资/n 供给/v 路径/n ：/w 5/m G/m 技术/n 的/u 成熟/a ，/w 又/d 会/n 从/p 数据/n 效率/n 的/u 角度/n ，/w 反哺/v 社会/n 各行/r 业/dg
+
+
+
+
+
+2.1/m 挖掘/v 新/a 的/u 行业/n 增长/v 方向/n 1./m 增强/v 信息/n 消费/v 有效/a 供给/v ：/w 8/m K/n 视频/n ，/w 虚拟现实/ln 教育/n 内容/n ，/w 抽象/a 出来/v ，/w 主要/b 指/ng 远程/b ，/w 无线/b ，/w 对流/v 量/n 密度/n 要求/n 高/a 的/u ，/w 内容/n 驱动/v 型/k 行业/n 2./m 带动/v “/w 互联网+/n ”/w 消费/v ：/w 虚拟现实/ln ，/w 车联网/nt ，/w 主要/b 指/ng 垂直/v 行业/n 方向/n ，/w 通过/p 低廉/a 的/u 高速/b 流量/n ，/w 做/v 行业/n 的/u 增量/n 市场/ny 2.2 5/m G/m 对/a 上下游/n 行业/n 的/u 影响/v 从/p 国际标准/n 来看/u ，/w 根据/n 3/m GPP/en 5/m G/m ，/w 技术标准/n 推进/v 计划/n ，/w 5/m G/en 标准/a 完整/a 版本/n 将于/n 2019 年/t 底/n 完成/v ，/w 并作/v 为/p IMT/en -202/m 0/m 标准/a 于/ng 2020 年初/t 提交/v ITU/n
+
+
+
+
+
+5/m G/m 商用/b 初期/t ，/w 设备/n 费用/n 会/n 是/v 主要/b 支出/n ，/w 5/m G/m 商用/b 中后期/t ，/w 垂直/v 行业/n 商机/n 和/c 互联网/n 公司/nc 带来/v 的/u 流量/n 服务费/n 是/v 主要/b 支出/n 3.5/m G/m 标准/a 在/d 近期/t 明确/a 拟/v 在/d 3300-3600/t MHz/en 和/c 4800-5000/t MHz/en 两个/n 频段/n ，/w 部署/v 5/m G/en 的/u 基础/n 上/f ，/w 加快/v 研究/v 制定/v 5/m G/en 频率/n 中长期/b 规划/n 。/w 依托/v 国际电信联盟/nt （/w ITU/n ）/w ，/w 积极/a 沟通/v 协调/v ，/w 力争/v 形成/v 更多/n 5/m G/m 统一/a 频段/n 。/w 加大/v 5/m G/en 研发/v 和/c 创新/v 支持力/n 度/k ，/w 加快/v 突破/v 5/m G/en 核心/n 芯片/n 、/w 高频/b 器件/n 和/c 虚拟化/v 平台/n 等/ng 关键/a 环节/n 。/w 支持/v 5/m G/en 及其/c 增强/v 技术/n 发展/v 与/c 产业/n 生态/n 培育/v 。/w 加速/v 推进/v 5/m G/en 的/u 外场/n 试验/v ，/w 促进/v 性能/n 验证/v 与/c 产品/n 成熟/a 。/w 研究/v 提出/v 符合/v 5/m G/en 发展/v 需求/n 的/u 牌照/n 方案/n ，/w 引导/v 产业/n 健康/a 发展/v 。/w ,/w ,/w ,/w ,/w ,/w

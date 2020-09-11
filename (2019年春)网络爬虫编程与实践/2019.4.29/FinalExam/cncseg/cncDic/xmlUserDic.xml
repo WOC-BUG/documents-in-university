@@ -1,0 +1,2832 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root dicName="基础词典" pubtime="2018-11-19 15_49_16" tatalWordsNumber="0" trieTreeNumber="194">
+  <content>
+    <wn1 id="0" word="k" tag="F" layer="0">
+      <wn2 id="0" word="歌" tag="F" layer="1">
+        <wn3 id="0" word="全" tag="F" layer="2">
+          <wn4 id="0" word="民" tag="F" layer="3">
+            <wn5 id="0" word="星" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="1" word="l" tag="F" layer="0">
+      <wn2 id="0" word="i" tag="F" layer="1">
+        <wn3 id="0" word="ù" tag="n" layer="2">
+          <wn4 id="0" word="a" tag="F" layer="3">
+            <wn5 id="0" word="n" tag="n" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="u" tag="F" layer="2">
+          <wn4 id="0" word="a" tag="F" layer="3">
+            <wn5 id="0" word="n" tag="n" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="ù" tag="n" layer="1">
+        <wn3 id="0" word="a" tag="F" layer="2">
+          <wn4 id="0" word="n" tag="n" layer="3" />
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="u" tag="F" layer="1">
+        <wn3 id="0" word="a" tag="F" layer="2">
+          <wn4 id="0" word="n" tag="n" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="2" word="u" tag="F" layer="0">
+      <wn2 id="0" word="2" tag="F" layer="1">
+        <wn3 id="0" word="0" tag="F" layer="2">
+          <wn4 id="0" word="世" tag="F" layer="3">
+            <wn5 id="0" word="界" tag="F" layer="4">
+              <wn6 id="0" word="杯" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="3" word="x" tag="F" layer="0">
+      <wn2 id="0" word="玖" tag="F" layer="1">
+        <wn3 id="0" word="少" tag="F" layer="2">
+          <wn4 id="0" word="年" tag="F" layer="3">
+            <wn5 id="0" word="团" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="4" word="阿" tag="F" layer="0">
+      <wn2 id="0" word="米" tag="F" layer="1">
+        <wn3 id="0" word="尔" tag="F" layer="2">
+          <wn4 id="0" word="·" tag="F" layer="3">
+            <wn5 id="0" word="汗" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="5" word="爱" tag="F" layer="0">
+      <wn2 id="0" word="奇" tag="F" layer="1">
+        <wn3 id="0" word="艺" tag="F" layer="2">
+          <wn4 id="0" word="尖" tag="F" layer="3">
+            <wn5 id="0" word="叫" tag="F" layer="4">
+              <wn6 id="0" word="之" tag="F" layer="5">
+                <wn7 id="0" word="夜" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+          <wn4 id="1" word="早" tag="F" layer="3">
+            <wn5 id="0" word="班" tag="F" layer="4">
+              <wn6 id="0" word="机" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="情" tag="F" layer="1">
+        <wn3 id="0" word="3" tag="F" layer="2">
+          <wn4 id="0" word="*" tag="F" layer="3">
+            <wn5 id="0" word="7" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="保" tag="F" layer="2">
+          <wn4 id="0" word="卫" tag="F" layer="3">
+            <wn5 id="0" word="战" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="的" tag="F" layer="2">
+          <wn4 id="0" word="开" tag="F" layer="3">
+            <wn5 id="0" word="关" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="3" word="回" tag="F" layer="2">
+          <wn4 id="0" word="来" tag="F" layer="3">
+            <wn5 id="0" word="了" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="幼" tag="F" layer="1">
+        <wn3 id="0" word="科" tag="F" layer="2">
+          <wn4 id="0" word="学" tag="F" layer="3">
+            <wn5 id="0" word="说" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="6" word="爸" tag="F" layer="0">
+      <wn2 id="0" word="爸" tag="F" layer="1">
+        <wn3 id="0" word="回" tag="F" layer="2">
+          <wn4 id="0" word="来" tag="F" layer="3">
+            <wn5 id="0" word="了" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="7" word="拜" tag="F" layer="0">
+      <wn2 id="0" word="托" tag="F" layer="1">
+        <wn3 id="0" word="了" tag="F" layer="2">
+          <wn4 id="0" word="冰" tag="F" layer="3">
+            <wn5 id="0" word="箱" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="1" word="衣" tag="F" layer="3">
+            <wn5 id="0" word="橱" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="8" word="暴" tag="F" layer="0">
+      <wn2 id="0" word="走" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="事" tag="F" layer="3">
+            <wn5 id="0" word="件" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="9" word="北" tag="F" layer="0">
+      <wn2 id="0" word="京" tag="F" layer="1">
+        <wn3 id="0" word="国" tag="F" layer="2">
+          <wn4 id="0" word="际" tag="F" layer="3">
+            <wn5 id="0" word="电" tag="F" layer="4">
+              <wn6 id="0" word="影" tag="F" layer="5">
+                <wn7 id="0" word="节" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+            <wn5 id="1" word="长" tag="F" layer="4">
+              <wn6 id="0" word="跑" tag="F" layer="5">
+                <wn7 id="0" word="节" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="上" tag="F" layer="1">
+        <wn3 id="0" word="广" tag="F" layer="2">
+          <wn4 id="0" word="不" tag="F" layer="3">
+            <wn5 id="0" word="相" tag="F" layer="4">
+              <wn6 id="0" word="信" tag="F" layer="5">
+                <wn7 id="0" word="眼" tag="F" layer="6">
+                  <wn8 id="0" word="泪" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="10" word="被" tag="F" layer="0">
+      <wn2 id="0" word="催" tag="F" layer="1">
+        <wn3 id="0" word="眠" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="催" tag="F" layer="4">
+              <wn6 id="0" word="眠" tag="F" layer="5">
+                <wn7 id="0" word="师" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="11" word="变" tag="F" layer="0">
+      <wn2 id="0" word="形" tag="F" layer="1">
+        <wn3 id="0" word="金" tag="F" layer="2">
+          <wn4 id="0" word="刚" tag="nz" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="12" word="冰" tag="F" layer="0">
+      <wn2 id="0" word="雪" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="作" tag="F" layer="3">
+            <wn5 id="0" word="战" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="13" word="不" tag="F" layer="0">
+      <wn2 id="0" word="一" tag="F" layer="1">
+        <wn3 id="0" word="样" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="美" tag="F" layer="4">
+              <wn6 id="0" word="男" tag="F" layer="5">
+                <wn7 id="0" word="子" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="14" word="唱" tag="F" layer="0">
+      <wn2 id="0" word="支" tag="F" layer="1">
+        <wn3 id="0" word="山" tag="F" layer="2">
+          <wn4 id="0" word="歌" tag="F" layer="3">
+            <wn5 id="0" word="给" tag="F" layer="4">
+              <wn6 id="0" word="党" tag="F" layer="5">
+                <wn7 id="0" word="听" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="15" word="超" tag="F" layer="0">
+      <wn2 id="0" word="次" tag="F" layer="1">
+        <wn3 id="0" word="元" tag="F" layer="2">
+          <wn4 id="0" word="偶" tag="F" layer="3">
+            <wn5 id="0" word="像" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="级" tag="F" layer="1">
+        <wn3 id="0" word="0" tag="F" layer="2">
+          <wn4 id="0" word="0" tag="F" layer="3">
+            <wn5 id="0" word="后" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="变" tag="F" layer="2">
+          <wn4 id="0" word="变" tag="F" layer="3">
+            <wn5 id="0" word="变" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="小" tag="F" layer="2">
+          <wn4 id="0" word="郎" tag="F" layer="3">
+            <wn5 id="0" word="中" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="能" tag="F" layer="1">
+        <wn3 id="0" word="陆" tag="F" layer="2">
+          <wn4 id="0" word="战" tag="F" layer="3">
+            <wn5 id="0" word="队" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="3" word="人" tag="F" layer="1">
+        <wn3 id="0" word="访" tag="F" layer="2">
+          <wn4 id="0" word="问" tag="F" layer="3">
+            <wn5 id="0" word="团" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="回" tag="F" layer="2">
+          <wn4 id="0" word="来" tag="F" layer="3">
+            <wn5 id="0" word="了" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="16" word="陈" tag="F" layer="0">
+      <wn2 id="0" word="翔" tag="F" layer="1">
+        <wn3 id="0" word="六" tag="F" layer="2">
+          <wn4 id="0" word="点" tag="F" layer="3">
+            <wn5 id="0" word="半" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="17" word="吃" tag="F" layer="0">
+      <wn2 id="0" word="光" tag="F" layer="1">
+        <wn3 id="0" word="全" tag="F" layer="2">
+          <wn4 id="0" word="宇" tag="F" layer="3">
+            <wn5 id="0" word="宙" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="18" word="出" tag="F" layer="0">
+      <wn2 id="0" word="彩" tag="F" layer="1">
+        <wn3 id="0" word="中" tag="F" layer="2">
+          <wn4 id="0" word="国" tag="F" layer="3">
+            <wn5 id="0" word="人" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="19" word="触" tag="F" layer="0">
+      <wn2 id="0" word="不" tag="F" layer="1">
+        <wn3 id="0" word="到" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="t" tag="F" layer="4">
+              <wn6 id="0" word="a" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="20" word="穿" tag="F" layer="0">
+      <wn2 id="0" word="越" tag="F" layer="1">
+        <wn3 id="0" word="海" tag="F" layer="2">
+          <wn4 id="0" word="上" tag="F" layer="3">
+            <wn5 id="0" word="丝" tag="F" layer="4">
+              <wn6 id="0" word="绸" tag="F" layer="5">
+                <wn7 id="0" word="之" tag="F" layer="6">
+                  <wn8 id="0" word="路" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="21" word="春" tag="F" layer="0">
+      <wn2 id="0" word="风" tag="F" layer="1">
+        <wn3 id="0" word="十" tag="F" layer="2">
+          <wn4 id="0" word="里" tag="F" layer="3">
+            <wn5 id="0" word="不" tag="F" layer="4">
+              <wn6 id="0" word="如" tag="F" layer="5">
+                <wn7 id="0" word="你" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="22" word="从" tag="F" layer="0">
+      <wn2 id="0" word="你" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="全" tag="F" layer="3">
+            <wn5 id="0" word="世" tag="F" layer="4">
+              <wn6 id="0" word="界" tag="F" layer="5">
+                <wn7 id="0" word="路" tag="F" layer="6">
+                  <wn8 id="0" word="过" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="23" word="达" tag="F" layer="0">
+      <wn2 id="0" word="沃" tag="F" layer="1">
+        <wn3 id="0" word="斯" tag="F" layer="2">
+          <wn4 id="0" word="论" tag="F" layer="3">
+            <wn5 id="0" word="坛" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="24" word="大" tag="F" layer="0">
+      <wn2 id="0" word="本" tag="F" layer="1">
+        <wn3 id="0" word="营" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="秘" tag="F" layer="4">
+              <wn6 id="0" word="密" tag="F" layer="5">
+                <wn7 id="0" word="花" tag="F" layer="6">
+                  <wn8 id="0" word="园" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="唐" tag="F" layer="1">
+        <wn3 id="0" word="荣" tag="F" layer="2">
+          <wn4 id="0" word="耀" tag="nz" layer="3" />
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="学" tag="F" layer="1">
+        <wn3 id="0" word="生" tag="F" layer="2">
+          <wn4 id="0" word="来" tag="F" layer="3">
+            <wn5 id="0" word="了" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="25" word="迪" tag="F" layer="0">
+      <wn2 id="0" word="迦" tag="F" layer="1">
+        <wn3 id="0" word="奥" tag="F" layer="2">
+          <wn4 id="0" word="特" tag="F" layer="3">
+            <wn5 id="0" word="曼" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="26" word="点" tag="F" layer="0">
+      <wn2 id="0" word="位" tag="F" layer="1">
+        <wn3 id="0" word="符" tag="n" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="27" word="东" tag="F" layer="0">
+      <wn2 id="0" word="方" tag="F" layer="1">
+        <wn3 id="0" word="风" tag="F" layer="2">
+          <wn4 id="0" word="云" tag="F" layer="3">
+            <wn5 id="0" word="榜" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="28" word="恶" tag="F" layer="0">
+      <wn2 id="0" word="魔" tag="F" layer="1">
+        <wn3 id="0" word="少" tag="F" layer="2">
+          <wn4 id="0" word="爷" tag="F" layer="3">
+            <wn5 id="0" word="别" tag="F" layer="4">
+              <wn6 id="0" word="吻" tag="F" layer="5">
+                <wn7 id="0" word="我" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="29" word="二" tag="F" layer="0">
+      <wn2 id="0" word="十" tag="F" layer="1">
+        <wn3 id="0" word="四" tag="F" layer="2">
+          <wn4 id="0" word="小" tag="F" layer="3">
+            <wn5 id="0" word="时" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="30" word="反" tag="F" layer="0">
+      <wn2 id="0" word="恐" tag="F" layer="1">
+        <wn3 id="0" word="特" tag="F" layer="2">
+          <wn4 id="0" word="战" tag="F" layer="3">
+            <wn5 id="0" word="队" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="31" word="饭" tag="F" layer="0">
+      <wn2 id="0" word="局" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="诱" tag="F" layer="3">
+            <wn5 id="0" word="惑" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="狼" tag="F" layer="2">
+          <wn4 id="0" word="人" tag="F" layer="3">
+            <wn5 id="0" word="杀" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="32" word="放" tag="F" layer="0">
+      <wn2 id="0" word="开" tag="F" layer="1">
+        <wn3 id="0" word="我" tag="F" layer="2">
+          <wn4 id="0" word="北" tag="F" layer="3">
+            <wn5 id="0" word="鼻" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="弃" tag="F" layer="1">
+        <wn3 id="0" word="我" tag="F" layer="2">
+          <wn4 id="0" word="抓" tag="F" layer="3">
+            <wn5 id="0" word="紧" tag="F" layer="4">
+              <wn6 id="0" word="我" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="33" word="飞" tag="F" layer="0">
+      <wn2 id="0" word="刀" tag="F" layer="1">
+        <wn3 id="0" word="又" tag="F" layer="2">
+          <wn4 id="0" word="见" tag="F" layer="3">
+            <wn5 id="0" word="飞" tag="F" layer="4">
+              <wn6 id="0" word="刀" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="34" word="非" tag="F" layer="0">
+      <wn2 id="0" word="正" tag="F" layer="1">
+        <wn3 id="0" word="式" tag="F" layer="2">
+          <wn4 id="0" word="会" tag="F" layer="3">
+            <wn5 id="0" word="谈" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="35" word="废" tag="F" layer="0">
+      <wn2 id="0" word="柴" tag="F" layer="1">
+        <wn3 id="0" word="兄" tag="F" layer="2">
+          <wn4 id="0" word="弟" tag="nz" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="36" word="疯" tag="F" layer="0">
+      <wn2 id="0" word="狂" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="冰" tag="F" layer="3">
+            <wn5 id="0" word="箱" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="1" word="麦" tag="F" layer="3">
+            <wn5 id="0" word="咭" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="37" word="佛" tag="F" layer="0">
+      <wn2 id="0" word="系" tag="a" layer="1" />
+    </wn1>
+    <wn1 id="38" word="父" tag="F" layer="0">
+      <wn2 id="0" word="母" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="成" tag="F" layer="3">
+            <wn5 id="0" word="绩" tag="F" layer="4">
+              <wn6 id="0" word="单" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="39" word="复" tag="F" layer="0">
+      <wn2 id="0" word="仇" tag="F" layer="1">
+        <wn3 id="0" word="者" tag="F" layer="2">
+          <wn4 id="0" word="联" tag="F" layer="3">
+            <wn5 id="0" word="盟" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="40" word="盖" tag="F" layer="0">
+      <wn2 id="0" word="尔" tag="F" layer="1">
+        <wn3 id="0" word="·" tag="F" layer="2">
+          <wn4 id="0" word="加" tag="F" layer="3">
+            <wn5 id="0" word="朵" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="41" word="高" tag="F" layer="0">
+      <wn2 id="0" word="能" tag="F" layer="1">
+        <wn3 id="0" word="少" tag="F" layer="2">
+          <wn4 id="0" word="年" tag="F" layer="3">
+            <wn5 id="0" word="团" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="水" tag="F" layer="1">
+        <wn3 id="0" word="平" tag="la" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="42" word="歌" tag="F" layer="0">
+      <wn2 id="0" word="王" tag="F" layer="1">
+        <wn3 id="0" word="争" tag="F" layer="2">
+          <wn4 id="0" word="霸" tag="F" layer="3">
+            <wn5 id="0" word="赛" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="43" word="关" tag="F" layer="0">
+      <wn2 id="0" word="爱" tag="F" layer="1">
+        <wn3 id="0" word="八" tag="F" layer="2">
+          <wn4 id="0" word="卦" tag="F" layer="3">
+            <wn5 id="0" word="成" tag="F" layer="4">
+              <wn6 id="0" word="长" tag="F" layer="5">
+                <wn7 id="0" word="协" tag="F" layer="6">
+                  <wn8 id="0" word="会" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="44" word="光" tag="F" layer="0">
+      <wn2 id="0" word="影" tag="F" layer="1">
+        <wn3 id="0" word="星" tag="F" layer="2">
+          <wn4 id="0" word="播" tag="F" layer="3">
+            <wn5 id="0" word="客" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="45" word="鬼" tag="F" layer="0">
+      <wn2 id="0" word="吹" tag="F" layer="1">
+        <wn3 id="0" word="灯" tag="F" layer="2">
+          <wn4 id="0" word="之" tag="F" layer="3">
+            <wn5 id="0" word="牧" tag="F" layer="4">
+              <wn6 id="0" word="野" tag="F" layer="5">
+                <wn7 id="0" word="诡" tag="F" layer="6">
+                  <wn8 id="0" word="事" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="46" word="滚" tag="F" layer="0">
+      <wn2 id="0" word="石" tag="F" layer="1">
+        <wn3 id="0" word="爱" tag="F" layer="2">
+          <wn4 id="0" word="情" tag="F" layer="3">
+            <wn5 id="0" word="故" tag="F" layer="4">
+              <wn6 id="0" word="事" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="47" word="国" tag="F" layer="0">
+      <wn2 id="0" word="际" tag="F" layer="1">
+        <wn3 id="0" word="冠" tag="F" layer="2">
+          <wn4 id="0" word="军" tag="F" layer="3">
+            <wn5 id="0" word="杯" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="龙" tag="F" layer="2">
+          <wn4 id="0" word="舟" tag="F" layer="3">
+            <wn5 id="0" word="邀" tag="F" layer="4">
+              <wn6 id="0" word="请" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="马" tag="F" layer="2">
+          <wn4 id="0" word="拉" tag="F" layer="3">
+            <wn5 id="0" word="松" tag="F" layer="4">
+              <wn6 id="0" word="赛" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="3" word="女" tag="F" layer="2">
+          <wn4 id="0" word="足" tag="F" layer="3">
+            <wn5 id="0" word="锦" tag="F" layer="4">
+              <wn6 id="0" word="标" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="4" word="田" tag="F" layer="2">
+          <wn4 id="0" word="联" tag="F" layer="3">
+            <wn5 id="0" word="钻" tag="F" layer="4">
+              <wn6 id="0" word="石" tag="F" layer="5">
+                <wn7 id="0" word="联" tag="F" layer="6">
+                  <wn8 id="0" word="赛" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="5" word="泳" tag="F" layer="2">
+          <wn4 id="0" word="联" tag="F" layer="3">
+            <wn5 id="0" word="世" tag="F" layer="4">
+              <wn6 id="0" word="锦" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="48" word="哈" tag="F" layer="0">
+      <wn2 id="0" word="哈" tag="F" layer="1">
+        <wn3 id="0" word="哈" tag="F" layer="2">
+          <wn4 id="0" word="哈" tag="o" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="49" word="还" tag="F" layer="0">
+      <wn2 id="0" word="珠" tag="F" layer="1">
+        <wn3 id="0" word="格" tag="F" layer="2">
+          <wn4 id="0" word="格" tag="nz" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="50" word="海" tag="F" layer="0">
+      <wn2 id="0" word="上" tag="F" layer="1">
+        <wn3 id="0" word="牧" tag="F" layer="2">
+          <wn4 id="0" word="云" tag="F" layer="3">
+            <wn5 id="0" word="记" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="51" word="好" tag="F" layer="0">
+      <wn2 id="0" word="好" tag="F" layer="1">
+        <wn3 id="0" word="吃" tag="F" layer="2">
+          <wn4 id="0" word="饭" tag="F" layer="3">
+            <wn5 id="0" word="吧" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="妹" tag="F" layer="1">
+        <wn3 id="0" word="妹" tag="F" layer="2">
+          <wn4 id="0" word="乐" tag="F" layer="3">
+            <wn5 id="0" word="队" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="运" tag="F" layer="1">
+        <wn3 id="0" word="旅" tag="F" layer="2">
+          <wn4 id="0" word="行" tag="F" layer="3">
+            <wn5 id="0" word="团" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="52" word="狐" tag="F" layer="0">
+      <wn2 id="0" word="狸" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="夏" tag="F" layer="3">
+            <wn5 id="0" word="天" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="53" word="花" tag="F" layer="0">
+      <wn2 id="0" word="间" tag="F" layer="1">
+        <wn3 id="0" word="提" tag="F" layer="2">
+          <wn4 id="0" word="壶" tag="F" layer="3">
+            <wn5 id="0" word="方" tag="F" layer="4">
+              <wn6 id="0" word="大" tag="F" layer="5">
+                <wn7 id="0" word="厨" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="开" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="声" tag="F" layer="3">
+            <wn5 id="0" word="音" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="54" word="欢" tag="F" layer="0">
+      <wn2 id="0" word="乐" tag="F" layer="1">
+        <wn3 id="0" word="饭" tag="F" layer="2">
+          <wn4 id="0" word="米" tag="F" layer="3">
+            <wn5 id="0" word="粒" tag="F" layer="4">
+              <wn6 id="0" word="儿" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="喜" tag="F" layer="2">
+          <wn4 id="0" word="剧" tag="F" layer="3">
+            <wn5 id="0" word="人" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="中" tag="F" layer="2">
+          <wn4 id="0" word="国" tag="F" layer="3">
+            <wn5 id="0" word="人" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="55" word="环" tag="F" layer="0">
+      <wn2 id="0" word="法" tag="F" layer="1">
+        <wn3 id="0" word="自" tag="F" layer="2">
+          <wn4 id="0" word="行" tag="F" layer="3">
+            <wn5 id="0" word="车" tag="F" layer="4">
+              <wn6 id="0" word="赛" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="塔" tag="F" layer="1">
+        <wn3 id="0" word="拉" tag="F" layer="2">
+          <wn4 id="0" word="力" tag="F" layer="3">
+            <wn5 id="0" word="赛" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="56" word="火" tag="F" layer="0">
+      <wn2 id="0" word="星" tag="F" layer="1">
+        <wn3 id="0" word="情" tag="F" layer="2">
+          <wn4 id="0" word="报" tag="F" layer="3">
+            <wn5 id="0" word="局" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="57" word="鸡" tag="F" layer="0">
+      <wn2 id="0" word="毛" tag="F" layer="1">
+        <wn3 id="0" word="飞" tag="F" layer="2">
+          <wn4 id="0" word="上" tag="F" layer="3">
+            <wn5 id="0" word="天" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="58" word="集" tag="F" layer="0">
+      <wn2 id="0" word="结" tag="F" layer="1">
+        <wn3 id="0" word="吧" tag="F" layer="2">
+          <wn4 id="0" word="王" tag="F" layer="3">
+            <wn5 id="0" word="者" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="59" word="加" tag="F" layer="0">
+      <wn2 id="0" word="速" tag="F" layer="1">
+        <wn3 id="0" word="," tag="F" layer="2">
+          <wn4 id="0" word="上" tag="F" layer="3">
+            <wn5 id="0" word="海" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="油" tag="F" layer="1">
+        <wn3 id="0" word="向" tag="F" layer="2">
+          <wn4 id="0" word="未" tag="F" layer="3">
+            <wn5 id="0" word="来" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="60" word="戛" tag="F" layer="0">
+      <wn2 id="0" word="纳" tag="F" layer="1">
+        <wn3 id="0" word="电" tag="F" layer="2">
+          <wn4 id="0" word="影" tag="F" layer="3">
+            <wn5 id="0" word="节" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="61" word="假" tag="F" layer="0">
+      <wn2 id="0" word="如" tag="F" layer="1">
+        <wn3 id="0" word="生" tag="F" layer="2">
+          <wn4 id="0" word="活" tag="F" layer="3">
+            <wn5 id="0" word="欺" tag="F" layer="4">
+              <wn6 id="0" word="骗" tag="F" layer="5">
+                <wn7 id="0" word="了" tag="F" layer="6">
+                  <wn8 id="0" word="你" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="62" word="减" tag="F" layer="0">
+      <wn2 id="0" word="出" tag="F" layer="1">
+        <wn3 id="0" word="我" tag="F" layer="2">
+          <wn4 id="0" word="人" tag="F" layer="3">
+            <wn5 id="0" word="生" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="63" word="将" tag="F" layer="0">
+      <wn2 id="0" word="改" tag="F" layer="1">
+        <wn3 id="0" word="革" tag="F" layer="2">
+          <wn4 id="0" word="进" tag="F" layer="3">
+            <wn5 id="0" word="行" tag="F" layer="4">
+              <wn6 id="0" word="到" tag="F" layer="5">
+                <wn7 id="0" word="底" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="64" word="结" tag="F" layer="0">
+      <wn2 id="0" word="婚" tag="F" layer="1">
+        <wn3 id="0" word="为" tag="F" layer="2">
+          <wn4 id="0" word="什" tag="F" layer="3">
+            <wn5 id="0" word="么" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="65" word="今" tag="F" layer="0">
+      <wn2 id="0" word="晚" tag="F" layer="1">
+        <wn3 id="0" word="8" tag="F" layer="2">
+          <wn4 id="0" word="0" tag="F" layer="3">
+            <wn5 id="0" word="后" tag="F" layer="4">
+              <wn6 id="0" word="脱" tag="F" layer="5">
+                <wn7 id="0" word="口" tag="F" layer="6">
+                  <wn8 id="0" word="秀" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="66" word="金" tag="F" layer="0">
+      <wn2 id="0" word="砖" tag="F" layer="1">
+        <wn3 id="0" word="国" tag="F" layer="2">
+          <wn4 id="0" word="家" tag="F" layer="3">
+            <wn5 id="0" word="电" tag="F" layer="4">
+              <wn6 id="0" word="影" tag="F" layer="5">
+                <wn7 id="0" word="节" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="67" word="进" tag="F" layer="0">
+      <wn2 id="0" word="博" tag="F" layer="1">
+        <wn3 id="0" word="会" tag="n" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="68" word="囧" tag="F" layer="0">
+      <wn2 id="0" word="女" tag="F" layer="1">
+        <wn3 id="0" word="翻" tag="F" layer="2">
+          <wn4 id="0" word="身" tag="F" layer="3">
+            <wn5 id="0" word="之" tag="F" layer="4">
+              <wn6 id="0" word="嗨" tag="F" layer="5">
+                <wn7 id="0" word="如" tag="F" layer="6">
+                  <wn8 id="0" word="花" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="69" word="举" tag="F" layer="0">
+      <wn2 id="0" word="杯" tag="F" layer="1">
+        <wn3 id="0" word="呵" tag="F" layer="2">
+          <wn4 id="0" word="呵" tag="F" layer="3">
+            <wn5 id="0" word="喝" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="70" word="开" tag="F" layer="0">
+      <wn2 id="0" word="心" tag="F" layer="1">
+        <wn3 id="0" word="剧" tag="F" layer="2">
+          <wn4 id="0" word="乐" tag="F" layer="3">
+            <wn5 id="0" word="部" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="71" word="看" tag="F" layer="0">
+      <wn2 id="0" word="见" tag="F" layer="1">
+        <wn3 id="0" word="你" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="声" tag="F" layer="4">
+              <wn6 id="0" word="音" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="72" word="跨" tag="F" layer="0">
+      <wn2 id="0" word="界" tag="F" layer="1">
+        <wn3 id="0" word="冰" tag="F" layer="2">
+          <wn4 id="0" word="雪" tag="F" layer="3">
+            <wn5 id="0" word="王" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="喜" tag="F" layer="2">
+          <wn4 id="0" word="剧" tag="F" layer="3">
+            <wn5 id="0" word="王" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="73" word="快" tag="F" layer="0">
+      <wn2 id="0" word="乐" tag="F" layer="1">
+        <wn3 id="0" word="0" tag="F" layer="2">
+          <wn4 id="0" word="0" tag="F" layer="3">
+            <wn5 id="0" word="后" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="大" tag="F" layer="2">
+          <wn4 id="0" word="本" tag="F" layer="3">
+            <wn5 id="0" word="营" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="74" word="昆" tag="F" layer="0">
+      <wn2 id="0" word="仑" tag="F" layer="1">
+        <wn3 id="0" word="阙" tag="F" layer="2">
+          <wn4 id="0" word="之" tag="F" layer="3">
+            <wn5 id="0" word="前" tag="F" layer="4">
+              <wn6 id="0" word="世" tag="F" layer="5">
+                <wn7 id="0" word="今" tag="F" layer="6">
+                  <wn8 id="0" word="生" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="75" word="蓝" tag="F" layer="0">
+      <wn2 id="0" word="色" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="海" tag="F" layer="3">
+            <wn5 id="0" word="的" tag="F" layer="4">
+              <wn6 id="0" word="传" tag="F" layer="5">
+                <wn7 id="0" word="说" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="76" word="浪" tag="F" layer="0">
+      <wn2 id="0" word="花" tag="F" layer="1">
+        <wn3 id="0" word="一" tag="F" layer="2">
+          <wn4 id="0" word="朵" tag="F" layer="3">
+            <wn5 id="0" word="朵" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="77" word="老" tag="F" layer="0">
+      <wn2 id="0" word="师" tag="F" layer="1">
+        <wn3 id="0" word="晚" tag="F" layer="2">
+          <wn4 id="0" word="上" tag="F" layer="3">
+            <wn5 id="0" word="好" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="78" word="了" tag="F" layer="0">
+      <wn2 id="0" word="不" tag="F" layer="1">
+        <wn3 id="0" word="起" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="盖" tag="F" layer="4">
+              <wn6 id="0" word="茨" tag="F" layer="5">
+                <wn7 id="0" word="比" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+            <wn5 id="1" word="孩" tag="F" layer="4">
+              <wn6 id="0" word="子" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="79" word="历" tag="F" layer="0">
+      <wn2 id="0" word="史" tag="F" layer="1">
+        <wn3 id="0" word="永" tag="F" layer="2">
+          <wn4 id="0" word="远" tag="F" layer="3">
+            <wn5 id="0" word="铭" tag="F" layer="4">
+              <wn6 id="0" word="记" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="80" word="厉" tag="F" layer="0">
+      <wn2 id="0" word="害" tag="F" layer="1">
+        <wn3 id="0" word="了" tag="F" layer="2">
+          <wn4 id="0" word="我" tag="F" layer="3">
+            <wn5 id="0" word="的" tag="F" layer="4">
+              <wn6 id="0" word="歌" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="81" word="两" tag="F" layer="0">
+      <wn2 id="0" word="学" tag="F" layer="1">
+        <wn3 id="0" word="一" tag="F" layer="2">
+          <wn4 id="0" word="做" tag="ln" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="82" word="伦" tag="F" layer="0">
+      <wn2 id="0" word="敦" tag="F" layer="1">
+        <wn3 id="0" word="超" tag="F" layer="2">
+          <wn4 id="0" word="级" tag="F" layer="3">
+            <wn5 id="0" word="德" tag="F" layer="4">
+              <wn6 id="0" word="比" tag="F" layer="5">
+                <wn7 id="0" word="杯" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="83" word="旅" tag="F" layer="0">
+      <wn2 id="0" word="途" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="花" tag="F" layer="3">
+            <wn5 id="0" word="样" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="84" word="妈" tag="F" layer="0">
+      <wn2 id="0" word="妈" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="牵" tag="F" layer="3">
+            <wn5 id="0" word="挂" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="去" tag="F" layer="2">
+          <wn4 id="0" word="哪" tag="F" layer="3">
+            <wn5 id="0" word="儿" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="是" tag="F" layer="2">
+          <wn4 id="0" word="超" tag="F" layer="3">
+            <wn5 id="0" word="人" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="85" word="马" tag="F" layer="0">
+      <wn2 id="0" word="来" tag="F" layer="1">
+        <wn3 id="0" word="西" tag="F" layer="2">
+          <wn4 id="0" word="亚" tag="F" layer="3">
+            <wn5 id="0" word="羽" tag="F" layer="4">
+              <wn6 id="0" word="毛" tag="F" layer="5">
+                <wn7 id="0" word="球" tag="F" layer="6">
+                  <wn8 id="0" word="公" tag="F" layer="7">
+                    <wn9 id="0" word="开" tag="F" layer="8">
+                      <wn10 id="0" word="赛" tag="nz" layer="9" />
+                    </wn9>
+                  </wn8>
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="86" word="盲" tag="F" layer="0">
+      <wn2 id="0" word="侠" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="律" tag="F" layer="3">
+            <wn5 id="0" word="师" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="87" word="没" tag="F" layer="0">
+      <wn2 id="0" word="头" tag="F" layer="1">
+        <wn3 id="0" word="脑" tag="F" layer="2">
+          <wn4 id="0" word="和" tag="F" layer="3">
+            <wn5 id="0" word="不" tag="F" layer="4">
+              <wn6 id="0" word="高" tag="F" layer="5">
+                <wn7 id="0" word="兴" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="88" word="湄" tag="F" layer="0">
+      <wn2 id="0" word="公" tag="F" layer="1">
+        <wn3 id="0" word="河" tag="F" layer="2">
+          <wn4 id="0" word="行" tag="F" layer="3">
+            <wn5 id="0" word="动" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="89" word="每" tag="F" layer="0">
+      <wn2 id="0" word="个" tag="F" layer="1">
+        <wn3 id="0" word="人" tag="F" layer="2">
+          <wn4 id="0" word="都" tag="F" layer="3">
+            <wn5 id="0" word="有" tag="F" layer="4">
+              <wn6 id="0" word="秘" tag="F" layer="5">
+                <wn7 id="0" word="密" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="90" word="美" tag="F" layer="0">
+      <wn2 id="0" word="国" tag="F" layer="1">
+        <wn3 id="0" word="公" tag="F" layer="2">
+          <wn4 id="0" word="开" tag="F" layer="3">
+            <wn5 id="0" word="赛" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="丽" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="秘" tag="F" layer="3">
+            <wn5 id="0" word="密" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="新" tag="F" layer="2">
+          <wn4 id="0" word="世" tag="F" layer="3">
+            <wn5 id="0" word="界" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="女" tag="F" layer="1">
+        <wn3 id="0" word="与" tag="F" layer="2">
+          <wn4 id="0" word="野" tag="F" layer="3">
+            <wn5 id="0" word="兽" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="3" word="少" tag="F" layer="1">
+        <wn3 id="0" word="年" tag="F" layer="2">
+          <wn4 id="0" word="学" tag="F" layer="3">
+            <wn5 id="0" word="社" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="91" word="魅" tag="F" layer="0">
+      <wn2 id="0" word="力" tag="F" layer="1">
+        <wn3 id="0" word="中" tag="F" layer="2">
+          <wn4 id="0" word="国" tag="F" layer="3">
+            <wn5 id="0" word="城" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="92" word="梦" tag="F" layer="0">
+      <wn2 id="0" word="想" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="力" tag="F" layer="3">
+            <wn5 id="0" word="量" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="93" word="蜜" tag="F" layer="0">
+      <wn2 id="0" word="蜂" tag="F" layer="1">
+        <wn3 id="0" word="少" tag="F" layer="2">
+          <wn4 id="0" word="女" tag="F" layer="3">
+            <wn5 id="0" word="队" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="94" word="名" tag="F" layer="0">
+      <wn2 id="0" word="侦" tag="F" layer="1">
+        <wn3 id="0" word="探" tag="F" layer="2">
+          <wn4 id="0" word="赵" tag="F" layer="3">
+            <wn5 id="0" word="五" tag="F" layer="4">
+              <wn6 id="0" word="儿" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="95" word="明" tag="F" layer="0">
+      <wn2 id="0" word="星" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="侦" tag="F" layer="3">
+            <wn5 id="0" word="探" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="96" word="命" tag="F" layer="0">
+      <wn2 id="0" word="运" tag="F" layer="1">
+        <wn3 id="0" word="共" tag="F" layer="2">
+          <wn4 id="0" word="同" tag="F" layer="3">
+            <wn5 id="0" word="体" tag="ln" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="97" word="那" tag="F" layer="0">
+      <wn2 id="0" word="片" tag="F" layer="1">
+        <wn3 id="0" word="星" tag="F" layer="2">
+          <wn4 id="0" word="空" tag="F" layer="3">
+            <wn5 id="0" word="那" tag="F" layer="4">
+              <wn6 id="0" word="片" tag="F" layer="5">
+                <wn7 id="0" word="海" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="98" word="脑" tag="F" layer="0">
+      <wn2 id="0" word="力" tag="F" layer="1">
+        <wn3 id="0" word="男" tag="F" layer="2">
+          <wn4 id="0" word="人" tag="F" layer="3">
+            <wn5 id="0" word="时" tag="F" layer="4">
+              <wn6 id="0" word="代" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="99" word="你" tag="F" layer="0">
+      <wn2 id="0" word="好" tag="F" layer="1">
+        <wn3 id="0" word="是" tag="F" layer="2">
+          <wn4 id="0" word="鹿" tag="F" layer="3">
+            <wn5 id="0" word="晗" tag="F" layer="4">
+              <wn6 id="0" word="吗" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="是" tag="F" layer="1">
+        <wn3 id="0" word="我" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="菜" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="100" word="逆" tag="F" layer="0">
+      <wn2 id="0" word="袭" tag="F" layer="1">
+        <wn3 id="0" word="之" tag="F" layer="2">
+          <wn4 id="0" word="星" tag="F" layer="3">
+            <wn5 id="0" word="途" tag="F" layer="4">
+              <wn6 id="0" word="璀" tag="F" layer="5">
+                <wn7 id="0" word="璨" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="101" word="跑" tag="F" layer="0">
+      <wn2 id="0" word="男" tag="F" layer="1">
+        <wn3 id="0" word="伐" tag="F" layer="2">
+          <wn4 id="0" word="木" tag="F" layer="3">
+            <wn5 id="0" word="累" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="102" word="陪" tag="F" layer="0">
+      <wn2 id="0" word="安" tag="F" layer="1">
+        <wn3 id="0" word="东" tag="F" layer="2">
+          <wn4 id="0" word="尼" tag="F" layer="3">
+            <wn5 id="0" word="度" tag="F" layer="4">
+              <wn6 id="0" word="过" tag="F" layer="5">
+                <wn7 id="0" word="漫" tag="F" layer="6">
+                  <wn8 id="0" word="长" tag="F" layer="7">
+                    <wn9 id="0" word="岁" tag="F" layer="8">
+                      <wn10 id="0" word="月" tag="nz" layer="9" />
+                    </wn9>
+                  </wn8>
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="103" word="偏" tag="F" layer="0">
+      <wn2 id="0" word="偏" tag="F" layer="1">
+        <wn3 id="0" word="喜" tag="F" layer="2">
+          <wn4 id="0" word="欢" tag="F" layer="3">
+            <wn5 id="0" word="你" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="104" word="漂" tag="F" layer="0">
+      <wn2 id="0" word="亮" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="李" tag="F" layer="3">
+            <wn5 id="0" word="慧" tag="F" layer="4">
+              <wn6 id="0" word="珍" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="105" word="平" tag="F" layer="0">
+      <wn2 id="0" word="凡" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="世" tag="F" layer="3">
+            <wn5 id="0" word="界" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="106" word="凭" tag="F" layer="0">
+      <wn2 id="0" word="海" tag="F" layer="1">
+        <wn3 id="0" word="而" tag="F" layer="2">
+          <wn4 id="0" word="立" tag="lv" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="107" word="莆" tag="F" layer="0">
+      <wn2 id="0" word="田" tag="F" layer="1">
+        <wn3 id="0" word="系" tag="n" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="108" word="普" tag="F" layer="0">
+      <wn2 id="0" word="罗" tag="F" layer="1">
+        <wn3 id="0" word="米" tag="F" layer="2">
+          <wn4 id="0" word="修" tag="F" layer="3">
+            <wn5 id="0" word="斯" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="109" word="七" tag="F" layer="0">
+      <wn2 id="0" word="十" tag="F" layer="1">
+        <wn3 id="0" word="二" tag="F" layer="2">
+          <wn4 id="0" word="层" tag="F" layer="3">
+            <wn5 id="0" word="奇" tag="F" layer="4">
+              <wn6 id="0" word="楼" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="月" tag="F" layer="1">
+        <wn3 id="0" word="与" tag="F" layer="2">
+          <wn4 id="0" word="安" tag="F" layer="3">
+            <wn5 id="0" word="生" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="110" word="奇" tag="F" layer="0">
+      <wn2 id="0" word="妙" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="朋" tag="F" layer="3">
+            <wn5 id="0" word="友" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="111" word="锵" tag="F" layer="0">
+      <wn2 id="0" word="锵" tag="F" layer="1">
+        <wn3 id="0" word="三" tag="F" layer="2">
+          <wn4 id="0" word="人" tag="F" layer="3">
+            <wn5 id="0" word="行" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="112" word="亲" tag="F" layer="0">
+      <wn2 id="0" word="·" tag="F" layer="1">
+        <wn3 id="0" word="爱" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="味" tag="F" layer="4">
+              <wn6 id="0" word="道" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="113" word="情" tag="F" layer="0">
+      <wn2 id="0" word="谜" tag="F" layer="1">
+        <wn3 id="0" word="睡" tag="F" layer="2">
+          <wn4 id="0" word="美" tag="F" layer="3">
+            <wn5 id="0" word="人" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="114" word="求" tag="F" layer="0">
+      <wn2 id="0" word="婚" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="作" tag="F" layer="3">
+            <wn5 id="0" word="战" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="115" word="权" tag="F" layer="0">
+      <wn2 id="0" word="力" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="游" tag="F" layer="3">
+            <wn5 id="0" word="戏" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="116" word="全" tag="F" layer="0">
+      <wn2 id="0" word="国" tag="F" layer="1">
+        <wn3 id="0" word="游" tag="F" layer="2">
+          <wn4 id="0" word="泳" tag="F" layer="3">
+            <wn5 id="0" word="冠" tag="F" layer="4">
+              <wn6 id="0" word="军" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+            <wn5 id="1" word="锦" tag="F" layer="4">
+              <wn6 id="0" word="标" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="民" tag="F" layer="1">
+        <wn3 id="0" word="k" tag="F" layer="2">
+          <wn4 id="0" word="t" tag="F" layer="3">
+            <wn5 id="0" word="v" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="球" tag="F" layer="1">
+        <wn3 id="0" word="中" tag="F" layer="2">
+          <wn4 id="0" word="文" tag="F" layer="3">
+            <wn5 id="0" word="音" tag="F" layer="4">
+              <wn6 id="0" word="乐" tag="F" layer="5">
+                <wn7 id="0" word="榜" tag="F" layer="6">
+                  <wn8 id="0" word="上" tag="F" layer="7">
+                    <wn9 id="0" word="榜" tag="nz" layer="8" />
+                  </wn8>
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="3" word="员" tag="F" layer="1">
+        <wn3 id="0" word="加" tag="F" layer="2">
+          <wn4 id="0" word="速" tag="F" layer="3">
+            <wn5 id="0" word="中" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="117" word="燃" tag="F" layer="0">
+      <wn2 id="0" word="烧" tag="F" layer="1">
+        <wn3 id="0" word="吧" tag="F" layer="2">
+          <wn4 id="0" word="少" tag="F" layer="3">
+            <wn5 id="0" word="年" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="118" word="人" tag="F" layer="0">
+      <wn2 id="0" word="民" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="名" tag="F" layer="3">
+            <wn5 id="0" word="义" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="偶" tag="F" layer="1">
+        <wn3 id="0" word="总" tag="F" layer="2">
+          <wn4 id="0" word="动" tag="F" layer="3">
+            <wn5 id="0" word="员" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="119" word="如" tag="F" layer="0">
+      <wn2 id="0" word="果" tag="F" layer="1">
+        <wn3 id="0" word="蜗" tag="F" layer="2">
+          <wn4 id="0" word="牛" tag="F" layer="3">
+            <wn5 id="0" word="有" tag="F" layer="4">
+              <wn6 id="0" word="爱" tag="F" layer="5">
+                <wn7 id="0" word="情" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="120" word="软" tag="F" layer="0">
+      <wn2 id="0" word="媒" tag="n" layer="1" />
+    </wn1>
+    <wn1 id="121" word="瑞" tag="F" layer="0">
+      <wn2 id="0" word="士" tag="F" layer="1">
+        <wn3 id="0" word="女" tag="F" layer="2">
+          <wn4 id="0" word="排" tag="F" layer="3">
+            <wn5 id="0" word="精" tag="F" layer="4">
+              <wn6 id="0" word="英" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="122" word="赛" tag="F" layer="0">
+      <wn2 id="0" word="车" tag="F" layer="1">
+        <wn3 id="0" word="总" tag="F" layer="2">
+          <wn4 id="0" word="动" tag="F" layer="3">
+            <wn5 id="0" word="员" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="小" tag="F" layer="1">
+        <wn3 id="0" word="花" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="远" tag="F" layer="4">
+              <wn6 id="0" word="大" tag="F" layer="5">
+                <wn7 id="0" word="前" tag="F" layer="6">
+                  <wn8 id="0" word="程" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="123" word="涩" tag="F" layer="0">
+      <wn2 id="0" word="世" tag="F" layer="1">
+        <wn3 id="0" word="纪" tag="F" layer="2">
+          <wn4 id="0" word="传" tag="F" layer="3">
+            <wn5 id="0" word="说" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="124" word="闪" tag="F" layer="0">
+      <wn2 id="0" word="亮" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="爸" tag="F" layer="3">
+            <wn5 id="0" word="爸" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="125" word="善" tag="F" layer="0">
+      <wn2 id="0" word="良" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="男" tag="F" layer="3">
+            <wn5 id="0" word="人" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="126" word="上" tag="F" layer="0">
+      <wn2 id="0" word="海" tag="F" layer="1">
+        <wn3 id="0" word="电" tag="F" layer="2">
+          <wn4 id="0" word="视" tag="F" layer="3">
+            <wn5 id="0" word="节" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="1" word="影" tag="F" layer="3">
+            <wn5 id="0" word="节" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="国" tag="F" layer="2">
+          <wn4 id="0" word="际" tag="F" layer="3">
+            <wn5 id="0" word="马" tag="F" layer="4">
+              <wn6 id="0" word="拉" tag="F" layer="5">
+                <wn7 id="0" word="松" tag="F" layer="6">
+                  <wn8 id="0" word="赛" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="阵" tag="F" layer="1">
+        <wn3 id="0" word="父" tag="F" layer="2">
+          <wn4 id="0" word="子" tag="F" layer="3">
+            <wn5 id="0" word="兵" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="127" word="少" tag="F" layer="0">
+      <wn2 id="0" word="年" tag="F" layer="1">
+        <wn3 id="0" word="当" tag="F" layer="2">
+          <wn4 id="0" word="自" tag="F" layer="3">
+            <wn5 id="0" word="强" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="派" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="奇" tag="F" layer="4">
+              <wn6 id="0" word="幻" tag="F" layer="5">
+                <wn7 id="0" word="漂" tag="F" layer="6">
+                  <wn8 id="0" word="流" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="128" word="射" tag="F" layer="0">
+      <wn2 id="0" word="雕" tag="F" layer="1">
+        <wn3 id="0" word="英" tag="F" layer="2">
+          <wn4 id="0" word="雄" tag="F" layer="3">
+            <wn5 id="0" word="传" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="129" word="神" tag="F" layer="0">
+      <wn2 id="0" word="奇" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="孩" tag="F" layer="3">
+            <wn5 id="0" word="子" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="兽" tag="F" layer="1">
+        <wn3 id="0" word="麻" tag="F" layer="2">
+          <wn4 id="0" word="将" tag="F" layer="3">
+            <wn5 id="0" word="馆" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="130" word="胜" tag="F" layer="0">
+      <wn2 id="0" word="利" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="游" tag="F" layer="3">
+            <wn5 id="0" word="戏" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="131" word="失" tag="F" layer="0">
+      <wn2 id="0" word="恋" tag="F" layer="1">
+        <wn3 id="0" word="3" tag="F" layer="2">
+          <wn4 id="0" word="3" tag="F" layer="3">
+            <wn5 id="0" word="天" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="132" word="狮" tag="F" layer="0">
+      <wn2 id="0" word="子" tag="F" layer="1">
+        <wn3 id="0" word="合" tag="F" layer="2">
+          <wn4 id="0" word="唱" tag="F" layer="3">
+            <wn5 id="0" word="团" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="133" word="十" tag="F" layer="0">
+      <wn2 id="0" word="二" tag="F" layer="1">
+        <wn3 id="0" word="道" tag="F" layer="2">
+          <wn4 id="0" word="锋" tag="F" layer="3">
+            <wn5 id="0" word="味" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="万" tag="F" layer="1">
+        <wn3 id="0" word="个" tag="F" layer="2">
+          <wn4 id="0" word="为" tag="F" layer="3">
+            <wn5 id="0" word="什" tag="F" layer="4">
+              <wn6 id="0" word="么" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="134" word="识" tag="F" layer="0">
+      <wn2 id="0" word="汝" tag="F" layer="1">
+        <wn3 id="0" word="不" tag="F" layer="2">
+          <wn4 id="0" word="识" tag="F" layer="3">
+            <wn5 id="0" word="丁" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="135" word="世" tag="F" layer="0">
+      <wn2 id="0" word="界" tag="F" layer="1">
+        <wn3 id="0" word="杯" tag="F" layer="2">
+          <wn4 id="0" word="预" tag="F" layer="3">
+            <wn5 id="0" word="选" tag="F" layer="4">
+              <wn6 id="0" word="赛" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="男" tag="F" layer="2">
+          <wn4 id="0" word="排" tag="F" layer="3">
+            <wn5 id="0" word="联" tag="F" layer="4">
+              <wn6 id="0" word="赛" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="女" tag="F" layer="2">
+          <wn4 id="0" word="排" tag="F" layer="3">
+            <wn5 id="0" word="大" tag="F" layer="4">
+              <wn6 id="0" word="奖" tag="F" layer="5">
+                <wn7 id="0" word="赛" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="3" word="乒" tag="F" layer="2">
+          <wn4 id="0" word="乓" tag="F" layer="3">
+            <wn5 id="0" word="球" tag="F" layer="4">
+              <wn6 id="0" word="巡" tag="F" layer="5">
+                <wn7 id="0" word="回" tag="F" layer="6">
+                  <wn8 id="0" word="赛" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="4" word="智" tag="F" layer="2">
+          <wn4 id="0" word="能" tag="F" layer="3">
+            <wn5 id="0" word="大" tag="F" layer="4">
+              <wn6 id="0" word="会" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="136" word="刷" tag="F" layer="0">
+      <wn2 id="0" word="刷" tag="F" layer="1">
+        <wn3 id="0" word="刷" tag="o" layer="2">
+          <wn4 id="0" word="刷" tag="o" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="137" word="唰" tag="F" layer="0">
+      <wn2 id="0" word="唰" tag="F" layer="1">
+        <wn3 id="0" word="唰" tag="o" layer="2">
+          <wn4 id="0" word="唰" tag="o" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="138" word="谁" tag="F" layer="0">
+      <wn2 id="0" word="的" tag="F" layer="1">
+        <wn3 id="0" word="青" tag="F" layer="2">
+          <wn4 id="0" word="春" tag="F" layer="3">
+            <wn5 id="0" word="不" tag="F" layer="4">
+              <wn6 id="0" word="迷" tag="F" layer="5">
+                <wn7 id="0" word="茫" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="寄" tag="F" layer="1">
+        <wn3 id="0" word="锦" tag="F" layer="2">
+          <wn4 id="0" word="书" tag="F" layer="3">
+            <wn5 id="0" word="来" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="139" word="说" tag="F" layer="0">
+      <wn2 id="0" word="出" tag="F" layer="1">
+        <wn3 id="0" word="你" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="故" tag="F" layer="4">
+              <wn6 id="0" word="事" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="140" word="斯" tag="F" layer="0">
+      <wn2 id="0" word="嘉" tag="F" layer="1">
+        <wn3 id="0" word="丽" tag="F" layer="2">
+          <wn4 id="0" word="·" tag="F" layer="3">
+            <wn5 id="0" word="约" tag="F" layer="4">
+              <wn6 id="0" word="翰" tag="F" layer="5">
+                <wn7 id="0" word="逊" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="诺" tag="F" layer="1">
+        <wn3 id="0" word="克" tag="F" layer="2">
+          <wn4 id="0" word="世" tag="F" layer="3">
+            <wn5 id="0" word="界" tag="F" layer="4">
+              <wn6 id="0" word="杯" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="141" word="速" tag="F" layer="0">
+      <wn2 id="0" word="度" tag="F" layer="1">
+        <wn3 id="0" word="与" tag="F" layer="2">
+          <wn4 id="0" word="激" tag="F" layer="3">
+            <wn5 id="0" word="情" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="142" word="他" tag="F" layer="0">
+      <wn2 id="0" word="来" tag="F" layer="1">
+        <wn3 id="0" word="了" tag="F" layer="2">
+          <wn4 id="0" word="请" tag="F" layer="3">
+            <wn5 id="0" word="闭" tag="F" layer="4">
+              <wn6 id="0" word="眼" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="143" word="太" tag="F" layer="0">
+      <wn2 id="0" word="阳" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="后" tag="F" layer="3">
+            <wn5 id="0" word="裔" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="144" word="淘" tag="F" layer="0">
+      <wn2 id="0" word="气" tag="F" layer="1">
+        <wn3 id="0" word="包" tag="F" layer="2">
+          <wn4 id="0" word="马" tag="F" layer="3">
+            <wn5 id="0" word="小" tag="F" layer="4">
+              <wn6 id="0" word="跳" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="145" word="体" tag="F" layer="0">
+      <wn2 id="0" word="验" tag="F" layer="1">
+        <wn3 id="0" word="真" tag="F" layer="2">
+          <wn4 id="0" word="功" tag="F" layer="3">
+            <wn5 id="0" word="夫" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="146" word="天" tag="F" layer="0">
+      <wn2 id="0" word="才" tag="F" layer="1">
+        <wn3 id="0" word="在" tag="F" layer="2">
+          <wn4 id="0" word="左" tag="F" layer="3">
+            <wn5 id="0" word="疯" tag="F" layer="4">
+              <wn6 id="0" word="子" tag="F" layer="5">
+                <wn7 id="0" word="在" tag="F" layer="6">
+                  <wn8 id="0" word="右" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="生" tag="F" layer="1">
+        <wn3 id="0" word="是" tag="F" layer="2">
+          <wn4 id="0" word="优" tag="F" layer="3">
+            <wn5 id="0" word="5" tag="nz" layer="4" />
+            <wn5 id="1" word="我" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="使" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="幸" tag="F" layer="3">
+            <wn5 id="0" word="福" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="147" word="挑" tag="F" layer="0">
+      <wn2 id="0" word="战" tag="F" layer="1">
+        <wn3 id="0" word="吧" tag="F" layer="2">
+          <wn4 id="0" word="健" tag="F" layer="3">
+            <wn5 id="0" word="康" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="的" tag="F" layer="2">
+          <wn4 id="0" word="法" tag="F" layer="3">
+            <wn5 id="0" word="则" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="者" tag="F" layer="2">
+          <wn4 id="0" word="联" tag="F" layer="3">
+            <wn5 id="0" word="盟" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="148" word="土" tag="F" layer="0">
+      <wn2 id="0" word="豪" tag="F" layer="1">
+        <wn3 id="0" word="5" tag="F" layer="2">
+          <wn4 id="0" word="2" tag="F" layer="3">
+            <wn5 id="0" word="0" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="149" word="万" tag="F" layer="0">
+      <wn2 id="0" word="万" tag="F" layer="1">
+        <wn3 id="0" word="没" tag="F" layer="2">
+          <wn4 id="0" word="想" tag="F" layer="3">
+            <wn5 id="0" word="到" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="150" word="王" tag="F" layer="0">
+      <wn2 id="0" word="牌" tag="F" layer="1">
+        <wn3 id="0" word="对" tag="F" layer="2">
+          <wn4 id="0" word="王" tag="F" layer="3">
+            <wn5 id="0" word="牌" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="151" word="危" tag="F" layer="0">
+      <wn2 id="0" word="机" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="调" tag="F" layer="3">
+            <wn5 id="0" word="查" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="152" word="微" tag="F" layer="0">
+      <wn2 id="0" word="微" tag="F" layer="1">
+        <wn3 id="0" word="一" tag="F" layer="2">
+          <wn4 id="0" word="笑" tag="F" layer="3">
+            <wn5 id="0" word="很" tag="F" layer="4">
+              <wn6 id="0" word="倾" tag="F" layer="5">
+                <wn7 id="0" word="城" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="153" word="为" tag="F" layer="0">
+      <wn2 id="0" word="梦" tag="F" layer="1">
+        <wn3 id="0" word="想" tag="F" layer="2">
+          <wn4 id="0" word="加" tag="F" layer="3">
+            <wn5 id="0" word="速" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="154" word="围" tag="F" layer="0">
+      <wn2 id="0" word="炉" tag="F" layer="1">
+        <wn3 id="0" word="音" tag="F" layer="2">
+          <wn4 id="0" word="乐" tag="F" layer="3">
+            <wn5 id="0" word="会" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="棋" tag="F" layer="1">
+        <wn3 id="0" word="人" tag="F" layer="2">
+          <wn4 id="0" word="机" tag="F" layer="3">
+            <wn5 id="0" word="大" tag="F" layer="4">
+              <wn6 id="0" word="战" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="155" word="未" tag="F" layer="0">
+      <wn2 id="0" word="来" tag="F" layer="1">
+        <wn3 id="0" word="架" tag="F" layer="2">
+          <wn4 id="0" word="构" tag="F" layer="3">
+            <wn5 id="0" word="师" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="156" word="魏" tag="F" layer="0">
+      <wn2 id="0" word="则" tag="F" layer="1">
+        <wn3 id="0" word="西" tag="nr" layer="2" />
+      </wn2>
+    </wn1>
+    <wn1 id="157" word="我" tag="F" layer="0">
+      <wn2 id="0" word="爱" tag="F" layer="1">
+        <wn3 id="0" word="二" tag="F" layer="2">
+          <wn4 id="0" word="次" tag="F" layer="3">
+            <wn5 id="0" word="元" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="男" tag="F" layer="2">
+          <wn4 id="0" word="保" tag="F" layer="3">
+            <wn5 id="0" word="姆" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="1" word="闺" tag="F" layer="3">
+            <wn5 id="0" word="蜜" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="不" tag="F" layer="1">
+        <wn3 id="0" word="是" tag="F" layer="2">
+          <wn4 id="0" word="明" tag="F" layer="3">
+            <wn5 id="0" word="星" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="的" tag="F" layer="1">
+        <wn3 id="0" word="前" tag="F" layer="2">
+          <wn4 id="0" word="半" tag="F" layer="3">
+            <wn5 id="0" word="生" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="一" tag="F" layer="2">
+          <wn4 id="0" word="本" tag="F" layer="3">
+            <wn5 id="0" word="课" tag="F" layer="4">
+              <wn6 id="0" word="外" tag="F" layer="5">
+                <wn7 id="0" word="书" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="3" word="和" tag="F" layer="1">
+        <wn3 id="0" word="我" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="他" tag="F" layer="4">
+              <wn6 id="0" word="们" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="4" word="可" tag="F" layer="1">
+        <wn3 id="0" word="能" tag="F" layer="2">
+          <wn4 id="0" word="不" tag="F" layer="3">
+            <wn5 id="0" word="会" tag="F" layer="4">
+              <wn6 id="0" word="爱" tag="F" layer="5">
+                <wn7 id="0" word="你" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="5" word="们" tag="F" layer="1">
+        <wn3 id="0" word="1" tag="F" layer="2">
+          <wn4 id="0" word="5" tag="F" layer="3">
+            <wn5 id="0" word="个" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="的" tag="F" layer="2">
+          <wn4 id="0" word="法" tag="F" layer="3">
+            <wn5 id="0" word="则" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="1" word="歌" tag="F" layer="3">
+            <wn5 id="0" word="手" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="2" word="侣" tag="F" layer="3">
+            <wn5 id="0" word="行" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="3" word="少" tag="F" layer="3">
+            <wn5 id="0" word="年" tag="F" layer="4">
+              <wn6 id="0" word="时" tag="F" layer="5">
+                <wn7 id="0" word="代" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="结" tag="F" layer="2">
+          <wn4 id="0" word="婚" tag="F" layer="3">
+            <wn5 id="0" word="了" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="3" word="十" tag="F" layer="2">
+          <wn4 id="0" word="七" tag="F" layer="3">
+            <wn5 id="0" word="岁" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="4" word="相" tag="F" layer="2">
+          <wn4 id="0" word="爱" tag="F" layer="3">
+            <wn5 id="0" word="吧" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="5" word="战" tag="F" layer="2">
+          <wn4 id="0" word="斗" tag="F" layer="3">
+            <wn5 id="0" word="吧" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="6" word="是" tag="F" layer="1">
+        <wn3 id="0" word="演" tag="F" layer="2">
+          <wn4 id="0" word="说" tag="F" layer="3">
+            <wn5 id="0" word="家" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="7" word="想" tag="F" layer="1">
+        <wn3 id="0" word="和" tag="F" layer="2">
+          <wn4 id="0" word="你" tag="F" layer="3">
+            <wn5 id="0" word="唱" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="见" tag="F" layer="2">
+          <wn4 id="0" word="到" tag="F" layer="3">
+            <wn5 id="0" word="你" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="8" word="在" tag="F" layer="1">
+        <wn3 id="0" word="故" tag="F" layer="2">
+          <wn4 id="0" word="宫" tag="F" layer="3">
+            <wn5 id="0" word="修" tag="F" layer="4">
+              <wn6 id="0" word="文" tag="F" layer="5">
+                <wn7 id="0" word="物" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="9" word="最" tag="F" layer="1">
+        <wn3 id="0" word="喜" tag="F" layer="2">
+          <wn4 id="0" word="爱" tag="F" layer="3">
+            <wn5 id="0" word="的" tag="F" layer="4">
+              <wn6 id="0" word="好" tag="F" layer="5">
+                <wn7 id="0" word="法" tag="F" layer="6">
+                  <wn8 id="0" word="官" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="158" word="无" tag="F" layer="0">
+      <wn2 id="0" word="敌" tag="F" layer="1">
+        <wn3 id="0" word="破" tag="F" layer="2">
+          <wn4 id="0" word="坏" tag="F" layer="3">
+            <wn5 id="0" word="王" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="与" tag="F" layer="1">
+        <wn3 id="0" word="伦" tag="F" layer="2">
+          <wn4 id="0" word="比" tag="F" layer="3">
+            <wn5 id="0" word="的" tag="F" layer="4">
+              <wn6 id="0" word="发" tag="F" layer="5">
+                <wn7 id="0" word="布" tag="F" layer="6">
+                  <wn8 id="0" word="会" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="159" word="五" tag="F" layer="0">
+      <wn2 id="0" word="人" tag="F" layer="1">
+        <wn3 id="0" word="制" tag="F" layer="2">
+          <wn4 id="0" word="足" tag="F" layer="3">
+            <wn5 id="0" word="球" tag="F" layer="4">
+              <wn6 id="0" word="世" tag="F" layer="5">
+                <wn7 id="0" word="界" tag="F" layer="6">
+                  <wn8 id="0" word="杯" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="月" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="鲜" tag="F" layer="3">
+            <wn5 id="0" word="花" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="160" word="夏" tag="F" layer="0">
+      <wn2 id="0" word="洛" tag="F" layer="1">
+        <wn3 id="0" word="特" tag="F" layer="2">
+          <wn4 id="0" word="烦" tag="F" layer="3">
+            <wn5 id="0" word="恼" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="161" word="仙" tag="F" layer="0">
+      <wn2 id="0" word="剑" tag="F" layer="1">
+        <wn3 id="0" word="奇" tag="F" layer="2">
+          <wn4 id="0" word="侠" tag="F" layer="3">
+            <wn5 id="0" word="传" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="162" word="向" tag="F" layer="0">
+      <wn2 id="0" word="往" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="生" tag="F" layer="3">
+            <wn5 id="0" word="活" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="163" word="小" tag="F" layer="0">
+      <wn2 id="0" word="神" tag="F" layer="1">
+        <wn3 id="0" word="龙" tag="F" layer="2">
+          <wn4 id="0" word="俱" tag="F" layer="3">
+            <wn5 id="0" word="乐" tag="F" layer="4">
+              <wn6 id="0" word="部" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="小" tag="F" layer="1">
+        <wn3 id="0" word="演" tag="F" layer="2">
+          <wn4 id="0" word="说" tag="F" layer="3">
+            <wn5 id="0" word="家" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="164" word="新" tag="F" layer="0">
+      <wn2 id="0" word="白" tag="F" layer="1">
+        <wn3 id="0" word="娘" tag="F" layer="2">
+          <wn4 id="0" word="子" tag="F" layer="3">
+            <wn5 id="0" word="传" tag="F" layer="4">
+              <wn6 id="0" word="奇" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="闻" tag="F" layer="1">
+        <wn3 id="0" word="1" tag="F" layer="2">
+          <wn4 id="0" word="+" tag="F" layer="3">
+            <wn5 id="0" word="1" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="165" word="学" tag="F" layer="0">
+      <wn2 id="0" word="霸" tag="F" layer="1">
+        <wn3 id="0" word="是" tag="F" layer="2">
+          <wn4 id="0" word="怎" tag="F" layer="3">
+            <wn5 id="0" word="样" tag="F" layer="4">
+              <wn6 id="0" word="炼" tag="F" layer="5">
+                <wn7 id="0" word="成" tag="F" layer="6">
+                  <wn8 id="0" word="的" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="166" word="寻" tag="F" layer="0">
+      <wn2 id="0" word="秦" tag="F" layer="1">
+        <wn3 id="0" word="记" tag="nz" layer="2" />
+      </wn2>
+      <wn2 id="1" word="找" tag="F" layer="1">
+        <wn3 id="0" word="前" tag="F" layer="2">
+          <wn4 id="0" word="世" tag="F" layer="3">
+            <wn5 id="0" word="之" tag="F" layer="4">
+              <wn6 id="0" word="旅" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="167" word="亚" tag="F" layer="0">
+      <wn2 id="0" word="洲" tag="F" layer="1">
+        <wn3 id="0" word="乒" tag="F" layer="2">
+          <wn4 id="0" word="乓" tag="F" layer="3">
+            <wn5 id="0" word="球" tag="F" layer="4">
+              <wn6 id="0" word="锦" tag="F" layer="5">
+                <wn7 id="0" word="标" tag="F" layer="6">
+                  <wn8 id="0" word="赛" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="羽" tag="F" layer="2">
+          <wn4 id="0" word="毛" tag="F" layer="3">
+            <wn5 id="0" word="球" tag="F" layer="4">
+              <wn6 id="0" word="锦" tag="F" layer="5">
+                <wn7 id="0" word="标" tag="F" layer="6">
+                  <wn8 id="0" word="赛" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="168" word="央" tag="F" layer="0">
+      <wn2 id="0" word="视" tag="F" layer="1">
+        <wn3 id="0" word="六" tag="F" layer="2">
+          <wn4 id="0" word="一" tag="F" layer="3">
+            <wn5 id="0" word="晚" tag="F" layer="4">
+              <wn6 id="0" word="会" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="169" word="阳" tag="F" layer="0">
+      <wn2 id="0" word="光" tag="F" layer="1">
+        <wn3 id="0" word="姐" tag="F" layer="2">
+          <wn4 id="0" word="妹" tag="F" layer="3">
+            <wn5 id="0" word="淘" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="艺" tag="F" layer="2">
+          <wn4 id="0" word="体" tag="F" layer="3">
+            <wn5 id="0" word="能" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="170" word="遥" tag="F" layer="0">
+      <wn2 id="0" word="远" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="距" tag="F" layer="3">
+            <wn5 id="0" word="离" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="171" word="一" tag="F" layer="0">
+      <wn2 id="0" word="本" tag="F" layer="1">
+        <wn3 id="0" word="书" tag="F" layer="2">
+          <wn4 id="0" word="一" tag="F" layer="3">
+            <wn5 id="0" word="座" tag="F" layer="4">
+              <wn6 id="0" word="城" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="带" tag="F" layer="1">
+        <wn3 id="0" word="一" tag="F" layer="2">
+          <wn4 id="0" word="路" tag="F" layer="3">
+            <wn5 id="0" word="高" tag="F" layer="4">
+              <wn6 id="0" word="峰" tag="F" layer="5">
+                <wn7 id="0" word="论" tag="F" layer="6">
+                  <wn8 id="0" word="坛" tag="nz" layer="7">
+                    <wn9 id="0" word="晚" tag="F" layer="8">
+                      <wn10 id="0" word="会" tag="nz" layer="9" />
+                    </wn9>
+                  </wn8>
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="个" tag="F" layer="1">
+        <wn3 id="0" word="人" tag="F" layer="2">
+          <wn4 id="0" word="的" tag="F" layer="3">
+            <wn5 id="0" word="武" tag="F" layer="4">
+              <wn6 id="0" word="林" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+          <wn4 id="1" word="战" tag="F" layer="3">
+            <wn5 id="0" word="争" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="3" word="起" tag="F" layer="1">
+        <wn3 id="0" word="来" tag="F" layer="2">
+          <wn4 id="0" word="看" tag="F" layer="3">
+            <wn5 id="0" word="流" tag="F" layer="4">
+              <wn6 id="0" word="星" tag="F" layer="5">
+                <wn7 id="0" word="雨" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="足" tag="F" layer="2">
+          <wn4 id="0" word="球" tag="F" layer="3">
+            <wn5 id="0" word="吧" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="4" word="人" tag="F" layer="1">
+        <wn3 id="0" word="一" tag="F" layer="2">
+          <wn4 id="0" word="世" tag="F" layer="3">
+            <wn5 id="0" word="界" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="172" word="音" tag="F" layer="0">
+      <wn2 id="0" word="乐" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="师" tag="F" layer="3">
+            <wn5 id="0" word="课" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="风" tag="F" layer="2">
+          <wn4 id="0" word="云" tag="F" layer="3">
+            <wn5 id="0" word="榜" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="173" word="隐" tag="F" layer="0">
+      <wn2 id="0" word="形" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="翅" tag="F" layer="3">
+            <wn5 id="0" word="膀" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="174" word="英" tag="F" layer="0">
+      <wn2 id="0" word="格" tag="F" layer="1">
+        <wn3 id="0" word="兰" tag="F" layer="2">
+          <wn4 id="0" word="足" tag="F" layer="3">
+            <wn5 id="0" word="总" tag="F" layer="4">
+              <wn6 id="0" word="杯" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="国" tag="F" layer="1">
+        <wn3 id="0" word="公" tag="F" layer="2">
+          <wn4 id="0" word="开" tag="F" layer="3">
+            <wn5 id="0" word="赛" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="175" word="樱" tag="F" layer="0">
+      <wn2 id="0" word="桃" tag="F" layer="1">
+        <wn3 id="0" word="小" tag="F" layer="2">
+          <wn4 id="0" word="丸" tag="F" layer="3">
+            <wn5 id="0" word="子" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="176" word="影" tag="F" layer="0">
+      <wn2 id="0" word="视" tag="F" layer="1">
+        <wn3 id="0" word="星" tag="F" layer="2">
+          <wn4 id="0" word="版" tag="F" layer="3">
+            <wn5 id="0" word="图" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="177" word="拥" tag="F" layer="0">
+      <wn2 id="0" word="抱" tag="F" layer="1">
+        <wn3 id="0" word="太" tag="F" layer="2">
+          <wn4 id="0" word="阳" tag="F" layer="3">
+            <wn5 id="0" word="的" tag="F" layer="4">
+              <wn6 id="0" word="月" tag="F" layer="5">
+                <wn7 id="0" word="亮" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="178" word="永" tag="F" layer="0">
+      <wn2 id="0" word="远" tag="F" layer="1">
+        <wn3 id="0" word="在" tag="F" layer="2">
+          <wn4 id="0" word="路" tag="F" layer="3">
+            <wn5 id="0" word="上" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="179" word="优" tag="F" layer="0">
+      <wn2 id="0" word="酷" tag="F" layer="1">
+        <wn3 id="0" word="全" tag="F" layer="2">
+          <wn4 id="0" word="娱" tag="F" layer="3">
+            <wn5 id="0" word="乐" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="180" word="有" tag="F" layer="0">
+      <wn2 id="0" word="话" tag="F" layer="1">
+        <wn3 id="0" word="好" tag="F" layer="2">
+          <wn4 id="0" word="好" tag="F" layer="3">
+            <wn5 id="0" word="说" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="181" word="遇" tag="F" layer="0">
+      <wn2 id="0" word="见" tag="F" layer="1">
+        <wn3 id="0" word="王" tag="F" layer="2">
+          <wn4 id="0" word="沥" tag="F" layer="3">
+            <wn5 id="0" word="川" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="182" word="约" tag="F" layer="0">
+      <wn2 id="0" word="吧" tag="F" layer="1">
+        <wn3 id="0" word="大" tag="F" layer="2">
+          <wn4 id="0" word="明" tag="F" layer="3">
+            <wn5 id="0" word="星" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="183" word="咱" tag="F" layer="0">
+      <wn2 id="0" word="们" tag="F" layer="1">
+        <wn3 id="0" word="相" tag="F" layer="2">
+          <wn4 id="0" word="爱" tag="F" layer="3">
+            <wn5 id="0" word="吧" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="184" word="这" tag="F" layer="0">
+      <wn2 id="0" word="里" tag="F" layer="1">
+        <wn3 id="0" word="是" tag="F" layer="2">
+          <wn4 id="0" word="北" tag="F" layer="3">
+            <wn5 id="0" word="京" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="185" word="浙" tag="F" layer="0">
+      <wn2 id="0" word="江" tag="F" layer="1">
+        <wn3 id="0" word="卫" tag="F" layer="2">
+          <wn4 id="0" word="视" tag="F" layer="3">
+            <wn5 id="0" word="跨" tag="F" layer="4">
+              <wn6 id="0" word="年" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="186" word="真" tag="F" layer="0">
+      <wn2 id="0" word="爱" tag="F" layer="1">
+        <wn3 id="0" word="遇" tag="F" layer="2">
+          <wn4 id="0" word="到" tag="F" layer="3">
+            <wn5 id="0" word="他" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="星" tag="F" layer="1">
+        <wn3 id="0" word="话" tag="F" layer="2">
+          <wn4 id="0" word="大" tag="F" layer="3">
+            <wn5 id="0" word="冒" tag="F" layer="4">
+              <wn6 id="0" word="险" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="2" word="正" tag="F" layer="1">
+        <wn3 id="0" word="男" tag="F" layer="2">
+          <wn4 id="0" word="子" tag="F" layer="3">
+            <wn5 id="0" word="汉" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="187" word="职" tag="F" layer="0">
+      <wn2 id="0" word="场" tag="F" layer="1">
+        <wn3 id="0" word="是" tag="F" layer="2">
+          <wn4 id="0" word="个" tag="F" layer="3">
+            <wn5 id="0" word="技" tag="F" layer="4">
+              <wn6 id="0" word="术" tag="F" layer="5">
+                <wn7 id="0" word="活" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="188" word="致" tag="F" layer="0">
+      <wn2 id="0" word="我" tag="F" layer="1">
+        <wn3 id="0" word="们" tag="F" layer="2">
+          <wn4 id="0" word="终" tag="F" layer="3">
+            <wn5 id="0" word="将" tag="F" layer="4">
+              <wn6 id="0" word="逝" tag="F" layer="5">
+                <wn7 id="0" word="去" tag="F" layer="6">
+                  <wn8 id="0" word="的" tag="F" layer="7">
+                    <wn9 id="0" word="青" tag="F" layer="8">
+                      <wn10 id="0" word="春" tag="nz" layer="9" />
+                    </wn9>
+                  </wn8>
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="189" word="中" tag="F" layer="0">
+      <wn2 id="0" word="国" tag="F" layer="1">
+        <wn3 id="0" word="传" tag="F" layer="2">
+          <wn4 id="0" word="媒" tag="F" layer="3">
+            <wn5 id="0" word="大" tag="F" layer="4">
+              <wn6 id="0" word="学" tag="n" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="海" tag="F" layer="2">
+          <wn4 id="0" word="洋" tag="F" layer="3">
+            <wn5 id="0" word="大" tag="F" layer="4">
+              <wn6 id="0" word="学" tag="nt" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="好" tag="F" layer="2">
+          <wn4 id="0" word="歌" tag="F" layer="3">
+            <wn5 id="0" word="曲" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="3" word="蓝" tag="F" layer="2">
+          <wn4 id="0" word="t" tag="F" layer="3">
+            <wn5 id="0" word="v" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="4" word="绿" tag="F" layer="2">
+          <wn4 id="0" word="公" tag="F" layer="3">
+            <wn5 id="0" word="司" tag="F" layer="4">
+              <wn6 id="0" word="年" tag="F" layer="5">
+                <wn7 id="0" word="会" tag="nz" layer="6" />
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="5" word="乒" tag="F" layer="2">
+          <wn4 id="0" word="乓" tag="F" layer="3">
+            <wn5 id="0" word="球" tag="F" layer="4">
+              <wn6 id="0" word="公" tag="F" layer="5">
+                <wn7 id="0" word="开" tag="F" layer="6">
+                  <wn8 id="0" word="赛" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="6" word="情" tag="F" layer="2">
+          <wn4 id="0" word="歌" tag="F" layer="3">
+            <wn5 id="0" word="汇" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="7" word="少" tag="F" layer="2">
+          <wn4 id="0" word="年" tag="F" layer="3">
+            <wn5 id="0" word="梦" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="8" word="式" tag="F" layer="2">
+          <wn4 id="0" word="关" tag="F" layer="3">
+            <wn5 id="0" word="系" tag="nz" layer="4" />
+          </wn4>
+          <wn4 id="1" word="相" tag="F" layer="3">
+            <wn5 id="0" word="亲" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="9" word="维" tag="F" layer="2">
+          <wn4 id="0" word="和" tag="F" layer="3">
+            <wn5 id="0" word="行" tag="F" layer="4">
+              <wn6 id="0" word="动" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="10" word="新" tag="F" layer="2">
+          <wn4 id="0" word="声" tag="F" layer="3">
+            <wn5 id="0" word="代" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="11" word="有" tag="F" layer="2">
+          <wn4 id="0" word="嘻" tag="F" layer="3">
+            <wn5 id="0" word="哈" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="12" word="真" tag="F" layer="2">
+          <wn4 id="0" word="功" tag="F" layer="3">
+            <wn5 id="0" word="夫" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="13" word="足" tag="F" layer="2">
+          <wn4 id="0" word="协" tag="F" layer="3">
+            <wn5 id="0" word="杯" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+      <wn2 id="1" word="华" tag="F" layer="1">
+        <wn3 id="0" word="百" tag="F" layer="2">
+          <wn4 id="0" word="家" tag="F" layer="3">
+            <wn5 id="0" word="姓" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+        <wn3 id="1" word="龙" tag="F" layer="2">
+          <wn4 id="0" word="舟" tag="F" layer="3">
+            <wn5 id="0" word="大" tag="F" layer="4">
+              <wn6 id="0" word="赛" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="2" word="文" tag="F" layer="2">
+          <wn4 id="0" word="明" tag="F" layer="3">
+            <wn5 id="0" word="之" tag="F" layer="4">
+              <wn6 id="0" word="美" tag="nz" layer="5" />
+            </wn5>
+          </wn4>
+        </wn3>
+        <wn3 id="3" word="小" tag="F" layer="2">
+          <wn4 id="0" word="当" tag="F" layer="3">
+            <wn5 id="0" word="家" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="190" word="终" tag="F" layer="0">
+      <wn2 id="0" word="极" tag="F" layer="1">
+        <wn3 id="0" word="三" tag="F" layer="2">
+          <wn4 id="0" word="国" tag="nz" layer="3" />
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="191" word="主" tag="F" layer="0">
+      <wn2 id="0" word="君" tag="F" layer="1">
+        <wn3 id="0" word="的" tag="F" layer="2">
+          <wn4 id="0" word="太" tag="F" layer="3">
+            <wn5 id="0" word="阳" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="192" word="转" tag="F" layer="0">
+      <wn2 id="0" word="身" tag="F" layer="1">
+        <wn3 id="0" word="说" tag="F" layer="2">
+          <wn4 id="0" word="爱" tag="F" layer="3">
+            <wn5 id="0" word="你" tag="nz" layer="4" />
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+    <wn1 id="193" word="总" tag="F" layer="0">
+      <wn2 id="0" word="裁" tag="n" layer="1">
+        <wn3 id="0" word="误" tag="F" layer="2">
+          <wn4 id="0" word="宠" tag="F" layer="3">
+            <wn5 id="0" word="替" tag="F" layer="4">
+              <wn6 id="0" word="身" tag="F" layer="5">
+                <wn7 id="0" word="甜" tag="F" layer="6">
+                  <wn8 id="0" word="妻" tag="nz" layer="7" />
+                </wn7>
+              </wn6>
+            </wn5>
+          </wn4>
+        </wn3>
+      </wn2>
+    </wn1>
+  </content>
+</root>

@@ -1,0 +1,319 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en pdsch/en 链路/n 级/n 仿真/v 收发/n 端/ag ,/w CRC/en attachmentnn/en [/w trBlkCrc/en ,/w trBlkCrcLen/en ]/w =/0 pdschCrcEncode/en (/w data/en )/w nn/en  /0 nnTB/en 和/c CRC/n 生成/v 多项式/n 进行/v 二进制/n 除法/n 相除/v 所得/n 到/ng 的/u 余数/n 为/p CRC/n 部分/n （/w 没有/d 进位/v ，/w 使用/v XOR/en 来/u 代替/v 减法/n ）/w 。/w 主要/b 用来/v 检测/v 或/c 校验/v 数据传输/n 后/f 可能/a 出现/v 的/u 错误/a 。/w 在/d CB/en 级/n 的/u CRC/n 校验/v 之后/f 再/d 对/a TB/n 级/n 的/u CRC/n 进行/v 验证/v ，/w 提高/v 了/dg 正确率/n 。/w nn/en  /0 nnpdsch/en 中用/n 到/ng 的/u 生成/v 多项式/n ：nngCRC.../url ,/w m/en 0/m _/0 37889738/m ,/w https://blog.csdn.net/m0_37889738/article/details/86300420/url ,/w 2019-01-11/t ,/w 479/m 次/a 阅读/v ,/w 5/m G/en pdsch/en 链路/n 级/n 仿真/v 收发/n 端/ag -/w m/en 0/m _/0 37889738/m 的/u 博客/n ,/w 2019年01月11日 14:31:45/t ,/w CRC/en attachment/en
+
+[/w trBlkCrc/en ,/w trBlkCrcLen/en ]/w =/0 pdschCrcEncode/en (/w data/en )/w
+
+/0
+
+TB/en 和/c CRC/n 生成/v 多项式/n 进行/v 二进制/n 除法/n 相除/v 所得/n 到/ng 的/u 余数/n 为/p CRC/n 部分/n （/w 没有/d 进位/v ，/w 使用/v XOR/en 来/u 代替/v 减法/n ）/w 。/w 主要/b 用来/v 检测/v 或/c 校验/v 数据传输/n 后/f 可能/a 出现/v 的/u 错误/a 。/w 在/d CB/en 级/n 的/u CRC/n 校验/v 之后/f 再/d 对/a TB/n 级/n 的/u CRC/n 进行/v 验证/v ，/w 提高/v 了/dg 正确率/n 。/w
+
+/0
+
+pdsch/en 中用/n 到/ng 的/u 生成/v 多项式/n ：/w
+
+gCRC/en 24/m A/en (/w D/en )/w =/0 [/w D/en 24/m +/0 D/en 23/m +/0 D/en 18/m +/0 D/en 17/m +/0 D/en 14/m +/0 D/en 11/m +/0 D/en 10/m +/0 D/en 7/m +/0 D/en 6/m +/0 D/en 5/m +/0 D/en 4/m +/0 D/en 3/m +/0 D/en +/0 1/m ]/w  /0  /0 L/en =/0 24/m ;/w
+gCRC/en 16/m (/w D/en )/w =/0 [/w D/en 16/m +/0 D/en 12/m +/0 D/en 5/m +/0 1/m ]/w  /0  /0 L/en =/0 16/m ;/w
+/0  /0  /0 trBlkLen/en >/w 3824/m ，/w 生成/v 多项式/n 选用/v CRC/en 24/m A/b ，/w 否则/c 选用/v CRC/en 16/m 。/w
+
+gCRC/en 24/m B/en (/w D/en )/w =/0 [/w D/en 24/m +/0 D/en 23/m +/0 D/en 6/m +/0 D/en 5/m +/0 D/en +/0 1/m ]/w  /0 L/en =/0 24/m ;/w
+/0  /0  /0 codeblocksegement/en 中/f 每个/r CB/en 进行/v CRC/n 时/n 使用/v 多项式/n 24/m B/n 。/w
+
+/0
+
+TB/n 级/n CRC/n 流程/n 如下/v ：/w
+
+
+
+/0
+
+LDPC/en 编码/n 设计/v
+
+/0
+
+为了/p 能/ng 支持/v IR/en -/w HARQ/en 、/w 以及/c 适用/a 于/ng 各种/r 块/q 大小/n 和/c 不同/a 的/u 码/ng 率/ag ，/w LDPC/en 码/ng 在编/v 码/ng 时/n 需要/n 可调/nz 节/n 的/u 设计/v 。/w 编码/n 时/n ，/w 校验/v 矩阵/n H/n 会/n 根据/n 基本/a 图/n BG/n （/w 2/m 个/q ）/w 和/c lifting/en size/en （/w Z/en 范围/n 2/m ～/w 384/m ）/w 生成/v ，/w 这/r 两个/n 参数/n 会/n 根据/n 码/ng 块/q 大小/n 、/w 码/ng 率/ag 来/u 选取/v 。/w 同一/b 幅/ng 基本/a 图/n 多个/n Z/en 值/a 的/u 设计/v 使得/v 编码/n 可以/a 适用/a 于/ng 多种/a 码/ng 长/a ，/w 并且/c 这样/r 的/u 设计/v 便于/v 将/d 计算/v 分解/v 为/p 更多/n 的/u 较/d 小/a 的/u 独立/a 原子/n 单元/n ，/w 因此/c ，/w 可以/a 在/d 硬件/n 中/f 更/d 有效/a 地/n 实现/v 更/d 大/a 的/u 并行/v 性/k 。/w
+
+/0
+
+校验/v 矩阵/n 生成/v 方法/n ：/w
+
+The/en parity/en check/en matrix/en for/en NR/en structured/en LDPC/en codes/en can/en be/en defined/en by/en the/en base/en graph/en (/w BG/en )/w ,/w shift/en size/en Z/en ,/w and/en shift/en coefficients/en (/w Pij/en )/w ,/w as/en follows/en :/w 1/m s/en and/en 0/m s/en in/en BG/en are/en replaced/en by/en a/en circularly/en -/w shifted/en Identity/en matrix/en and/en zero/en matrix/en of/en size/en Z/en x/en Z/en ,/w respectively./url The/en shift/en coefficients/en Pij/en are/en right/en cyclic/en shifts/en applied/en to/en the/en identity/en matrix/en for/en (/w i/en ,/w j/en )/w -/w th/en element/en in/en BG/en ./m
+
+/0
+
+/0
+
+LDPC/en base/en graph/en selection/en
+
+bgn/en =/0 pdschLdpcBaseGraphSel/en (/w trblklen/en ,/w R/en )/w
+
+/0
+
+BG/en 1/m 适用/a 于长/nr 码/ng 块/q 高/a 码/ng 率/ag 。/w BG/en 2/m 适用/a 于/ng 短/a 码/ng 块/q 低/a 码/ng 率/ag 。/w
+
+BG/en 1/m (/w dimension/en 46/m ×/m 68/m ,/w Kb/en =/0 22/m systematic/en columns/en )/w is/en mainly/en designed/en for/en block/en -/w sizes/en within/en approximately/en 300/m to/en 8448/m bits/en ,/w code/en -/w rates/en between/en approximately/en 8/m //w 9/m and/en 1/m //w 3/m ,/w and/en further/en lower/en rates/en via/en repetition./url
+BG/en 2/m (/w dimension/en 42/m ×/m 52/m ,/w Kb/en ∈/0 {/0 6/m ,/w 8/m ,/w 9/m ,/w 10/m }/0 systematic/en columns/en )/w is/en mainly/en designed/en for/en block/en -/w sizes/en within/en 40/m to/en 3840/m bits/en ,/w code/en -/w rates/en between/en approximately/en 2/m //w 3/m and/en 1/m //w 5/m ,/w and/en further/en lower/en rates/en via/en repetition./url
+/0
+
+基本/a 图/n 选择/n 流程/n 如下/v ：/w
+
+
+
+想要/v 达到/v 高/a 码/ng 率/ag ，/w 基本/a 图/n 不可/v 以/p 过/d 小/a 。/w
+对于/p 一个/mq 给定/v 的/u 码/ng 长/a ，/w 基本/a 图/n 越/d 小/a ，/w Z/en 的/u 值/a 越/d 大/a ，/w 越/d 有利于/v 解码/v 时/n 的/u 并行/v 处理/v ，/w 这样/r 可以/a 减小/v 延迟/v 、/w 增大/v 吞吐量/n 。/w
+/0
+
+/0
+
+Code/en block/en segmentation/en and/en code/en block/en CRC/en attachment/en
+
+blkSeg/en =/0 pdschLdpcCodeBlockSegment/en (/w trBlkCrc/en ,/w bgn/en )/w
+
+
+
+i/en )/w 确定/a 码/ng 块/q 可以/a 达到/v 的/u 最大/a 长度/n Kcb/en ：/w
+
+
+
+For/en LDPC/en base/en graph/en type/en 1/m :/w Kcb/en =/0 8448/m
+For/en LDPC/en base/en graph/en type/en 2/m  /0 :/w Kcb/en =/0 3840/m
+
+
+/0  /0 过长/v 的/u 码/ng 块/q 会/n 被/ng 分割/v 为/p 多个/n 码/ng 块/q ，/w 并/c 对/a 每个/r 码/ng 块/q 进行/v CRC/n 。/w
+
+/0
+
+ii/en )/w 确定/a 码/ng 块/q 个数/n
+
+/0  /0 if/en B/en (/w Transport/en blocksize/en )/w </w Kcb/en
+/0  /0  /0  /0  /0 L/en =/0 0/m
+/0  /0  /0  /0  /0 C/en (/w number/en of/en codeblocks/en )/w =/0 1/m
+/0  /0  /0  /0  /0 B'/en =/0 B/en  /0  /0 //w //w this/en mean/en 'No/en Segmentation'/en ./m
+/0  /0 else/en
+/0  /0  /0  /0  /0 L/en =/0 24/m
+/0  /0  /0  /0  /0 C/en =/0 Ceiling/en (/w B/en //w (/w Kcb/en -/w L/en )/w )/w
+/0  /0  /0  /0  /0 B'/en =/0 B/en +/0 C/en */w L/en  /0  /0  /0  /0  /0
+
+/0
+
+iii/en )/w TB/n 分/b 到/ng 每个/r 码/ng 块/q 中/f 的/u 比特/q 数/m
+
+/0  /0 K'/en (/w the/en number/en of/en bits/en in/en each/en code/en block/en )/w =/0 B'/en //w C/n
+
+/0
+
+iv/en )/w 确定/a Kb/q
+
+/0  /0 For/en LDPC/en base/en graph/en type/en 1/m
+
+Kb/en =/0 22/m
+
+/0
+/0  /0 For/en LDPC/en base/en graph/en type/en 2/m
+
+if/en B/en (/w Transport/en blocksize/en )/w  /0 >/w 640/m
+
+Kb/en =/0 10/m
+
+else/en if/en B/en (/w Transport/en blocksize/en )/w  /0 >/w 560/m
+
+Kb/en =/0 9/m  /0  /0  /0
+
+else/en if/en B/en (/w Transport/en blocksize/en )/w  /0 >/w 192/m
+
+Kb/en =/0 8/m
+
+else/en
+
+Kb/en =/0 6/m
+
+/0
+
+v/en )/w find/en the/en minimum/en value/en of/en  /0 Zc/en such/en that/en (/w Kb/en */w Zc/en )/w >/w =/0 K/n ’/w
+
+/0  /0 Zc/en =/0 2/m ^/0 j/en */w {/0 2/m ,/w 3/m ,/w 5/m ,/w 7/m ,/w 9/m ,/w 11/m ,/w 13/m ,/w 15/m }/0  /0 for/en  /0 j/en =/0 0/m ,/w 1/m ,/w 2/m ,/w 3/m ,/w 4/m ,/w 5/m excluding/en those/en values/en exceeding/en Z/en =/0 384./m
+
+/0
+
+vi/en )/w 确定/a 码/ng 块/q 长度/n K/n
+
+/0  /0 set/en K/en =/0 22/m Zc/en for/en LDPC/en base/en graph/en 1/m
+
+/0  /0  /0  /0  /0  /0  /0  /0  /0 K/en =/0 10/m Zc/en for/en LDPC/en base/en graph/en 2/m
+
+/0
+
+vii/en )/w perform/en segmentation/en and/en add/en CRC/en bits/en
+
+/0  /0 for/en k/en =/0 K'/en to/en K/en -/w 1/m  /0 //w //w Insertion/en of/en filler/en bis/en
+
+/0  /0 Filler/en bits/en (/w or/en zero/en -/w padding/en )/w are/en appended/en to/en each/en CB/en before/en LDPC/en encoding/en ,/w to/en match/en the/en information/en block/en -/w size/en to/en the/en encoder/en input/en size/en ./m
+
+
+
+/0
+
+Channel/en coding/en LDPC/en
+
+codedBlk/en =/0 pdschLdpcEncode/en (/w blkSeg/en ,/w bgn/en )/w
+
+
+
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 N/n
+
+/0
+
+for/en LDPC/en base/en graph/en 1/m ：/w N/en =/0 66/m Zc/en
+
+for/en LDPC/en base/en graph/en 2/m ：/w N/en =/0 50/m Zc/en
+
+填充/v 位/q 改为/v 0/m 后/f 再/d 进行/v 编码/n ，/w 输出/v 时/n 填充/v 位/q 还是/c NULL/en
+
+对/a 前/f 2/m */w Zc/en 比特/q 打孔/v 可以/a 在/d 不/d 改变/v 码/ng 率/ag 的/u 情况/n 下/f 使/ng 输出/v 包含/v 跟/c 多/a 的/u 冗余/n 比特/q ，/w 提高/v 性能/n
+
+/0
+
+/0
+
+Rate/en -/w matching/en and/en bit/en -/w selection/en
+
+codeWord/en =/0 pdschLdpcRateMatch/en (/w codedBlk/en ,/w outlen/en ,/w rv/en ,/w mod/en ,/w nLayers/en )/w
+
+/0
+
+当/ag 不同/a TTI/en 的/u 数据/n 比特/q 发生/v 改变/v 时/n ，/w 为了/p 匹配/v 物理/n 信道/n 的/u 承载/v 能力/n ，/w 输入/v 序列/n 中/f 的/u 一些/mq 比特/q 将/d 被/ng 重/a 发/q 或者/c 打孔/v ，/w 以/p 确保/v 在/d 传输/v 信道/n 复用/v 后/f 总的/b 比特/q 率/ag 与/c 所/n 配置/n 的/u 物理/n 信道/n 承载/v 能力/n 相/d 一致/a 。/w
+
+/0
+
+i/n ）/w circular/en buffer/en length/en Ncb/en =/0 min/en (/w N/en ,/w Nref/en )/w
+
+/0
+
+ii/en ）/w determine/en Er/n
+
+if/en the/en r/en -/w th/en coded/en block/en is/en not/en scheduled/en for/en transmission/en as/en indicated/en by/en CBGTI/en according/en to/en Subclause/en 5.1.7./m 2/m for/en DL/en -/w SCH/en and/en 6.1.5./m 2/m for/en UL/en -/w SCH/en in/en [/w 6/m ,/w TS/en 38.214/m ]/w
+
+Er/en =/0 0/m ;/w
+
+else/en
+
+Er/en is/en determined/en by/en
+
+N/en L/en  /0 is/en the/en number/en of/en transmission/en layers/en that/en the/en transport/en block/en is/en mapped/en onto/en ;/w
+Qm/en is/en the/en modulation/en order/en ;/w
+G/en is/en the/en total/en number/en of/en coded/en bits/en available/en for/en transmission/en of/en the/en transport/en block/en ;/w
+C/n ’/w
+
+
+iii/en ）/w determine/en K/en 0/m by/en rv/n
+
+/0
+
+iV/en ）/w 从/p K/en 0/m 开始/v ，/w 跳/v 过/d 填充/v 比特/q ，/w 取/v Er/n 个/q 比特/q 作为/n 输出/v
+
+/0
+
+关于/p Nref/en
+通过/p 限制/v buffer/en 大小/n 限制/v 最低/a 码/ng 率/ag ，/w 从而/c 限制/v 延迟/v 大小/n 。/w
+
+Typically/en ,/w LDPC/en decoding/en latency/en depends/en on/en the/en number/en of/en edges/en in/en the/en base/en graph/en used/en for/en decoding./url Thus/en ,/w transmissions/en at/en higher/en code/en -/w rates/en (/w e/en ./m g/en ./m 1/m st/en transmission/en or/en higher/en MCS/en )/w can/en be/en decoded/en faster/en compared/en to/en the/en transmissions/en at/en lower/en rates/en (/w e/en ./m g/en ./m soft/en combined/en 1/m st/en and/en 2/m nd/en transmission/en or/en lower/en MCS/en )/w ./m Thus/en ,/w the/en decoding/en latency/en for/en large/en packets/en can/en be/en reduced/en by/en limiting/en (/w via/en LBRM/en )/w the/en lowest/en rate/en supported/en by/en such/en packets./url This/en allows/en very/en high/en decoding/en throughput/en and/en lower/en latency./url LBRM/en is/en thus/en an/en important/en factor/en that/en not/en only/en affects/en the/en UE/en complexity/en from/en the/en soft/en buffer/en perspective/en (/w or/en HARQ/en storage/en )/w ,/w but/en also/en facilitates/en decoding/en latency/en reduction./url
+
+关于/p K/en 0/m
+rv/en 3/m 的/u 开始/v 位置/n 靠后/v 可以/a 适应/v 初传/nr 未/d 收到/v 的/u 情况/n 。/w
+
+Defining/en the/en starting/en bit/en location/en of/en RV/en 3/m to/en be/en closer/en to/en the/en end/en of/en the/en LDPC/en codeword/en ,/w allows/en more/en overlap/en with/en the/en systematic/en portion./url Then/en ,/w RV/en 3/m contains/en a/en part/en of/en the/en systematic/en bits/en as/en well/en as/en some/en extra/en parity/en bits/en which/en are/en not/en included/en in/en RV/en 0./m This/en results/en in/en RV/en 3/m being/en self/en -/w decodable/en up/en to/en a/en higher/en code/en -/w rate/en compared/en to/en the/en case/en it/en is/en defined/en uniformly./url
+
+关于/p C/n ’/w
+C'/en =/0 C/en if/en CBGTI/en is/en not/en present/en in/en the/en DCI/en scheduling/en the/en transport/en block/en and/en C'/en is/en the/en number/en of/en scheduled/en code/en blocks/en of/en the/en transport/en block/en if/en CBGTI/en is/en present/en in/en the/en DCI/en scheduling/en the/en transport/en block./url
+
+/0
+
+/0
+
+Bit/en -/w interleaving/en
+
+/0
+
+A/en post/en rate/en -/w matching/en bit/en -/w interleaver/en is/en applied/en and/en it/en is/en limited/en to/en each/en code/en block/en individually./url A/en row/en -/w column/en interleaver/en with/en number/en of/en rows/en equal/en to/en the/en modulation/en order/en ,/w and/en row/en -/w wise/en write/en and/en column/en -/w wise/en read/en is/en included/en at/en the/en output/en of/en the/en rate-matching./url This/en can/en improve/en the/en performance/en by/en enabling/en systematic/en bit/en priority/en ordering/en for/en the/en first/en redundancy/en version./url
+
+/0
+
+CB/en 内在/b 速率/n 匹配/v 之后/f 进行/v 交织/v ，/w 将/d 数据/n 排列/v 在行/a 数/m 为/p 调制/v 阶/ng 数/m 的/u 矩阵/n 中/f ，/w 行/a 写/v 列/n 读/ng 。/w
+
+/0
+
+Code/en block/en concatenation/en
+
+/0
+
+直接/a 将/d 上一/nz 部分/n 的/u 输出/v 相连/v
+
+/0
+
+/0
+
+/0
+
+/0
+
+Rate/en recovery/en
+
+codedBlk/en =/0 pdschLdpcRateRecover/en (/w codeWord/en ,/w trBlkLen/en ,/w codeRate/en ,/w rv/en ,/w modu/en ,/w rank/en )/w ;/w
+
+/0
+
+解/ng 速率/n 匹配/v 模块/n 设计/v 用来/v 处理/v 速率/n 匹配/v 的/u 相反/v 过程/n ，/w 将/d 收到/v 的/u 比特/q 恢复/v 到/ng 原来/d 的/u 位置/n ，/w 用/ng 约定/v 的/u 0/m 或/c 1/m 填充/v 速率/n 匹配/v 时/n 打/q 掉/v 的/u 比特/q 。/w
+
+在/d 解/ng 速率/n 匹配/v 的/u 时候/n 需要/n 确定/a ：/w
+
+Ncb/en ，/w K/en 0/m ，/w E/en  /0  /0 速率/n 匹配/v
+K/n ，/w K/n ’/w  /0 确定/a 填充/v 比特/q 位置/n
+C/n ，/w N/en  /0 确定/a 输出/v size/en
+i/n ）/w 根据/n E/en 来/u 进行/v 码/ng 块/q 的/u 分割/v
+
+ii/en ）/w 根据/n Qm/en 来/u 进行/v 解/ng 交织/v ，/w 列/n 写/v 行/a 读/ng
+
+iii/en ）/w 恢复/v （/w filler/en bits/en  /0 K/en 0/m 起点/n  /0 环形/n 循环/v ）/w 不知/v 道/n 的/u 用/ng 0/m 填充/v
+
+
+
+/0
+
+Channel/en decoding/en
+
+blkSeg/en =/0 pdschLdpcDecode/en (/w codedBlk/en ,/w bgn/en )/w ;/w
+
+/0
+
+i/n ）/w 由/p N/n 求得/v Zc/en 进而/c 得到/v K/n
+
+ii/en ）/w 2/m */w Zc/en 打孔/v 的/u 恢复/v
+
+iii/en ）/w 解码/v 输出/v 整个/b CB/en
+
+/0
+
+/0
+
+Code/en block/en desegment/en
+
+[/w trBlkCrc/en ,/w cbErr/en ]/w =/0 pdschLdpcCodeBlockDesegment/en (/w blkSeg/en ,/w bgn/en ,/w trBlkCrcLen/en )/w ;/w
+
+/0
+
+i/n ）/w 确定/a K/n ’/w
+
+ii/en ）/w 每/r 一块/d 进行/v CRC/n 校验/v
+
+iii/en ）/w 结果/c 直接/a 连接/v
+
+/0
+
+/0
+
+CRC/en decode/en
+
+[/w trBlk/en ,/w tbErr/en ]/w =/0 pdschCrcDecode/en (/w trBlkCrc/en )/w ;/w
+
+/0
+
+输入/v trBlkCrc/en 和/c CRC/n 生成/v 多项式/n 进行/v 二进制/n 除法/n 相除/v 所得/n 到/ng 的/u 余数/n 为/p 0/m 则/c 传输/v 正确/a ,/w ,/w ,/w ,/w ,/w

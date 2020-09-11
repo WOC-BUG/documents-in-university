@@ -1,0 +1,732 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/javasunson/article/details/74713235/url ,/w 大数据/n 与/c 人工智能/n  /0 rnrnrn/en 2016-11-10 09:38/t  /0 5195/m 人/n 阅读/v  /0 评论/n (/w 0/m )/w  /0 收藏/v  /0 举报/v rnrnrnrn/en  /0 分类/v ：/w rnrnAlgorithm/en （/w 54/m ）/w  /0 rnrnrnrn/en 转自/n ：http://sanwen8.cn/p/G4beJX.htmlrnrnrnrnrnrnrn/url 技术/n 不足/a 导致/v 移动互联网/ln 难以/d 催生/v 出/q 更多/n 的/u 新/a 应用/v 和商业模/nr 式/k ，/w 为/p 突破/v 瓶颈/n ，/w 新/a 一轮/nz 更/d 激动人心/la 、/w 更/d 值得/v 期待/v 的/u 技术/n 革命/a 风暴/n 已经/d 诞生/v ,/w https://blog.csdn.net/javasunson/article/details/74713235/url ,/w ,/w javasunson/en ,/w 2017-07-07/t ,/w //blog.csdn.net/javasunson/article/details/74713235/url ,/w 506/m 次/a 阅读/v ,/w 人工智能/n -/w ttdata/en ,/w 2017年07月07日 15:02:40/t ,/w 转/q 人工智能/n
+
+
+
+2017年07月07日 15:02:40/t
+ttdata/en
+阅读/v 数/m ：507/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+/0
+
+大数据/n 与/c 人工智能/n  /0
+
+
+2016-11-10 09:38/t  /0 5195/m 人/n 阅读/v  /0 评论/n (/w 0/m )/w  /0 收藏/v  /0 举报/v
+
+
+
+/0 分类/v ：/w
+
+Algorithm/en （/w 54/m ）/w  /0
+
+
+
+转自/n ：http://sanwen8.cn/p/G4beJX.html/url
+
+
+
+
+
+技术/n 不足/a 导致/v 移动互联网/ln 难以/d 催生/v 出/q 更多/n 的/u 新/a 应用/v 和商业模/nr 式/k ，/w 为/p 突破/v 瓶颈/n ，/w 新/a 一轮/nz 更/d 激动人心/la 、/w 更/d 值得/v 期待/v 的/u 技术/n 革命/a 风暴/n 已经/d 诞生/v ，/w 将/d 成为/v 未来/t 10/m 年/n 乃至/c 更/d 长时/nz 间/f 内/f IT产业/n 发展/v 的/u 焦点/n ，/w 它/r 的/u 名字/n 叫做/v “/w 人工智能/n ”/w （/w AI/n ）/w 。/w
+
+
+
+只有/c 人工智能/n 才能/v 为/p “/w 万物/n 互联/v ”/w 之后/f 的/u 应用/v 问题/n 提供/v 最/d 完美/a 的/u 解决方案/n ，/w 它/r 将/d 成为/v IT/n 领域/n 最重/a 要/v 的/u 技术/n 革命/a ，/w 目前/t 市场/ny 关心/v 的/u IT/n 和/c 互联网/n 领域/n 的/u 几乎/d 所有主/n 题/n 和/c 热点/n （/w 智能/n 硬件/n 、/w O2O/n 、/w 机器人/n 、/w 无人机/np 、/w 工业4.0/ln ）/w ，/w 发展/v 突破/v 的/u 关键/a 环节/n 都/d 是/v 人工智能/n 。/w
+
+
+
+人工智能/n 是/v 指/ng 计算机系/n 统/ng 具备/v 的/u 能力/n ，/w 该/r 能力/n 可以/a 履行/v 原本/d 只有/c 依靠/n 人类/n 智慧/n 才能/v 完成/v 的/u 复杂/a 任务/n 。/w 硬件/n 体系/n 能力/n 的/u 不足/a 加上/v 发展道路/n 上/f 曾经/d 出现/v 偏差/n ，/w 以及/c 算法/n 的/u 缺陷/n ，/w 使得/v 人工智能/n 技术/n 的/u 发展/v 在/d 上世纪/t 80/m —/w 90/m 年代/n 曾经/d 一度/d 低迷/a 。/w 近年来/t ，/w 成本/n 低廉/a 的/u 大规模/b 并行/v 计算/v 、/w 大数据/n 、/w 深度/n 学习/v 算法/n 、/w 人脑/n 芯片/n 4/m 大/a 催化剂/n 的/u 齐备/a ，/w 导致/v 人工智能/n 的/u 发展/v 出现/v 了/dg 向上/v 的/u 拐点/n 。/w
+
+
+
+国际/n IT/n 巨头/n 已经/d 开始/v 在/d 人工智能/n 领域/n 频频/d 发力/v ，/w 一方面/ldm 网罗/n 顶尖/n 人才/n ，/w 一方面/ldm 加大/v 投资/n 力度/n ，/w 人工智能/n 新/a 的/u 春天/t 已经/d 到来/v 。/w 自然语言/n 处理/v 、/w 计算机/np 视觉/n 、/w 规划/n 决策/n 等/ng AI/n 细分/v 领域/n 近期/t 进展/v 显/v 着/n ，/w 很多/mq 新/a 的/u 应用/v 和/c 产品/n 已经/d 惊艳/v 亮相/v 。/w
+
+
+
+由于/c 技术/n 的/u 复杂度/n ，/w 未来/t 5－10年/t 内/f ，/w 专用/v 领域/n 的/u 智能化/v 是/v AI/n 应用/v 的/u 主要方/n 向/p ，/w 在/d 更/d 远/a 的/u 将来/t ，/w 随着/p 技术/n 的/u 进一步/d 突破/v ，/w 通用/v 领域/n 的/u 智能化/v 有望/v 实现/v 。/w 无论/c 是/v 专用/v 还是/c 通用/v 领域/n ，/w 人工智能/n 都/d 将/d 围绕/v “/w 基础/n 资源/n 支持/v －/w AI/n 技术/n －/w AI/n 应用/v ”/w 这/r 三/m 层/n 基本/a 架构/n 形成/v 生态圈/n 。/w
+
+
+
+在/d 专用/v 领域/n 的/u 智能化/v 阶段/n ，/w 有/v 能力/n 的/u 企业/n 都/d 希望/n 打通/v 三/m 层/n 架构/n 。/w 他们/r 有的/r 将/d 从/p 上/f 往/p 下/f 延伸/v ，/w 如/c 苹果/n 、/w 海康威视/nt 、/w 小米/n 等/ng 智能/n 硬件/n 企业/n ；/w 有的/r 试图/v 从/p 下/f 往/p 上/f 拓展/v ，/w 如/c 百度/nt 、/w 谷歌/nt 、/w IBM/nq 等/ng 互联网/n 和/c IT/n 的/u 巨头/n ，/w 以及/c 科大讯飞/nt 、/w 格/n 灵/a 深/a 瞳/ng 等/ng AI/n 技术/n 新贵/n 。/w 产业/n 格局/n 更多/n 地表/n 现出/v “/w 竞争/v ”/w 而/c 非/d “/w 合作/v ”/w ，/w 整个/b 行业/n 依然/d 处于/v 野蛮/a 生长/v 的/u 初期/t 阶段/n 。/w 我们/r 认为/v ，/w 该/r 阶段/n 最/d 值得/v 投资/n 的/u 是/v 已经/d 具备/v 先发/nz 优势/n 的/u AI/n 企业/n ，/w 无论/c 他/r 目前/t 处于/v 哪/r 一/m 层/n 都/d 可以/a 。/w
+
+
+
+在/d 未来/t 通用/v 智能/n 时代/n ，/w 除了/p 自然语言/n 处理/v 、/w 计算机/np 视觉/n 等/ng AI/n 技术/n 在/d 某些/r 领域/n 的/u 直接/a 应用/v ，/w 人工智能/n 更/d 大/a 的/u 影响/v 在于/v 将/d 重塑/v 生活服务/n 、/w 医疗/n 、/w 零售/v 、/w 数字/n 营销/v 、/w 农业/n 、/w 工业/n 、/w 商业/n 等/ng 各行各业/ln ，/w 并将/nz 引发/v 新/a 一轮/nz IT/n 设备/n 投资/n 周期/n 。/w 智能化/v 的/u 大潮/n 即将/d 来/u 袭/ng ，/w 万亿/m 元/q 的/u 市场/ny 规模/n 值得/v 期待/v 。/w
+
+
+
+我们/r 从/p 两个/n 维度/n 选取/v 人工智能/n 产业/n 的/u A股/n 投资/n 标的/n ：/w 首先/c 是/v 直接/a 提供/v AI/n 技术/n 或/c 有关/v 设备/n 的/u 公司/nc ，/w 然后/c 是/v 利用/v AI/n 技术/n 为/p 不同/a 行业/n 提供/v 解决方案/n 的/u 公司/nc 。/w
+
+
+
+1./m 新技术/n 革命/a 登场/v ，/w IT/n 发展/v 焦点/n 将/d 从/p 互联网/n 转向/v 人工智能/n
+
+
+
+发轫/v 于/ng 2007年/t 的/u 移动互联网/ln 浪潮/n 已经/d 席卷/v 全球/n ，/w 极大/a 地/n 改变/v 了/dg 我们/r 的/u 生存/v 状态/n 。/w 然而/c ，/w 就/d 在/d 资本/n 市场/ny 热切/a 地/n 期待/v 移动互联网/ln 催生/v 出/q 更多/n 新/a 应用服务/n 、/w 更多/n 新/a 商业/n 模式/n 的/u 时候/n ，/w 由/p 技术/n 水平/n 不足/a 导致/v 的/u 发展/v 瓶颈/n 已然/d 出现/v 。/w 与此同时/ldm ，/w 为/p 突破/v 上述/b 瓶颈/n ，/w 新/a 一轮/nz 更/d 激动人心/la 、/w 更/d 值得/v 期待/v 的/u 技术/n 革命/a 风暴/n 已经/d 诞生/v ，/w 将/d 成为/v 未来/t 10/m 年/n 乃至/c 更/d 长时/nz 间/f 内/f IT产业/n 发展/v 的/u 焦点/n ，/w 将/d 再次/d 并/c 更加/d 彻底/a 地/n 颠覆/v 世界/n 。/w 这/r 一轮/nz 技术/n 革命/a 风暴/n ，/w 它/r 的/u 名字/n 叫做/v “/w 人工智能/n ”/w （/w ArtificialIntelligence/en ，/w 以下简称/n AI/n ）/w 。/w
+
+
+
+1.1/m  /0 基于/p 互联网/n 的/u 应用服务/n 发展/v 已/d 遭遇/n 技术/n 瓶颈/n ，/w AI/n 将/d 成开锁/nr 金钥匙/n
+
+
+
+基于/p PC/n 的/u 互联网/n 、/w 基于/p 手机/np 和平/a 板/a 电脑/np 的/u 移动互联网/ln 以及/c 基于/p 各种/r 其他/r 设备/n 的/u 物联网/n ，/w 其/r 本质/n 是/v 解决/v 了/dg “/w 连接/v ”/w 问题/n ：/w 连接/v 人/n 与/c 人/n 、/w 人/n 与/c 物/ng 以及/c 物/ng 与/c 物/ng ，/w 并且/c 在/d 连接/v 的/u 基础/n 上/f 创造/n 出新/v 的/u 商业/n 模式/n 。/w 以/p 国内/s BAT/en 三/m 巨头/n 为/p 例/n ，/w 百度/nt 完成/v 的/u 是/v 人/n 与/c 信息/n 的/u 对接/v ，/w 商业/n 模式/n 以/p 网络/n 广告/n 为主/v ；/w 阿里/ns 解决/v 的/u 是/v 人/n 与/c 商品/n 的/u 对接/v ，/w 电商/n 是/v 其/r 商业/n 模式/n ；/w 腾讯/nt 则/c 实现/v 了/dg 人/n 与/c 人/n 的/u 对接/v ，/w 依靠/n 强大/a 的/u 免费/v 社交/n 软件/n 吸引/v 庞大/a 的/u 用户/n 群/n ，/w 在/d 此/r 基础/n 上/f 利用/v 增值/v 业务/n 和/c 游戏/n 来/u 实现/v 货币化/v 。/w
+
+
+
+
+
+
+
+尽管/c 互联网/n 的/u 普及/a 打造/v 了/dg 包括/v 谷歌/nt 、/w 亚马逊/nr 、/w 百度/nt 、/w 阿里/ns 、/w 腾讯/nt 、/w 京东/ns 等/ng 一/m 批/q 巨头/n 以及/c 数量/n 更为/d 庞大/a 的/u 中小企业/n ，/w 基于/p 网络/n 的/u 创新/v 应用/v 和服/n 务/dg 类型/n 也/d 多种多样/la ，/w 但/c 技术/n 瓶颈/n 的/u 制约/v 已经/d 越来越/d 明显/a ：/w 生活/n 方面/n 需求/n 痛点/n 的/u 解决/v 、/w 生产/v 领域/n 具有/v 适应性/n 和资源/nr 效率/n 的/u 智慧/n 工厂/nc 的/u 建立/v 、/w 物流/n 体系/n 中/f 更加/d 方便快捷/l 的/u 配送/v 方式/n 建设/v 等/ng 问题/n ，/w 都/d 面临/v 智能化/v 程度/n 不足/a 带来/v 的/u 障碍/n 。/w 只有/c 人工智能/n 才能/v 为/p “/w 万物/n 互联/v ”/w 之后/f 的/u 应用/v 问题/n 提供/v 最/d 完美/a 的/u 解决方案/n 。/w
+
+
+
+人工智能/n 的/u 价值/n 如此/r 重要/a ，/w 以至于/c 我们/r 可以/a 毫不夸张/n 地/n 说/ag ，/w 它/r 将/d 成为/v IT/n 领域/n 最重/a 要/v 的/u 技术/n 革命/a ，/w 目前/t 市场/ny 关心/v 的/u IT/n 和/c 互联网/n 领域/n 的/u 几乎/d 所有主/n 题/n 和/c 热点/n （/w 智能/n 硬件/n 、/w O2O/n 、/w 机器人/n 、/w 无人机/np 、/w 工业4.0/ln ）/w ，/w 发展/v 突破/v 的/u 关键/a 环节/n 都/d 是/v 人工智能/n 。/w
+
+
+
+
+
+
+
+下面/f 我们/r 将/d 通过/p 一些/mq 例子/n 和/c 应用/v 场景/n 来/u 更/d 形象/a 具体/a 地/n 展示/v 上述/b 瓶颈/n 以及/c AI/n 的/u 重要性/n 。/w
+
+
+
+1.1./m 1/m 智能/n 冰箱/np 还/d 不能/v 告诉/v 我们/r 做/v 什么/r
+
+
+
+由于/c 生活/n 节奏/n 加快/v 人们/n 的/u 空闲/n 时间/n 大为/d 减少/v ，/w 做/v 家务/n 的/u 时间/n 日益/d 显得/v 不足/a ，/w 我们/r 需要/n 一/m 款/n 聪明/a 的/u 冰箱/np ，/w 让/v 冰箱/np 告诉/v 我们/r 做/v 什么/r 。/w 来自/v 奥/ag 维/jns 咨询/v 的/u 《/w 中国/ns 家用/b 冰箱/np 食品/np 浪费/v 调查报告/n 》/w 显示/v ，/w “/w 每个/r 家庭/n 平均/a 每年/t 发生/v 176/m 次/a 食物/n 浪费/v 现象/n 。/w 70%/m 受访者/n 表示/v ，/w 造成/v 浪费/v 的/u 主要/b 原因/n 是/v 一次/mq 购买/v 太/ag 多/a 和/c 放入/v 冰箱/np 后/f 忘记/v 。/w 智能/n 冰箱/np 的/u 出现/v ，/w 不仅/c 可以/a 自行/b “/w 清理/v 门户/n ”/w ，/w 采购/v 新鲜/a 食品/np ，/w 还/d 能/ng 统筹/v 安排/v ，/w 减少/v 食材/n 浪费/v ，/w 制作/v 个性化/v 食谱/n 。/w 它/r 会/n 根据/n 食材/n 新鲜/a 与否/u ，/w 把/p 不/d 新鲜/a 的/u 食材/n 调动/v 到/ng 距离/n 冰箱门/n 最近/t 的/u 地方/n ，/w 提醒/v 主人/n “/w 它/r 该/r 吃/v 了/dg ”/w 。/w 此外/c ，/w 智能/n 冰箱/np 能/ng 对/a 用户/n 的/u 膳食/n 合理性/n 进行/v 分析/v ，/w 制作/v 菜谱/n 。/w 同时/c 提示/v 需要/n 补充/v 的/u 食材/n ，/w 如果/c 与/c 生鲜/b 电商/n 联网/v 的话/u ，/w 可以/a 自动/b 选择/n 送货上门/lv ，/w 直接/a 实现/v 食物/n 的/u 配送/v 发货/v 收获/n 自动化/v 和/c 智能化/v 。/w 2014年/t 美菱/nz 率先/d 推出/v 全球/n 首/m 台/n 云图/n 像/n 识别/v 智能/n 冰箱/np ChiQ/en ，/w 突破/v 全球/n 智能/n 冰箱/np 技术/n 门槛/n ，/w 该/r 冰箱/np 具备/v 变频/v 功能/n ，/w 可以/a 用语/n 音/n 搜索/n 、/w 自动/b 推荐/v 等/ng 多种/a 方式/n 进行/v 食谱/n 推荐/v ，/w 并/c 实现/v 手机/np 的/u 远程/b 查看/v 和/c 控制/v 。/w
+
+
+
+智能/n 冰箱/np 功能/n 法/k 的/u 升级/v ，/w 提升/v 用户/n 体验/v 和/c 价值/n ，/w 背后/f 的/u 最大/a 核心/n 是/v 自动识别/n 技术/n 的/u 突破/v 。/w 图像/n 识别/v 技术/n 通过/p 图像/n 采集/v 系统/a 得到/v 食材/n 图片/n ，/w 运用/v 图像/n 识别/v 算法/n ，/w 转化/v 成/ng 食品/np 的/u 信息/n 列表/v 。/w 而/c 通过/p 图像/n 识别/v 技术/n ，/w 判断/n 食材/n 的/u 种类/n 是/v 实现/v 冰箱/np 智能化/v 的/u 拐点/n 。/w
+
+
+
+可见/c ，/w 不是/n 用户/n 对/a 智能家居/n 的/u 需求/n 不/d 存在/v ，/w 而是/n 现有/v 的/u 技术/n 无法/v 支撑/v 家居/n 的/u 智能化/v ，/w 这个/r 瓶颈/n 无法/v 突破/v ，/w 智能家居/n 永远/b 是/v 纸上谈兵/iv 。/w 那么/c ，/w 解决/v 这个/r 问题/n 的/u 钥匙/n 在/d 哪里/r ？/w 人工智能/n 技术/n 的/u 突破/v ：/w 图像/n 识别/v 背后/f 的/u 底层/n 技术/n 就/d 来自/v 于/ng 人工智能/n 的/u 算法/n 和/c 应用/v ！/w
+
+
+
+1.1./m 2/m O2O/n 尚未/d 实现/v 生活服务/n 智能化/v
+
+
+
+试想/v 这样/r 一个/mq 场景/n ，/w 你/r 想/v 选择/n 一个/mq 地方/n 和/c 朋友/n 吃饭/v ，/w 首先/c 你/r 会/n 打开/v 一个/mq 应用/v ，/w 在/d 这个/r 过程/n 中/f 它/r 会/n 自动/b 确定/a 你/r 所在/n 的/u 位置/n ，/w 然后/c 你/r 通过/p 语音/n 开始/v 向/p 其/r 发出/v 请求/n “/w 我/r 想/v 在/d 这/r 附近/s 找/v 一家/n 中式/b 餐厅/ny ，/w 下午/t 将要/d 与/c 朋友/n 一起/d 就餐/v ，/w 消费/v 价格适中/n 。/w ”/w 应用/v 根据/n 你/r 发出/v 的/u 请求/n 及/c 过往/v 的/u 生活/n 习惯/n 为/p 你/r 寻找/v 到/ng 数十/m 家/k 备选/v 方案/n 优选/v 列表/v ，/w 然后/c 你/r 可以/a 根据/n 兴趣/n 与/c 爱好/n 选择/n 直接/a 确定/a 方案/n ，/w 或者/c 实时/d 打开/v 查看/v 各家/r 的/u 类型/n 、/w 折扣/n 、/w 评分/n 、/w 环境/n 、/w 位置/n 、/w 菜品/n 、/w 用户/n 评价/n 等/ng 综合/v 信息/n 并进/v 行/a 筛选/v ，/w 这些/r 信息/n 综合/v 在/d 一起/d 形成/v 了/dg 你/r 对/a 某/r 家/k 餐厅/ny 的/u 判断/n 和/c 最终/d 的/u 决策/n 。/w 这时/r 你/r 可以/a 就/d 一些/mq 问题/n 与/c 餐厅/ny 的/u 服务/v 人员/n 进行/v 实时/d 的/u 沟通/v ，/w 然后/c 交付/v 押金/n 轻松/a 的/u 进行/v 预订/v 。/w 预订/v 好/a 了/dg 餐厅/ny 之后/f ，/w 通过/p 语音/n 控制/v ，/w 你/r 可以/a 将/d 信息/n 转发/v 给/v 朋友/n 。/w 当/ag 你/r 到/ng 了/dg 该/r 出发/v 赴约/v 的/u 时候/n ，/w 这个/r 应用/v 开始/v 提醒/v 你/r ，/w 并/c 可以/a 选择/n 是否/v 开启/v 地图/n 语音/n 导航/v 模式/n ，/w 为/p 你/r 提供/v 位置/n 和/c 路线/n 服务/v 。/w 从/p 本质/n 上/f 说/ag ，/w 消费者/n 和/c 商户/n 存在/v 各自/r 信息/n 获取/v 不对/a 称/ag 的/u 问题/n ，/w 而/c O2O/n 在于/v 把/p 服务业/n 互联网化/v ，/w 将/d 商户/n 与/c 消费者/n 之间/f 连接/v 的/u 更好/d ，/w 让/v 信息/n 不对/a 称/ag 的/u 问题/n 都/d 能/ng 解决/v ，/w 这不/l 仅能/nz 够/d 帮助/v 商户/n ，/w 也/d 能够/v 帮助/v 消费者/n 。/w 消费者/n 对/a O2O/n 的/u 最大/a 诉求/n 主要/b 是在/n 前端/f 信息/n 的/u 检索/v 和/c 获取/v ，/w 而/c 商家/n 的/u 目的/n 在于/v 持续/v 获取/v 消费者/n ，/w 这/r 主要/b 通过/p 前端/f 提供/v 消费者/n 信息/n 影响/v 其/r 购买/v 决策/n ，/w 并/c 通过/p 后期/t 客户管理/n 增强/v 与/c 用户/n 关系/n 。/w
+
+
+
+互联网/n 的/u O2O/n 商业/n 模式/n 气势汹汹/ia 的/u 颠覆/v 传统/a 行业/n ，/w 似乎/d 发展/v 到/ng 现在/t 好像/d 开始/v 止步不前/l 了/dg 。/w 目前/t 点评/v 网站/nc 、/w 地图/n 导航/v 、/w 预定/v 网站/nc 、/w 优惠券/n 网站/nc 等/ng 很/d 好/a 地/n 满足/a 了/dg 消费者/n 信息/n 获取/v 来源/n ，/w 但/c 移动/v 搜索引擎/n 却/d 未能/v 很/d 好/a 满足/a 消费者/n 检索/v 的/u 需求/n ，/w 使/ng 他们/r 可以/a 方便/a 地/n 查找/v 餐厅/ny 以及/c 优惠/a 地/n 享受/v 服务/v 。/w 综合/v 来看/u ，/w 未来/t 的/u O2O/n 会/n 是/v 一个/mq 融合/v 线下/n 信息/n 聚合/v 、/w 语音/n 识别/v 、/w 自然语言/n 解析/v 、/w 搜索引擎/n 、/w 点评/v 信息/n 聚合/v 、/w 预订服务/n 、/w 地图/n 导航/v 、/w NFC/n 、/w CRM/n 、/w 语音/n 以及/c 实时/d 沟通/v 等/ng 功能/n 为/p 一体/n 的/u 基于/p 位置/n 的/u 服务平台/n 。/w 然而/c ，/w 至今/d 仍然/d 悬而未决/iv 的/u 技术/n 瓶颈/n 是/v ：/w 自然语言/n 的/u 解析/v 。/w 如何/r 通过/p 对/a 用户/n 的/u 自然语言/n （/w 文本/n +/0 语音/n ）/w 等/ng 数据/n ，/w 结合/v 知识/n 图谱/n ，/w 推理/v 出/q 用户/n 的/u 需求/n 并/c 精准/a 的/u 推送/vn 用户/n 所/n 需/ng 的/u 本地化/v 生活服务/n ？/w 这/r 扇/n 大门/n 的/u 钥匙/n 也/d 是在/n 人工智能/n 技术/n 的/u 突破/v ！/w
+
+
+
+1.1./m 3/m 无人机/np 尚/ag 不能/v 自主/v 飞行/v
+
+
+
+目前/t 无人机/np 虽然/c 在/d 军事/n 和/c 民用/b 领域/n 都/d 得到/v 了/dg 应用/v ，/w 但/c 其/r 智能化/v 程度/n 还/d 远远/d 不够/a ，/w 仍然/d 需要/n 人/n 遥控/v 操纵/v ，/w 尚未/d 实现/v 自主/v 飞行/v 。/w
+
+
+
+设想/v 一下/d 你/r 打开/v 家里/s 的/u 窗子/n ，/w 一/m 架/ng 无人机/np 恰巧/d 停/v 在/d 窗外/s ，/w 你/r 从/p 无人机/np 上/f 取/v 下/f 自己/r 购买/v 的/u 物品/n ，/w 然后/c 拿出手/n 机/np 确认/v 收到/v ，/w 无人机/np 才/d 缓缓/d 飞/bg 走/v ，/w 去/v 寻找/v 下/f 一个/mq 客户/n 。/w 或者/c ，/w 下午/t 你/r 要/v 去/v 某/r 咖啡馆/ny 与/c 客户/n 交流/v ，/w 恰巧/d 有/v 一个/mq 快递/n 要/v 送来/v 。/w 你/r 提前/v 通知/n 快递公司/lnc ，/w 让/v 无人机/np 指挥中心/lnc 更改/v 送货/v 路线/n ，/w 通知/n 无人机/np 将/d 快递/n 送到/v 咖啡馆/ny 。/w 物流/n 体系/n 使用/v 无人机/np 取代/v 人工/b ，/w 实现/v 货物/n 派送/v 的/u 设想/v 一旦/d 实现/v ，/w 将/d 大大/a 提高/v 配送/v 效率/n ，/w 减少/v 人力/n 、/w 运力/n 成本/n ，/w 可以/a 说/ag 承载/v 了/dg 人们/n 对于/p 未来/t 物流/n 的/u 梦想/n 。/w 但/c 这/r 一/m 梦想/n 如果/c 要得/v 以/p 实现/v ，/w 必须/d 要/v 使/ng 无人机/np 具备/v 感知/v 和/c 规划/n 的/u 智能/n 。/w
+
+
+
+低空/s 以及/c 在建/v 筑/jns 物/ng 内部/f 飞行/v 会/n 遭遇/n 很多/mq 的/u 障碍物/n ，/w 即使/c 预先/d 设定/v 飞行/v 线路/n ，/w 也/d 无法/v 避免/v 临时/b 出现/v 的/u 障碍/n （/w 比如/v 写字楼/n 里/f 突然/a 关上/v 的/u 门/n ）/w ，/w 这/r 就/d 需要/n 无人机/np 具备/v 视觉/n 功能/n 、/w 不确定性/ln 环境/n 下/f 的/u 路线/n 规划/n 以及/c 行动/v 能力/n 。/w 此外/c ，/w 为/p 保证/v 准确/a 投递/v ，/w 无人机/np 或许/d 还要/v 具备/v 人脸识别/lv 的/u 能力/n ，/w 可以通过/n 预先/d 发送/v 的/u 照片/n 识别/v 出/q 收货人/n 。/w 这些/r 感知/v 、/w 规划/n 和/c 行动/v 能力/n 都/d 属于/v 人工智能/n 技术/n 。/w
+
+
+
+1.1./m 4/m 智能化/v 是/v 工业4.0/ln 之/u 魂/n
+
+
+
+第一次/n 工业革命/ln 是/v 随着/p 蒸汽机/np 驱动/v 的/u 机械制造/n 设备/n 的/u 出现/v ；/w 第二/m 次/a 工业革命/ln 是/v 基于/p 劳动/v 分工/v 的/u ，/w 电力/n 驱动/v 的/u 大规模/b 生产/v ；/w 第三/m 次/a 工业革命/ln 是/v 用电/v 子/k 和/c IT技术/n 实现/v 制造/v 流程/n 的/u 进一步/d 自动化/v ；/w 而/c 如今/t ，/w 第四/m 次/a 工业革命/ln 正在/n 来临/v ！/w
+
+
+
+“/w 工业4.0/ln ”/w ，/w 是/v 一个/mq 德国政府/nt 提出/v 的/u 高科技/n 战略/n 计划/n 。/w 这个/r 概念/n 包含/v 了/dg 由/p 集中式/b 控制/v 向/p 分散式/b 增强型/n 控制/v 的/u 基本/a 模式/n 转变/v ，/w 目标/n 是/v 建立/v 一个/mq 高度/b 灵活/a 的/u 个性化/v 和数/n 字/n 化/k 的/u 产品/n 与/c 服务/v 的/u 生产/v 模式/n 。/w 在/d 这种/r 模式/n 中/f ，/w 传统/a 的/u 行业/n 界限/n 将/d 消失/v ，/w 并/c 会/n 产生/v 各种/r 新/a 的/u 活动/n 领域/n 和合/v 作/ng 形式/n 。/w 创造/n 新/a 价值/n 的/u 过程/n 正在/n 发生/v 改变/v ，/w 产业链/n 分工/v 将/d 被/ng 重组/v 。/w
+
+
+
+从/p 以上/f 的/u 描述/v 中/f 不难/d 看出/v ，/w 工业4.0/ln 对/a 智能化/v 的/u 要求/n 涵盖/v 更/d 广/a ，/w 涉及/v 机器/np 感知/v 、/w 规划/n 、/w 决策/n 以及/c 人机交互/lv 等/ng 方面/n ，/w 而/c 这些/r 领域/n 都/d 是/v 人工智能/n 技术/n 的/u 重点/d 研究方向/n 。/w
+
+
+
+2./m 人工智能/n 技术/n “/w 奇点/n ”/w 到来/v
+
+
+
+在/d 宇宙/n 大/a 爆炸/v 理论/n 中/f ，/w “/w 奇点/n ”/w 是/v 指/ng 由/p 爆炸/v 而/c 形成/v 宇宙/n 的/u 那/c 一点/mq ，/w 即/c 宇宙/n 从无到有/lv 的/u 起点/n 。/w 而/c 在/d 美国/ns 着/n 名/n 科学家/n 雷·库/nr 兹/ng 韦尔/n （/w Ray/en ·/w Kurzweil/en ：/w 发明/n 了/dg 盲人/n 阅读机/n 、/w 音乐/n 合成器/n 和/c 语音/n 识别/v 系统/a ；/w 获/v 9/m 项/ng 名誉/n 博士/nx 学位/n ，/w 2/m 次/a 总统/nx 荣誉奖/n ；/w 着/n 有/v 畅销/a 作品/n 《/w 奇点/n 临近/v 》/w ，/w 现任/b 奇点/n 大学/nc 校长/nx ）/w 的/u 理论/n 中/f ，/w “/w 奇点/n ”/w 是/v 指/ng 电脑/np 智能/n 与/c 人脑/n 智能/n 相互/b 融合/v 的/u 那个/r 美妙/a 时刻/d 。/w 我们/r 认为/v ，/w 这个/r 美妙/a 时刻/d 正在/n 到来/v 。/w
+
+
+
+2.1/m  /0 什么/r 是/v 人工智能/n ：/w 从/p “/w smart/n ”/w 到/ng “/w intelligent/en ”/w
+
+
+
+目前/t 市场/ny 上/f 所谓/b “/w 智能/n ”/w 的/u 设备/n 或/c 概念/n 很多/mq ，/w 从/p 智能/n 手机/np 到/ng 智能家居/n 等/ng ，/w 但/c 这些/r “/w 智能/n ”/w 实际上/d 是/v “/w smart/n ”/w 的/u 含义/n ，/w 即/c 灵巧/a ；/w 真正/b 意义/n 上/f 的/u 智能/n 应该/v 是/v “/w intelligent/en ”/w 的/u 含义/n 。/w
+
+
+
+“/w 人工智能/n ”/w 一/m 词/n 最初/t 是在/n 1956年/t 达特茅斯/nz 学会/nc 上/f 提出/v 的/u 。/w 从/p 学科/n 定义/n 上来/v 说/ag ，/w 人工智能/n （/w ArtificialIntelligence/en ）/w 是/v 研究/v 、/w 开发/v 用于/v 模拟/v 、/w 延伸/v 和/c 扩展/v 人/n 的/u 智能/n 的/u 理论/n 、/w 方法/n 、/w 技术/n 及/c 应用系统/n 的/u 一门/nz 新/a 的/u 技术科学/n 。/w 人工智能/n 是/v 计算机/np 科学/a 的/u 一个/mq 分支/n ，/w 它/r 企图/v 了解/v 智能/n 的/u 实质/n ，/w 并/c 生产/v 出/q 一/m 种/ng 新/a 的/u 能/ng 以/p 人类/n 智能/n 相似/a 的/u 方式/n 做出/v 反应/n 的/u 智能机/n 器/k 。/w
+
+
+
+人工智能/n 的/u 概念/n 和/c 定义/n 有/v 多种/a ，/w 下图/n 中/f 沿/p 两个/n 维度/n 排列/v 了/dg AI/n 的/u 8/m 种/ng 定义/n 。/w 顶部/f 的/u 定义/n 关注/v 思维/n 过程/n 和/c 推理/v ，/w 而/c 底部/f 的/u 定义/n 强调/v 行为/n 。/w 左侧/f 的/u 定义/n 根据/n 与/c 人类/n 表现/v 的/u 逼真度/n 来/u 衡量/v 成功/a 与否/u ，/w 而/c 右侧/f 的/u 定义/n 依靠/n 一个/mq 称为/v “/w 合理性/n ”/w （/w Rationality/en ）/w 的/u 理想/a 的/u 表现/v 量/n 来/u 衡量/v 。/w
+
+
+
+如果/c 从/p 比较/d 容易/a 理解/v 的/u 角度/n 来/u 概括/a 的话/u ，/w 人工智能/n 是/v 指/ng 计算机系/n 统/ng 具备/v 的/u 能力/n ，/w 该/r 能力/n 可以/a 履行/v 原本/d 只有/c 依靠/n 人类/n 智慧/n 才能/v 完成/v 的/u 复杂/a 任务/n 。/w
+
+
+
+
+
+
+
+人工智能/n 的/u 应用领域/n 主要/b 包含/v 以下/f 几/m 个/q 方面/n 的/u 内容/n ：/w
+
+
+
+自然语言/n 处理/v （/w 包括/v 语音/n 和/c 语义/n 识别/v 、/w 自动/b 翻译/n ）/w 、/w 计算机/np 视觉/n （/w 图像/n 识别/v ）/w 、/w 知识/n 表示/v 、/w 自动/b 推理/v （/w 包括/v 规划/n 和/c 决策/n ）/w 、/w 机器/np 学习/v 、/w 机器人学/n 。/w
+
+
+
+2.2/m  /0 人脑/n 的/u 精密/a 结构/n 难以/d 复制/v ，/w 人工智能/n 技术/n 曾/d 一度/d 受阻/v
+
+
+
+2.2./m 1/m 超大规模/b 并行/v 结构/n 使得/v 人脑/n 功能/n 强劲/a
+
+
+
+人类/n 的/u 大脑/n 中/f 有数/a 百/m 至上/a 千亿/m 个/q 神经细胞/ln （/w 神经元/n ）/w ，/w 而且/c 每个/r 神经元/n 都/d 通过/p 成千上万/ia 个/q “/w 突触/n ”/w 与其/c 他/r 神经元/n 相连/v ，/w 形成/v 超级/b 庞大/a 和/c 复杂/a 的/u 神经元/n 网络/n ，/w 以/p 分布/v 和/c 并发/v 的/u 方式/n 传导/v 信号/n ，/w 相当于/v 超大规模/b 的/u 并行/v 计算/v （/w Parallel/en
+
+
+
+Computing/en ）/w 。/w 因此/c 尽管/c 单个/b 神经元/n 传导/v 信号/n 的/u 速度/n 很/d 慢/a （/w 每秒/r 百米/mq 的/u 级别/n ，/w 远/a 低于/v 计算机/np 的/u CPU/np ）/w ，/w 但/c 这种/r 超大规模/b 的/u 并行/v 计算/v 结构/n 仍然/d 使得/v 人脑/n 远/a 超/h 计算机/np ，/w 成为/v 世界/n 上/f 到/ng 目前/t 为止/u 最强/a 大/a 的/u 信息处/n 理系统/n 。/w
+
+
+
+2.2./m 2/m 计算机/np 的/u 传统/a 结构/n 制约/v 人工智能/n 的/u 发展/v
+
+
+
+美籍/b 匈牙利/n 科学家/n 冯·诺/nr 依/ng 曼/ag （/w JohnVon/en ·/w Neumann/en ）/w 是/v 数字/n 计算机/np 之/u 父/ng ，/w 首先/c 提出/v 了/dg 计算机/np 体系结构/n 的/u 设想/v ，/w 目前/t 世界/n 上/f 绝大多数/n 计算机/np 都/d 采取/v 此种/r 结构/n ，/w 它/r 也/d 被/ng 称之为/v 冯·诺/nr 依/ng 曼/ag 体系结构/n 。/w 简单/a 来说/u ，/w 冯·诺/nr 依/ng 曼/ag 体系结构/n 的/u 基本/a 特征/n 有/v 以下/f 几点/t ：/w
+
+
+
+1/m 、/w 采用/v 存储/v 程序/n 方式/n ，/w 指令/n 和数/n 据/ng 不/d 加区/n 别/d 溷/ag 合/ng 存储/v 在/d 同一个/b 存储器/n 中/f ，/w 指令/n 和数/n 据/ng 都/d 可以/a 送到/v 运算器/np 进行/v 运算/v ，/w 即/c 由/p 指令/n 组成/v 的/u 程序/n 是/v 可以/a 修改/v 的/u 。/w
+
+
+
+2/m 、/w 存储器/n 是/v 按/p 地址/n 访问/v 的/u 线性/n 编/ng 址/ng 的/u 一维/b 结构/n ，/w 每个/r 单元/n 的/u 位数/n 是/v 固定/a 的/u 。/w
+
+
+
+3/m 、/w 指令/n 由/p 操作/v 码/ng 和/c 地址/n 组成/v 。/w 操作/v 码/ng 指明/v 本/d 指令/n 的/u 操作/v 类型/n ，/w 地址码/n 指明/v 操作数/n 和/c 地址/n 。/w 操作数/n 本身/r 无数/mq 据/ng 类型/n 的/u 标志/n ，/w 它/r 的/u 数据/n 类型/n 由/p 操作/v 码/ng 确定/a 。/w
+
+
+
+4/m 、/w 通过/p 执行/v 指令/n 直接/a 发出/v 控制/v 信号/n 控制/v 计算机/np 的/u 操作/v 。/w 指令/n 在/d 存储器/n 中/f 按/p 其/r 执行/v 顺序/d 存放/v ，/w 由/p 指令/n 计数器/n 指明/v 要/v 执行/v 的/u 指令/n 所在/n 的/u 单元/n 地址/n 。/w 指令/n 计数器/n 只有/c 一个/mq ，/w 一般/a 按/p 顺序/d 递增/v ，/w 但/c 执行/v 顺序/d 可/v 按/p 运算/v 结果/c 或/c 当时/t 的/u 外界/n 条件/n 而/c 改变/v 。/w
+
+
+
+5/m 、/w 以/p 运算器/np 为/p 中心/nc ，/w I/en //w O/n 设备/n 与/c 存储器/n 间/f 的/u 数据/n 传送/v 都/d 要/v 经过/p 运算器/np 。/w
+
+
+
+6/m 、/w 数据/n 以/p 二进制/n 表示/v 。/w
+
+
+
+
+
+
+
+人工智能/n 对/a 计算机/np 性能/n 的/u 要求/n 很/d 高/a ，/w 尤其/d 是在/n 非/d 数值/n 处理/v 应用领域/n 。/w 冯·诺/nr 依/ng 曼/ag 体系/n 的/u 串行/b 结构/n 和/c 人脑/n 庞大/a 复杂/a 的/u 并行/v 结构/n 相去甚远/lv ，/w 使得/v 现有/v 计算机系/n 统/ng 难以/d 迅速/a 有效/a 地处/v 理/n 复杂/a 的/u 感知/v 、/w 推理/v 、/w 决策/n 等/ng 问题/n 。/w 硬件/n 体系/n 能力/n 的/u 不足/a 加上/v 发展道路/n 上/f 曾经/d 出现/v 偏差/n （/w 希望/n 直接/a 在/d 通用型/nz 的/u 人工智能/n 方面/n 取得/v 突破/v ）/w ，/w 以及/c 算法/n 的/u 缺陷/n ，/w 使得/v 人工智能/n 技术/n 的/u 发展/v 在/d 上世纪/t 80/m 年代/n 末/f 到/ng 90/m 年代/n 曾经/d 一度/d 低迷/a 。/w
+
+
+
+2.3/m  /0 四大/j 催化剂/n 齐备/a ，/w 人工智能/n 发展/v 迎来/v 转折点/n
+
+
+
+近几年来/t ，/w 随着/p 技术/n 的/u 进步/a ，/w 人工智能/n 的/u 发展/v 出现/v 了/dg 显/v 着/n 的/u 复苏/v 趋势/n 。/w 我们/r 认为/v ，/w 下述/b 4/m 个/q 方面/n 的/u 原因/n 带来/v 了/dg 人工智能/n 发展/v 的/u 向上/v 拐点/n 。/w
+
+
+
+2.3.1/m  /0 云计算/n 使/ng 成本/n 低廉/a 的/u 大规模/b 并行/v 计算/v 得以/v 实现/v
+
+
+
+上文/n 中/f 提到/v ，/w 冯·诺/nr 依/ng 曼/ag 体系/n 的/u 串行/b 结构/n 使得/v 计算机/np 无法/v 满足/a 人工智能/n 对/a 硬件/n 的/u 要求/n ，/w 而/c 近年来/t 云计算/n 的/u 出现/v 至少/d 部分/n 解决/v 了/dg 这个/r 问题/n 。/w
+
+
+
+从/p 概念/n 上/f 讲/v ，/w 可/v 把/p 云计算/n 看成/v 是/v “/w 存储/v 云/n +/0 计算/v 云/n ”/w 的/u 有机/b 结合/v ，/w 即/c “/w 云计算/n =/0 存储/v 云/n +/0 计算/v 云/n ”/w 。/w 存储/v 云/n 的/u 基础/n 技术/n 是/v 分布/v 存储/v ，/w 而/c 计算/v 云/n 的/u 基础/n 技术/n 正是/v 并行/v 计算/v ：/w 将/d 大型/b 的/u 计算/v 任务/n 拆分/v ，/w 然后/c 再/d 派发/v 到/ng 云中/j 的/u 各个/r 节点/n 进行/v 分布式/b 的/u 计算/v ，/w 最终/d 再/d 将/d 结果/c 收集/v 后/f 统一/a 处理/v 。/w 大规模/b 并行/v 计算/v 能力/n 的/u 实现/v 使得/v 人工智能/n 往前/v 迈进/v 了/dg 一大/j 步/n 。/w
+
+
+
+云计算/n 的/u 实质/n 是/v 一/m 种/ng 基础/n 架构/n 管理/v 的/u 方法论/n ，/w 是/v 把/p 大量/mq 的/u 计算/v 资源/n 组成/v IT/n 资源/n 池/ng ，/w 用于/v 动态/n 创建/v 高度/b 虚拟化/v 的/u 资源/n 供用/nz 户/ng 使用/v 。/w 在/d 云计算/n 环境/n 下/f ，/w 所有/b 的/u 计算/v 资源/n 都/d 能够/v 动态/n 地/n 从/p 硬件/n 基础/n 架构/n 上/f 增减/v ，/w 以/p 适应/v 工作任务/n 的/u 需求/n 。/w 云计算/n 基础/n 架构/n 的/u 本质/n 是/v 通过/p 整合/v 、/w 共享/v 和/c 动态/n 的/u 硬件/n 设备供应/n 来/u 实现/v IT/n 投资/n 的/u 利用率/n 最大化/v ，/w 这/r 就/d 使得/v 使用/v 云计算/n 的/u 单位/n 成本/n 大大/a 降低/v ，/w 非常/b 有利于/v 人工智能/n 的/u 商业化/v 运营/v 。/w
+
+
+
+
+
+
+
+值得/v 特别/a 指出/v 的/u 是/v ，/w 近来/d 基于/p GPU/n （/w 图形处理/n 器/k ）/w 的/u 云计算/n 异军突起/iv ，/w 以远/f 超/h CPU/np 的/u 并行/v 计算/v 能力/n 获得/v 业界/n 瞩目/v 。/w
+
+
+
+CPU/np 和/c GPU/n 架构/n 差异/n 很大/a ，/w CPU/np 功能模块/n 很多/mq ，/w 能/ng 适应/v 复杂/a 运算/v 环境/n ；/w GPU/n 构成/n 则/c 相对/b 简单/a ，/w 目前/t 流/ng 处理器/n 和/c 显存/n 控制器/n 占据/v 了/dg 绝大部分/n 晶体管/n 。/w CPU/np 中大/j 部分/n 晶体管/n 主要/b 用于/v 构建/v 控制/v 电路/n （/w 比如/v 分支/n 预测/v 等/ng ）/w 和/c 高速/b 缓冲/v 存储器/n （/w Cache/en ）/w ，/w 只有/c 少部分/mq 的/u 晶体管/n 来/u 完成/v 实际/a 的/u 运算/v 工作/n ；/w 而/c GPU/n 的/u 控制/v 相对/b 简单/a ，/w 而且/c 对/a Cache/en 的/u 需求/n 小/a ，/w 所以/c 大部分/n 晶体管/n 可以/a 组成/v 各类/r 专用/v 电路/n 、/w 多条/n 流水线/n ，/w 使得/v GPU/n 的/u 计算/v 速度/n 有/v 了/dg 突破性/n 的/u 飞跃/v ，/w 拥有/v 了/dg 惊人/a 的/u 处理/v 浮点/n 运算/v 的/u 能力/n 。/w 现在/t CPU/np 的/u 技术/n 进步/a 正在/n 慢/a 于摩尔定/nr 律/ng ，/w 而/c GPU/n 的/u 运行/v 速度/n 已/d 超过/v 摩/n 尔/rg 定律/n ，/w 每/r 6/m 个/q 月/n 其/r 性能/n 加倍/d 。/w
+
+
+
+CPU/np 的/u 架构/n 是/v 有利于/v X86/n 指令/n 集/n 的/u 串行/b 架构/n ，/w 从设计/n 思路/n 上/f 适合/v 尽可能/d 快/a 的/u 完成/v 一个/mq 任务/n ；/w 对于/p GPU/n 来说/u ，/w 它/r 最初/t 的/u 任务/n 是在/n 屏幕/n 上/f 合成/v 显示/v 数百万/m 个/q 像素/n 的/u 图像/n ——/w 也就是/n 同时/c 拥有/v 几百万/mq 个/q 任务/n 需要/n 并行/v 处理/v ，/w 因此/c GPU/n 被/ng 设计/v 成可/nr 并行/v 处理/v 很多/mq 任务/n ，/w 天然/b 具备/v 了/dg 执行/v 大规模/b 并行/v 计算/v 的/u 优势/n 。/w
+
+
+
+现在/t 不仅/c 谷歌/nt 、/w Netflix/en 用/ng GPU/n 来/u 搭建/v 人工智能/n 的/u 神经网络/n ，/w Facebook/en 、/w Amazon/en 、/w Salesforce/en 都/d 拥有/v 了/dg 基于/p GPU/n 的/u 云计算/n 能力/n ，/w 国内/s 的/u 科大讯飞/nt 也/d 采用/v 了/dg GPU/n 集群/n 支持/v 自己/r 的/u 语音/n 识别/v 技术/n 。/w GPU/n 的/u 这/r 一/m 优势/n 被/ng 发现/v 后/f ，/w 迅速/a 承载/v 起/q 比/p 之前/f 的/u 图形处理/n 更/d 重要/a 的/u 使命/n ：/w 被/ng 用于/v 人工智能/n 的/u 神经网络/n ，/w 使得/v 神经网络/n 能/ng 容纳/v 上亿/m 个/q 节点/n 间/f 的/u 连接/v 。/w 传统/a 的/u CPU/np 集群/n 需要/n 数/m 周/q 才能/v 计算/v 出/q 拥有/v 1亿/m 节点/n 的/u 神经网/n 的/u 级联/v 可能性/n ，/w 而/c 一个/mq GPU/n 集群/n 在/d 一/m 天/n 内/f 就/d 可/v 完成/v 同一/b 任务/n ，/w 效率/n 得到/v 了/dg 极大/a 的/u 提升/v 。/w 另外/c ，/w GPU/n 随着/p 大规模/b 生产/v 带来/v 了/dg 价格/n 下降/v ，/w 使/ng 其/r 更/d 能/ng 得到/v 广泛/a 的/u 商业化/v 应用/v 。/w
+
+
+
+2.3./m 2/m 大数据/n 训练/v 可以/a 有效/a 提高/v 人工智能/n 水平/n
+
+
+
+机器/np 学习/v 是/v 人工智能/n 的/u 核心/n 和/c 基础/n ，/w 是/v 使/ng 计算机/np 具有/v 智能/n 的/u 根本/a 途径/n ，/w 其/r 应用/v 遍及/v 人工智能/n 的/u 各个/r 领域/n 。/w 该/r 领域/n 的/u 顶级/a 专家/n Alpaydin/en 先生/nm 如此/r 定义/n ：/w “/w 机器/np 学习/v 是/v 用/ng 数据/n 或/c 以往/t 的/u 经验/n ，/w 以此/d 优化/v 计算机程序/ln 的/u 性能/n 标准/a 。/w ”/w
+
+
+
+我们/r 已经/d 进入/v 到/ng 大数据/n 时代/n ，/w 来自/v 全球/n 的/u 海量/n 数据/n 为人/v 工智/nz 能/ng 的/u 发展/v 提供/v 了/dg 良好/a 的/u 条件/n 。/w
+
+
+
+
+
+
+
+根据/n IDC/n 的/u 监测/v 统计/v ，/w 2011年/t 全球/n 数据/n 总量/n 已经/d 达到/v 1.8/m ZB/en （/w 1/m ZB/en 等于/v 1万亿/m GB/n ，/w 1.8/m ZB/en 也/d 就/d 相当于/v 18亿/m 个/q 1/m TB/n 的/u 移动硬盘/n ，/w 人均/b 200/m GB/en ,/w 这些/r 信息/n 的/u 量/n 相当于/v 可以/a 填充/v 572亿/m 个/q 32/m GB/n 的/u iPad/en ）/w ，/w 而/c 这个/r 数值/n 还/d 在/d 以/p 每/r 两/m 年/n 翻/v 一番/mq 的/u 速度/n 增长/v ，/w 预计/v 到/ng 2020年/t 全球/n 将/d 总共/d 拥有/v 35/m ZB/en 的/u 数据/n 量/n ，/w 增长/v 近/a 20/m 倍/d 。/w
+
+
+
+2.3./m 3/m “/w 深度/n 学习/v ”/w 技术/n 的/u 出现/v
+
+
+
+“/w 深度/n 学习/v ”/w 是/v 机器/np 学习/v 研究/v 中/f 的/u 一个/mq 新/a 的/u 领域/n ，/w 它/r 模拟/v 人类/n 大脑神经/n 网络/n 的/u 工作/n 原理/n ，/w 将/d 输出/v 的/u 信号/n 通过/p 多层/n 处理/v ，/w 将/d 底层/n 特征/n 抽象/a 为/p 高层/n 类别/n ，/w 它/r 的/u 目标/n 是/v 更/d 有效率/n 、/w 更/d 精确/a 地处/v 理/n 信息/n 。/w 深度/n 学习/v 自/d 2006年/t 由/p Geoffrey/en
+
+
+
+Hinton/en 教授/nx 和/c 他/r 的/u 两个/n 学生/n 被/ng 提出/v 后/f ，/w 使得/v 机器/np 学习/v 有/v 了/dg 突破性/n 的/u 进展/v ，/w 极大/a 地/n 推动/v 了/dg 人工智能/n 水平/n 的/u 提升/v 。/w 2013年/t ，/w 《/w 麻省理工/nt 技术/n 评论/n 》/w 把/p 它/r 列入/v 年度/n 十大/j 技术/n 突破/v 之一/r 。/w
+
+
+
+
+
+
+
+人脑/n 具有一/n 个/q 深度/n 结构/n ，/w 认知/v 过程/n 是/v 逐步/d 进行/v ，/w 逐层/d 抽象/a 的/u ，/w 能够/v 层次化/v 地/n 组织/n 思想/n 和/c 概念/n 。/w 深度/n 学习/v 之所以/c 有如/v 此/r 大/a 的/u 作用/n ，/w 正是/v 因为/c 它/r 较/d 好/a 地/n 模拟/v 了/dg 人脑/n 这种/r “/w 分层/v ”/w 和/c “/w 抽象/a ”/w 的/u 认知/v 和/c 思考/v 方式/n 。/w
+
+
+
+深度/n 学习/v 的/u 实质/n ，/w 是/v 通过/p 构建/v 具有/v 很多/mq 隐/vg 层/n 的/u 机器/np 学习/v 模型/n 和/c 海量/n 的/u 训练/v 数据/n ，/w 来/u 学习/v 更/d 有用/a 的/u 特征/n ，/w 从而/c 最终/d 提升/v 分类/v 或/c 预测/v 的/u 准确性/n 。/w 因此/c ，/w “/w 深度/n 模型/n ”/w 是/v 手段/n ，/w “/w 特征/n 学习/v ”/w 是/v 目的/n 。/w 区别/n 于/ng 传统/a 的/u 浅层/b 学习/v ，/w 深度/n 学习/v 的/u 不同/a 在于/v ：/w 1/m ）/w 强调/v 了/dg 模型/n 结构/n 的/u 深度/n ，/w 通常/b 有/v 5/m 层/n 、/w 6/m 层/n ，/w 甚至/c 10/m 多层/n 的/u 隐/vg 层/n 节点/n ；/w 2/m ）/w 明确/a 突出/a 了/dg 特征/n 学习/v 的/u 重要性/n ，/w 也就是说/ldm ，/w 通过/p 逐层/d 特征/n 变换/v ，/w 将/d 样本/n 在/d 原/b 空间/n 的/u 特征/n 表示/v 变换/v 到/ng 一个/mq 新特/j 征/ng 空间/n ，/w 从而/c 使/ng 分类/v 或/c 预测/v 更加/d 容易/a 。/w 与/c 人工/b 规则/a 构造/n 特征/n 的/u 方法/n 相比/v ，/w 利用/v 大数据/n 来/u 学习/v 特征/n ，/w 更/d 能够/v 刻画/v 数据/n 的/u 丰富/a 内在/b 信息/n 。/w
+
+
+
+深度/n 学习/v 使得/v 人工智能/n 在/d 几/m 个/q 主要/b 领域/n 都/d 获得/v 了/dg 突破性/n 进展/v ：/w 在/d 语音/n 识别/v 领域/n ，/w 深度/n 学习/v 用/ng 深层/b 模型/n 替换/v 声学/n 模型/n 中/f 的/u 溷/ag 合/ng 高斯/nr 模型/n （/w Gaussian/en MixtureModel/en ，/w GMM/en ）/w ，/w 获得/v 了/dg 相对/b 30%/m 左右/f 的/u 错误率/n 降低/v ；/w 在/d 图像/n 识别/v 领域/n ，/w 通过/p 构造/n 深度/n 卷积/n 神经网络/n （/w CNN/n ）/w ，/w 将/d Top5/n 错误率/n 由/p 26%/m 大幅/a 降低/v 至/d 15%/m ，/w 又/d 通过/p 加大/v 加深/v 网络结构/ln ，/w 进一步/d 降低/v 到/ng 11%/m ；/w 在/d 自然语言/n 处理/v 领域/n ，/w 深度/n 学习/v 基本/a 获得/v 了/dg 与其/c 他方/n 法/k 水平/n 相当/d 的/u 结果/c ，/w 但/c 可以/a 免去/v 繁琐/a 的/u 特征/n 提取/v 步骤/n 。/w 可以/a 说/ag 到/ng 目前/t 为止/u ，/w 深度/n 学习/v 是/v 最/d 接近/v 人类/n 大脑/n 的/u 智能/n 学习方法/n 。/w
+
+
+
+深度/n 学习/v 引爆/v 了/dg 一/m 场/ng 革命/a ，/w 将/d 人工智能/n 带上/v 了/dg 一个/mq 新/a 的/u 台阶/n ，/w 将对/n 一大/j 批/q 产品/n 和服/n 务/dg 产生/v 深远/a 影响/v 。/w
+
+
+
+2.3./m 4/m “/w 人脑/n ”/w 芯片/n 将/d 从/p 另/d 一个/mq 方向/n 打开/v 人工智能/n 的/u 大门/n
+
+
+
+前面/f 提到/v 了/dg 现代/a 计算机/np 的/u 冯·诺/nr 依/ng 曼/ag 体系结构/n 阻碍/n 了/dg 大规模/b 并行/v 计算/v 的/u 实现/v ，/w 导致/v 人工智能/n 发展/v 受限/v 。/w 而今/t 天人/n 工智/nz 能/ng 发展/v 面临/v 突破/v ，/w 除了/p 上文/n 说/ag 的/u 云计算/n 、/w 大数据/n 、/w 深度/n 学习/v 三个/n 原因/n 之外/f ，/w 另外/c 一个/mq 方向/n 的/u 努力/a 也/d 是/v 不容忽视/lv 的/u ，/w 那/c 就是/n 彻底/a 改变/v 了/dg 冯·诺/nr 依/ng 曼/ag 体系结构/n 的/u “/w 人脑/n ”/w 芯片/n 。/w
+
+
+
+
+
+
+
+“/w 人脑/n ”/w 芯片/n ，/w 也/d 叫/v 神经/n 形态/n 芯片/n ，/w 是从/v 硬件/n 方向/n 对/a 人脑/n 物理/n 结构/n 的/u 模拟/v 。/w 这种/r 芯片/n 把/p 数字处理/n 器/k 当作/v 神经元/n ，/w 把/p 内存/n 作为/n 突触/n ，/w 跟/c 传统/a ·/w 冯诺/nz 依/ng 曼/ag 结构/n 不一/v 样/ng ，/w 它/r 的/u 内存/n 、/w CPU/np 和/c 通信部/n 件/ng 是/v 完全/a 集成/b 在/d 一起/d ，/w 因此/c 信息/n 的/u 处理/v 完全/a 在/d 本地/r 进行/v 。/w 而且/c 由于/c 本地/r 处理/v 的/u 数据/n 量/n 并/c 不大/n ，/w 传统/a 计算机/np 内存/n 与/c CPU/np 之间/f 的/u 瓶颈/n 不复存在/lv 了/dg 。/w 同时/c 神经元/n 之间/f 可以/a 方便快捷/l 地/n 相互/b 沟通/v ，/w 只要/c 接收/v 到/ng 其他/r 神经元/n 发/q 过来/v 的/u 脉冲/n （/w 动作/n 电位/n ）/w ，/w 这些/r 神经元/n 就/d 会同/v 时/n 做/v 动作/n 。/w
+
+
+
+3./m 人工智能/n 产业发展/n 加速/v 明显/a
+
+
+
+技术/n “/w 奇点/n ”/w 的/u 到来/v 使得/v 人工智能/n 发展/v 明显/a 加速/v ，/w 这/r 从/p 产业/n 层面/n 能够/v 得到/v 有力/a 的/u 佐证/n ：/w 我们/r 已经/d 能够/v 看到/v IT业/n 对/a 人工智能/n 的/u 投入/a 显/v 着/n 加大/v ，/w 新型/b 的/u 应用/v 或/c 产品/n 也/d 不断/d 问世/v 。/w
+
+
+
+3.1/m  /0 国际/n IT/n 巨头/n 频频/d 放/v “/w 大/a 招/ng ”/w
+
+
+
+IT/n 领域/n 的/u 国际/n 巨头/n 近年来/t 在/d 人工智能/n 领域/n 频频/d 发力/v ，/w 一方面/ldm 网罗/n 顶尖/n 人才/n ，/w 一方面/ldm 加大/v 投资/n 力度/n ，/w 这/r 也/d 昭示/v 着/n 人工智能/n 新/a 的/u 春天/t 已经/d 到来/v 。/w
+
+
+
+2013年3月/t ，/w 谷歌/nt 以/p 重金/n 收购/v DNNresearch/en 的/u 方式/n 请/v 到/ng 了/dg Geoffrey/en Hinton/en 教授/nx （/w 上文/n 提到/v 的/u 深度/n 学习/v 技术/n 的/u 发明者/n ）/w ；/w 2013年12月/t ，/w Facebook/en 成立/v 了/dg 人工智能/n 实验室/nc ，/w 聘请/v 了/dg 卷积/n 神经网络/n 最/d 负/b 盛名/n 的/u 研究者/n 、/w 纽约大学/nt 终身/n 教授/nx Yann/en LeCun/en 为/p 负责人/n ；/w 2014年5月/t ，/w 有/v “/w 谷歌/nt 大脑/n 之/u 父/ng ”/w 美称/n 的/u Andrew/en
+NG/n （/w 吴恩达/nr ）/w 加盟/v 百度/nt ，/w 担任/v 首席/b 科学家/n ，/w 负责/a 百度/nt 研究院/nc 的/u 领导/n 工作/n ，/w 尤其/d 是/v “/w 百度/nt 大脑/n ”/w 计划/n 。/w 这/r 几/m 位/q 人工智能/n 领域/n 泰斗/n 级/n 人物/n 的/u 加入/v ，/w 充分/a 展示/v 了/dg 这些/r 互联网/n 巨头/n 对/a 人工智能/n 领域/n 志在必得/lv 的/u 决心/d 。/w
+
+
+
+
+
+
+
+根据/n 量化/v 分析/v 公司/nc Quid/n 的/u 数据/n ，/w 自/d 2009年/t 以来/f ，/w 人工智能/n 已经/d 吸引/v 了/dg 超过/v 170亿/m 美元/n 的/u 投资/n 。/w 仅/d 去年/t 一/m 年/n ，/w 就/d 有/v 322/m 家/k 拥有/v 类似/a 人工智能/n 技术/n 的/u 公司/nc 获得/v 了/dg 超过/v 20亿/m 美元/n 的/u 投资/n 。/w 自/d 2013年/t 以来/f ，/w Yahoo/n 、/w Intel/n 、/w Dropbox/en 、/w LinkedIn/en 、/w Pinterest/en 以及/c Twitter/en 也/d 都/d 收购/v 了/dg 人工智能/n 公司/nc 。/w 过去/t 四/m 年间/n ，/w 人工智能/n 领域/n 的/u 民间/n 投资/n 以/p 平均/a 每年/t 62%/m 的/u 增长/v 速率/n 增加/v ，/w 这/r 一/m 速率/n 预计/v 还/d 会/n 持续/v 下去/v 。/w
+
+
+
+3.2/m  /0 新/a 的/u AI/n 应用/v 和/c 产品/n 屡/d 有/v 惊喜/a
+
+
+
+
+
+
+
+1/m 自然语言/n 处理/v （/w NLP/en ）/w
+
+
+
+微软/nt SkypeTranslator/en 同声传译/n
+
+
+
+Skype/en Translator/en
+
+
+
+是由/n Skype/n 和/c 微软/nt 机器翻译/ln 团队/n 联合/v 开发/v ，/w 整合/v 了/dg 微软/nt Skype/n 语音/n 和/c 聊天/v 技术/n 、/w 机器翻译/ln 技术/n 、/w 神经网络/n 语音/n 识别/v 打造/v 了/dg 一/m 款/n 面向/v 消费者/n 用户/n 的/u 产品/n ，/w 2014年5月/t 在/d 微软/nt Code/en 大会/nh 上/f 推出/v 。/w 两个/n 不同/a 语种/n 的/u 人/n 借助/v SkypeTranslator/en 可/v 实现/v 无障碍/b 交谈/v ，/w 当/ag 你/r 说出/v 一个/mq 完整/a 的/u 句子/n 后/f ，/w 系统/a 便/ag 会/n 开始/v 进行/v 记录/n 翻译/n ，/w 对方/n 即可/v 听到/v 翻译/n 后/f 的/u 句子/n ，/w 并/c 可通/nz 过/d 字幕/n 显示/v 在/d 屏幕/n 上/f 。/w 这个/r 实时/d 语音/n 翻译/n 系统/a 能够/v 识别/v 不同/a 用户/n 间/f 的/u 不同/a 语言/n 不同/a 口音/n 的/u 说话/v 方式/n 。/w
+
+
+
+目前/t ，/w Skype/en Translator/en 还/d 处在/v 早期/f 开发/v 阶段/n ，/w 但/c 这/r 一/m 实时/d 语音/n 翻译/n 功能/n 有/v 可能/a 帮助/v 改变/v 世界/n 未来/t 的/u 交流/v 方式/n 。/w 比如/v 在线教育/n ，/w 2014年12月/t ，/w 微软/nt 正式/a 推出/v 了/dg SkypeTranslator/en 预览/v 版/n ，/w 让/v 来自/v 美国/ns 和/c 墨西哥/ns 的/u 小学生/n 使用/v 各自/r 母语/n 就/d 能进/nz 行/a 语音/n 通话/v 。/w 它/r 可以/a 识别/v 美国/ns 小学生/n 的/u 英文/n 语句/n 并将/nz 其/r 翻译/n 为/p 西班牙语/nz ，/w 然后/c 以文/n 本/d 的/u 形式/n 呈献/v 给/v 墨西哥/ns 小学生/n ，/w 反之亦然/lv 。/w 微软/nt 计划/n 将/d Skype/en Translator/en 服务/v 推向/v 教育/n 领域/n ，/w 如此一来/l 全世界/n 各地/r 的/u 学生/n 都/d 能/ng 无障碍/b 聆听/v 任何/r 语言/n 的/u 课程/n ，/w 显然/a 这/r 对于/p 促进/v 全球/n 教育/n 进步/a 有着/v 非比寻常/la 的/u 意义/n 。/w
+
+
+
+2/m 计算机/np 视觉/n （/w CV/en ）/w
+
+
+
+（/w 1/m ）/w 格/n 灵/a 深/a 瞳/ng 的/u 智能/n 视频监控/n 系统/a
+
+
+
+在/d 安防/nz 领域/n ，/w 摄像头/n 已经/d 得到/v 大规模/b 的/u 使用/v ，/w 但/c 监控/v 的/u 有效性/n 依然/d 面临/v 两个/n 严峻/a 的/u 挑战/v ：/w
+
+
+
+1/m 、/w 摄像头/n 只能/v 起到/v 记录/n 功能/n ，/w 识别/v 还要/v 依靠/n 人眼/n ，/w 真正/b 能/ng 实时/d 监控/v 到/ng 的/u 场景/n 非常/b 有限/a ：/w 一个/mq 像机/n 场/ng 大小/n 的/u 公共场所/n ，/w 摄像头/n 的/u 数量/n 能够/v 达到/v 几万/mq 台/n ，/w 而/c 同一/b 时间/n 负责/a 监控/v 视频/n 的/u 安保/v 人员/n 大概/b 只有/c 几/m 个人/n ；/w 此外/c ，/w 视频监控/n 往往/d 都/d 采用/v 画面/n 轮/ng 播/v 机制/n ，/w 每/r 过/d 一定/b 时间/n 自动/b 切换/v 屏幕/n 上/f 显示/v 的/u 监控/v 视频/n 画面/n 。/w 所以/c ，/w 那些/r 真正/b 有/v 信息/n 价值/n 的/u 画面/n 被/ng 人/n 看到/v 、/w 注意/v 到/ng 的/u 几率/n 就/d 很小/d 。/w
+
+
+
+2/m 、/w 难以/d 有效/a 查询/v 历史/n 记录/n 。/w 据/ng 估计/v 全球/n 监控/v 视频/n 记录/n 的/u 存储/v 已经/d 消耗/v 了/dg 75%/m 的/u 硬盘/np 资源/n ，/w 以/p 某/r 广场/ny 为/p 例/n ，/w 每天/t 产生/v 的/u 监控/v 视频/n 数据/n ，/w 刻/ag 成/ng 光盘/n 摞/q 起来/v ，/w 甚至/c 超过/v 埃菲尔铁塔/nz 的/u 高度/b 。/w 要/v 在/d 如此/r 庞大/a 的/u 数据库/n 里/f 依靠/n 人眼/n 寻找/v 某个/r 特定/b 画面/n 或/c 犯罪嫌疑人/ln ，/w 需要/n 动用/v 大量/mq 的/u 人力资源/n ，/w 并且/c 效率/n 低下/a 。/w
+
+
+
+格/n 灵/a 深/a 瞳/ng 是/v 一家/n 专注/a 于/ng 开发/v 计算机/np 视觉/n 的/u 人工智能/n 公司/nc ，/w 致力于/v 让/v 计算机/np 像/n 人/n 一样/a 主动/a 获取/v 视觉/n 信息/n 并进/v 行/a 精确/a 的/u 实时/d 分析/v 。/w 公司/nc 成立/v 于/ng 2013年初/t ，/w 成立/v 不久/t 就/d 获得/v 真格/n 基金/nh 和联创策源/nr 的/u 天使/n 投资/n ，/w 并/c 于/ng 2014年6月/t 获得/v 红杉/n 资本/n 数千万/m 美元/n 的/u A/b 轮/ng 投资/n 。/w
+
+
+
+格/n 灵/a 深/a 瞳/ng 通过/p 研发/v 三维/b 视觉/n 感知/v 技术/n ，/w 实现/v 对/a 人物/n 的/u 精确/a 检测/v 、/w 跟踪/v ，/w 对/a 动作/n 姿态/n （/w 包括/v 暴力/n 、/w 跌倒/v 等/ng 危险/a 行为/n ）/w 和/c 人物/n 运动/n 轨迹/n （/w 包括/v 越界/v 、/w 逆行/v 、/w 徘徊/v 等/ng 可疑/a 轨迹/n ）/w 的/u 检测/v 和/c 分析/v 。/w 在/d 自动/b 场景/n 和/c 人物/n 检测/v 的/u 基础/n 上/f ，/w 自动/b 给/v 安保/v 人员/n 提供/v 预警/v 信号/n ，/w 主动/a 提醒/v 、/w 报告/n 异常/a ，/w 保障/v 安保/v 人员/n “/w 看/u 得到/v ”/w 。/w 同时/c ，/w 格/n 灵/a 深/a 瞳/ng 利用/v 感知/v 技术/n 抽象/a 出/q 人物/n 的/u 特征/n ，/w 从/p 非/d 时间/n 的/u 维度/n 进行/v 监测/v 、/w 跟踪/v 、/w 搜索/n ，/w 真正/b 做到/v “/w 找/v 得到/v ”/w 。/w
+
+
+
+目前/t 格/n 灵/a 深/a 瞳/ng 的/u 视频监控/n 系统/a 已经/d 在/d 对/a 安防/nz 要求/n 较/d 高/a 的/u 银行/nc 进行/v 应用/v 测试/v 。/w 如果/c 该/r 技术/n 投入/a 大规模/b 商业化/v 应用/v ，/w 将/d 有效/a 改善/v 上文/n 提到/v 的/u 现有/v 视频监控/n 的/u 缺陷/n ，/w 是/v 人工智能/n 改变/v 世界/n 迈出/v 的/u 非常/b 积极/a 的/u 一/m 步/n 。/w
+
+
+
+（/w 2/m ）/w Face/en +/0 +/0 的/u 人脸识别/lv 云/n 服务/v
+
+
+
+Face/en +/0 +/0 是/v 一个/mq 人脸识别/lv 云/n 服务平台/n ，/w 通过/p 它/r 提供/v 的/u 开放/a 服务/v ，/w 开发者/n 可以/a 低/a 成本/n 的/u 在/d 自己/r 的/u 产品/n 中实/nz 现/d 若干/mq 面部/n 识别/v 功能/n 。/w 开发者/n 和合/v 作/ng 方/a 通过/p Face/en +/0 +/0 提供/v 的/u API/n 接入/v 和/c 离/ng 线/n 引擎/n 就/d 可以/a 享受/v 现成/b 的/u 人脸/n 检测/v 、/w 分析/v 和/c 识别/v 等/ng 服务/v 。/w Face/en +/0 +/0 人脸识别/lv 技术/n 主要/b 有/v 以下/f 几/m 种/ng 基本功/n 能/ng ：/w
+
+
+
+1/m ）/w 人脸/n 检测/v ：/w 从/p 图片/n 中/f 快速/b 、/w 准确/a 的/u 找到/v 所有/b 的/u 或者/c 有/v 某些/r 特征/n 的/u 脸/n 。/w
+
+
+
+2/m ）/w 人脸/n 分析/v ：/w 通过/p 人脸/n ，/w 对/a 人/n 的/u 性别/n 、/w 年龄/n 、/w 情绪/n 的/u 信息/n 进行/v 提取/v 。/w
+
+
+
+3/m ）/w 人脸识别/lv ：/w 匹配/v 给定/v 人脸/n 的/u 相似性/n ，/w 或者/c 从/p 成万/nr 上亿/m 的/u 人脸/n 资料库/n 中搜/n 索/ag 、/w 返回/v 最/d 相似/a 的/u 人脸/n 索引/n 。/w
+
+
+
+Face/en +/0 +/0 为/p 美图/n 秀/ag 秀/ag 、/w 美颜/n 相机/np App/n 提供/v 诸如/v ：/w 人脸/n 检测/v 、/w 人脸/n 追踪/v 、/w 关键点/n 检测技术/n ，/w 可/v 精准/a 定位/n 人脸/n 中/f 需要/n 美化/v 的/u 位置/n ，/w 实现/v 精准/a 自动/b 人脸/n 美化/v ，/w 但/c 这些/r 仅/d 是/v 人脸识别/lv 的/u 初级阶段/n 。/w 此外/c 在/d 稍/d 高级/a 的/u 应用/v 阶段/n ——/w 搜索/n 领域/n ，/w Face/en +/0 +/0 所/n 做/v 的/u 人脸识别/lv 为/p 世纪佳缘/nt 提供/v 服务/v ，/w 用户/n 可/v 根据/n 自己/r 对/a 另/d 一半/m 长相/n 的/u 需求/n 去/v 搜索/n 相似/a 外貌/n 的/u 用户/n ，/w 当然/b 这个/r 搜索/n 需要/n 在/d 数据库/n 中进/nz 行/a ，/w 可以/a 是/v 世纪佳缘/nt 的/u 数据库/n 、/w 未来/t 可以/a 是/v 社交/n 网络/n 上/f 的/u 数据库/n 、/w 更/d 可以/a 是在/n 通用/v 搜索引擎/n 中/f 。/w 第二/m 个/q 是/v Face/en +/0 +/0 与/c 360/m 搜索/n 达成/v 了/dg 合作/v ，/w 在/d 360/m 的/u 图片搜索/n 中/f 使用/v 到/ng 相关/v 的/u 技术/n 。/w 而/c 在/d 另/d 一块/d 安全/a 领域/n ，/w Face/en +/0 +/0 推出/v 了/dg APP/n “/w 云/n 脸/n 应用/v 锁/n ”/w ，/w 扫描/v 一下/d 人脸/n 和/c 设置/v 一下/d 备用/v 密码/n ，/w 就/d 可以/a 将/d 需要/n 加密/v 的/u 应用/v 添加/v 到/ng 需要/n 保护/v 的/u 应用程序/n 中/f 。/w 这样/r 打开/v 加密/v 的/u 应用/v 时/n ，/w 就要/d 事先/d 经过/p 一个/mq 人脸识别/lv 的/u 监测/v ，/w 才能/v 成功/a 打开/v 此/r 应用/v 。/w 非常/b 适合/v 于/ng 图片/n 、/w 信息/n 、/w 支付/v 软件/n 等等/u 拥有/v 私密/a 信息/n 较/d 高/a 的/u 应用程序/n 当中/f 。/w
+
+
+
+3/m 知识/n 表示/v 、/w 规划/n 和/c 决策/n
+
+
+
+（/w 1/m ）/w Palantir/en ：/w CIA/n 的/u 反恐/v 秘密/a 武器/n
+
+
+
+大数据/n 挖掘/v 分析/v 公司/nc Palantir/en 成立/v 于/ng 2004年/t ，/w 该/r 平台/n 把/p 人工智能/n 算法/n 和/c 强大/a 的/u 引擎/n （/w 可以/a 同时/c 扫描/v 多个/n 数据库/n ）/w 整合/v ，/w 可以/a 同时/c 处理/v 大量/mq 数据库/n ，/w 并/c 允许/v 用户/n 通过/p 多种/a 方式/n 快速/b 浏览/v 相关/v 信息/n 。/w 其/r 产品/n 已/d 被/ng 美国中情局/nt （/w CIA/n ）/w 、/w 联邦调查局/nt （/w FBI/n ）/w 、/w 海陆空/n 三军/n 、/w 联邦/n 检察官/nx 、/w 私人/n 调查/n 机构/n 及其他/n 客户/n 所/n 使用/v 。/w 类似/a CIA/n 和/c FBI/n 这样/r 的/u 情报/n 机构/n 有成/v 千/m 上万/m 个数/n 据/ng 库/n ，/w 并/c 记录/n 着/n 不同/a 的/u 数据/n ，/w 比如/v 财务/n 数据/n 、/w DNA/n 样本/n 、/w 语音/n 资料/n 、/w 录像片/n 段/n 以及/c 世界各地/l 的/u 地图/n 。/w 将/d 这些/r 数据/n 建立/v 联系/v 需要/n 数年/nz 的/u 时间/n ，/w 即便/c 统一/a 在/d 一起/d ，/w 也/d 很/d 难/a 驾驭/v 不同/a 种类/n 的/u 数据/n ，/w 比如说/ldm 如何/r 关联/v 销售/v 数据/n 和/c 监控/v 录像/n 资料/n ，/w 而/c Palantir/en 公司/nc 所/n 做/v 的/u 就是/n 开发软件/n 使/ng 这/r 一切/r 变得/v 更/d 容易/a 。/w 同时/c ，/w Palantir/en 还/d 对/a 各种/r 安全/a 问题/n 高度/b 敏感/a 。/w Palantir/en 引发/v 了/dg 计算机/np 时代/n 的/u 一/m 场/ng 革命/a ，/w 它/r 梳理/v 所有/b 可以/a 获得/v 的/u 数据库/n ，/w 对/a 相关/v 信息/n 进行/v 确认/v ，/w 并/c 他们/r 整合/v 起来/v 。/w Palantir/en 成立/v 之/u 初就获/nr 的/u CIA/n 基金/nh 公司/nc In/en -/w Q/en -/w Tel/n 的/u 投资/n ，/w 现在/t 成为/v 了/dg 美国/ns 情报/n 机关/n 在/d 反恐/v 战争/n 不能/v 缺少/v 的/u 工具/n 。/w Palantir/en 有效/a 的/u 解决/v 了/dg 911/m 后/f 对/a 情报/n 工作/n 提出/v 的/u 技术/n 难题/n ：/w 如何/r 从/p 大量/mq 的/u 数据/n 中/f 快速/b 获取/v 有/v 价值/n 的/u 线索/n ，/w 可以/a 说是/n CIA/n 的/u 反恐/v 秘密/a 武器/n 。/w
+
+
+
+Palantir/en 公司/nc 相当/d 低调/a ，/w 但/c 非常/b 受/v 政府/nc 情报/n 机关/n 和/c 华尔街/ns 的/u 热捧/v 。/w 除了/p 反恐/v ，/w 其/r 关注/v 重点/d 也/d 开始/v 转向/v 医疗/n 、/w 零售/v 、/w 保险/a 和/c 生物科技/n ，/w 比如/v 利用/v Palantir/en 可以/a 侦查/v 医疗保险/n 诈骗/v 以及/c 发现/v 病毒/n 爆发/v 的/u 源头/n 。/w 现在/t ，/w Palantir/en 年收入/n 已/d 超过/v 10亿/m 美元/n ，/w 并且/c 每年/t 以/p 3/m 倍/d 的/u 速度/n 增长/v 。/w
+
+
+
+（/w 2/m ）/w IBM/en Watson/en ：/w 认知/v 能力/n 强劲/a 的/u 多面手/n
+
+
+
+Watson/en 由/p 90/m 台/n IBM/nq 服务器/n 、/w 360/m 个/q 计算机/np 芯片/n 驱动/v 组成/v ，/w 是/v 一个/mq 有/v 10/m 台/n 普通/a 冰箱/np 那么/c 大/a 的/u 计算机系/n 统/ng 。/w 它/r 拥有/v 15/m TB/n 内存/n 、/w 2880/m 个/q 处理器/n 、/w 每秒/r 可进/nz 行/a 80万亿/m 次/a 运算/v 。/w IBM/nq 为/p 沃/ag 森/ag 配置/n 的/u 处理器/n 是/v Power/en
+
+
+
+7/m 系列/n 处理器/n ，/w 这是/n 当前/t RISC/en （/w 精简/v 指令/n 集/n 计算机/np ）/w 架构/n 中/f 最强/a 的/u 处理器/n 。/w Watson/en 存储/v 了/dg 大量/mq 图书/n 、/w 新闻/n 和/c 电影剧本/ln 资料/n 、/w 辞海/n 、/w 文选/n 和/c 《/w 世界/n 图书/n 百科全书/n 》/w 等/ng 数百万/m 份/n 资料/n 。/w 每当/p 读完/v 问题/n 的/u 提示/v 后/f ，/w Watson/en 就/d 在/d 不到/v 三/m 秒钟/q 的/u 时间/n 里/f 对/a 自己/r 长达/v 2亿/m 页/ng 的/u 料/n 里/f 展开/v 搜索/n 。/w Watson/en 是/v 基于/p IBM/nq “/w DeepQA/en ”/w （/w 深度/n 开放/a 域/ng 问答/v 系统工程/ln ）/w 技术开发/n 的/u ，/w DeepQA/en 技术/n 可以/a 读取/v 数百万/m 页/ng 文本/n 数/m 据/ng ，/w 利用/v 深度/n 自然语言/n 处理/v 技术/n 产生/v 候选/b 答案/n ，/w 根据/n 诸多/mq 不同/a 尺度/n 评估/n 那些/r 问题/n 。/w IBM/nq 研发/v 团队/n 为/p Watson/en 开发/v 的/u 100/m 多套/n 算法/n 可以/a 在/d 3/m 秒/q 内/f 解析/v 问题/n ，/w 检索/v 数百万/m 条/ng 信息/n 然后/c 再/d 筛选/v 还原/v 成/ng “/w 答案/n ”/w 输出/v 成人/n 类/n 语言/n 。/w 每/r 一/m 种/ng 算法/n 都/d 有/v 其/r 专门/b 的/u 功能/n 。/w
+
+
+
+IBM公司/nt 自/d 2006年/t 开始/v 研发/v 沃/ag 森/ag ，/w 并/c 在/d 2011年2月/t 的/u 《/w 危险/a 地带/n 》/w （/w Jeopardy/en ！/w ）/w 智力/n 抢答/v 游戏/n 中/f 一战/j 成名/v 后/f ，/w 其/r 商业化/v 应用/v 有着/v 清晰/a 的/u 脉络/n ：2011年8月/t 沃/ag 森/ag 开始/v 应用/v 于/ng 医疗/n 领域/n ；/w 2012年3月/t ，/w 沃/ag 森/ag 则/c 首次/mq 应用/v 于金融领/nr 域/ng ，/w 花旗集团/nt 成为/v 了/dg 沃/ag 森/ag 的/u 首位/n 金融/n 客户/n ，/w 沃/ag 森/ag 帮助/v 花旗/nz 分析/v 用户/n 的/u 需求/n ，/w 处理/v 金融/n 、/w 经济/n 和/c 用户数/n 据以/d 及/c 实现/v 数字/n 银行/nc 的/u 个性化/v ，/w 并/c 帮助/v 金融机构/n 找出/v 行业/n 专家/n 可能/a 忽略/v 的/u 风险/n 、/w 收益/n 以及/c 客户/n 需求/n 。/w 美国/ns 农业银行/nt 信贷/n 证券公司/lnc 的/u 一/m 份/n 研究报告/n 中/f 预测/v ，/w Watson/en 在/d 2015年/t 将/d 为/p IBM/nq 带来/v 26.5亿/m 美元/n 的/u 收入/n 。/w
+
+
+
+例如/v 在/d 医疗/n 领域/n ，/w Watson/en 已/d 收录/v 了/dg 肿瘤学/n 研究领域/n 的/u 42/m 种/ng 医学/n 期刊/n 、/w 临床/v 试验/v 的/u 60/m 多/a 万条/n 医疗证/n 据/ng 和/c 200万/m 页/ng 文本/n 资料/n 。/w Watson/en 能够/v 在/d 几秒/t 之内/f 筛选/v 数十/m 年/n 癌症/n 治疗/v 历史/n 中/f 的/u 150万/m 份/n 患者/n 记录/n ，/w 包括/v 病历/n 和/c 患者/n 治疗/v 结果/c ，/w 并/c 为/p 医生/nx 提供/v 可/v 供/ng 选择/n 的/u 循证/b 治疗方案/n 。/w 目前/t 癌症/n 治疗/v 领域/n 排名/n 前/f 三/m 的/u 医院/nc 都/d 在/d 运行/v Watson/en 。/w 研究/v 表明/v ，/w 医疗/n 信息/n 数据/n 正/a 以/p 每/r 五/m 年/n 翻番/v 的/u 高速度/n 增长/v 。/w 这/r 为/p 将/d 下一代/n 认知/v 计算/v 系统/a 运用/v 于/ng 医疗/n 行业/n 以/p 改善/v 医学/n 的/u 教学/n 、/w 实践/v 和/c 支付/v 模式/n 提供/v 了/dg 史无前例/iv 的/u 商机/n 。/w
+
+
+
+4./m 人工智能/n 生态/n 格局/n 展望/v ：/w 巨头/n 与/c 新贵/n 共舞/nz
+
+
+
+4.1/m  /0 人工智能/n 将/d 催生/v 新/a 一轮/nz IT/n 商业/n 模式/n 创新/v
+
+
+
+自从/p PC/n 互联网/n 时代/n 以来/f ，/w 到/ng 移动互联网/ln ，/w 再/d 到/ng 智能/n 硬件/n 时代/n ，/w 技术/n 发展/v 和/c 商业/n 模式/n 创新/v 一直/d 处于/v 相辅相成/iv 的/u 状态/n 中/f ，/w 一旦/d 技术/n 进步/a 的/u 红利/n 被/ng 商业/n 模式/n 创新/v 挖掘/v 殆尽/v 后/f ，/w 面临/v 泡沫/n 破裂/v 的/u 风险/n ，/w 直到/v 下/f 一轮/nz 技术/n 革命/a 浪潮/n 再/d 来/u ，/w 商业/n 模式/n 创新/v 才/d 会/n 春风吹又生/l 。/w
+
+
+
+
+
+
+
+我们/r 认为/v ，/w 移动互联网/ln 时代/n ，/w 万物/n 互联/v 催生/v 出/q 了/dg 海量/n 的/u 数据/n ，/w 触摸屏/n 的/u 交互/b 方式/n 已经/d 满足/a 不了/v 用户/n 多元化/v 的/u 输入/v 方式/n ，/w 商业/n 模式/n 创新/v 已经/d 遭遇/n 了/dg 技术/n 无法/v 支撑/v 的/u 瓶颈/n ，/w 如果/c 人工智能/n 技术/n 突破/v ，/w 无疑/d 将/d 催生/v 出新/v 的/u 商业/n 模式/n ，/w 带来/v 巨大/a 的/u 市场/ny 想象/v 空间/n 。/w
+
+
+
+现阶段/t 移动互联网/ln 的/u 商业/n 模式/n 创新/v 已经/d 将/d web2.0/url 时代/n 的/u 技术/n 红利/n 消耗/v 殆尽/v ，/w 未来/t 新/a 的/u 商业/n 模式/n 的/u 开发/v 需要/n 技术/n 进步/a 的/u 支撑/v ，/w 人工智能/n 是/v 重要/a 的/u 技术/n 突破点/n 。/w
+
+
+
+4.2/m  /0 AI/n 产业/n 格局/n 成形/v 的/u 路径/n ：/w “/w 底层/n —/w 中层/f —/w 顶层/f ”/w 的/u 生态圈/n 逐步/d 清晰/a
+
+
+
+人工智能/n 发展/v 的/u 拐点/n 已经/d 到来/v ，/w 但/c 需要/n 指出/v 的/u 是/v ，/w 由于/c 技术/n 的/u 复杂性/n ，/w 发展/v 不会/v 一蹴而就/iv ，/w 必然/d 经历/n 一个/mq 由点到面/l ，/w 由/p 专用/v 领域/n （/w domain/en ）/w 到/ng 通用/v 领域/n （/w generalpurpose/en ）/w 的/u 历程/n ，/w 通用/v 领域/n 的/u 人工智能/n 实现/v 还/d 比较/d 遥远/a 。/w
+
+
+
+我们/r 以/p 计算机/np 视觉/n 的/u 应用/v 为/p 例/n ，/w 正常/a 的/u 成年人/n 可以/a 很/d 容易/a 地/n 识别/v 照片/n 或/c 视频/n 里/f 的/u 多种/a 场景/n 和/c 人/n 、/w 物/ng ，/w 但/c 对于/p 计算机/np 来说/u 还/d 难以/d 做到/v 。/w 原因/n 是/v 识别/v 是/v 一个/mq 特征/n 抽取/v 的/u 过程/n ，/w 而/c 特征/n 抽取/v 是/v 建立/v 在/d 识别/v 模型/n 的/u 基础/n 之上/f 的/u ，/w 要/v 做到/v 通用/v 识别/v ，/w 则/c 必须/d 对/a 世间/n 万物/n 都/d 建立/v 一一/m 对应/v 的/u 模型/n ，/w 工作量/n 极大/a 。/w 而/c 即使/c 是/v 同一/b 事物/n ，/w 由于/c 光线/n 、/w 角度/n 、/w 距离/n 的/u 原因/n ，/w 在/d 不同/a 的/u 场景/n 里/f 也/d 会/n 呈现/v 出/q 很大/a 的/u 差异/n ，/w 这/r 进一步/d 增加/v 了/dg 建立/v 识别/v 模型/n 的/u 难度/n 。/w 短期/b 内/f 计算机/np 的/u 运算/v 能力/n （/w 即使/c 是/v 超级/b 运算/v 平台/n ）/w 还/d 难以/d 望人/nz 脑/n 视觉/n 中枢/n 的/u 项背/n ，/w 因此/c 无法/v 达成/v 这/r 一/m 愿景/n 。/w
+
+
+
+在/d 未来/t 5-10年/t 之内/f ，/w 专用/v 领域/n 的/u 定向/b 智能化/v 将/d 是/v AI/n 主要/b 的/u 应用/v 发展方向/n 。/w 在/d 更/d 远/a 的/u 将来/t ，/w 如果/c 人脑/n 芯片/n 等/ng 硬件/n 架构/n 能/ng 有所/v 突破/v ，/w 运算/v 能力/n 有/v 极大/a 提高/v ，/w 则/c 专用/v 智能/n 将/d 逐步/d 进化/v 成为/v 跨/ng 场景/n 跨/ng 下游/s 应用/v 的/u 通用/v 智能/n 。/w 而/c AI/n 的/u 生态/n 格局/n ，/w 无论/c 是/v 专用/v 还是/c 通用/v 领域/n ，/w 我们/r 认为/v 都/d 将/d 围绕/v “/w 底层/n -/w 中层/f -/w 顶层/f ”/w 的/u 技术/n 和/c 产品/n 架构/n 逐渐/d 成形/v 。/w
+
+
+
+
+
+
+
+人工智能/n 产业/n 生态/n 格局/n 的/u 三/m 层/n 基本/a 架构/n 如下/v ：/w
+
+
+
+底层/n 为/p 基础/n 资源/n 支持/v 层/n ，/w 由/p 运算/v 平台/n 和数/n 据/ng 工厂/nc 组成/v ；/w
+
+
+
+中层/f 为/p AI/n 技术/n 层/n ，/w 通过/p 不同/a 类型/n 的/u 算法/n 建立/v 模型/n ，/w 形成/v 有效/a 的/u 可/v 供应/v 用/ng 的/u 技术/n ；/w
+
+
+
+顶层/f 为/p AI/n 应用层/n ，/w 利用/v 中层/f 输出/v 的/u AI/n 技术/n 为/p 用户/n 提供/v 智能化/v 的/u 服务/v 和/c 产品/n 。/w
+
+
+
+每/r 一/m 层/n 架构/n 中/f ，/w 都/d 有/v 不同/a 的/u 企业/n 参与/v ，/w 最终/d 形成/v 围绕/v AI/n 技术/n ，/w 产品/n 和服/n 务/dg 的/u 生态圈/n 。/w
+
+
+
+4.2.1/m 专用/v 领域/n 人工智能/n 生态圈/n 的/u 格局/n
+
+
+
+1/m 、/w 基础/n 资源/n 支持/v 层/n 实现/v 路径/n ：/w 运算/v 平台/n +/0 数据/n 工厂/nc
+
+
+
+基础/n 资源/n 支持/v 层/n 通过/p 部署/v 大规模/b GPU/n 与/c CPU/np 并行/v 计算/v 构成/n 的/u 云计算/n 资源/n 池/ng （/w 定义/n 为/p 超级/b 运算/v 平台/n ）/w 来/u 解决/v AI/n 所/n 需要/n 的/u 超强/a 存储/v 和/c 运算/v 处理/v 能力/n 问题/n ，/w 并/c 辅以/v 能够/v 抓取/v 到/ng 汇聚/v 了/dg 人类/n 智慧/n 的/u 海量/n 信息/n 的/u 大数据/n 工厂/nc 作为/n 数据/n 集/n ，/w 为/p AI/n 技术/n 层/n 的/u 实现/v 提供/v 有利/a 支持/v 。/w
+
+
+
+超/h 算/d 平台/n 负责/a 存储/v 与/c 运算/v 。/w 人类/n 没有/d 记忆/n 就/d 没有/d 关联/v ，/w 也/d 更/d 不用说/lv 决策/n 与/c 创造/n ，/w 而/c 构成/n 记忆/n 的/u 基础/n 正是/v 有/v 极大/a 存储/v 能力/n 的/u 脑/n 容量/n ，/w 那么/c 机器/np 要/v 模仿/v 人脑/n 也/d 必然/d 首先/c 要/v 拥有/v 庞大/a 的/u 存储/v 能力/n ，/w 海量/n 数据/n 的/u 积累/n 最终/d 让/v 机器/np 的/u “/w 存储/v ”/w 形成/v 类似/a 于/ng 人类/n 的/u “/w 记忆/n ”/w 。/w
+
+
+
+百度/nt 在/d 发展/v 人工智能/n 的/u 道路/n 上/f ，/w 首先/c 做/v 的/u 也/d 是/v 不断/d 扩大/v 其/r 存储/v 能力/n 。/w
+
+
+
+除了/p 存储/v 的/u 绝对/a 容量/n 之外/f ，/w 运算/v 处理/v 能力/n 是/v 第二/m 个/q 需要/n 提升/v 的/u 硬实/a 力/n 。/w
+
+
+
+
+
+
+
+运算/v 处理/v 能力/n 有/v 两个/n 方面/n ，/w 第一/m 是/v 服务器/n 规模/n ，/w 第二/m 是/v 特征/n 向量/n 大小/n 。/w 所谓/b 特征/n 向量/n 简单/a 理解/v 的话/u 就是/n 指/ng 将/d 文本/n 语音/n 图像/n 视频/n 等/ng 内容/n 转化为/v 机器/np 能够/v 读/ng 懂/v 的/u 一连串/b 关键/a 数据/n ，/w 数据/n 越多/nz ，/w 机器/np 学习/v 的/u 就/d 会/n 越好/nz ，/w 但/c 对/a 服务器/n 的/u 压力/n 也/d 会/n 相应/v 加大/v 。/w 百度/nt 能够/v 仅/d 用/ng 两/m 年时/n 间/f 从/p 10万/m 特征/n 向量/n 直接/a 飙升/v 到/ng 200亿/m ，/w 足以/v 见得/v 百度/nt 服务器/n 技术/n 实力/n 的/u 雄厚/a 。/w 在/d 这个/r 过程/n 中/f ，/w 还/d 需要/n 解决/v 大规模/b GPU/n 和/c CPU/np 并行/v 计算所/nc 带来/v 的/u 错误率/n 提升/v 以及/c 散热/v 难度/n 加大/v 等/ng 问题/n ，/w 因此/c ，/w 是否/v 能够/v 搭建/v 超/h 算/d 平台/n 成为/v 了/dg 人工智能/n 企业/n 的/u 重要/a 进入/v 门槛/n 。/w
+
+
+
+数据/n 工厂/nc 实现/v 分类/v 与/c 关联/v 。/w 数据/n 工厂/nc 会/n 对数/n 据/ng 进行/v 基础性/n 的/u 加工/v ，/w 而/c 这种/r 加工/v 又/d 非常/b 关键/a 。/w 从人/nz 类/n 的/u 记忆/n 联想/v 模式/n 分析/v ，/w 要/v 调取/v 某部/r 分/b 的/u 记忆/n ，/w 就/d 会/n 很/d 自然/a 的/u 联想/v 到/ng 某个/r 词/n ，/w 某个/r 画面/n ，/w 某个/r 音乐/n 等等/u 就/d 能/ng 记/ng 起/q 很多/mq 事情/n 。/w 这是/n 因为/c 人类/n 大脑/n 的/u 神经/n 连接/v 结构/n 允许/v 我们/r 这样/r 去/v 检索/v ，/w 而/c 机器/np 是/v 不/d 允许/v 的/u ，/w 数据/n 存储/v 在/d 硬盘/np 上/f ，/w 机器/np 想要/v 找到/v 某个/r 数据/n ，/w 必须/d 一个个/qqy 访问/v 过去/t ，/w 机器/np 没有/d 分类/v 的/u 概念/n 。/w 如果/c 需要/n 机器/np 理解/v 用户/n 的/u 语言/n ，/w 这种/r 搜索/n 技术/n 也/d 依然/d 要/v 机器/np 的/u 大脑/n 配合/v 才能/v 达到/v ，/w 对/a 每/r 一个/mq 词/n 的/u 定义/n 应该/v 是/v 一个/mq 库/n ，/w 而/c 这个/r 库/n 中/f 的/u 每/r 一个/mq 词/n 又/d 都/d 各自/r 构成/n 库/n ，/w 数据/n 工厂/nc 所/n 依托/v 的/u 搜索/n 算法/n ，/w 就是/n 在/d 这么/r 一个/mq 数据/n 海洋/n 中/f 去/v 为/p 他们/r 建立/v 管理/v ，/w 然后/c 去/v 索引/n 。/w 数据/n 工厂/nc 相当于/v 人脑/n 中/f 的/u 记忆/n 关联/v 过程/n ：/w 将/d 某个/r 词/n 同时/c 与其/c 他/r 词/n 或是/c 某个/r 场景/n 等等/u 建立/v 起动/v 态/ng 关联/v 的/u 过程/n 。/w 因此/c ，/w 通过/p 数据挖掘/n 和/c 搜索/n 算法/n 对数/n 据/ng 工厂/nc 中/f 的/u 知识库/n 和信/nz 息/ng 库/n 进行/v 分类/v 与/c 关联/v 的/u 技术/n 能力/n 同样/b 是/v 人工智能/n 企业/n 的/u 重要/a 进入/v 门槛/n 。/w
+
+
+
+2/m 、/w AI/n 技术/n 层/n 实现/v 路径/n ：/w 面向/v 特定/b 场景/n 的/u 智能/n 技术/n 多姿多彩/la
+
+
+
+AI/n 技术/n 层/n 的/u 作用/n 是/v 基于/p 底层/n 提供/v 的/u 计算/v 存储/v 资源/n 和/c 大数据/n ，/w 通过/p 机器/np 学习/v 建模/v ，/w 开发/v 面向/v 不同/a 领域/n 的/u 应用技术/n ，/w 例如/v 语音/n 识别/v 、/w 语义/n 识别/v 和/c 计算机/np 视觉/n 等/ng 。/w
+
+
+
+中间层/n 的/u 运行/v 机制/n 和/c 人类/n 的/u 思维/n 形成/v 过程/n 高度/b 相似/a ，/w 是从/v 感知/v 到/ng 思考/v 再/d 到/ng 最终/d 的/u 决策/n 行动/v 甚至/c 是/v 创造/n ，/w 核心/n 是/v 机器/np 学习/v 技术/n 的/u 应用/v 。/w 首先/c ，/w 感知/v 环节/n 需要/n 连接/v 的/u 是/v 人/n 、/w 信息/n 和/c 物理/n 世界/n ，/w 通过/p 传感器/n ，/w 搜索引擎/n 和/c 人机交互/lv 来/u 获取/v 建模/v 必须/d 的/u 数据/n ，/w 相当于/v 人类/n 的/u 感知/v 过程/n 。/w 依托/v 于/ng 底层/n 的/u 高性能/n 计算/v 和/c 弹性/n 存储/v 能力/n ，/w 中间层/n 对/a 感知/v 到/ng 的/u 数据/n 进行/v 建模/v 运算/v ，/w 相当于/v 人类/n 的/u 思考/v 过程/n 。/w 最终/d ，/w 应用层/n 利用/v 数据/n 拟合/v 出/q 的/u 模型/n 结果/c ，/w 对/a 智能/n 应用/v 的/u 服务/v 和/c 产品/n 端/ag 输出/v 指令/n ，/w 指挥/n 包括/v 机器人/n 、/w 无人机/np 、/w 3D/b 打印/v 等/ng 在内/v 的/u 各种/r 设备/n 响应/v 用户/n 需求/n 。/w 尽管/c 目前/t 由于/c 思考/v 层面/n 的/u 计算/v 存储/v 能力/n 和/c 建模/v 能力/n 的/u 不足/a ，/w 导致/v 人工智能/n 还/d 无法/v 达到/v 和/c 人类/n 相接/v 近/a 的/u “/w 智慧/n ”/w 程度/n ，/w 但/c 也/d 足以/v 支撑/v 包括/v 语音/n 识别/v 、/w 图像/n 识别/v 和/c 知识/n 图谱/n 在内/v 的/u 各种/r AI/n 技术/n 在/d 特定/b 场景/n 下/f 的/u 应用/v 。/w
+
+
+
+
+
+
+
+另外/c 一方面/ldm ，/w 在/d 具体/a 的/u 应用/v 场景/n 中/f ，/w 更为/d 优化/v 的/u 算法/n 和/c 更为/d 准确/a 的/u 背景/n 知识库/n 数据/n 集/n 等/ng 因素/n 都/d 有助于/v 在/d 不/d 提升/v 计算/v 资源/n 的/u 前提/n 下/f 实现/v 更/d 优/a 的/u 结果/c 。/w 这/r 就/d 给/v 众多/a 专业/a 领域/n 的/u AI/n 公司/nc 带来/v 了/dg 巨大/a 的/u 市场/ny 机遇/n 。/w 我们/r 看到/v ，/w 专用/v 智能/n 的/u 商业化/v 应用/v 风生水起/lv ，/w 在/d 这个/r 领域/n ，/w 巨头/n 和/c 新贵/n 都/d 处于/v 同一/b 起跑线/n 上/f ，/w 产业/n 格局/n 会/n 趋于/v 分散/a ，/w 先入者/n 优势/n 明显/a 。/w 我们/r 判断/n ，/w 在/d 数据/n 、/w 算法/n 、/w 云计算/n 资源/n 等/ng 几/m 个/q 关键/a 因素/n 中/f ，/w 数据/n 的/u 获得/v 以及/c 算法/n 的/u 优化/v 是/v 先入者/n 的/u 护城河/n ，/w 能够/v 帮助/v 他们/r 在/d 专用/v 领域/n 的/u 特定/b 场景/n 下/f ，/w 迅速/a 实现/v AI/n 的/u 商业化/v 应用/v ，/w 从而/c 抢占/v 市场/ny 。/w 我们/r 关注/v 到/ng 国内/s 市场/ny 已经/d 出现/v 了/dg 这样/r 的/u 局面/n ：/w 语音/n 识别/v 领域/n 的/u 科大讯飞/nt 、/w 计算机/np 视觉/n 方面/n 的/u 格/n 灵/a 深/a 瞳/ng 、/w 语义/n 识别/v 方面/n 的/u 小/a i/n 机器人/n 、/w 人脸识别/lv 方面/n 的/u face/en +/0 +/0 等等/u 细分/v 行业/n 龙头/n ，/w 都/d 在/d 具体/a 应用/v 场景/n 的/u 技术/n 结果/c 上/f ，/w 实现/v 了/dg 对/a 百度/nt 、/w 谷歌/nt 、/w 微软/nt 和/c IBM/nq 等/ng AI/n 巨头/n 的/u 超越/v 。/w
+
+
+
+
+
+
+
+3/m 、/w AI/n 应用层/n 实现/v 路径/n ：/w 以/p Nest/en 为/p 代表/nx 的/u 专用/v 智能/n 产品/n 和服/n 务/dg 风起云涌/iv
+
+
+
+专用/v 智能/n 的/u 应用/v 水平/n 不断/d 提升/v 将/d 推进/v 智能/n 产品/n 和服/n 务/dg 的/u 智能化/v 程度/n 。/w 为了/p 能够/v 满足/a 用户/n 需求/n ，/w 智能/n 产品/n 和服/n 务/dg 需要/n 多种/a 不同/a 的/u AI/n 技术/n 支撑/v ：/w
+
+
+
+（/w 1/m ）/w 谷歌/nt 的/u 无人/b 驾驶/v 汽车/np ，/w 在/d 驾驶/v 过程/n 中/f 需要/n 计算机/np 视觉/n 对/a 不同/a 路况/n 做出/v 相应/v 的/u 决策/n 。/w 为了/p 实现/v 无人/b 驾驶/v ，/w 车辆/n 需要/n 配置/n 激光/n 测距/v 系统/a 、/w 车道/n 保持/v 系统/a 、/w GPS/n 惯性/n 导航/v 系统/a 、/w 车轮/n 角度/n 编码器/n 等/ng 设备/n ，/w 通过/p 收集/v 到/ng 的/u 数据/n 实时/d 生成/v 前方/f 路面/n 的/u 三维/b 图像/n ，/w 并用/v 计算机/np 视觉/n 技术/n 判断/n 潜在/b 的/u 风险/n 。/w 毫无疑问/lv ，/w 脱离/v 了/dg 谷歌/nt 大脑/n 的/u 计算机/np 视觉/n 技术/n 的/u 支撑/v ，/w 谷歌/nt 无人/b 驾驶/v 应用/v 就是/n 空中楼阁/in 。/w
+
+
+
+（/w 2/m ）/w 再/d 以/p Nest/en 的/u 智能/n 温控/j 技术/n 为/p 例/n 。/w 为了/p 能够/v 通过/p 不断/d 地/n 观测/v 和/c 学习/v 用户/n 习惯/n 的/u 舒适/a 温度/n 来/u 对/a 室温/n 进行/v 动态/n 调整/v ，/w 并/c 节约能源/n ，/w Nest/en 安装/v 了/dg 六/m 个/q 传感器/n ，/w 不停/d 地/n 对/a 温度/n 、/w 湿度/n 、/w 环境/n 光/a 以及/c 设备/n 周边/n 进行/v 监控/v 和/c 衡量/v ，/w 它/r 能/ng 判断/n 房间/n 中/f 是否/v 有人/r ，/w 以/p 决定/n 是否/v 自动/b 关闭/v 调温/v 设备/n 。/w 依托/v 于/ng 强大/a 的/u 机器/np 学习/v 算法/n ，/w Nest/en 则/c 能/ng 自己/r 学习/v 控制/v 温度/n 。/w 在/d 使用/v 这/r 款/n 调温/v 器/k 的/u 第一/m 个/q 星期/n ，/w 用户/n 可以/a 根据/n 自己/r 的/u 喜好/v 调节/v 室内/s 温度/n ，/w 此时/r Nest/en 便/ag 会/n 记录/n 并/c 学习/v 用户/n 的/u 使用/v 习惯/n 。/w 为了/p 能/ng 让/v 居室/n 变得/v 更/d 舒适/a ，/w Nest/en 还/d 会通/vn 过/d Wi/en -/w Fi/en 和相关/nr 应用程序/n 与/c 室外/s 的/u 实时/d 温度/n 进行/v 同步/b ，/w 内置/b 的/u 湿度/n 传感器/n 还/d 能/ng 让/v 空调/np 和新风系/nr 统/ng 提供/v 适宜/v 的/u 气流/n 。/w 当用/v 户外/s 出/q 时/n ，/w Nest/en 的/u 动作/n 传感器/n 就/d 会通/vn 知/ng 处理器/n 激活/v “/w 外出/v 模式/n ”/w 。/w 毫无疑问/lv ，/w 脱离/v 了/dg 深度/n 学习/v 技术/n 的/u 支撑/v ，/w Nest/en 的/u 智能/n 温控/j 是/v 无法/v 实现/v 的/u 。/w
+
+
+
+（/w 3/m ）/w 微信/n 朋友圈/n 的/u 推送/vn 广告服务/n 。/w 微信/n 朋友圈/n 的/u 信息流/n （/w Feeds/en ）/w 广告/n 推送/vn 基于/p 自然语言/n 解析/v 、/w 图像/n 识别/v 和数/n 据/ng 挖掘/v 技术/n ，/w 通过/p 分析/v 用户/n 朋友圈/n 语言/n 特性/n ，/w 以及/c 朋友圈/n 图片内容/n ，/w 根据/n 对/a 用户/n 收入/n 和/c 消费/v 能力/n 的/u 分析/v 来/u 刻画/v 用户/n 画像/n ，/w 并/c 决定/n 投放/v 何种/r 广告/n 。/w 信息流/n 广告/n 与/c 社交/n 平台/n 上好/n 友/ag 发布/v 的/u 信息/n 形式/n 类似/a ，/w 广告/n 本身/r 内容/n 将/d 基于/p 微信/n 公众/n 账号/n 生态/n 体系/n ，/w 以/p 类似/a 朋友圈/n 的/u 原创/n 内容/n 形式/n 进行/v 展现/v ，/w 融合/v 在/d 信息流/n 中/f ，/w 在/d 基于/p 微信/n 用户/n 画像/n 记性/n 定向/b 的/u 同时/c ，/w 通过/p 实时/d 社交/n 的/u 溷/ag 排/n 算法/n ，/w 依托/v 关系链/n 进行/v 互动/v 传播/v 。/w 如果/c 没有/d 自然语言/n 解析/v 和/c 图像/n 识别/v 等/ng AI/n 技术/n 的/u 支撑/v ，/w 微信/n 的/u 信息流/n 广告/n 推送/vn 服务/v 的/u 用户/n 体验/v 将/d 大打折扣/lv 。/w
+
+
+
+通过/p 以上/f 三个/n 例子/n ，/w 我们/r 不难/d 看出/v ，/w 智能/n 产品/n 和服/n 务/dg 是否/v 能够/v 切中/v 用户/n 的/u 痛点/n 需求/n ，/w 依赖/v 于/ng 人工智能/n 技术/n 在/d 产品/n 背后/f 能够/v 给予/v 多/a 大/a 的/u 支撑/v 。/w 当前/t 的/u 智能/n 产品市场/n 之所以/c 出现/v 产品/n 热/a ，/w 需求/n 冷/a 的/u 局面/n ，/w 主要/b 的/u 症结/n 在于/v 所谓/b 的/u 智能/n 硬件/n 大多/d 是/v “/w 伪/ag 智能/n ”/w 产品/n ，/w 只是/c 把/p 功能性/n 电子产品/n 加上/v 联网/v 和/c 搜集/v 数据/n 的/u 功能/n ，/w 例如/v 以/p 手/k 环/n 为/p 代表/nx 的/u 可/v 穿戴/n 设备/n ，/w 以/p 智能机/n 顶盒/n 为/p 代表/nx 的/u 智能家居/n 设备/n 等等/u 。/w 我们/r 认为/v ，/w 杀手/n 级/n 的/u 智能/n 产品/n 和服/n 务必/d 然/c 是/v 建立/v 在/d 强大/a 的/u AI/n 技术/n 支撑/v 下/f 的/u 。/w AI/n 具体/a 应用层/n 应该/v 是以/c Nest/en 及/c 更为/d 先进/a 的/u 智能/n 产品/n 和服/n 务/dg 为/p 代表/nx 。/w 我们/r 梳理/v 了/dg 当前/t 智能/n 产品/n 和服/n 务/dg 产业链/n 上/f 主要/b 参与/v 公司/nc ，/w 典型/a 的/u 战略/n 布局/n 分别/d 有/v ：/w
+
+
+
+（/w a/b ）/w 以/p 海尔/nz 和美/a 的/u 为/p 代表/nx 的/u 家电/n 企业/n 转型/v 智能家居/n 方向/n ；/w
+
+
+
+（/w b/n ）/w 以/p 小米/n 和/c 360/m 为/p 代表/nx 的/u 互联网/n 新贵/n 从/p 硬件/n 入口/n 开始/v 卡位/v ；/w
+
+
+
+（/w c/n ）/w 以/p 百度/nt 和/c 谷歌/nt 为/p 代表/nx 的/u 互联网/n 巨头/n 从/p AI/n 技术/n 发力/v 打造/v 生态圈/n ；/w
+
+
+
+（/w d/n ）/w 以/p 海康威视/nt 和/c 大/a 疆/jns 创新/v 为/p 代表/nx 的/u 计算机/np 硬件/n 制造商/n 转型/v 智能/n 硬件/n 的/u 行业应用/n 。/w
+
+
+
+4.2./m 2/m 未来/t 跨/ng 场景/n 通用/v 人工智能/n 生态圈/n 的/u 格局/n
+
+
+
+
+
+
+
+1/m 、/w 基础/n 资源/n 支持/v 层/n 实现/v 路径/n ：/w 颠覆/v 冯·诺/nr 依/ng 曼/ag 架构/n 人脑/n 芯片/n 等/ng 技术/n 将/d 突破/v 计算/v 能力/n 极限/n
+
+
+
+未来/t 的/u 人工智能/n 将/d 致力于/v 通过/p 底层/n 硬件/n 架构/n 的/u 变革/v 来/u 实现/v 。/w 不同于/n 现阶段/t 底层/n 对/a 云计算/n 的/u 依赖/v ，/w 硬件/n 模式/n 将/d 直接/a 从/p 芯片/n 层面/n 实现/v 对/a 人工/b 神经网络/n 的/u 模拟/v ，/w 目标/n 是/v 构建/v 一个/mq 硬件/n 大脑/n 。/w 我们/r 认为/v ，/w 这种/r 突破/v 将/d 是/v 下一代/n 计算机/np 科学/a 的/u 发展/v 的/u 重要/a 方向/n 。/w 因为/c 最近/t 10/m 年/n 计算机/np 科学/a 更多/n 关注/v 的/u 技术/n 进步/a 在于/v 信息处/n 理/n 的/u 标的/n 这/r 一/m 层面/n ，/w 可以/a 称之为/v “/w 大数据/n ”/w 或者/c “/w 数据/n 大/a 爆炸/v ”/w 时代/n 。/w 在/d 不远/a 的/u 未来/t ，/w 数据/n 大/a 爆炸/v 造成/v 的/u 结果/c 是/v 信息处/n 理/n 能力/n 的/u 瓶颈/n 很快/d 达到/v ，/w 因此/c ，/w 未来/t 10/m 年/n 计算机/np 科学/a 的/u 关注点/n 将/d 会/n 转移/v 到/ng 如何/r 突破/v 现阶段/t 的/u 计算/v 能力/n 极限/n ，/w 也就是/n 颠覆/v 冯·诺/nr 依/ng 曼/ag 的/u 硬件/n 架构/n 。/w 这个/r 方向/n 可能/a 是/v AI/n 在/d 硬件/n 设备/n 上/f 的/u 一个/mq 终极/n 解决方案/n ，/w 但/c 从/p 目前/t 的/u 技术成熟/n 度/k 上/f 看/u ，/w 这/r 条/ng 路径/n 距离/n 目标/n 还有/v 非常/b 遥远的距离/nz 。/w 目前/t 已经/d 看到/v 的/u 方向/n 大致/b 有/v 以下/f 三/m 种/ng ：/w
+
+
+
+（/w 1/m ）/w 人脑/n 芯片/n 。/w 2014年8月/t ，/w IBM/nq 宣布/v 研制/v 成功/a 了/dg 一/m 款/n 大脑/n 原型/n 芯片/n TrueNorth/en ，/w 主攻/v 超级/b 计算机/np 专业/a 学习/v 领域/n 。/w TrueNorth/en 微/ag 芯片/n 由/p 三星电子/nt 为/p IBM/nq 生产/v ，/w 使用/v 了/dg 三星/nz 为生/v 产/ng 智能机/n 和/c 其它/r 移动/v 设备/n 微处理器/n 所/n 使用/v 的/u 相同/a 制造/v 技术/n 。/w IBM/nq 就/d 该/r 芯片/n 的/u 底层/n 设计/v 与/c 纽约/ns 康奈尔大学/nt （/w CornellUniversity/en ）/w 纽约/ns 校区/ny 的/u 研究人员/n 进行/v 了/dg 合作/v 。/w 自/d 2008年/t 以来/f ，/w 这/r 一/m 项目/n 获得/v 了/dg 美国/ns 五角大楼/n 高级/a 计划/n 研究局/nc 的/u 5300万/m 美元/n 注资/v 。/w 这/r 款/n 芯片/n 集成/b 了/dg 100万/m 个/q 神经元/n 和/c 2.56亿/m 个/q 突触/n ，/w 与/c 普通/a 蜜蜂/n 的/u 大脑/n 水平/n 相当/d ，/w 而/c 人脑/n 平均/a 包含/v 1000亿/m 个/q 神经元/n 和/c 难以/d 统计数/n 量/n 的/u 突触/n 。/w 目前/t ，/w 这/r 款/n 芯片/n 每秒/r 每/r 瓦/n 可/v 实现/v 460亿/m 次/a 神经/n 突触/n 操作/v ，/w 它/r 能/ng 像/n 人脑/n 一样/a 去/v 探测/v 并/c 识别/v 模式/n 。/w 简而言之/ldm ，/w 当/ag 人脑/n 芯片/n 发现/v 与/c 字母/n 不同/a 部分/n 相关/v 联/ng 的/u 模式/n 时/n ，/w 能够/v 将/d 这些/r 字母/n 关联/v 在/d 一起/d ，/w 从而/c 识别/v 出/q 单词/n 和/c 整/a 句/q ，/w 但/c 距离/n 可以/a 商用/b 的/u 智能化/v 程度/n 还/d 遥不可及/la 。/w 除/ng IBM/nq 外/f ，/w 芯片/n 巨头/n 英特尔/nz 、/w 高通/nz 等/ng 公司/nc 也/d 拥有/v 了/dg 被/ng 工程师/nx 称之为/v “/w 神经/n 形态/n ”/w （/w neuromorphic/en ）/w 的/u 自主/v 芯片/n 设计/v 。/w 人脑/n 启发/v 软件公司/n Numenta/en 创始人/n 杰/ag 夫/ng 霍金斯/nr （/w JeffHawkins/en ）/w 认为/v ，/w 类似/a TrueNorth/en 这样/r 的/u 二元/b 芯片/n 未来/t 将/d 让位/v 于/ng 能够/v 更/d 有效/a 地/n 模拟/v 出/q 人脑/n 联系/v 功能/n 的/u 芯片/n 产品/n ，/w 找到/v 正确/a 的/u 神经元/n 结构/n 需要/n 经历/n 多年/n 的/u 研究/v 过程/n 。/w
+
+
+
+（/w 2/m ）/w 量子/n 计算/v 。/w 量子/n 计算机/np 是/v 一/m 种/ng 使用量/n 子/k 逻辑/n 实现/v 通用/v 计算/v 的/u 设备/n 。/w 普通/a 计算机/np 存储/v 数据/n 的/u 对象/n 是/v 晶体管/n 电路/n 的/u 状态/n ，/w 而/c 量子/n 计算/v 用来/v 存储/v 数据/n 的/u 对象/n 是/v 粒子/n 的/u 量子/n 状态/n ，/w 它/r 使用量/n 子/k 算法/n 来/u 进行/v 数据/n 操作/v 。/w 量子/n 计算机/np 的/u 优势/n 在于/v 强大/a 的/u 并行/v 计算/v 速度/n 。/w 现在/t 的/u 计算机/np 毕竟/d 是/v 二进制/n 的/u ，/w 一/m 遇到/v 比较/d 复杂/a 的/u 建模/v ，/w 像/n 准确预测/n 天气/n ，/w 预测/v 更/d 长时/nz 间/f 后/f 的/u 天气/n 等等/u ，/w 就/d 会/n 很/d 费力/a 费时/a ；/w 而/c 超/h 快/a 量子/n 计算机/np 就/d 能/ng 算/d ，/w 算/d 得/e 超/h 快/a 。/w 因为/c 当/ag 许多/mq 个/q 量子/n 状态/n 的/u 原子/n 纠缠/v 在/d 一起/d 时/n ，/w 它们/r 又/d 因/c 量子/n 位/q 的/u “/w 迭加/ns 性/k ”/w ，/w 可以/a 同时/c 一起/d 展开/v “/w 并行/v 计算/v ”/w ，/w 从而/c 使/ng 其/r 具备/v 超高速/b 的/u 运算/v 能力/n 。/w 2014年/t ，/w 谷歌/nt 公司/nc 与/c 科学家/n 联手/v 研制/v 量子/n 级/n 计算机/np 处理器/n ，/w 目的/n 是/v 未来/t 使/ng 机器人/n 像/n 人类/n 一样/a “/w 独立/a 思考/v 问题/n ”/w 。/w 但/c 达到/v 这个/r 未来/t 需要/n 多久/r ，/w 目前/t 我们/r 还/d 无法/v 预知/v 。/w
+
+
+
+（/w 3/m ）/w 仿生/b 计算机/np 。/w 仿生/b 计算机/np 的/u 提出/v 是/v 为了/p 解决/v 如何/r 构建/v 大规模/b 人工/b 神经网络/n 的/u 问题/n 。/w 通用/v 的/u CPU/en //w GPU/n 处理/v 神经网络/n 效率/n 低下/a ，/w 如/c 谷歌/nt 大脑/n 的/u 1.6万/m 个/q CPU/np 运行/v 7/m 天才/n 能/ng 完成/v 猫/n 脸/n 的/u 无/v 监督/v 学习/v 训练/v 。/w 谷歌/nt 大脑/n 实现/v 模拟/v 人脑/n 的/u 突触/n 数量/n 仅/d 为/p 100亿/m 个/q ，/w 而/c 实际/a 的/u 人脑/n 突触/n 数量/n 超过/v 100万亿/m 。/w 采用/v CPU/en //w GPU/n 的/u 通用/v 处理器/n 构建/v 数据中心/n ，/w 占地/v 、/w 散热/v 以及/c 耗电/v 等/ng 都/d 是/v 非常/d/mopo(d) 严峻/a 的/u 问题/n 。/w 成本/n 方面/n ，/w 这样/r 级别/n 的/u 数据中心/n ，/w 除了/p 谷歌/nt 、/w 百度/nt 之外/f ，/w 其他/r 互联网/n 企业/n 根本/a 无力/v 搭建/v 。/w 专门/b 的/u 神经网络/n 处理器/n 成为/v 解决/v 以上/f 问题/n 的/u 钥匙/n 。/w 目前/t 国内/s 的/u 陈云霁/nr 团队/n 所/n 搭建/v 的/u 寒武纪/t 神经网络/n 计算机/np 正是/v 基于/p 仿生学/n 的/u 原理/n ，/w 通过/p 寒武纪/t 生物/n 大/a 爆炸/v 中/f 获取/v 的/u 线索/n ，/w 实现/v 的/u 无需/v 访问/v 内存/n ，/w 减少/v 90%/m 以上/f 的/u 片/n 上/f 通讯/n 时间/n ，/w 并/c 支持/v 几乎/d 现有/v 主流机/nz 器/k 学习/v 算法/n 的/u 网络计算机/n 。/w 寒武纪/t 神经网络/n 计算机/np 跟/c 主流/n GPU/n 相比/v ，/w 取得/v 了/dg 21/m 倍/d 的/u 性能/n 和/c 300/m 倍/d 的/u 性能/n 功耗/n 比/p 提升/v 。/w
+
+
+
+2/m 、/w AI/n 技术/n 层/n 的/u 实现/v 路径/n ：/w 通用/v 智能/n 实现/v 跨/ng 场景/n 的/u 终极/n 应用/v
+
+
+
+在/d 专用/v 智能/n 的/u 时代/n ，/w AI/n 的/u 技术应用/n 是/v 要/v 针对/v 不同/a 的/u 场景/n 才能/v 有效/a 的/u 。/w 例如/v ，/w 格/n 灵/a 深/a 瞳/ng 的/u 计算机/np 视觉/n 技术/n ，/w 在/d 安防/nz 视频监控/n 领域/n 可以/a 识别/v 出/q 犯罪分子/n 的/u 异常/a 行为/n 举动/n 并/c 予以/v 报警/v ，/w 但/c 换/v 做/v 是/v 商场/ny 中/f ，/w 格/n 灵/a 深/a 瞳/ng 的/u 三维/b 摄像头/n 就/d 无法/v 识别/v 出/q 客户/n 的/u 性别/n 年纪/n 等/ng 特征/n ，/w 并/c 根据/n 客户/n 在/d 不同/a 柜台/n 中/f 逗留/v 的/u 时间/n ，/w 分析/v 出/q 客户/n 可能/a 偏好/n 的/u 产品/n 并/c 向/p 其/r 推荐/v 。/w 这/r 两个/n 应用/v 场景/n 其实/d 都/d 是/v 依托/v 于/ng 计算机/np 视觉/n 技术/n 进行/v 识别/v 和/c 响应/v 的/u ，/w 但是/c 专用/v 智能/n 时代/n ，/w 受到/v 计算/v 能力/n 和/c 建模/v 能力/n 的/u 约束/v ，/w 同样/b 的/u 计算机/np 视觉/n 技术/n 却/d 无法/v 解决/v 跨/ng 场景/n 的/u 应用/v 。/w
+
+
+
+在/d 未来/t ，/w 通用/v 智能/n 到来/v 后/f ，/w AI/n 技术/n 层/n 的/u 普适性/n 将/d 极大/a 地/n 提升/v 。/w 同样/b 一个/mq 视频监控/n 的/u 摄像头/n 加上/v 背后/f 的/u 计算机/np 视觉/n 的/u 云/n 平台/n ，/w 放在/v 不同/a 的/u 场合/n 中/f ，/w 就/d 能够/v 根据/n 用户/n 不同/a 的/u 需求/n 进行/v 不同/a 的/u 识别/v 并/c 做出/v 智能化/v 的/u 决策/n 行为/n 。/w 这种/r 终极/n 应用/v 的/u 到来/v ，/w 必须/d 依赖/v 于/ng 计算/v 资源/n 上/f 突破/v 现有/v 的/u 能力/n 极限/n ，/w 并且/c 在建/v 模/ng 上/f 超越/v 现阶段/t 的/u 深度/n 学习/v 算法/n 的/u 极限/n ，/w 真正/b 让/v AI/n 像/n 人类/n 一样/a 去/v 观察/v 和/c 思考/v 并/c 做出/v 行为/n 决策/n 。/w
+
+
+
+我们/r 认为/v ：/w 在/d 通用/v 智能/n 时代/n ，/w 进入/v 门槛/n 最高/a ，/w 护城河/n 最/d 宽/a 的/u 是/v 底层/n AI/n 资源/n 支持/v 的/u 平台/n 企业/n ；/w 其次/c 是/v 技术/n 层/n 中/f 在/d 细分/v 领域/n 具备/v 核心竞争/n 力/n 的/u 领先/v 企业/n ；/w 门槛/n 最低/a 的/u 是/v 应用层/n 的/u 企业/n ，/w 标准化/v 程度/n 越/d 高/a 意味着/v 同质化/vn 竞争/v 越/d 激烈/a ，/w 但/c 消费/v 电子/n 的/u 产品/n 属性/n 也/d 将/d 允许/v 差异化/v 竞争/v 的/u 空间/n 。/w

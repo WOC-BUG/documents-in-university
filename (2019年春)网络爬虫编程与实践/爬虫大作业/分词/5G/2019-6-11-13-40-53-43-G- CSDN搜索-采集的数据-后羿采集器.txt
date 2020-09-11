@@ -1,0 +1,319 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m ：/w 认识/n 5/m G/m 关键/a 技术/n ,/w （/w 一/m ）/w nnSDRn/en 定义/n n/en 软件/n 定义/n 的/u 无线电/n (/w Software/en Defined/en Radio/en ，/w SDR/en )/w 是/v 一/m 种/ng 无线电/n 广播/n 通信技术/n ，/w 它/r 基于/p 软件/n 定义/n 的/u 无线通信/ln 协议/n 而/c 非/d 通过/p 硬/a 连线/v 实现/v 。/w 频带/n 、/w 空中/s 接口/n 协议/n 和/c 功能/n 可通/nz 过/d 软件下载/n 和/c 更新/v 来/u 升级/v ，/w 而/c 不用/d 完全/a 更换/v 硬件/n 。/w n/en 所谓/b 软件/n 无线电/n ，/w 其/r 关键/a 思想/n 是/v 构造/n 一个/mq 具有/v 开放性/n 、/w 标准化/v 、/w 模块化/v 的/u 通用/v 硬件/n 平台/n ，/w 各种/r 功能/n ，/w 如/c 工作/n 频段/n 、/w 调制/v 解调/v 类型/n 、/w 数据/n 格式/n 、/w 加密/v 模式/n 、/w 通信/v 协议/n 等/ng .../m ,/w qq/en _/0 28734159/m ,/w https://blog.csdn.net/qq_28734159/article/details/82875288/url ,/w 2018-09-27/t ,/w 2704/m 次/a 阅读/v ,/w 5/m G/m ：/w 认识/n 5/m G/m 关键/a 技术/n -/w qq/en _/0 28734159/m 的/u 博客/n ,/w 2018年09月27日 23:52:40/t ,/w （/w 一/m ）/w
+
+SDR/n
+定义/n
+软件/n 定义/n 的/u 无线电/n (/w Software/en Defined/en Radio/en ，/w SDR/en )/w 是/v 一/m 种/ng 无线电/n 广播/n 通信技术/n ，/w 它/r 基于/p 软件/n 定义/n 的/u 无线通信/ln 协议/n 而/c 非/d 通过/p 硬/a 连线/v 实现/v 。/w 频带/n 、/w 空中/s 接口/n 协议/n 和/c 功能/n 可通/nz 过/d 软件下载/n 和/c 更新/v 来/u 升级/v ，/w 而/c 不用/d 完全/a 更换/v 硬件/n 。/w
+所谓/b 软件/n 无线电/n ，/w 其/r 关键/a 思想/n 是/v 构造/n 一个/mq 具有/v 开放性/n 、/w 标准化/v 、/w 模块化/v 的/u 通用/v 硬件/n 平台/n ，/w 各种/r 功能/n ，/w 如/c 工作/n 频段/n 、/w 调制/v 解调/v 类型/n 、/w 数据/n 格式/n 、/w 加密/v 模式/n 、/w 通信/v 协议/n 等/ng ，/w 用/ng 软件/n 来/u 完成/v ，/w 并/c 使/ng 宽带/n A/en //w D/n 和/c D/en //w A/b 转换器/n 尽可能/d 靠近/v 天线/n ，/w 以/p 研制出/n 具有/v 高度/b 灵活性/n 、/w 开放性/n 的/u 新一代/n 无线通信/ln 系统/a 。/w 可以/a 说/ag 这种/r 平台/n 是/v 可用/a 软件/n 控制/v 和/c 再/d 定义/n 的/u 平台/n ，/w 选用/v 不同/a 软件/n 模块/n 就/d 可以/a 实现/v 不同/a 的/u 功能/n ，/w 而且/c 软件/n 可以/a 升级/v 更新/v 。/w 其/r 硬件/n 也/d 可以/a 像/n 计算机/np 一样/a 不断/d 地/n 更新/v 模块/n 和/c 升级换代/lv 。/w 由于/c 软件/n 无线电/n 的/u 各种/r 功能/n 是/v 用/ng 软件/n 实现/v 的/u ，/w 如果/c 要/v 实现/v 新/a 的/u 业务/n 或/c 调制/v 方式/n 只要/c 增加/v 一个/mq 新/a 的/u 软件/n 模块/n 即可/v 。/w 同时/c ，/w 由于/c 它/r 能/ng 形成/v 各种/r 调制/v 波形/n 和通信协/nr 议/ng ，/w 故/c 还/d 可以/a 与/c 旧体/b 制/k 的/u 各种/r 电台/nc 通信/v ，/w 大大/a 延长/v 了/dg 电台/nc 的/u 使用/v 周期/n ，/w 也/d 节约/v 了/dg 成本/n 开支/n 。/w
+/0
+特性/n
+1/m ）/w 具有/v 很/d 强/a 的/u 灵活性/n 。/w 软件/n 无线电/n 可以通过/n 增加/v 软件/n 模块/n ，/w 很/d 容易/a 地/n 增加/v 新/a 的/u 功能/n 。/w 它/r 可以/a 与其/c 它/r 任何/r 电台/nc 进行/v 通信/v ，/w 并/c 可以/a 作为/n 其它/r 电台/nc 的/u 射频/n 中继/v 。/w 可以通过/n 无线/b 加载/v 来/u 改变/v 软件/n 模块/n 或/c 更新/v 软件/n 。/w 为了/p 减少/v 开支/n ，/w 可以/a 根据/n 所/n 需/ng 功能/n 的/u 强弱/n ，/w 取舍/v 选用/v 的/u 软件/n 模块/n 。/w /0
+2/m ）/w 具有/v 较/d 强/a 的/u 开放性/n 。/w 软件/n 无线电/n 由于/c 采用/v 了/dg 标准化/v 、/w 模块化/v 的/u 结构/n ，/w 其/r 硬件/n 可以/a 随着/p 器件/n 和/c 技术/n 的/u 发展/v 而/c 更新/v 或/c 扩展/v 。/w 软件/n 也/d 可以/a 随/ng 需要/n 而/c 不断/d 升级/v 。/w 软件/n 无线电/n 不仅/c 能/ng 和新/nr 体制/n 电台/nc 通信/v ，/w 还/d 能/ng 与/c 旧式/b 体制/n 电台/nc 相/d 兼容/v 。/w 这样/r ，/w 既/c 延长/v 了/dg 旧体/b 制/k 电台/nc 的/u 使用/v 寿命/n ，/w 也/d 保证/v 了/dg 软件/n 无线电/n 本身/r 有/v 很/d 长/a 的/u 生命/n 周期/n 。/w
+/0
+简单/a 描述/v
+通用/v 硬件/n +/0 软件/n 可/v 升级/v （/w 动态/n 加载/v 新/a 的/u 波形/n 和协议可/nr 使用/v 不同/a 的/u 波形/n 和/c 协议/n 操作/v ）/w 。/w
+/0
+
+MIMO/en
+/0
+定义/n
+MIMO/en ：/w (/w Multiple/en -/w Input/en Multiple/en -/w Output/en )/w 技术/n 指/ng 在/d 发射/v 端/ag 和/c 接收/v 端/ag 分别/d 使用/v 多个/n 发射/v 天线/n 和/c 接收/v 天线/n ，/w 使/ng 信号/n 通过/p 发射/v 端/ag 与/c 接收/v 端的/n 多个/n 天线/n 传送/v 和/c 接收/v ，/w 从而/c 改善/v 通信/v 质量/n 。/w 它/r 能/ng 充分/a 利用/v 空间/n 资源/n ，/w 通过/p 多个/n 天线/n 实现/v 多发/b 多/a 收/v ，/w 在/d 不/d 增加/v 频谱/n 资源/n 和/c 天线/n 发射/v 功率/n 的/u 情况/n 下/f ，/w 可以/a 成倍/d 的/u 提高/v 系统/a 信道/n 容量/n ，/w 显示/v 出/q 明显/a 的/u 优势/n 、/w 被/ng 视为/v 下一代/n 移动通信/ln 的/u 核心/n 技术/n 。/w
+/0
+特性/n
+1/m ）/w 基本/a 原理/n  /0
+发射/v 端/ag 通过/p 空/a 时/n 映射/v 将要/d 发送/v 的/u 数据/n 信号/n 映射/v 到/ng 多根/mq 天线/n 上/f 发送/v 出去/v ，/w 接收/v 端/ag 将/d 各/r 根/n 天线/n 接收/v 到/ng 的/u 信号/n 进行/v 空/a 时/n 译码/n 从而/c 恢复/v 出发/v 射/v 端/ag 发送/v 的/u 数据/n 信号/n 。/w
+2/m ）/w 分类/v
+/0  /0  /0  /0 A/b ）/w 空间/n 分/b 集/n ：/w 每个/r 发送/v 相同/a 的/u 信息/n ，/w 对抗/v 多/a 径/dg 干扰/v 。/w
+/0  /0  /0  /0  /0  /0  /0  /0 空间/n 分/b 集/n 是/v 指/ng 利用/v 多根/mq 发送/v 天线/n 将/d 具有/v 相同/a 信息/n 的/u 信号/n 通过/p 不同/a 的/u 路径/n 发送/v 出去/v ，/w 同时/c 在/d 接收机/n 端/ag 获得/v 同一个/b 数据/n 符号/n 的/u 多个/n 独立/a 衰落/v 的/u 信号/n ，/w 从而/c 获得/v 分/b 集/n 提高/v 的/u 接收/v 可靠性/n 。/w 举例来说/ldm ，/w 在/d 慢/a 瑞/ag 利/ag 衰落/v 信道/n 中/f ，/w 使用/v 一根/nz  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 发射/v 天线/n n/en 根/n 接收/v 天线/n ，/w 发送/v 信号/n 通过/p n/en 个/q 不同/a 的/u 路径/n 。/w 如果/c 各个/r 天线/n 之间/f 的/u 衰落/v 是/v 独立/a 的/u ，/w 可以/a 获得/v 最大/a 的/u 分/b 集/n 增益/v 为/p n/en 。/w 对于/p 发射/v 分/b 集技/n 术/ng 来说/u ，/w 同样/b 是/v 利用/v 多条/n 路径/n 的/u 增益/v 来/u 提高/v 系统/a 的/u 可靠性/n 。/w 在/d 一个/mq 具有/v m/n 根/n 发射/v 天/n  /0  /0  /0  /0  /0  /0  /0  /0 线/n n/en 根/n 接收/v 天线/n 的/u 系统/a 中/f ，/w 如果/c 天线/n 对/a 之间/f 的/u 路径/n 增益/v 是/v 独立/a 均匀/a 分布/v 的/u 瑞/ag 利/ag 衰落/v ，/w 可以/a 获得/v 的/u 最大/a 分/b 集/n 增益/v 为/p mn/n 。/w 目前/t 在/d MIMO/en 系统/a 中常/a 用/ng 的/u 空间/n 分/b 集技/n 术/ng 主要/b 有空/v 时分/n 组/n 码/ng （/w Space/en Time/en Block/en Code/en ，/w STBC/en ）/w 和/c 波束/n  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 成形/v 技术/n 。/w STBC/en 是/v 基于/p 发送/v 分/b 集/n 的/u 一/m 种/ng 重要/a 编码/n 形式/n ，/w 其中/r 最/d 基本/a 的/u 是/v 针对/v 二天/nz 线/n 设计/v 的/u Alamouti/en 方案/n 。/w
+/0  /0  /0  /0 B/n ）/w 空分/nz 复用/v ：/w 每个/r 天线/n 发送/v 不同/a 信息/n ，/w 提升/v 传输/v 速率/n ，/w 频谱/n 利用率/n 。/w
+/0  /0  /0  /0  /0  /0  /0  /0 （/w spatial/en multiplexing/en ）/w 工作/n 在/d MIMO/en 天线/n 配置/n 下/f ，/w 能够/v 在/d 不/d 增加/v 带宽/n 的/u 条件/n 下/f ，/w 相比/v SISO/en 系统/a 成倍/d 地/n 提升/v 信息/n 传输/v 速率/n ，/w 从而/c 极大/a 地/n 提高/v 了/dg 频谱/n 利用率/n 。/w 在/d 发射/v 端/ag ，/w 高速/b 率/ag 的/u 数据流/n 被/ng 分割/v 为/p 多个/n 较/d 低速/d 率/ag 的/u 子/k 数据流/n ，/w 不/d  /0  /0  /0  /0  /0  /0  /0  /0 同/a 的/u 子/k 数据流/n 在/d 不同/a 的/u 发射/v 天线/n 上/f 在/d 相同/a 频段/n 上/f 发射/v 出去/v 。/w 如果/c 发射/v 端/ag 与/c 接收/v 端的/n 天线/n 阵列/n 之间/f 构成/n 的/u 空域/n 子/k 信道/n 足够/v 不同/a ，/w 即/c 能够/v 在/d 时域/n 和频域/nr 之外/f 额外/b 提供/v 空域/n 的/u 维度/n ，/w 使得/v 在/d 不同/a 发射/v 天线/n 上传/v 送/v 的/u 信号/n 之间/f 能够/v 相互/b  /0  /0  /0  /0  /0  /0  /0  /0 区别/n ，/w 因此/c 接收机/n 能够/v 区分/v 出/q 这些/r 并行/v 的/u 子/k 数据流/n ，/w 而/c 不/d 需/ng 付出/v 额外/b 的/u 频率/n 或者/c 时间/n 资源/n 。/w 空间/n 复用/v 技术/n 在/d 高/a 信噪比/n 条件/n 下/f 能够/v 极大/a 提高/v 信道/n 容量/n ，/w 并且/c 能够/v 在/d “/w 开环/n ”/w ，/w 即/c 发射/v 端/ag 无法/v 获得/v 信道/n 信息/n 的/u 条件/n 下/f 使用/v 。/w  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Foschini/en 等/ng 人/n 提出/v 的/u “/w 贝尔实验室/nt 分层/v 空/a 时/n ”/w （/w BLAST/en ）/w 是/v 典型/a 的/u 空间/n 复用/v 技术/n 。/w
+/0
+简单/a 介绍/v
+多天/nz 线/n 发射/v 、/w 多天/nz 线/n 接收/v +/0 提升/v 信道/n 容量/n 。/w
+/0
+
+CCFD/en
+/0
+定义/n
+在/d 空中/s 接口/n 方面/n ，/w 同时/c 同频/v 全/a 双工/nz (/w CCFD/en :/w  /0  /0 Co/en -/w time/en Co/en -/w frequency/en Full/en Duplexing/en )/w 技术/n (/w 后面/f 简称/n “/w 全/a 双工/nz ”/w )/w 能够/v 在/d 相同/a 频率/n 同时/c 收发/n 电磁波/n 信号/n ，/w 相对/b 于/ng 现在/t 广泛/a 应用/v 的/u 时分/n 双工/nz 和频/nr 分/b 双工/nz ，/w 频谱/n 效率/n 有望/v 提升/v 一/m 倍/d 。/w
+/0
+特性/n  /0
+核心/n 问题/n 是/v 如何/r 在/d 本地/r 接收机/n 中/f 抑制/v 本地/r 设备/n 自己/r 发射/v 的/u 信号/n (/w 即/c 自干/nz 扰/ag )/w 。/w
+抵消/v 方式/n 有/v 三/m 种/ng ：/w
+1/m ）/w 天线/n 抵消/v ：/w 被动/a 自干/nz 扰/ag 消除/v (/w Passive/en Cancellation/en )/w
+/0  /0  /0  /0 天线/n 端/ag 主要/b 采用/v 增大/v 收发/n 天线/n 隔离/v 度/k 的/u 方法/n ，/w 如/c 简单/a 的/u 拉/v 远/a 本地/r 收发/n 天线/n 距离/n ，/w 采用/v 定向天线/ln 隔离/v ，/w 在/d 收发/n 天线/n 间/f 增加/v 隔离/v 材料/n ，/w 或/c 采用/v 阵列/n 波束/n ，/w 减弱/v 接收/v 天线/n 处/nc 的/u 干扰/v 信号/n 强度/n 等/ng 方法/n 。/w
+2/m ）/w 射频/n 抵消/v
+3/m ）/w 基带/n 抵消/v
+/0  /0  /0  /0 对射/v 频/ag 和/c 基带/n 部分/n 的/u 干扰/v 消除/v 主要/b 采用/v 主动/a 自干/nz 扰/ag 消除/v 方式/n ，/w 预先/d 进行/v 自干/nz 扰/ag 信信/nz 号/n 的/u 幅度/n 、/w 相位/n 做/v 精确/a 的/u 估计/v ，/w 再/d 重建/v 自干/nz 扰/ag 信号/n 并/c 与/c 接收/v 信号/n 反/b 相/d 迭加/ns ，/w 实现/v 自干/nz 扰/ag 消除/v 。/w
+/0  /0  /0  /0 自干/nz 扰/ag 参数/n 估计/v 越/d 精确/a ，/w 自干/nz 扰/ag 消除/v 越/d 彻底/a 。/w
+/0  /0  /0  /0 制约/v 全/a 双工/nz 自干/nz 扰/ag 消除/v 能力/n 主要/b 有/v 自干/nz 扰/ag 估计/v 和/c 重建/v 过程/n 中/f 的/u 误差/n 、/w 放大器/n 非线性/b 等/ng 因素/n 。/w
+/0
+简单/a 介绍/v
+相同/a 频率/n 同时/c 收发/n 电磁波/n 信号/n ，/w 提高/v 频谱/n 使用/v 效率/n 。/w
+/0
+
+OFDM/n
+/0
+定义/n
+OFDM/en (/w Orthogonal/en Frequency/en Division/en Multiplexing/en )/w 即/c 正交/b 频/ag 分/b 复用/v 技术/n ，/w 实际上/d OFDM/n 是/v MCM/en (/w Multi/en Carrier/en Modulation/en )/w ，/w 多/a 载波/n 调制/v 的/u 一/m 种/ng 。/w
+OFDM/n 主要/b 思想/n 是/v ：/w 将/d 信道/n 分成/v 若干/mq 正交/b 子/k 信道/n ，/w 将/d 高速/b 数据/n 信号/n 转换/v 成/ng 并行/v 的/u 低速/d 子/k 数据流/n ，/w 调制/v 到/ng 在/d 每个/r 子/k 信道/n 上进/a 行/a 传输/v 。/w 正交/b 信号/n 可以通过/n 在/d 接收/v 端/ag 采用/v 相关/v 技术/n 来/u 分开/v ，/w 这样/r 可以/a 减少/v 子/k 信道/n 之间/f 的/u 相互/b 干扰/v (/w ISI/en )/w 。/w 每个/r 子/k 信道/n 上/f 的/u 信号/n 带宽/n 小于/v 信道/n 的/u 相关/v 带宽/n ，/w 因此/c 每个/r 子/k 信道/n 上/f 可以/a 看成/v 平坦/a 性/k 衰落/v ，/w 从而/c 可以/a 消除/v 码/ng 间/f 串/q 扰/ag ，/w 而且/c 由于/c 每个/r 子/k 信道/n 的/u 带宽/n 仅仅/d 是/v 原/b 信道/n 带宽/n 的/u 一小/j 部分/n ，/w 信道/n 均衡/a 变得/v 相对/b 容易/a 。/w
+/0
+特性/n
+1/m ）/w 收发/n 流程/n  /0
+在/d 发射/v 端/ag ，/w 首先/c 对比/v 特/ag 流进/nz 行/a QAM/en 或/c QPSK/en 调制/v ，/w 然后/c 依次/d 经过/p 串/q 并/c 变换/v 和/c IFFT/en 变换/v ，/w 再/d 将/d 并行/v 数据/n 转化为/v 串行/b 数据/n ，/w 加上/v 保护/v 间隔/n （/w 又称/n “/w 循环/v 前缀/n ”/w ）/w ，/w 形成/v OFDM/n 码/ng 元/q 。/w 在/d 组/n 帧/q 时/n ，/w 须/d 加入/v 同步/b 序列/n 和信/nz 道/n 估计/v 序列/n ，/w 以便/c 接收/v 端/ag 进行/v 突发/v 检测/v 、/w 同步/b 和信/nz 道/n 估计/v ，/w 最后/f 输出/v 正交/b 的/u 基带/n 信号/n 。/w
+在/d 接收/v 端/ag ，/w 当/ag 接收机/n 检测/v 到/ng 信号/n 到达/v 时/n ，/w 首先/c 进行/v 同步/b 和信/nz 道/n 估计/v 。/w 当/ag 完成/v 时间/n 同步/b 、/w 小数/n 倍/d 频/ag 偏/a 估计/v 和/c 纠正/v 后/f ，/w 经过/p FFT/n 变换/v ，/w 进行/v 整数/n 倍/d 频/ag 偏/a 估计/v 和/c 纠正/v ，/w 此时/r 得到/v 的/u 数据/n 是/v QAM/en 或/c QPSK/en 的/u 已/d 调/n 数据/n 。/w 对/a 该/r 数据/n 进行/v 相应/v 的/u 解调/v ，/w 就/d 可/v 得到/v 比特/q 流/ng 。/w
+2/m ）/w 调制/v 方式/n
+OFDM/n 是/v 正交/b 频/ag 分/b 复用/v ，/w 将/d 信道/n 分成/v 若干/mq 正交/b 子/k 信道/n ，/w 将/d 高速/b 数据/n 信号/n 转换/v 成/ng 并行/v 的/u 低速/d 子/k 数据流/n ，/w 调制/v 到/ng 在/d 每个/r 子/k 信道/n 上进/a 行/a 传输/v 。/w
+解调/v 时/n 要/v 用/ng 一个/mq 有/v 乘积/n 积分/n 功能/n 的/u 滤波器/n 来/u 提取/v 每/r 一路/n 信号/n ，/w 由于/c 各自/r 载波/n 之间/f 的/u 正交/b 性/k ，/w 就/d 可以/a 很/d 好/a 地/n 提取/v 各路/b 信号/n 。/w
+在/d 通信/v 系统/a 中/f ，/w 例如/v 我们/r 用/ng 手机/np 打电话/v 的/u 时候/n ，/w 通话/v 数据/n 被/ng 采样/v 后/f ，/w 会/n 形成/v D/en 0/m 、/w D/en 1/m 、/w D/en 2/m 、/w D3/n 、/w D/en 4/m 、/w D/en 5/m ……/w 这样/r 连续/a 的/u 数据流/n 。/w
+FDM/en 就是/n 把/p 这个/r 序列/n 中/f 的/u 元素/n 依次/d 地/n 调制/v 到/ng 指定/v 的/u 频率/n 后发/v 送/v 出去/v 。/w
+OFDM/n 就是/n 先/d 把/p 序列/n 划分/v 为/p D/en 0/m 、/w D/en 4/m 、/w D/en 8/m ……/w D/en 1/m 、/w D/en 5/m 、/w D/en 9/m ……/w D/en 2/m 、/w D/en 6/m 、/w D/en 10/m ……/w D3/n 、/w D/en 7/m 、/w D/en 11/m ……/w 这样/r 4/m 个子/n 序列/n （/w 此处/r 子/k 序列/n 个数/n 仅/d 为/p 举例/v ，/w 不/d 代表/nx 实际/a 个数/n ）/w ，/w 然后/c 将/d 第一/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F1/n 上/f 并发/v 送/v 出去/v ，/w 第二/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F2/v 上/f 并发/v 送/v 出去/v ，/w 第三/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F3/n 上/f 并发/v 送/v 出去/v ，/w 第四/m 个子/n 序列/n 的/u 元素/n 依次/d 调制/v 到/ng 频率/n F4/n 上/f 并发/v 送/v 出去/v 。/w F1/n 、/w F2/v 、/w F3/n 、/w F4/n 这/r 四/m 个/q 频率/n 满足/a 两两/m 正交/b 的/u 关系/n ，/w 如下/v 图/n 所/n 示/vg 。/w  /0
+/0
+简单/a 介绍/v
+OFDM/n ：/w 正交/b 频/ag 分/b 复用/v 。/w 将/d 原始/a 信道/n 分成/v 若干/mq 个子/n 信道/n 传递/v 信号/n +/0 提高/v 传输/v 速率/n 、/w 克服/v 频率/n 选择性/n 衰落/v 。/w
+
+---------------------/t
+本文/r 来自/v cdjccio/en 的/u CSDN/en 博客/n ，/w 全文/n 地址/n 请/v 点击/v ：https://blog.csdn.net/qq_34624951/article/details/78649703?utm_source=copy/url
+/0
+
+（/w 二/m ）/w
+
+1./m 到底/d 啥/r 是/v 5/m G/m
+5/m G/m 是/v 正经/a 5/m G/m ，/w 可惜/a 被/ng 玩儿/v 坏/a 了/dg 。/w 现在/t 到处/d 都/d 说是/n 5/m G/m 技术/n ，/w 例如/v 全/a 双工/nz ，/w 已经/d 明确/a 的/u 被/ng 排除/v 出/q 5/m G/m 的/u 备选/v 技术/n 。/w 还有/v 一些/mq 技术/n （/w 重灾区/n 是/v 多/a 址/ng ）/w 注定/v 会/n 被/ng 大量/mq 淘汰/v ，/w 据说/v 现在/t 在/d 提案/n 中/f 出现/v 八/m 种/ng 多/a 址/ng 技术/n ，/w 楼主/n 估计/v NR/n 最终/d 最/d 多/a 接受/v 三/m 种/ng ：/w eMBB/en 两/m 种/ng （/w DL/n 、/w UL/en ）/w ，/w IoT/en 接受/v 一/m 种/ng （/w UL/en ）/w 。/w 其他/r 还有/v 一些/mq 其他/r 备选/v 技术/n 也/d 有点/d 悬/a ，/w 例如/v 编码/n 。/w
+5/m G/m 的/u 正式/a 定义/n 来自/v 于/ng ITU/n 。/w ITU/n 的/u 技术/n 报告/n 给出/v 明确/a 的/u 三个/n 场景/n 、/w 需求/n （/w KPI/en ）/w 、/w 时间表/n （/w 标准/a 制定/v 、/w 提交/v 、/w 验证/v ）/w 。/w
+任何/r 的/u 标准/a 组织/n （/w 包括/v 3/m GPP/en 、/w IEEE/n 、/w 甚至/c CCSA/en ）/w 都/d 可以/a 按照/p 要求/n 的/u 时间/n （/w 2020年/t Q/en 3/m ）/w 提交/v 完整/a 的/u 解决方案/n ，/w 通过/p ITU/n 指定/v 的/u 第三方/n 机构/n 验证/v 后/f ，/w 能够/v 满足/a ITU/n 需求/n 的/u 的/u 方案/n 就/d 被/ng 认定/v 为/p 5/m G/m 标准/a 。/w
+在/d 3G/n 阶段/n ，/w 通过/p 验证/v ，/w 满足/a 需求/n 的/u 标准/a 有/v 几/m 个/q （/w CDMA/en 2000/m ，/w WCDMA/n ，/w TD/en -/w SCDMA/n ，/w WiMAX/n ）/w ，/w 所以/c 被/ng 称为/v IMT/en -200/m 0/m family/en 。/w
+到/ng 了/dg 4G/n （/w IMT/en -/w Advanced/en ）/w ，/w 虽然/c 3/m GPP/en 2/m 和/c IEEE/n 都/d 有/v 各自/r 的/u 计划/n ，/w 但是/c 因为/c 缺乏/v 运营商/n 支持/v ，/w 最终/d 都/d 没/d 得到/v 实行/v 。/w 实际/a 的/u 4G/n 标准/a 只有/c 来自/v 3/m GPP/en 的/u LTE/en -/w Advanced/en （/w Release/en 10/m and/en forward/en )/w 。/w
+5/m G/m 的/u 正式/a 名字/n 是/v IMT/en -2020/m ，/w 值得一提的是/l ，/w 这个/r 名字/n 最早/d 是/v 国内/s 提出/v 的/u 。/w CAICT/en （/w 信/n 通/a 院/n ）/w 领导/n 的/u 5/m G/m 推进组/n 英明/a 的/u 首创/v 了/dg IMT/en -2020/m 这个/r 名字/n （/w 据说/v 还/d 注册/v 了/dg 商标/n ）/w ，/w 最终/d 被/ng ITU/n 采纳/v 。/w
+2015年6月/t ，/w ITU/n 定义/n 了/dg IMT/en -2020/m 的/u 需求/n ，/w 目前/t 已经/d 进入/v 评估/n 准备/v 阶段/n 。/w 在/d ITU/en -/w R/en WP/en 5/m D/n 工作组/nc 下设/v 立/d 了/dg 评估/n 工作组/nc ，/w 正在/n 制定/v 评估/n 方法/n 和/c 报告/n 模板/n 。/w 再次/d 值得一提的是/l ，/w 评估组/n 的/u co/en -/w chair/en 是/v 中国/ns 代表/nx 彭莹/nr 。/w
+ITU/n 制定/v 了/dg 计划/n 、/w 需求/n ，/w 5/m G/m 还是/c 需要/n 具体/a 的/u 标准/a 组织/n （/w SDO/en ）/w 落地/v 的/u 。/w 目前/t ，/w 只有/c 3/m GPP/en 公布/v 了/dg 完整/a 的/u 5/m G/m 标准/a 制定/v 计划/n 。/w 计划/n 在/d 2019年/t 完成/v 全部/mq 标准/a ，/w 满足/a ITU/n 的/u 3/m 个/q 场景/n （/w eMBB/en 、/w Massive/en IoT/en 和/c URLLC/en ）/w 的/u 全部/mq KPI/en 。/w 其他/r 标准/a 组织/n 里/f ，/w IEEE/n 近期/t 也/d 提出/v 了/dg 5/m G/m 计划/n （/w 两/m 种/ng 方案/n ）/w ：/w 采用/v 双连/nz 接/ng （/w 或/c 多/a 连接/v ）/w 的/u 方式/n 接入/v 3/m GPP/en 5/m G/en NR/n 空口/d 和/c 提供/v 融合/v 了/dg IEEE802.1/url 多种/a 接入/v 方式/n （/w 11/m ax/en 、/w 11/m ay/en 等/ng ）/w 的/u 独立/a 接入网/n 。/w
+对应/v 于/ng LTE/en ，/w 3/m GPP/en 的/u 5/m G/m 空口/d 技术/n 被/ng 称为/v New/en Radio/en （/w NR/n ）/w 。/w 如果/c 没有/d 意外/a ，/w 未来/t 的/u 5/m G/m 空口/d 技术/n 将/d 被/ng 称为/v 5/m G/en NR/n 。/w
+
+/0
+
+2 - 1/t ./m 自/d 包含/v （/w Self/en -/w contained/en ）/w 帧/q 结构/n -/w 1/m
+想来/v 想/v 去/v ，/w 还是/c 先/d 写/v 帧/q 结构/n 吧/y ，/w 毕竟/d 这个/r 对/a 中国/ns 标准/a 界/k 和/c 我/r 都/d 有/v 特殊/a 的/u 含义/n 。/w
+不得不/d 从/p LTE/en TDD/n 的/u 帧/q 结构/n 说起/v 。/w
+LTE/en 项目/n 在/d 3/m GPP/en 启动/v 之后/f ，/w 国内/s 也/d 开始/v 了/dg 研究工作/n 。/w 主要/b 思路/n 之一/r 就是/n 延续/v TD/en -/w SCDMA/n 的/u 思路/n ，/w 设计/v LTE/en TDD/n 方式/n 的/u 技术/n 方案/n 。/w 由于/c LTE/en TDD/n 比较/d 拗口/a ，/w 同时/c 也/d 为了/p 和/c TD/en -/w S/b 统一/a ，/w 改称/v 为/p TD/en -/w LTE/en 。/w 开始/v 老外/n 不/d 太/ag 明白/a TD/en -/w LTE/en 是/v 啥/r ，/w 后来/t 慢慢/d 也/d 就/d 认可/v 了/dg ，/w 现在/t 还有/v 一个/mq 全球性/n 的/u TD/en -/w LTE/en 推进/v 论坛/nh ，/w 就/d 叫/v Global/en TD/en -/w LTE/en Initiatives/en ，/w 简称/n GTI/en 。/w
+当时/t 的/u 设计/v 思路/n 是/v 与/c TD/en -/w S/b 共享/v 频谱/n ，/w 需要/n 考虑/v 邻/ng 频/ag 共存/v 。/w 由于/c TDD/n 最大/a 的/u 干扰/v 是/v 交叉/v 干扰/v （/w 干扰源/n BS/n 发送/v 干扰/v 受害/v BS/n 接收/v ）/w ，/w 所以/c 邻/ng 频/ag 共存/v 就/d 得到/v 了/dg 一个/mq 必然/d 的/u 结果/c ：/w TD/en -/w L/b 的/u 帧/q 结构/n 必须/d 与/c TD/en -/w S/b 完全/a 一致/a -/w 即/c 0.625/m ms/n 的/u 子/k 帧/q 。/w 这个/r 设计/v 在/d 3/m GPP/en 研究报告/n 存在/v 了/dg 很/d 长时/nz 间/f ，/w 直到/v 欧洲/ns 公司/nc 为了/p 保证/v LTE/en FDD/n 和/c TD/en -/w LTE/en 设计/v 的/u 最大/a 一致性/n ，/w 强行/d revise/en 结论/n 。/w TD/en -/w L/b 的/u 子/k 帧/q 被/ng 设计/v 为/p 和/c LTE/en FDD/n 一致/a 的/u 1/m ms/n ，/w 相应/v 的/u 符号/n 长度/n 和/c CP/n 长度/n 也/d 用/ng 了/dg 完全/a 一样/a 的/u 设计/v 。/w 期间/f 还有/v 个/q 小/a 插曲/n ，/w 国内/s 的/u 某些/r 领导/n 不/d 太/ag 满意/v TD/en -/w L/b 帧/q 结构/n 被/ng 称为/v Alternative/en Frame/en structure/en ，/w 认为/v Alternative/en 显得/v TD/en -/w L/b 和/c LTE/en FDD/n 似乎/d 不对/a 等/ng ，/w 要求/n 3/m GPP/en 改为/v type/en 2/m Frame/en Structure./url
+
+/0
+
+/0
+
+/0
+
+2/m -/w 2./m 自/d 包含/v 子/k 帧/q -/w 2/m  /0
+在/d 3G/n 、/w 4G/n 时代/n ，/w TDD/n 系统/a 虽然/c 是/v 主流/n 标准/a 之一/r ，/w 但/c 由于/c TDD/n 频段/n 偏/a 高/a ，/w 网络/n 覆盖/v 较差/a 、/w 运营商/n 投资/n 高/a ，/w 除了/p 中国/ns 的/u 特殊/a 国情/n 以外/f ，/w 其他/r 地区/ny 主流/n 运营商/n 采用/v TDD/n 系统/a 独立/a 组网/n 、/w 运营/v 的/u 并/c 不/d 多/a 。/w
+话说/v 到/ng 了/dg 5/m G/m 时代/n ，/w 情况/n 不/d 太/ag 一样/a 了/dg 。/w 首先/c 是/v 新/a 的/u FDD/n 频率/n 实在/a 太/ag 难找/a 了/dg ，/w 唯一/b 的/u 可能/a 就是/n 二/m 次数/n 字/n 红利/n （/w DD/n ，/w Digital/en Dividend/en ）/w 广播/n 业务/n 退出/v 的/u 频段/n （/w 600/m MHz/q ）/w ，/w 但/c 这个/r 频段/n 涉及到/v 广电/n 清/a 频/ag 这种/r 多个/n 行业/n 协调/v 问题/n ，/w 推动/v 缓慢/a ，/w 目前/t 只有/c 美国/ns 进入/v 了/dg 拍卖/v 阶段/n 。/w 其次/c ，/w 1.8/m GHz/en –/0 2.6/m GHz/q 之间/f 这/r 段/n 频率/n 基本/a 都/d 处于/v 3G/n 或/c 4G/n 的/u 现/d 网/n 运营/v 状态/n ，/w 何时/r 重/a 耕/v 需要/n 看/u 政府/nc 的/u 策略/n 和运/nr 营商/n 的/u 商业/n 计划/n 。/w 但是/c 5/m G/m 需要/n 的/u 频率/n 量/n 之/u 大/a 前所/nz 未/d 遇/ng ，/w DD/n 和/c 重/a 耕/v 都/d 不能/v 解决/v 实质/n 问题/n ，/w 更多/n 新/a 频率/n 只能/v 在/d 3.5/m GHz/q 以上/f 发挥/v 了/dg 。/w 从/p 3.5/m GHz/q 到/ng 70/m GHz/q ，/w 几乎/d 所有/b 的/u IMT/en 备选/v 频率/n 都/d 是/v TDD/n 划分/v 。/w
+总结/n 成/ng 一句话/n ：/w 5/m G/m 时代/n 真的/d 要/v 看/u TDD/n 了/dg 。/w
+吸取/v 4G/n 时代/n TD/en -/w LTE/en 的/u 设计/v 经验/n ，/w 结合/v 被/ng 广泛/a 看好/v 的/u Massive/en MIMO/en 技术/n ，/w 5/m G/m 时代/n TDD/n 系统/a 设计/v 主要/b 有/v 两个/n 目标/n ：/w
+1./m 更快/n 的/u 系统/a 反馈/v ：/w 为了/p 提供/v 更/d 低/a 的/u 端/ag 到/ng 端/ag 传输/v 时延/j ，/w 5/m G/m 系统/a 需要/n 更/d 低/a 的/u RTT/en （/w 消息/n 往返/v 时间/n ，/w Round/en Trip/en Time/n ）/w 。/w 在/d TD/en -/w LTE/en 帧/q 结构/n 的/u 七/m 种/ng 配置/n 中/f ，/w 最快/a 的/u 反馈/v 大约/d 是/v 1/m ms/n ；/w 如果/c 不幸/a 的/u 配置/n 成/ng 了/dg 8/m :/w 1/m 的/u 配置/n ，/w 最/d 慢/a 的/u 系统/a 反馈/v 将/d 是/v 9/m ms/n 。/w
+2./m 更快/n 的/u 信道/n 测量/v ：/w MIMO/en 在/d TDD/n 频段/n 使用/v 最大/a 的/u 优点/n 是/v 利用/v 信道/n 互/d 易性/n ，/w 通过/p 测量/v 上行/v 导/vg 频/ag 获得/v 下行/v 信道/n 部分/n 信息/n （/w 波束/n 方向/n ）/w 。/w 考虑/v 到/ng 毫米波/n 频段/n 的/u 信道/n 快速/b 变化/v ，/w 5/m G/m 的/u TDD/n 系统/a 需要/n 提供/v 更多/n 的/u 上行/v 导/vg 频发/v 送/v 时机/n 。/w
+从快/d 速/ag 反馈/v 的/u 需求/n 出发/v ，/w 最/d 直接/a 的/u 设计/v 就是/n 同一个/b 子/k 帧/q 里/f 同时/c 包含/v DL/n 、/w UL/en 和/c GP/n 。/w 下图/n 是/v RAN/en 1/m #/w 85/m 会议/nh 提案/n 中/f 的/u 示意图/n 。/w
+/0
+
+
+
+2016-8-19 23:13 上/t 传/ng
+
+下载/v 附件/n  /0 (/w 44.3/m 5/m KB/en )/w
+
+/0
+
+/0
+
+/0
+
+
+图/n （/w a/b ）/w 是/v 自/d 包含/v 子/k 帧/q ，/w 具备/v 三个/n 特点/n ：/w
+•/0  /0  /0  /0  /0  /0  /0 同一/b 子/k 帧/q 内/f 包含/v DL/n 、/w UL/en 和/c GP/n
+•/0  /0  /0  /0  /0  /0  /0 同一/b 子/k 帧/q 内/f 包含/v 对/a DL/n 数据/n 和/c 相应/v 的/u HARQ/en 反馈/v
+•/0  /0  /0  /0  /0  /0  /0 同一/b 子/k 帧/q 内/f 传输/v UL/en 的/u 调度/n 信息/n 和/c 对应/v 的/u 数据/n 信息/n
+考虑/v 到/ng 自/d 包含/v 子/k 帧/q 对/a 硬件/n 处理/v 能力/n 的/u 要求/n 很/d 高/a ，/w 低端/n 手机/np 可能/a 不具/v 备/dg 相应/v 的/u 硬件/n 能力/n ，/w 提案/n 中/f 也/d 包含/v 了/dg 图/n （/w b/n ）/w 中/f 的/u 较/d 低/a 要求/n 方案/n 。/w 这种/r 方案/n 中/f HARQ/en 反馈/v 和/c 调度/n 都/d 有/v 更多/n 的/u 时间/n 余量/n ，/w 对/a 终端/n 硬件/n 的/u 处理/v 能力/n 要求/n 较/d 低/a 。/w 而且/c ，/w 自/d 包含/v 子/k 帧/q 很/d 容易/a 通过/p 信令/n 指示/n 终端/n 支持/v 这种/r 配置/n 。/w
+在/d Verizon/en 的/u V/en 5/m G/m 方案/n 中关/ns 注/ng 到/ng 了/dg MIMO/en 信道/n 测量/v 这个/r 问题/n 。/w 通过/p 在/d 同一个/b 子/k 帧/q 内/f 同时/c 包含/v DL/n 、/w UL/en 和/c GP/n ，/w 利用/v UL/en 发送/v RS/n 进行/v 信道/n 测量/v 。/w 但是/c V/en 5/m G/m 对/a HARQ/en 反馈/v 时延/j 要求/n 不/d 高/a ，/w 不必/d 在/d 同一/b 子/k 帧/q 内/f 反馈/v 。/w
+TD/en -/w LTE/en 帧/q 结构设计/n 主要/b 考虑/v 了/dg 两个/n 问题/n ：/w 当/ag 相邻/v 小区/ny UL/en //w DL/n 不能/v 对齐/v 时/n 相邻/v 小区/ny 的/u 交叉/v 干扰/v 和/c GP/n 对于/p 小区/ny 覆盖/v 的/u 影响/v 。/w 相比/v 于/ng 传统/a TDD/n 帧/q 结构设计/n ，/w 自/d 包含/v 子/k 帧/q 提供/v 了/dg 更/d 大/a 的/u 灵活性/n ，/w 但/c 它/r 是否/v 会面/v 临/ng TD/en -/w LTE/en 设计/v 时/n 同样/b 的/u 挑战/v 呢/ng ？/w
+•/0  /0  /0  /0  /0  /0  /0 首先/c 是/v 相邻/v 小区/ny 的/u 交叉/v 干扰/v 。/w 如果/c 相邻/v 小区/ny 采用/v 不能/v 完全/a 对齐/v 的/u UL/en //w DL/n 配置/n ，/w 会/n 有/v 一个/mq 时间/n 片段/n 存在/v 交叉/v 部分/n 。/w 自/d 包含/v 子/k 帧/q 在/d 设计/v 时/n 考虑/v 了/dg 一些/mq 措施/n ：/w 首先/c 将/d DL/n 控制/v 部分/n 完全/a 对齐/v ，/w 避免/v 最重/a 要/v 的/u 控制/v 部分/n 受到/v 干扰/v ；/w 其次/c 在/d 数据/n 部分/n 通过/p 纠错/v 编码/n 、/w HARQ/en 等/ng 技术/n 对抗/v 干扰/v 带来/v 的/u 影响/v 。/w
+•/0  /0  /0  /0  /0  /0  /0 其次/c 是/v 较/d 小/a 的/u GP/n 限制/v 了/dg 小区/ny 覆盖/v 范围/n 。/w 小区/ny 的/u 覆盖/v 范围/n 取决于/v GP/n 的/u 大小/n ，/w 即/c 小区/ny 半径/n R/en =/0 C/n （/w 电磁波/n 速度/n ，/w 即/c 光速/n ）/w */w GP/en //w 2/m 。/w 但/c 高频/b 率/ag 无线电波/n 在/d 空气/n 中/f 传播/v 损耗/n 大/a ，/w 本身/r 覆盖/v 范围/n 有限/a ，/w 相应/v 的/u GP/n 长度/n 很小/d 。/w 也就是说/ldm ，/w 这个/r 问题/n 在/d 载频/n 变/v 高/a 后/f 就/d 不再/d 是/v 主要矛盾/ln 了/dg 。/w
+在/d 5月/t 的/u 南京/ns RAN/en 1/m 会议/nh ，/w 自/d 包含/v 子/k 帧/q 的/u 基本/a 设计/v 在/d E/en 、/w Q/en 、/w Z/en 、/w D/n 几/m 家公/n 司/nc 共同/b 的/u 推动/v 下/f 获得/v 了/dg 通过/p 。/w 可以/a 预测/v ，/w 自/d 包含/v 子/k 帧/q 对/a 5/m G/m 物理层/n 的/u 设计/v 会/n 起到/v 支柱性/n 作用/n ，/w 3/m GPP/en 将/d 以此/d 为/p 基础/n ，/w 结合/v sub/en -/w carrier/en spacing/en 等/ng 参数/n ，/w 尽快/d 完成/v 帧/q 结构设计/n 。/w
+/0
+
+
+
+/0
+
+2/m -/w 3./m 自/d 包含/v 子/k 帧/q -/w 3/m
+直面/v 自/d 包含/v 子/k 帧/q 时延/j 挑战/v –/0 Scaled/en Symbol/en Control/en Design/en
+ITU/n 的/u IMT-2020.VISION/url 对/a 5/m G/m （/w IMT/en -2020/m ）/w 空中/s 信号/n 传输/v 时延/j 提出/v 了/dg 1/m ms/n 要求/n ：/w
+“/w IMT/en -202/m 0/m would/en be/en able/en to/en provide/en 1/m ms/en over/en -/w the/en -/w air/en latency/en ,/w capable/en of/en supporting/en services/en with/en very/en low/en latency/en requirements./url ”/w
+自/d 包含/v 子/k 帧/q 的/u 设计/v 目标/n 之一/r 就是/n 在/d 同一/b 子/k 帧/q 内/f 通过/p 反馈/v UL/en ACK/en ，/w 保证/v 低/a 时延/j 。/w 可是/c ，/w 问题/n 来/u 了/dg ，/w 手机/np 是否/v 真的/d 能/ng 那么/c 快/a 的/u 处理/v 信号/n 、/w 并/c 生成/v 反馈/v 呢/ng ？/w
+/0
+
+
+
+/0
+
+下载/v 附件/n  /0 (/w 21.0/m 3/m KB/en )/w
+
+/0
+
+/0
+
+/0
+
+/0
+
+自/d 包含/v 子/k 帧/q 示意图/n （/w DL/en Centric/en ）/w
+
+
+在/d 示意图/n 中/f ，/w 为了/p 通过/p 快速/b 反馈/v 降低/v 时延/j ，/w UE/en 会/n 在/d 同一个/b 子/k 帧/q 内/f 的/u UL/en 符号/n 传输/v 针对/v DL/n 数据/n 的/u ACK/en 。/w 假设/n DL/n 数据/n 占用/v T/en 0/m -/w >/w T/en 1/m 的/u 全部/mq 符号/n （/w 蓝色/n ）/w ，/w 一个/mq 能够/v 充分/a 利用/v 流水/n 处理/v 接收/v 信号/n 的/u UE/en 会/n 在/d 接收/v 到/ng 每/r 一个/mq DL/n 符号/n 之后/f ，/w 马上/d 开始/v 开始/v 解调/v ，/w 解码/v 等/ng 处理/v （/w 充分/a 流水/n 处理/v 也/d 即/c 是/v 自/d 包含/v 子/k 帧/q 的/u 设计理念/n 之一/r ）/w 。/w UE/en 将/d 在/d T/en 1/m +/0 TLatency/en （/w BS/n 到/ng UE/en 的/u 空口/d 传输/v 时延/j ）/w 时刻/d 接收/v 全部/mq DL/n 数据/n ，/w 在/d 这/r 之后/f 大致/b 还/d 需要/n 一个/mq 符号/n 的/u 时间/n 来/u 处理/v 最后/f 一个/mq DL/n 符号/n 的/u 数据/n 。/w
+为了/p 保证/v 小区/ny 内/f 各个/r UE/en 信号/n 同时/c 到达/v BS/n ，/w UE/en 需要/n 在/d T/en 2/m -/w TLatency/en 时刻/d 发送/v UL/en ACK/en 。/w 也就是说/ldm ，/w 留给/v UE/en 处理/v 数据/n 的/u 时间/n 大约/d 是/v T/en 2/m –/0 T/en 1/m –/0 2/m ×/m TLatency/en 。/w 为/p 保证/v UE/en 有/v 足够/v 的/u 处理/v 时间/n ，/w 似乎/d 必须/d 得/e 在/d 帧/q 结构/n 里/f 预留/v 一个/mq 额外/b 的/u 符号/n 作为/n 数据处理/n 时间/n 。/w
+举/ag 个例/n 子/k ：/w 假设/n UE/en 处理/v DL/n 数据/n 的/u 时间/n TD/n 较大/a （/w 即/c TD/en >/w T/en 2/m –/0 T/en 1/m –/0 2/m ×/m TLatency/en ）/w ，/w 在/d 帧/q 结构设计/n 时/n 需要/n 预留/v 灰色/n 部分/n 来/u 保证/v UE/en 有/v 足够/v 的/u 时间/n 处理/v DL/n 数据/n ，/w 即/c T/en 22/m –/0 T/en 1/m –/0 TLatency/en ≥/0 TD/n 。/w 假设/n 小区/ny 半径/n 1/m 公里/q ，/w 空口/d 往返/v 延时/v 大约/d 6/m us/en ，/w 数据处理/n 时间/n 大致/b 为/p 一个/mq 符号/n 35/m us/en ，/w 数据处理/n 时间/n 远远/d 大于/v 空口/d 往返/v 延时/v 。/w
+/0
+
+
+
+2016-8-20 17:38 上/t 传/ng
+
+下载/v 附件/n  /0 (/w 22.2/m 9/m KB/en )/w
+
+/0
+
+/0
+
+/0
+
+
+很/d 自然/a 的/u 想到/v ，/w 难道/d 大部分/n 灰色/n 部分/n 只能/v 空/a 着/n 吗/r ？/w 能不能/vbv 传/ng 点/m 有用/a 的/u 数据/n 呢/ng ？/w 能想/nz 到/ng 这个/r ，/w 就/d 必须/d 给/v 你/r 点赞/v 了/dg 。/w
+仔细/a 分析/v 控制/v 信道/n 设计/v 会/n 发现/v ，/w 控制/v 信道/n 总/b 可以/a 归纳/v 为/p 两/m 部分/n ，/w 一部分/mq 没有/d 数据/n 依赖性/n ，/w 另/d 一部分/mq 则/c 具有/v 数据/n 依赖性/n 。/w UE/en 可以/a 在/d 这个/r 灰色/n 时间/n 区间/n 发送/v 与/c DL/n 数据/n 接收/v 无关/v 的/u 信息/n ，/w 例如/v 导/vg 频/ag 。/w 把/p UL/en ACK/en 分成/v 两个/n 较/d 短/a 的/u 符号/n 传输/v 。/w 第一/m 个/q 符号/n 传输/v 与/c DL/n 数据/n 接收/v 无关/v 的/u 导/vg 频/ag 可以/a 在/d 数据处理/n 的/u 同时/c 发送/v ，/w 第二/m 个/q 符号/n 传输/v ACK/en 在/d 数据处理/n 完成/v 后/f 再/d 发送/v 。/w 这时/r ，/w 只要/c 保证/v 缩短/v 符号/n （/w Scaled/en Symbol/en ）/w 的/u 长度/n 小于/v TD/n 就/d 可以/a 了/dg ，/w 既/c 给/v UE/en 留/ng 了/dg 足够/v 的/u 时间/n 接收/v DL/n 数据/n 、/w 生成/v ACK/en ，/w 又/d 充分/a 利用/v 了/dg 时间/n 资源/n 。/w 不仅如此/ldm ，/w Ack/en 到/ng 下/f 一个/mq 子/k 帧/q 之间/f 又/d 留出/v 了/dg 时间/n ，/w 这样/r 不仅/c 自/d 包含/v 同/a 帧/q Ack/en 实现/v 了/dg ，/w 子/k 帧/q 间/f 无间/v 断/d 的/u HARQ/en 处理/v 也/d 成为/v 了/dg 可能/a ！/w
+/0
+
+
+
+2016-8-20 17:38 上/t 传/ng
+
+下载/v 附件/n  /0 (/w 23.9/m 8/m KB/en )/w
+
+/0
+
+/0
+
+/0
+
+
+再/d 看/u 复杂度/n ，/w 缩短/v 符号/n 相应/v 的/u FFT/en  /0  /0 size/en 变小/v 了/dg ，/w 也/d 更/d 便于/v 基站/n 接收/v UL/en  /0  /0 ACK/en 的/u 流水作业/ln （/w 即/c 在/d 原本/d 只/bg 收到/v 半/m 个/q 符号/n 的/u 时间点/n 就/d 可以/a 开始/v 处理/v 导/vg 频/ag 信号/n 了/dg ）/w ，/w 总的/b 复杂度/n 不/d 增/ng 反/b 降/ng ，/w 真/a 可谓/v 两全其美/iv 。/w
+那么/c ，/w 这样/r 做/v 有/v 什么/r 代价/n 吗/r ？/w 会不会/vbv 影响/v UL/en 传输/v 性能/n 呢/ng ？/w
+假设/n 缩短/v 符号/n 是/v 按/p 比例/n 缩短/v ，/w 即/c CP/n 也/d 缩短/v 一半/m ，/w 这时/r 对抗/v （/w 多/a 径/dg 造成/v 的/u ）/w 时延/j 扩展/v 能力/n 会/n 相应/v 下降/v 。/w 对于/p UL/en 控制/v 信道/n （/w 导/vg 频/ag 和/c ACK/en ）/w ，/w 这个/r 影响/v 有/v 多/a 大/a 呢/ng ？/w
+/0
+
+30/m KHz/q 符号/n 和/c 60/m KHz/q 符号/n 的/u 设计/v 参数/n
+
+2016-8-20 17:39 上/t 传/ng
+
+下载/v 附件/n  /0 (/w 28.9/m 4/m KB/en )/w
+
+/0
+
+/0
+
+/0
+
+
+下图/n 是/v 信道/n 时延/j 扩展/v 为/p 300/m ns/en 时/n 的/u Geometry/en 分布/v 。/w 可以/a 看到/v ：/w 在/d Geometry/en 较大/a 的/u 区域/n （/w 大于/v 22/m dB/n ）/w ，/w Scaled/en CP/n 性能/n 开始/v 下降/v 。/w 但是/c ，/w 采用/v UL/en 缩短/v 符号/n 传输/v 控制/v 信道/n 需要/n 传输/v 的/u 仅仅/d 是/v 1/m 个/q 比特/q ，/w 码/ng 率/ag 非常/b 低/a ，/w Geometry/en 工作点/n 远远/d 低于/v 22/m dB/n 。/w 因此/c ，/w 缩短/v 符号/n 对/a 控制/v 信道/n 的/u 影响/v 可以/a 基本/a 忽略/v 。/w
+
+/0
+
+3/m -/w 1/m 多/a 址/ng -/w 引子/n
+5/m G/m 多/a 址/ng 有/v 两个/n 特点/n ：/w
+第一/m 是从/v 来/u 没有/d 这么/r 公司/nc 观点/n 如此/r 统一/a ：/w 5/m G/m 需要/n 新/a 的/u 多/a 址/ng ；/w
+第二/m 是从/v 来/u 没有/d 一个/mq 技术/n 有/v 这么/r 多/a 竞争/v 方案/n 。/w
+先/d 卖/v 个/q 关子/n ，/w 说/ag 一下/d 现有/v 的/u 多/a 址/ng 技术/n 。/w
+教科书/n 上/f 写/v 了/dg 不少/mq ，/w 就/d 不/d 多/a 说/ag TDMA/n 了/dg 。/w
+到/ng 了/dg 3G时代/n ，/w 作为/n 主要/b 的/u 技术创新/n 点/m ，/w 多/a 址/ng 技术/n 被/ng 提到/v 了/dg 前所未有/iv 重要/a 程度/n ，/w 甚至/c 系统/a 都/d 用/ng 多/a 址/ng 技术/n 来/u 命名/v -/w CDMA/n 、/w TD/en -/w SCDMA/n 、/w WCDMA/n 。/w 这/r 三/m 种/ng 技术/n 本质/n 都/d 是/v 使用/v 不同/a 的/u 码字/n 来/u 区分/v 用户/n 地址/n ，/w 最初/t 的/u 来源/n 都/d 是/v 一/m 位/q 美女/n 发明家/n 海蒂/n ./m 拉玛/nz （/w Hedy/en Lamarr/en ）/w 的/u 一个/mq 想法/n 。/w 民用/b CDMA技术/n 最大/a 的/u 贡献者/n 是/v Qualcomm/en ，/w 主要/b 解决/v 了/dg 组网/n 问题/n 。/w 关键/a 的/u 技术/n 包括/v 功率/n 控制/v 、/w 软/a 切换/v 、/w Rake/en 接收/v 等等/u 。/w 在/d CDMA/en IS/en -/w 95/m 出现/v 后/f ，/w 欧洲/ns 的/u ETSI/en 也/d 意识到/v 了/dg 下一代/n 技术/n 的/u 趋势/n 会/n 是/v CDMA/n 。/w 但是/c ，/w 作为/n 后来者/n 的/u ETSI/en 面临/v 着/n 技术/n 先行者/n Qualcomm/en 设置/v 的/u 巨大/a 专利池/n 。/w 为了/p 尽量/d 绕开/v 专利/n ，/w WCDMA/n 采用/v 了/dg 不同/a 的/u 码字/n 设计/v ，/w 但是/c 并/c 不能/v 避开/v 基本/a 的/u CDMA/n 组网/n 专利/n （/w 功率/n 控制/v 、/w 软/a 切换/v 、/w Rake/en 接收/v 等/ng ）/w ，/w 这/r 也/d 是/v Qualcomm/en 在/d 3G时代/n 声称/v 具有/v 核心/n 专利/n 的/u 原因/n 。/w
+在/d 2007年/t ，/w WiMAX/n 赶上/v 了/dg 3G时代/n 的/u 尾巴/n ，/w 进入/v 了/dg IMT/en -200/m 0/m family/en 。/w 它/r 最大/a 的/u 贡献/n 就是/n 将/d OFDMA/en 技术/n 引入/v 了/dg 蜂窝/n 通信/v 系统/a 。/w 相比/v 于/ng CDMA/n 这种/r 窄带/n 多/a 址/ng 技术/n ，/w OFDMA/en 对于/p 可/v 扩展/v 的/u 宽带/n 系统/a 支持/v 更好/d 。/w 同时/c ，/w 相比/v 于/ng 传统/a 的/u FDMA/n ，/w OFDMA/en 通过/p 完全/a 正交/b 的/u 相邻/v 子/k 载波/n 1/m //w 2/m 重迭/vn ，/w 提供/v 更/d 高/a 的/u 频谱/n 效率/n 。/w OFDMA/en 很快/d 引起/v 了/dg 业界/n 的/u 极大/a 关注/v ，/w 俨然/v 成为/v 4G/n 的/u 重要/a 备选/v 方案/n 。/w 换句话说/ldm ，/w OFDMA/en 此时/r 已经/d 成为/v 最大/a 的/u 移动通信/ln 技术/n “/w 网红/n ”/w 。/w
+IEEE/n 力推/v WiMAX/n 进入/v IMT/en -200/m 0/m family/en 有/v 两/m 层/n 含义/n ：/w 首先/c 是/v 为了/p 使用/v ITU/n 为/p 3G/n 划分/v 的/u 频率/n ；/w 更深/a 一/m 层/n 的/u 含义/n 是在/n 4G/n 时代/n 与/c 3/m GPP/en 正面/b 竞争/v 。/w IEEE/n 推出/v 的/u 4G/n 技术/n 是/v WiMAX/n （/w 802.16/m e/en ）/w 的/u 演进/v 版本/n –/0 802.16/m m/n 。/w 出身/n 较/d 晚/a 的/u WiMAX/n 标准/a 由于/c 采用/v 了/dg OFDMA/en 等/ng 技术/n ，/w 在/d 物理层/n 设计/v 显示/v 出/q 了/dg 强大/a 的/u 竞争力/n 。/w 3/m GPP/en 再次/d 感受/n 到/ng 了/dg 来自/v WiMAX/n 的/u 挑战/v 和/c 4G/n 时代/n 的/u 危机/n 。/w 为了/p 迎接/v 来自/v 16/m m/n 的/u 挑战/v ，/w 3/m GPP/en 在/d LTE/en 系统/a 中/f 引入/v OFDMA/en 和/c MIMO/en 技术/n ，/w 显/v 着/n 的/u 提升/v 了/dg 系统/a 的/u 频谱/n 效率/n 。/w 同时/c ，/w 3/m GPP/en 在/d 自己/r 擅长/v 的/u 电信网/n 络/ng 架构/n 方面/n 提出/v 了/dg “/w 扁平化/v ”/w 的/u 低/a 时延/j 设计/v 。/w 故事/n 的/u 结果/c 相信/v 各位/r 读者/n 已经/d 很/d 熟悉/v 了/dg ，/w 16/m m/n 由于/c 缺少/v 运营商/n 的/u 支持/v ，/w 最终/d 被/ng 终止/v 了/dg 。/w
+虽然/c IEEE/n 的/u 802.16/m m/n 失败/v 了/dg ，/w 但是/c WiMAX/n 和/c 16/m m/n 带来/v 的/u 多/a 址/ng 技术/n –/0 OFDMA/en 取得/v 了/dg 巨大/a 的/u 成功/a 。/w 这/r 也/d 是/v 迄今为止/lt ，/w 我们/r 能/ng 找到/v 的/u 最好/d 的/u 移动/v 宽带/n 系统/a 多/a 址/ng 方式/n 。/w
+那么/c ，/w 为什么/r 还/d 会/n 有/v 那么/c 多/a 5/m G/m 的/u 备选/v 多/a 址/ng 技术/n 出现/v 呢/ng ？/w 且/c 听/n 下回分解/l 。/w
+
+/0
+
+3/m -/w 2/m 多/a 址/ng -/w 2/m
+真心/d 后悔/v 没有/d 及时/a 写/v 完/ng 多/a 址/ng 技术/n ，/w 最近/t 三/m 次/a RAN/en 1/m 的/u 会议/nh 的/u 多/a 址/ng 技术/n 居然/d 呈现/v 线性/n 增长/v ，/w 搞/v 得/e 越/d 写/v 越多/nz 了/dg 。/w
+到/ng 了/dg 八月/t 下旬/t 的/u RAN/en 1/m #/w 86/m ，/w 居然/d 出现/v 了/dg 十五/m 种/ng 多/a 址/ng 提案/n 。/w 上次/t 会议/nh （/w RAN/en 1/m #/w 85/m ）/w 还/d 只有/c 不到/v 10/m 种/ng ，/w 再/d 上次/t 会议/nh 才/d 几/m 种/ng .../m
+这些/r 多/a 址/ng 技术/n 有/v 一个/mq 共同点/n ，/w 都/d 是非/n 正交/b 多/a 址/ng ，/w 目前/t 简称/n NOMA/en 。/w
+先/d 分辨/v 一个/mq 小/a 概念/n -/w NOMA/en 。/w 截止/v 目前/t 为止/u ，/w 出现/v 过/d 两/m 次/a NOMA/en ，/w 分别/d 是/v rel/en -/w 13/m 的/u LTE/en 和/c rel/en -/w 14/m 的/u 5/m G/en NR/n 。/w
+在/d Rel/en -/w 13/m 的/u 时候/n ，/w 日本/ns 的/u NTT/en DoCoMo/n 推动/v 了/dg 一/m 种/ng 功率/n 域/ng 的/u 非/d 正交/b 多/a 址/ng 技术/n ，/w 叫/v NOMA/en 。/w 主要/b 思路/n 是/v 把/p 信道/n 质量/n （/w SNR/en ）/w 相差/v 很大/a 的/u 两个/n 用户/n （/w UE/en 1/m 、/w UE/en 2/m ）/w 配对/v ，/w 在/d 同一个/b 时/n 频/ag 资源/n 块/q 上/f 发送/v 。/w 假设/n UE/en 1/m 离/ng 基站/n 很/d 近/a ，/w UE/en 2/m 离/ng 基站/n 很/d 远/a 。/w UE/en 2/m 需要/n 做/v 串行/b 干扰/v 消除/v （/w SIC/en ）/w ，/w 把/p 另/d 一个/mq UE/en 的/u 信号/n 减去/v ，/w 得到/v 本身/r 的/u 信号/n 。/w 好处/n 很/d 明显/a ，/w 资源/n 利用率/n 提高/v 了/dg ，/w 缺点/n 就是/n UE/en 需要/n 引入/v SIC/en 接收机/n ，/w 复杂度/n 提高/v 了/dg 。/w 这种/r NOMA/en 其实/d 还有/v 个/q 学术/n 的/u 名字/n 叫/v superposition/en coding/en ，/w 后来/t 3/m GPP/en 立项/v 就/d 用/ng 了/dg 这个/r 名字/n 叫/v MUST/en -/w Multi/en -/w User/en Superposition/en Transmission/en 。/w 根据/n 理论/n 分析/v ，/w 功率/n 域/ng 的/u superposition/en 可以/a 把/p 信道/n 容量/n 提升/v 一些/mq ，/w 画成/v 图形/n 就是/n 直线/d 被/ng 上/f 拉成/ns 了/dg 抛物线/n 。/w
+另/d 一个/mq 就是/n rel/en -14 5/m G/m 的/u NOMA/en 了/dg 。/w 这次/r 是/v 一类/b 技术/n 的/u 名称/n ，/w 就是/n 指/ng Non/en -/w Orthgnal/en MA/n 。/w 为什么/r 要/v 在/d 5/m G/m 提/n NOMA/en 呢/ng ？/w 主要/b 是/v 针对/v 物联网/n （/w IoT/en //w MTC/en ）/w 场景/n 提出/v 的/u 。/w 对于/p IoT/en 来说/u ，/w 每次/r 传输/v 的/u 数据/n 量/n 非常/b 小/a ，/w 按照/p 传统/a 的/u UL/en 资源/n 请求/n 、/w 传输/v 方式/n 非常/b 不/d 划算/a 。/w 就是说/ldm 建立/v 连接/v 需要/n 的/u 控制/v 信令/n 数据/n 量/n 已经/d 超过/v payload/en 本身/r 了/dg ，/w 划不来/a 啊/y 。/w 而且/c 时延/j 也/d 挺/ag 大/a ，/w 更/d 关键/a 的/u 是/v IoT/en 重要/a 指标/n 之一/r 是/v 省/ny 电/n ，/w NB/en -/w IoT/en 提出/v 的/u 指标/n 是/v 5/m W/en //w H/n 的/u 电池/np 用/ng 10/m 年/n 。/w 传统/a 的/u 资源/n 请求/n 、/w 传输/v 的/u 流程/n 增加/v 了/dg 耗电/v 。/w 很/d 自然/a 的/u 提出/v 一个/mq 问题/n ：/w 能不能/vbv 减少/v 两个/n 步骤/n ，/w 变成/v 直接/a 竞争/v 传输/v 呢/ng ？/w 这/r 就是/n Grant/en Free/en 或者/c 叫/v Contention/en Based/en 概念/n -/w UE/en 不/d 请求/n 资源/n ，/w 直接/a 在/d UL/en 发送/v 。/w 这样/r 碰撞/v 的/u 概率/n 就/d 会/n 增加/v ，/w 需要/n 设计/v 一/m 种/ng 方法/n ，/w 在/d 碰撞/v 的/u 情况/n 下/f 也/d 能/ng 正确/a 解/ng 出/q 信号/n ，/w 这/r 就/d 需要/n NOMA/en 技术/n 了/dg 。/w 因为/c NOMA/en 可以/a 提供/v 非常/b 大/a （/w 比/p 正交/b 多/a 址/ng 大/a 很多/mq ）/w 的/u 地址/n 空间/n ，/w 这样/r 随机/b 选择地/n 址/ng 并/c 碰撞/v 的/u 概率/n 就/d 大大/a 降低/v 了/dg 。/w
+华为/nz 的/u SCMA/en 、/w ZTE/en 的/u MUSA/en 、/w 大唐/nz 的/u PDMA/en 都/d 是/v 这/r 类/n 技术/n 。/w 其实/d 本质/n 都/d 是/v 构造/n 一个/mq 非/d 正交/b 向量/n 空间/n ，/w 供/ng UE/en 选择/n 并/c 传输/v 。/w 国内/s 很/d 看重/v 多/a 址/ng 的/u 创新/v ，/w 也/d 作为/n 主要/b 技术创新/n 点/m 大力/d 推动/v 。/w 但是/c 这种/r 非/d 正交/b 多/a 址/ng 技术/n 其实/d 并/c 不是/n 第一次/n 提出/v ，/w 最早/d 在/d 移动通信/ln 系统/a 中/f 应用/v 是/v CDMA/en 2000时/t 代/n ，/w 当时/t 也/d 是/v 为了/p 解决/v 地址/n 不够/a 的/u 问题/n ，/w 高通/nz 提出/v 了/dg 非/d 正交/b CDMA技术/n 。/w 这次/r ，/w 高通/nz 提出/v 的/u RSMA/en 技术/n 就是/n 非/d 正交/b CDMA技术/n 的/u 升级/v 技术/n 。/w 区别/n 只是/c 在于/v 构造/n 非/d 正交/b 向量/n 的/u 空间/n 方法/n 不同/a 。/w
+
+/0
+
+3/m -/w 3/m 多/a 址/ng -/w 3/m
+如果/c 问/v 主席/nx ：/w 问君能有几多愁/l 。/w 主席/nx 肯定/a 说/ag 看看/vv 多/a 址/ng 方案/n 就/d 知道/v 了/dg 。/w
+在/d 今年四月/t 的/u RAN/en 1/m #/w 84/m bis/en 上/f ，/w 主席/nx 报告/n 归纳/v 了/dg 所有/b 的/u NOMA/en 方案/n ，/w 一共/d 是/v 八/m 种/ng 。/w
+/0
+
+For/en UL/en ,/w Multi/en -/w user/en shared/en access/en (/w MUSA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162226/t )/w
+Resource/en spread/en multiple/en access/en (/w RSMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163510/t )/w
+Sparse/en code/en multiple/en access/en (/w SCMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162153/t )/w
+Pattern/en defined/en multiple/en access/en (/w PDMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163383/t )/w
+Non/en -/w orthogonal/en coded/en multiple/en access/en (/w NCMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162517/t )/w
+Low/en code/en rate/en spreading/en (/w e/en ./m g/en ./m ,/w R/en 1-162385/t )/w
+Frequency/en domain/en spreading/en (/w e/en ./m g/en ./m ,/w R/en 1-162385/t )/w
+Non/en -/w orthogonal/en multiple/en access/en (/w NOMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163111/t )/w
+
+到/ng 了/dg 八月/t 的/u RAN/en 1/m #/w 86/m 会议/nh 上/f ，/w 主席/nx 报告/n 再次/d 归纳/v 了/dg 所有/b 的/u NOMA/en 方案/n ，/w 就/d 变成/v 15/m 种/ng 了/dg 。/w
+/0
+
+Sparsecode/en multiple/en access/en (/w SCMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162153/t )/w
+Multi/en -/w usershared/en access/en (/w MUSA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162226/t )/w
+Lowcode/en rate/en spreading/en (/w e/en ./m g/en ./m ,/w R/en 1-162385/t )/w
+Frequencydomain/en spreading/en (/w e/en ./m g/en ./m ,/w R/en 1-162385/t )/w
+Non/en -/w orthogonalcoded/en multiple/en access/en (/w NCMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162517/t )/w
+Non/en -/w orthogonalmultiple/en access/en (/w NOMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163111/t )/w
+Patterndivision/en multiple/en access/en (/w PDMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163383/t )/w
+Resourcespread/en multiple/en access/en (/w RSMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163510/t )/w
+Interleave/en -/w GridMultiple/en Access/en (/w IGMA/en )/w ,/w (/w e/en ./m g/en ./m ,/w R/en 1-163992/t )/w
+Lowdensity/en spreading/en with/en signature/en vector/en extension/en (/w LDS/en -/w SVE/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-164329/t )/w
+Lowcode/en rate/en and/en signature/en based/en shared/en access/en (/w LSSA/en )/w ,/w (/w e/en ./m g/en ./m ,/w R/en 1-164869/t )/w
+Non/en -/w orthogonalcoded/en access/en (/w NOCA/en )/w ,/w (/w e/en ./m g/en ./m ,/w R/en 1-165019/t )/w
+InterleaveDivision/en Multiple/en Access/en (/w IDMA/en )/w ,/w (/w e/en ./m g/en ./m ,/w R/en 1-165021/t )/w
+Repetitiondivision/en multiple/en access/en (/w RDMA/en )/w ,/w (/w e/en ./m g/en ./m ,/w R/en 1-167535/t )/w
+GroupOrthogonal/en Coded/en Access/en (/w GOCA/en )/w ,/w (/w e/en ./m g/en ./m ,/w R/en 1-167535/t )/w
+
+主席/nx 哭/v 了/dg ，/w 不/d 带/ng 你们/r 这样/r 的/u 。/w 不但/c 没有/d 按说/d 好/a 的/u down/en selection/en ，/w 还/d 增加/v 了/dg 7/m 种/ng 。/w 于是/c ，/w 主席/nx 生气/a 了/dg ，/w 在/d 会场/n 说/ag ，/w 下次/t 会议/nh （/w RAN/en 1/m #/w 86/m bis/en ）/w 是/v 最后/f 一次/mq 讨论/v 多/a 址/ng 了/dg ，/w 必须/d 得/e 有/v 结论/n 。/w 大家/r 听到/v 后/f 也/d 凌乱/a 了/dg 。/w
+这么/r 多多/a 址/ng 技术/n 既然/c 都/d 是/v CDMA/n 扩展/v 技术/n ，/w 怎么/r 分析/v 、/w 比较/d 呢/ng ？/w
+R/en 1-166358/t 给出/v 了/dg 一些/mq 分析/v 方法/n 。/w 按照/p 扩频/vn 序列/n 来/u 区分/v ：/w 伪/ag 随机/b 长/a 扩频/vn 码/ng 和/c 固定/a 码/ng 本/d 短/a 扩频/vn 码/ng 。/w
+伪/ag 随机/b 长/a 扩频/vn 码/ng 的/u 代表/nx 是/v RSMA/en ；/w
+固定/a 码/ng 本/d 短/a 扩频/vn 码/ng 的/u 代表/nx 是/v ：/w
+
+/0
+Sparse/en code/en multiple/en access/en (/w SCMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162153/t )/w
+Pattern/en defined/en multiple/en access/en (/w PDMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-163383/t )/w
+Non/en -/w orthogonal/en coded/en multiple/en access/en (/w NCMA/en )/w (/w e/en ./m g/en ./m ,/w R/en 1-162517/t )/w
+Low/en code/en rate/en spreading/en (/w e/en ./m g/en ./m ,/w R/en 1-162385/t )/w
+
+
+/0
+
+对于/p NOMA/en 技术/n 来说/u ，/w 长/a 码/ng 空间/n 更/d 大/a ，/w 碰撞/v 概率/n 更/d 低/a ，/w 同时/c 伪/ag 随机/b 特性/n 也/d 更好/d ，/w 但/c 短/a 码/ng 可以/a 简化/v 多用/b 户/ng 检测/v ，/w 简化/v 接收/v 端接/v 收/v 机/np 设计/v 。/w 从/p 缺点/n 角度/n 看/u ，/w 短/a 码/ng 首先/c 需要/n 预先/d 设计/v 和/c 优化/v ，/w 在/d 传输/v 中/f 可能/a 需要/n 进行/v 额外/b 的/u 功率/n 回/ng 退避/v 免/v 码字/n 不够/a 随机/b 而/c 造成/v 的/u PAPR/en ，/w 影响/v 链路/n 预算/n 。/w
+
+
+很多/mq 文献/n 都/d 进行/v 了/dg 仿真/v 比较/d ，/w 篇幅/n 所/n 限/ng ，/w 这里/r 就/d 不/d 放/v 了/dg 。/w
+但/c 通过/p 分析/v 后/f 结论/n 是/v 类似/a 的/u ：/w
+1./m 伪/ag 随机/b 扩频/vn 性能/n 更好/d 一些/mq ，/w 这个/r 在/d CDMA/n 时代/n 就/d 证明/n 了/dg ；/w
+2./m 固定/a 码/ng 本/d 的/u 扩频/vn 方法/n 由于/c 码字/n 短/a ，/w 需要/n 预先/d 搜索/n 定义/n 优化/v 码/ng 本/d 。/w
+
+/0
+
+3/m -/w 4/m 多/a 址/ng -/w 4/m
+说/ag 了/dg 这么/r 久/a ，/w 都/d 是/v NOMA/en 技术/n ，/w 难道/d OFDMA/en 和/c SC/en -/w FDMA/n 就/d 不用/d 了/dg 吗/r ？/w
+恰恰相反/n ，/w NR/n 正是/v 要/v 在/d eMBB/en 场景/n 继续/v 用/ng OFDMA/en 和/c SC/en -/w FDMA/n 。/w
+下行/v OFDMA/en 没什么/l 悬念/n ，/w 唯一/b 的/u 悬念/n 在于/v 上行/v 是/v 用/ng SC/en -/w FDMA/n 还是/c OFDMA/en 。/w
+用/ng OFDMA/en 的/u 好处/n 在/d 做/v LTE/en D/en 2D/b 的/u 时候/n 就/d 讨论/v 过/d ，/w 如果/c 上行/v 也/d 用/ng OFDMA/en ，/w 那么/c 手机/np 在/d 发送/v D/en 2D/b 信号/n 时/n 就/d 比较/d 简单/a ，/w 可以/a 和宏/nr 蜂窝/n 的/u 上行/v 信号/n 完全/a 正交/b ，/w 并同/nz 时/n FTT/en 发送/v 。/w
+但是/c 缺点/n 也/d 比较/d 明显/a ，/w 就是/n 为了/p 避免/v PAPR/en 带来/v 的/u 功率/n 回/ng 退/v （/w Power/en Backoff/en ）/w 会/n 导致/v 上行/v 的/u 覆盖/v （/w 链路/n 预算/n ）/w 减小/v 。/w 据/ng 当前/t 分析/v ，/w 大概/b 会/n 有/v 1/m -/w 2/m dB/n 的/u 链路/n 预算/n 损失/n 。/w
+因此/c ，/w 预计/v 上行/v 采用/v SC/en -/w FDMA/n 的/u 可能性/n 较大/a ，/w 毕竟/d 已经/d 被/ng LTE/en 验证/v 过/d 了/dg 。/w
+
+---------------------/t
+
+本文/r 来自/v cdjccio/en 的/u CSDN/en 博客/n ，/w 全文/n 地址/n 请/v 点击/v ：https://blog.csdn.net/qq_34624951/article/details/78649270?utm_source=copy/url ,/w ,/w ,/w ,/w ,/w

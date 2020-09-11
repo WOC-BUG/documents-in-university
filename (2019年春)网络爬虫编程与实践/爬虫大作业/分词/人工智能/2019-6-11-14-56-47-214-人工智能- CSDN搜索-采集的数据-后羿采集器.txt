@@ -1,0 +1,52 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/gumingyaotangwei/article/details/7411644/url ,/w rnrnrn2./url 记忆/n (/w 当前/t 的/u 人工智能/n 情况/n )/w rn/en  /0  /0  /0 存放/v 人工智能/n 状态/n rnrn3./url 分析/v ,/w https://blog.csdn.net/gumingyaotangwei/article/details/7411644/url ,/w ,/w gumingyaotangwei/en ,/w 2012-03-30/t ,/w //blog.csdn.net/gumingyaotangwei/article/details/7411644/url ,/w 716/m 次/a 阅读/v ,/w 人工智能/n -/w gumingyaotangwei/en 的/u 专栏/n ,/w 2012年03月30日 15:28:57/t ,/w 原/b 人工智能/n
+
+
+
+2012年03月30日 15:28:57/t
+lurenceGu/en
+阅读/v 数/m ：717/m
+
+
+标签/n ：/w
+游戏/n
+更多/n
+
+个人/n 分类/v ：/w
+算法/n -/w 数据结构/n 人工智能/n (/w AI/en )/w
+
+
+
+
+
+
+
+
+
+
+
+
+
+1./m 感知/v 系统/a （/w 当前/t 所/n 能/ng 收集/v 的/u 信息/n ）/w
+FPS/n ：/w
+/0  /0  /0 玩家/n 在/d 哪里/r ？/w ，/w 在/d 看/u 哪里/r ？/w
+/0  /0  /0 周围/f 的/u 几何/n 情况/n 如何/r ？/w
+/0  /0  /0 彼此/r 使用/v 的/u 武器/n ？/w
+RTS/en ：/w
+地图/n 每个/r 分区/n 的/u 力量/n 平衡/a 如何/r ？/w
+/0  /0  /0 每种/r 资源/n 拥有/v 多少/r ？/w
+/0  /0  /0 单位/n 有/v 哪些/r 类型/n ?/w
+/0  /0  /0 在/d 技术/n 树/n 中/f 的/u 地位/n 如何/r ？/w
+/0  /0  /0 游戏世界/n 的/u 几何/n 情况/n 如何/r ？/w
+
+
+2./m 记忆/n (/w 当前/t 的/u 人工智能/n 情况/n )/w
+/0  /0  /0 存放/v 人工智能/n 状态/n
+
+3./m 分析/v //w 推理/v (/w 通过/p 收集/v 的/u 条件/n 运算/v 出/q 一个/mq 决策/n )/w
+/0  /0  /0 将/d 综合/v 数据/n 进行/v 处理/v ，/w 决策/n
+
+4./m 动作/n 输出/v (/w 执行/v 决策/n 结果/c )/w
+/0  /0  /0 最终/d 的/u 人工智能/n 结果/c 执行/v
+
+就是/n 通过/p 条件/n 和/c 历史数据/n 来/u 决策/n agent/en （/w 主体/n ）/w 的/u 下一步/ldm 行为/n

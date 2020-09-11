@@ -1,0 +1,726 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+Understanding/en 5/m G/en ,/w Understanding/en 5/m GnnANALYSIS/en Understanding/en 5/m G/en :/w Perspectives/en on/en future/en technological/en advancements/en in/en mobilennDecember/en 2014/m nn/en ©/0 GSMA/en Intelligence/en gsmaintelligence.com/url •/0 info@gsmaintelligence.com/url ,/w yuanmeng/en 001/m ,/w https://blog.csdn.net/yuanmeng001/article/details/90549464/url ,/w 2019-05-25/t ,/w 89/m 次/a 阅读/v ,/w Understanding/en 5/m G/en -/w 袁萌/nr 专栏/n ,/w 2019年05月25日 17:37:21/t ,/w Understanding/en 5/m G/m
+
+ANALYSIS/en Understanding/en 5/m G/en :/w Perspectives/en on/en future/en technological/en advancements/en in/en mobile/en
+
+December/en 2014/m
+
+©/0 GSMA/en Intelligence/en gsmaintelligence.com/url •/0 info@gsmaintelligence.com/url •/0 @/w GSMAi/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+2/m
+
+Contents/en
+
+Executive/en summary/en ............................................................................................................................ 3/m
+
+Introduction/en .........................................................................................................................................4/m
+
+What/en is/en 5/m G/en ?/w .......................................................................................................................................... 5/m
+
+Potential/en 5/m G/en use/en cases......................................................................................................................./url 8/m
+
+The/en implications/en of/en 5/m G/en for/en mobile/en operators/en ...............................................................................11/m
+
+Continuing/en development/en of/en mobile/en technologies/en :/w what/en 5/m G/en isn/en ’/w t/en ...........................................14/m
+
+Conclusions/en :/w enabling/en innovation/en through/en industry/en -/w wide/en collaboration/en .............................15/m
+
+Appendix/en A/en :/w Current/en 5/m G/en industry/en activity/en ...................................................................................18/m
+
+Appendix/en B/en :/w LTE/en opportunities/en and/en challenges/en .........................................................................21/m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+3/m
+
+Executive/en summary/en
+
+5/m G/en offers/en enormous/en potential/en for/en both/en consumers/en and/en industry/en
+
+As/en well/en as/en the/en prospect/en of/en being/en considerably/en faster/en than/en existing/en technologies/en ,/w 5/m G/en holds/en the/en promise/en of/en applications/en with/en high/en social/en and/en economic/en value/en ,/w leading/en to/en a/en ‘/w hyperconnected/en society/en ’/w in/en which/en mobile/en will/en play/en an/en ever/en more/en important/en role/en in/en people/en ’/w s/en lives./url
+
+The/en GSMA/en will/en work/en for/en its/en members/en and/en with/en its/en partners/en to/en shape/en 5/m G/m
+
+As/en the/en association/en representing/en the/en mobile/en industry/en ,/w the/en GSMA/en will/en play/en a/en significant/en role/en in/en shaping/en the/en strategic/en ,/w commercial/en and/en regulatory/en development/en of/en the/en 5/m G/en ecosystem./url This/en will/en include/en areas/en such/en as/en the/en definition/en of/en roaming/en and/en interconnect/en in/en 5/m G/en ,/w and/en the/en identification/en and/en alignment/en of/en suitable/en spectrum/en bands./url Once/en a/en stable/en definition/en of/en 5/m G/en is/en reached/en ,/w the/en GSMA/en will/en work/en with/en its/en members/en to/en identify/en and/en develop/en commercially/en viable/en 5/m G/en applications./url This/en paper/en focuses/en on/en 5/m G/en as/en it/en has/en developed/en so/en far/en ,/w and/en the/en areas/en of/en technological/en innovation/en needed/en to/en deliver/en the/en 5/m G/en vision./url
+
+There/en are/en currently/en two/en definitions/en of/en 5/m G/m
+
+Discussion/en around/en 5/m G/en falls/en broadly/en into/en two/en schools/en of/en thought/en :/w a/en service/en -/w led/en view/en which/en sees/en 5/m G/en as/en a/en consolidation/en of/en 2/m G/en ,/w 3/m G/en ,/w 4/m G/en ,/w Wi/en -/w fi/en and/en other/en innovations/en providing/en far/en greater/en coverage/en and/en always/en -/w on/en reliability/en ;/w and/en a/en second/en view/en driven/en by/en a/en step/en change/en in/en data/en speed/en and/en order/en of/en magnitude/en reduction/en in/en end/en -/w to/en -/w end/en latency./url However/en ,/w these/en definitions/en are/en often/en discussed/en together/en ,/w resulting/en in/en sometimes/en contradictory/en requirements./url
+
+Sub/en -/w 1/m ms/en latency/en and/en >/w 1/m Gbps/en bandwidth/en require/en a/en true/en generational/en shift/en
+
+Some/en of/en the/en requirements/en identified/en for/en 5/m G/en can/en be/en enabled/en by/en 4/m G/en or/en other/en networks./url The/en technical/en requirements/en that/en necessitate/en a/en true/en generational/en shift/en are/en sub/en -/w 1/m ms/en latency/en and/en >/w 1/m Gbps/en downlink/en speed/en ,/w and/en only/en services/en that/en demand/en at/en least/en one/en of/en these/en would/en be/en considered/en 5/m G/en use/en cases/en under/en both/en definitions./url
+
+Achieving/en sub/en -/w 1/m ms/en latency/en is/en a/en hugely/en exciting/en challenge/en that/en will/en define/en 5/m G/m
+
+Delivering/en 1/m ms/en latency/en over/en a/en large/en scale/en network/en will/en be/en challenging/en ,/w and/en we/en may/en see/en this/en condition/en relaxed./url If/en this/en were/en to/en happen/en ,/w some/en of/en the/en potential/en 5/m G/en services/en identified/en may/en no/en longer/en be/en possible/en and/en the/en second/en view/en of/en 5/m G/en would/en become/en less/en clear./url This/en paper/en looks/en at/en some/en of/en the/en challenges/en that/en must/en be/en overcome/en to/en deliver/en 1/m ms/en latency./url
+
+At/en the/en same/en time/en 4/m G/en will/en continue/en to/en grow/en and/en evolve/en
+
+Technologies/en such/en as/en NFV/en //w SDN/en and/en HetNets/en are/en already/en being/en deployed/en by/en operators/en and/en will/en continue/en to/en enable/en the/en move/en towards/en the/en hyper/en -/w connected/en society/en alongside/en developments/en in/en 5/m G/en ./m Considerable/en potential/en also/en remains/en for/en increasing/en 4/m G/en adoption/en in/en many/en countries/en ,/w and/en we/en expect/en 4/m G/en network/en infrastructure/en to/en account/en for/en much/en of/en the/en $/0 1.7/m trillion/en the/en world/en ’/w s/en mobile/en operators/en will/en invest/en between/en now/en and/en 2020/m ./m Operators/en will/en continue/en to/en focus/en on/en generating/en a/en return/en on/en investment/en from/en their/en 4/m G/en (/w and/en 3/m G/en )/w networks/en by/en developing/en new/en services/en and/en tariffing/en models/en that/en make/en most/en efficient/en use/en of/en them/en ./m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+4/m
+
+Introduction/en
+
+Objectives/en of/en this/en report/en
+
+The/en purpose/en of/en this/en report/en is/en to/en take/en a/en step/en toward/en clarifying/en what/en ‘/w 5/m G/m ’/w really/en means/en in/en the/en technological/en sense/en ,/w by/en :/w reducing/en 5/m G/en to/en its/en fundamental/en core/en (/w including/en acknowledging/en what/en it/en is/en arguably/en not/en )/w ;/w expanding/en on/en some/en of/en the/en use/en case/en scenarios/en that/en 5/m G/en might/en enable/en ;/w and/en discussing/en conceivable/en implications/en for/en operators/en in/en terms/en of/en network/en infrastructure/en and/en commercial/en opportunities./url This/en can/en only/en be/en achieved/en by/en framing/en the/en discussion/en around/en 5/m G/en in/en a/en broader/en context/en alongside/en existing/en network/en technologies/en and/en those/en currently/en in/en development./url
+
+In/en summary/en ,/w there/en are/en three/en key/en questions/en that/en this/en report/en will/en ask/en :/w
+
+1./m What/en is/en (/w and/en what/en isn/en ’/w t/en )/w 5/m G/en ?/w 2./m What/en are/en the/en real/en 5/m G/en use/en cases/en ?/w 3./m What/en are/en the/en implications/en of/en 5/m G/en for/en mobile/en operators/en ?/w
+
+Notes/en on/en terminology/en
+
+GSMA/en Intelligence/en ’/w s/en definition/en of/en 4/m G/en includes/en the/en following/en network/en technologies/en :/w LTE/en ,/w TD/en -/w LTE/en ,/w AXGP/en ,/w WiMAX/en ,/w LTE/en -/w A/en ,/w TD/en -/w LTE/en -/w A/en ,/w LTE/en with/en VoLTE/en and/en WiMAX/en 2./m
+
+Due/en to/en the/en commonality/en of/en operator/en definitions/en classifying/en LTE/en and/en TD/en -/w LTE/en as/en 4/m G/en technologies/en ,/w we/en follow/en this/en convention./url This/en differs/en from/en the/en ITU/n ’/w s/en strict/en definition/en of/en transitional/en versus/en true/en 4/m G/en ./m Also/en ,/w where/en we/en use/en the/en term/en ‘/w LTE/en ’/w in/en this/en document/en it/en incorporates/en all/en LTE/en variants/en (/w LTE/en ,/w TD/en -/w LTE/en ,/w AXGP/en ,/w LTE/en -/w A/en and/en TD/en -/w LTE/en -/w A/en )/w ./m Finally/en ,/w for/en simplicity/en we/en do/en not/en consider/en WiMAX/en in/en this/en analysis/en ,/w so/en where/en the/en term/en ‘/w 4G/n ’/w is/en used/en it/en incorporates/en all/en LTE/en variants/en but/en not/en WiMAX/en (/w a/en transitional/en 4/m G/en technology/en )/w or/en WiMAX/en 2/m (/w a/en true/en 4/m G/en technology/en )/w ./m Therefore/en for/en the/en purpose/en of/en this/en report/en the/en terms/en ‘/w 4G/n ’/w and/en ‘/w LTE/en ’/w are/en interchangeable./url
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+5/m
+
+What/en is/en 5/m G/en ?/w
+
+Evolution/en beyond/en mobile/en internet/n
+
+From/en analogue/en through/en to/en LTE/en ,/w each/en generation/en of/en mobile/en technology/en has/en been/en motivated/en by/en the/en need/en to/en meet/en a/en requirement/en identified/en between/en that/en technology/en and/en its/en predecessor/en (/w see/en Table/en 1/m )/w ./m For/en example/en ,/w the/en transition/en from/en 2/m G/en to/en 3/m G/en was/en expected/en to/en enable/en mobile/en internet/en on/en consumer/en devices/en ,/w but/en whilst/en it/en did/en add/en data/en connectivity/en ,/w it/en was/en not/en until/en 3.5/m G/en that/en a/en giant/en leap/en in/en terms/en of/en consumer/en experience/en occurred/en ,/w as/en the/en combination/en of/en mobile/en broadband/en networks/en and/en smartphones/en brought/en about/en a/en significantly/en enhanced/en mobile/en internet/en experience/en which/en has/en eventually/en led/en to/en the/en app/en -/w centric/en interface/en we/en see/en today./url From/en email/en and/en social/en media/en through/en music/en and/en video/en streaming/en to/en controlling/en your/en home/en appliances/en from/en anywhere/en in/en the/en world/en ,/w mobile/en broadband/en has/en brought/en enormous/en benefits/en and/en has/en fundamentally/en changed/en the/en lives/en of/en many/en people/en through/en services/en provided/en both/en by/en operators/en and/en third/en party/en players./url
+
+Generation/en Primary/en services/en Key/en differentiator/en
+
+Weakness/en (/w addressed/en by/en subsequent/en generation/en )/w
+
+1/m G/en Analogue/en phone/en calls/en Mobility/en Poor/en spectral/en efficiency/en ,/w major/en security/en issues/en
+
+2/m G/en Digital/en phone/en calls/en and/en messaging/en
+
+Secure/en ,/w mass/en adoption/en
+
+Limited/en data/en rates/en –/0 difficult/en to/en support/en demand/en for/en internet/en //w e-mail/n
+
+3/m G/en Phone/en calls/en ,/w messaging/en ,/w data/en Better/en internet/en experience/en
+
+Real/en performance/en failed/en to/en match/en hype/en ,/w failure/en of/en WAP/en for/en internet/en access/en
+
+3.5/m G/en Phone/en calls/en ,/w messaging/en ,/w broadband/en data/en
+
+Broadband/en internet/en ,/w applications/en
+
+Tied/en to/en legacy/en ,/w mobile/en
+
+/0 specific/en architecture/en and/en protocols/en
+
+4/m G/en All/en -/w IP/en services/en (/w including/en voice/en ,/w messaging/en )/w
+
+Faster/en broadband/en internet/en ,/w lower/en latency/en
+
+?/w
+
+Table/en 1/m :/w Evolution/en of/en technology/en generations/en in/en terms/en of/en services/en and/en performance/en Source/en :/w GSMA/en Intelligence/en
+
+More/en recently/en ,/w the/en transition/en from/en 3.5/m G/en to/en 4/m G/en services/en has/en offered/en users/en access/en to/en considerably/en faster/en data/en speeds/en and/en lower/en latency/en rates/en ,/w and/en therefore/en the/en way/en that/en people/en access/en and/en use/en the/en internet/en on/en mobile/en devices/en continues/en to/en change/en dramatically./url Across/en the/en world/en operators/en are/en typically/en reporting/en that/en 4/m G/en customers/en consume/en around/en double/en the/en monthly/en amount/en of/en data/en of/en non/en -/w 4/m G/en users/en ,/w and/en in/en some/en cases/en three/en times/en as/en much/en ./m An/en increased/en level/en of/en video/en streaming/en by/en customers/en on/en 4/m G/en networks/en is/en often/en cited/en by/en operators/en as/en a/en major/en contributing/en factor/en to/en this/en ./m
+
+The/en Internet/en of/en Things/en (/w IoT/en )/w has/en also/en been/en discussed/en as/en a/en key/en differentiator/en for/en 4/m G/en ,/w but/en in/en reality/en the/en challenge/en of/en providing/en low/en power/en ,/w low/en frequency/en networks/en to/en meet/en the/en demand/en for/en widespread/en M/en 2/m M/en deployment/en is/en not/en specific/en to/en 4/m G/en or/en indeed/en 5/m G/en ./m As/en Table/en 1/m suggests/en ,/w it/en is/en currently/en unclear/en what/en the/en opportunity/en or/en ‘/w weakness/en ’/w that/en 5/m G/en should/en address/en is/en ./m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+6/m
+
+Two/en views/en of/en 5/m G/en exist/en today/en :/w
+
+View/en 1/m –/0 The/en hyper/en -/w connected/en vision/en :/w In/en this/en view/en of/en 5/m G/en ,/w mobile/en operators/en would/en create/en a/en blend/en of/en pre/en -/w existing/en technologies/en covering/en 2/m G/en ,/w 3/m G/en ,/w 4/m G/en ,/w Wi/en -/w fi/en and/en others/en to/en allow/en higher/en coverage/en and/en availability/en ,/w and/en higher/en network/en density/en in/en terms/en of/en cells/en and/en devices/en ,/w with/en the/en key/en differentiator/en being/en greater/en connectivity/en as/en an/en enabler/en for/en Machine/en -/w to/en -/w Machine/en (/w M/en 2/m M/en )/w services/en and/en the/en Internet/en of/en Things/en (/w IoT/en )/w ./m This/en vision/en may/en include/en a/en new/en radio/en technology/en to/en enable/en low/en power/en ,/w low/en throughput/en field/en devices/en with/en long/en duty/en cycles/en of/en ten/en years/en or/en more/en ./m
+
+View/en 2/m –/0 Next/en -/w generation/en radio/en access/en technology/en :/w This/en is/en more/en of/en the/en traditional/en ‘/w generation/en -/w defining/en ’/w view/en ,/w with/en specific/en targets/en for/en data/en rates/en and/en latency/en being/en identified/en ,/w such/en that/en new/en radio/en interfaces/en can/en be/en assessed/en against/en such/en criteria./url This/en in/en turn/en makes/en for/en a/en clear/en demarcation/en between/en a/en technology/en that/en meets/en the/en criteria/en for/en 5/m G/en ,/w and/en another/en which/en does/en not/en ./m
+
+Both/en of/en these/en approaches/en are/en important/en for/en the/en progression/en of/en the/en industry/en ,/w but/en they/en are/en distinct/en sets/en of/en requirements/en associated/en with/en specific/en new/en services./url However/en ,/w the/en two/en views/en described/en are/en regularly/en taken/en as/en a/en single/en set/en and/en hence/en requirements/en from/en both/en the/en hyper/en -/w connected/en view/en and/en the/en next/en -/w generation/en radio/en access/en technology/en view/en are/en grouped/en together./url This/en problem/en is/en compounded/en when/en additional/en requirements/en are/en also/en included/en that/en are/en broader/en and/en independent/en of/en technology/en generation./url
+
+5/m G/en technology/en requirements/en
+
+As/en a/en result/en of/en this/en blending/en of/en requirements/en ,/w many/en of/en the/en industry/en initiatives/en that/en have/en progressed/en with/en work/en on/en 5/m G/en (/w see/en Appendix/en A/en )/w identify/en a/en set/en of/en eight/en requirements/en :/w
+
+•/0 1-10/t Gbps/en connections/en to/en end/en points/en in/en the/en field/en (/w i/en ./m e/en ./m not/en theoretical/en maximum/en )/w •/0 1/m millisecond/en end/en -/w to/en -/w end/en round/en trip/en delay/en (/w latency/en )/w •/0 1000/m x/en bandwidth/en per/en unit/en area/en •/0 10-100/t x/en number/en of/en connected/en devices/en •/0 (/w Perception/en of/en )/w 99.999/m %/m availability/en •/0 (/w Perception/en of/en )/w 100%/m coverage/en •/0 90%/m reduction/en in/en network/en energy/en usage/en •/0 Up/en to/en ten/en year/en battery/en life/en for/en low/en power/en ,/w machine/en -/w type/en devices/en
+
+Because/en these/en requirements/en are/en specified/en from/en different/en perspectives/en ,/w they/en do/en not/en make/en an/en entirely/en coherent/en list/en –/0 it/en is/en difficult/en to/en conceive/en of/en a/en new/en technology/en that/en could/en meet/en all/en of/en these/en conditions/en simultaneously./url
+
+Equally/en ,/w whilst/en these/en eight/en requirements/en are/en often/en presented/en as/en a/en single/en list/en ,/w no/en use/en case/en ,/w service/en or/en application/en has/en been/en identifed/en that/en requires/en all/en eight/en performance/en attributes/en across/en an/en entire/en network/en simultaneously./url Indeed/en some/en of/en the/en requirements/en are/en not/en linked/en to/en use/en cases/en or/en services/en ,/w but/en are/en instead/en aspirational/en statements/en of/en how/en networks/en should/en be/en built/en ,/w independent/en of/en service/en or/en technology/en –/0 no/en use/en case/en needs/en a/en network/en to/en be/en significantly/en cheaper/en ,/w but/en every/en operator/en would/en like/en to/en pay/en less/en to/en build/en and/en run/en their/en network./url It/en is/en more/en likely/en that/en various/en combinations/en of/en a/en subset/en of/en the/en overall/en list/en of/en requirements/en will/en be/en supported/en ‘/w when/en and/en where/en it/en matters/en ’/w ./m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+7/m
+
+Finally/en ,/w while/en important/en in/en their/en own/en right/en ,/w six/en of/en these/en requirements/en are/en not/en generationdefining/en attributes./url These/en are/en considered/en below/en :/w
+
+Perceived/en 99.999/m %/m availability/en and/en 100%/m geographical/en coverage/en :/w
+
+These/en are/en not/en use/en case/en drivers/en ,/w nor/en technical/en issues/en ,/w but/en economic/en and/en business/en case/en decisions./url 99.999/m %/m availability/en and/en 100%/m coverage/en are/en achievable/en using/en any/en existing/en technology/en ,/w and/en could/en be/en achieved/en by/en any/en network/en operator./url Operators/en decide/en where/en to/en place/en cells/en based/en on/en the/en cost/en to/en prepare/en the/en site/en to/en establish/en a/en cell/en to/en cover/en a/en specific/en area/en balanced/en against/en the/en benefit/en of/en the/en cell/en providing/en coverage/en for/en a/en specific/en geographic/en area/en ./m This/en in/en turn/en makes/en certain/en cell/en sites/en and/en coverage/en areas/en -/w such/en as/en rural/en areas/en and/en indoor/en coverage/en -/w the/en subject/en of/en difficult/en business/en decisions./url
+
+Whilst/en a/en new/en generation/en of/en mobile/en network/en technology/en may/en shift/en the/en values/en that/en go/en in/en to/en the/en business/en model/en that/en determines/en cell/en viability/en ,/w achieving/en 100%/m coverage/en and/en 99.999/m %/m availability/en will/en remain/en a/en business/en decision/en rather/en than/en a/en technical/en objective./url Conversely/en ,/w if/en 100%/m coverage/en and/en 99.999/m %/m availability/en were/en to/en be/en a/en 5/m G/en ‘/w qualifying/en criteria/en ’/w ,/w no/en network/en would/en achieve/en 5/m G/en status/en until/en such/en time/en as/en 100%/m coverage/en and/en 99.999/m %/m availability/en were/en achieved./url
+
+Connection/en density/en (/w 1000/m x/en bandwidth/en per/en unit/en area/en ,/w 10-100/t x/en number/en of/en connections/en )/w :/w
+
+These/en essentially/en amount/en to/en ‘/w cumulative/en ’/w requirements/en i/en ./m e/en ./m requirements/en to/en be/en met/en by/en networks/en that/en include/en 5/m G/en as/en an/en incremental/en technology/en ,/w but/en also/en require/en continued/en support/en of/en pre/en -/w existing/en generations/en of/en network/en technology./url The/en support/en of/en 10-10/t 0/m times/en the/en number/en of/en connections/en is/en dependent/en upon/en a/en range/en of/en technologies/en working/en together/en ,/w including/en 2/m G/en ,/w 3/m G/en ,/w 4/m G/en ,/w Wi/en -/w fi/en ,/w Bluetooth/en and/en other/en complementary/en technologies./url The/en addition/en of/en 5/m G/en on/en top/en of/en this/en ecosystem/en should/en not/en be/en seen/en as/en an/en end/en solution/en ,/w but/en just/en one/en additional/en piece/en of/en a/en wider/en evolution/en to/en enable/en connectivity/en of/en machines./url The/en Internet/en of/en Things/en (/w IoT/en )/w has/en already/en begun/en to/en gain/en significant/en momentum/en ,/w independent/en of/en the/en arrival/en of/en 5/m G/en ./m
+
+Similarly/en ,/w the/en requirement/en for/en 1/m ,/w 000/m times/en bandwidth/en per/en unit/en area/en is/en not/en dependent/en upon/en 5/m G/en ,/w but/en is/en the/en cumulative/en effect/en of/en more/en devices/en connecting/en with/en higher/en bandwidths/en for/en longer/en durations./url Whilst/en a/en 5/m G/en network/en may/en well/en add/en a/en new/en impetus/en to/en progression/en in/en this/en area/en ,/w the/en rollout/en of/en LTE/en is/en already/en having/en a/en transformational/en effect/en on/en the/en amount/en of/en bandwidth/en being/en consumed/en within/en any/en specific/en area/en ,/w and/en this/en will/en increase/en over/en the/en period/en until/en the/en advent/en of/en 5/m G/en ./m The/en expansion/en of/en Wi/en -/w fi/en and/en integration/en of/en Wi/en -/w fi/en networks/en with/en cellular/en will/en also/en be/en key/en in/en supporting/en greater/en data/en density/en rates./url
+
+Meeting/en both/en of/en these/en requirements/en will/en have/en significant/en implications/en for/en OPEX/en on/en backhaul/en and/en power/en ,/w since/en each/en cell/en or/en hotspot/en must/en be/en powered/en and/en all/en of/en the/en additional/en traffic/en being/en generated/en must/en be/en backhauled./url
+
+Reduction/en in/en network/en energy/en usage/en and/en improving/en battery/en life/en :/w
+
+The/en reduction/en of/en power/en consumption/en by/en networks/en and/en devices/en is/en fundamentally/en important/en to/en the/en economic/en and/en ecological/en sustainability/en of/en the/en industry./url A/en general/en industry/en principle/en for/en minimising/en power/en usage/en in/en network/en and/en terminal/en equipment/en should/en pervade/en all/en generations/en of/en technology/en ,/w and/en is/en recognised/en as/en an/en ecological/en goal/en as/en well/en as/en having/en a/b
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+8/m
+
+significant/en positive/en impact/en on/en the/en OPEX/en associated/en with/en running/en a/en network./url At/en present/en it/en is/en not/en clear/en how/en a/en new/en generation/en of/en technology/en with/en higher/en bandwidths/en being/en deployed/en as/en an/en overlay/en (/w rather/en than/en a/en replacement/en )/w on/en top/en of/en all/en pre/en -/w existing/en network/en equipment/en could/en result/en in/en a/en net/en reduction/en in/en power/en consumption./url
+
+Some/en use/en cases/en for/en M/en 2/m M/en require/en the/en connected/en device/en in/en the/en field/en to/en lie/en dormant/en for/en extended/en periods/en of/en time/en ./m It/en is/en important/en that/en innovation/en in/en how/en these/en devices/en are/en powered/en and/en the/en leanness/en of/en the/en signaling/en they/en use/en when/en becoming/en active/en and/en connected/en is/en pursued./url However/en ,/w this/en requirement/en is/en juxtaposed/en with/en 5/m G/en headline/en requirements/en on/en data/en rate/en –/0 what/en is/en required/en for/en mass/en sensor/en networks/en is/en very/en occasional/en connectivity/en with/en minimal/en throughput/en and/en signaling/en load/en ./m Work/en to/en develop/en such/en technology/en predates/en the/en current/en 5/m G/en requirements/en and/en is/en already/en being/en pursued/en in/en Standards/en bodies./url
+
+These/en six/en requirements/en should/en be/en and/en are/en being/en pursued/en by/en the/en industry/en today/en using/en a/en range/en of/en techniques/en (/w some/en of/en which/en are/en covered/en later/en in/en the/en paper/en )/w but/en these/en amount/en to/en evolutions/en of/en existing/en network/en technology/en and/en topology/en or/en opportunities/en enabled/en by/en changing/en hardware/en characteristics/en and/en capabilities./url These/en will/en in/en turn/en open/en business/en opportunities/en for/en operators/en and/en third/en parties./url However/en ,/w none/en of/en these/en business/en opportunities/en exist/en today/en –/0 they/en are/en constrained/en by/en limitations/en greatly/en governed/en by/en economics/en ,/w and/en much/en of/en these/en six/en requirements/en are/en motivated/en by/en improving/en the/en economic/en viability/en of/en those/en opportunities/en ,/w rather/en than/en filling/en technological/en gaps/en that/en explicitly/en prohibit/en these/en opportunities/en ,/w regardless/en of/en the/en amount/en they/en might/en cost/en to/en enable./url
+
+Thus/en in/en the/en strictest/en terms/en of/en measurable/en network/en deliverables/en which/en could/en enable/en revolutionary/en new/en use/en case/en scenarios/en ,/w the/en potential/en attributes/en that/en would/en be/en unique/en to/en 5/m G/en are/en limited/en to/en sub/en -/w 1/m ms/en latency/en and/en >/w 1/m Gbps/en downlink/en speed./url
+
+Potential/en 5/m G/en use/en cases/en
+
+Imagining/en the/en mobile/en services/en of/en the/en next/en decade/en
+
+As/en with/en each/en preceding/en generation/en ,/w the/en rate/en of/en adoption/en of/en 5/m G/en and/en the/en ability/en of/en operators/en to/en monetise/en it/en will/en be/en a/en direct/en function/en of/en the/en new/en and/en unique/en use/en cases/en it/en unlocks./url Thus/en the/en key/en questions/en around/en 5/m G/en for/en operators/en are/en essentially/en :/w
+
+a/en ./m What/en could/en users/en do/en on/en a/en network/en which/en meets/en the/en 5/m G/en requirements/en listed/en above/en that/en is/en not/en currently/en possible/en on/en an/en already/en existing/en network/en ?/w b/en ./m How/en could/en these/en potential/en services/en be/en profitable/en ?/w
+
+Figure/en 1/m illustrates/en the/en latency/en and/en bandwidth/en //w data/en rate/en requirements/en of/en the/en various/en use/en cases/en which/en have/en been/en discussed/en in/en the/en context/en of/en 5/m G/en to/en date/en ./m These/en potential/en 5/m G/en use/en cases/en and/en their/en associated/en network/en requirements/en are/en described/en below./url
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+9/m
+
+Delay/en
+
+1/m ms/n
+
+10/m ms/en Disaster/en alert/en
+
+Automotive/en ecall/en
+
+Monitoring/en sensor/en networks/en
+
+Personal/en cloud/en
+
+Wireless/en cloud/en based/en office/n
+
+Video/en streaming/en
+
+First/en responder/en connectivity/en
+
+Bi/en -/w directional/en remote/en controlling/en
+
+Real/en time/en gaming/en
+
+Autonomous/en driving/en
+
+Augmented/en Reality/en
+
+Virtual/en Reality/en
+
+Tactile/en internet/n
+
+Multi/en -/w person/en video/en call/en
+
+Device/en remote/en controlling/en
+
+100/m ms/n
+
+1/m ,/w 000/m ms/n
+
+</w 1/m Mbps/en 1/m Mbps/en 10/m Mbps/en 100/m Mbps/en >/w 1/m Gbps/en
+
+Fixed/en Nomadic/en On/en the/en go/en
+
+Services/en that/en could/en be/en enabled/en by/en 5/m G/m
+
+Services/en that/en can/en be/en delivered/en by/en legacy/en networks/en
+
+Bandwidth/en throughput/en
+
+M/en 2/m M/en connectivity/en
+
+Figure/en 1/m :/w Bandwidth/en and/en latency/en requirements/en of/en potential/en 5/m G/en use/en cases/en Source/en :/w GSMA/en Intelligence/en
+
+Virtual/en Reality/en //w Augmented/en Reality/en //w Immersive/en or/en Tactile/en Internet/n
+
+These/en technologies/en have/en a/en number/en of/en potential/en use/en cases/en in/en both/en entertainment/en (/w e/en ./m g/en ./m gaming/en )/w and/en also/en more/en practical/en scenarios/en such/en as/en manufacturing/en or/en medicine/en ,/w and/en could/en extend/en to/en many/en wearable/en technologies./url For/en example/en ,/w an/en operation/en could/en be/en performed/en by/en a/en robot/en that/en is/en remotely/en controlled/en by/en a/en surgeon/en on/en the/en other/en side/en of/en the/en world./url This/en type/en of/en application/en would/en require/en both/en high/en bandwidth/en and/en low/en latency/en beyond/en the/en capabilities/en of/en LTE/en ,/w and/en therefore/en has/en the/en potential/en to/en be/en a/en key/en business/en model/en for/en 5/m G/en networks./url
+
+However/en ,/w it/en should/en be/en pointed/en out/en that/en VR/en //w AR/en systems/en are/en very/en much/en in/en their/en infancy/en and/en their/en development/en will/en be/en largely/en dependent/en on/en advances/en in/en a/en host/en of/en other/en technologies/en such/en as/en motion/en sensors/en and/en heads/en up/en display/en (/w HUD/en )/w ./m It/en remains/en to/en be/en seen/en whether/en these/en applications/en could/en become/en profitable/en businesses/en for/en operators/en in/en the/en future./url
+
+Autonomous/en driving/en //w Connected/en cars/en
+
+Enabling/en vehicles/en to/en communicate/en with/en the/en outside/en world/en could/en result/en in/en considerably/en more/en efficient/en and/en safer/en use/en of/en existing/en road/en infrastructure./url If/en all/en of/en the/en vehicles/en on/en a/en road/en were/en connected/en to/en a/en network/en incorporating/en a/en traffic/en management/en system/en ,/w they/en could/en potentially/en travel/en at/en much/en higher/en speeds/en and/en within/en greater/en proximity/en of/en each/en other/en without/en risk/en of/en accident/en -/w with/en fully/en -/w autonomous/en cars/en further/en reducing/en the/en potential/en for/en human/en error./url
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+10/m
+
+While/en such/en systems/en would/en not/en require/en high/en bandwidth/en ,/w providing/en data/en with/en a/en commandresponse/en time/en close/en to/en zero/en would/en be/en crucial/en for/en their/en safe/en operation/en ,/w and/en thus/en such/en applications/en clearly/en require/en the/en 1/m millisecond/en delay/en time/en provided/en in/en the/en 5/m G/en specification./url In/en addition/en a/en fully/en ‘/w driverless/en ’/w car/en would/en need/en to/en be/en driverless/en in/en all/en geographies/en ,/w and/en hence/en would/en require/en full/en road/en network/en coverage/en with/en 100%/m reliability/en to/en be/en a/en viable/en proposition./url
+
+Wireless/en cloud/en -/w based/en office/en //w Multi/en -/w person/en videoconferencing/en
+
+High/en bandwidth/en data/en networks/en have/en the/en potential/en to/en make/en the/en concept/en of/en a/en wireless/en cloud/en office/en a/en reality/en ,/w with/en vast/en amounts/en of/en data/en storage/en capacity/en sufficient/en to/en make/en such/en systems/en ubiquitous./url However/en ,/w these/en applications/en are/en already/en in/en existence/en and/en their/en requirements/en are/en being/en met/en by/en existing/en 4/m G/en networks./url While/en demand/en for/en cloud/en services/en will/en only/en increase/en ,/w as/en now/en they/en will/en not/en require/en particularly/en low/en latencies/en and/en therefore/en can/en continue/en to/en be/en provided/en by/en current/en technologies/en or/en those/en already/en in/en development./url While/en multi/en -/w person/en video/en calling/en -/w another/en potential/en business/en application/en -/w has/en a/en requirement/en for/en lower/en latency/en ,/w this/en can/en likely/en be/en met/en by/en existing/en 4/m G/en technology./url
+
+Machine/en -/w to/en -/w machine/en connectivity/en (/w M/en 2/m M/en )/w
+
+M/en 2/m M/en is/en already/en used/en in/en a/en vast/en range/en of/en applications/en but/en the/en possibilities/en for/en its/en usage/en are/en almost/en endless/en ,/w and/en our/en forecasts/en predict/en that/en the/en number/en of/en cellular/en M/en 2/m M/en connections/en worldwide/en will/en grow/en from/en 250/m million/en this/en year/en to/en between/en 1/m billion/en and/en 2/m billion/en by/en 2020/m ,/w dependent/en on/en the/en extent/en to/en which/en the/en industry/en and/en its/en regulators/en are/en able/en to/en establish/en the/en necessary/en frameworks/en to/en fully/en take/en advantage/en of/en the/en cellular/en M/en 2/m M/en opportunity./url
+
+Typical/en M/en 2/m M/en applications/en can/en be/en found/en in/en ‘/w connected/en home/en ’/w systems/en (/w e/en ./m g/en ./m smart/en meters/en ,/w smart/en thermostats/en ,/w smoke/en detectors/en )/w ,/w vehicle/en telemetric/en systems/en (/w a/en field/en which/en overlaps/en with/en Connected/en cars/en above/en )/w ,/w consumer/en electronics/en and/en healthcare/en monitoring./url Yet/en the/en vast/en majority/en of/en M/en 2/m M/en systems/en transmit/en very/en low/en levels/en of/en data/en and/en the/en data/en transmitted/en is/en seldom/en time-critical./url Many/en currently/en operate/en on/en 2/m G/en networks/en or/en can/en be/en integrated/en with/en the/en IP/en Multimedia/en Subsystem/en (/w IMS/en )/w –/0 so/en at/en present/en the/en business/en case/en for/en M/en 2/m M/en that/en can/en be/en attached/en to/en 5/m G/en is/en not/en immediately/en obvious./url
+
+A/en true/en requirement/en for/en a/en generational/en shift/en ?/w
+
+Thus/en many/en of/en the/en services/en that/en have/en been/en put/en forward/en as/en potential/en ‘/w killer/en apps/en ’/w for/en 5/m G/en do/en not/en require/en a/en generational/en shift/en in/en technology/en ,/w and/en could/en be/en provided/en via/en existing/en network/en technologies./url Only/en applications/en that/en require/en at/en least/en one/en of/en the/en key/en 5/m G/en technical/en requirements/en –/0 sub/en -/w 1/m ms/en latency/en and/en >/w 1/m Gbps/en downlink/en speed/en –/0 can/en be/en considered/en true/en next/en generational/en business/en cases./url
+
+Of/en these/en two/en requirements/en ,/w reducing/en latency/en to/en sub/en -/w 1/m ms/en levels/en may/en provide/en the/en greatest/en technical/en challenge/en (/w see/en page/en 12/m )/w ./m Meanwhile/en ,/w as/en discussed/en in/en more/en detail/en in/en Appendix/en B/en ,/w operators/en are/en already/en making/en a/en considerable/en amount/en of/en progress/en in/en increasing/en the/en data/en speeds/en of/en their/en existing/en networks/en by/en adopting/en LTE/en -/w A/en technologies/en (/w see/en Figure/en 2/m )/w ./m While/en it/en is/en important/en to/en note/en that/en although/en many/en of/en the/en use/en cases/en and/en services/en discussed/en in/en this/en section/en do/en not/en strictly/en require/en 5/m G/en ,/w they/en could/en offer/en an/en enhanced/en user/en experience/en on/en a/en 5/m G/en network./url However/en this/en amounts/en to/en an/en incremental/en benefit/en that/en is/en more/en difficult/en to/en market/en than/en a/en genuine/en new/en service/en ,/w and/en not/en a/en core/en component/en of/en any/en 5/m G/en business/en case/en ./m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+11/m
+
+3.5/m G/en //w DC/en -/w HSPA/en +/0
+
+4/m G/en //w LTE/en
+
+4/m G/en //w LTE/en Cat/en ./m 4/m
+
+4/m G/en //w LTE/en Advanced/en
+
+5/m G/en */w
+
+1/m ,/w 000/m Mbps/q
+
+10/m ,/w 000/m Mbps/q
+
+150/m Mbps/q
+
+100/m Mbps/q
+
+42.2/m Mbps/q
+
+Figure/en 2/m :/w Maximum/en theoretical/en downlink/en speed/en by/en technology/en generation/en ,/w Mbps/en (/w */w 10/m Gbps/en is/en the/en minimum/en theoretical/en upper/en limit/en speed/en specified/en for/en 5/m G/en )/w Source/en :/w GSMA/en Intelligence/en
+
+The/en implications/en of/en 5/m G/en for/en mobile/en operators/en
+
+The/en progress/en from/en initial/en 3/m G/en networks/en to/en mobile/en broadband/en technology/en has/en transformed/en industry/en and/en society/en by/en enabling/en an/en unprecedented/en level/en of/en innovation./url If/en 5/m G/en becomes/en a/en true/en generational/en shift/en in/en network/en technology/en ,/w we/en can/en expect/en an/en even/en greater/en level/en of/en transformation./url There/en are/en varying/en implications/en of/en providing/en an/en increased/en level/en of/en connectivity/en or/en developing/en a/en new/en radio/en access/en network/en (/w RAN/en )/w to/en deliver/en a/en step/en change/en in/en per/en connection/en performance/en ,/w or/en a/en combination/en of/en the/en two/en ./m This/en means/en that/en the/en final/en design/en of/en a/en 5/m G/en network/en could/en be/en any/en one/en of/en a/en range/en of/en options/en with/en differing/en radio/en interfaces/en ,/w network/en topologies/en and/en business/en capabilities./url
+
+While/en a/en shift/en to/en 5/m G/en would/en be/en hugely/en impactful/en ,/w the/en industry/en will/en need/en to/en overcome/en a/en series/en of/en challenges/en if/en these/en benefits/en are/en to/en be/en realised/en ,/w particularly/en in/en terms/en of/en spectrum/en and/en network/en topology./url
+
+5/m G/en spectrum/en and/en coverage/en implications/en
+
+While/en there/en are/en a/en number/en of/en spectrum/en bands/en which/en could/en potentially/en be/en used/en in/en meeting/en some/en of/en the/en 5/m G/en requirements/en identified/en to/en date/en ,/w there/en is/en currently/en a/en substantial/en focus/en on/en higher/en frequency/en radio/en spectrum./url  /0 As/en discussed/en in/en Appendix/en A/en ,/w operators/en ,/w vendors/en and/en academia/en are/en combining/en efforts/en to/en explore/en technical/en solutions/en for/en 5/m G/en that/en could/en use/en frequencies/en above/en 6/m GHz/en and/en reportedly/en as/en high/en as/en 300/m GHz/en ./m However/en ,/w higher/en frequency/en bands/en offer/en smaller/en cell/en radiuses/en and/en so/en achieving/en widespread/en coverage/en using/en a/en traditional/en network/en topology/en model/en would/en be/en challenging./url
+
+It/en is/en widely/en accepted/en that/en ‘/w beam/en -/w forming/en ’/w -/w the/en focussing/en of/en the/en radio/en interface/en into/en a/en beam/en which/en will/en be/en usable/en over/en greater/en distances/en –/0 is/en an/en important/en part/en of/en any/en radio/en interface/en definition/en that/en would/en use/en 6/m GHz/en or/en higher/en spectrum/en bands./url This/en however/en means/en that/en the/en beam/en must/en be/en directed/en at/en the/en end/en user/en device/en that/en is/en being/en connected./url Since/en the/en service/en being/en offered/en is/en still/en differentiated/en from/en fixed/en line/en connections/en on/en the/en basis/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+12/m
+
+of/en ‘/w mobility/en ’/w ,/w the/en beam/en itself/en will/en have/en to/en track/en the/en device./url This/en is/en innovation/en that/en could/en make/en 5/m G/en an/en expensive/en technology/en to/en deploy/en on/en large/en scale/en ,/w since/en each/en cell/en may/en have/en to/en support/en several/en hundred/en individual/en beams/en at/en any/en one/en time/en and/en track/en the/en end/en users/en that/en are/en connected/en via/en these/en beams/en in/en three/en dimensional/en space./url
+
+High/en -/w order/en MIMO/en (/w Multi/en -/w Input/en ,/w Multi/en -/w Output/en )/w is/en another/en method/en for/en increasing/en bandwidth/en that/en is/en often/en discussed./url This/en is/en where/en an/en array/en of/en antennae/en is/en installed/en in/en a/en device/en and/en multiple/en radio/en connections/en are/en established/en between/en a/en device/en and/en a/en cell/en ./m However/en ,/w high/en -/w order/en MIMO/en can/en have/en issues/en with/en radio/en interference/en ,/w so/en technology/en is/en required/en to/en help/en mitigate/en this/en problem./url This/en tends/en to/en focus/en on/en a/en need/en for/en the/en radio/en network/en to/en adjust/en its/en beam/en to/en take/en into/en account/en the/en specific/en orientation/en of/en the/en antenna/en at/en any/en given/en time/en ./m
+
+All/en of/en this/en is/en incremental/en research/en and/en development/en over/en and/en above/en that/en currently/en being/en conducted/en for/en 4/m G/en ./m The/en use/en of/en bands/en higher/en than/en 6/m GHz/en will/en likely/en require/en operators/en to/en invest/en in/en an/en entirely/en new/en RAN/en since/en it/en will/en have/en fundamentally/en different/en masthead/en requirements./url Given/en the/en level/en of/en infrastructure/en required/en to/en achieve/en the/en desired/en network/en topology/en ,/w operators/en may/en be/en forced/en to/en rethink/en their/en existing/en business/en models./url New/en technology/en is/en rarely/en a/en cheap/en option/en ,/w and/en the/en nature/en of/en the/en new/en technology/en that/en is/en required/en in/en the/en radio/en network/en makes/en it/en very/en power/en -/w intensive/en ,/w hence/en counter/en to/en the/en stated/en requirement/en for/en significant/en reduction/en in/en overall/en network/en power/en consumption./url
+
+That/en said/en ,/w vendors/en are/en researching/en ways/en to/en include/en beam/en forming/en and/en MIMO/en technology/en in/en mobile/en devices./url As/en a/en result/en ,/w the/en process/en of/en identifying/en and/en aligning/en internationally/en around/en common/en bands/en for/en 5/m G/en will/en have/en a/en clear/en dependency/en on/en the/en technology/en that/en can/en be/en identified/en to/en overcome/en band/en usage/en in/en high/en frequencies/en for/en wide/en area/en coverage./url
+
+Can/en 1/m millisecond/en latency/en be/en achieved/en ?/w
+
+Achieving/en the/en sub/en -/w 1/m ms/en latency/en rate/en identified/en as/en a/en technical/en requirement/en for/en 5/m G/en necessitates/en a/en new/en way/en of/en thinking/en about/en how/en networks/en are/en structured/en ,/w and/en will/en likely/en prove/en to/en be/en a/en significant/en undertaking/en in/en terms/en of/en technological/en development/en and/en investment/en in/en infrastructure./url
+
+Despite/en the/en inevitable/en advances/en in/en processor/en speeds/en and/en network/en latency/en between/en now/en and/en 2020/m ,/w the/en speeds/en at/en which/en signals/en can/en travel/en through/en the/en air/en and/en light/en can/en travel/en along/en a/en fibre/en are/en governed/en by/en fundamental/en laws/en of/en physics./url Subsequently/en services/en requiring/en a/en delay/en time/en of/en less/en than/en 1/m millisecond/en must/en have/en all/en of/en their/en content/en served/en from/en a/en physical/en position/en very/en close/en to/en the/en user/en ’/w s/en device./url Industry/en estimates/en suggest/en that/en this/en distance/en may/en be/en less/en than/en 1/m kilometre/en ,/w which/en means/en that/en any/en service/en requiring/en such/en a/en low/en latency/en will/en have/en to/en be/en served/en using/en content/en located/en very/en close/en to/en the/en customer/en ,/w possibly/en at/en the/en base/en of/en every/en cell/en ,/w including/en the/en many/en small/en cells/en that/en are/en predicted/en to/en be/en fundamental/en to/en meeting/en densification/en requirements./url This/en will/en likely/en require/en a/en substantial/en uplift/en in/en CAPEX/en spent/en on/en infrastructure/en for/en content/en distribution/en and/en servers./url
+
+If/en any/en service/en requiring/en 1/m millisecond/en delay/en also/en has/en a/en need/en for/en interconnection/en between/en one/en operator/en and/en another/en ,/w this/en interconnectivity/en must/en also/en occur/en within/en 1/m kilometre/en of/en the/en customers./url This/en could/en well/en be/en the/en case/en in/en a/en service/en such/en as/en social/en networking/en content/en pushed/en into/en augmented/en reality./url Today/en ,/w inter/en -/w operator/en interconnect/en points/en are/en relatively/en sparse/en ,/w but/en to/en support/en a/en 5/m G/en service/en with/en 1/m millisecond/en delay/en ,/w there/en would/en likely/en need/en to/en be/n
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+13/m
+
+interconnection/en at/en every/en base/en station/en ,/w thus/en impacting/en the/en topological/en structure/en of/en the/en core/en network./url Roaming/en customers/en would/en need/en to/en have/en visited/en network/en contextual/en roaming/en capabilities/en ,/w and/en have/en content/en relevant/en to/en their/en applications/en available/en directly/en from/en the/en visited/en network/en ,/w posing/en challenges/en for/en the/en existing/en roaming/en model./url
+
+In/en the/en most/en extreme/en case/en ,/w it/en would/en make/en sense/en for/en a/en single/en network/en infrastructure/en to/en be/en implemented/en ,/w which/en would/en be/en utilised/en by/en all/en operators./url This/en would/en mean/en all/en customers/en could/en be/en served/en by/en a/en single/en content/en source/en ,/w with/en all/en interaction/en and/en interconnect/en with/en localised/en context/en also/en being/en served/en from/en that/en point/en at/en the/en base/en station./url This/en would/en also/en imply/en that/en only/en one/en radio/en network/en would/en be/en built/en ,/w and/en then/en shared/en by/en all/en operators./url
+
+Figure/en 3/m :/w Latency/en performance/en for/en LTE/en compared/en to/en latency/en requirement/en for/en 5/m G/en  /0 Source/en :/w GSMA/en
+
+Such/en a/en model/en would/en considerably/en reduce/en CAPEX/en in/en the/en network/en build/en (/w since/en rather/en than/en say/en four/en operators/en building/en four/en parallel/en networks/en ,/w only/en a/en single/en network/en would/en be/en built/en )/w but/en would/en require/en unprecedented/en levels/en of/en co/en -/w operation/en between/en operators./url It/en would/en also/en impact/en the/en nature/en of/en inter/en -/w operator/en competition/en ,/w shifting/en focus/en to/en services/en rather/en than/en data/en rate/en and/en coverage/en differentiation./url It/en would/en also/en make/en spectrum/en auctions/en somewhat/en irrelevant/en ,/w since/en only/en one/en radio/en network/en being/en built/en would/en mean/en there/en would/en only/en be/en one/en bidder/en and/en one/en license/en per/en market./url
+
+Once/en this/en is/en all/en realised/en ,/w it/en is/en likely/en that/en requirements/en for/en sub/en -/w 1/m ms/en delay/en will/en be/en relaxed/en or/en possibly/en removed/en entirely/en from/en 5/m G/en ,/w rather/en than/en industry/en committing/en to/en the/en massive/en upheaval/en and/en resource/en acquisition/en that/en would/en be/en implied./url If/en this/en were/en to/en happen/en ,/w it/en may/en draw/en into/en question/en the/en viability/en of/en coupling/en services/en such/en as/en augmented/en and/en virtual/en reality/en ,/w immersive/en internet/en and/en autonomous/en driving/en with/en mobility./url However/en ,/w if/en those/en services/en were/en removed/en from/en the/en expected/en service/en set/en ,/w the/en justification/en for/en the/en technological/en view/en of/en 5/m G/en would/en also/en become/en questionable./url
+
+LTE/en –/0 min/en 10/m ms/n
+
+4/m ms/en 4/m ms/en 1/m -/w 2/m ms/en 5-10/t ms/en if/en in/en the/en same/en country/en as/en the/en customer/en
+
+Core/en Network/en
+
+Internet/n
+
+5/m G/en service/en sub/en -/w 1/m ms/n
+
+</w 0.5/m ms/en </w 0.5/m ms/n
+
+Content/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+14/m
+
+Continuing/en development/en of/en network/en technologies/en :/w what/en 5/m G/en isn/en ’/w t/q
+
+To/en further/en enhance/en the/en mobile/en broadband/en experience/en for/en customers/en ,/w operators/en are/en continuing/en to/en develop/en their/en 4/m G/en networks/en through/en the/en deployment/en of/en LTE/en -/w Advanced/en technologies./url Many/en are/en also/en deploying/en technologies/en such/en as/en network/en function/en virtualisation/en (/w NFV/en )/w ,/w software/en defined/en networks/en (/w SDN/en )/w ,/w heterogeneous/en networks/en (/w HetNets/en )/w and/en low/en power/en ,/w low/en throughput/en (/w LPLT/en )/w networks./url These/en allow/en different/en network/en upgrade/en paths/en and/en expansion/en of/en coverage/en through/en integration/en of/en broader/en wireless/en technologies/en ,/w as/en well/en as/en potentially/en having/en a/en positive/en effect/en in/en the/en total/en cost/en of/en ownership/en of/en the/en network./url
+
+The/en term/en 5/m G/en is/en sometimes/en used/en to/en encapsulate/en these/en technologies./url However/en ,/w it/en is/en important/en to/en clarify/en that/en these/en technological/en advancements/en are/en continuing/en independently/en of/en 5/m G/en ./m While/en these/en are/en areas/en that/en will/en have/en significant/en impact/en on/en the/en mobile/en industry/en over/en the/en coming/en years/en ,/w explicitly/en including/en them/en under/en the/en term/en 5/m G/en has/en the/en potential/en to/en adversely/en affect/en progress/en in/en the/en industry/en between/en now/en and/en the/en realisation/en of/en 5/m G/en as/en a/en commercial/en service./url
+
+A/en summary/en of/en these/en technologies/en follows/en :/w
+
+Network/en Function/en Virtualisation/en (/w NFV/en )/w and/en Software/en Defined/en Networks/en (/w SDN/en )/w
+
+NFV/en is/en a/en network/en architecture/en concept/en that/en enables/en the/en separation/en of/en hardware/en from/en software/en or/en ‘/w function/en ’/w ,/w and/en has/en become/en a/en reality/en for/en the/en mobile/en industry/en due/en to/en the/en increased/en performance/en of/en ‘/w common/en ,/w off/en -/w the/en -/w shelf/en ’/w (/w COTS/en )/w IT/en platforms./url SDN/en is/en an/en extension/en of/en NFV/en wherein/en software/en can/en perform/en dynamic/en reconfiguration/en of/en an/en operator/en ’/w s/en network/en topology/en to/en adjust/en to/en load/en and/en demand/en ,/w e/en ./m g/en ./m by/en directing/en additional/en network/en capacity/en to/en where/en it/en is/en needed/en to/en maintain/en the/en quality/en of/en customer/en experience/en at/en peak/en data/en consumption/en times./url A/en number/en of/en operators/en have/en built/en or/en are/en building/en part/en or/en all/en of/en their/en LTE/en networks/en using/en NFV/en and/en SDN/en as/en the/en basis./url
+
+These/en technologies/en in/en combination/en can/en potentially/en reduce/en operator/en CAPEX/en as/en they/en offer/en a/en cheaper/en and/en simpler/en network/en architecture/en that/en is/en easier/en to/en upgrade/en ,/w while/en OPEX/en is/en also/en reduced/en through/en power/en savings/en as/en network/en capacity/en is/en only/en provided/en when/en and/en where/en it/en is/en needed./url However/en ,/w shifting/en from/en existing/en structures/en to/en IT/en -/w based/en soft/en functions/en will/en bring/en new/en complexities/en for/en operators/en in/en terms/en of/en network/en provisioning/en and/en management/en ,/w as/en well/en as/en requiring/en a/en new/en skill/en set/en within/en operator/en staff./url
+
+Heterogeneous/en Networks/en (/w HetNets/en )/w
+
+HetNet/en refers/en to/en the/en provision/en of/en a/en cellular/en network/en through/en a/en combination/en of/en different/en cell/en types/en (/w e/en ./m g/en ./m macro/en ,/w pico/en or/en femto/en cells/en )/w and/en different/en access/en technologies/en (/w i/en ./m e/en ./m 2/m G/en ,/w 3/m G/en ,/w 4/m G/en ,/w Wi/en -/w fi/en )/w ./m By/en integrating/en a/en number/en of/en diverse/en technologies/en depending/en on/en the/en topology/en of/en the/en coverage/en area/en ,/w operators/en can/en potentially/en provide/en a/en more/en consistent/en customer/en experience/en compared/en to/en what/en could/en be/en achieved/en with/en a/en homogenous/en network./url
+
+Small/en cell/en deployments/en are/en a/en key/en feature/en of/en the/en HetNet/en approach/en as/en they/en allow/en considerable/en flexibility/en as/en to/en where/en they/en are/en positioned/en ,/w however/en ,/w the/en use/en of/en more/en cells/en brings/en implications/en in/en terms/en of/en power/en supply/en and/en backhaul/en ,/w especially/en when/en they/en are/en located/en in/en remote/en areas./url Wi/en -/w fi/en can/en also/en play/en a/en significant/en role/en in/en HetNets/en ,/w both/en in/en terms/en of/en data/en offload/en and/en roaming./url
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+15/m
+
+HetNet/en technology/en has/en typically/en been/en developed/en in/en relation/en to/en data/en networking/en ,/w but/en recently/en voice/en has/en been/en brought/en under/en the/en scope/en as/en well/en ,/w not/en least/en because/en of/en support/en for/en Wi/en -/w fi/en calling/en being/en available/en in/en Apple/n ’/w s/en iPhone/en 6/m which/en was/en released/en in/en September/en 2014./m
+
+Conclusions/en :/w enabling/en innovation/en through/en industry/en -/w wide/en collaboration/en
+
+The/en many/en initiatives/en and/en discussions/en on/en 5/m G/en going/en on/en around/en the/en world/en by/en governments/en ,/w vendors/en ,/w operators/en and/en academia/en demonstrate/en the/en continuing/en ethos/en of/en collaboration/en and/en innovation/en across/en the/en industry./url In/en these/en debates/en we/en must/en ensure/en that/en we/en continue/en to/en coordinate/en with/en aligned/en goals/en to/en maintain/en momentum/en in/en completing/en the/en definition/en of/en 5/m G/en ./m
+
+The/en key/en 5/m G/en considerations/en at/en this/en stage/en are/en :/w
+
+When/en 5/m G/en arrives/en will/en be/en determined/en by/en what/en 5/m G/en turns/en out/en to/en be/n
+
+As/en discussed/en earlier/en ,/w there/en are/en currently/en two/en differing/en views/en of/en what/en 5/m G/en is/en ./m The/en first/en view/en makes/en its/en implementation/en somewhat/en intangible/en –/0 5/m G/en will/en become/en a/en commercial/en reality/en when/en sufficient/en industry/en voices/en say/en so/en ,/w but/en this/en will/en be/en something/en that/en is/en difficult/en to/en measure/en by/en any/en recognisable/en metric./url The/en second/en approach/en is/en more/en concrete/en in/en that/en it/en has/en a/en distinct/en set/en of/en technical/en objectives/en ,/w meaning/en that/en when/en a/en service/en is/en launched/en that/en meets/en those/en objectives/en it/en will/en count/en as/en the/en advent/en of/en 5/m G/en ./m
+
+/0
+
+As/en the/en requirements/en identified/en for/en 5/m G/en are/en a/en combination/en of/en both/en visions/en ,/w in/en some/en cases/en the/en requirement/en set/en is/en self/en -/w contradictory/en –/0 for/en example/en ,/w it/en would/en not/en be/en possible/en to/en have/en a/en new/en RAN/en with/en beam/en forming/en and/en meet/en a/en requirement/en for/en power/en reduction/en ,/w because/en beam/en forming/en uses/en a/en lot/en more/en power/en than/en today/en ’/w s/en RAN/en ./m As/en a/en result/en ,/w there/en must/en be/en an/en established/en answer/en to/en the/en question/en of/en what/en 5/m G/en is/en before/en there/en can/en be/en an/en answer/en to/en the/en question/en of/en when/en it/en will/en arrive./url
+
+The/en case/en for/en a/en new/en RAN/en should/en be/en based/en on/en its/en potential/en to/en improve/en mobile/en networks/en
+
+The/en principal/en challenge/en in/en the/en 5/m G/en specification/en is/en the/en sub/en -/w 1/m ms/en latency/en requirement/en ,/w which/en is/en governed/en by/en fundamental/en laws/en of/en physics./url If/en ,/w as/en discussed/en above/en ,/w this/en challenge/en proves/en too/en much/en and/en the/en requirements/en for/en sub/en -/w 1/m ms/en delay/en are/en removed/en from/en 5/m G/en ,/w the/en need/en for/en a/en new/en RAN/en would/en be/en questioned./url Whether/en a/en new/en air/en interface/en is/en necessary/en is/en arguably/en more/en of/en a/en question/en of/en whether/en one/en can/en be/en invented/en that/en significantly/en improves/en mobile/en networks/en ,/w rather/en than/en on/en a/en race/en to/en the/en arbitrary/en deadline/en of/en 2020./m
+
+This/en raises/en the/en question/en of/en where/en the/en industry/en should/en go/en next/en ./m Without/en a/en new/en air/en interface/en ,/w the/en ‘/w 5/m G/m ’/w label/en makes/en less/en sense/en ,/w as/en the/en industry/en would/en need/en to/en shift/en to/en the/en evolutionary/en view/en of/en 5/m G/en -/w with/en the/en new/en networks/en building/en on/en LTE/en and/en Wi/en -/w fi/en by/en adding/en new/en functionalities/en and/en architecture./url
+
+5/m G/en should/en not/en distract/en from/en more/en immediate/en technological/en developments/en
+
+Technologies/en such/en as/en multiple/en -/w carrier/en LTE/en -/w A/en ,/w NFV/en //w SDN/en ,/w HetNets/en and/en LPLT/en networks/en will/en form/en an/en important/en part/en of/en the/en evolution/en of/en mobile/en networks./url Each/en has/en the/en potential/en to/en offer/en tangible/en benefits/en to/en operators/en within/en the/en next/en few/en years/en ,/w and/en so/en the/en industry/en should/en not/en risk/en losing/en focus/en on/en the/en potential/en benefits/en of/en these/en technologies/en in/en the/en short/en and/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+16/m
+
+medium/en term/en ./m Also/en ,/w the/en term/en ‘/w 5/m G/m ’/w should/en always/en be/en associated/en with/en the/en definition/en of/en new/en radio/en technology./url Everything/en else/en is/en the/en net/en result/en of/en other/en forms/en of/en innovation./url
+
+LTE/en remains/en very/en important/en and/en will/en continue/en to/en evolve/en
+
+There/en remains/en considerable/en potential/en for/en future/en LTE/en growth/en ,/w which/en still/en only/en accounts/en for/en 5%/m of/en the/en world/en ’/w s/en mobile/en connections./url LTE/en penetration/en as/en a/en percentage/en of/en connections/en is/en already/en as/en high/en as/en 69%/m in/en South/en Korea/en ,/w 46%/m in/en Japan/en and/en 40%/m in/en the/en US/en ,/w but/en LTE/en penetration/en in/en the/en developing/en world/en stands/en at/en just/en 2%./m Hence/en there/en is/en still/en a/en substantial/en opportunity/en for/en operators/en to/en generate/en returns/en on/en their/en investment/en in/en LTE/en networks./url
+
+LTE/en technology/en will/en also/en continue/en to/en develop/en ,/w with/en operators/en already/en making/en a/en considerable/en amount/en of/en progress/en in/en increasing/en the/en data/en speeds/en of/en their/en existing/en networks/en by/en adopting/en multiple/en -/w carrier/en LTE/en -/w A/en technologies./url Therefore/en ,/w while/en there/en remain/en monetisation/en and/en interconnect/en issues/en around/en LTE/en ,/w these/en advancements/en will/en enable/en operators/en to/en offer/en many/en of/en the/en services/en that/en have/en been/en put/en forward/en in/en the/en context/en of/en 5/m G/en long/en before/en 5/m G/en becomes/en a/en commercial/en reality./url
+
+The/en industry/en should/en make/en full/en use/en of/en governmental/en interest/en and/en resources/en
+
+As/en detailed/en in/en Appendix/en A/en ,/w there/en is/en a/en considerable/en level/en of/en governmental/en interest/en worldwide/en in/en the/en subject/en of/en 5/m G/en ,/w not/en to/en mention/en a/en substantial/en amount/en of/en funding/en available/en for/en research/en and/en development/en in/en the/en field./url It/en is/en important/en that/en the/en industry/en leverages/en this/en and/en effectively/en channels/en the/en focus/en and/en resource/en into/en something/en meaningful/en for/en both/en operators/en and/en their/en customers./url This/en should/en be/en implemented/en in/en a/en coordinated/en framework/en to/en avoid/en a/en fragmented/en vision/en of/en 5/m G/en for/en different/en parts/en of/en the/en world./url
+
+5/m G/en is/en an/en opportunity/en to/en develop/en a/en more/en sustainable/en operator/en investment/en model/en
+
+If/en previous/en generations/en of/en mobile/en technology/en have/en taught/en us/en anything/en ,/w it/en is/en it/en that/en ,/w as/en with/en each/en preceding/en generation/en ,/w 5/m G/en will/en unlock/en value/en in/en ways/en we/en cannot/en and/en will/en not/en anticipate./url Services/en that/en were/en initially/en expected/en to/en have/en a/en negligible/en impact/en became/en hugely/en popular/en (/w e/en ./m g/en ./m SMS/en )/w ,/w while/en those/en expected/en to/en be/en the/en ‘/w next/en big/en thing/en ’/w have/en been/en slow/en to/en gain/en traction/en (/w e/en ./m g/en ./m video/en calling/en )/w ./m Through/en the/en development/en of/en 5/m G/en ,/w we/en as/en an/en industry/en can/en expect/en a/en paradigm/en shift/en in/en the/en way/en that/en all/en of/en the/en stakeholders/en in/en the/en mobile/en ecosystem/en play/en their/en role/en ./m Regulators/en especially/en can/en use/en this/en as/en an/en opportunity/en to/en create/en healthier/en environments/en that/en stimulate/en continuing/en investment/en in/en next/en generation/en technology./url
+
+/0
+
+Some/en of/en the/en business/en cases/en that/en have/en worked/en well/en for/en 3/m G/en and/en 4/m G/en technologies/en may/en not/en be/en the/en right/en ones/en for/en 5/m G/en ./m By/en actively/en conceiving/en and/en exploring/en 5/m G/en business/en cases/en at/en an/en earlier/en stage/en ,/w operators/en will/en have/en greater/en potential/en to/en shape/en the/en new/en paradigm./url
+
+The/en GSMA/en will/en continue/en to/en work/en with/en its/en members/en to/en shape/en the/en future/en of/en 5/m G/m
+
+Whichever/en form/en 5/m G/en eventually/en takes/en ,/w the/en GSMA/en ,/w as/en the/en association/en representing/en the/en mobile/en industry/en ,/w looks/en forward/en to/en contributing/en to/en the/en development/en of/en a/en 5/m G/en ecosystem/en through/en collaboration/en and/en thought/en leadership./url The/en GSMA/en ’/w s/en focus/en is/en on/en :/w
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+17/m
+
+•/0 working/en with/en its/en operator/en members/en to/en identify/en and/en develop/en commercially/en viable/en 5/m G/en applications/en •/0 collaborating/en in/en the/en work/en being/en undertaken/en in/en terms/en of/en research/en ,/w development/en and/en definition/en of/en 5/m G/en technologies/en by/en industry/en groups/en such/en as/en 3/m GPP/en ,/w NGMN/en and/en ITU/en -/w R/en ,/w and/en contributing/en to/en the/en various/en working/en groups/en in/en these/en areas/en •/0 identifying/en requirements/en around/en roaming/en and/en interconnect/en •/0 driving/en the/en development/en of/en the/en regulatory/en framework/en for/en 5/m G/en by/en identifying/en suitable/en spectrum/en bands/en for/en its/en operation/en ,/w and/en working/en with/en governments/en around/en the/en world/en to/en ensure/en international/en alignment/en within/en those/en bands/en •/0 creating/en a/en forum/en for/en relevant/en parties/en to/en discuss/en 5/m G/en through/en e/en ./m g/en ./m GSMA/en boards/en and/en committees/en ,/w industry/en workshops/en ,/w Mobile/en World/en Congress/en etc/en ./m
+
+The/en successful/en shift/en to/en next/en generation/en networks/en can/en only/en be/en achieved/en through/en strong/en industry/en -/w wide/en collaboration./url The/en GSMA/en will/en continue/en communicating/en through/en subsequent/en papers/en to/en influence/en the/en strategic/en direction/en of/en 5/m G/en development/en ,/w as/en the/en business/en case/en and/en technical/en requirements/en for/en 5/m G/en become/en clearer./url In/en order/en to/en realise/en the/en immense/en opportunity/en that/en 5/m G/en represents/en for/en the/en industry/en ,/w the/en GSMA/en will/en do/en all/en it/en can/en to/en ensure/en that/en the/en next/en generation/en of/en telecommunications/en deliver/en innovation/en and/en consumer/en benefits/en in/en an/en economically/en viable/en way/en ./m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+18/m
+
+Appendix/en A/en :/w Current/en 5/m G/en industry/en activity/en
+
+Since/en 2012/m ,/w a/en number/en of/en initiatives/en have/en been/en established/en to/en define/en and/en develop/en 5/m G/en and/en there/en have/en also/en been/en a/en considerable/en number/en of/en statements/en from/en interested/en parties/en such/en as/en governments/en and/en infrastructure/en vendors./url Having/en fallen/en behind/en Eastern/en Asia/en and/en North/en America/en in/en terms/en of/en mobile/en technological/en advancement/en due/en to/en a/en relatively/en slow/en rollout/en and/en adoption/en of/en 4/m G/en networks/en ,/w European/en governments/en are/en particularly/en keen/en to/en get/en ahead/en of/en the/en curve/en in/en the/en 5/m G/en space/en and/en there/en have/en been/en a/en number/en of/en announcements/en from/en Neelie/en Kroes/en ,/w European/en Commission/en (/w EC/en )/w Vice/en President/en for/en Digital/en Agenda/en ,/w on/en the/en subject/en going/en back/en to/en Mobile/en World/en Congress/en 2013/m ./m The/en governments/en of/en Japan/en ,/w South/en Korea/en and/en China/en have/en also/en been/en particularly/en active/en in/en driving/en the/en 5/m G/en agenda./url
+
+Meanwhile/en ,/w vendors/en such/en as/en Ericsson/en ,/w Huawei/en ,/w NSN/en and/en Samsung/en all/en began/en research/en and/en development/en towards/en 5/m G/en in/en 2013/m ,/w and/en this/en year/en mobile/en operators/en have/en also/en begun/en making/en announcements/en regarding/en their/en own/en 5/m G/en laboratory/en trials./url A/en summary/en of/en the/en key/en parties/en ,/w milestones/en and/en targets/en is/en below./url
+
+ITU/en -/w R/en launched/en “/w IMT/en for/en 2020/m and/en beyond/n ”/w setting/en the/en stage/en for/en “/w 5/m G/m ”/w
+
+Japan/en ,/w Korea/en and/en China/en working/en on/en 5/m G/en requirements/en
+
+Neely/en Kroes/en press/en conference/en in/en Barcelona/en launched/en 5/m G/en PPP/en (/w 5/m G/en public/en private/en partnership/en )/w
+
+EU/en project/en METIS/en starts/en work/en on/en defining/en 5/m G/m
+
+•/0
+
+•/0
+
+•/0
+
+•/0
+
+•/0
+
+•/0 Samsung/en ,/w NSN/en ,/w Huawei/en ,/w Ericsson/en have/en all/en started/en developments/en toward/en 5/m G/m
+
+NTT/en Docomo/en announced/en “/w experimental/en trials/en ”/w for/en 5/m G/en using/en higher/en frquency/en bands/en
+
+2012 2013 2014 2020/m
+
+Figure/en 4/m :/w Timeline/en of/en key/en events/en in/en 5/m G/en developments/en  /0 Source/en :/w GSMA/en Intelligence/en
+
+ITU/en Radiocommunication/en Sector/en (/w ITU/en -/w R/en )/w
+
+The/en ITU/en -/w R/en plays/en a/en key/en role/en in/en in/en the/en global/en management/en of/en the/en radio/en -/w frequency/en spectrum/en and/en satellite/en orbits/en as/en well/en as/en being/en the/en body/en that/en defined/en the/en criteria/en for/en previous/en generations/en of/en technology/en –/0 the/en IMT/en -200/m 0/m family/en of/en technologies/en correlates/en directly/en to/en 3/m G/en ,/w whilst/en the/en intent/en was/en that/en IMT/en -/w Advanced/en technologies/en would/en be/en 4/m G/en ./m However/en ,/w for/en 4/m G/en the/en relationship/en between/en ITU/en -/w R/en IMT/en definitions/en and/en specific/en ‘/w G/m ’/w s/en became/en broken./url IMTAdvanced/en only/en identifies/en two/en technologies/en as/en meeting/en the/en criteria/en laid/en out/en by/en ITU/en -/w R/en for/en 4/m G/en –/0 LTE/en -/w A/en and/en WiMAX2./url Operators/en and/en equipment/en vendors/en blurred/en this/en definition/en by/en marketing/en LTE/en ,/w WiMAX/en and/en even/en HSPA/en +/0 as/en ‘/w 4G/n ’/w ./m LTE/en and/en WiMAX/en are/en in/en fact/en included/en in/en the/en IMT/en -200/m 0/m technology/en group/en ,/w and/en so/en ,/w if/en the/en association/en between/en ITU/en -/w R/en IMT/en groups/en and/en ‘/w generations/en ’/w were/en to/en be/en maintained/en ,/w LTE/en and/en WiMAX/en would/en be/en 3/m rd/en Generation/en ,/w rather/en than/en 4/m th/en ./m
+
+In/en early/en 2012/m ,/w ITU/en -/w R/en began/en a/en programme/en to/en develop/en “/w IMT/en -2020/m ”/w (/w International/en Mobile/en Telecommunications/en 2020/m )/w ,/w setting/en the/en stage/en for/en the/en 5/m G/en research/en activities/en that/en have/en since/en emerged/en across/en the/en world./url In/en 2015/m ,/w the/en organisation/en plans/en to/en finalise/en its/en “/w Vision/en ”/w of/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+19/m
+
+the/en 5/m G/en mobile/en broadband/en connected/en society./url This/en view/en of/en the/en horizon/en for/en the/en future/en of/en mobile/en technology/en will/en be/en key/en in/en setting/en the/en agenda/en for/en the/en World/en Radiocommunication/en Conference/en (/w WRC/en )/w 2015/m ,/w where/en discussions/en regarding/en additional/en spectrum/en will/en take/en place/en in/en support/en of/en the/en future/en growth/en of/en the/en industry./url
+
+NGMN/en Alliance/en
+
+The/en NGMN/en (/w Next/en Generation/en Mobile/en Networks/en )/w Alliance/en is/en a/en forum/en made/en up/en of/en 24/m mobile/en operators/en and/en various/en other/en mobile/en industry/en ecosystem/en companies/en including/en network/en and/en handset/en vendors/en ,/w and/en research/en institutes./url NGMN/en began/en working/en on/en identifying/en requirements/en for/en 5/m G/en standards/en in/en Q/en 4 201/m 3/m and/en plans/en to/en present/en a/en white/en paper/en detailing/en end/en -/w to/en -/w end/en requirements/en for/en 5/m G/en at/en its/en industry/en conference/en in/en March/en 2015/m ./m The/en paper/en is/en intended/en to/en support/en the/en standardisation/en and/en subsequent/en availability/en of/en 5/m G/en from/en 2020./m
+
+The/en NGMN/en Alliance/en has/en positioned/en itself/en as/en the/en lead/en organisation/en driving/en the/en 5/m G/en agenda/en ,/w although/en is/en yet/en to/en make/en any/en public/en statement/en on/en what/en the/en requirements/en it/en defines/en might/en be/en ./m
+
+European/en Commission/en
+
+The/en EC/n ’/w s/en 5/m G/en research/en activities/en began/en in/en November/en 2012/m with/en the/en co/en -/w funding/en of/en METIS/en (/w Mobile/en and/en wireless/en communications/en Enablers/en for/en the/en Twenty/en -/w twenty/en (/w 2020/m )/w Information/en Society/en )/w ,/w a/en consortium/en of/en 29/m partners/en spanning/en vendors/en ,/w operators/en ,/w the/en automotive/en industry/en and/en academia/en focused/en on/en the/en next/en generation/en of/en mobile/en and/en wireless/en communications/en systems/en for/en year/en 2020/m ./m A/en year/en later/en METIS/en published/en its/en five/en key/en 5/m G/en scenarios/en ,/w 12/m test/en cases/en and/en seven/en Key/en Performance/en Indicators/en for/en 5/m G/en ,/w associated/en with/en technical/en requirements./url The/en project/en is/en due/en to/en release/en its/en final/en report/en in/en April/en 2015./m
+
+In/en December/en 2013/m ,/w the/en EC/en went/en further/en and/en announced/en a/en joint/en 5/m G/en research/en and/en innovation/en project/en with/en the/en private/en sector/en -/w The/en 5/m G/en Infrastructure/en Public/en Private/en Partnership/en (/w 5/m G/en PPP/en )/w -/w with/en collective/en funding/en of/en ¤/w 4.2/m billion/en ,/w of/en which/en ¤/w 700/m million/en will/en come/en from/en the/en commission/en itself/en ,/w reflecting/en its/en desire/en to/en seize/en the/en initiative/en in/en 5/m G/en development./url 5/m G/en PPP/en will/en facilitate/en research/en into/en solutions/en ,/w architectures/en ,/w technologies/en and/en standards/en for/en 5/m G/en infrastructure/en ,/w and/en aims/en to/en ensure/en that/en at/en least/en 20%/m of/en 5/m G/en standards/en essential/en patents/en (/w SEP/en )/w are/en developed/en and/en owned/en by/en European/en organisations/en ,/w while/en ensuring/en that/en European/en vendors/en retain/en at/en least/en 35%/m of/en global/en market/en share/en in/en the/en supply/en of/en future/en network/en infrastructure./url
+
+National/en governments/en
+
+Outside/en of/en Europe/en ,/w the/en majority/en of/en 5/m G/en research/en appears/en to/en be/en confined/en to/en Eastern/en Asia/en ,/w with/en China/en ,/w Japan/en and/en South/en Korea/en all/en working/en independently/en on/en defining/en 5/m G/en requirements./url China/en ’/w s/en 5/m G/en initiative/en ,/w named/en ‘/w IMT/en -2020/m ’/w ,/w is/en a/en combination/en of/en three/en government/en agencies/en and/en has/en established/en eight/en working/en groups/en with/en the/en aim/en of/en promoting/en the/en development/en of/en 5/m G/en technologies/en in/en the/en country./url
+
+Meanwhile/en ,/w Japan/en ’/w s/en ‘/w 2020/m and/en Beyond/en Ad/en Hoc/en ’/w (/w 20/m B/en AH/en )/w group/en was/en established/en by/en the/en Association/en of/en Radio/en Industries/en and/en Businesses/en (/w ARIB/en )/w in/en September/en 2013/m to/en study/en the/en concept/en ,/w function/en and/en architecture/en of/en mobile/en communications/en systems/en going/en into/en the/en next/en
+
+/0
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+20/m
+
+decade/en ,/w as/en well/en as/en the/en services/en and/en applications/en those/en systems/en could/en offer./url The/en country/en has/en set/en an/en ambitious/en target/en of/en having/en commercial/en 5/m G/en services/en available/en in/en time/en for/en the/en 2020/m Olympic/en Games/en in/en Tokyo./url
+
+Equally/en ambitious/en 5/m G/en targets/en have/en been/en set/en in/en South/en Korea./url The/en country/en ’/w s/en ‘/w 5/m G/en Forum/en ’/w group/en ’/w s/en website/en states/en that/en “/w The/en 5/m G/en technology/en is/en expected/en to/en be/en commercialised/en by/en 2020/m with/en 1/m ,/w 000-/t time/en speed/en of/en current/en LTE/en data/en transfer./url ”/w The/en Korean/en Ministry/en of/en Education/en ,/w Science/en and/en Technology/en has/en allocated/en $/0 1.6/m billion/en of/en funding/en to/en the/en project./url
+
+Individual/en operators/en and/en vendors/en
+
+More/en ambitious/en yet/en is/en South/en Korean/en market/en leader/en ,/w SK/en Telecom/en ,/w who/en announced/en last/en July/en that/en it/en had/en signed/en an/en agreement/en with/en Ericsson/en to/en develop/en 5/m G/en technology/en in/en time/en to/en demonstrate/en a/en network/en at/en the/en 2018/m Winter/en Olympics/en in/en Pyeongchang./url Earlier/en that/en month/en ,/w the/en vendor/en had/en already/en demonstrated/en a/en 5/m Gbps/en data/en throughput/en speed/en in/en laboratory/en trials/en ,/w in/en the/en 15/m GHz/en frequency/en band/en ./m
+
+Again/en the/en majority/en of/en research/en and/en innovation/en at/en the/en operator/en and/en vendor/en level/en is/en taking/en place/en in/en Eastern/en Asia/en ,/w with/en both/en Huawei/en and/en Samsung/en having/en reportedly/en achieved/en latencies/en of/en less/en than/en 5/m milliseconds/en in/en laboratory/en trials./url Japan/en ’/w s/en NTT/en DoCoMo/en has/en also/en begun/en conducting/en extensive/en “/w experimental/en trials/en ”/w of/en potential/en 5/m G/en technologies/en across/en multiple/en frequency/en bands./url The/en operator/en has/en partnered/en with/en various/en vendors/en to/en test/en technologies/en in/en a/en number/en of/en spectrum/en bands/en ,/w including/en Alcatel/en -/w Lucent/en (/w 3/m -/w 6/m GHz/en )/w ,/w Fujitsu/en (/w 3/m -/w 6/m GHz/en )/w ,/w NEC/en (/w 5/m GHz/en )/w ,/w Ericsson/en (/w 15/m GHz/en )/w ,/w Samsung/en (/w 28/m GHz/en )/w and/en Nokia/en (/w 70/m GHz/en )/w ./m
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+21/m
+
+Appendix/en B/en :/w 4/m G/en opportunities/en and/en challenges/en
+
+LTE/en is/en still/en in/en the/en early/en stages/en of/en its/en lifecycle/en
+
+Historically/en ,/w cellular/en technologies/en have/en adhered/en to/en an/en approximate/en 20/m -/w year/en cycle/en from/en launch/en to/en peak/en penetration/en ,/w with/en around/en ten/en years/en between/en the/en launch/en of/en each/en new/en technology/en (/w see/en Figure/en 5/m )/w ./m The/en first/en commercial/en LTE/en networks/en went/en live/en in/en 2009/m and/en based/en on/en historical/en precedent/en we/en would/en not/en expect/en the/en technology/en to/en reach/en a/en peak/en level/en of/en connections/en until/en around/en 2030./m
+
+1980 1990/m
+
+1/m G/en –/0 AMPS/en (/w 19/m years/en )/w
+
+9/m years/en
+
+2/m G/en –/0 GSM/en (/w 18/m years/en )/w
+
+3/m G/en –/0 WCDMA/en (/w 19/m years/en )/w
+
+4/m G/en –/0 LTE/en (/w 18/m years/en )/w
+
+2000 2010 2020 2030/m
+
+Launch/en Peak/en
+
+10/m years/en
+
+9/m years/en
+
+Today/en
+
+Figure/en 5/m :/w Evolution/en of/en mobile/en technology/en by/en generation/en ,/w 1980/m onwards/en  /0 Source/en :/w GSMA/en Intelligence/en
+
+In/en reality/en ,/w the/en adoption/en of/en LTE/en is/en proceeding/en at/en a/en faster/en rate/en than/en its/en predecessor/en technologies/en (/w see/en Figure/en 6/m )/w ,/w yet/en we/en still/en do/en not/en expect/en LTE/en connections/en to/en peak/en until/en well/en into/en the/en next/en decade./url The/en technology/en is/en still/en at/en an/en early/en stage/en in/en its/en lifecycle/en ,/w with/en networks/en currently/en confined/en to/en just/en 110/m of/en the/en world/en ’/w s/en 237/m mobile/en markets./url Hence/en LTE/en still/en represents/en a/en considerable/en growth/en opportunity/en for/en the/en industry/en –/0 at/en present/en ,/w only/en around/en a/en third/en of/en the/en world/en ’/w s/en mobile/en operators/en (/w 293/m )/w have/en live/en LTE/en networks./url Assuming/en all/en known/en future/en network/en launches/en go/en ahead/en as/en planned/en ,/w 158/m countries/en will/en soon/en have/en at/en least/en one/en LTE/en operator/en –/0 yet/en this/en still/en leaves/en one/en third/en of/en the/en world/en ’/w s/en mobile/en markets/en as/en untapped/en territory/en for/en LTE/en services./url
+
+0/m
+
+3/m ,/w 500/m
+
+3/m ,/w 000/m
+
+2/m ,/w 500/m
+
+2/m ,/w 000/m
+
+1/m ,/w 500/m
+
+1/m ,/w 000/m
+
+500/m
+
+5/m ,/w 000/m
+
+4/m ,/w 000/m
+
+4/m ,/w 500/m
+
+2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020/m
+
+2G/n
+
+3G/n
+
+4/m G/en LTE/en
+
+Mobile/en connections/en (/w in/en millions/en )/w
+
+Figure/en 6/m :/w Total/en cellular/en connections/en ,/w global/en ,/w by/en technology/en generation/en  /0 Source/en :/w GSMA/en Intelligence/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+22/m
+
+In/en terms/en of/en coverage/en ,/w we/en expect/en LTE/en networks/en to/en reach/en 26%/m of/en the/en world/en ’/w s/en population/en by/en the/en end/en of/en 2014/m (/w see/en Figure/en 7/m )/w ,/w although/en the/en technology/en will/en account/en for/en only/en 6%/m of/en global/en connections/en at/en that/en time/en ,/w illustrating/en the/en considerable/en growth/en potential/en for/en LTE/en even/en in/en regions/en with/en widespread/en networks/en such/en as/en the/en Americas/en ,/w Europe/en and/en Oceania/en ,/w where/en we/en expect/en coverage/en to/en increase/en from/en around/en three/en in/en five/en people/en on/en average/en in/en 2014/m to/en more/en than/en four/en in/en five/en by/en 2020./m
+
+An/en expected/en proliferation/en of/en launches/en will/en also/en bring/en coverage/en to/en more/en than/en two/en thirds/en of/en the/en population/en of/en Asia/en by/en that/en time/en ,/w while/en almost/en one/en in/en five/en Africans/en will/en also/en be/en covered/en by/en LTE/en networks/en ,/w more/en than/en double/en the/en current/en proportion./url Thus/en globally/en we/en expect/en that/en LTE/en coverage/en will/en rise/en from/en a/en quarter/en now/en to/en more/en than/en 60%/m of/en the/en world/en ’/w s/en population/en by/en 2020/m –/0 meaning/en that/en 4.9/m billion/en people/en will/en potentially/en have/en access/en to/en the/en technology./url
+
+20%10% 30% 40% 60% 70% 80% 90% 100%/m
+
+World/en
+
+Africa/en
+
+Americas/en
+
+Asia/en
+
+Europe/en
+
+Oceania/en
+
+0%/m
+
+2014/m
+
+2020/m
+
+Figure/en 7/m :/w LTE/en network/en coverage/en forecasts/en ,/w as/en a/en %/m of/en population/en by/en region/en  /0 Source/en :/w GSMA/en Intelligence/en
+
+Opportunities/en for/en further/en evolution/en of/en LTE/en
+
+As/en a/en technology/en ,/w LTE/en continues/en to/en develop./url Operators/en are/en already/en making/en a/en considerable/en amount/en of/en progress/en in/en increasing/en the/en data/en speeds/en of/en their/en existing/en networks/en by/en adopting/en dual/en -/w carrier/en LTE/en -/w A/en technologies/en ,/w which/en can/en achieve/en theoretical/en downlink/en speeds/en of/en up/en to/en 300/m Mbps/en ./m As/en of/en October/en 2014/m ,/w some/en 22/m operators/en had/en already/en launched/en LTE/en -/w A/en ,/w and/en we/en are/en aware/en of/en firm/en commitments/en by/en a/en further/en 47/m to/en implement/en the/en technology./url All/en in/en all/en 15/m countries/en across/en the/en world/en now/en have/en live/en LTE/en -/w A/en networks/en ,/w and/en this/en figure/en will/en increase/en to/en 35/m assuming/en that/en all/en currently/en planned/en networks/en successfully/en make/en it/en to/en the/en commercial/en launch/en stage./url
+
+LTE/en -/w A/en should/en be/en able/en to/en meet/en mobile/en broadband/en demand/en (/w in/en terms/en of/en speed/en )/w for/en several/en years/en to/en come/en and/en will/en provide/en operators/en with/en increasing/en opportunities/en to/en develop/en attractive/en and/en profitable/en 4/m G/en services./url In/en addition/en ,/w 3/m GPP/en is/en also/en working/en on/en optimising/en congestion/en control/en for/en more/en efficient/en use/en of/en M/en 2/m M/en on/en LTE/en networks./url
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+23/m
+
+LTE/en is/en driving/en increasing/en CAPEX/en levels/en
+
+Given/en the/en potential/en that/en remains/en for/en increasing/en 4/m G/en adoption/en in/en many/en countries/en ,/w we/en expect/en to/en see/en considerable/en further/en investment/en in/en the/en technology./url We/en forecast/en that/en the/en world/en ’/w s/en mobile/en operators/en will/en invest/en $/0 1.7/m trillion/en in/en network/en infrastructure/en over/en the/en period/en 2014202/m 0/m (/w see/en Figure/en 8/m )/w ,/w much/en of/en which/en will/en be/en in/en 4/m G/en networks./url This/en outlay/en is/en a/en considerable/en uplift/en on/en the/en estimated/en $/0 878/m billion/en invested/en over/en the/en period/en 2009-201/t 3/m and/en underlines/en the/en industry/en ’/w s/en commitment/en to/en meeting/en the/en exponentially/en increasing/en demand/en for/en mobile/en broadband/en services/en as/en well/en as/en connecting/en ‘/w the/en next/en billion/en people/en ’/w to/en the/en internet./url
+
+$/0 150/m ,/w 000/m
+
+$/0 100/m ,/w 000/m
+
+$/0 50/m ,/w 000/m
+
+$/0 300/m ,/w 000/m
+
+$/0 200/m ,/w 000/m
+
+$/0 250/m ,/w 000/m
+
+$/0 0/m
+
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020/m
+
+(/w in/en millions/en )/w
+
+Figure/en 8/m :/w Total/en mobile/en operator/en CAPEX/en forecast/en ,/w annual/en ,/w in/en million/en US/en $/0  /0 Source/en :/w GSMA/en Intelligence/en
+
+The/en monetisation/en challenge/en that/en remains/en for/en LTE/en
+
+The/en rapid/en migration/en towards/en LTE/en in/en the/en world/en ’/w s/en most/en advanced/en mobile/en markets/en has/en driven/en a/en surge/en in/en data/en usage/en ,/w with/en 4/m G/en users/en typically/en consuming/en twice/en as/en much/en data/en per/en month/en as/en other/en users./url However/en ,/w while/en the/en introduction/en of/en LTE/en has/en led/en to/en an/en uplift/en in/en ARPU/en in/en some/en instances/en ,/w the/en impact/en on/en revenue/en varies/en widely/en depending/en on/en the/en market./url For/en example/en ,/w in/en South/en Korea/en KT/en reported/en an/en LTE/en ARPU/en of/en KRW/en 44/m ,/w 300/m (/w $/0 41.91/m )/w in/en Q/en 2 2014/m ,/w 31.8/m %/m greater/en than/en their/en blended/en ARPU/en for/en the/en same/en period./url Operators/en in/en the/en US/en are/en seeing/en similar/en trends/en with/en Verizon/en Wireless/en –/0 the/en largest/en LTE/en operator/en globally/en with/en 53.7/m million/en 4/m G/en connections/en in/en Q/en 2 201/m 4/m –/0 announcing/en that/en its/en Q/en 2 201/m 4/m ARPA/en (/w average/en revenue/en per/en account/en )/w was/en up/en 4.7%/m on/en a/en year/en earlier/en to/en $/0 159.7/m 3/m (/w based/en on/en an/en average/en of/en 2.8/m connections/en per/en account/en )/w ./m
+
+However/en ,/w in/en regions/en such/en as/en Europe/en ,/w the/en migration/en towards/en LTE/en is/en at/en a/en significantly/en earlier/en stage/en and/en while/en they/en have/en reported/en similar/en trends/en in/en terms/en of/en data/en consumption/en ,/w mobile/en operators/en in/en these/en regions/en are/en not/en yet/en seeing/en the/en same/en positive/en impact/en on/en revenue/en from/en LTE/en as/en witnessed/en in/en ‘/w digital/en pioneer/en ’/w markets/en such/en as/en South/en Korea/en ,/w the/en US/en and/en Japan./url In/en many/en cases/en ,/w European/en operators/en are/en pricing/en 4/m G/en at/en the/en same/en price/en as/en 3/m G/en from/en the/en outset/en ,/w while/en those/en that/en initially/en charged/en a/en premium/en for/en 4/m G/en are/en having/en to/en re/en -/w evaluate/en in/en the/en face/en of/en strong/en competition./url Hence/en ,/w the/en most/en significant/en challenge/en around/en LTE/en for/en many/en operators/en remains/en the/en monetisation/en of/en the/en networks/en that/en they/en have/en invested/en heavily/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+24/m
+
+in/en ./m While/en operators/en are/en transitioning/en their/en tariff/en structures/en to/en become/en increasingly/en datacentric/en ,/w the/en continued/en decline/en in/en voice/en and/en SMS/en revenues/en is/en in/en many/en cases/en yet/en to/en be/en offset/en by/en corresponding/en increases/en in/en data/en revenues./url
+
+Thus/en ,/w operators/en must/en seek/en to/en manage/en the/en change/en in/en usage/en patterns/en and/en pricing/en to/en minimise/en any/en cannibalisation/en of/en voice/en and/en SMS/en revenues/en and/en to/en ensure/en that/en margins/en are/en protected/en and/en future/en investment/en in/en LTE/en and/en other/en network/en technologies/en remains/en viable./url
+
+LTE/en interconnect/en and/en roaming/en issues/en
+
+Interconnect/en is/en another/en area/en where/en LTE/en still/en has/en significant/en challenges/en to/en overcome./url The/en GSMA/en has/en made/en progress/en in/en this/en area/en through/en the/en definition/en of/en IP/en eXchange/en (/w IPX/en )/w ,/w a/en technology/en with/en an/en all/en -/w IP/en core/en that/en can/en provide/en an/en improved/en interconnection/en which/en enhances/en the/en richness/en and/en quality/en of/en LTE/en data/en roaming./url IPX/en allows/en the/en data/en roaming/en experience/en to/en be/en managed/en from/en end/en -/w to/en -/w end/en and/en manipulated/en in/en real/en time/en ,/w which/en is/en useful/en for/en providing/en services/en requiring/en particular/en attributes/en e/en ./m g/en ./m high/en bandwidth/en ,/w low/en latency./url
+
+However/en ,/w the/en wider/en adoption/en of/en voice/en over/en LTE/en (/w VoLTE/en )/w has/en been/en constrained/en by/en the/en absence/en of/en a/en standard/en IP/en -/w based/en interconnect/en technology/en for/en voice/en ,/w largely/en due/en to/en operator/en concerns/en about/en being/en unable/en to/en effectively/en manage/en and/en bill/en VoLTE/en traffic/en in/en the/en same/en way/en as/en traditional/en voice/en calls./url Reaching/en an/en agreed/en technical/en standard/en for/en VoLTE/en interconnect/en is/en crucial/en ,/w as/en voice/en services/en must/en provide/en a/en consistent/en experience/en for/en customers/en over/en any/en network/en ,/w anywhere/en in/en the/en world./url Hence/en the/en GSMA/en will/en continue/en to/en work/en towards/en the/en goal/en of/en delivering/en a/en seamless/en VoLTE/en interconnect/en and/en roaming/en service/en for/en consumers/en while/en protecting/en the/en commercial/en interests/en of/en operators./url
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+25/m
+
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0  /0 Authors/en
+
+Dan/en Warren/en  /0 Senior/en Director/en ,/w GSMA/en Technology/en Calum/en Dewar/en  /0 Lead/en Analyst/en ,/w GSMA/en Intelligence/en
+
+Other/en GSMA/en contributors/en to/en this/en report/en :/w
+
+Hyunmi/en Yang/en Chief/en Strategy/en Officer/en Javier/en Albares/en Head/en of/en Corporate/en Strategy/en Elisa/en Balestra/en  /0 Corporate/en Strategy/en Manager/en Scott/en Burcher/en  /0 Senior/en Analyst/en ,/w GSMA/en Intelligence/en Matthew/en Bloxham/en  /0 Senior/en Director/en -/w Head/en of/en Policy/en Research/en ,/w Government/en &/0 Regulatory/en Affairs/en Wladimir/en Bocquet/en  /0 Senior/en Director/en -/w Spectrum/en Policy/en ,/w Government/en &/0 Regulatory/en Affairs/en
+
+GSMA/en Intelligence/en  /0 Understanding/en 5/m G/m
+
+26/m
+
+About/en GSMA/en Intelligence/en
+
+GSMA/en Intelligence/en is/en the/en definitive/en source/en of/en global/en mobile/en operator/en data/en ,/w analysis/en and/en forecasts/en ;/w and/en a/en publisher/en of/en authoritative/en industry/en reports/en and/en research./url
+
+Our/en data/en covers/en every/en operator/en group/en ,/w network/en and/en MVNO/en in/en every/en country/en worldwide/en —/w from/en Afghanistan/en to/en Zimbabwe./url It/en is/en the/en most/en accurate/en and/en complete/en set/en of/en industry/en metrics/en available/en ,/w comprising/en tens/en of/en millions/en of/en individual/en data/en points/en ,/w updated/en daily./url
+
+/0
+
+GSMA/en Intelligence/en is/en relied/en on/en by/en leading/en operators/en ,/w vendors/en ,/w regulators/en ,/w financial/en institutions/en and/en third/en -/w party/en industry/en players/en ,/w to/en support/en strategic/en decision/en -/w making/en and/en long/en -/w term/en investment/en planning./url The/en data/en is/en used/en as/en an/en industry/en reference/en point/en and/en is/en frequently/en cited/en by/en the/en media/en and/en by/en the/en industry/en itself./url
+
+For/en more/en information/en ,/w visit/en gsmaintelligence.com/about//url
+
+Whilst/en every/en care/en is/en taken/en to/en ensure/en the/en accuracy/en of/en the/en information/en contained/en in/en this/en material/en ,/w the/en facts/en ,/w estimates/en and/en opinions/en stated/en are/en ,/w ,/w ,/w ,/w ,/w

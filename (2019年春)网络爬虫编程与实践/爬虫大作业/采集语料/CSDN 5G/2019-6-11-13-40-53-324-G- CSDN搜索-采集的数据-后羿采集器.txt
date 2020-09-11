@@ -1,0 +1,115 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G频域资源,5G频域资源nnnn基本概念子载波间隔nn子载波间隔的大小对相位噪声和多普勒频移的影响，决定了最终的覆盖面积、时延大小等因素，为了支持多种频段、业务类型和移动速度，引入了多种子载波间隔。,zhangbijun1230,https://blog.csdn.net/zhangbijun1230/article/details/90762706,2019-06-04,102次阅读,5G频域资源 - zhangbijun1230的专栏,2019年06月04日 09:07:31,5G频域资源
+
+ 
+
+基本概念子载波间隔
+
+子载波间隔的大小对相位噪声和多普勒频移的影响，决定了最终的覆盖面积、时延大小等因素，为了支持多种频段、业务类型和移动速度，引入了多种子载波间隔。
+
+SCS变化趋势
+			影响
+			典型场景
+		SCS较小
+			符号长度变长
+			覆盖增大（低频段大覆盖）
+		SCS较大
+			多普勒频移影响变小
+			移动性能增强（超高速移动）
+		SCS较大
+			符号长度变小
+			时延缩短（URLLC高可靠低时延业务）
+		SCS较大
+			相位噪声变小
+			性能增强（高频段大带宽）
+		RB相关
+
+RB的定义为NRBscN_{sc}^{RB}NscRB​=12个在频域上连续的子载波。
+
+RG，对每一个Numerology和载波，都定义了一个频域Nsize,μgrid,xNRBscN_{grid,x}^{size,\mu}N_{sc}^{RB}Ngrid,xsize,μ​NscRB​个子载波、时域Nsubframe,μsymbN_{symb}^{subframe,\mu}Nsymbsubframe,μ​个符号的RG（Resource
+Grid资源网格），且起始位置CRB编号Nstart,μgridN_{grid}^{start,\mu}Ngridstart,μ​ 由高层参数offsetToCarrier
+指示，载波带宽Nsize,μgrid,xN_{grid,x}^{size,\mu}Ngrid,xsize,μ​由高层参数carrierBandwidth 指示。
+
+SCS-SpecificCarrier ::= SEQUENCE { offsetToCarrier INTEGER (0..2199), subcarrierSpacing SubcarrierSpacing, carrierBandwidth INTEGER (1..maxNrofPhysicalResourceBlocks), \..., \[\[ txDirectCurrentLocation-v1530 INTEGER (0..4095) OPTIONAL \-- Need S \]\] }
+
+Point A用作RG的公共参考点，获得的方式有两种：
+
+-
+对于PCell下行链路，UE用于初始小区选择的SS/PBCH块的最低资源块的最低子载波作为参考位置，Point
+A与这个参考位置之间的偏移由高层参数offsetToPointA定义。该偏移以RB为单位，假定FR1的子载波间隔为15kHz，FR2的子载波间隔为60kHz。
+
+FrequencyInfoDL-SIB ::= SEQUENCE { frequencyBandList MultiFrequencyBandListNR-SIB, offsetToPointA INTEGER (0..2199), scs-SpecificCarrierList SEQUENCE (SIZE (1..maxSCSs)) OFSCS-SpecificCarrier }
+
+- 对于其他情况，使用高层参数absoluteFrequencyPointA
+，指以ARFCN表示的Point A的绝对频域位置。
+
+FrequencyInfoDL ::= SEQUENCE { absoluteFrequencySSB ARFCN-ValueNR OPTIONAL, \-- Cond SpCellAdd frequencyBandList MultiFrequencyBandListNR, absoluteFrequencyPointA ARFCN-ValueNR, scs-SpecificCarrierList SEQUENCE (SIZE (1..maxSCSs)) OFSCS-SpecificCarrier, \... }
+
+absoluteFrequencyPointA 包含在在FrequencyInfoDL 、FrequencyInfoUL
+、FrequencyInfoUL-SIB这几个IE中，对应了PCell上行、SCell上/下行、SUL等情况。
+
+Common RB在频域中从0开始向上编号，0号CRB的0号子载波的中心和Point
+A一致。对于子载波间隔配置μ\muμ，CRB编号nμCRBn_{CRB}^\munCRBμ​在频域上与 RE(k,l)的关系是
+nμCRB=⌊kNRBsc⌋n_{CRB}^\mu = \lfloor\frac{k}{N_{sc}^{RB}}\rfloornCRBμ​=⌊NscRB​k​⌋
+其中k是相对于Point A定义的，这样的话，k=0相当于以Point A为中心的子载波。
+
+Physical RB是BWP（Bandwidth
+part）内的定义，在BWP中从0开始编号，到NsizeBWP,i−1N_{BWP,i}^{size} - 1NBWP,isize​−1结束。其中i是BWP的编号。在i号BWP的PRB编号nPRBn_{PRB}nPRB​和CRB编号nCRBn_{CRB}nCRB​之间的关系为
+nCRB=nPRB+NstartBWP,in_{CRB} = n_{PRB}+N_{BWP,i}^{start}nCRB​=nPRB​+NBWP,istart​
+其中NstartBWP,iN_{BWP,i}^{start}NBWP,istart​是i号BWP的起始位置相对于0号CRB的CRB数。
+
+BWP
+
+BWP，英文名称bandwidth
+part，顾名思义，指部分带宽。在5G中，UE的接收和发送带宽不需要和小区带宽一样大，而可以调整诸如带宽、位置、以及子载波间隔。引入BWP的目的是基于多个原因，如：支持小带宽终端、省电、支持不同的Numerology等。
+
+
+
+在38.213讲解BWP操作的章节中，涉及了以下几种类型的BWP：
+
+Initial BWP，UE通过搜索SSB，获取SSB的频域位置，然后解调PBCH这一系列操作，来确定initial DL BWP，然后接收SIB1，在SIB1的ServingCellConfigCommonSIB中配置了initialUplinkBWP，从而确定initial UL BWP。
+
+Dedicated BWP，在RRC连接态配置，UE最多可以在上下行各自配置4个BWP，通过downlinkBWP-ToAddModList和uplinkBWP-ToAddModList来配置。高层还可以通过firstActiveDownlinkBWP-Id来为UE配置第一个激活的DL BWP用于接收，通过firstActiveUplinkBWP-Id来为UE配置第一个激活的UL BWP用于发送。
+
+对于每一个BWP，需要配置给UE的参数有：
+
+
+	子载波间隔，由高层参数subcarrierSpacing配置
+	
+	
+	CP，由高层参数cyclicPrefix配置
+	
+	
+	BWP的频域位置和带宽，由高层参数locationAndBandwidth配置，这个参数应该理解为38.214中的RIV( resource indication value），RIV相当于一个起始资源块（RBstartRB_{start}RBstart​）和一个连续分配的资源块的长度（LRBsL_{RBs}LRBs​），具体定义如下
+	
+
+
+公式中的NsizeBWPN_{BWP}^{size}NBWPsize​被设置为275，由高层参数 offsetToCarrier
+和subcarrierSpacing指示
+
+
+	DL BWP或UL BWP的索引，由高层参数bwp-Id配置*。*
+	
+	
+	由BWP-common或BWP-dedicated指定的一组公共或专用BWP
+
+	下面是以DL BWP为例的高层配置参数，见38.331：
+	
+BWP ::= SEQUENCE {
+
+locationAndBandwidth INTEGER (0..37949), subcarrierSpacing SubcarrierSpacing, cyclicPrefix ENUMERATED { extended } OPTIONAL \-- Need R } BWP-Downlink ::= SEQUENCE { bwp-Id BWP-Id, bwp-Common BWP-DownlinkCommon OPTIONAL, \-- Cond SetupOtherBWP bwp-Dedicated BWP-DownlinkDedicated OPTIONAL, \-- Need M \... } BWP-DownlinkCommon ::= SEQUENCE { genericParameters BWP, pdcch-ConfigCommon SetupRelease { PDCCH-ConfigCommon } OPTIONAL, \--Need M pdsch-ConfigCommon SetupRelease { PDSCH-ConfigCommon } OPTIONAL, \--Need M \... } BWP-DownlinkDedicated ::= SEQUENCE { pdcch-Config SetupRelease { PDCCH-Config } OPTIONAL, \-- Need M pdsch-Config SetupRelease { PDSCH-Config } OPTIONAL, \-- Need M sps-Config SetupRelease { SPS-Config } OPTIONAL, \-- Need M radioLinkMonitoringConfig SetupRelease { RadioLinkMonitoringConfig }OPTIONAL, \-- Need M \... }
+
+Active BWP，UE在某时刻只能激活一个Dedicated
+BWP。激活的方式有接收高层配置的firstActiveDownlinkBWP-Id和*firstActiveUplinkBWP-Id；*还有收到DCI
+format 1_1，根据其中指示，从给UE配置的DL BWP集中，激活DL BWP，收到DCI
+format 0_1，根据其中指示激活UL BWP。
+
+Default
+BWP，协议提供了参数defaultDownlinkBWP-Id来给UE配置一个默认的DL
+BWP，如果高层没有配置这个参数，则UE认为initial DL BWP就是默认的DL BWP。
+
+协议还提供了一个定时器bwp-InactivityTimer，供DL
+BWP跳转使用，在激活了某个DL
+BWP时，启动该定时器，定时器超时后，跳转到defaultDownlinkBWP，如果没有配置defaultDownlinkBWP，则跳转到initialDownlinkBWP。
+
+下图展示了BWP的运转过程：,,,,,

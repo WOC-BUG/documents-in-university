@@ -1,0 +1,34 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+[人工智能]人工智能基础语法篇,https://blog.csdn.net/BaiHuaXiu123/article/details/53050497,前言n 可以用来开发机器学习主要有三门语言:Python/Java/C++,其中Python是主流.下面是Python具体的学习大纲,这个大纲我也是借鉴别人的,所以大家也可以参考来学习一下.n人工智能基础语法篇,https://blog.csdn.net/BaiHuaXiu123/article/details/53050497,,BaiHuaXiu123,2016-11-06,//blog.csdn.net/BaiHuaXiu123/article/details/53050497,6843次阅读,[人工智能]人工智能基础语法篇 - 刘玉刚,2016年11月06日 02:45:50,原        [人工智能]人工智能基础语法篇
+      
+      
+        
+                                                  2016年11月06日 02:45:50
+          刘玉刚
+          阅读数：6844
+          
+                                                      
+        
+                  
+      
+    
+  
+  
+    
+              
+                      
+              
+            
+          
+          版权声明：未经博主允许不得转载(https://github.com/ai-word)          https://blog.csdn.net/BaiHuaXiu123/article/details/53050497        
+            
+                              
+            
+            
+              
+            
+            #前言
+
+可以用来开发机器学习主要有三门语言:Python/Java/C++,其中Python是主流.下面是Python具体的学习大纲,这个大纲我也是借鉴别人的,所以大家也可以参考来学习一下.
+
+#人工智能基础语法篇

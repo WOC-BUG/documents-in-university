@@ -1,0 +1,27 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 技术/n 商用/b 落地/v 后/f ，/w 企业服务/n 领域/n 会/n 有/v 哪些/r 影响/v 和/c 机遇/n ,/w 导读/n ：/w 5/m G/m 技术/n 的/u 落地/v 商用/b ，/w 能够/v 实现/v 更多/n 设备/n 和/c 终端/n 的/u 低/a 成本/n 接入/v ，/w 能够/v 提供/v 更快/n 速/ag 敏捷/a 低/a 延迟/v 的/u 无线/b 带宽/n 信息/n 传输/v 通讯/n 体验/v ，/w 这/r 两点/t 革命性/n 的/u 进步/a 已经/d 够/d 让/v 人/n 遐想/v 了/dg …/w n/n 　　众所周知/iv ，/w 2000年/t 之后/f ，/w 推动/v 社会/n 增长/v 资本/n 增值/v 的/u 最重/a 要/v 的/u 技术/n 手段/n ，/w 基本/a 是/v 围绕/v 互联网/n 信息/n 技术/n 落地/v 的/u ，/w 第一/m 波/n 是/v 通过/p PC/n 有线/b 接入/v 互联网/n ，/w 第二/m 波/n 就是/n 通过/p 包括/v 手机/np 在内/v 的/u 移动/v 终端/n ，/w 通过/p 无线/b 方式/n 接入/v 互联网/n 并/c 展现/v 商业/n 价值/n 。/w n/n 应用/v 的/u 角度/n 考虑/v ，/w 5/m G/m 技术/n 的/u 落地/v 商用/b ，/w .../m ,/w weixin/en _/0 44197060/m ,/w https://blog.csdn.net/weixin_44197060/article/details/90488075/url ,/w 2019-05-23/t ,/w 12/m 次/a 阅读/v ,/w 5/m G/m 技术/n 商用/b 落地/v 后/f ，/w 企业服务/n 领域/n 会/n 有/v 哪些/r 影响/v 和/c 机遇/n -/w weixin/en _/0 44197060/m 的/u 博客/n ,/w 2019年05月23日 21:10:11/t ,/w 导读/n ：/w 5/m G/m 技术/n 的/u 落地/v 商用/b ，/w 能够/v 实现/v 更多/n 设备/n 和/c 终端/n 的/u 低/a 成本/n 接入/v ，/w 能够/v 提供/v 更快/n 速/ag 敏捷/a 低/a 延迟/v 的/u 无线/b 带宽/n 信息/n 传输/v 通讯/n 体验/v ，/w 这/r 两点/t 革命性/n 的/u 进步/a 已经/d 够/d 让/v 人/n 遐想/v 了/dg …/w
+众所周知/iv ，/w 2000年/t 之后/f ，/w 推动/v 社会/n 增长/v 资本/n 增值/v 的/u 最重/a 要/v 的/u 技术/n 手段/n ，/w 基本/a 是/v 围绕/v 互联网/n 信息/n 技术/n 落地/v 的/u ，/w 第一/m 波/n 是/v 通过/p PC/n 有线/b 接入/v 互联网/n ，/w 第二/m 波/n 就是/n 通过/p 包括/v 手机/np 在内/v 的/u 移动/v 终端/n ，/w 通过/p 无线/b 方式/n 接入/v 互联网/n 并/c 展现/v 商业/n 价值/n 。/w
+应用/v 的/u 角度/n 考虑/v ，/w 5/m G/m 技术/n 的/u 落地/v 商用/b ，/w 能够/v 实现/v 更多/n 设备/n 和/c 终端/n 的/u 低/a 成本/n 接入/v ，/w 能够/v 提供/v 更快/n 速/ag 敏捷/a 低/a 延迟/v 的/u 无线/b 带宽/n 信息/n 传输/v 通讯/n 体验/v ，/w 这/r 两点/t 革命性/n 的/u 进步/a 已经/d 够/d 让/v 人/n 遐想/v 了/dg 。/w 让/v 我们/r 收缩/v 思考/v 范围/n ，/w 看看/vv 5/m G/m 技术/n 商用/b 落地/v 后/f ，/w 在/d 企业服务/n 领域/n ，/w 会/n 有/v 哪些/r 影响/v 和/c 机遇/n 。/w
+
+1./m 工业/n 物联网/n
+物联网/n 作为/n 连接/v 人/n 、/w 机器/np 和/c 设备/n 的/u 关键/a 支撑/v 技术/n ，/w 肩负/v 制造业/n 及/c 工厂/nc 智能化/v 转型/v 的/u 推进/v 的/u 重任/n 。/w 虽然/c 受到/v 企业/n 和/c 社会/n 的/u 高度/b 关注/v ，/w 但是/c 受限/v 于/ng 硬件/n 、/w 稳定/a 、/w 带宽/n 、/w 成本/n 等/ng 原因/n ，/w 近些年/t 落地/v 起来/v 并/c 不是/n 很/d 顺利/a 。/w
+面对/v 复杂/a 的/u 工业/n 互联/v 需求/n ，/w 5/m G/m 技术/n 能/ng 很/d 好/a 的/u 适应/v 各种/r 不同/a 的/u 工业/n 场景/n 应用/v ，/w 能/ng 满/a 在/d 低/a 成本/n 的/u 前提/n 上/f ，/w 满足/a 物联网/n 的/u 绝大部分/n 连接/v 需求/n 。/w
+无论/c 是/v 做/v 硬件/n 接入/v 设备/n 、/w 物联网/n Paas/en 平台/n 、/w 商业/n 场景/n 应用/v 或者/c 解决方案/n 实施/v 咨询/v ，/w 这里/r 都/d 会/n 迎来/v 一波/nz 巨大/a 的/u 技术/n 红利/n 。/w
+简单/a 举例/v 子/k ，/w 如/c 某/r 大型/b 风电场/n 的/u 设备/n 需要/n 进行/v 设备/n 控制/v 管理/v ，/w 之前/f 需要/n 架设/v 专线/n ，/w 定制/v 管控/v 平台/n 软件/n ，/w 开发/v 系统/a 设备/n 接口/n 等/ng ，/w 投入/a 巨大/a 。/w
+今后/t ，/w 别说/v 是/v 风电/n 设备/n ，/w 只要/c 5/m G/m 规模化/v 带来/v 低/a 成本/n 效应/n ，/w 螺栓/n 说不定/d 都/d 能/ng 实现/v 工业/n 无线/b 联网/v 。/w
+2./m 企业/n 云/n 服务/v
+企业/n 云/n 服务/v 的/u 定义/n ，/w 已经/d 远远/d 超/h 最早/d 的/u 提供/v 单一/a 数据/n 存储/v 服务/v 的/u ，/w 从/p 提供/v 算/d 力/n 和/c 基础/n 服务/v 之外/f ，/w 也/d 向着/p 智能化/v 的/u 方向/n 发展/v 。/w
+5/m G/m 对/a 企业服务/n 领域/n 的/u 影响/v
+大部分/n 的/u 企业/n ，/w 不可/v 能/ng 在/d 大数据/n 和/c 人工智能/n 的/u 开发/v 上/f ，/w 投入/a 巨大/a 精力/n 和/c 资金/n 的/u ，/w 何况/c 这些/r 技术/n 需要/n 运行/v 在/d 具备/v 超高/b 计算/v 能力/n 的/u 平台/n 之上/f 。/w
+5/m G网/n 络/ng 低/a 延迟/v 、/w 高/a 带宽/n 、/w 强/a 稳定/a ，/w 强大/a 的/u 网络/n 能力/n ，/w 通过/p 大数据/n 和/c 人工智能/n 技术/n ，/w 借助/v 超高/b 计算/v 能力/n 的/u 平台/n ，/w 对/a 企业/n 的/u 生产制造/n 、/w 物流运输/n 等/ng 相关/v 过程/n ，/w 通过/p 5/m G网/n 络/ng 进行/v 实时/d 数据采集/n 及/c 运算/v 控制/v 。/w
+那些/r 移动/v 的/u 、/w 分散/a 的/u 企业/n 设备/n 资源/n ，/w 运输车/n 辆/q 载/ng 具/ng ，/w 现在/t 都/d 可以/a 接入/v 进来/v 了/dg ，/w 平台/n 化/k 的/u 大数据/n 和/c 人工智能/n 服务/v 市场/ny ，/w 也/d 会/n 越来越/d 广阔/a 。/w
+当然/b ，/w 对/a 企业/n 来说/u ，/w 人/n 也/d 是/v 重要/a 的/u 资源/n ，/w 人/n 这/r 一重/nz 要/v 资源/n 的/u 接入/v 也/d 广阔/a 应用/v 场景/n 。/w
+比如/v 方便/a 员工/n 接入/v 的/u 、/w 协同/v 的/u 视频会议/n 软件/n ，/w 方便/a 管理者/n 实时/d 随身/b 跟踪/v 的/u 、/w 即使/c 决策/n 的/u 智能/n BI/n 全息/n 展示/v 系统/a ，/w 借助/v 5/m G/m 和相关技/nr 术/ng ，/w 都/d 可以/a 带来/v 非常/b 好/a 的/u 使用/v 体验/v ，/w 让/v 更多/n 的/u 资源/n 接入/v 并/c 享受/v 到/ng 更/d 便捷/a 的/u 服务/v 。/w
+3./m 产业/n 互联网/n
+从/p 提供/v 信息/n 对接/v 、/w 交易/n 撮合/v ，/w 到/ng 实现/v 行业/n 的/u 在线交易/n ，/w 新/a 时期/n 的/u 产业/n 互联网/n 已经/d 具备/v 了/dg 新/a 的/u 含义/n ，/w 依附/v 产业/n 并/c 对/a 其/r 进行/v 服务/v 赋/ng 能/ng ，/w 才/d 是/v 长远/a 发展/v 的/u 方向/n 。/w
+传统/a 产业/n 的/u 研发/v 设计/v 、/w 生产制造/n 、/w 管理服务/n 等/ng 生产/v 流程/n ，/w 在/d 5/m G/m 与/c 云计算/n 、/w 大数据/n 、/w 人工智能/n 深度/n 融合/v 下/f ，/w 将/d 产生/v 全面/a 深刻/a 的/u 变革/v 。/w
+三个/n 月/n 前/f 的/u 演讲/v 中/f ，/w 就/d 连腾讯/nr 董事会/nc 主席/nx 马化腾/nr ，/w 都/d 在/d 公开/a 场合/n 反复/d 强调/v “/w 5/m G/m 和/c AI/n 双/m 核/n 驱动/v 下/f ，/w 产业/n 互联网/n 将/d 迎来/v 春天/t ”/w 。/w
+在/d 产业/n 互联网/n 中/f ，/w 人/n 与/c 物/ng 、/w 人/n 与/c 服务/v 的/u 连接/v 则/c 是/v 数百/m 亿/m 伸直/v 数千/nz 亿/m 的/u 量级/n ，/w 借助/v 5/m G网/n 络/ng 高/a 带宽/n 低/a 延迟/v 特性/n ，/w 很多/mq 此前/r 难以/d 数字化/v 的/u 场景/n 将/d 会/n 被/ng 解锁/v ，/w 以/p 更/d 小/a 的/u 颗粒/n 度/k ，/w 对/a 现实/a 世界/n 进行/v 重塑/v 。/w
+这些/r 数字化/v 场景/n 的/u 解锁/v 应用/v ，/w 以及/c 带来/v 的/u 延伸/v 服务/v ，/w 将/d 会/n 成为/v 产业/n 互联网/n 的/u 全新/b 价值/n 体现/v 。/w 比如/v 借助/v 相应/v 技术/n 的/u 突破/v ，/w 医疗/n 领域/n 的/u 产业/n 互联网/n ，/w 可以/a 提供/v 远程/b 问诊/v 、/w 诊断/v 辅助/v 等/ng 相关/v 服务/v ，/w 农业/n 领域/n 的/u 互联网/n ，/w 可以/a 提供/v 作物/n 生产/v 远程/b 管控/v 等/ng 相关/v 服务/v 。/w
+通过/p 产业/n 间/f 的/u 关联/v 和/c 波及/v 效应/n ，/w 将/d 放大/v 5/m G/m 对/a 经济社会/ln 发展/v 的/u 贡献/n ，/w 带动/v 国民经济/n 各行/r 业/dg 、/w 各/r 领域/n 实现/v 高质量/n 发展/v 。/w
+越来越/d 多/a 的/u 各行/r 业/dg 传统/a 企业/n 也/d 会/n 迅速/a 行动/v 起来/v ，/w 借助/v 自身/r 行业/n 优势/n ，/w 结合/v 5/m G/m 、/w 云计算/n 提供/v 产业服务/n ，/w 实现/v 自身/r 华丽/a 转型/v ，/w 挖掘/v 并/c 开拓/v 新/a 的/u 行业/n 机遇/n 。/w ,/w ,/w ,/w ,/w ,/w

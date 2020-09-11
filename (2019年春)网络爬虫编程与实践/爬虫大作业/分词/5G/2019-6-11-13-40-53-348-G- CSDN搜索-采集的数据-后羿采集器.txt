@@ -1,0 +1,295 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 协议/n 分类/v 整理/v ,/w n/n 本文/r 主要/b 是/v 将/d 3/m gpp/en 中/f 有关/v 5/m g/m 的/u 协议/n 分类/v 整理/v 出来/v ，/w 方便/a 查阅/v 。/w 协议/n 下载/v 可/v 到/ng 3/m gpp/en 官网/n ，/w 同时/c 参考/v 了/dg 5/m G/m 协议/n 下载/v 地址/n 及/c 介绍/v 、/w 5/m G/en 3/m GPP/en 协议/n 各/r 版本/n 的/u 内容/n 详/ag 表/n nn/en 协议/n 分层/v ：/w nn/en n/en n/en n/en n/en n/en n/en n/en 网/n 元/q n/en 协议/n 大类/n n/en 协议/n 号/n n/en 描述/v n/en 中文/n 介绍/v n/en n/en n/en NR/n 整体/n n/en 整体/n 描述/v n/en 38.300/m n/en NR/en .../m ,/w u/en 013597671/m ,/w https://blog.csdn.net/u013597671/article/details/84449374/url ,/w 2018-11-24/t ,/w 2647/m 次/a 阅读/v ,/w 5/m G/m 协议/n 分类/v 整理/v -/w u/en 013597671/m 的/u 专栏/n ,/w 2018年11月24日 16:53:07/t ,/w 本文/r 主要/b 是/v 将/d 3/m gpp/en 中/f 有关/v 5/m g/m 的/u 协议/n 分类/v 整理/v 出来/v ，/w 方便/a 查阅/v 。/w 协议/n 下载/v 可/v 到/ng 3/m gpp/en 官网/n ，/w 同时/c 参考/v 了/dg 5/m G/m 协议/n 下载/v 地址/n 及/c 介绍/v 、/w 5/m G/en 3/m GPP/en 协议/n 各/r 版本/n 的/u 内容/n 详/ag 表/n
+
+协议/n 分层/v ：/w
+
+
+
+
+
+
+
+
+网/n 元/q
+协议/n 大类/n
+协议/n 号/n
+描述/v
+中文/n 介绍/v
+
+
+NR/n 整体/n
+整体/n 描述/v
+38.300/m
+NR/en and/en NG/en -/w RAN/en Overall/en Description/en
+5/m G/en NR/n 综述/n ，/w 整个/b 接入网/n 整体/n 及/c 各/r 层/n 的/u 基本/a 介绍/v
+
+
+接入网/n NR/n
+总体/n
+38.104/m
+NR/en ;/w Base/en Station/en radio/en transmission/en and/en reception/en
+NR/n ；/w 基站/n 无线/b 发送/v 和/c 接收/v
+
+
+38.113/m
+NR/n ；/w Base/en Station/en EMC/n
+NR/n ；/w 基站/n 电磁兼容/n 性/k （/w EMC/n ）/w
+
+
+38.133/m
+NR/n ；/w Requirement/en for/en support/en RRM/en
+NR/n ；/w 支持/v 无线/b 资源管理/n （/w RRM/en ）/w
+
+
+37.340/m
+Multi/en -/w connectivity/en
+5/m G/m 多/a RAT/en （/w 4/m //w 5/m G/m 双连/nz 接/ng ）/w 架构/n ，/w 包括/v 各/r 基本/a 流程/n 信令/n
+
+
+38.401/m
+NG/en -/w RAN/en Architecture/en description/en
+5/m G/m 接入网/n 架构/n ，/w 包括/v NG/n 、/w Xn/en 和/c F1/n 接口/n 以及/c 它们/r 与/c 空中/s 接口/n 的/u 交互/b
+
+
+空口/d L/en 1/m
+38.201/m
+NR/en ;/w Physical/en layer/en ;/w General/en description/en
+物理层/n 综述/n ，/w TS38.21X/url 协议/n 架构/n 介绍/v
+
+
+38.202/m
+NR/en ;/w Physical/en layer/en services/en provided/en by/en the/en physical/en layer/en
+物理层/n 的/u 功能/n 与/c 服务/v
+
+
+38.211/m
+NR/en ;/w Physical/en channels/en and/en modulation/en
+物理层/n 帧/q 结构/n 、/w 信道/n 、/w 调制/v 、/w 信号/n
+
+
+38.212/m
+NR/en ;/w Multiplexing/en and/en channel/en coding/en
+描述/v 了/dg 传输/v 信道/n 和/c 控制/v 信道/n 的/u 数据处理/n ，/w 包括/v 复用/v 、/w 信道/n 编码/n 、/w 交织/v 、/w 调制/v 等/ng
+
+
+38.213/m
+NR/en ;/w Physical/en layer/en procedures/en for/en control/en
+物理层/n 控制/v 过程/n ：/w 同步/b 、/w 上行/v 功/n 控/v 、/w 随机/b 接入/v 、/w UE/en 上报/v 和/c 接收/v 控制/v 信息/n 过程/n
+
+
+38.214/m
+NR/en ;/w Physical/en layer/en procedures/en for/en data/en
+物理层/n 数据/n 过程/n ：/w 功率/n 控制/v ，/w PDSCH/en //w PUSCH/en 数据处理/n 过程/n
+
+
+38.215/m
+NR/en ;/w Physical/en layer/en measurements/en
+物理层/n 测量/v ：/w UE/en 和/c 网络/n 侧/f 测量/v 控制/v ，/w UE/en 测量/v 能力/n
+
+
+空口/d L/en 2/m //w L/en 3/m
+38.321/m
+NR/en ;/w Medium/en Access/en Control/en (/w MAC/en )/w protocol/en specification/en
+NR/en MAC/n 层/n 协议/n ，/w 定义/n 了/dg MAC/n 层/n 处理/v 过程/n ，/w 信道/n 和信/nz 道/n 映射/v ，/w MAC/n 层/n 数据/n 单元/n 的/u 格式/n 等/ng
+
+
+38.322/m
+NR/en ;/w Radio/en Link/en Control/en (/w RLC/en )/w specification/en
+NR/en RLC/en 层/n 协议/n ，/w 定义/n 了/dg RLC/en 层/n 处理/v 过程/n ，/w 包括/v TM/en //w UM/en //w AM/n 三/m 种/ng 传输/v 模式/n ，/w ARQ/en 过程/n ，/w RLC/en 层/n 数据/n 单元/n 格式/n 等/ng
+
+
+38.323/m
+NR/en ;/w Packet/en Data/en Convergence/en Protocol/en (/w PDCP/en )/w specification/en
+NR/en PDCP/en 层/n 协议/n ，/w 定义/n 了/dg PDCP/en 层/n 处理/v 过程/n ，/w PDCP/en 层/n 数据/n 单元/n 格式/n 等/ng
+
+
+38.331/m
+NR/en ;/w Radio/en Resource/en Control/en (/w RRC/en )/w ;/w Protocol/en specification/en
+NR/en RRC/en 层/n 协议/n ，/w 定义/n 了/dg RRC/en 层/n 过程/n ，/w 包括/v 系统/a 消息/n ，/w 连接/v 态/ng 控制/v ，/w 测量/v 控制/v 等/ng 一系列/b 的/u 配置/n 过程/n ，/w RRC/en 数据/n 单元/n 格式/n 等/ng
+
+
+NG/n 接口/n
+38.410/m
+NG/en -/w RAN/en ;/w NG/en general/en aspects/en and/en principles/en
+NG/n 接口/n 综述/n ，/w TS38.41X/url 协议/n 架构/n 介绍/v
+
+
+38.411/m
+NG/en -/w RAN/en ;/w NG/en layer/en 1/m
+NG/n 接口/n 相关/v 的/u 物理层/n 技术/n
+
+
+38.412/m
+NG/en -/w RAN/en ;/w NG/en signalling/en transport/en
+NG/n 控制/v 面/a 流程/n
+
+
+38.413/m
+NG/en -/w RAN/en ;/w NG/en Application/en Protocol/en (/w NGAP/en )/w
+RAN/en 和/c AMF/en 的/u 控制/v 面/a 信令/n 消息/n
+
+
+38.414/m
+NG/en -/w RAN/en ;/w NG/en data/en transport/en
+NG/n 接口/n 数据/n 面/a 传输/v 规范/a
+
+
+38.415/m
+NG/en -/w RAN/en ;/w  /0 PDU/en Session/en User/en Plane/en protocol/en
+PDU/en 会话/v 用户/n 面/a 协议/n
+
+
+Xn/en 接口/n
+38.420/m
+NG/en -/w RAN/en ;/w Xn/en general/en aspects/en and/en principles/en
+Xn/en 接口/n 综述/n ，/w TS38.42X/url 协议/n 架构/n 介绍/v
+
+
+38.421/m
+NG/en -/w RAN/en ;/w Xn/en layer/en 1/m
+Xn/en 接口/n 相关/v 的/u 物理层/n 技术/n
+
+
+38.422/m
+NG/en -/w RAN/en ;/w Xn/en signalling/en transport/en
+描述/v 了/dg 如何/r 在/d Xn/en 接口/n 传输/v 信令/n 消息/n
+
+
+38.423/m
+NG/en -/w RAN/en ;/w Xn/en Application/en Protocol/en (/w XnAP/en )/w
+NG/en -/w RAN/en 之间/f 控制/v 面/a 信令/n 消息/n
+
+
+38.424/m
+NG/en -/w RAN/en ;/w Xn/en data/en transport/en
+Xn/en 接口/n 数据/n 面/a 传输/v 规范/a
+
+
+38.425/m
+NG/en -/w RAN/en ;/w Xn/en interface/en user/en plane/en protocol/en
+Xn/en 接口/n 用户/n 面/a 协议/n 栈/ng
+
+
+定位/n
+38.455/m
+NR/en -/w RAN/en ；/w NR/en Positioning/en Protocol/en
+NR/n 定位/n 协议/n
+
+
+E/en 1/m 接口/n
+38.460/m
+NG/en -/w RAN/en ;/w E/en 1/m general/en aspects/en and/en principles/en
+E/en 1/m 接口/n 综述/n ，/w TS38.46X/url 协议/n 架构/n 介绍/v
+
+
+38.461/m
+NG/en -/w RAN/en ;/w E/en 1/m layer/en 1/m
+E/en 1/m 接口/n 相关/v 的/u 物理层/n 技术/n
+
+
+38.462/m
+NG/en -/w RAN/en ;/w E/en 1/m signalling/en transport/en
+描述/v 了/dg 如何/r 在/d E/en 1/m 接口/n 传输/v 信令/n 消息/n
+
+
+38.463/m
+NG/en -/w RAN/en ;/w E/en 1/m Application/en Protocol/en (/w F/en 1/m AP/en )/w
+E/en 1/m 接口/n 的/u 控制/v 面/a 信令/n 消息/n
+
+
+F1/n 接口/n
+38.470/m
+NG/en -/w RAN/en ;/w F/en 1/m general/en aspects/en and/en principles/en
+F1/n 接口/n 综述/n ，/w TS38.47X/url 协议/n 架构/n 介绍/v
+
+
+38.471/m
+NG/en -/w RAN/en ;/w F/en 1/m layer/en 1/m
+F1/n 接口/n 相关/v 的/u 物理层/n 技术/n
+
+
+38.472/m
+NG/en -/w RAN/en ;/w F/en 1/m signalling/en transport/en
+描述/v 了/dg 如何/r 在/d F1/n 接口/n 传输/v 信令/n 消息/n
+
+
+38.473/m
+NG/en -/w RAN/en ;/w F/en 1/m Application/en Protocol/en (/w F/en 1/m AP/en )/w
+F1/n 接口/n 的/u 控制/v 面/a 信令/n 消息/n
+
+
+38.474/m
+NG/en -/w RAN/en ;/w F/en 1/m data/en transport/en
+F1/n 接口/n 数据/n 面/a 传输/v 规范/a
+
+
+38.475/m
+NG/en -/w RAN/en ;/w F/en 1/m interface/en user/en plane/en protocol/en
+F1/n 接口/n 用户/n 面/a 协议/n 栈/ng
+
+
+终端/n
+终端/n
+38.101-1/t ~/w 3/m
+User/en Equipment/en (/w UE/en )/w transmission/en and/en reception/en
+NR/en UE/en 无线/b 发送/v 和/c 接收/v
+
+
+38.124/m
+User/en Equipment/en (/w UE/en )/w EMC/n
+NR/en UE/en 电磁兼容/n 性/k （/w EMC/n ）/w
+
+
+38.304/m
+User/en Equipment/en (/w UE/en )/w procedures/en in/en idle/en mode/en
+NR/en UE/en 空闲/n 态/ng 和/c 非/d 活动/n 态/ng 下/f ，/w 在/d 接入/v 层/n （/w AS/n ）/w 部分/n 的/u 过程/n ，/w 包括/v ：/w PLMN/en 选择/n 、/w 小区/ny 选择/n 和/c 重/a 选/ng 的/u 过程/n ，/w 以及/c 相关/v 门限/n
+
+
+38.305/m
+User/en Equipment/en (/w UE/en )/w positioning/en in/en NG/en -/w RAN/en
+描述/v 了/dg 终端/n 定位/n 相关/v 的/u 协议/n
+
+
+38.306/m
+User/en Equipment/en (/w UE/en )/w radio/en access/en capabilities/en
+UE/en 无线接入/n 能力/n
+
+
+38.307/m
+Requirements/en on/en User/en Equipments/en (/w UEs/en )/w supporting/en a/en release/en -/w independent/en frequency/en band/en
+UE/en 支持/v 释放/v 无关/v 频带/n
+
+
+38.508-1/t ~/w 2/m
+User/en Equipment/en (/w UE/en )/w conformance/en specification/en
+UE/en 一致性/n 规范/a
+
+
+38.509/m
+User/en Equipment/en (/w UE/en )/w conformance/en specification/en testing/en
+UE/en 一致性/n 测试/v
+
+
+38.521-1/t ~/w 3/m
+User/en Equipment/en (/w UE/en )/w conformance/en specification/en radio/en transmission/en and/en reception/en
+UE/en 一致性/n ：/w 无线/b 发送/v 和/c 接收/v
+
+
+38.522/m
+User/en Equipment/en (/w UE/en )/w conformance/en specification/en ；/w Applicability/en of/en RF/en and/en rrm/en TEST/en
+UE/en 一致性/n ：/w RF/en 和/c RRM/en 测试/v
+
+
+38.523-1/t ~/w 3/m
+User/en Equipment/en (/w UE/en )/w conformance/en specification/en
+UE/en 一致性/n ：/w 协议/n 、/w 实现/v 和/c 测试/v
+
+
+NR/en 技术/n 研究/v
+NR/en 技术/n 研究/v
+38.8/m xx/en - 38.9/m xx/en
+
+相关/v 技术/n 的/u 研究/v
+
+
+5/m GC/en 待/p 补充/v ...../m ,/w ,/w ,/w ,/w ,/w

@@ -1,0 +1,2 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+3GPP 5G-NR 随笔（2-2）：RF带宽配置改变的转换时间（BWP Switch Transition Time）,见个人博客： http://ziyubiti.github.io/2018/03/07/5gnrbwt/,ziyubiti,https://blog.csdn.net/ziyubiti/article/details/79539116,2018-03-13,2277次阅读,3GPP 5G-NR 随笔（2-2）：RF带宽配置改变的转换时间（BWP Switch Transition Time） - ziyubiti的专栏,2018年03月13日 13:15:59,见个人博客： https://ziyubiti.github.io/2018/03/07/5gnrbwt/,,,,,

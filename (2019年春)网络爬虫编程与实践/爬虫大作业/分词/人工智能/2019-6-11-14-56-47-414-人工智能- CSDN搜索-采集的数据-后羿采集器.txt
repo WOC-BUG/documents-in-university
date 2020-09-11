@@ -1,0 +1,179 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+编程/v 和数/n 学/k 基础/n 不/d 佳/a 如何/r 入门/v 人工智能/n ?/w -/w GitChat/en 技术/n 杂/a .../m _/0 CSDN/en 博客/n ,/w https://blog.csdn.net/gitchat/article/details/78787838/url ,/w 本文/r 来自/v 作者/n  /0 赵宁/nr  /0 在/d  /0 GitChat/en  /0 上分/t 享/v 「/w 编程/v 和数/n 学/k 基础/n 不/d 佳/a 如何/r 入门/v 人工智能/n ?/w 」/w ,/w 「/w 阅读/v 原文/n 」/w 查看/v 交流/v 实录/n 。/w 「/w 文/n 末/f 高能/b 」/w 编辑/n |/0 哈比一/nr 、/w 人工智能/n 的/u .../m ,/w ,/w //blog.csdn.net/gitchat/article/details/78787838/url ,/w ,/w ,/w ,/w ,/w 编程/v 和数/n 学/k 基础/n 不/d 佳/a 如何/r 入门/v 人工智能/n ？/w -/w GitChat/en 技术/n 杂谈/n ,/w 2017年12月13日 00:00:00/t ,/w 转/q 编程/v 和数/n 学/k 基础/n 不/d 佳/a 如何/r 入门/v 人工智能/n ？/w
+
+
+
+2017年12月13日 00:00:00/t
+GitChat/en 技术/n 杂谈/n
+阅读/v 数/m ：1884/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+本文/r 来自/v 作者/n  /0 赵宁/nr  /0 在/d  /0 GitChat/en  /0 上分/t 享/v 「/w 编程/v 和数/n 学/k 基础/n 不/d 佳/a 如何/r 入门/v 人工智能/n ？/w 」/w ，/w 「/w 阅读/v 原文/n 」/w 查看/v 交流/v 实录/n 。/w 「/w 文/n 末/f 高能/b 」/w 编辑/n |/0 哈比一/nr 、/w 人工智能/n 的/u 发展现状/n 1.1/m 概念/n 根据/n 维基/nz 百科/n 的/u 解释/v ，/w 人工智能/n 是/v 被/ng 机器/np 展示/v 的/u 智力/n ，/w 与/c 人类/n 和/c 其他/r 动物/n 的/u 自然/a 智能/n 相反/v ，/w 在/d 计算机/np 科学/a 中/f AI/en 研究/v 被/ng 定义/n 为/p “/w 代理人/n 软件/n 程序/n ”/w ：/w 任何/r 能够/v 感受/n 周围/f 环境/n 并且/c 能/ng 最大化/v 它/r 成功/a 机会/n 的/u 设备/n 。/w 1.2/m 重大/a 事件/n 2016 年 3 月/t  /0 ，/w AlphaGo/en 与/c 当时/t 世界排名/n 第四/m 、/w 职业/n 九段/n 棋手/n 李世石/nr ，/w 进行/v 围棋人机大战/nz ，/w 以/p 4/m :/w 1/m 总/b 比分/n 获胜/v 。/w 2016 年 10 月/t  /0 ，/w 美国/ns 白宫/ns 发布/v 了/dg 《/w 为/p 未来/t 人工智能/n 做好/v 准备/v 》/w 和/c 《/w 美国/ns 国家/n 人工智能/n 研究/v 与/c 发展/v 策略/n 规划/n 》/w 两/m 份/n 重磅/b 报告/n ，/w 详细/a 阐述/v 了/dg 美国/ns 未来/t 的/u 人工智能/n 发展规划/n 以及/c 人工智能/n 给/v 政府工作/n 带来/v 的/u 挑战/v 与/c 机遇/n 。/w VentureBeat/en 对/a 这/r 两/m 份/n 报告/n 进行/v 了/dg 总结/n ，/w 得出/v 了/dg 7/m 个/q 浅显/a 易懂/a 的/u 要点/n ：/w 1./m 人工智能/n 应当/v 被/ng 用于/v 造福/v 人类/n ；/w 2./m 政府/nc 应该/v 拥抱/v 人工智能/n ；/w 3./m 需要/n 对/a 自动/b 汽车/np 和/c 无人机/np 进行/v 管制/v ；/w 4./m 要/v 让/v 所有/b 孩子/n 都/d 跟上/v 技术/n 的/u 发展/v ；/w 5./m 使用人/n 工智/nz 能/ng 补充/v 而/c 非/d 取代/v 人类/n 工作者/n ；/w 6./m 消除/v 数据/n 中/f 的/u 偏见/n 或/c 不要/df 使用/v 有/v 偏见/n 的/u 数据/n ；/w 7./m 考虑/v 安全/a 和/c 全球/n 影响/v 。/w 2016 年/t 双十/n 一/m  /0 ，/w 鲁班/nr 首次/mq 服务/v 双十/n 一/m ，/w 制作/v 了/dg 1.7 亿/m 章/n 商品展示/n 广告/n ，/w 提升/v 商品/n 点击率/n 100%/m 。/w 如果/c 全/a 靠/ng 设计师/n 人手/n 来/u 完成/v ，/w 假设/n 每张/r 图/n 需要/n 耗时/v 20 分钟/t ，/w 满打满算/lv 需要/n 100/m 个/q 设计师/n 连续/a 做/v 300 年/t 。/w 2017 年/t ，/w 鲁班/nr 的/u 设计/v 水平/n 显/v 着/n 提升/v ，/w 目前/t 已经/d 学习/v 百万/m 级/n 的/u 设计师/n 创意/n 内容/n ，/w 拥有/v 演变/v 出/q 上亿/m 级/n 的/u 设计/v 能力/n 。/w 此外/c ，/w 鲁班/nr 已经/d 实现/v 一/m 天/n 制作/v 4000 万/m 张/ng 海报/n 能力/n ，/w 没有/d 一/m 张/ng 会/n 完全/a 一样/a 。/w 2017 年 5 月/t  /0 ，/w AlphaGo/en Master/en 战胜/v 世界/n 冠军/n 柯洁/nr 。/w 2017 年 10 月 18 日/t  /0 ，/w DeepMind/en 团队/n 公布/v 了/dg 最强/a 版本/n AlphaGo/en ，/w 代号/n AlphaGo/en Zero/en 。/w 2017 年 10 月 25 日/t  /0 ，/w 在/d 沙特/ns 举行/v 的/u 未来/t 投资/n 计划/n 大会/nh 上/f ，/w 沙特阿拉伯/ns 授予/v 美国/ns 汉/ng 森/ag 机器人/n 公司/nc 生产/v 的/u “/w 女性/n ”/w 机器人/n 索菲亚/ns 公民/n 身份/n 。/w 作为/n 世界/n 上首/f 个/q 获得/v 公民/n 身份/n 的/u 机器人/n ，/w 索菲亚/ns 当天/t 说/ag ，/w “/w 她/r ”/w 希望/n 用人/v 工智/nz 能/ng “/w 帮助人/n 类/n 过上/v 更好/d 的/u 生活/n ”/w ，/w 同时/c 对/a 支持/v “/w AI/en 威胁论/n ”/w 的/u 马斯克/nr 说/ag “/w 人/n 不犯/d 我/r ，/w 我/r 不犯/d 人/n ”/w !/w 会后/t ，/w 马斯克/nr 在/d 推特/nt 上/f 说/ag ：/w “/w 把/p 电影/n 《/w 教父/n 》/w 输入/v 了/dg 人工智能/n 系统/a ，/w 还/d 能/ng 有/v 什么/r 比/p 这个/r 更/d 糟/a 的/u ？/w ”/w 教父/n 是/v 好莱坞/n 经典电影/n ，/w 剧情/n 充满/v 了/dg 背叛/v 和/c 谋杀/v 。/w 索菲亚/ns 被/ng 授予/v 公民/n 身份/n 后所/ns 产生/v 的/u 伦理/n 问题/n 也/d 是/v 人们/n 不得不/d 考虑/v 的/u 近几年/t 人工智能/n 领域/n 的/u 大新/ns 闻/ng 太/ag 多/a ，/w 这里/r 不一/v 一/m 列举/v 二/m 、/w 人工智能/n 、/w 深度/n 学习/v 、/w 机器/np 学习/v 、/w 增强/v 学习/v 之间/f 的/u 关系/n 是/v 怎样/r 的/u 如图/nz 所/n 示/vg ，/w 人工智能/n 是/v 一个/mq 大类/n ，/w 包括/v 专家系统/n 、/w 知识/n 表示/v 、/w 机器/np 学习/v 等等/u ，/w 其中/r 机器/np 学习/v 是/v 目前/t 最/d 火/a 也/d 是/v 发展/v 最好/d 的/u 一个/mq 分支/n ，/w 机器/np 学习/v 中/f 又/d 包括/v 监督/v 学习/v 、/w 非/d 监督/v 学习/v 、/w 深度/n 学习/v ，/w 增强/v 学习/v 等等/u 。/w 监督/v 学习/v  /0 ，/w 就是/n 人们/n 常/ag 说/ag 的/u 分类/v ，/w 通过/p 已有/v 的/u 训练/v 样本/n （/w 即/c 已知数/n 据以/d 及其/c 对应/v 的/u 输出/v ）/w 去/v 训练/v 得到/v 一个/mq 最/d 优/a 模型/n （/w 这个/r 模型/n 属于/v 某个/r 函数/n 的/u 集合/n ，/w 最/d 优/a 则/c 表示/v 在/d 某个/r 评价/n 准则/n 下/f 是/v 最佳/z 的/u ）/w 。/w 再/d 利用/v 这个/r 模型/n 将/d 所有/b 的/u 输入/v 映射/v 为/p 相应/v 的/u 输出/v ，/w 对/a 输出/v 进行/v 简单/a 的/u 判断/n 从而/c 实现/v 分类/v 的/u 目的/n ，/w 也/d 就/d 具有/v 了/dg 对/a 未知数/n 据/ng 进行/v 分类/v 的/u 能力/n 。/w 举例来说/ldm ，/w 我们/r 上/f 幼儿园/nc 的/u 时候/n 经常/d 做/v 的/u 一个/mq 活动/n 叫/v  /0 看/u 图/n 识字/v  /0 ，/w 如上/n 图/n 所/n 示/vg ，/w 老师/nx 会/n 给/v 我们/r 看/u 很多/mq 图片/n ，/w 下面/f 配/v 了/dg 文字/n ，/w 时间/n 长/a 了之/l 后/f ，/w 我们/r 大脑/n 中/f 会/n 形成/v 抽象/a 的/u 概念/n ，/w 两个/n 犄角/n ，/w 一/m 条/ng 短/a 尾巴/n ，/w 胖胖的/z （/w 特征/n ）/w …/w  /0 这样/r 的/u 动物/n 是/v 牛；圆/nr 的/u ，/w 黄/a 的/u ，/w 发光/v 的/u ，/w 挂/q 在/d 天上/s 的/u …/w 是/v 太阳/n ；/w 人/n 长/a 这样/r 。/w 等/ng 再/d 看到/v 类似/a 的/u 东西/n 时/n 我们/r 便/ag 能/ng 认出/v 来/u ，/w 即使/c 跟/c 以前/f 看到/v 的/u 不/d 完全/a 一样/a ，/w 但是/c 符合/v 在/d 我们/r 大脑/n 中/f 形成/v 的/u 概念/n ，/w 如下/v 图/n 所/n 示/vg 。/w 非/d 监督/v 学学习/n  /0 则/c 是/v 另/d 一/m 种/ng 研究/v 的/u 比较/d 多/a 的/u 学习方法/n ，/w 它/r 与/c 监督/v 学习/v 的/u 不同/a 之/u 处/nc ，/w 在于/v 我们/r 事先/d 没有/d 任何/r 训练/v 样本/n ，/w 而/c 需要/n 直接/a 对数/n 据/ng 进行/v 建模/v 。/w 举/ag 个例/n 子/k ，/w 如图/nz 所/n 示/vg ，/w 在/d 没有/d 任何/r 提示/v （/w 无/v 训练/v 集/n ）/w 的/u 情况/n 下/f ，/w 需要/n 把/p 下列/b 六/m 个/q 图形/n 分成/v 两/m 类/n ，/w 你/r 会/n 怎么/r 分/b 呢/ng ，/w 当然/b 是/v 第一/m 排/n 一类/b ，/w 第二/m 排/n 一类/b ，/w 因为/c 第一/m 排/n 形状/n 更/d 接近/v ，/w 第二/m 排/n 形状/n 更/d 接近/v 。/w 非/d 监督/v 学习/v 就是/n 在/d 实现/v 不知/v 道/n 数据/n 集/n 分类/v 的/u 情况/n 下/f 在/d 数据/n 中/f 寻找/v 特征/n 。/w 深度/n 学习/v  /0 是/v 基于/p 机器/np 学习/v 延伸/v 出来/v 的/u 一个/mq 新/a 的/u 领域/n ，/w 由/p 以/p 人大/nc 脑/n 结构/n 为/p 启发/v 的/u 神经网络/n 算法/n 为/p 起源/n 加之/c 模型/n 结构/n 深度/n 的/u 增加/v 发展/v ，/w 并/c 伴随/v 大数据/n 和/c 计算/v 能力/n 的/u 提高/v 而/c 产生/v 的/u 一系列/b 新/a 的/u 算法/n 。/w 深度/n 学习/v 概念/n 由/p 着/n 名/n 科学家/n Geoffrey/en Hinton/en 等/ng 人/n 在/d 2006 年/t 和/c 2007 年/t 在/d 《/w Sciences/en 》/w 等上/ns 发表/v 的/u 文章/n 被/ng 提出/v 和/c 兴起/v 。/w 深度/n 学习/v ，/w 作为/n 机器/np 学习/v 中/f 延伸/v 出来/v 的/u 一个/mq 领域/n ，/w 被/ng 应用/v 在/d 图像处理/n 与/c 计算机/np 视觉/n ，/w 自然语言/n 处理/v 以及/c 语音/n 识别/v 等/ng 领域/n 。/w 自/d 2006 年/t 至今/d ，/w 学术界/n 和/c 工业界/n 合作/v 在/d 深度/n 学习/v 方面/n 的/u 研究/v 与/c 应用/v 在/d 以上/f 领域/n 取得/v 了/dg 突破性/n 的/u 进展/v 。/w 以/p ImageNet/en 为数/n 据/ng 库/n 的/u 经典/n 图像/n 中/f 的/u 物体/n 识别/v 竞赛/v 为/p 例/n ，/w 击败/v 了/dg 所有/b 传统/a 算法/n ，/w 取得/v 了/dg 前所未有/iv 的/u 精确度/n 。/w 增强/v 学习/v  /0 也/d 是/v 机器/np 学习/v 一个/mq 重要/a 的/u 分支/n ，/w 是/v 通过/p 观察/v 来/u 学习/v 做成/v 如何/r 的/u 动作/n 。/w 每个/r 动作/n 都/d 会/n 对/a 环境/n 有所/v 影响/v ，/w 学习/v 对象/n 根据/n 观察/v 到/ng 的/u 周围/f 环境/n 的/u 反馈/v 来/u 做出/v 判断/n 。/w 三/m 、/w 数学基础/n 有/v 多重/b 要/v 对于/p 数学基础/n 知识/n ，/w 需要/n 高中/nc 数学/n 知识/n 加上/v 高/a 数/m 、/w 线性代数/n 、/w 统计学/n 、/w 概率论/n ，/w 即使/c 掌握/v 的/u 不是/n 很/d 完善/a ，/w 但是/c 至少/d 要/v 知道/v 概念/n ，/w 在用/b 到/ng 的/u 时候/n 知道/v 去/v 哪/r 查/ng 。/w 如果/c 基础/n 不好/a ，/w 可以/a 先/d 看看/vv 吴军/nr 的/u 《/w 数学/n 之美/nz 》/w ，/w 讲/v 的/u 比较/d 通俗/a 易懂/a 。/w 也/d 可以/a 边做边/nr 学/k ，/w 实践/v 是/v 检验/v 真理/n 的/u 唯一/b 标准/a ，/w 毕竟/d 大多数/n 人/n 还是/c 以/p 工程/n 实践/v 为主/v ，/w 如果/c 你/r 想/v 做/v 研究/v 理论/n 的/u 科学家/n ，/w 并/c 不适/a 合/ng 看/u 本文/r 。/w 四/m 、/w 入门/v 级/n 机器/np 学习/v 算法/n 4.1/m 决策/n 树/n 判定/v 树/n 是/v 一个/mq 类似/a 于/ng 流程图/n 的/u 树结构/n ：/w 其中/r ，/w 每个/r 内部/f 结点/n 表示/v 在/d 一个/mq 属性/n 上/f 的/u 测试/v ，/w 每个/r 分支/n 代表/nx 一个/mq 属性/n 输出/v ，/w 而/c 每个/r 树叶/n 结点/n 代表/nx 类/n 或/c 类/n 分布/v 。/w 树/n 的/u 最/d 顶层/f 是/v 根/n 结点/n 。/w 例/n ：/w 现有/v 一个/mq 数据/n 集/n ，/w 表示/v 一些/mq 的/u 人/n 的/u 年龄/n 、/w 收入/n 、/w 是否是/v 学生/n 、/w 信用/n 、/w 是否/v 会/n 买/v 电脑/np 。/w 年龄/n 有年/d 轻/a ，/w 中年/t ，/w 老年/t 三/m 种/ng ；/w 收入/n 有高/n 中低/b ；/w 信用/n 有/v 一般/a 和/c 很/d 好/a 。/w 数据/n 及/c 保存/v 在/d AllElectronics.csv/url 中/f 。/w 现在/t 在/d 有/v 一个/mq 新/a 的/u 人/n （/w 数据/n ）/w ，/w 要/v 判断/n 这个/r 人/n 是否/v 会/n 买/v 电脑/np 。/w allElectronicsData/en =/0 open/en (/w r'D/en :/w \/0 deeplearning/en \/0 AllElectronics.csv/url '/en ,/w 'rb'/en )/w
+reader/en =/0 csv.reader/url (/w allElectronicsData/en )/w  /0
+headers/en =/0 reader.next/url (/w )/w
+
+print/en (/w headers/en )/w
+featureList/en =/0 [/w ]/w
+labelList/en =/0 [/w ]/w #/w 最后/f 一/m 列/n
+
+for/en row/en in/en reader/en :/w
+/0  /0 #/w print/en (/w row/en )/w
+/0  /0 labelList.append/url (/w row/en [/w len/en (/w row/en )/w -/w 1/m ]/w )/w  /0 #/w 在/d 元/q 祖/ng 末尾/n 添加/v 元素/n
+/0  /0 rowDict/en =/0 {/0 }/0
+/0  /0 for/en i/en in/en range/en (/w 1/m ,/w len/en (/w row/en )/w -/w 1/m )/w :/w
+/0  /0  /0  /0 rowDict/en [/w headers/en [/w i/en ]/w ]/w =/0 row/en [/w i/en ]/w
+/0  /0 featureList.append/url (/w rowDict/en )/w
+print/en (/w featureList/en )/w
+print/en (/w labelList/en )/w
+
+vec/en =/0 DictVectorizer/en (/w )/w
+dummyX/en =/0 vec.fit_transform/url (/w featureList/en )/w ./m toarray/en (/w )/w  /0
+print/en (/w "/0 dummyX/en :/w "/0 +/0 str/en (/w dummyX/en )/w )/w
+print/en (/w vec.get_feature_names/url (/w )/w )/w
+
+lb/en =/0 preprocessing.LabelBinarizer/url (/w )/w
+dummyY/en =/0 lb.fit_transform/url (/w labelList/en )/w
+print/en (/w "/0 dummyY/en :/w "/0 +/0 str/en (/w dummyY/en )/w )/w  /0
+
+
+clf/en =/0 tree.DecisionTreeClassifier/url (/w criterion/en =/0 'entropy'/en )/w
+clf/en =/0 clf.fit/url (/w dummyX/en ,/w dummyY/en )/w
+print/en (/w "/0 clf/en :/w "/0 +/0 str/en (/w clf/en )/w )/w
+
+with/en open/en (/w "/0 allElectronicInformationGainDri.dot/url "/0 ,/w 'w'/en )/w as/en f/en :/w
+/0  /0 f/en =/0 tree.export_graphviz/url (/w clf/en ,/w feature_names=vec.get_feature_names/url (/w )/w ,/w out/en _/0 file/en =/0 f/en )/w  /0 #/w 在/d 当前/t 工作/n 目录/n 生成/v  /0 ./m dot/en 文件/n
+
+oneRowX/en =/0 dummyX/en [/w 0/m ,/w :/w ]/w
+print/en (/w "/0 oneRowx/en :/w "/0 +/0 str/en (/w oneRowX/en )/w )/w
+
+newRowX/en =/0 oneRowX/en
+
+newRowX/en [/w 0/m ]/w =/0 1/m
+newRowX/en [/w 2/m ]/w =/0 0/m
+print/en (/w "/0 newRowX/en :/w "/0 +/0 str/en (/w newRowX/en )/w )/w
+
+
+predictedY/en =/0 clf.predict/url (/w newRowX/en )/w
+print/en (/w "/0 predictedY/en :/w "/0 +/0 str/en (/w predictedY/en )/w )/w  /0 4.2/m 最/d 临近/v 取样/v 最/d 临近/v 取样/v 就是/n 把/p 已有/v 数据/n 分成/v 几/m 类/n ，/w 对/a 新/a 输入/v 的/u 数据/n 计算/v 与/c 已知数/n 据/ng 的/u 距离/n ，/w 距离/n 哪/r 一个/mq 近/a ，/w 就/d 把/p 新/a 数据/n 分/b 到/ng 哪/r 一类/b ，/w 例如/v 下图/n 所/n 示/vg 的/u 电影/n 分类/v ，/w 对于/p 最后/f 一行/n 未知/v 电影/n 类型/n 的/u 电影/n ，/w 根据/n 打斗/v 次数/n 和/c 接吻/v 次数/n ，/w 距离/n 浪漫/a 型/k 更/d 近/a ，/w 应该/v 被/ng 归类/v 为/p 浪漫/a 型/k 电影/n 。/w 例/n ：irisdata.txt/url 实在/a 网上/s 下载/v 的/u 鸢尾/n 属/ng 植物/n 数据/n 集/n ，/w 根据/n 数据/n 集合/n ，/w 对/a 新/a 的/u 数据/n 进行/v 分类/v  /0  /0 #/w coding/en :/w utf/en -/w 8/m
+
+/0  /0 #/w 不/d 调用/v 库/n ，/w 自己/r 实现/v knn/en 算法/n
+/0  /0 import/en csv/en  /0 #/w 读取/v CSV/en 文件/n 用/ng 的/u 模块/n ，/w 读取/v 数据/n 用/ng 的/u
+/0  /0 import/en random/en #/w 随机数/n 计算/v
+/0  /0 import/en math/en  /0 #/w 数学/n 计算/v
+/0  /0 import/en operator/en
+/0  /0 from/en bokeh.util.session_id/url import/en random/en
+/0  /0 from/en boto.beanstalk/url import/en response/en
+/0  /0 from/en dask.array.learn/url import/en predict/en
+
+
+
+/0  /0 #/w 装载/v 数据/n 集/n  /0 filename/en :/w 数据/n 集文/n 件/ng 名/n split/en ：/w 以/p 数据/n 集中/a 某个/r 位置/n 为/p 结点/n ，/w 把/p 数据/n 集/n 分为/v trainingSet/en 和/c testSet/en
+/0  /0 def/en loadDataSet/en (/w filename/en ,/w split/en ,/w trainingSet/en =/0 [/w ]/w ,/w testSet/en =/0 [/w ]/w )/w :/w
+/0  /0  /0  /0 with/en open/en (/w filename/en ,/w 'rb'/en )/w as/en csvfile/en :/w
+/0  /0  /0  /0  /0  /0 lines/en =/0 csv.reader/url (/w csvfile/en )/w  /0 #/w 把/p 所有/b 行/a 存入/v lines/en
+/0  /0  /0  /0  /0  /0 dataset/en =/0 list/en (/w lines/en )/w #/w 把/p 数据/n 转换/v 为/p list/en 格式/n
+/0  /0  /0  /0  /0  /0 for/en x/en in/en range/en (/w len/en (/w dataset/en )/w -/w 1/m )/w :/w
+/0  /0  /0  /0  /0  /0  /0  /0 for/en y/en in/en range/en (/w 4/m )/w :/w
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0 dataset/en [/w x/en ]/w [/w y/en ]/w =/0 float/en (/w dataset/en [/w x/en ]/w [/w y/en ]/w )/w
+/0  /0  /0  /0  /0  /0  /0  /0 if/en random.random/url (/w )/w </w split/en :/w  /0 #/w 如果/c 随机/b 值/a 小于/v split/en
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0 trainingSet.append/url (/w dataset/en [/w x/en ]/w )/w  /0 #/w 则/c 加/ng 到/ng trainingSet/en
+/0  /0  /0  /0  /0  /0  /0  /0 else/en :/w
+/0  /0  /0  /0  /0  /0  /0  /0  /0  /0 testSet.append/url (/w dataset/en [/w x/en ]/w )/w
+
+
+/0  /0 #/w 欧几里德/nr 距离/n ：/w 坐标/n 差/a 的/u 平方/q 的/u 和/c 再/d 开/ng 根号/n  /0  /0 还有/v 曼哈顿/ns 距离/n
+/0  /0 def/en euclideanDistance/en (/w instance/en 1/m ,/w instance/en 2/m ,/w length/en )/w :/w  /0
+/0  /0  /0  /0 distance/en =/0 0/m
+/0  /0  /0  /0 for/en x/en in/en range/en (/w length/en )/w :/w
+/0  /0  /0  /0  /0  /0 distance/en +/0 =/0 pow/en (/w (/w instance/en 1/m [/w x/en ]/w -/w instance/en 2/m [/w x/en ]/w )/w ,/w 2/m )/w
+/0  /0  /0  /0 return/en math.sqrt/url (/w distance/en )/w
+
+/0  /0 #/w 返回/v 距离/n testInstance/en 最近/t trainingSet/en 的/u K/en 个/q 邻居/n
+/0  /0 def/en getNeighbours/en (/w trainingSet/en ,/w testInstance/en ,/w k/en )/w :/w
+/0  /0  /0  /0 distances/en =/0 [/w ]/w
+/0  /0  /0  /0 length/en =/0 len/en (/w testInstance/en )/w -/w 1/m
+/0  /0  /0  /0 for/en x/en in/en range/en (/w len/en (/w trainingSet/en )/w )/w :/w
+/0  /0  /0  /0  /0  /0 dist/en =/0 euclideanDistance/en (/w testInstance/en ,/w trainingSet/en [/w x/en ]/w ,/w length/en )/w  /0 #/w 每/r 一个/mq 训练/v 集数/n 据/ng 和实/nz 例数/n 据/ng 之间/f 的/u 距离/n
+/0  /0  /0  /0  /0  /0 distances.append/url (/w (/w trainingSet/en [/w x/en ]/w ,/w dist/en )/w )/w
+/0  /0  /0  /0 distances.sort/url (/w key=operator.itemgetter/url (/w 1/m )/w )/w #/w sort/en 排序/v 为/p 从小到大/lv
+/0  /0 #/w 取/v 前/f k/en 个/q 最近/t 的/u neighbors/en  /0  /0
+/0  /0  /0  /0 neighbors/en =/0 [/w ]/w
+/0  /0  /0  /0 for/en x/en in/en range/en (/w k/en )/w :/w  /0
+/0  /0  /0  /0  /0  /0 neighbors.append/url (/w distances/en [/w x/en ]/w [/w 0/m ]/w )/w  /0
+/0  /0  /0  /0 return/en neighbors/en
+
+
+/0  /0 #/w 根据/n 少数服从多数/l 的/u 原则/n 判断/n 要/v 预测/v 实例/n 属于/v 哪/r 一类/b 。/w 计算/v testInstance/en 到/ng trainingSet/en 距离/n 最近/t 的/u 个数/n ，/w 返回/v 最/d 多/a 的/u 那/c 一类/b
+/0  /0 def/en getResponse/en (/w neighbors/en )/w :/w
+/0  /0  /0  /0 classVotes/en =/0 {/0 }/0
+/0  /0  /0  /0 for/en x/en in/en range/en (/w len/en (/w neighbors/en )/w )/w :/w
+/0  /0  /0  /0  /0  /0 response/en =/0 neighbors/en [/w x/en ]/w [/w -/w 1/m ]/w
+/0  /0  /0  /0  /0  /0 if/en response/en in/en classVotes/en :/w
+/0  /0  /0  /0  /0  /0  /0  /0 classVotes/en [/w response/en ]/w +/0 =/0 1/m
+/0  /0  /0  /0  /0  /0 else/en :/w
+/0  /0  /0  /0  /0  /0  /0  /0 classVotes/en [/w response/en ]/w =/0 1/m
+/0  /0  /0  /0 sortedVotes/en =/0 sorted/en (/w classVotes.iteritems/url (/w )/w ,/w key=operator.itemgetter/url (/w 1/m )/w ,/w reverse/en =/0 True/en )/w
+/0  /0  /0  /0 return/en sortedVotes/en [/w 0/m ]/w [/w 0/m ]/w
+
+/0  /0 #/w 获取/v 预测/v 的/u 准确率/n testSet/en :/w 测试/v 数据/n 集/n  /0 predictions/en ：/w 用/ng 代码/n 预测/v 的/u 类别/n 集合/n
+/0  /0 def/en getAccuracy/en (/w testSet/en ,/w predictions/en )/w :/w
+/0  /0  /0  /0 correct/en =/0 0/m
+/0  /0  /0  /0 for/en x/en in/en range/en (/w len/en (/w testSet/en )/w )/w :/w
+/0  /0  /0  /0  /0  /0 if/en testSet/en [/w x/en ]/w [/w -/w 1/m ]/w =/0 =/0 predictions/en [/w x/en ]/w :/w  /0 #/w -/w 1/m 表示/v 数组/n 的/u 最后/f 一个/mq 值/a 。/w
+/0  /0  /0  /0  /0  /0  /0  /0 correct/en +/0 =/0 1/m
+/0  /0  /0  /0 return/en (/w correct/en //w float/en (/w len/en (/w testSet/en )/w )/w )/w */w 100.0/m
+
+/0  /0 def/en main/en (/w )/w :/w
+/0  /0  /0  /0 trainingSet/en =/0 [/w ]/w
+/0  /0  /0  /0 testSet/en =/0 [/w ]/w
+/0  /0  /0  /0 split/en =/0 0.67/m  /0 #/w 三分/t 之二/r 为/p 训练/v 集/n ，/w 三分/t 之一/r 为数/n 据/ng 集/n
+/0  /0  /0  /0 loadDataSet/en (/w r'C/en :/w \/0 Users/en \/0 ning/en \/0 workspace/en \/0 KNNdata/en \/0 irisdata.txt/url '/en ,/w split/en ,/w trainingSet/en ,/w testSet/en )/w
+/0  /0  /0  /0 print/en 'Train/en Set/n ：/w '/en +/0 repr/en (/w len/en (/w trainingSet/en )/w )/w #/w repr/en 转化为/v 字符串/n
+/0  /0  /0  /0 print/en 'Test/en Set/n ：/w '/en +/0 repr/en (/w len/en (/w testSet/en )/w )/w
+
+/0  /0  /0  /0 predictions/en =/0 [/w ]/w
+/0  /0  /0  /0 k/en =/0 3/m
+/0  /0  /0  /0 for/en x/en in/en range/en (/w len/en (/w testSet/en )/w )/w :/w
+/0  /0  /0  /0  /0  /0 neighbors/en =/0 getNeighbours/en (/w trainingSet/en ,/w testSet/en [/w x/en ]/w ,/w k/en )/w
+/0  /0  /0  /0  /0  /0 result/en =/0 getResponse/en (/w neighbors/en )/w
+/0  /0  /0  /0  /0  /0 predictions.append/url (/w result/en )/w
+/0  /0  /0  /0  /0  /0 print/en (/w "/0 >/w predicted/en =/0 "/0 +/0 repr/en (/w result/en )/w +/0 '/en ,/w actual/en =/0 '/en +/0 repr/en (/w testSet/en [/w x/en ]/w [/w -/w 1/m ]/w )/w )/w
+/0  /0  /0  /0 accuarcy/en =/0 getAccuracy/en (/w testSet/en ,/w predictions/en )/w
+/0  /0  /0  /0 print/en (/w 'Accuracy/en :/w '/en +/0 repr/en (/w accuarcy/en )/w +/0 '/en %/m '/en )/w
+/0  /0 main/en (/w )/w 4.3/m 支持/v 向量/n 机/np 支持/v 向量/n 机/np （/w SVM/en ）/w 是从/v 线性/n 可/v 分/b 情况/n 下/f 的/u 最/d 优/a 分类/v 面/a 发展/v 而/c 来/u 。/w 最/d 优/a 分类/v 面/a 就是/n 要求/n 分类/v 线/n 不但/c 能/ng 将/d 两/m 类/n 正确/a 分开/v (/w 训练/v 错误率/n 为/p 0/m )/w ,/w 且/c 使/ng 分类/v 间隔/n 最大/a 。/w SVM/en 考虑/v 寻找/v 一个/mq 满足/a 分类/v 要求/n 的/u 超/h 平面/n ,/w 并且/c 使/ng 训练/v 集中/a 的/u 点/m 距离/n 分类/v 面/a 尽可能/d 的/u 远/a ,/w 也就是/n 寻找/v 一个/mq 分类/v 面/a 使/ng 它/r 两侧/f 的/u 空白/n 区域/n (/w margin/en )/w 最大/a 。/w 这/r 两/m 类/n 样本/n 中/f 离/ng 分类/v 面/a 最近/t 的/u 点/m 且/c 平行/v 于最优/nr 分类/v 面的/n 超/h 平面/n 上/f H/en 1/m ,/w H/en 2/m 的/u 训练/v 样本/n 就/d 叫做/v 支持/v 向量/n 。/w 例/n ：/w 使用/v sklearn/en 库/n 实现/v svm/en 算法/n ，/w 俗称/n 调/n 库/n ，/w 实际上/d 调/n 库/n 是/v 一个/mq 很/d 简单/a 的/u 过程/n ，/w 初级阶段/n 甚至/c 都/d 不/d 需要/n 知道/v 原理/n 。/w  /0  /0 #/w coding/en :/w utf/en -/w 8/m
+/0  /0 from/en sklearn/en import/en svm/en
+/0  /0 X/en =/0 [/w [/w 2/m ,/w 0/m ]/w ,/w [/w 1/m ,/w 1/m ]/w ,/w [/w 2/m ,/w 3/m ]/w ]/w
+/0  /0 y/en =/0 [/w 0/m ,/w 0/m ,/w 1/m ]/w
+/0  /0 clf/en =/0 svm.SVC/url (/w kernel/en =/0 'linear'/en )/w
+/0  /0 clf.fit/url (/w X/en ,/w y/en )/w  /0 #/w ͨ/0 通过/p ./m fit/en 函数/n 已经/d 可以/a 算/d 出/q 支持/v 向量/n 机/np 的/u 所有/b 参数/n 并/c 保存/v 在/d clf/en 中/f
+
+/0  /0 print/en clf/en
+
+/0  /0 #/w get/en support/en vectors/en
+/0  /0 print/en clf.support_vectors_/url
+
+/0  /0 #/w get/en index/en of/en support/en vectors/en
+/0  /0 print/en clf.support_/url
+
+/0  /0 #/w get/en number/en of/en support/en vectors/en for/en each/en class/en
+/0  /0 print/en clf.n_support_/url
+
+/0  /0 #/w predict/en data/en ,/w 参数/n 是/v 二维/b 数组/n
+/0  /0 print/en clf.predict/url (/w [/w [/w 2/m ,/w 0/m ]/w ,/w [/w 10/m ,/w 10/m ]/w ]/w )/w 五/m 、/w 书单/n 推荐/v 《/w 数学/n 之美/nz 》/w 吴军/nr 《/w 机器/np 学习/v 》/w  /0 周志华/nr 《/w 漫谈/v 人工智能/n 》/w 集/n 智/ag 俱乐部/nc 《/w 机器/np 学习/v 实战/n 》/w  /0 Peter/en Harrington/en 《/w TensorFlow/en 技术/n 解析/v 与/c 实战/n 》/w  /0 李嘉璇/nr 《/w 统计学/n 习/ng 方法/n 》/w  /0 李航/nr 六/m 、/w 学习/v 人工智能/n 的/u 误区/n —/w 人工智能/n 又是/n 一个/mq 泡沫/n ？/w 人工智能/n 很大/a 程度/n 上/f 被/ng 一些/mq 科技/n 巨头/n 公司/nc 夸大/v 了/dg ，/w 为了/p 拿到/v 资本/n 的/u 钱/n ，/w 这/r 也/d 在/d 情理之中/ln ，/w 但是/c 普通/a 大众/n 一定/b 要/v 有/v 自己/r 的/u 鉴别/v 能力/n ，/w 客观/a 地/n 分析/v 自己/r 到底/d 是否/v 适合/v 做/v 这/r 一行/n 。/w 纵观/v 互联网/n 发展史/n ，/w 人工智能/n 这种/r 发展/v 态势/n 并/c 不是/n 首例/n ，/w 像/n 2014 年/t 爆红/v 的/u O/en 2/m O/en 模式/n ，/w 那时/r 候不懂/nr 点/m O/en 2/m O/en 都/d 不敢/d 说/ag 自己/r 是/v 互联网/n 圈/n 的/u 人/n 。/w 到/ng 现在/t ，/w 一/m 批/q 又/d 一/m 批/q 的/u 创业/v 大军/n 倒下/v 去/v ，/w 当然/b 也/d 会/n 留下/v 像/n 亚马逊/nr 、/w 阿里巴巴/nz 这样/r 的/u 巨头/n ，/w  /0 每个/r 行业/n 都/d 有/v 它/r 的/u 金字塔/n  /0 。/w 我/r 上/f 大二/n 的/u 时候/n 可以/a 说/ag 3/m D/en 打印/v 、/w VR/en 技术处/nc 在/d 风口浪尖/in ，/w 各种/r 3/m D/en 打印/v 创业/v 公司/nc 、/w VR/en 创业/v 公司/nc 层出不穷/iv ，/w 大四/n 就/d 已经/d 开始/v 倒/v 了/dg 一家/n 又/d 一家/n ，/w 包括/v 我/r 也/d 做/v 过/d 3/m D/en 打印/v 方面/n 的/u 项目/n ，/w 实际上/d 做/v 的/u 东西/n 也/d 不过/c 时/n 改进/v 一些/mq 边边角角/n 的/u 东西/n ，/w 最/d 核心/n 的/u 框架/n 早已/d 被/ng 大牛/nz 们/k 设计/v 好/a 了/dg 。/w  /0 盲目/a 追随/v 科技/n 的/u 潮流/n ，/w 我们/r 永远/b 只能/v 在/d 潮流/n 的/u 后面/f 。/w  /0 最近/t 看/u CCTV/en 上/f 都/d 已经/d 有/v 撒贝宁/nr 主持/v 的/u 人工智能/n 综艺节目/n 了/dg ，/w 这/r 说明/n 人工智能/n 早已/d 成了一/nr 片/n 红海/ns ，/w 与/c 现在/t 的/u 移动互联网/ln 技术/n 并/c 没有/d 本质/n 上/f 的/u 区别/n 。/w 自从/p 谷歌/nt 开源/v tensorflow/en 框架/n （/w 还有/v 很多/mq 其他/r 优秀/a 的/u 框架/n ）/w ，/w 写/v 机器/np 学习/v 的/u 代码/n 很多/mq 都/d 是/v 调调/n 参数/n ，/w 有的/r 甚至/c 都/d 不用/d 知道/v 原理/n ，/w 当然/b 大牛/nz 肯定/a 是/v 有/v ，/w  /0 还是/c 那/c 句/q 话/n ，/w 每个/r 行业/n 都/d 有的/r 它/r 的/u 金字塔/n  /0 ，/w 只不过/d 到达/v 塔尖/n 的/u 路径/n 不同/a 。/w 在/d 我/r 看来/v ，/w 调用/v tensorflow/en 的/u 框架/n 进行/v 人工智能/n 的/u 开发/v 与/c 调用/v android/en 的/u API/en 开发/v app/en 并/c 没有/d 本质/n 的/u 区别/n ，/w 真正/b 伟大/a 的/u 是/v 谷歌/nt 公司/nc ，/w 后来者/n 只不过/d 是/v 追随者/n 。/w 题外话/n ，/w 不知/v 道/n 大家/r 是否/v 听/n 过/d  /0 21/m 世纪/n 是/v 生物/n 的/u 世纪/n  /0 ，/w 这/r 一概/d 念/ng 兴起/v 之/u 时/n ，/w 众多/a 高考/n 生/a 选择/n 生物/n 相关/v 的/u 专业/a 。/w 之前/f 有/v 个/q 对/a 国内/s 某/r 着/n 名/n 高校/n 生物/n 专业/a 毕业生/n 的/u 就业/v 去向/n 调查/n ，/w 其中/r 一个/mq 结论/n 是/v 生物/n 专业/a 学生/n 最好/d 的/u 出路/n 就是/n 离开/v 这个/r 专业/a 。/w 当然/b 我们/r 不得不/d 说/ag 生物技术/n 跟/c 我们/r 每个/r 人/n 的/u 生活/n 息息相关/iv ，/w 但是/c 其/r 发展/v 周期/n 之/u 长/a ，/w 又/d 怎/r 是/v 一个/mq 人/n 等/ng 得/e 起/q 的/u ？/w 如何/r 把/p 个人/n 认同/v 与/c 社会/n 认同/v ，/w 自我价值/n 与/c 社会/n 价值/n 协调/v 统一/a ，/w 也/d 是/v 我们/r 需要/n 思考/v 的/u 问题/n 。/w 人工智能/n 是否是/v 个/q 泡沫/n ？/w 这个/r 概念/n 还/d 能/ng 火/a 多久/r ？/w 第六/m 部分/n 内容/n 纯属/v 个人/n 观点/n ，/w 仅供参考/lv 。/w 老/a 罗/n 给/v 您/r 吟诗/v 一首/nz ：http://106.75.37.23/mgmt/activity/book/5a1e67e6387c5b4ee3514dab/url 近期/t 热/a 文/n 《/w 这样/r 做/v ，/w 你/r 的/u 面试/v 成功率/n 将/d 达到/v 90%/m 》/w 《/w 如何/r 用/ng TensorFlow/en 让/v 一切/r 看起来/v 更/d 美/a ？/w 》/w 《/w Web/en 安全/a ：/w 前端/f 攻击/v XSS/en 深入/a 解析/v 》/w 《/w 300万/m 粉丝/n ，/w 全国/n 最大/a 的/u 线上/n 抽奖/v 平台/n ，/w 深度/n 解析/v 》/w 《/w 高/a 可用/a 、/w 高性能/n ？/w 接口/n 设计/v 的/u 16/m 个/q 原则/n 》/w 免费/v 福利/n 「/w 阅读/v 原文/n 」/w 看/u 交流/v 实录/n ，/w 你/r 想/v 知道/v 的/u 都/d 在/d 这里/r

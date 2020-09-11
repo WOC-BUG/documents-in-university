@@ -1,0 +1,25 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/Makefilehoon/article/details/80636819,人工智能学习阶段：第一阶段：机器学习。第二阶段：深度学习，做一个自动打字的系统。第三阶段：做一个推荐系统。,https://blog.csdn.net/Makefilehoon/article/details/80636819,,Makefilehoon,2018-06-09,//blog.csdn.net/Makefilehoon/article/details/80636819,340次阅读,人工智能 - Makefilehoon的博客,2018年06月09日 22:11:10,原        人工智能
+      
+      
+        
+                                                  2018年06月09日 22:11:10
+          Makefilehoon
+          阅读数：341更多
+          
+                                      
+                个人分类：
+                                  人工智能                                  
+              
+                                          
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            人工智能学习阶段：第一阶段：机器学习。第二阶段：深度学习，做一个自动打字的系统。第三阶段：做一个推荐系统。

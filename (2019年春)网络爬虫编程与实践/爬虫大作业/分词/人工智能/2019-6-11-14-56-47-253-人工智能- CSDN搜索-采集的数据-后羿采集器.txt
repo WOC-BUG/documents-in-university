@@ -1,0 +1,25 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/EricGogh/article/details/7294056/url ,/w 机器/np 学习/v ：/w 软件系统/n 能/ng 从/p 已有/v 的/u 经验/n 中/f 抽象/a 出/q 普遍/a 的/u 规律/n ，/w 然后/c 利用/v 这些/r 规则/a 回答/v 各种/r 问题/n ，/w 包括/v 曾经/d 遇到/v 过/d 的/u 和/c 不曾/d 见/v 过/d 的/u 。/w ,/w https://blog.csdn.net/EricGogh/article/details/7294056/url ,/w ,/w EricGogh/en ,/w 2012-02-25/t ,/w //blog.csdn.net/EricGogh/article/details/7294056/url ,/w 496/m 次/a 阅读/v ,/w 人工智能/n -/w EricGogh/en 的/u 专栏/n ,/w 2012年02月25日 18:50:10/t ,/w 原/b 人工智能/n
+
+
+
+2012年02月25日 18:50:10/t
+EricGogh/en
+阅读/v 数/m ：497/m
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 本文/r 为/p 博主/n 原创文章/n ，/w 未经/d 博主/n 允许/v 不得/v 转载/v 。/w https://blog.csdn.net/EricGogh/article/details/7294056/url
+
+
+
+
+机器/np 学习/v ：/w 软件系统/n 能/ng 从/p 已有/v 的/u 经验/n 中/f 抽象/a 出/q 普遍/a 的/u 规律/n ，/w 然后/c 利用/v 这些/r 规则/a 回答/v 各种/r 问题/n ，/w 包括/v 曾经/d 遇到/v 过/d 的/u 和/c 不曾/d 见/v 过/d 的/u 。/w

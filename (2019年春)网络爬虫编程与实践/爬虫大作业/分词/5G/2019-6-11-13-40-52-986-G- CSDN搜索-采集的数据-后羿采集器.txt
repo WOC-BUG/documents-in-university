@@ -1,0 +1,93 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 系统/a ——/w 5/m G/m 鉴/ng 权/n （/w 5/m G/en AKA/en ）/w ,/w 缩略语/n nn/en 5/m GC/en  /0  /0  /0 5/m G/en Core/en Networkn/en 5/m G/en -/w AN/en  /0  /0  /0 5/m G/en Access/en Networkn/en 5/m G/en -/w RAN/en  /0  /0  /0 5/m G/en Radio/en Access/en Network/en  /0 n/en 5/m G/en AV/en  /0  /0  /0 5/m G/en Authentication/en Vectorn/en 5/m G/en HE/en AV/en  /0  /0  /0 5/m G/en Home/en Environment/en Authentication/en VectornAES/en ,/w u/en 010178611/m ,/w https://blog.csdn.net/u010178611/article/details/82013156/url ,/w 2018-08-24/t ,/w 4972/m 次/a 阅读/v ,/w 5/m G/m 系统/a ——/w 5/m G/m 鉴/ng 权/n （/w 5/m G/en AKA/en ）/w -/w Cloudy/en _/0 cn/n 的/u 专栏/n ,/w 2018年08月24日 11:01:18/t ,/w 缩略语/n
+
+5/m GC/en  /0  /0  /0 5/m G/en Core/en Network/en
+5/m G/en -/w AN/en  /0  /0  /0 5/m G/en Access/en Network/en
+5/m G/en -/w RAN/en  /0  /0  /0 5/m G/en Radio/en Access/en Network/en  /0
+5/m G/en AV/en  /0  /0  /0 5/m G/en Authentication/en Vector/en
+5/m G/en HE/en AV/en  /0  /0  /0 5/m G/en Home/en Environment/en Authentication/en Vector/en
+AES/en  /0  /0  /0 Advanced/en Encryption/en Standard/en
+AKA/en  /0  /0  /0 Authentication/en and/en Key/en Agreement/en
+AMF/en  /0  /0  /0 Access/en and/en Mobility/en Management/en Function/en
+AMF/en  /0  /0  /0 Authentication/en Management/en Field/en
+
+ARPF/en  /0  /0  /0 Authentication/en credential/en Repository/en and/en Processing/en Function/en
+AUSF/en  /0  /0  /0 Authentication/en Server/en Function/en
+AUTN/en  /0  /0  /0 AUthentication/en TokeN/en
+AV/en  /0  /0  /0 Authentication/en Vector/en  /0
+AV'/en  /0  /0  /0 transformed/en Authentication/en Vector/en
+
+HRES/en  /0  /0  /0 Hash/en RESponse/en
+HXRES/en  /0  /0  /0 Hash/en eXpected/en RESponse/en
+IKE/en  /0  /0  /0 Internet/en Key/en Exchange/en
+KSI/en  /0  /0  /0 Key/en Set/en Identifier/en
+
+ng/en -/w eNB/en  /0  /0  /0 Next/en Generation/en Evolved/en Node/en -/w B/n
+ngKSI/en  /0  /0  /0 Key/en Set/en Identifier/en in/en 5/m G/m
+RES/en  /0  /0  /0 RESponse/en
+SUCI/en  /0  /0  /0 Subscription/en Concealed/en Identifier/en  /0
+SUPI/en  /0  /0  /0 Subscription/en Permanent/en Identifier/en  /0
+XRES/en  /0  /0  /0 eXpected/en RESponse/en
+
+5/m G/en AKA/en 流程/n
+
+5/m G/en AKA/en 通过/p 为/p 归属/v 网络/n 提供/v 从/p 访问/v 网络/n 成功/a 认证/v UE/en 的/u 证据/n 来/u 增强/v EPS/en AKA/en ；/w 从/p 具体/a 的/u 流程/n 对比/v 来看/u ，/w EPS/n 的/u AKA/en 流程/n 是/v 归属/v 网络/n 鉴/ng 权/n 中心/nc 给/v 访问/v 网络/n 的/u MME/en 提供/v 一/m 组/n 鉴/ng 权/n 向量/n 和/c XRES/en ，/w 由/p 访问/v 网络/n 拿/p 着/n 这些/r 参数/n 对/a UE/en 进行/v 鉴/ng 权/n ，/w 归属/v 网络/n 并/c 不/d 关心/v UE/en 的/u 鉴/ng 权/n 结果/c ，/w 5/m G/en AKA/en 流程/n 归属/v 网络/n 鉴/ng 权/n 中心/nc 也/d 是/v 给/v 访问/v 网络/n 的/u 安全/a 锚/n 点/m （/w SEAF/en ，/w 和/c AMF/en 在/d 一起/d ）/w 一/m 组/n 5/m G/m 鉴/ng 权/n 向量/n 和/c 对应/v 的/u HXRES/en */w ，/w 访问/v 网络/n 用/ng 这些/r 参数/n 对/a UE/en 鉴/ng 权/n 后/f ，/w 还/d 需要/n 将/d UE/en 的/u 鉴/ng 权响/nr 应发/nz 给/v 归属/v 网络/n 鉴/ng 权/n 中心/nc 做/v 进一步/d 的/u 鉴/ng 权/n ，/w 归属/v 网络/n 再/d 将/d 鉴/ng 权/n 结果/c 发给/v 访问/v 网络/n ，/w 可见/c 5/m G/m 下/f 归属/v 网络/n 会/n 参与/v 鉴/ng 权/n 做出/v 最后/f 的/u 鉴/ng 权/n 结果/c 。/w
+
+
+
+（/w 1/m ）/w 对于/p 每个/r Nudm/en _/0 Authenticate/en _/0 Get/en 请求/n ，/w  /0 UDM/en //w ARPF/en 都/d 会创/n 建/ng 5/m G/en HE/en AV/n 。/w 按照/p TS33.102/url 附录/n H/n ，/w UDM/en //w ARPF/en 创建/v 5/m G/en HE/en AV/n 时/n ，/w 鉴/ng 权/n 管理/v 域/ng (/w AMF/en )/w 参数/n 的/u “/w separation/en bit/q ”/w 必须/d 设置/v 为/p 0/m （/w AMF/en 为/p 16/m bit/q 长/a ，/w 最高/a bit/q 就是/n separation/en bit/q ）/w ；/w 然后/c UDM/en //w ARPF/en 按照/p TS33.501/url  /0 Annex/en A/en .2/m 推导/v 出/q 、/w 按照/p TS33.501/url  /0 Annex/en A/en .4/m 推导/v 出/q XRES/en */w ，/w 最后/f 创建/v 5/m G/en HE/en AV/n （/w RAND/en 、/w AUTN/en 、/w XRES/en */w 、/w ）/w 。/w
+
+（/w 2/m ）/w UDM/en //w ARPF/en 在/d Nudm/en _/0 Authenticate/en _/0 Get/en 响应/v 中将/n 5/m G/en HE/en AV/n （/w RAND/en 、/w AUTN/en 、/w XRES/en */w 、/w ）/w 发给/v AUSF/en 。/w 如果/c 在/d Nudm/en _/0 Authenticate/en _/0 Get/en 请求/n 消息/n 中包/nz 含有/v  /0 SUCI/en ，/w 则/c UDM/en //w ARPF/en 在/d Nudm/en _/0 Authenticate/en _/0 Get/en 响应/v 中/f 还/d 携带/v 参数/n SUPI/en 。/w
+
+（/w 3/m ）/w AUSF/en 应/ng 暂时/d 将/d XRES/en */w 与/c 收到/v 的/u SUCI/en 或/c SUPI/en 一起/d 存储/v ，/w AUSF/en 也/d 可/v KAUSF/en 也/d 存/v 起来/v 以备/v 他用/n 。/w
+
+（/w 4/m ）/w 然后/c ，/w AUSF/en 创建/v 5/m G/en AV/n ：/w 按照/p TS33.501/url  /0 Annex/en A/en .5/m 由/p XRES/en */w 推导/v 出/q HXRES/en */w ，/w 按照/p TS33.501/url  /0  /0 Annex/en A/en .6/m 由/p 推导/v 出/q ，/w 用/ng 推导/v 出来/v 的/u HXRES/en */w 和/c 替换/v 掉/v 5/m G/en HE/en AV/n （/w RAND/en 、/w AUTN/en 、/w XRES/en */w 、/w ）/w 的/u XRES/en */w 、/w 后/f 就/d 得到/v 了/dg 5/m G/en AV/n （/w RAND/en 、/w AUTN/en 、/w HXRES/en */w 、/w ）/w 。/w
+
+（/w 5/m ）/w AUSF/en 给/v SEAF/en 发送/v Nausf/en _/0 UEAuthentication/en _/0 Authenticate/en 响应/v 消息/n ，/w 消息/n 携带/v 5/m G/en AV/n （/w RAND/en 、/w AUTN/en 、/w HXRES/en */w 、/w ）/w 。/w
+
+注/ng ：/w 从/p (/w 4/m )/w 和/c (/w 5/m )/w 可以/a 看出/v ，/w XRES/en */w 、/w 不会/v 离开/v 归属/v 网络/n 的/u 鉴/ng 权/n 中心/nc ，/w 归属/v 网络/n 从/p 这/r 两个/n 参数/n 进一步/d 推导/v 出/q XRES/en */w 和/c 给/v SEAF/en 使用/v 。/w
+
+（/w 6/m ）/w SEAF/en （/w AMF/en ）/w 通过/p NAS/n 消息/n Authentication/en -/w Request/en 给/v UE/en 发起/v 鉴/ng 权/n 流程/n ，/w 携带/v 鉴/ng 权/n 参数/n RAND/en 和/c AUTN/en ，/w 还/d 会/n 携带/v 参数/n ngKSI/en ，/w UE/en 和/c AMF/en 用/ng 这个/r 参数/n 标识/n 一个/mq 和/c 部分/n 安全/a 上下文/n 信息/n 。/w UE/en 的/u ME/n 会/n 将/d 受到/v RAND/en 和/c AUTN/en 传给/v USIM/en 。/w
+
+（/w 7/m ）/w USIM/en 收到/v RAND/en 和/c AUTN/en 后/f ，/w 验证/v 5/m G/en AV/n 的/u 新鲜度/n （/w 按照/p TS/en 33.102/m 的/u 描述/v 进行/v 验证/v ）/w 、/w 验证/v “/w MAC/en =/0 XMAC/en ”/w ，/w 这些/r 验证/v 通过/p 后/f ，/w USIM/en 接着/c 计算/v 出/q 响应/v RES/en ，/w USIM/en 将/d 响应/v RES/en 、/w CK/en 、/w IK/en 返回/v 给/v ME/n ；/w ME/n 按照/p TS33.501Annex/url A/en .4/m 从/p RES/en 推导/v 出/q RES/en */w 、/w 按照/p Annex/en A/en .2/m 从/p CK/en |/0 |/0 IK/en 推导/v 出/q 、/w 按照/p Annex/en A/en .6/m 从/p 推导/v 出/q 。/w
+
+注/ng ：/w USIM/en 卡/n 这部分/mq 计算/v 和/c 验证/v 详见/v TS33.102/url 6.3.3/m
+
+（/w 8/m ）/w ME/n 要/v 检验/v AUTN/en 的/u AMF/en 参数/n "/0 separation/en bit/en "/0 是否/v 为/p 1/m （/w TS/en 33.10/m 2/m  /0 Annex/en F/en ./m ）/w ；/w UE/en 给/v 网络/n 发送/v NAS/n 鉴/ng 权/n 响应/v 消息/n Authentication/en Response/en ，/w 消息/n 携带/v RES/en */w 。/w
+
+（/w 9/m ）/w SEAF/en 按照/p TS33.501/url  /0 Annex/en A/en .5/m 从/p UE/en 发/q 上来/v 的/u RES/en */w 推导/v 出/q HRES/en */w ，/w 然后/c 将/d HRES/en */w 和/c HXRES/en */w 进行/v 比较/d ，/w 如果/c 比较/d 通过/p ，/w 在/d 访问/v 网络/n 的/u 角度/n 来说/u 认为/v 鉴/ng 权/n 成功/a 了/dg 。/w
+
+（/w 10/m ）/w SEAF/en 给/v 归属/v 网络/n 鉴/ng 权/n 中心/nc AUSF/en 发送/v Nausf/en _/0 UEAuthentication/en _/0 Authenticate/en 请求/n ，/w 携带/v UE/en 过来/v 的/u RES/en */w 参数/n 以及/c 响应/v 的/u SUCI/en 或/c SUPI/en 。/w
+
+（/w 11/m ）/w 归属/v 网络/n AUSF/en 接收/v 到/ng Nausf/en _/0 UEAuthentication/en _/0 Authenticate/en 请求/n 后/f ，/w 首先/c 判断/n AV/n 是否/v 过期/v ，/w 如果/c 过期/v 了/dg 则/c 认为/v 鉴/ng 权/n 失败/v ；/w 否则/c ，/w 对/a RES/en */w 和/c XRES/en */w 进行/v 比较/d ，/w 如果/c 相等/v ，/w 在/d 归属/v 网络/n 的/u 角度/n 来说/u 认为/v 鉴/ng 权/n 成功/a 了/dg 。/w
+
+（/w 12/m ）/w AUSF/en 给/v SEAF/en 发送/v Nausf/en _/0 UEAuthentication/en _/0 Authenticate/en 响应/v ，/w 告诉/v SEAF/en 这个/r UE/en 在/d 归属/v 网络/n 的/u 鉴/ng 权/n 结果/c 。/w
+
+如果/c 鉴/ng 权/n 成功/a 了/dg ，/w 则/c 收到/v 的/u 5/m G/en AV/n 中/f 的/u 就/d 会/n 成为/v 锚/n 点/m key/en ；/w 然后/c SEAF/en 按照/p TS33.501/url Annex/en A/en .7/m 从/p 推导/v 出/q ，/w 然后/c 将/d ngKSI/en 和/c 发给/v AMF/en 使用/v 。/w
+
+下面/f 给出/v 4G/n 下/f 的/u AKA/en 鉴/ng 权/n 流程/n ，/w 以便/c 做/v 对比/v 。/w
+
+
+4/m G/en -/w AKA/en [/w 参考/v TS33.401/url ]/w
+
+/0
+
+鉴/ng 权/n 中心/nc 创建/v 鉴/ng 权/n 向量/n (/w AV/en )/w
+
+
+参考/v TS33.102/url  /0 6.3.2/m
+
+/0
+
+终端/n (/w USIM/en )/w 鉴/ng 权/n
+
+
+参考/v TS33.102/url 6.3.3/m
+
+/0
+
+参考/v
+
+TS33.501/url
+
+TS33.102/url ,/w ,/w ,/w ,/w ,/w

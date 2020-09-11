@@ -1,0 +1,46 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/luoting2017/article/details/85009873/url ,/w 人工智能/n 1./m 智能/n 模拟/v 2./m 模式/n 识别/v 3./m 自动/b 工程/n 4./m 知识/n 工程/n 5./m 专家系统/n 研究/v 范畴/n rn/n 人工智能/n （/w Artificial/en Intelligence/en ）/w ，/w 简称/n AI/n ，/w 就是/n 通过/p 机器/np 来/u 模拟/v 人类/n 甚至/c 比人/nz 类/n 更/d 强/a 的/u 一/m 种/ng 技术/n 。/w 现在/t 研究/v 的/u 领域/n 包括/v 机器人/n 、/w 语言/n 识别/v 、/w 图像/n 识别/v 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng 。/w rn/en 20/m 世纪/n 70/m 年代/n 以来/f 三大/n 尖端/b 技术/n ：/w 空间技术/ln 、/w 能源技术/n 、/w 人工智能/n 。/w rn/en 21/m 世纪/n 三大/n 尖端/b 技术/n ：/w 基因工程/ln 、/w 纳米科学/ln 、/w 人工智能/n 。/w rn/n 哪些/r 属于/v 人/n .../m ,/w https://blog.csdn.net/luoting2017/article/details/85009873/url ,/w ,/w luoting/en 2017/m ,/w 2018-12-14/t ,/w //blog.csdn.net/luoting2017/article/details/85009873/url ,/w 119/m 次/a 阅读/v ,/w 人工智能/n -/w 溪水/n 的/u 博客/n ,/w 2018年12月14日 21:34:53/t ,/w 原/b 人工智能/n
+
+
+
+2018年12月14日 21:34:53/t
+夕/tg 水/n 2018/m
+阅读/v 数/m ：120/m 更多/n
+
+
+个人/n 分类/v ：/w
+人工智能/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n 1./m 智能/n 模拟/v 2./m 模式/n 识别/v 3./m 自动/b 工程/n 4./m 知识/n 工程/n 5./m 专家系统/n 研究/v 范畴/n 有关/v 人工智能/n 的/u 书籍/n
+人工智能/n （/w Artificial/en Intelligence/en ）/w ，/w 简称/n AI/n ，/w 就是/n 通过/p 机器/np 来/u 模拟/v 人类/n 甚至/c 比人/nz 类/n 更/d 强/a 的/u 一/m 种/ng 技术/n 。/w 现在/t 研究/v 的/u 领域/n 包括/v 机器人/n 、/w 语言/n 识别/v 、/w 图像/n 识别/v 、/w 自然语言/n 处理/v 和/c 专家系统/n 等/ng 。/w
+20/m 世纪/n 70/m 年代/n 以来/f 三大/n 尖端/b 技术/n ：/w 空间技术/ln 、/w 能源技术/n 、/w 人工智能/n 。/w
+21/m 世纪/n 三大/n 尖端/b 技术/n ：/w 基因工程/ln 、/w 纳米科学/ln 、/w 人工智能/n 。/w
+哪些/r 属于/v 人工智能/n ？/w
+1./m 智能/n 模拟/v
+机器/np 视/v 、/w 听/n 、/w 触/v 、/w 感觉/n 及/c 思维/n 方式/n 的/u 模拟/v ：/w 指纹识别/n ，/w 人脸识别/lv ，/w 视网膜/n 识别/v ，/w 虹膜/n 识别/v ，/w 掌纹/n 识别/v ，/w 专家系统/n ，/w 智能/n 搜索/n ，/w 定理/n 证明/n ，/w 逻辑推理/n ，/w 信息/n 感应/n 与/c 辨证/v 处理/v 等/ng 。/w
+2./m 模式/n 识别/v
+采用/v $/0 模式/n 识别/v 引擎/n ，/w 分支/n 有/v 2D/b 识别/v 引擎/n ，/w 3D/b 识别/v 引擎/n ，/w 驻波/n 识别/v 引擎/n 以及/c 多维/b 识别/v 引擎/n 。/w 2D/b 识别/v 引擎/n 已/d 推出/v 指纹识别/n ，/w 人像/n 识别/v ，/w 文字/n 识别/v ，/w 图像/n 识别/v ，/w 车牌/n 识别/v ；/w 驻波/n 识别/v 引擎/n 已/d 推出/v 语音/n 识别/v ；/w 3D/b 识别/v 引擎/n 已/d 推出/v 指纹识别/n 玉带/n 林中/s 挂/q （/w 玩/ng 游/ng 智能/n 版/n 1.25/m ）/w 。/w
+3./m 自动/b 工程/n
+自动/b 驾驶/v （/w OSO/en 系统/a ）/w ，/w 印钞/v 工厂/nc （/w ￥/0 流水线/n ）/w ，/w 猎鹰/n 系统/a （/w YOD/en 绘图/v ）/w 。/w
+4./m 知识/n 工程/n
+以/p 知识/n 本身/r 为/p 处理/v 对象/n ，/w 研究/v 如何/r 运用/v 人工智能/n 和/c 软件技术/n ，/w 设计/v 、/w 构造/n 和/c 维护/v 知识/n 系统/a 。/w
+5./m 专家系统/n
+智能/n 搜索引擎/n ，/w 计算机/np 视觉/n 和/c 图像处理/n ，/w 机器翻译/ln 和/c 自然语言/n 理解/v ，/w 数据挖掘/n 和/c 知识/n 发现/v 。/w
+研究/v 范畴/n
+语言/n 的/u 学习/v 与/c 处理/v ，/w ，/w 智能/n 搜索/n ，/w 推理/v ，/w 规划/n ，/w 机器/np 学习/v ，/w 知识/n 获取/v ，/w 组合/n 调度/n 问题/n ，/w 感知/v 问题/n ，/w 模式/n 识别/v ，/w 逻辑/n 程序设计/n ，/w 软/a 计算/v ，/w 不/d 精确/a 和/c 不/d 确定/a 的/u 管理/v ，/w 人工/b 生命/n ，/w 神经网络/n ，/w 复杂系统/n ，/w 遗传/v 算法/n 人类/n 思维/n 方式/n 。/w
+有关/v 人工智能/n 的/u 书籍/n
+《/w 视/v 读/ng 人工智能/n 》/w 、/w 《/w 人工智能/n 的/u 未来/t 》/w 、/w 《/w 人工智能/n 哲学/n 》/w 、/w 《/w 人工智能/n ：/w 一/m 种/ng 现代/a 的/u 方法/n 》/w

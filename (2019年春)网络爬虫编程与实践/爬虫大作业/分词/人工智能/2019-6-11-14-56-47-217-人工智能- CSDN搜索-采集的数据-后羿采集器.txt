@@ -1,0 +1,31 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/xlpdingding/article/details/83004878/url ,/w 文章/n 目录/n 人工智能/n 的/u 分类/v 计算机/np 视觉/n rn/n 人工智能/n 的/u 分类/v rnrn/en 计算机/np 视觉/n （/w CV/en ，/w Computer/en Vision/en ）/w rn/n 语音/n 识别/v rn/n 自然语言/n 处理/v rn/n 推荐/v 系统/a 、/w 专家系统/n rnrn/en 计算机/np 视觉/n rnrn/en ,/w https://blog.csdn.net/xlpdingding/article/details/83004878/url ,/w ,/w xlpdingding/en ,/w 2018-10-31/t ,/w //blog.csdn.net/xlpdingding/article/details/83004878/url ,/w 324/m 次/a 阅读/v ,/w 人工智能/n -/w xlpdingding/en 的/u 博客/n ,/w 2018年10月31日 15:21:41/t ,/w 原/b 人工智能/n
+
+
+
+2018年10月31日 15:21:41/t
+我/r 是/v 波/n 多/a
+阅读/v 数/m ：325/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+文章/n 目录/n 人工智能/n 的/u 分类/v 计算机/np 视觉/n
+人工智能/n 的/u 分类/v
+
+计算机/np 视觉/n （/w CV/en ，/w Computer/en Vision/en ）/w
+语音/n 识别/v
+自然语言/n 处理/v
+推荐/v 系统/a 、/w 专家系统/n
+
+计算机/np 视觉/n

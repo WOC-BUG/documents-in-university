@@ -1,0 +1,22 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_34034261/article/details/87775368/url ,/w n/en n/en n/en 人工智能/n 已经/d 成为/v 国际/n 竞争/v 的/u 新/a 焦点/n ，/w 人工智能/n 是/v 引领/v 未来/t 的/u 战略性/n 技术/n ，/w 世界/n 主要/b 发达国家/ln 把/p 发展/v 人工智能/n 作为/n 提升/v 国家/n 竞争力/n 、/w 维护/v 国家安全/n 的/u 重大/a 战略/n 。/w 为/p 在/d 新/a 一轮/nz 国际/n 科技/n 竞争/v 中/f 掌握/v 主导权/n ，/w 安防/nz 也/d 应该/v 在/d 核心/n 技术/n 、/w 顶尖/n 人才/n 、/w 标准规范/n 等/ng 领域/n 强化/v 部署/v 。/w ​/0 ​/0 ​/0 ​/0 nnnnnnn/en n/en nn/en .../m ,/w https://blog.csdn.net/weixin_34034261/article/details/87775368/url ,/w ,/w weixin/en _/0 34034261/m ,/w 2017-08-05/t ,/w //blog.csdn.net/weixin_34034261/article/details/87775368/url ,/w 30/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 34034261/m 的/u 博客/n ,/w 2017年08月05日 14:26:00/t ,/w 原/b 人工智能/n
+
+
+
+2017年08月05日 14:26:00/t
+weixin/en _/0 34034261/m
+阅读/v 数/m ：/w 31/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+人工智能/n 已经/d 成为/v 国际/n 竞争/v 的/u 新/a 焦点/n ，/w 人工智能/n 是/v 引领/v 未来/t 的/u 战略性/n 技术/n ，/w 世界/n 主要/b 发达国家/ln 把/p 发展/v 人工智能/n 作为/n 提升/v 国家/n 竞争力/n 、/w 维护/v 国家安全/n 的/u 重大/a 战略/n 。/w 为/p 在/d 新/a 一轮/nz 国际/n 科技/n 竞争/v 中/f 掌握/v 主导权/n ，/w 安防/nz 也/d 应该/v 在/d 核心/n 技术/n 、/w 顶尖/n 人才/n 、/w 标准规范/n 等/ng 领域/n 强化/v 部署/v 。/w ​/0 ​/0 ​/0 ​/0

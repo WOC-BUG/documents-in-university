@@ -1,0 +1,6 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/en ,/w http://www.pfcchina.org/qtjl/22748.htmlnnnn/url 商业/n 和/c 真相/n 是/v 两码事/n n/en ,/w ysmz/en 4/m ,/w https://blog.csdn.net/ysmz4/article/details/89855266/url ,/w 2019-05-05/t ,/w 10/m 次/a 阅读/v ,/w 5/m G/en -/w 小/a 窝/n O/en (/w ∩/0 _/0 ∩/0 )/w O/en ~/w ~/w ,/w 2019年05月05日 21:06:07/t ,/w http://www.pfcchina.org/qtjl/22748.html/url
+
+/0
+
+商业/n 和/c 真相/n 是/v 两码事/n ,/w ,/w ,/w ,/w ,/w

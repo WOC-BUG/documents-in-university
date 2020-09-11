@@ -1,0 +1,234 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G系统——5G QoS,1 概述nn1.1 QoS流（QoS Flow）nn5G QoS模型基于Qos流，5G QoS模型支持保障流比特速率（GBR QoS）的QoS流和非保障流比特速率（Non-GBR）的QoS流，5G QoS模型还支持反射QoS。nnQoS流是PDU会话中最精细的QoS区分粒度，这就是说两个PDU会话的区别就在于它们的QoS流不一样（具体一般就是QoS流的TFT参数不同）；在5G系统中一个QoS流ID...,u010178611,https://blog.csdn.net/u010178611/article/details/81746532,2018-08-16,6099次阅读,5G系统——5G QoS - Cloudy_cn的专栏,2018年08月16日 18:12:12,1 概述
+
+1.1 QoS流（QoS Flow）
+
+5G QoS模型基于Qos流，5G QoS模型支持保障流比特速率（GBR QoS）的QoS流和非保障流比特速率（Non-GBR）的QoS流，5G QoS模型还支持反射QoS。
+
+QoS流是PDU会话中最精细的QoS区分粒度，这就是说两个PDU会话的区别就在于它们的QoS流不一样（具体一般就是QoS流的TFT参数不同）；在5G系统中一个QoS流ID（QFI）用于标识一条QoS流；PDU会话中具有相同QFI的用户平面数据会获得相同的转发处理（如相同的调度、相同的准入门限等）；QFI在一个PDU会话内要唯一，也就是说一个PDU会话可以有多条（最多64条）QoS流，但每条QoS流的QFI都是不同的（取值范围0~63），UE的两条PDU会话的QFI是可能会重复的；QFI可以动态配置或等于5QI。
+
+在5GS，QoS流是被SMF控制的，其可以是预配置或通过PDU会话建立和修改流程来建立。
+
+QoS流的特征在于：
+
+-AN侧的QoS配置，这些配置可以是SMF通过AMF给AN提供给AN的或者是在AN上预置的
+
+-UE侧的QoS规则（rule），这些规则是SMF在PDU建立或修改流程中提供给UE的或UE通过反射QoS机制推导出来的
+
+-UPF侧的上行和下行PDR(s)，这些PDR（s）是SMF配置的
+
+在5GS，一条PDU会话内要求有一条关联默认QoS规则的QoS流，在PDU的整个生命周期内这个默认QoS流保持存在，且这个默认的QoS流要是Non-GBR QoS流。
+
+注：上面的默认QoS流在整个PDU会话生命周期内都给UE提供了连接；由于可能需要和EPS交互，所以要求这个默认QoS流为Non-GBR。
+
+1.2 QoS配置（QoS Profile）
+
+一个QoS流是“GBR”还是“Non-GBR”取决于它的QoS配置；一个QoS流的QoS配置包含的QoS参数如下：
+
+- 每条QoS流的QoS配置都会包含的QoS参数：5QI、ARP
+
+- 每条Non-GBR QoS流的QoS配置可能还会包含参数：反射Qos属性（RQA）
+
+- 每条GBR QoS流的QoS配置还会包含参数：保证流比特率(GFBR)、最大流比特率(MFBR)
+
+- 每条GBR QoS流的QoS配置可能还会包含：指示控制、最大丢包率
+
+ 
+
+每条QoS配置有一个与之对应的QFI，QFI包含在QoS配置中。
+
+1.4 QoS规则（QoS Rules）
+
+UE执行上行用户面数据业务的分类和标记，也就是根据QoS规则将上行数据关联到对应的QoS流去。这些QoS规则可以是显示提供给UE的（也就是在PDU会话建立/修改流程中通过信令显示配置给UE），或者在UE上预配置，或者UE使用反射QoS机制隐式推导出来。
+
+一个QoS规则包含：关联的QoS流的QFI、数据包过滤器集（一个过滤器列表）、优先级。
+
+一个QoS流可以有多个QoS规则。
+
+每个PDU会话都要配置一个默认的QoS规则，默认的QoS规则关联到一条QoS流上。
+
+对于IP类型或ethenet类型的PDU会话，默认QoS规则是在PDU会话中唯一的一个包过滤集可以包含允许所有UL的包过滤器的QoS规则，协议上这句话说得非常拗口，可以用类比路由表的方式去理解，就是默认QoS就可配成和默认路由一样，一个数据包所有路由都不满足时，就从默认路由走。默认QoS规则是可以配置为允许通过所有上行包，不是必须配置为允许通过所有上行包。
+
+注：默认QoS规则的允许所有上行包通过的包过滤器就是所谓的“匹配所有”过滤器（match-all filter）
+
+对于Unstructured类型的PDU会话，默认QoS规则不包含任何包过滤器集（Packet Filter Set），默认QoS规则定义PDU会话内的所有包的处理方式。
+
+只要默认QoS规则不包含数据包过滤器集或包含允许所有UL数据包的数据包过滤器集，就不应将反射性QoS应用于与默认QoS规则关联的QoS流，并且不应该给此QoS流发送RQA。
+
+1.5 QoS映射
+
+SMF负责QoS的控制，建立一条PDU会话时，SMF会给UPF、AN、UE配置响应的Qos参数。下图展示了用户面数据的分类和标记与QoS流映射到AN资源的规则流程。
+
+
+
+对于上行数据，UE根据QoS规则对数据包进行匹配，数据包从匹配上的QoS流以及其对应的AN通道（对应的RB）向上传输；对于下行数据，UPF根据PDR对数据进行匹配，数据包从匹配上的QoS流以及其对应的AN通道下下传输。如果一个数据包没有匹配上任何一个QoS规则（上行）或PDR（下行），则该数据包会被UE或UPF丢弃。
+
+SMF给AN配置QoS参数如下（TS38.413  9.10.4.9），QoS特性可以选择静态5QI（也就是标准化5QI映射表）和动态配置5QI。
+
+
+
+
+
+ 
+
+
+
+SMF给UE配置的QoS规则（TS23.501）如下，QoS规则包含一个QoS项列表，每个QoS项包含一个包过滤器列表、参数列表、QFI、优先级等参数。
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+2 Qos参数
+
+2.1 5QI
+
+5QI是一个标量，用于索引一个5G QoS特性。TS23.501 Table 5.7.4-1有标准化的5QI映射关系。
+
+2.2 ARP
+
+ARP参数包含优先级、抢占能力、可被抢占等信息；优先级定义了UE资源请求的重要性，在系统资源受限时，ARP参数决定了一个新的QoS流是被接受还是被拒绝。
+
+“pre-emption capability”信息定了一个业务流是否可以抢占低优先级的业务流的资源。
+
+“pre-emption vulnerability”信息定义一个业务流的资源是否可以被高优先级的业务流抢占。
+
+arp优先级的取值范围1~15，1为最高优先级；
+
+
+
+2.3 RQA
+
+RQA（Reflective QoS Attribute）是一个可选参数，其指示了在该QoS流上的某些业务可以受到反射QoS的影响。仅当核心网通过信令将一个QoS流的RQA参数配给接入网时，接入网才会使能RQI在这条流的无线资源上传输；RQA可以通过N2接口在UE上下文建立和QoS流建立/修改时携带给NG-RAN。
+
+如核心网在“PDU SESSION RESOURCE SETUP REQUEST”消息的QoS参数中将RQA参数带给ngNB：
+
+
+
+ 
+
+2.4 Notification Control
+
+通知控制；对于GBR的QoS流，核心网通过该参数控制NG-RAN是否在该GBR QoS流的GFBR无法满足时上报消息通知核心网；如果网络使能通知控制，则NG-RAN发现该流的GFBR无法满足时就要给SMF发送通知，同时继续保持该QoS流的正常运作；至于收到通知后SMF如何处理则属于网络配置的策略。
+
+核心网在“PDU SESSION RESOURCE SETUP REQUEST”消息的GBR QoS Flow Information中配置通知控制参数。
+
+
+
+2.5 Flow Bit Rate
+
+对于GBR QoS流，其5G QoS参数还会包含如下参数：
+
+- 保证流比特率(GFBR) -上行和下行
+
+- 最大流比特率（MFBR）-上行和下行
+
+GFBR表示由网络保证在平均时间窗口上向QoS流提供的比特率；MFBR将比特率限制为QoS流所期望的最高比特率（例如，超过MFBR时数据包可能被UE/RAN/UPF丢弃、延时传输、......）；网络通过QoS流的优先级调度处理来使比特率在GFBR和MFBR的范围内。
+
+ 
+
+2.6 Aggregate Bit Rate
+
+    会话聚合最大比特率（Session-AMBR）
+
+每个PDU Session都会有一个会话聚合最大比特率，Session-AMBR是用户订阅数据，SMF从UDM获取；SMF可以直接使用订阅数据的Session-AMBR，或者根据本地策略进行相应修改后再使用，或使用从PCF获取的该PDU会话的Session-AMBR。
+
+Session-AMBR定义了一个PDU会话的所有non-GBR QoS流的比特率之和的上限，也就是说一个PDU会话的所有non-GBR QoS流的比特速率之和不能大于该PDU的Session-AMBR。
+
+Session-AMBR不应用于GBR QoS流。
+
+    UE聚合最大比特率（UE-AMBR）
+
+每个UE都有一个聚合最大比特率（UE-AMBR），一个UE-AMBR定义了一个UE所有的non-GBR QoS流比特率之和的上限，也就是一个UE的所有non-GBR QoS流的比特率之和不能大于UE-AMBR。UE-AMBR是用户订阅数据，AMF可从UDM获取出来给RAN使用。
+
+UE-AMBR仅应用于non-GBR QoS流，不应用于GBR QoS流。
+
+AMBR平均窗口，其用于统计Session-AMBR和UE-AMBR，且用于Session-AMBR和UE-AMBR的AMBR平均窗口参数是一个标准化值，且是相同的。
+
+ 
+
+2.7 （默认值）Default Value
+
+对于每条PDU会话的建立，SMF从UDM获取订阅的默认5QI和ARP值。SMF使用授权的默认5QI和ARP值去设置默认QoS流的QoS参数。
+
+2.8 Maximum Packet Loss Rate（最大丢包率）
+
+最大丢包率表示一条QoS流可以忍受的最大丢包率；最大丢包率参数只可能会在GFBR的QoS流上提供。
+
+注：当前版本(TS23.501 f20)，最大丢包率（上行、下行）参数仅在属于语音媒体的GBR QoS流上使用。
+
+3 Qos特性
+
+本节规定了和5QI相关的5G QoS特性。
+
+
+			Resource Type
+
+			资源类型
+			
+			GBR, Delay critical GBR or Non-GBR
+		
+			Priority Level
+
+			优先级水平
+			
+			表示5G QoS流间的资源调度优先级；该参数用于区分一个UE的各个QoS流，也用于区分不同终端的QoS流。该参数值越小表示优先级越高
+		
+			Packet Delay Budget（PDB）
+
+			包时延预算
+			
+			PDB定义了UE和锚点NPF之间数据包传输的时延上限；
+		
+			Packet Error Rate（PER）
+
+			误包率
+			
+			误包率定了一个上限，也就是数据包已经被发送端的链路层（如3GPP接入网的RLC层）处理了，但没有被对应的接收端提交给上层（如3GPP接入网的PDCP层）的比率上限。PER参数的作用是让网络配置合适的链路层参数（如3GPP接入网的RLC和HARQ配置）。
+		
+			Averaging Window
+
+			平均窗口
+			
+			平均窗口是给GBR QoS Flow定义的，用于相关网元统计GFBR和MFBR。
+		
+			Maximum Data Burst Volume（MDBV）
+
+			最大数据突发量
+			
+			具有延迟关键资源类型的每个GBR QoS流应与一个MDBV相关联；MDBV表示5G-AN在一个5G-AN PDB期间需要服务的最大数据量。
+		4 标准5QI到5G Qos特性的映射
+
+
+
+5 反射QoS
+
+反射QoS作为5G QoS引入的新功能，其内容比较多，不宜放在此文展开来讲了，否则此博文就太长了，后续我会专门开一篇文章来详细介绍。简而言之，反射QoS的功能就是网络通过用户面packet的相关头域（SDAP头）的设置，UE SDAP实体收到后进行分析推导出一个上行的QoS规则进行使用。
+
+ 
+
+6 包过滤器集（Packet  Filter Set）
+
+QoS规则（UE侧）或PDR（UPF侧）的包过滤器集是用于标识数据（IP或ethenet）流的，一个包过滤器集可以包含多个包过滤器（这个可从上文1.5节的协议格式图明显看出来），每个包过滤器可以是下行或上行或双向的。
+
+有两种类型的包过滤器集：IP包过滤器集合ethenet包过滤器集，分别对应于它们的PDU会话类型。
+
+ 
+
+参考
+
+TS23.501
+
+TS24.501
+
+TS38.413,,,,,

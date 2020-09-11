@@ -1,0 +1,485 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 接入网/n ,/w 关于/p 5/m G/m 接入网/n ，/w 看/u 这/r 一/m 篇/ng 就/d 够/d 啦/y ！/w nn/en 2018年12月26日 10:45:2/t 5/m csdn/en 云计算/n 阅读/v 数/m ：515/m nn/en 戳/ng 蓝字/nz “/w CSDN/en 云计算/n ”/w 关注/v 我们/r 哦/e ！/w nnnn/en 今天/t 要/v 研究/v 的/u 对象/n ，/w 是/v 5/m G/m 接入网/n 。/w nnnn/en 什么/r 是/v 接入网/n ？/w 如果/c 是/v 长期/n 关注/v 鲜/a 枣/n 课堂/n 的/u 同学/nm ，/w 对/a 这个/r 概念/n 一定/b 不会/v 陌生/a 。/w ,/w LN/en 973331487/m ,/w https://blog.csdn.net/LN973331487/article/details/89312591/url ,/w 2019-04-15/t ,/w 63/m 次/a 阅读/v ,/w 5/m G/m 接入网/n -/w LN/en 973331487/m 的/u 博客/n ,/w 2019年04月15日 15:16:44/t ,/w 关于/p 5/m G/m 接入网/n ，/w 看/u 这/r 一/m 篇/ng 就/d 够/d 啦/y ！/w
+
+2018年12月26日 10:45:2/t 5/m csdn/en 云计算/n 阅读/v 数/m ：515/m
+
+戳/ng 蓝字/nz “/w CSDN/en 云计算/n ”/w 关注/v 我们/r 哦/e ！/w
+
+/0
+
+今天/t 要/v 研究/v 的/u 对象/n ，/w 是/v 5/m G/m 接入网/n 。/w
+
+/0
+
+什么/r 是/v 接入网/n ？/w 如果/c 是/v 长期/n 关注/v 鲜/a 枣/n 课堂/n 的/u 同学/nm ，/w 对/a 这个/r 概念/n 一定/b 不会/v 陌生/a 。/w
+
+/0
+
+搬出/v 这/r 张/ng 小枣/n 君/ng 用/ng 过/d 无数/mq 次/a 的/u 移动通信/ln 架构/n 图/n ：/w
+
+/0
+
+
+
+/0
+
+接入网/n ，/w 在/d 我们/r 无线通信/ln 里/f ，/w 一般/a 指/ng 无线接入/n 网/n ，/w 也就是/n 通常/b 所说/n 的/u RAN/en （/w Radio/en Access/en Network/en ）/w 。/w
+
+/0
+
+
+
+/0
+
+说白了/ld ，/w 把/p 所有/b 的/u 手机/np 终端/n ，/w 都/d 连接/v 到/ng 网络/n 里面/f 的/u 这个/r 功能/n ，/w 就是/n 无线接入/n 网/n 。/w
+
+/0
+
+大家/r 耳熟能详/iv 的/u 基站/n （/w BaseStation/en ）/w ，/w 就是/n 属于/v 无线接入/n 网/n （/w RAN/en ）/w 。/w
+
+/0
+
+
+
+无线/b 基站/n
+
+/0
+
+虽然/c 我们/r 从/p 1G/n 开始/v ，/w 历经/v 2G/n 、/w 3G/n ，/w 一路/n 走/v 到/ng 4G/n ，/w 号称/v 是/v 技术/n 飞速/d 演进/v ，/w 但/c 整个/b 通信网络/n 的/u 逻辑/n 架构/n ，/w 一直/d 都/d 是/v ：/w 手机/np →/0 接入网/n →/0 承载/v 网/n →/0 核心/n 网/n →/0 承载/v 网/n →/0 接入网/n →/0 手机/np 。/w
+
+/0
+
+通信/v 过程/n 的/u 本质/n ，/w 就是/n 编码/n 解码/v 、/w 调制/v 解调/v 、/w 加密解密/n 。/w
+
+/0
+
+
+
+/0
+
+要/v 做/v 的/u 事情/n 就/d 这么/r 多/a ，/w 各种/r 设备/n 各司其职/lv ，/w 完成/v 这些/r 事情/n 。/w
+
+/0
+
+通信/v 标准/a 更新换代/lv ，/w 无非/d 是/v 设备/n 改/ng 个/q 名字/n ，/w 或者/c 挪/v 个位/n 置/v ，/w 功能/n 本质/n 并/c 没有/d 变化/v 。/w
+
+/0
+
+基站/n 系统/a ，/w 乃至/c 整个/b 无线接入/n 网/n 系统/a ，/w 亦/d 是/v 如此/r 。/w
+
+/0
+
+一个/mq 基站/n ，/w 通常/b 包括/v BBU/en （/w 主要/b 负责/a 信号/n 调制/v ）/w 、/w RRU/en （/w 主要/b 负责/a 射频/n 处理/v ）/w ，/w 馈/vg 线/n （/w 连接/v RRU/en 和/c 天线/n ）/w ，/w 天线/n （/w 主要/b 负责/a 线缆/n 上/f 导行/v 波/n 和/c 空气/n 中空/s 间/f 波/n 之间/f 的/u 转换/v ）/w 。/w
+
+/0
+
+
+
+基站/n 的/u 组成部分/n
+
+/0
+
+在/d 最早/d 期/ng 的/u 时候/n ，/w BBU/en ，/w RRU/en 和/c 供电/v 单元/n 等/ng 设备/n ，/w 是/v 打包/v 塞/ng 在/d 一个/mq 柜子/n 或/c 一个/mq 机房/n 里/f 的/u 。/w
+
+/0
+
+
+
+基站/n 一体化/v
+
+/0
+
+后来/t ，/w 慢慢/d 开始/v 发生/v 变化/v 。/w
+
+/0
+
+怎么/r 变化/v 呢/ng ？/w 通信/v 砖/n 家/k 们/k 把/p 它们/r 拆分/v 了/dg 。/w
+
+/0
+
+首先/c ，/w 就是/n 把/p RRU/en 和/c BBU/en 先/d 给/v 拆分/v 了/dg 。/w
+
+/0
+
+/0
+
+
+
+/0
+
+硬件/n 上/f 不再/d 放在/v 一起/d ，/w RRU/en 通常/b 会/n 挂/q 在/d 机房/n 的/u 墙上/s 。/w
+
+/0
+
+
+
+/0
+
+BBU/en 有时候/d 挂/q 墙/n ，/w 不过/c 大部分/n 时候/n 是在/n 机柜/n 里/f 。/w
+
+/0
+
+
+
+机柜/n 里/f 的/u BBU/en
+
+/0
+
+再/d 到/ng 后来/t ，/w RRU/en 不再/d 放在/v 室内/s ，/w 而是/n 被/ng 搬/v 到/ng 了/dg 天线/n 的/u 身边/s （/w 所谓/b 的/u “/w RRU/en 拉/v 远/a ”/w ）/w 。/w
+
+/0
+
+
+
+/0
+
+/0
+
+
+
+天线/n +/0 RRU/en
+
+/0
+
+这样/r ，/w 我们/r 的/u RAN/en 就/d 变成/v 了/dg D/en -/w RAN/en ，/w 也就是/n Distributed/en RAN/en （/w 分布式/b 无线接入/n 网/n ）/w 。/w
+
+/0
+
+这样/r 做/v 有/v 什么/r 好处/n 呢/ng ？/w
+
+/0
+
+一方面/ldm ，/w 大大/a 缩短/v 了/dg RRU/en 和/c 天线/n 之间/f 馈/vg 线/n 的/u 长度/n ，/w 可以/a 减少/v 信号/n 损耗/n ，/w 也/d 可以/a 降低/v 馈/vg 线/n 的/u 成本/n 。/w
+
+/0
+
+另一方面/ldm ，/w 可以/a 让/v 网络/n 规划/n 更加/d 灵活/a 。/w 毕竟/d RRU/en 加/ng 天线/n 比较/d 小/a ，/w 想/v 怎么/r 放/v ，/w 就/d 怎么/r 放/v 。/w
+
+/0
+
+
+
+/0
+
+说/ag 到/ng 这里/r ，/w 请/v 大家/r 注意/v ：/w 通信网络/n 的/u 发展/v 演进/v ，/w 无非/d 就是/n 两个/n 驱动力/n ，/w 一/m 是/v 为了/p 更/d 高/a 的/u 性能/n ，/w 二/m 是/v 为了/p 更/d 低/a 的/u 成本/n 。/w
+
+/0
+
+
+
+/0
+
+有时候/d 成本/n 比/p 性能/n 更加/d 重要/a ，/w 如果/c 一/m 项技术/nr 需要/n 花/a 很多/mq 钱/n ，/w 但是/c 带来/v 的/u 回报/v 少于/v 付出/v ，/w 它/r 就/d 很/d 难/a 获得/v 广泛/a 应用/v 。/w
+
+/0
+
+RAN/en 的/u 演进/v ，/w 一定/b 程度/n 上/f 就是/n 成本/n 压力/n 带来/v 的/u 结果/c 。/w
+
+/0
+
+
+
+在/d D/en -/w RAN/en 的/u 架构/n 下/f ，/w 运营商/n 仍然/d 要/v 承担/v 非常/b 巨大/a 的/u 成本/n 。/w 因为/c 为了/p 摆放/v BBU/en 和/c 相关/v 的/u 配套/a 设备/n （/w 电源/n 、/w 空调/np 等/ng ）/w ，/w 运营商/n 还是/c 需要/n 租赁/v 和/c 建设/v 很多/mq 的/u 室内机/n 房/n 或/c 方舱/n 。/w
+
+/0
+
+
+
+大量/mq 的/u 机房/n =/0 大量/mq 的/u 成本/n
+
+/0
+
+于是/c ，/w 运营商/n 就/d 想/v 出/q 了/dg C/en -/w RAN/en 这个/r 解决方案/n 。/w
+
+/0
+
+
+
+/0
+
+C/en -/w RAN/en ，/w 意思/n 是/v Centralized/en RAN/en ，/w 集中化/v 无线接入/n 网/n 。/w 这个/r C/n ，/w 不仅/c 代表/nx 集中化/v ，/w 还/d 代表/nx 了/dg 别的/r 意思/n ：/w
+
+/0
+
+
+
+/0
+
+相比/v 于/ng D/en -/w RAN/en ，/w C/en -/w RAN/en 做/v 得/e 更/d 绝/ag 。/w
+
+/0
+
+除了/p RRU/en 拉/v 远/a 之外/f ，/w 它/r 把/p BBU/en 全部/mq 都/d 集中/a 关押/v 起来/v 了/dg 。/w 关/n 在/d 哪/r 了/dg ？/w 中心/nc 机房/n （/w CO/n ，/w Central/en Office/n ）/w 。/w
+
+/0
+
+
+
+/0
+
+这/r 一大/j 堆/k BBU/en ，/w 就/d 变成/v 一个/mq BBU/en 基带/n 池/ng 。/w
+
+/0
+
+C/en -/w RAN/en 这样/r 做/v ，/w 非常/b 有效/a 地/n 解决/v 了/dg 前文/n 所说/n 的/u 成本/n 问题/n 。/w
+
+/0
+
+你/r 知道/v 整个/b 移动通信/ln 网络/n 中/f ，/w 基站/n 的/u 能耗/n 占比/n 大约/d 多少/r 吗/r ？/w  /0
+
+72%/m  /0
+
+/0
+
+你/r 知道/v 基站/n 里面/f ，/w 空调/np 的/u 能耗/n 占比/n 大约/d 多少/r 吗/r ？/w  /0
+
+56%/m  /0
+
+/0
+
+
+
+传统/a 方式/n 机房/n 的/u 功耗/n 分析/v
+
+/0
+
+也就是说/ldm ，/w 运营商/n 的/u 钱/n ，/w 大部分/n 都/d 花/a 在/d 基站/n 上/f ，/w 花/a 在/d 基础设施/n 上/f ，/w 花/a 在/d 电费/n 上/f 。/w
+
+/0
+
+采用/v C/en -/w RAN/en 之后/f ，/w 通过/p 集中化/v 的/u 方式/n ，/w 可以/a 极大/a 减少/v 基站/n 机房/n 数量/n ，/w 减少/v 配套/a 设备/n （/w 特别/a 是/v 空调/np ）/w 的/u 能耗/n 。/w
+
+/0
+
+
+
+若干/mq 小/a 机房/n ，/w 都/d 进/ng 了/dg 大/a 机房/n
+
+/0
+
+机房/n 少/a 了/dg ，/w 租金/n 就/d 少/a 了/dg ，/w 维护费/n 用/ng 也/d 少/a 了/dg ，/w 人工费/n 用/ng 也/d 跟着/v 减少/v 了/dg 。/w 这笔/r 开支/n 节省/v ，/w 对/a 饱受/v 经营/v 压力/n 之/u 苦/a 的/u 运营商/n 来说/u ，/w 简直/d 是/v 久旱逢甘霖/lv 。/w
+
+/0
+
+另外/c ，/w 拉/v 远/a 之后/f 的/u RRU/en 搭配/v 天线/n ，/w 可以/a 安装/v 在/d 离/ng 用户/n 更/d 近距/n 离/ng 的/u 位置/n 。/w 距离/n 近/a 了/dg ，/w 发射/v 功率/n 就/d 低/a 了/dg 。/w
+
+/0
+
+低/a 的/u 发射/v 功率/n 意味着/v 用户/n 终端/n 电池/np 寿命/n 的/u 延长/v 和/c 无线接入/n 网络/n 功耗/n 的/u 降低/v 。/w 说白了/ld ，/w 你/r 手机/np 会/n 更/d 省/ny 电/n ，/w 待机/v 时间/n 会/n 更/d 长/a ，/w 运营商/n 那边/r 也/d 更/d 省/ny 电/n 、/w 省钱/a ！/w
+
+/0
+
+更/d 重要/a 一点/mq ，/w 除了/p 运营商/n 可以/a 省钱/a 之外/f ，/w 采用/v C/en -/w RAN/en 也/d 会/n 带来/v 很大/a 的/u 社会效益/ln ，/w 减少/v 大量/mq 的/u 碳/n 排放/v （/w CO2/n ）/w 。/w
+
+/0
+
+
+
+/0
+
+此外/c ，/w 分散/a 的/u BBU/en 变成/v BBU/en 基带/n 池/ng 之后/f ，/w 更/d 强大/a 了/dg ，/w 可以/a 统一/a 管理/v 和/c 调度/n ，/w 资源/n 调配/v 更加/d 灵活/a ！/w
+
+/0
+
+C/en -/w RAN/en 下/f ，/w 基站/n 实际上/d 是/v “/w 不见/v 了/dg ”/w ，/w 所有/b 的/u 实体/n 基站/n 变成/v 了/dg 虚拟/v 基站/n 。/w
+
+/0
+
+所有/b 的/u 虚拟/v 基站/n 在/d BBU/en 基带/n 池/ng 中共/nt 享用/v 户/ng 的/u 数据/n 收发/n 、/w 信道/n 质量/n 等/ng 信息/n 。/w 强化/v 的/u 协作/v 关系/n ，/w 使得/v 联合/v 调度/n 得以/v 实现/v 。/w 小区/ny 之间/f 的/u 干扰/v ，/w 就/d 变成/v 了/dg 小区/ny 之间/f 的/u 协作/v （/w CoMP/en ）/w ，/w 大幅/a 提高/v 频谱/n 使用/v 效率/n ，/w 也/d 提升/v 了/dg 用户/n 感知/v 。/w
+
+/0
+
+
+
+/0
+
+多点/nz 协作/v 传输/v (/w CoMP/en ，/w Coordinated/en Multiple/en Points/en Transmission/en //w Reception/en )/w 是/v 指/ng 地理位置/n 上分/t 离/ng 的/u 多个/n 传输/v 点/m ，/w 协同/v 参与/v 为/p 一个/mq 终端/n 的/u 数据/n (/w PDSCH/en )/w 传输/v 或者/c 联合/v 接收/v 一个/mq 终端/n 发送/v 的/u 数据/n (/w PUSCH/en )/w 。/w  /0
+
+/0
+
+此外/c ，/w BBU/en 基带/n 池/ng 既然/c 都/d 在/d CO/n （/w 中心/nc 机房/n ）/w ，/w 那么/c ，/w 就/d 可以/a 对/a 它们/r 进行/v 虚拟化/v 了/dg ！/w
+
+/0
+
+虚拟化/v ，/w 就是/n 网/n 元/q 功能/n 虚拟化/v （/w NFV/en ）/w 。/w 简单/a 来说/u ，/w 以前/f BBU/en 是/v 专门/b 的/u 硬件/n 设备/n ，/w 非常/b 昂贵/a ，/w 现在/t ，/w 找/v 个/q x86/n 服务器/n ，/w 装/ng 个/q 虚拟/v 机/np （/w VM/en ，/w Virtual/en Machines/en ）/w ，/w 运行/v 具备/v BBU/en 功能/n 的/u 软件/n ，/w 然后/c 就/d 能/ng 当/ag BBU/en 用/ng 啦/y ！/w
+
+/0
+
+
+
+/0
+
+这下子/d 又/d 省/ny 了/dg 好多/mq 钱/n ！/w  /0
+
+/0
+
+正/a 因为/c C/en -/w RAN/en 这种/r 集中化/v 的/u 方式/n 会/n 带来/v 巨大/a 的/u 成本/n 削减/v ，/w 所以/c ，/w 受到/v 运营商/n 的/u 欢迎/v 和/c 追捧/v （/w 当然/b ，/w 设备/n 商/n 们/k 不会/v 太/ag 开心/a ）/w 。/w
+
+/0
+
+猜猜/v C/en -/w RAN/en 是/v 谁/r 提出/v 来/u 的/u ？/w 不是/n 设备/n 商/n ，/w 是/v 中国移动/nt 。/w 。/w 。/w 最/d 积极/a 推动/v C/en -/w RAN/en 的/u ，/w 也/d 是/v 中国移动/nt 。/w 。/w 。/w 作为/n 世界/n 上/f 最大/a 的/u 运营商/n ，/w 中国移动/nt 把/p C/en -/w RAN/en 奉为至宝/iv 。/w
+
+/0
+
+
+
+/0
+
+到/ng 了/dg 5/m G/m 时代/n ，/w 接入网/n 又/d 发生/v 了/dg 很大/a 的/u 变化/v 。/w
+
+/0
+
+在/d 5/m G网/n 络/ng 中/f ，/w 接入网/n 不再/d 是由/n BBU/en 、/w RRU/en 、/w 天线/n 这些/r 东西/n 组成/v 了/dg 。/w 而是/n 被/ng 重构/v 为/p 以下/f 3/m 个/q 功能/n 实体/n ：/w
+
+
+CU/n （/w Centralized/en Unit/en ，/w 集中/a 单元/n ）/w
+
+
+DU/en （/w Distribute/en Unit/en ，/w 分布/v 单元/n ）/w
+
+
+AAU/n （/w Active/en Antenna/en Unit/en ，/w 有源/b 天线/n 单元/n ）/w
+
+/0
+
+
+
+CU/n ：/w 原/b BBU/en 的/u 非/d 实时/d 部分/n 将/d 分割/v 出来/v ，/w 重新/d 定义/n 为/p CU/n ，/w 负责/a 处理/v 非/d 实时/d 协议/n 和服/n 务/dg 。/w
+
+AAU/n ：/w BBU/en 的/u 部分/n 物理层/n 处理/v 功能/n 与/c 原/b RRU/en 及/c 无源/nz 天线/n 合并/v 为/p AAU/n 。/w
+
+DU/en ：/w BBU/en 的/u 剩余/v 功能/n 重新/d 定义/n 为/p DU/en ，/w 负责/a 处理/v 物理层/n 协议/n 和实/nz 时/n 服务/v 。/w
+
+/0
+
+简而言之/ldm ，/w CU/n 和/c DU/en ，/w 以/p 处理/v 内容/n 的/u 实时性/n 进行/v 区分/v 。/w
+
+/0
+
+
+
+简单/a 来说/u ，/w AAU/en =/0 RRU/en +/0 天线/n
+
+/0
+
+再/d 抛/v 一/m 张图/nr 给/v 大家/r ，/w 应该/v 能/ng 看/u 得/e 更/d 明白/a 一些/mq ：/w
+
+/0
+
+
+
+/0
+
+注意/v ，/w 在/d 图中/nz ，/w EPC/n （/w 就是/n 4G/n 核心/n 网/n ）/w 被/ng 分为/v New/en Core/en （/w 5/m GC/en ，/w 5/m G/m 核心/n 网/n ）/w 和/c MEC/en （/w 移动网/n 络/ng 边界/n 计算/v 平台/n ）/w 两/m 部分/n 。/w MEC/en 移动/v 到/ng 和/c CU/n 一起/d ，/w 就是/n 所谓/b 的/u “/w 下沉/v ”/w （/w 离/ng 基站/n 更/d 近/a ）/w 。/w
+
+/0
+
+
+
+核心/n 网/n 部分/n 功能/n 下沉/v
+
+/0
+
+之所以/c 要/v BBU/en 功能/n 拆分/v 、/w 核心/n 网/n 部分/n 下沉/v ，/w 根本/a 原因/n ，/w 就是/n 为了/p 满足/a 5/m G/m 不同/a 场景/n 的/u 需要/n 。/w
+
+/0
+
+5/m G/m 是/v 一个/mq “/w 万金油/n ”/w 网络/n ，/w 除了/p 网速/n 快/a 之外/f ，/w 还有/v 很多/mq 的/u 特点/n ，/w 例如/v 时延/j 低/a 、/w 支持/v 海量/n 连接/v ，/w 支持/v 高速/b 移动/v 中/f 的/u 手机/np ，/w 等等/u 。/w
+
+/0
+
+不同/a 场景/n 下/f ，/w 对于/p 网络/n 的/u 特性/n 要求/n （/w 网速/n 、/w 时延/j 、/w 连接/v 数/m 、/w 能耗/n .../m ）/w ，/w 其实/d 是/v 不同/a 的/u ，/w 有的/r 甚至/c 是/v 矛盾/a 的/u 。/w
+
+/0
+
+例如/v ，/w 你/r 看/u 高清/a 演唱会/n 直播/v ，/w 在乎/v 的/u 是/v 画质/n ，/w 时效/n 上/f ，/w 整体/n 延后/v 几秒/t 甚至/c 十几/mq 秒/q ，/w 你/r 是/v 没/d 感觉/n 的/u 。/w 而/c 你/r 远程/b 驾驶/v ，/w 在乎/v 的/u 是时/t 延/ng ，/w 时延/j 超过/v 10/m ms/n ，/w 都/d 会/n 严重/a 影响/v 安全/a 。/w
+
+/0
+
+
+
+/0
+
+所以/c ，/w 把/p 网络/n 拆开/v 、/w 细化/v ，/w 就是/n 为了/p 更/d 灵活/a 地/n 应对/v 场景/n 需求/n 。/w
+
+/0
+
+说/ag 到/ng 这里/r ，/w 就要/d 提到/v 5/m G/m 的/u 一个/mq 关键/a 概念/n ——/w 「/w 切片/n 」/w 。/w
+
+/0
+
+切片/n ，/w 简单/a 来说/u ，/w 就是/n 把/p 一/m 张/ng 物理/n 上/f 的/u 网络/n ，/w 按/p 应用/v 场景/n 划分/v 为/p N/n 张逻辑网/nr 络/ng 。/w 不同/a 的/u 逻辑/n 网络/n ，/w 服务/v 于/ng 不同/a 场景/n 。/w
+
+/0
+
+
+
+不同/a 的/u 切片/n ，/w 用于/v 不同/a 的/u 场景/n
+
+/0
+
+网络/n 切片/n ，/w 可以/a 优化/v 网络资源/n 分配/v ，/w 实现/v 最大/a 成本/n 效率/n ，/w 满足/a 多元化/v 要求/n 。/w
+
+/0
+
+
+
+/0
+
+可以/a 这么/r 理解/v ，/w 因为/c 需求/n 多样化/v ，/w 所以/c 要/v 网络/n 多样化/v ；/w 因为/c 网络/n 多样化/v ，/w 所以/c 要/v 切片/n ；/w 因为/c 要/v 切片/n ，/w 所以/c 网/n 元/q 要/v 能/ng 灵活/a 移动/v ；/w 因为/c 网/n 元/q 灵活/a 移动/v ，/w 所以/c 网/n 元/q 之间/f 的/u 连接/v 也/d 要/v 灵活/a 变化/v 。/w
+
+/0
+
+
+
+/0
+
+所以/c ，/w 才/d 有/v 了/dg DU/en 和/c CU/n 这样/r 的/u 新/a 架构/n 。/w
+
+/0
+
+依据/n 5/m G/m 提出/v 的/u 标准/a ，/w CU/n 、/w DU/en 、/w AAU/n 可以/a 采取/v 分离/v 或/c 合/ng 设/v 的/u 方式/n ，/w 所以/c ，/w 会/n 出现/v 多种/a 网络部/n 署/ng 形态/n ：/w
+
+/0
+
+
+
+回传/v 、/w 中/f 传/ng 、/w 前/f 传/ng ，/w 是/v 不同/a 实体/n 之间/f 的/u 连接/v
+
+/0
+
+上图/n 所/n 列/n 网络部/n 署/ng 形态/n ，/w 依次/d 为/p ：/w
+
+①/m 与/c 传统/a 4G/n 宏/ag 站/ny 一致/a ，/w CU/n 与/c DU/en 共/d 硬件/n 部署/v ，/w 构成/n BBU/en 单元/n 。/w
+
+②/m DU/en 部署/v 在/d 4/m G/en BBU/en 机房/n ，/w CU/n 集中/a 部署/v 。/w
+
+③/m DU/en 集中/a 部署/v ，/w CU/n 更/d 高层次/n 集中/a 。/w
+
+④/m CU/n 与/c DU/en 共/d 站/ny 集中/a 部署/v ，/w 类似/a 4G/n 的/u C/en -/w RAN/en 方式/n 。/w
+
+这些/r 部署/v 方式/n 的/u 选择/n ，/w 需要/n 同时/c 综合/v 考虑/v 多种/a 因素/n ，/w 包括/v 业务/n 的/u 传输/v 需求/n （/w 如/c 带宽/n ，/w 时延/j 等/ng 因素/n ）/w 、/w 建设/v 成本/n 投入/a 、/w 维护/v 难度/n 等/ng 。/w
+
+/0
+
+举/ag 个例/n 子/k ，/w 如果/c 前/f 传/ng 网络/n 为/p 理想/a 传输/v （/w 有钱/a ，/w 光纤/n 直接/a 到/ng 天线/n 那边/r ）/w ，/w 那么/c ，/w CU/n 与/c DU/en 可以/a 部署/v 在/d 同一个/b 集中点/n 。/w 如果/c 前/f 传/ng 网络/n 为/p 非/d 理想/a 传输/v （/w 没/d 钱/n ，/w 没/d 那么/c 多/a 光纤/n ）/w ，/w DU/en 可以/a 采用/v 分布式/b 部署/v 的/u 方式/n 。/w
+
+/0
+
+
+
+/0
+
+再/d 例如/v ，/w 如果/c 是/v 车联网/nt 这样/r 的/u 低/a 时延/j 要求/n 场景/n ，/w 你/r 的/u DU/en ，/w 就要/d 想/v 办法/n 往前/v 放/v （/w 靠近/v AAU/n 部署/v ）/w ，/w 你/r 的/u MEC/en 、/w 边缘/n 云/n ，/w 就要/d 派/n 上用/nz 场/ng 。/w
+
+/0
+
+
+
+/0
+
+好/a 啦/y ，/w 关于/p 接入网/n 的/u 介绍/v ，/w 今天/t 就/d 先/d 到/ng 这里/r ！/w
+
+/0
+
+实际上/d ，/w 关于/p 5/m G/m 接入网/n 的/u 内容/n ，/w 包括/v DU/en //w CU/n 的/u 分层/v ，/w 切片/n 的/u 具体/a 方式/n ，/w 都/d 比/p 文中/s 介绍/v 的/u 要/v 复杂/a 得/e 多/a 。/w ,/w ,/w ,/w ,/w ,/w

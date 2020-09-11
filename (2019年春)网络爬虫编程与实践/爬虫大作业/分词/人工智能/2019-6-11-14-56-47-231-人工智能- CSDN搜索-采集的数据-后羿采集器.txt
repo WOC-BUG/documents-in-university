@@ -1,0 +1,37 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/weixin_33866037/article/details/89662661/url ,/w 很多/mq 人/n 对/a 人工智能/n 的/u 理解/v 可能/a 还/d 仅仅/d 停留/v 在/d 一个/mq 基本/a 概念/n 的/u 层/n 度/k ，/w 没有/d 能/ng 深入/a 理解/v ，/w 近年来/t 这个/r 概念/n 也/d 多/a 由于/c 一些/mq 事件/n ，/w 如/c 围棋/n 下过/ns 人类/n 之类/r 的/u 事件/n 所/n 引爆/v 。/w 这里/r 简要/a 的/u 普及/a 下/f 。/w nnnnn/en 这个/r 图表/n 明了/v 三者/r 间/f 的/u 关系/n 。/w 人工智能/n 是/v 一个/mq 大课/n 题/n 。/w 细分/v 下/f 看/u ：/w nnn/en 人工智能/n n/n 简单/a 的/u 说/ag 就是/n 让/v 计算机/np 有/v 智能/n 。/w 比如/v 我/r 发/q .../m ,/w https://blog.csdn.net/weixin_33866037/article/details/89662661/url ,/w ,/w weixin/en _/0 33866037/m ,/w 2018-05-04/t ,/w //blog.csdn.net/weixin_33866037/article/details/89662661/url ,/w 8/m 次/a 阅读/v ,/w 人工智能/n -/w weixin/en _/0 33866037/m 的/u 博客/n ,/w 2018年05月04日 20:25:12/t ,/w 转/q 人工智能/n
+
+
+
+2018年05月04日 20:25:12/t
+weixin/en _/0 33866037/m
+阅读/v 数/m ：/w 9/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+很多/mq 人/n 对/a 人工智能/n 的/u 理解/v 可能/a 还/d 仅仅/d 停留/v 在/d 一个/mq 基本/a 概念/n 的/u 层/n 度/k ，/w 没有/d 能/ng 深入/a 理解/v ，/w 近年来/t 这个/r 概念/n 也/d 多/a 由于/c 一些/mq 事件/n ，/w 如/c 围棋/n 下过/ns 人类/n 之类/r 的/u 事件/n 所/n 引爆/v 。/w 这里/r 简要/a 的/u 普及/a 下/f 。/w
+
+
+
+
+这个/r 图表/n 明了/v 三者/r 间/f 的/u 关系/n 。/w 人工智能/n 是/v 一个/mq 大课/n 题/n 。/w 细分/v 下/f 看/u ：/w
+
+人工智能/n
+简单/a 的/u 说/ag 就是/n 让/v 计算机/np 有/v 智能/n 。/w 比如/v 我/r 发现/v 了/dg 一个/mq 规律/n ，/w 房价/n =/0 年份/n */w 240.2/m +/0 房间/n 数/m */w 2/m （/w 注/ng ：/w 不要/df 当真/d ，/w 我/r 杜撰/v 的/u ）/w 。/w
+于是/c 我/r 写/v 了/dg 一个/mq 程序/n ：/w
+double/en getFJ/en (/w int/en 年份/n ,/w int/en 房间/n 数/m )/w {/0
+return/en 年份/n */w 240.2/m +/0 房间/n 数/m */w 2/m ;/w
+}/0 这个/r 小/a 程序/n 非常/b 简单/a 应该/v 能/ng 看/u 懂/v ，/w 但/c 这/r 小小/aa 程序/n 可以/a 预测/v 房价/n ，/w 比如/v 你/r 传入/v 的/u 参数/n ，/w 2020年/t ，/w 房间/n 数/m 是/v 5/m ，/w 经/ng 计算/v 就/d 可以/a 得到/v 了/dg 个/q 房价/n 。/w ——/w 这/r 可以/a 说/ag 有点/d 小/a 智能/n 了/dg 吧/y （/w 有点/d 弱智/b 而已/y ）/w 。/w
+又/d 比如说/ldm ，/w 我/r 为/p 围棋/n 设计/v 一/m 套/n 评分/n 规则/a ，/w 也就是/n 每当/p 我/r 下一步/ldm 棋/n ，/w 可以通过/n 这个/r 规则/a 计算/v 一个/mq 成绩/n （/w 比如/v 哪个/r 点/m 得/e 1/m 分/b ，/w 哪边/r 得/e 2/m 分/b ，/w 总归/d 能/ng 算/d 出/q ）/w 。/w 然后/c 计算/v 整个/b 棋盘/n ，/w 每个/r 可/v 落子/v 位置/n 的/u 分值/n ，/w 然后/c 取/v 分值/n 最高/a 的/u 落子/v 位置/n 。/w 好/a 吧/y ，/w 这/r 就是/n 一个/mq 简单/a 的/u 智能/n 下/f 围棋/n 的/u 程序/n 了/dg 吧/y ，/w 想必/d 这样/r 你/r 也/d 未必/d 就/d 能/ng 下过/ns 它/r 。/w ——/w 这不/l 能/ng 不说/c 它/r 是/v 人工智能/n 吧/y 。/w

@@ -1,0 +1,215 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 核心/n 网/n ,/w nn/en 4/m //w 5/m G/m 核心/n 网/n 对比/v —/w 蛹/ng 内/f 发生/v 了/dg 那些/r 变化/v ？/w nn/en 延伸/v 阅读/v nn/en 文章/n 转自/n ：/w 点击/v 进入/v 链接/n nnn/en 作者/n ：/w 蜉蝣/n 采采/nz 无线/b 深海/n nn/en 微信/n 号/n ：/w wuxian/en _/0 shenhainnn/en 首先/c ，/w 讲/v .../m ,/w Rong/en _/0 Toa/en ,/w https://blog.csdn.net/Rong_Toa/article/details/89285093/url ,/w 2019-04-13/t ,/w 463/m 次/a 阅读/v ,/w 5/m G/m 核心/n 网/n -/w Koma/en Hub/en ,/w 2019年04月13日 17:12:24/t ,/w Table/en of/en Contents/en
+
+首先/c ，/w 讲/v 一个/mq 毛毛虫/n 过河/v 的/u 故事/n
+
+毛毛虫/n —/w 4G/n 核心/n 网/n 是/v 什么样/r 的/u ？/w
+
+5/m G/m 核心/n 网/n  /0 —/w  /0 毛毛虫/n 到/ng 蝴蝶/n 的/u 蜕变/v
+
+什么/r 是/v 基于/p 服务/v 的/u 架构/n （/w Service/en Based/en Architecture/en ）/w ？/w
+
+4/m //w 5/m G/m 核心/n 网/n 对比/v  /0 —/w 蛹/ng 内/f 发生/v 了/dg 那些/r 变化/v ？/w
+
+延伸/v 阅读/v
+
+文章/n 转自/n ：/w 点击/v 进入/v 链接/n
+
+
+作者/n ：/w 蜉蝣/n 采采/nz 无线/b 深海/n  /0
+
+微信/n 号/n ：/w wuxian/en _/0 shenhai/en
+
+
+首先/c ，/w 讲/v 一个/mq 毛毛虫/n 过河/v 的/u 故事/n
+
+一/m 只/bg 毛毛虫/n 经过/p 长途跋涉/iv ，/w 终于/d 来到/v 了/dg 河边/s 。/w 对岸/s 鲜花/n 盛开/v ，/w 四季如春/l ，/w 恍如/v 天国/n ，/w 毛毛虫/n 想/v 去/v 对岸/s 生活/n ，/w 却/d 被/ng 这/r 条/ng 大河/n 阻挡/v 了/dg 去路/n ，/w 四处/d 也/d 不见/v 桥/ny 的/u 踪影/n ，/w 它/r 要/v 怎样/r 才能/v 渡过/v 大河/n 呢/ng ？/w
+
+游/ng 过去/t ？/w 搭/v 船/n 过去/t ？/w 求人/v 带/ng 过去/t ？/w 可行/a 的/u 答案/n 当然/b 有/v 很多/mq ，/w 但/c 最美/a 丽/ag 最/d 浪漫/a 的/u 却/d 只有/c 一个/mq ，/w 那/c 就是/n ：/w 变成/v 蝴蝶/n 飞过/v 去/v 。/w
+
+为了/p 变成/v 蝴蝶/n ，/w 毛毛虫/n 不辞辛苦/lv ，/w 终日/d 大/a 吃/v 不/d 倦/a ，/w 经历/n 了/dg 一次/mq 又/d 一次/mq 的/u 蜕皮/v ，/w 一天天/qqy 不断/d 地/n 长大/v 。/w
+
+终于/d 有/v 一/m 天/n ，/w 它/r 感受/n 到/ng 了/dg 某种/r 神秘/a 力量/n 的/u 召唤/v ，/w 于是/c 吐/v 出/q 丝/n 来/u ，/w 作茧自缚/iv 。/w 在/d 茧/ng 里/f ，/w 毛毛虫/n 逐渐/d 变成/v 了/dg 一头/d 圆/a 一头/d 尖/a 的/u 子弹/n 形/ng 的/u 蛹/ng 。/w
+
+蛹/ng 的/u 内部/f ，/w 毛毛虫/n 的/u 身体/n 正在/n 发生/v 着/n 宇宙/n 上/f 最为/d 奇妙/a 的/u 变化/v ，/w 这是/n 它/r 一生/n 中/f 至关重要/la 的/u 时刻/d 。/w 那/c 曾经/d 只能/v 蠕动/v 的/u 柔弱/a 肉体/n ，/w 全部/mq 融化/v 成/ng 蛹/ng 内部/f 的/u 一/m 腔/ng 浆液/n ，/w 全新/b 的/u 组织/n ，/w 就/d 在/d 这/r 一/m 片/n 溷/ag 沌/ng 中/f 重生/v 。/w
+
+终于/d ，/w 全新/b 的/u 身体/n ，/w 还有/v 全新/b 的/u 翅膀/n 逐渐/d 成型/v ，/w 一个/mq 全新/b 的/u 生命/n 即将/d 诞生/v 。/w 在/d 一个/mq 阳光/n 明媚/a 的/u 早晨/t ，/w 一/m 只/bg 美丽/a 的/u 蝴蝶/n 破/a 茧/ng 而出/nz ，/w 振翅/v 高飞/nz 。/w
+
+现在/t ，/w 这/r 只/bg 蝴蝶/n ，/w 曾经/d 的/u 毛毛虫/n ，/w 早已/d 不再/d 惧怕/v 大江/n 大海/n ，/w 它/r 的/u 目标/n 是/v 诗/n 和/c 远方/s 。/w
+
+从/p 丑陋/a 的/u 毛毛虫/n 成长/v 为/p 美丽/a 的/u 蝴蝶/n 的/u 这个/r 过程/n ，/w 生物学/n 上/f 叫做/v “/w 完全/a 变态/n ”/w 。/w 也就是说/ldm ，/w 虽然/c 蝴蝶/n 是由/n 毛毛虫/n 发育/v 而/c 来/u ，/w 但/c 它们/r 的/u 形态/n 却/d 截然不同/ia 。/w
+
+从/p 4G/n 核心/n 网/n 到/ng 5/m G/m 核心/n 网/n 的/u 演进/v 和/c 毛毛虫/n 羽化/v 成/ng 蝶/ng 非常/b 类似/a ，/w 也/d 经历/n 了/dg “/w 完全/a 变态/n ”/w 的/u 过程/n 。/w 完全/a 变态/n ，/w 意味着/v 放下/v 包袱/n ，/w 摒弃/v 过往/v ，/w 轻装上阵/iv 。/w
+
+毛毛虫/n —/w 4G/n 核心/n 网/n 是/v 什么样/r 的/u ？/w
+
+顾名思义/iv ，/w 核心/n 网/n 位于/v 网络/n 数据/n 交换/v 的/u 中央/f ，/w 主要/b 负责/a 终端/n 用户/n 的/u 移动性/n 管理/v ，/w 会话/v 管理/v 和数/n 据传/v 输/v 。/w
+
+
+
+4G/n 核心/n 网主/n 要/v 包含/v MME/en ，/w SGW/en ，/w PGW/en ，/w HSS/en 这/r 几/m 个/q 网/n 元/q ，/w 下面/f 简要/a 介绍/v 下/f 这些/r 网/n 元/q 的/u 作用/n 。/w
+
+MME/en 的/u 全称/n 是/v Mobility/en Management/en Entity/en ，/w 含义/n 为/p 移动性/n 管理/v 实体/n 。/w
+
+这是/n 4G/n 核心/n 网/n 中/f 的/u 核心/n 网/n 元/q ，/w 顾名思义/iv ，/w MME/en 主要/b 负责/a 移动性/n 管理/v 和/c 控制/v ，/w 包含/v 用户/n 的/u 鉴/ng 权/n 、/w 寻呼/v 、/w 位置/n 更新/v 和/c 切换/v 等等/u 。/w
+
+总之/c ，/w 手机/np 必须/d 定期/b 向/p MME/en 报告/n 自己/r 的/u 位置/n ，/w 如果/c 想/v 上网/v 的话/u ，/w 也/d 必须/d 先/d 到/ng MME/en 经过/p 安检/n 才/d 行/a ，/w 而且/c ，/w 如果/c 手机/np 跑/ng 到/ng 其他/r 基站/n 下/f ，/w 也/d 需要/n MME/en 来/u 协调/v 切换/v 的/u 事宜/n 。/w MME/en 就是/n 大内/n 总管/n ，/w 掌控/n 一切/r ，/w 统领/v 全局/n 。/w
+
+SGW/en 的/u 全称/n 叫/v Serving/en Gateway/en ，/w 含义/n 为/p 服务网/n 关/n 。/w 它/r 主要/b 负责/a 手机/np 上下文/n 会话/v 的/u 管理/v 和数/n 据/ng 包/n 的/u 路由/n 和/c 转发/v ，/w 相当于/v 数据/n 中转站/nc 。/w
+
+PGW/en 的/u 全称/n 叫/v Packet/en data/en network/en Gateway/en ，/w 含义/n 为/p 分组/v 数据网/n 络/ng 网关/n 。/w 它/r 主要/b 负责/a 连接/v 到/ng 外部网/n 络/ng ，/w 也就是说/ldm ，/w 如果/c 手机/np 要/v 上/f 互联网/n ，/w 必须/d 要/v PDW/en 点头/v ，/w 通过/p PDW/en 转发/v 才/d 行/a 。/w 除此之外/ldm PDW/en 还/d 承担/v 着手/v 机/np 的/u 会话/v 管理/v 和/c 承载/v 控制/v ，/w 以及/c IP地址/n 分配/v ，/w 计费/v 支持/v 等/ng 功能/n 。/w
+
+HSS/en 的/u 全称/n 叫/v Home/en Subscriber/en Server/en ，/w 含义/n 为/p 归属/v 用户服务/n 器/k 。/w 它/r 是/v 一个/mq 中央/f 数据库/n ，/w 包含/v 与/c 用户/n 相关/v 的/u 信息/n 和/c 订阅/v 相关/v 的/u 信息/n 。/w 其/r 功能/n 包括/v :/w 移动性/n 管理/v ，/w 呼叫/v 和会/n 话/n 建立/v 的/u 支持/v ，/w 用户/n 认证/v 和/c 访问/v 授权/v 。/w
+
+然而/c ，/w 这样/r 的/u 架构/n 却/d 还有/v 些/q 不足/a ，/w 控制/v 面/a 和/c 用户/n 面/a 并/c 没有/d 完全/a 分开/v 。/w 如上所述/c ，/w SGW/en 和/c PGW/en 不但/c 要/v 处理/v 转发/v 用户/n 面/a 数据/n ，/w 还要/v 负责/a 进行/v 会话/v 管理/v 和/c 承载/v 控制/v 等/ng 控制/v 面/a 功能/n ，/w 这种/r 用户/n 面/a 和/c 控制/v 面交/v 织/v 的/u 缺点/n 导致/v 了/dg 业务/n 改动/v 复杂/a ，/w 效率/n 难以/d 优化/v ，/w 部署/v 运/ng 维/jns 难度/n 大/a 的/u 问题/n 。/w
+
+于是/c ，/w 在/d 2016年/t ，/w 3/m GPP/en 对/a SGW/en //w PGW/en 进行/v 了/dg 一次/mq 拆分/v ，/w 把/p 这/r 两个/n 网/n 元/q 都/d 进一步/d 拆分/v 为/p 控制/v 面/a （/w SGW/en -/w C/n 和/c PGW/en -/w C/n ）/w 和/c 用户/n 面/a （/w SGW/en -/w U/n 和/c PGW/en -/w U/n ）/w ，/w 称为/v CUPS/en 架构/n （/w 控制/v 面/a 用户/n 面/a 分离/v 架构/n ）/w 。/w
+
+
+
+控制/v 面/a 用户/n 面/a 分离/v 还有/v 另/d 一个/mq 重要/a 目的/n ，/w 那/c 就是/n 让/v 网络/n 用户/n 面/a 功能/n 摆脱/v “/w 中心化/vn ”/w 的/u 囚禁/v ，/w 使/ng 其/r 既/c 可/v 灵活/a 部署/v 于核心网/nr （/w 中心/nc 数据中心/n ）/w ，/w 也/d 可/v 部署/v 于/ng 接入网/n （/w 边缘/n 数据中心/n ）/w ，/w 最终/d 实现/v 可/v 分布式/b 部署/v 。/w
+
+按理说/ldm 这样一来/l ，/w 控制/v 面/a 和/c 用户/n 面/a 已经/d 完全/a 分开/v ，/w 各司其职/lv ，/w 各自/r 发挥/v 所长/nx 就/d 可以/a 很/d 好/a 地/n 协同/v 工作/n 了/dg 。/w 可是/c 5/m G/m ，/w 裹挟/v 着/n 万物/n 互联/v 的/u 浪潮/n 滚滚/z 而/c 来/u ，/w 一切/r 网/n 元/q 都/d 要/v 思考/v 自身/r 是否/v 能/ng 很/d 好/a 满足/a 5/m G/m 的/u 三大/n 场景/n 需求/n 。/w
+
+CUPS/en 架构/n 再/d 好/a ，/w 也/d 是/v 脱胎/v 于/ng 4G/n 核心/n 网/n ，/w 而/c 4G/n 核心/n 网/n 仅仅/d 是/v 为/p 手机/np 高速/b 上网/v 诞生/v 的/u ，/w 这/r 只/bg 对应/v 了/dg 5/m G/m 的/u eMBB/en 场景/n 。/w 此/r 架构/n 因为/c 不够/a 灵活/a ，/w 大量/mq 的/u 网/n 元和/n 复杂/a 接口/n 无法/v 支持/v 多元化/v 5/m G/m 业务/n 。/w 面对/v 多样化/v 的/u 5/m G/m 业务/n 场景/n ，/w 需要/n 新/a 的/u 核心/n 网网/n 络/ng 架构/n 呼之欲出/iv 。/w
+
+5/m G/m 核心/n 网/n  /0 —/w  /0 毛毛虫/n 到/ng 蝴蝶/n 的/u 蜕变/v
+
+经过/p 业界/n 专家/n 的/u 潜心/d 研究/v ，/w 决定/n 抛弃/v 突破/v 传统/a 功能/n 实体/n 的/u 藩篱/n ，/w 采用/v 基于/p 服务/v 的/u 架构/n （/w SBA/en ）/w ，/w 拥抱/v 虚拟化/v ，/w 控制/v 面/a 和/c 用户/n 面/a 分离/v ，/w 计算/v 和/c 存储/v 分离/v ，/w 全面/a 支持/v 网络/n 切片/n ，/w 并/c 可/v 对/a 第三方/n 开放/a 接口/n ，/w 来/u 一/m 场/ng 完完全全/z 的/u 蜕变/v 。/w
+
+什么/r 是/v 基于/p 服务/v 的/u 架构/n （/w Service/en Based/en Architecture/en ）/w ？/w
+
+众所周知/iv ，/w 传统/a 网/n 元/q 是/v 一/m 种/ng 软硬件/n 结合/v 的/u 紧/a 耦合/v 的/u 黑/a 盒/ng 设计/v ，/w 引入/v 虚拟化/v 之后/f ，/w 软件/n 和/c 硬件/n 解耦/n ，/w 从此/d 硬件/n 摆脱/v 了/dg 专用设备/n 的/u 束缚/v ，/w 使用/v 通用/v 的/u 服务器/n 即可/v ，/w 成本/n 极大/a 降低/v 。/w
+
+于/ng 此/r 同时/c ，/w 软件/n 也/d 不再/d 关注/v 底层/n 硬件/n ，/w 可扩展性/n 极大/a 提高/v 。/w 但是/c ，/w 这样/r 的/u 软件/n 还是/c 单体/n 结构/n ，/w 如果/c 只/bg 想/v 升级/v 或者/c 扩容/v 内部/f 一个/mq 模块/n ，/w 就/d 得/e 牵一发而动全身/iv ，/w 一点/mq 也/d 不灵/a 活/a 。/w
+
+因此/c ，/w 专家/n 们/k 借鉴/v 了/dg IT系统/n 中/f 微服务/v 的/u 架构/n ，/w 把/p 大/a 的/u 单体/n 软件/n 进一步/d 分解/v 为/p 多个/n 小/a 的/u 模块化/v 组件/n ，/w 这些/r 组件/n 就/d 叫做/v 网络/n 功能/n 服务/v (/w NFS/en )/w ，/w 它们/r 高度/b 独立/a 自治/v ，/w 并/c 通过/p 开放/a 接口/n 来/u 相互/b 通信/v ，/w 可以/a 像/n 搭/v 积木/n 一样/a 组合/n 成/ng 大/a 的/u 网络/n 功能/n (/w NF/en )/w ，/w 以/p 提升/v 业务部/nc 署/ng 的/u 敏捷/a 性/k 和/c 弹性/n 。/w
+
+
+
+于是/c ，/w 4G/n 核心/n 网/n 中/f 那些/r “/w 实体/n ”/w ，/w “/w 服务器/n ”/w ，/w “/w 网关/n ”/w 等/ng 和/c 硬件/n 相关/v 的/u 字眼/n 荡然无存/iv ，/w 虚拟化/v 之后/f 的/u 网络/n 不再/d 关注/v 底层/n 硬件/n ；/w 那些/r 错综复杂/ia 的/u 软件/n 功能模块/n 全部/mq 回炉/v 重/a 造/ng ，/w 再/d 淬火/v 凝练/a 成为/v 一个个/qqy 的/u 软件/n 意义/n 上/f 的/u 网络/n 功能/n （/w NF/n ，/w 即/c Network/en Function/en ）/w 。/w
+
+
+
+5/m G/m 核心/n 网架/n 构图/v
+每个/r 网络/n 功能/n 逻辑/n 上相/a 当/ag 于/ng 一个/mq 网/n 元/q ，/w 并且/c 这些/r 功能/n 都/d 是/v 完全/a 独立/a 自治/v 的/u ，/w 无论/c 是/v 新增/v ，/w 升级/v ，/w 还是/c 扩容/v 都/d 不会/v 影响/v 到/ng 其他/r 的/u 功能/n ，/w 这/r 就/d 为/p 网络/n 的/u 维护/v 和/c 扩展/v 提供/v 了/dg 极大/a 的/u 便利性/n 。/w
+
+
+
+这样/r 的/u 变化/v ，/w 像/n 极了/u 毛毛虫/n 把/p 自己/r 融化/v 再/d 羽化/v 成/ng 蝶/ng 的/u 转变/v ，/w 真/a 可/v 称得上/v “/w 完全/a 变态/n ”/w 。/w
+
+我们/r 现在/t 来看/u 看/u 这/r 一切/r 变化/v 都/d 是/v 怎么/r 发生/v 的/u 。/w 从/p 毛毛虫/n 到/ng 蝴蝶/n 再/d 怎么/r 剧变/v ，/w 运动/n ，/w 循环/v ，/w 消化/v 这些/r 基本功/n 能/ng 虽然/c 经过/p 了/dg 重组/v ，/w 但/c 终究/d 还是/c 从/p 毛毛虫/n 体内/s 早已/d 孕育/v 了/dg 许久/a 的/u “/w 成虫/n 盘/ng ”/w 上/f 长出/nz 来/u 的/u 。/w
+
+
+
+5/m G/m 核心/n 网/n 的/u 变化/v 也/d 是/v 如此/r ，/w 那/c 一个个/qqy 陌生/a 的/u 网络/n 功能/n NF/n ，/w 其实/d 就/d 像/n 毛毛虫/n 体内/s 蛰伏/v 的/u 成虫/n 盘/ng 一样/a ，/w 随着/p 时代/n 大潮/n 的/u 召唤/v ，/w 汲取/v 着/n 4G/n 核心/n 网/n 演进/v 的/u 养分/n ，/w 迅速/a 生长/v ，/w 最终/d 破/a 茧/ng 而出/nz 。/w
+
+4/m //w 5/m G/m 核心/n 网/n 对比/v  /0 —/w 蛹/ng 内/f 发生/v 了/dg 那些/r 变化/v ？/w
+
+要/v 对比/v 4G/n 核心/n 网/n 和/c 5/m G/m 核心/n 网/n 的/u 相同/a 和/c 不同/a 之/u 处/nc ，/w 类似/a 于/ng 追踪/v 毛毛虫/n 体内/s 的/u 成虫/n 盘/ng 的/u 动向/n ，/w 必须/d 标记/n 之后/f 再/d 作/ng 详细/a 观察/v 。/w
+
+首先/c ，/w 我们/r 试/v 着/n 用/ng 颜色/n 标注/n 出/q 4G/n 核心/n 网/n 的/u 相关/v 网/n 元/q ，/w 如下/v 图/n 所/n 示/vg 。/w
+
+
+
+控制/v 面/a 和/c 用户/n 面/a 分离/v 的/u 4G/n 核心/n 网/n （/w 不同/a 功能/n 用/ng 颜色/n 标注/n ）/w
+从/p 上图/n 可以/a 看出/v ，/w 经历/n 了/dg CUPS/en 架构/n 的/u 洗礼/n ，/w SGW/en 和/c PGW/en 的/u 用户/n 面/a 和/c 控制/v 面/a 已经/d 完全/a 分开/v 了/dg ，/w 那么/c 5/m G/m 会不会/vbv 把/p 同/a 为/p 控制/v 面的/n SGW/en -/w C/n 和/c PGW/en -/w C/n 合一/v 呢/ng ？/w 会不会/vbv 把/p 同/a 为/p 用户/n 面的/n SGW/en -/w U/n 和/c PGW/en -/w U/n 合一/v 呢/ng ？/w
+
+MME/en 和/c HSS/en 上面/f 色彩/n 斑驳/z ，/w 也/d 就/d 意味着/v 它们/r 虽然/c 同/a 为/p 控制/v 面网/n 元/q ，/w 在/d 4G/n 时代/n 承载/v 了/dg 太/ag 多/a 的/u 功能/n ，/w 会/n 在/d 5/m G/m 进行/v 拆分/v 。/w
+
+同理/n ，/w 对/a 5/m G/m 核心/n 网/n 的/u 各个/r NF/n 也/d 按/p 功能/n 用/ng 颜色/n 进行/v 标注/n ，/w 和/c 4G/n 网/n 元/q 相同/a 的/u 颜色/n 意味着/v 相似/a 的/u 功能/n 。/w 历经/v 了/dg 变态/n 的/u 5/m G/m 核心/n 网/n 如下/v 图/n 所/n 示/vg 。/w
+
+
+
+5/m G/m 核心/n 网/n （/w 不同/a 功能/n 用/ng 颜色/n 标注/n ）/w
+仔细/a 一/m 看/u ，/w 大部分/n 5/m G/en NF/n 还是/c 能/ng 在/d 4G/n 核心/n 网/n 中/f 找到/v 影子/n ，/w 就/d 像/n 在/d 毛毛虫/n 体内/s 也/d 能/ng 找到/v 蝴蝶/n 的/u “/w 成虫/n 盘/ng ”/w 一样/a 。/w
+
+如下/v 图/n 所/n 示/vg ，/w MME/en 中/f 负责/a 接入/v 和/c 移动性/n 管理/v 的/u 功能/n 独立/a 出来/v ，/w 成为/v 了/dg 5/m G/m 的/u AMF/en （/w 接入/v 及/c 移动性/n 管理/v 功能/n ）/w ；/w 与此同时/ldm ，/w 负责/a 会话/v 管理/v 的/u 功能/n ，/w 和/c SGW/en -/w C/n 和/c PGW/en -/w C/n 合并/v 成为/v SMF/en （/w 会话/v 管理/v 功能/n ）/w ，/w 会话/v 管理/v 从/p 以前/f 的/u 兼职/v ，/w 分散/a 管理/v 变成/v 了/dg 现在/t 的/u 专业/a 和/c 集中化/v 管理/v 。/w
+
+
+
+AMF/en 和/c SMF/en 的/u 诞生/v
+AMF/en ：/w Access/en and/en Mobility/en management/en Function/en
+SMF/en ：/w Session/en Management/en Function/en
+慢/a 着/n ，/w MME/en 中/f 那/c 一/m 条/ng 紫色/n 的/u 部分/n 去/v 哪/r 了/dg ？/w 请看/n 下图/n ，/w MME/en 和/c HSS/en 中关/ns 于/ng 用户/n 鉴/ng 权/n 的/u 功能/n 被/ng 抽取/v 出来/v ，/w 合并/v 成为/v 5/m G/m 的/u AUSF/en ；/w 与此同时/ldm ，/w HSS/en 中/f 剩余/v 的/u 用户数/n 据/ng 管理/v 功能/n 独立/a 成为/v UDM/en ，/w 和/c AUSF/en 配合/v 工作/n 来/u 完成/v 用户/n 鉴/ng 权数/n 据/ng 相关/v 的/u 处理/v 。/w
+
+
+
+AUSF/en 和/c UDM/en 的/u 诞生/v
+AUSF/en ：/w Authentication/en Server/en Function/en
+UDM/en ：/w Unified/en Data/en Management/en
+除了/p 这些/r “/w 大/a 变态/n ”/w 的/u 网/n 元/q ，/w 当然/b “/w 小/a 变态/n ”/w 的/u 。/w 如下/v 图/n 所/n 示/vg ，/w 负责/a 策略/n 控制/v 和/c 计费/v 规则/a 管理/v 功能/n 的/u PCRF/en ，/w 演化/v 成/ng 了/dg 5/m G/m 中/f 的/u 策略/n 控制/v 功能/n PCF/en ，/w 丢掉/v 了/dg 计费/v 规则/a 管理/v 功能/n 。/w
+
+
+
+PCF/en 的/u 诞生/v
+PCF/en ：/w Policy/en Control/en Function/en
+除了/p 这些/r 从/p 4G/n 传承/v 下来/v 的/u 功能/n ，/w 5/m G/m 核心/n 网/n 还/d 引入/v 了/dg 一些/mq 全新/b 的/u 网络/n 功能/n NF/n ，/w 主要/b 包括/v NSSF/en ，/w NEF/en 和/c NRF/en 。/w
+
+NSSF/en （/w Network/en Slice/en Selection/en Function/en 网络/n 切片/n 选择/n 功能/n ）/w 一/m 看/u 就是/n 负责/a 管理/v 网络/n 切片/n 的/u 。/w 在/d 5/m G/m 时代/n ，/w 网络/n 切片/n 的/u 管理/v 和/c 运营/v 将/d 是/v 新业务/n 和/c 新/a 商业/n 模式/n 的/u 关键/a 。/w
+NEF/en （/w Network/en Explosure/en Function/en  /0 网络/n 功能/n 开放/a ）/w ，/w 顾名思义/iv ，/w 就是/n 负责/a 管理/v 对外开放/lv 网络/n 数据/n 的/u 。/w 所有/b 的/u 外部/f 应用/v ，/w 想要/v 访问/v 5/m G/m 核心/n 网/n 内部/f 数据/n ，/w 都/d 必须/d 要/v NEF/en 牵线搭桥/lv 才/d 行/a 。/w
+NRF/en （/w NF/en Repository/en Function/en 网络/n 仓储/v 功能/n ）/w 可不是/l 类似/a 硬盘/np 这样/r 的/u 存储器/n ，/w 而是/n 像/n 一个/mq 仓库/n 一样/a ，/w 用来/v 进行/v NF/n 的/u 登记/v 和/c 管理/v 的/u 。/w 由于/c 5/m G/m 的/u NF/n 众多/a ，/w 如果/c 采用/v 手动/b 的/u 管理方/n 式/k 无异于/v 一/m 场/ng 灾难/n ，/w 因此/c 就/d 需要/n 用/ng NRF/en 来/u 实现/v 所有/b NF/n 的/u 自动化/v 管理/v 。/w
+每个/r NF/n 都/d 通过/p 服务化/v 接口/n 对外/b 提供/v 服务/v ，/w 并/c 允许/v 其他/r NF/n 访问/v 或/c 调用/v 自身/r 的/u 服务/v 。/w 提供/v 服务/v 的/u NF/n 被/ng 称作/v “/w NF/n 服务/v 提供者/n ”/w ，/w 访问/v 或/c 调用/v 服务/v 的/u NF/n 被/ng 称作/v “/w NF/n 服务/v 使用者/n ”/w 。/w 这些/r 活动/n 都/d 需要/n NRF/en 的/u 管理/v 和/c 监控/v 。/w
+
+如下/v 图/n 所/n 示/vg ，/w 每个/r NF/n 启动/v 时/n ，/w 必须/d 要/v 到/ng NRF/en 进行/v 注册登记/n 才能/v 提供/v 服务/v 。/w 红色/n 的/u NF/en 1/m 想要/v 让/v 绿色/n 的/u NF/en 2/m 来/u 提供/v 服务/v ，/w 必须/d 先/d 到/ng NRF/en 来/u 进行/v 服务/v 发现/v 才/d 行/a 。/w
+
+
+
+NRF/en 的/u 作用/n 和/c NF/n 之间/f 的/u 交互/b
+负责/a 控制/v 面的/n NF/n 介绍/v 完毕/v ，/w 用户/n 面的/n NF/n 就/d 非常/b 简单/a 了/dg ，/w 直接/a 把/p 4/m G/en CUPS/en 的/u 两个/n 控制/v 面网/n 元/q SGW/en -/w U/n 和/c PGW/en -/w U/n 合二为一/l ，/w 成为/v 5/m G/m 的/u 用户/n 面/a 功能/n ：/w UPF/en 。/w
+
+
+
+UPF/en 的/u 诞生/v
+UPF/en ：/w User/en Plane/en Function/en
+由/p 上面/f 的/u 一系列/b 变化/v 可以/a 看出/v ，/w 5/m G/m 核心/n 网/n 是/v 十分/d 复杂/a 的/u ，/w 从/p 架构/n 的/u 设计/v 到/ng 最终/d 成熟/a 商用/b 之间/f 还有/v 很/d 长/a 的/u 路/ny 要/v 走/v 。/w
+
+所以/c ，/w 在/d 5/m G/m 的/u 早期/f ，/w 5/m G/m 基站/n 接入/v EPC/n ，/w 使用/v 非独/c 立/d 组网/n 之所以/c 能/ng 成为/v 业界/n 的/u 主流/n ，/w 除了/p 快速/b 部署/v ，/w 成本/n 低/a 的/u 优势/n 之外/f ，/w 还有/v 很大/a 一部分/mq 原因/n 是/v 5/m G/m 核心/n 网/n 尚/ag 不成/y 熟/a 。/w
+
+5/m G/m 核心/n 网/n ，/w 经过/p 了/dg 这么/r 一番/mq 完全/a 变态/n ，/w 目前/t 正在/n 积攒/v 着力/v 量/n ，/w 假以时日/l ，/w 必/d 带领/v 5/m G/m 进入/v 全新/b 的/u 时代/n 。/w
+
+清晨/t 的/u 阳光/n 照/ng 在/d 刚刚/d 破/a 茧/ng 而出/nz 的/u 蝴蝶/n 身上/s ，/w 虽然/c 它/r 的/u 翅膀/n 还/d 皱缩/v 着/n ，/w 身上/s 的/u 几/m 丁质/nr 外壳/n 还/d 正在/n 硬化/v ，/w 但/c 其/r 美丽/a 的/u 身影/n 已经/d 一览无余/iv ，/w 一飞冲天/i 指日可待/iv 。/w
+
+
+
+延伸/v 阅读/v
+
+这个/r 毫不/d 起眼/a 的/u 发明/n ，/w 撑/v 起/q 了/dg 通信/v 大厦/ny 的/u 基石/n
+
+5/m G/m 基站/n 君/ng 的/u 进化/v 之路/nz —/w eCPRI/en
+
+5/m G/m 基站/n 君/ng 的/u 进化/v 之路/nz —/w CU/n 和/c DU/en 分离/v
+
+首批/n 商用/b 的/u 5/m G网/n 络/ng ，/w 可能/a 连/d 电话/np 都/d 打/q 不成/y ？/w
+
+5/m G网/n 络/ng 切片/n ：/w 让/v 我/r 一层一层/qqm 剥/v 开/ng 你/r 的/u 心/n
+
+MWC/en ，/w 到底/d 有/v 什么/r 好看/a 的/u ？/w
+
+这/r 玩意/n 辐射/n 这么/r 大/a ，/w 听说/v 你/r 还/d 在用/b ？/w
+
+无线/b 频谱/n 的/u 故事/n ：/w 零基/nz 础/ng ，/w 包看懂/nr ！/w
+
+3/m 分钟/q 看/u 懂/v 5/m G/m 频谱/n
+
+WiFi/n 穿墙/nz 完全/a 指南/n
+
+通俗/a 易懂/a ！/w 看/u 完/ng 你/r 就是/n 半/m 个/q 天线/n 专家/n 了/dg
+
+通俗/a 易懂/a ！/w MIMO/en 到底/d 是/v 个/q 啥/r ？/w
+
+电磁波/n 看不见/v 摸/v 不/d 着/n ，/w 这个/r 年轻人/n 的/u 奇思妙想/ln 改变/v 了/dg 世界/n
+
+4G/n 和/c WiFi/n 的/u 频谱/n 之/u 争/rg —/w LAA/en
+
+UE/en 能力/n 级别/n 详解/v ，/w 看/u 这/r 篇/ng 就/d 够/d 了/dg
+
+连/d 5/m G/m 是/v 怎么/r 来/u 的/u 都/d 说不清楚/l ，/w 还好/v 意思/n 说/ag 自己/r 是/v 搞/v 通信/v 的/u ？/w
+
+如果/c 你/r 看/u 了/dg 这/r 5/m 张图/nr 还/d 搞/v 不/d 清/a 3/m GPP/en 的话/u ，/w 那/c 就/d 过来/v 掐死/v 我/r 吧/y ！/w
+
+为什么/r 5/m G/m 叫/v 5/m G/m ？/w 因为/c 牛/a 逼/v ！/w
+
+文章/n 转自/n ：/w
+
+点击/v 进入/v 原文/n 连接/v ,/w ,/w ,/w ,/w ,/w

@@ -1,0 +1,60 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+焦点/n 分析/v |/0 沸腾/v 的/u 5/m G/m ：/w 华为/nz 三星/nz 们/k 嗨/e 了/dg ，/w 用户/n 却/d 还/d 没/d 来/u ,/w 转/q 焦点/n 分析/v |/0 沸腾/v 的/u 5/m G/m ：/w 华为/nz 三星/nz 们/k 嗨/e 了/dg ，/w 用户/n 却/d 还/d 没/d 来/u n/en n/en n/en n/en 2019年03月01日 11:39:55/t n/en CSDN/en 头条/n n/en 阅读/v 数/m ：3260/m n/en n/en n/en n/en n/en n/en n/en n/en n/en n/en n/en .../m ,/w qq/en _/0 36260974/m ,/w https://blog.csdn.net/qq_36260974/article/details/88096240/url ,/w 2019-03-03/t ,/w 245/m 次/a 阅读/v ,/w 焦点/n 分析/v |/0 沸腾/v 的/u 5/m G/m ：/w 华为/nz 三星/nz 们/k 嗨/e 了/dg ，/w 用户/n 却/d 还/d 没/d 来/u -/w 魏宇轩/nr ,/w 2019年03月03日 23:32:30/t ,/w 2019年03月01日 11:39:55/t ,/w 转/q 				焦点/n 分析/v |/0 沸腾/v 的/u 5/m G/m ：/w 华为/nz 三星/nz 们/k 嗨/e 了/dg ，/w 用户/n 却/d 还/d 没/d 来/u
+
+
+
+2019年03月01日 11:39:55/t
+CSDN/en 头条/n
+阅读/v 数/m ：3260/m
+
+
+
+
+
+
+
+
+
+
+
+本文/r 来自/v 36/m kr.com/url
+作者/n |/0 李振梁/nr
+编辑/n |/0 长/a 乐/a
+
+在/d MWC/en 现场/s ，/w 有/v 一个/mq 人时/nz 常/ag 穿着/n 胸前/s 印/jns 着/n “/w 5/m G/en is/en here/en ”/w 的/u T恤/n ，/w 不停/d 游走/v 在/d 各/r 大/a 终端/n 厂商/n 的/u 发布会/n 和/c 圆桌/n 论坛/nh ，/w 先后/d 为/p 小米/n 、/w OPPO/en 、/w 一/m 加/ng 站台/n ，/w 这个/r 人/n 是/v 高通/nz 总裁/n 阿蒙/n 。/w
+无处不在/l 的/u 阿蒙/n ，/w 就/d 像/n 一个/mq 行走/v 的/u 5/m G/m 吉祥物/n ，/w 成为/v MWC/en 上/f 5/m G/m 热潮/n 的/u 一个/mq 缩影/n 。/w
+终端/n 厂商/n 嗨/e 了/dg ，/w 用户/n 在/d 哪儿/r ？/w
+MWC/en 上/f 5/m G/m 声势/n 之/u 大/a ，/w 让/v AI/n 、/w IoT/en 、/w 无人/b 驾驶/v 都/d 成/ng 了/dg 它/r 的/u 配角/n 和/c 辅助/v 。/w 除了/p 折迭/n 屏/ng 意外/a 抢镜/a 外/f ，/w 并/c 没有/d 什么/r 主题/n 可/v 与/c 之/u 相提并论/iv 。/w
+今年/t MWC/en 前后/f ，/w 包括/v 三星/nz 、/w 华为/nz 、/w 小米/n 、/w LG/n 、/w 中兴/nz 在内/v 的/u 主流/n 厂商/n ，/w 都/d 发布/v 了/dg 可量/nz 产/ng 的/u 5/m G/m 手机/np 。/w OPPO/en 、/w 一/m 加/ng 也/d 展示/v 了/dg 5/m G/m 机型/n ，/w 将/d 在/d 上半年/t 推出/v 。/w 其中/r ，/w 三星/nz Galaxy/en S/en 10/m 、/w Galaxy/en Fold/en ，/w 以及/c 华为/nz Mate/en X/m 最/d 受/v 关注/v 。/w
+相比之下/lv ，/w 去年/t 只有/c 联想/v 发布/v 了/dg 一/m 款/n 支持/v 5/m G网/n 络/ng 的/u 智能机/n Moto/en Z/en 3/m ，/w 但是/c 模块化/v 设计/v 让/v 这/r 款/n 手机/np 厚度/n 达/ng 十几/mq 毫米/q ，/w 很/d 不便/a 携/v ，/w 因此/c 更多/n 地/n 是/v 试探/v 市场/ny 和/c 占据/v 营销/v 高地/n 的/u 作用/n 。/w
+
+三星/nz 的/u S/en 10/m 的/u 5/m G/m 版本/n
+在/d 此/r 之前/f ，/w 包括/v 高通/nz 、/w 英特尔/nz 、/w 三星/nz 、/w 华为/nz 、/w 联发科/nz 在内/v 的/u 芯片/n 大厂/n ，/w 都/d 已/d 推出/v 了/dg 商用/b 的/u 5/m G/m 基带/n 芯片/n 。/w 高通/nz 发布/v 的/u 骁/ag 龙/n 855/m 处理器/n （/w 可/v 外挂/v 5/m G/m 基带/n 芯片/n ）/w ，/w 已经/d 应用/v 在/d 三星/nz 、/w 小米/n 、/w OPPO/en 的/u 5/m G/m 手机/np 当中/f 。/w
+而/c 在/d 网络/n 一端/n ，/w 全球/n 运营商/n 也/d 展开/v 了/dg 5/m G/m 竞赛/v 。/w 联通/nz 终端/n 与/c 渠道/n 支撑/v 中心/nc 副总/b 经理/nx 陈丰伟/nr 表示/v ，/w 5/m G/m 比/p 预想/v 的/u 还要/v 快/a 还要/v 勐/ag 烈/a 一些/mq ，/w 从/p 这次/r MWC/en 可以/a 看出/v ，/w 全球/n 运营商/n 都/d 开始/v 来/u 真格的/a 了/dg 。/w
+5/m G/m 的/u 远景/n 也/d 令/ag 人/n 期待/v 。/w 刘作虎/nr 近日/t 提出/v 了/dg 5/m G/m 三/m 阶段/n ：2019年/t 到/ng 2021年/t ，/w 5/m G/m 带来/v 的/u 速率/n 提升/v 让/v 智能/n 手机/np 及/c 相关/v 应用/v 的/u 云端/n 化/k ，/w 催生/v 出/q 云游/v 戏/n 、/w 云/n 视频/n 和/c 云/n 购物/v 等/ng 应用/v 场景/n 。/w 第二/m 阶段/n ，/w 从/p 2021年/t 开始/v 到/ng 2025年/t 左右/f ，/w 随着/p AI/n 技术/n 的/u 成熟/a ，/w 5/m G/m 手机/np 将/d 连接/v 更多/n 的/u 智能/n 硬件/n ，/w 创造/n 出/q 全新/b 的/u 应用/v 场景/n 。/w 第三/m 阶段/n ，/w 2025年/t 至/d 2030年/t 的/u 5/m 年间/n ，/w 市场/ny 上/f 出现/v 各种各样/la 的/u 智能/n 设备/n ，/w 实现/v 真正/b 的/u 万物/n 互联/v 。/w
+一款款/qqy 5/m G/m 手机/np 计划/n 正/a 拉开/v 大幕/n 。/w
+但/c 5/m G/m 在/d 厂商/n 狂欢/v 和/c 终端/n 用户/n 的/u 感知/v 之间/f ，/w 隔/v 着/n 一道/n 鸿沟/n ：/w 应用/v 场景/n 。/w
+在/d MWC/en 现场/s 的/u 模拟/v 演示/v 当中/f ，/w 应用/v 场景/n 并/c 不/d 多/a 。/w 中兴/nz 和/c Verzion/en 在/d 自己/r 的/u 展台/n 展示/v 了/dg 5/m G/m 视频/n 通话/v ，/w LG/n 展示/v 了/dg 5/m G/m 的/u AR/n 应用/v 。/w 但/c 体验/v 并/c 无/v 特别/a 之/u 处/nc ，/w 基本/a 只是/c 展示/v 了/dg 视频/n 通话/v 、/w AR/n 是/v 能/ng 用/ng 的/u ，/w 5/m G网/n 络/ng 的/u 效果/n 并/c 没有/d 明显/a 的/u 体现/v 。/w
+这/r 也/d 折射/v 出/q 5/m G/m 现今/t 的/u 尴尬/a 之/u 处/nc 。/w
+按照/p 运营商/n 的/u 5/m G/m 时间表/n ，/w 今年/t 5/m G网/n 络/ng 只能/v 覆盖/v 一二/m 线/n 城市/n 的/u 部分/n 区域/n 。/w 由于/c 电池/np 、/w 天线/n 等/ng 设备/n 成本/n 上升/v ，/w 加上/v 设计/v 的/u 难度/n 更/d 大/a ，/w 5/m G/m 手机/np 会/n 变得/v 更/d 昂贵/a 。/w
+花/a 更多/n 的/u 钱/n ，/w 买/v 一个/mq 不怎么/ld 实用/a 的/u 5/m G/m 手机/np ，/w 消费者/n 很/d 难/a 买账/v 。/w 几秒/t 钟/n 下/f 个/q 电影/n 听/n 起来/v 酷炫/a ，/w 但/c 在/d 4G/n 网络/n 下/f 也/d 只需/n 几十/mq 秒/q ，/w 这/r 并/c 不是/n 能/ng 推动/v 消费者/n 接受/v 5/m G/m 的/u 场景/n 。/w
+此外/c ，/w 产业/n 的/u 上下游/n 也/d 需要/n 做/v 更多/n 的/u 准备/v 。/w 要/v 实现/v 5/m G/m ，/w 光/a 有/v 5/m G/m 手机/np 是/v 不够/a 的/u ，/w 还要/v 有/v 芯片/n 厂商/n 和/c 电信/n 运营商/n 的/u 支持/v 。/w
+一/m 位/q 资深/b 通信行业/n 从业者/n 告诉/v 36/m 氪/ng ，/w 今年/t 5/m G/m 产业/n 不会/v 起/q 量/n ，/w 还/d 不能/v 让/v 整个/b 产业链/n 条/ng 运转/v 起来/v 。/w
+聚焦/v 到/ng 中国/ns 市场/ny ，/w 5/m G/m 的/u 发展/v 还/d 会/n 慢/a 于/ng 海外/s 。/w 去年/t 年底/t ，/w 国内/s 才/d 确定/a 各家/r 运营商/n 的/u 频段/n ，/w 进度/n 会/n 慢/a 一些/mq 。/w
+联想/v 副总/b 裁/ng 、/w 中国区/n 移动/v 业务/n 负责人/n 常程/nr 直言/v ，/w 中国/ns 厂商/n 上半年/t 发/q 的/u 5/m G/m 手机/np ，/w 对/a 中国/ns 市场/ny 可能/a 更多/n 是/v 噱头/n 。/w “/w 因为/c 5/m G/m 分/b 两个/n 制式/n ，/w 第一/m 波/n 产品/n 还是/c 针对/v 海外/s ，/w 中国/ns 的/u 5/m G/m ，/w 按照/p 高通/nz 路线图/n 我/r 觉得/v 会/n 是在/n 下半年/t 。/w ”/w
+另/d 一/m 位/q 手机/np 终端/n 厂商/n 代表/nx ，/w OPPO/en 副总/b 裁/ng 、/w 中国/ns 大陆/n 事业部/n 总裁/n 沉/a 义/ng 人/n 则/c 表示/v ，/w OPPO/en 将/d 率先/d 在/d 欧洲/ns 市场/ny 正式/a 发布/v 5/m G/m 商用/b 手机/np 。/w
+/0
+5/m G/m 热潮/n 之下/f 的/u 生存/v 与/c 创新/v 恐慌/a
+/0
+5/m G/m 的/u 声浪/n 之/u 大/a ，/w 折射/v 出/q 整个/b 产业链/n 对/a 行业/n 拐点/n 的/u 期待/v 。/w 而/c 5/m G/m 手机/np 作为/n 目前/t 为数不多/la 接近/v 落地/v 的/u 主要/b 应用/v ，/w 却/d 在/d 一定/b 程度/n 上/f 折射/v 出手/n 机/np 厂商/n 生存/v 与/c 创新/v 的/u 恐慌/a 。/w
+常程/nr 认为/v ，/w 之所以/c 这次/r MWC/en 手机/np 噱头/n 这么/r 多/a ，/w 就是/n 因为/c 手机/np 产业/n 现在/t 已经/d 走/v 到/ng 没什么/l 可/v 玩/ng 的/u 阶段/n 。/w 这/r 会/n 迫使/v 产业链/n 更快/n 地/n 推动/v 5/m G/m 落地/v ，/w “/w 因为/c 大家/r 都/d 希望/n 有/v 个/q 新/a 东西/n 重新/d 回到/v 上升/v 通道/n 中/f 去/v ”/w 。/w
+从/p 这个/r 角度/n 讲/v ，/w 5/m G/m 手机/np 也好/y ，/w 折迭/n 屏/ng 也罢/y ，/w 都/d 具备/v 恐慌/a 式/k 创新/v 的/u 特点/n 。/w
+
+华为/nz 折迭/n 手机/np Mate/en X/m 展台/n 前人/n 满/a 为患/v
+市场/ny 逆风/n 让/v 厂商/n 有/v 了/dg 更多/n 紧迫感/n 。/w 多家/n 调查/n 机构/n 预测/v ，/w 全球/n 手机/np 市场/ny 会/n 继续/v 下滑/v ，/w 中国/ns 市场/ny 可能/a 还/d 会/n 双/m 位数/n 下跌/v 。/w 智能机/n 行业/n 马太/nz 效应/n 的/u 加剧/v ，/w 让/v 小/a 厂商/n 生存/v 更加/d 艰难/a ，/w 也/d 让/v 巨头/n 更加/d 直接/a 地/n 碰撞/v 。/w
+另一方面/ldm ，/w 在/d 全面/a 屏/ng 之后/f ，/w 智能机/n 行业/n 的/u 创新/v 尽/d 显/v 山穷水尽/ia 之/u 势/ng ，/w 同质化/vn 极其/d 严重/a 。/w 2018年/t ，/w 能/ng 让/v 消费者/n 感知/v 到/ng 的/u 创新/v 基本/a 都/d 集中/a 在/d 屏幕/n 上/f ，/w 包括/v OPPO/en 、/w vivo/en 的/u 升降/v 摄像头/n ，/w 荣耀/a 、/w 小米/n 的/u 滑盖/b 全面/a 屏/ng 。/w 行业/n 需要/n 新/a 的/u 亮点/n 刺激/v 用户/n 的/u 消费热/n 情/n 。/w
+因此/c ，/w 虽然/c 5/m G/m 手机/np 、/w 折迭/n 手机/np 都/d 面临/v 应用/v 场景/n 、/w 价格/n 高昂/a 的/u 问题/n ，/w 厂商/n 依然/d 在/d 不遗余力/iv 地/n 推动/v 、/w 宣传/v 。/w
+无论/c 商业/n 价值/n ，/w 还是/c 用户/n 体验/v 的/u 提升/v ，/w 5/m G/m 、/w 折迭/n 屏/ng 远景/n 可期/v 。/w 与此同时/ldm ，/w 两者/r 眼下/t 又/d 具备/v 营销/v 的/u 价值/n ，/w 可以/a 吸引/v 消费者/n 的/u 注意力/n 。/w
+手机/np 厂商/n 设计/v 手机/np 产品/n 时/n ，/w 需要/n 一些/mq 改观/v 和/c 亮点/n 来/u 撬动/v 消费者/n 的/u 换机/v 需求/n 。/w 冲击力/n 最/d 直接/a 的/u 是/v 外观/n 的/u 更新/v ，/w 比如/v 之前/f 的/u 全面/a 屏风/n 潮/a ，/w 手机/np 背板/n 的/u 渐变/v 色/n 。/w 三星/nz 、/w 华为/nz 的/u 折迭/n 屏/ng 手机/np 属于/v 此类/r 。/w 其次/c 是/v 技术/n 和/c 性能/n ，/w 比如/v 大家/r 都/d 关心/v 的/u 拍照/v 功能/n 、/w iPhone/en X/m 首发/n 的/u Face/en ID/n 。/w 5/m G/m 的/u 应用/v 就/d 属于/v 这/r 一类/b 。/w
+但/c 实际上/d ，/w 调查/n 机构/n 对/a 今年/t 5/m G/m 手机/np 的/u 销量/n 预测/v 并/c 不/d 乐观/a 。/w 德勤/nz 预测/v ，/w 2019年5/t G/m 手机/np 的/u 销量/n 在/d 100万/m 台/n ，/w 这/r 在/d 整个/b 智能机/n 大盘/n 中/f 不足/a 1%/m ，/w 到/ng 2020年/t 将/d 增长/v 至/d 1500万-2000万/t 台/n ，/w 不到/v 大盘/n 的/u 2%/m 。/w 也就是说/ldm ，/w 近/a 一两/m 年/n 出货/n 主力/n 还是/c 4G/n 手机/np 。/w
+在/d 生存/v 压力/n 和/c 创新/v 乏力/a 的/u 窘境/n 下/f ，/w 手机/np 厂商/n 们/k 急切/a 借势/v 5/m G/m 和/c 折迭/n 屏/ng ，/w 也/d 在/d 情理之中/ln 了/dg 。/w 不过/c ，/w 把/p 未来/t 的/u 东西/n 提前/v 炒作/v ，/w 势必/d 会/n 雷声大雨点小/lgv ，/w 落地/v 的/u 鸿沟/n 在所难免/iv 。/w ,/w 本文/r 来自/v 36/m kr.com/url ,/w ,/w ,/w ,/w ,/w

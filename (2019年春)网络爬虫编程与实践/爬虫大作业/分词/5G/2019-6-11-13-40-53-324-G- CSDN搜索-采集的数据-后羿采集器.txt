@@ -1,0 +1,115 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 频/ag 域/ng 资源/n ,/w 5/m G/m 频/ag 域/ng 资源/n nnnn/en 基本/a 概念/n 子/k 载波/n 间隔/n nn/en 子/k 载波/n 间隔/n 的/u 大小/n 对/a 相位/n 噪声/n 和/c 多普勒/n 频/ag 移/v 的/u 影响/v ，/w 决定/n 了/dg 最终/d 的/u 覆盖面/n 积/n 、/w 时延/j 大小/n 等/ng 因素/n ，/w 为了/p 支持/v 多种/a 频段/n 、/w 业务/n 类型/n 和/c 移动/v 速度/n ，/w 引入/v 了/dg 多种/a 子/k 载波/n 间隔/n 。/w ,/w zhangbijun/en 1230/m ,/w https://blog.csdn.net/zhangbijun1230/article/details/90762706/url ,/w 2019-06-04/t ,/w 102/m 次/a 阅读/v ,/w 5/m G/m 频/ag 域/ng 资源/n -/w zhangbijun/en 1230/m 的/u 专栏/n ,/w 2019年06月04日 09:07:31/t ,/w 5/m G/m 频/ag 域/ng 资源/n
+
+/0
+
+基本/a 概念/n 子/k 载波/n 间隔/n
+
+子/k 载波/n 间隔/n 的/u 大小/n 对/a 相位/n 噪声/n 和/c 多普勒/n 频/ag 移/v 的/u 影响/v ，/w 决定/n 了/dg 最终/d 的/u 覆盖面/n 积/n 、/w 时延/j 大小/n 等/ng 因素/n ，/w 为了/p 支持/v 多种/a 频段/n 、/w 业务/n 类型/n 和/c 移动/v 速度/n ，/w 引入/v 了/dg 多种/a 子/k 载波/n 间隔/n 。/w
+
+SCS/en 变化/v 趋势/n
+影响/v
+典型/a 场景/n
+SCS/en 较/d 小/a
+符号/n 长度/n 变/v 长/a
+覆盖/v 增大/v （/w 低频/b 段/n 大/a 覆盖/v ）/w
+SCS/en 较大/a
+多普勒/n 频/ag 移/v 影响/v 变小/v
+移动性/n 能/ng 增强/v （/w 超高速/b 移动/v ）/w
+SCS/en 较大/a
+符号/n 长度/n 变小/v
+时延/j 缩短/v （/w URLLC/en 高/a 可靠/a 低/a 时延/j 业务/n ）/w
+SCS/en 较大/a
+相位/n 噪声/n 变小/v
+性能/n 增强/v （/w 高频/b 段/n 大/a 带宽/n ）/w
+RB/n 相关/v
+
+RB/n 的/u 定义/n 为/p NRBscN/en _/0 {/0 sc/en }/0 ^/0 {/0 RB/en }/0 NscRB/en ​/0 =/0 12/m 个/q 在/d 频/ag 域/ng 上/f 连续/a 的/u 子/k 载波/n 。/w
+
+RG/en ，/w 对/a 每/r 一个/mq Numerology/en 和/c 载波/n ，/w 都/d 定义/n 了/dg 一个/mq 频/ag 域/ng Nsize/en ,/w μ/0 grid/en ,/w xNRBscN/en _/0 {/0 grid/en ,/w x/en }/0 ^/0 {/0 size/en ,/w \/0 mu/en }/0 N/en _/0 {/0 sc/en }/0 ^/0 {/0 RB/en }/0 Ngrid/en ,/w xsize/en ,/w μ/0 ​/0 NscRB/en ​/0 个子/n 载波/n 、/w 时域/n Nsubframe/en ,/w μ/0 symbN/en _/0 {/0 symb/en }/0 ^/0 {/0 subframe/en ,/w \/0 mu/en }/0 Nsymbsubframe/en ,/w μ/0 ​/0 个/q 符号/n 的/u RG/en （/w Resource/en
+Grid/en 资源网/n 格/n ）/w ，/w 且/c 起始/v 位置/n CRB/en 编号/n Nstart/en ,/w μ/0 gridN/en _/0 {/0 grid/en }/0 ^/0 {/0 start/en ,/w \/0 mu/en }/0 Ngridstart/en ,/w μ/0 ​/0  /0 由/p 高层/n 参数/n offsetToCarrier/en
+指示/n ，/w 载波/n 带宽/n Nsize/en ,/w μ/0 grid/en ,/w xN/en _/0 {/0 grid/en ,/w x/en }/0 ^/0 {/0 size/en ,/w \/0 mu/en }/0 Ngrid/en ,/w xsize/en ,/w μ/0 ​/0 由/p 高层/n 参数/n carrierBandwidth/en  /0 指示/n 。/w
+
+SCS/en -/w SpecificCarrier/en :/w :/w =/0 SEQUENCE/en {/0 offsetToCarrier/en INTEGER/en (/w 0..2199/m )/w ,/w subcarrierSpacing/en SubcarrierSpacing/en ,/w carrierBandwidth/en INTEGER/en (/w 1../m maxNrofPhysicalResourceBlocks/en )/w ,/w \/0 .../m ,/w \/0 [/w \/0 [/w txDirectCurrentLocation/en -/w v/en 1530/m INTEGER/en (/w 0..4095/m )/w OPTIONAL/en \/0 -/w -/w Need/en S/en \/0 ]/w \/0 ]/w }/0
+
+Point/en A/b 用作/v RG/en 的/u 公共/b 参考点/n ，/w 获得/v 的/u 方式/n 有/v 两/m 种/ng ：/w
+
+-/w
+对于/p PCell/en 下行/v 链路/n ，/w UE/en 用于/v 初始/n 小区/ny 选择/n 的/u SS/en //w PBCH/en 块/q 的/u 最低/a 资源/n 块/q 的/u 最低/a 子/k 载波/n 作为/n 参考/v 位置/n ，/w Point/en
+A/b 与/c 这个/r 参考/v 位置/n 之间/f 的/u 偏移/v 由/p 高层/n 参数/n offsetToPointA/en 定义/n 。/w 该/r 偏移/v 以/p RB/n 为/p 单位/n ，/w 假定/n FR/en 1/m 的/u 子/k 载波/n 间隔/n 为/p 15/m kHz/q ，/w FR/en 2/m 的/u 子/k 载波/n 间隔/n 为/p 60/m kHz/q 。/w
+
+FrequencyInfoDL/en -/w SIB/en :/w :/w =/0 SEQUENCE/en {/0 frequencyBandList/en MultiFrequencyBandListNR/en -/w SIB/en ,/w offsetToPointA/en INTEGER/en (/w 0..2199/m )/w ,/w scs/en -/w SpecificCarrierList/en SEQUENCE/en (/w SIZE/en (/w 1../m maxSCSs/en )/w )/w OFSCS/en -/w SpecificCarrier/en }/0
+
+-/w 对于/p 其他/r 情况/n ，/w 使用/v 高层/n 参数/n absoluteFrequencyPointA/en
+，/w 指/ng 以/p ARFCN/en 表示/v 的/u Point/en A/b 的/u 绝对/a 频/ag 域/ng 位置/n 。/w
+
+FrequencyInfoDL/en :/w :/w =/0 SEQUENCE/en {/0 absoluteFrequencySSB/en ARFCN/en -/w ValueNR/en OPTIONAL/en ,/w \/0 -/w -/w Cond/en SpCellAdd/en frequencyBandList/en MultiFrequencyBandListNR/en ,/w absoluteFrequencyPointA/en ARFCN/en -/w ValueNR/en ,/w scs/en -/w SpecificCarrierList/en SEQUENCE/en (/w SIZE/en (/w 1../m maxSCSs/en )/w )/w OFSCS/en -/w SpecificCarrier/en ,/w \/0 .../m }/0
+
+absoluteFrequencyPointA/en  /0 包含/v 在在/a FrequencyInfoDL/en 、/w FrequencyInfoUL/en
+、/w FrequencyInfoUL/en -/w SIB/en 这/r 几/m 个/q IE/n 中/f ，/w 对应/v 了/dg PCell/en 上行/v 、/w SCell/en 上/f //w 下行/v 、/w SUL/en 等/ng 情况/n 。/w
+
+Common/en RB/n 在/d 频/ag 域/ng 中/f 从/p 0/m 开始/v 向上/v 编号/n ，/w 0/m 号/n CRB/en 的/u 0/m 号子/n 载波/n 的/u 中心/nc 和/c Point/en
+A/b 一致/a 。/w 对于/p 子/k 载波/n 间隔/n 配置/n μ/0 \/0 mu/en μ/0 ，/w CRB/en 编号/n n/n μ/0 CRBn/en _/0 {/0 CRB/en }/0 ^/0 \/0 munCRB/en μ/0 ​/0 在/d 频/ag 域/ng 上/f 与/c RE/en (/w k/en ,/w l/en )/w 的/u 关系/n 是/v
+n/n μ/0 CRB/en =/0 ⌊/0 kNRBsc/en ⌋/0 n/en _/0 {/0 CRB/en }/0 ^/0 \/0 mu/en =/0 \/0 lfloor/en \/0 frac/en {/0 k/en }/0 {/0 N/en _/0 {/0 sc/en }/0 ^/0 {/0 RB/en }/0 }/0 \/0 rfloornCRB/en μ/0 ​/0 =/0 ⌊/0 NscRB/en ​/0 k/n ​/0 ⌋/0
+其中/r k/n 是/v 相对/b 于/ng Point/en A/b 定义/n 的/u ，/w 这样的话/l ，/w k/en =/0 0/m 相当于/v 以/p Point/en A/b 为/p 中心/nc 的/u 子/k 载波/n 。/w
+
+Physical/en RB/n 是/v BWP/en （/w Bandwidth/en
+part/en ）/w 内/f 的/u 定义/n ，/w 在/d BWP/en 中/f 从/p 0/m 开始/v 编号/n ，/w 到/ng NsizeBWP/en ,/w i/n −/0 1/m N/en _/0 {/0 BWP/en ,/w i/en }/0 ^/0 {/0 size/en }/0 -/w 1/m NBWP/en ,/w isize/en ​/0 −/0 1/m 结束/v 。/w 其中/r i/n 是/v BWP/en 的/u 编号/n 。/w 在/d i/n 号/n BWP/en 的/u PRB/en 编号/n nPRBn/en _/0 {/0 PRB/en }/0 nPRB/en ​/0 和/c CRB/en 编号/n nCRBn/en _/0 {/0 CRB/en }/0 nCRB/en ​/0 之间/f 的/u 关系/n 为/p
+nCRB/en =/0 nPRB/en +/0 NstartBWP/en ,/w in/en _/0 {/0 CRB/en }/0 =/0 n/en _/0 {/0 PRB/en }/0 +/0 N/en _/0 {/0 BWP/en ,/w i/en }/0 ^/0 {/0 start/en }/0 nCRB/en ​/0 =/0 nPRB/en ​/0 +/0 NBWP/en ,/w istart/en ​/0
+其中/r NstartBWP/en ,/w iN/en _/0 {/0 BWP/en ,/w i/en }/0 ^/0 {/0 start/en }/0 NBWP/en ,/w istart/en ​/0 是/v i/n 号/n BWP/en 的/u 起始/v 位置/n 相对/b 于/ng 0/m 号/n CRB/en 的/u CRB/en 数/m 。/w
+
+BWP/en
+
+BWP/en ，/w 英文名称/n bandwidth/en
+part/en ，/w 顾名思义/iv ，/w 指/ng 部分/n 带宽/n 。/w 在/d 5/m G/m 中/f ，/w UE/en 的/u 接收/v 和/c 发送/v 带宽/n 不/d 需要/n 和/c 小区/ny 带宽/n 一样/a 大/a ，/w 而/c 可以/a 调整/v 诸如/v 带宽/n 、/w 位置/n 、/w 以及/c 子/k 载波/n 间隔/n 。/w 引入/v BWP/en 的/u 目的/n 是/v 基于/p 多个/n 原因/n ，/w 如/c ：/w 支持/v 小带/nz 宽/a 终端/n 、/w 省/ny 电/n 、/w 支持/v 不同/a 的/u Numerology/en 等/ng 。/w
+
+
+
+在/d 38.213/m 讲解/v BWP/en 操作/v 的/u 章节/n 中/f ，/w 涉及/v 了/dg 以下/f 几/m 种类/n 型/k 的/u BWP/en ：/w
+
+Initial/en BWP/en ，/w UE/en 通过/p 搜索/n SSB/en ，/w 获取/v SSB/en 的/u 频/ag 域/ng 位置/n ，/w 然后/c 解调/v PBCH/en 这/r 一系列/b 操作/v ，/w 来/u 确定/a initial/en DL/en BWP/en ，/w 然后/c 接收/v SIB/en 1/m ，/w 在/d SIB/en 1/m 的/u ServingCellConfigCommonSIB/en 中/f 配置/n 了/dg initialUplinkBWP/en ，/w 从而/c 确定/a initial/en UL/en BWP/en 。/w
+
+Dedicated/en BWP/en ，/w 在/d RRC/en 连接/v 态/ng 配置/n ，/w UE/en 最/d 多/a 可以/a 在/d 上下行/j 各自/r 配置/n 4/m 个/q BWP/en ，/w 通过/p downlinkBWP/en -/w ToAddModList/en 和/c uplinkBWP/en -/w ToAddModList/en 来/u 配置/n 。/w 高层/n 还/d 可以通过/n firstActiveDownlinkBWP/en -/w Id/n 来/u 为/p UE/en 配置/n 第一/m 个/q 激活/v 的/u DL/en BWP/en 用于/v 接收/v ，/w 通过/p firstActiveUplinkBWP/en -/w Id/n 来/u 为/p UE/en 配置/n 第一/m 个/q 激活/v 的/u UL/en BWP/en 用于/v 发送/v 。/w
+
+对于/p 每/r 一个/mq BWP/en ，/w 需要/n 配置/n 给/v UE/en 的/u 参数/n 有/v ：/w
+
+
+子/k 载波/n 间隔/n ，/w 由/p 高层/n 参数/n subcarrierSpacing/en 配置/n
+
+
+CP/n ，/w 由/p 高层/n 参数/n cyclicPrefix/en 配置/n
+
+
+BWP/en 的/u 频/ag 域/ng 位置/n 和/c 带宽/n ，/w 由/p 高层/n 参数/n locationAndBandwidth/en 配置/n ，/w 这个/r 参数/n 应该/v 理解/v 为/p 38.214中/t 的/u RIV/en (/w resource/en indication/en value/en ）/w ，/w RIV/en 相当于/v 一个/mq 起始/v 资源/n 块/q （/w RBstartRB/en _/0 {/0 start/en }/0 RBstart/en ​/0 ）/w 和/c 一个/mq 连续/a 分配/v 的/u 资源/n 块/q 的/u 长度/n （/w LRBsL/en _/0 {/0 RBs/en }/0 LRBs/en ​/0 ）/w ，/w 具体/a 定义/n 如下/v
+
+
+
+公式/n 中/f 的/u NsizeBWPN/en _/0 {/0 BWP/en }/0 ^/0 {/0 size/en }/0 NBWPsize/en ​/0 被/ng 设置/v 为/p 275/m ，/w 由/p 高层/n 参数/n  /0 offsetToCarrier/en
+和/c subcarrierSpacing/en 指示/n
+
+
+DL/en BWP/en 或/c UL/en BWP/en 的/u 索引/n ，/w 由/p 高层/n 参数/n bwp/en -/w Id/n 配置/n */w 。/w */w
+
+
+由/p BWP/en -/w common/en 或/c BWP/en -/w dedicated/en 指定/v 的/u 一/m 组/n 公共/b 或/c 专用/v BWP/en
+
+下面/f 是以/c DL/en BWP/en 为/p 例/n 的/u 高层/n 配置/n 参数/n ，/w 见/v 38.331：/t
+
+BWP/en :/w :/w =/0 SEQUENCE/en {/0
+
+locationAndBandwidth/en INTEGER/en (/w 0..37949/m )/w ,/w subcarrierSpacing/en SubcarrierSpacing/en ,/w cyclicPrefix/en ENUMERATED/en {/0 extended/en }/0 OPTIONAL/en \/0 -/w -/w Need/en R/en }/0 BWP/en -/w Downlink/en :/w :/w =/0 SEQUENCE/en {/0 bwp/en -/w Id/en BWP/en -/w Id/en ,/w bwp/en -/w Common/en BWP/en -/w DownlinkCommon/en OPTIONAL/en ,/w \/0 -/w -/w Cond/en SetupOtherBWP/en bwp/en -/w Dedicated/en BWP/en -/w DownlinkDedicated/en OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en \/0 .../m }/0 BWP/en -/w DownlinkCommon/en :/w :/w =/0 SEQUENCE/en {/0 genericParameters/en BWP/en ,/w pdcch/en -/w ConfigCommon/en SetupRelease/en {/0 PDCCH/en -/w ConfigCommon/en }/0 OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en pdsch/en -/w ConfigCommon/en SetupRelease/en {/0 PDSCH/en -/w ConfigCommon/en }/0 OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en \/0 .../m }/0 BWP/en -/w DownlinkDedicated/en :/w :/w =/0 SEQUENCE/en {/0 pdcch/en -/w Config/en SetupRelease/en {/0 PDCCH/en -/w Config/en }/0 OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en pdsch/en -/w Config/en SetupRelease/en {/0 PDSCH/en -/w Config/en }/0 OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en sps/en -/w Config/en SetupRelease/en {/0 SPS/en -/w Config/en }/0 OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en radioLinkMonitoringConfig/en SetupRelease/en {/0 RadioLinkMonitoringConfig/en }/0 OPTIONAL/en ,/w \/0 -/w -/w Need/en M/en \/0 .../m }/0
+
+Active/en BWP/en ，/w UE/en 在/d 某/r 时刻/d 只能/v 激活/v 一个/mq Dedicated/en
+BWP/en 。/w 激活/v 的/u 方式/n 有/v 接收/v 高层/n 配置/n 的/u firstActiveDownlinkBWP/en -/w Id/n 和/c */w firstActiveUplinkBWP/en -/w Id/n ；/w */w 还有/v 收到/v DCI/n
+format/en 1/m _/0 1/m ，/w 根据/n 其中/r 指示/n ，/w 从/p 给/v UE/en 配置/n 的/u DL/en BWP/en 集中/a ，/w 激活/v DL/en BWP/en ，/w 收到/v DCI/n
+format/en 0/m _/0 1/m ，/w 根据/n 其中/r 指示/n 激活/v UL/en BWP/en 。/w
+
+Default/en
+BWP/en ，/w 协议/n 提供/v 了/dg 参数/n defaultDownlinkBWP/en -/w Id/n 来/u 给/v UE/en 配置/n 一个/mq 默认/v 的/u DL/n
+BWP/en ，/w 如果/c 高层/n 没有/d 配置/n 这个/r 参数/n ，/w 则/c UE/en 认为/v initial/en DL/en BWP/en 就是/n 默认/v 的/u DL/en BWP/en 。/w
+
+协议/n 还/d 提供/v 了/dg 一个/mq 定时器/n bwp/en -/w InactivityTimer/en ，/w 供/ng DL/n
+BWP/en 跳转/v 使用/v ，/w 在/d 激活/v 了/dg 某个/r DL/n
+BWP/en 时/n ，/w 启动/v 该/r 定时器/n ，/w 定时器/n 超时/v 后/f ，/w 跳转/v 到/ng defaultDownlinkBWP/en ，/w 如果/c 没有/d 配置/n defaultDownlinkBWP/en ，/w 则/c 跳转/v 到/ng initialDownlinkBWP/en 。/w
+
+下图/n 展示/v 了/dg BWP/en 的/u 运转/v 过程/n ：/w ,/w ,/w ,/w ,/w ,/w

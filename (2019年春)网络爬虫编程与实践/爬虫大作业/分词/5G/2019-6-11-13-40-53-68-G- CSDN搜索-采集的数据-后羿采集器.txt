@@ -1,0 +1,106 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 简介/n ,/w 参考文献/n nn/en 别/d 给/v 我/r 整/a 那么/c 多/a 热词/n ，/w 5/m G/m 早/a 这么/r 解释/v 不/d 就/d 都/d 明白/a 了/dg nn/en 先来/nz 看/u 一个/mq 公式/n  /0 ,/w 即/c 光速/n =/0 波长/n */w 频率/n nn/en 对于/p 这个/r 公式/n ，/w 可以/a 这么/r 说/ag ：/w 无论/c 是/v 1G/n 、/w 2G/n 、/w 3G/n ，/w 还是/c 4G/n 、/w 5/m G/m ，/w 万变不离其宗/iv ，/w 全部/mq 都/d 是在/n 它/r 身上/s 做文章/v nn/en 通信技术/n ，/w 归根到底/ldm ，/w 就/d ——/w 有线通信/ln 和/c 无线通信/ln nn/en 在/d 有线/b 介质/n 上传/v 播/v 数据/n ，/w 速率/n 可以/a 达到/v 很/d 高/a 的/u 数值/n 。/w ,/w u/en 013747798/m ,/w https://blog.csdn.net/u013747798/article/details/86079064/url ,/w 2019-01-08/t ,/w 785/m 次/a 阅读/v ,/w 5/m G/m 简介/n -/w cywdm/en 5/m ,/w 2019年01月08日 16:23:08/t ,/w 参考文献/n
+
+别/d 给/v 我/r 整/a 那么/c 多/a 热词/n ，/w 5/m G/m 早/a 这么/r 解释/v 不/d 就/d 都/d 明白/a 了/dg
+
+先来/nz 看/u 一个/mq 公式/n  /0 ,/w 即/c 光速/n =/0 波长/n */w 频率/n
+
+对于/p 这个/r 公式/n ，/w 可以/a 这么/r 说/ag ：/w 无论/c 是/v 1G/n 、/w 2G/n 、/w 3G/n ，/w 还是/c 4G/n 、/w 5/m G/m ，/w 万变不离其宗/iv ，/w 全部/mq 都/d 是在/n 它/r 身上/s 做文章/v
+
+通信技术/n ，/w 归根到底/ldm ，/w 就/d ——/w 有线通信/ln 和/c 无线通信/ln
+
+在/d 有线/b 介质/n 上传/v 播/v 数据/n ，/w 速率/n 可以/a 达到/v 很/d 高/a 的/u 数值/n 。/w 以/p 光纤/n 为/p 例/n ，/w 在/d 实验室/nc 中/f ，/w 单条/b 光纤/n 最大/a 速度可达/n 26/m Tbps/en
+
+而/c 空中/s 传播/v 这部分/mq ，/w 才/d 是/v 移动通信/ln 的/u 瓶颈/n
+
+目前/t 主流/n 的/u 移动通信/ln 标准/a 是/v 4/m G/en LTE/en ，/w 理论/n 速率/n 只/bg 150/m Mbps/en (/w 不/d 包括/v 载波/n 聚合/v )/w
+
+所以/c ，/w 5/m G/m 如果/c 要/v 实现/v 端/ag 到/ng 端的/n 高速/b 率/ag ，/w 重点/d 是/v 突破/v 无线/b 瓶颈/n
+
+众所周知/iv ，/w 无线通信/ln 就是/n 利用/v 电磁波/n 进行/v 通信/v 。/w 电波/n 和光/nz 波/n ，/w 都/d 属/ng 电磁波/n
+
+电磁波/n 的/u 功能/n 特性/n ，/w 是由/n 它/r 的/u 频率/n 决定/n 的/u 。/w 不同/a 频率/n 的/u 电磁波/n ，/w 有/v 不同/a 的/u 属性/n 特点/n ，/w 从而/c 有/v 不同/a 的/u 用途/n
+
+
+
+
+
+我们/r 目前/t 主要/b 使用/v 电波/n 通信/v 。/w 当然/b ，/w 光波/n 通信/v 也/d 在/d 崛起/v ，/w 例如/v LiFi/en (/w Light/en Fidelity/en ,/w 可见光/n 通信/v )/w
+
+电波/n 的/u 频率/n 资源/n 是/v 有限/a 的/u ,/w 为/p 避免/v 干扰/v 和/c 冲突/v ，/w 我们/r 在/d 电波/n 这/r 条/ng 公路/n 上进/a 一/m 步/n 划分/v 车道/n ，/w 分配/v 给/v 不同/a 的/u 对象/n 和/c 用途/n
+
+/0
+
+
+
+请/v 注意/v 上面/f 图中/nz 的/u 红色/n 字体/n 。/w 一直/d 以来/f ，/w 我们/r 主要/b 是/v 用/ng 中频/b ~/w 超高频/n 进行/v 手机/np 通信/v 的/u
+
+例如/v 经常/d 说/ag 的/u “/w GSM/en 900/m ”/w 、/w “/w CDMA/en 800/m ”/w ，/w 其实/d 意思/n 就是/n 指/ng ，/w 工作/n 频段/n 在/d 900/m MHz/q 的/u GSM/n ，/w 和/c 工作/n 频段/n 在/d 800/m MHz/q 的/u CDMA/n
+
+目前/t 全球/n 主流/n 的/u 4/m G/en LTE/en 技术标准/n ，/w 属于/v 特/ag 高频/b 和超/nr 高频/b
+
+我们/r 国家/n 主要/b 使用/v 超高频/n ：/w 随着/p 1G/n 、/w 2G/n 、/w 3G/n 、/w 4G/n 的/u 发展/v ，/w 使用/v 的/u 电波/n 频率/n 是/v 越来越/d 高/a 的/u
+
+因为/c 频率/n 越/d 高/a ，/w 能/ng 使用/v 的/u 频率/n 资源/n 越/d 丰富/a 。/w 频率/n 资源/n 越/d 丰富/a ，/w 能/ng 实现/v 的/u 传输/v 速率/n 就/d 越/d 高/a
+
+那么/c ，/w 5/m G/m 使用/v 的/u 频率/n 具体/a 是/v 多少/r 呢/ng ?/w  /0 5/m G/m 的/u 频率/n 范围/n 分/b 两/m 种/ng ：/w 一/m 种/ng 是/v 6/m GHz/q 以下/f ，/w 这个/r 和/c 目前/t 我们/r 的/u 2/3/4/t G/m 差别/n 不算/v 太/ag 大/a 。/w 还有/v 一/m 种/ng ，/w 就/d 很/d 高/a 了/dg ，/w 在/d 24/m GHz/q 以上/f 目前/t ，/w 国际/n 上/f 主要/b 使用/v 28/m GHz/q 进行/v 试验/v (/w 这个/r 频段/n 也/d 有/v 可能/a 成为/v 5/m G/m 最先/d 商用/b 的/u 频段/n )/w
+
+如果/c 按/p 28/m GHz/q 来/u 算/d ，/w 根据/n 前文/n 我们/r 提到/v 的/u 公式/n ：/w
+
+,/w 这不/l 就是/n “/w 毫米波/n ”/w 么/ng
+
+好/a 了/dg ，/w 既然/c ，/w 频率/n 高/a 这么/r 好/a ，/w 你/r 一定/b 会/n 问/v ：/w “/w 为什么/r 以前/f 我们/r 不用/d 高频/b 率/ag 呢/ng ?/w ”/w
+
+原因/n 很/d 简单/a ——/w 不是/n 不想/v 用/ng ，/w 而是/n 用/ng 不/d 起/q
+
+电磁波/n 的/u 显/v 着/n 特点/n ：/w 频率/n 越/d 高/a ，/w 波长/n 越/d 短/a ，/w 越/d 趋近/v 于/ng 直线/d 传播/v (/w 绕/v 射/v 能力/n 越/d 差/a )/w 。/w 频率/n 越/d 高/a ，/w 在/d 传播/v 介质/n 中/f 的/u 衰减/v 也/d 越/d 大/a
+
+你/r 看/u 激光/n 笔/n (/w 波长/n 635/m nm/n 左右/f )/w ，/w 射/v 出/q 的/u 光是/v 直/a 的/u 吧/y ，/w 挡住/v 了/dg 就/d 过不去/v 了/dg
+
+再/d 看/u 卫星通信/ln 和/c GPS/en 导航/v (/w 波长/n 1/m cm/n 左右/f )/w ，/w 如果/c 有/v 遮挡/v 物/ng ，/w 就/d 没/d 信号/n 了/dg
+
+卫星/n 那/c 口/n 大锅/n ，/w 必须/d 校准/v 瞄/v 着/n 卫星/n 的/u 方向/n ，/w 否则/c 哪怕/c 稍微/d 歪/a 一点/mq ，/w 都/d 会/n 影响/v 信号/n 质量/n
+
+移动通信/ln 如果/c 用/ng 了/dg 高频/b 段/n ，/w 那么/c 它/r 最大/a 的/u 问题/n ，/w 就是/n 传输/v 距离/n 大幅/a 缩短/v ，/w 覆盖/v 能力/n 大幅/a 减弱/v
+
+覆盖/v 同一个/b 区域/n ，/w 需要/n 的/u 5/m G/m 基站/n 数量/n ，/w 将/d 大大/a 超过/v 4G/n
+
+基站/n 数量/n 意味着/v 什么/r ?/w 钱/n 啊/y !/w 投资/n 啊/y !/w 成本/n 啊/y !/w
+
+频率/n 越/d 低/a ，/w 网络建设/n 就/d 越/d 省钱/a ，/w 竞争/v 起来/v 就/d 越/d 有利/a 。/w 这/r 就是/n 为什么/r ，/w 这些年/t ，/w 电信/n 、/w 移动/v 、/w 联通/nz 为了/p 低频/b 段而/nr 争得/v 头破血流/iv
+
+有的/r 频段/n 甚至/c 被/ng 称为/v ——/w 黄金/n 频段/n
+
+这/r 也/d 是/v 为什么/r ，/w 5/m G/m 时代/n ，/w 运营商/n 拼命/d 怼/vg 设备/n 商/n ，/w 希望/n 基站/n 降价/v
+
+所以/c ，/w 基于/p 以上/f 原因/n ，/w 在/d 高频/b 前提/n 下/f ，/w 为/p 减轻/v 网络建设/n 方面/n 的/u 成本/n 压力/n ，/w 5/m G/m 必须/d 寻找/v 新/a 的/u 出路/n
+
+出路/n 有/v 哪些/r 呢/ng ?/w
+
+首先/c ，/w 就是/n 微/ag 基站/n 。/w 基站/n 有/v 两/m 种/ng ，/w 微/ag 基站/n 和/c 宏基/nz 站/ny 。/w 看/u 名字/n 就/d 知道/v ，/w 微/ag 基站/n 很小/d ，/w 宏基/nz 站/ny 很大/a
+
+其实/d ，/w 微/ag 基站/n 现在/t 就/d 有/v 不少/mq ，/w 尤其/d 是/v 城区/n 和/c 室内/s ，/w 经常/d 能/ng 看到/v 。/w 以后/f ，/w 到/ng 了/dg 5/m G/m 时代/n ，/w 微/ag 基站/n 会/n 更多/n ，/w 到处/d 都/d 会/n 装/ng 上/f ，/w 几乎/d 随处可见/lv
+
+那么/c 多/a 基站/n 在/d 身边/s ，/w 会不会/vbv 对/a 人体/n 造成/v 影响/v ?/w 不会/v 。/w 与/c 传统/a 认知/v 恰好/d 相反/v ，/w 事实上/ldm ，/w 基站/n 数量/n 越多/nz ，/w 辐射/n 反而/d 越/d 小/a !/w 你/r 想/v 一下/d ，/w 冬天/t ，/w 一群/nz 人/n 的/u 房子/n 里/f ，/w 一个/mq 大功率/b 取暖器/n 好/a ，/w 还是/c 几/m 个/q 小/a 功率/n 取暖器/n 好/a ?/w
+
+还有/v 就是/n ，/w 天线/n 去/v 哪/r 了/dg ?/w  /0 以前/f 大哥大/n 都/d 有/v 很/d 长/a 的/u 天线/n ，/w 早期/f 的/u 手机/np 也/d 有/v 突出/a 来/u 的/u 小/a 天线/n ，/w 为什么/r 现在/t 我们/r 的/u 手机/np 都/d 没有/d 天线/n 了/dg ?/w  /0  /0 其实/d ，/w 我们/r 并/c 不是/n 不/d 需要/n 天线/n ，/w 而是/n 我们/r 的/u 天线/n 变小/v 了/dg 。/w 根据/n 天线/n 特性/n ，/w 天线/n 长度/n 应/ng 与/c 波长/n 成/ng 正比/n ：/w
+
+
+
+/0
+
+这/r 就/d 意味着/v ，/w 天线/n 完全/a 可以/a 塞/ng 进/ng 手机/np ，/w 甚至/c 可以/a 塞/ng 很多/mq 根/n
+
+Massive/en MIMO/en (/w 多天/nz 线/n 技术/n )/w
+
+MIMO/en 就是/n “/w 多进/nz 多/a 出/q ”/w (/w Multiple/en -/w Input/en Multiple/en -/w Output/en )/w ，/w 多根/mq 天线/n 发送/v ，/w 多根/mq 天线/n 接收/v
+
+在/d LTE/en 时代/n ，/w 就/d 已经/d 有/v MIMO/en 了/dg ，/w 但/c 天线/n 数量/n 并/c 不/d 多/a ，/w 只能/v 说是/n 初级/b 版/n
+
+到/ng 了/dg 5/m G/m 时代/n ，/w 继续/v 把/p MIMO/en 技术/n 发扬光大/iv ，/w 现在/t 变成/v 了/dg 加强/v 版/n 的/u Massive/en 　MIMO/en
+
+
+
+5/m G/m 时代/n ，/w 天线/n 数量/n 不是/n 按/p 根/n 来/u 算了/v ，/w 是/v 按/p “/w 阵/ng ”/w “/w 天线/n 阵列/n ”/w
+
+不过/c ，/w 天线/n 之间/f 的/u 距离/n 也/d 不能/v 太/ag 近/a 。/w 因为/c 天线/n 特性/n 要求/n ，/w 多天/nz 线/n 阵列/n 要求/n 天线/n 间/f 的/u 距离/n 保持/v 在/d 半/m 个/q 波长/n 以上/f 。/w 如果/c 距离/n 近/a 了/dg ，/w 就/d 会/n 互相/d 干扰/v ，/w 影响/v 信号/n 收发/n ,/w ,/w ,/w ,/w ,/w

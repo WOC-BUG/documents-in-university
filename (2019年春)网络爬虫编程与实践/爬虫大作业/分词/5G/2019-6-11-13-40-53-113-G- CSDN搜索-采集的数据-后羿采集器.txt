@@ -1,0 +1,34 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 简介/n ,/w 3/m GPP/en 定义/n ：/w  /0  /0 nn/en 3/m GPP/en 从/p Rel.15/url 开始/v 定义/n 5/m G/m 标准/a ，/w 分为/v 支持/v 4/m G/en EPC/n 演进/v 的/u NSA/n （/w Not/en StandAlone/en ）/w ，/w 和/c 5/m G/en NR/en (/w New/en Radio/en )/w 模式/n 。/w 3/m GPP/en 将/d 5/m G/m 标准分/n 成/ng 2/m 个/q 大/a 的/u 阶段/n 来/u 完成/v ，/w 第一/m 个/q 是/v Release/en 15/m ，/w 主要/b 面向/v eMBB/en 场景/n ，/w 包括/v ：/w NSA/n （/w Non/en -/w Standalone/en ,/w 非独/c 立/d 组网/n ）/w 和/c SA/n （/w Standalone/en ，/w 独立/a 组网/n ）/w 两个/n 阶段/n 。/w 独立/a 组网/n 标准/a 就是/n 使用/v 5/m G/en N/en .../m ,/w xlfdzh/en 2359/m ,/w https://blog.csdn.net/xlfdzh2359/article/details/83184523/url ,/w 2018-10-19/t ,/w 484/m 次/a 阅读/v ,/w 5/m G/m 简介/n -/w xlfdzh/en 2359/m 的/u 博客/n ,/w 2018年10月19日 16:48:45/t ,/w 3/m GPP/en 定义/n ：/w  /0  /0
+
+3/m GPP/en 从/p Rel.15/url 开始/v 定义/n 5/m G/m 标准/a ，/w 分为/v 支持/v 4/m G/en EPC/n 演进/v 的/u NSA/n （/w Not/en StandAlone/en ）/w ，/w 和/c 5/m G/en NR/en (/w New/en Radio/en )/w 模式/n 。/w 3/m GPP/en 将/d 5/m G/m 标准分/n 成/ng 2/m 个/q 大/a 的/u 阶段/n 来/u 完成/v ，/w 第一/m 个/q 是/v Release/en 15/m ，/w 主要/b 面向/v eMBB/en 场景/n ，/w 包括/v ：/w NSA/n （/w Non/en -/w Standalone/en ,/w 非独/c 立/d 组网/n ）/w 和/c SA/n （/w Standalone/en ，/w 独立/a 组网/n ）/w 两个/n 阶段/n 。/w 独立/a 组网/n 标准/a 就是/n 使用/v 5/m G/en NR/n 以及/c 5/m G/m 核心/n 网/n ，/w 将/d 在/d 2018年6月/t 完成/v ；/w 第二/m 个/q 是/v Release/en 16/m ，/w 将/d 在/d 2019年12月/t 完成/v ，/w 主要/b 面向/v uRLLC/en 和/c mMTC/en 两/m 大/a 场景/n 。/w
+
+带宽/n 的/u 变化/v ：/w  /0
+
+/0  /0  /0 5/m G/m 定义/n 了/dg 新/a 的/u 频段/n C/en -/w Band/en 和/c 毫米波/n 频段/n ,/w 频谱/n 范围/n 为/p 3.3/m GHz-4.2GHz/url ，/w 4.4/m GHz-5.0GHz/url ）/w 和/c 毫米波/n 频段/n 26/m GHz/en //w 28/m GHz/en //w 39/m GHz/q ，/w C/en -/w band/en 上/f 最大/a 支持/v 100/m MHz/q ，/w 在/d 毫米波/n 上/f 最大/a 支持/v 400/m MHz/q
+
+终端/n 的/u 变化/v ：/w
+
+/0  /0  /0 从/p 传统/a 的/u 2/m 天线/n 演进/v 成/ng 4/m 天线/n 甚至/c 更多/n ，/w 从而/c 增大/v 了/dg 复用/v 层/n 数/m 。/w
+
+上下行/j 解耦/n ：/w
+
+/0  /0  /0 3/m GPP/en 中/f 的/u 正式/a 名称/n 是/v LTE/en -/w NR/en UL/en coexistence/en ，/w 用/ng LTE/en 低频/b 空闲/n 频谱/n 共享/v 给/v NR/n 上行/v 使用/v ，/w 既/c 弥补/v 了/dg C/en -/w Band/en 以及/c 高频/b 在/d 上行/v 覆盖/v 上/f 的/u 不足/a ，/w 又/d 充分/a 利用/v 了/dg LTE/en 空闲/n 频谱/n 的/u 无线/b 资源/n ，/w 解决/v 了/dg 5/m G/m 上行/v 覆盖/v 不足/a 的/u 问题/n 。/w
+
+全新/b 的/u 物理层/n 架构/n ：/w
+
+新/a 的/u 波形/n ：/w
+
+/0  /0  /0  /0  /0 LTE/en 下行/v 支持/v CP/en -/w OFDM/n （/w 没有/d DFT/en 预/d 变换/v ）/w 波形/n ，/w 上行/v 仅/d 支持/v DFT/en -/w s/en -/w OFDM/n 的/u 波形/n 。/w NR/n 在/d 此/r 基础/n 上/f 在/d 上行/v 也/d 引入/v 了/dg CP/en -/w OFDM/n 的/u 波形/n ，/w 可以/a 支持/v 更加/d 灵活/a 的/u 数据/n 调度/n ，/w 提高/v 了/dg 频谱/n 利用率/n 。/w
+
+更多/n 的/u 口/n 空设/nz 置/v ：/w
+
+/0  /0  /0 5/m G/m 中/f 支持/v 更多/n 的/u 子/k 载波/n 间隔/n ，/w 以及/c 更多/n 的/u 子/k 帧/q 配置/n
+
+全新/b 的/u 信道/n 编码/n ：/w
+
+/0  /0  /0  /0 5/m G/en NR/n 采用/v 了/dg 全新/b 的/u 信道/n 编码/n 方式/n ，/w 即/c 数据/n 信道/n 用/ng LDPC/en 编码/n ，/w 控制/v 信道/n 和广播信/nr 道/n 用/ng Polar/en 编码/n 。/w 这/r 一/m 改进/v 可以/a 提高/v NR/n 信道/n 编码/n 效率/n ，/w 适应/v 5/m G/m 大数据/n 量/n ，/w 高/a 可靠性/n 和/c 低/a 时延/j 的/u 传输/v 需求/n 。/w
+
+CU/en -/w DU/en 分离/v 技术/n ：/w
+
+/0  /0  /0  /0 通过/p 引入/v 中央/f 控制/v 单元/n （/w Central/en Unit/en ）/w ,/w 一方面/ldm ，/w 在业/v 务/dg 层面/n 可以/a 实现/v 无线/b 资源/n 的/u 统一/a 管理/v 、/w 移动性/n 的/u 集中控制/n ，/w 从而/c 进一步/d 提高/v 网络/n 性能/n ；/w 另一方面/ldm ，/w 在/d 架构/n 层面/n ，/w CU/n 既/c 可以/a 灵活/a 集成/b 到/ng 运营商/n 云/n 平台/n ，/w 也/d 可以/a 专有/b 硬件/n 环境/n 上用/nz 云/n 化/k 思想/n 设计/v ，/w 实现/v 资源/n 池化/nr 、/w 部署/v 自动化/v ，/w 降低/v OPEX/en //w CPAX/en 的/u 同时/c 提升/v 客户/n 体验/v 。/w ,/w ,/w ,/w ,/w ,/w

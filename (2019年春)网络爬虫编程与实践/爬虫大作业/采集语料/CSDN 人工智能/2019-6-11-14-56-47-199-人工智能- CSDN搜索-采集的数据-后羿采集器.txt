@@ -1,0 +1,20 @@
+标题,标题链接,search-detail,limit_width1,https,作者,日期,https1,down,详情标题,日期时间,内容
+人工智能,https://blog.csdn.net/iteye_11910/article/details/82674964,谷歌于去年11月发布并开源了新的机器学习平台TensorFlow，供相关技术人员进行语音识别或照片识别等多项机器深度学习领域的研究；IBM几乎同步采取了行动，于去年11月底宣布通过Apache软件基金会免费为外部程序员提供System ML人工智能工具的源代码；社交巨头Facebook，继去年1月公开多款深度学习人工智能工具后，又于去年12月开源了Big Sur人工智能硬件架构,https://blog.csdn.net/iteye_11910/article/details/82674964,,iteye_11910,2016-10-26,//blog.csdn.net/iteye_11910/article/details/82674964,172次阅读,人工智能 - fengbin2005,2016年10月26日 22:43:01,原        人工智能
+      
+      
+        
+                                                  2016年10月26日 22:43:01
+          iteye_11910
+          阅读数：175
+                  
+        
+                  
+      
+    
+  
+  
+    
+            
+                              
+          
+            公开资料显示，谷歌于去年11月发布并开源了新的机器学习平台TensorFlow，供相关技术人员进行语音识别或照片识别等多项机器深度学习领域的研究；IBM几乎同步采取了行动，于去年11月底宣布通过Apache软件基金会免费为外部程序员提供System ML人工智能工具的源代码；社交巨头Facebook，继去年1月公开多款深度学习人工智能工具后，又于去年12月开源了Big Sur人工智能硬件架构。

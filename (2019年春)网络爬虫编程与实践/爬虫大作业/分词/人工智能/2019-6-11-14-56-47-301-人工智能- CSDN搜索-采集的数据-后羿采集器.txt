@@ -1,0 +1,170 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/dy416524/article/details/85176496/url ,/w 题目/n 描述/v n/n 人/n 胖/a 了/dg 就/d 容易/a 打瞌睡/v ，/w 打瞌睡/v 又/d 会/n 导致/v 长胖/nz ，/w 这/r 对/a 小/a Ｘ/m 的/u 减重/n 计划/n 很/d 不利/a ，/w 于是/c 小/a Ｘ/m 决定/n 做/v 点/m 动脑/v 子/k 的/u 事/n 来/u 抵御/v 瞌睡虫/n 的/u 进袭/v ，/w 小/a Ｘ/m 决定/n 响应/v 国务院/nt 的/u 号召/v 投身/v 到/ng 人工智能/n 的/u 研究开发/n 大潮/n 中/f 去/v ，/w 具体/a 研究/v 什么/r 好/a 呢/ng ？/w 小/a Ｘ/m 再三/d 思考/v 后/f 决定/n 开发/v 国际象棋/n 的/u 人工智能/n 软件/n ，/w 虽然/c 国际象棋/n 的/u 软件/n 已经/d 能够/v 战胜/v 人类/n 世界/n 冠军/n 了/dg ，/w 但/c 那/c 是/v 基于/p 搜索/n 的/u AI/en (/w AI/en 是/v 人工智能/n 的/u 简称/n )/w ，/w 小/a Ｘ/m 想/v 写/v 一个/mq 基于/p 机器/np 学习/v 的/u 国际象棋/n AI/n ，/w 目标/n 是/v 战胜/v IBM.../url ,/w https://blog.csdn.net/dy416524/article/details/85176496/url ,/w ,/w dy/en 416524/m ,/w 2018-12-21/t ,/w //blog.csdn.net/dy416524/article/details/85176496/url ,/w 166/m 次/a 阅读/v ,/w 人工智能/n -/w dy/en 416524/m 的/u 博客/n ,/w 2018年12月21日 22:20:32/t ,/w 原/b 人工智能/n
+
+
+
+2018年12月21日 22:20:32/t
+skyleafemp/en
+阅读/v 数/m ：167/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+版权/n 声明/n ：/w 叶/ag 小小/aa https://blog.csdn.net/dy416524/article/details/85176496/url
+
+
+
+
+
+
+题目/n 描述/v
+人/n 胖/a 了/dg 就/d 容易/a 打瞌睡/v ，/w 打瞌睡/v 又/d 会/n 导致/v 长胖/nz ，/w 这/r 对/a 小/a Ｘ/m 的/u 减重/n 计划/n 很/d 不利/a ，/w 于是/c 小/a Ｘ/m 决定/n 做/v 点/m 动脑/v 子/k 的/u 事/n 来/u 抵御/v 瞌睡虫/n 的/u 进袭/v ，/w 小/a Ｘ/m 决定/n 响应/v 国务院/nt 的/u 号召/v 投身/v 到/ng 人工智能/n 的/u 研究开发/n 大潮/n 中/f 去/v ，/w 具体/a 研究/v 什么/r 好/a 呢/ng ？/w 小/a Ｘ/m 再三/d 思考/v 后/f 决定/n 开发/v 国际象棋/n 的/u 人工智能/n 软件/n ，/w 虽然/c 国际象棋/n 的/u 软件/n 已经/d 能够/v 战胜/v 人类/n 世界/n 冠军/n 了/dg ，/w 但/c 那/c 是/v 基于/p 搜索/n 的/u AI/en (/w AI/en 是/v 人工智能/n 的/u 简称/n )/w ，/w 小/a Ｘ/m 想/v 写/v 一个/mq 基于/p 机器/np 学习/v 的/u 国际象棋/n AI/n ，/w 目标/n 是/v 战胜/v IBM/en 的/u 深蓝/b ，/w 小/a Ｘ/m 的/u 国际象棋/n 水平/n 也/d 不差/v ，/w 曾/d 获得/v 过/d 市/ny 青少年/n 比赛/v 的/u 冠军/n ，/w 机器/np 学习/v 顾名思义/iv 就是/n 让/v 机器/np 像/n 人/n 一样/a 学习/v ，/w 小/a Ｘ/m 首先/c 训练/v 机器/np 学习/v 棋子/n 对/a 棋盘/n 的/u 控制/v ，/w 具体/a 做法/n 是/v 小/a Ｘ/m 先/d 在/d 棋盘/n 上/f 放置/v 若干/mq 个/q 车/np 和/c 后/f ，/w 然后/c 让/v 机器/np 判断/n 有/v 多少/r 个/q 格子/n 没有/d 被/ng 车/np 和/c 后/f 控制/v 到/ng 。/w
+车/np 和/c 后/f 的/u 吃/v 子规/n 则/c 如下/v ：/w 车：横/nr 、/w 竖/n 均/ag 可以/a 走/v ，/w 步数/n 不/d 受限/v 制/k ，/w 但/c 不能/v 斜/a 着/n 走/v 。/w 后/f ：/w 横/a 、/w 竖/n 、/w 斜/a 都/d 可以/a 走/v ，/w 步数/n 不/d 受限/v 制/k 。/w 无论/c 是/v 车/np 还是/c 后/f 都/d 不能/v 越过/v 棋子/n 去/v 吃/v 子/k ，/w 用作/v 训练/v 的/u 国际象棋/n 棋盘/n 可以/a 放大/v 缩小/v ，/w 并/c 不/d 限于/v 8/m ×/m 8/m 的/u 棋盘/n ，/w 车/np 和/c 后所/ns 在/d 的/u 位置/n 当然/b 是/v 被控/v 制/k 的/u ，/w 它们/r 能/ng 走/v 到/ng 的/u 位置/n 也/d 都/d 被控/v 制/k 。/w
+输入/v
+第一/m 行包/n 含/v 一个/mq 正/a 整数/n n/n ，/w 表示/v 棋盘/n 的/u 大小/n
+接下来/c n/en 行/a ，/w 每行/r n/en 个/q 整数/n ，/w 其中/r 0/m 表示/v 棋盘/n 上/f 这个/r 格子/n 为/p 空/a 的/u ，/w 1/m 表示/v 为/p 车/np ，/w 2/m 表示/v 为/p 后/f
+输出/v
+一行/n 一个/mq 整数/n ，/w 表示/v 没有/d 被控/v 制/k 到/ng 的/u 格子/n 数量/n
+样例/n 输入/v
+复制/v 样例/n 数据/n
+5/m
+0 0 0 0 0/m
+0 1 0 1 0/m
+0 0 2 0 0/m
+0 1 0 1 0/m
+0 0 0 0 0/m
+样例/n 输出/v
+4/m
+
+提示/v
+红色/n 格子/n 为/p 样例/n 中/f 被控/v 制/k 到/ng 的/u 格子/n ，/w 中间/f 那个/r 后/f 能够/v 斜/a 着/n 走/v 到/ng 四/m 个/q 角落/n 的/u 格子/n (/w 图中/nz 白色/n 的/u 格子/n )/w ，/w 但/c 因/c 受到/v 四/m 个/q 车/np 的/u 阻隔/v 而/c 不能/v 控制/v 到/ng 那/c 四/m 个/q 格子/n ！/w
+数据/n 范围/n
+20%/m 的/u 数据/n ，/w 保证/v 棋盘/n 上/f 只有/c 车/np
+50%/m 的/u 数据/n ，/w n/en </w =/0 50/m
+80%/m 的/u 数据/n ，/w n/en </w =/0 200/m
+100%/m 的/u 数据/n ，/w n/en </w =/0 1000/m ，/w 车/np 的/u 数量/n </w =/0 n/en */w n/n ，/w 后/f 的/u 数量/n </w =/0 n/n
+#/w include/en </w iostream/en >/w
+#/w include/en </w bits/en //w stdc/en +/0 +/0 ./m h/en >/w
+using/en namespace/en std/en ;/w
+
+int/en main/en (/w )/w
+{/0
+int/en n/en ,/w i/en ,/w j/en ,/w k/en ,/w m/en ;/w
+scanf/en (/w "/0 %/m d/en "/0 ,/w &/0 n/en )/w ;/w
+int/en a/en [/w n/en ]/w [/w n/en ]/w ;/w
+for/en (/w i/en =/0 0/m ;/w i/en </w n/en ;/w i/en +/0 +/0 )/w
+{/0
+for/en (/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+{/0
+scanf/en (/w "/0 %/m d/en "/0 ,/w &/0 a/en [/w i/en ]/w [/w j/en ]/w )/w ;/w
+}/0
+}/0
+for/en (/w i/en =/0 0/m ;/w i/en </w n/en ;/w i/en +/0 +/0 )/w
+{/0
+for/en (/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en ]/w [/w j/en ]/w =/0 =/0 1/m )/w
+{/0
+for/en (/w k/en =/0 1/m ;/w i/en -/w k/en >/w =/0 0/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en -/w k/en ]/w [/w j/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en -/w k/en ]/w [/w j/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en -/w k/en ]/w [/w j/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w k/en =/0 1/m ;/w i/en +/0 k/en </w =/0 n/en -/w 1/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en +/0 k/en ]/w [/w j/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en +/0 k/en ]/w [/w j/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en +/0 k/en ]/w [/w j/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w k/en =/0 1/m ;/w j/en -/w k/en >/w =/0 0/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en ]/w [/w j/en -/w k/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en ]/w [/w j/en -/w k/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en ]/w [/w j/en -/w k/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w k/en =/0 1/m ;/w j/en +/0 k/en </w =/0 n/en -/w 1/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en ]/w [/w j/en +/0 k/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en ]/w [/w j/en +/0 k/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en ]/w [/w j/en +/0 k/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+}/0
+if/en (/w a/en [/w i/en ]/w [/w j/en ]/w =/0 =/0 2/m )/w
+{/0
+for/en (/w k/en =/0 1/m ;/w i/en -/w k/en >/w =/0 0/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en -/w k/en ]/w [/w j/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en -/w k/en ]/w [/w j/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en -/w k/en ]/w [/w j/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w k/en =/0 1/m ;/w i/en +/0 k/en </w =/0 n/en -/w 1/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en +/0 k/en ]/w [/w j/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en +/0 k/en ]/w [/w j/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en +/0 k/en ]/w [/w j/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w k/en =/0 1/m ;/w j/en -/w k/en >/w =/0 0/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en ]/w [/w j/en -/w k/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en ]/w [/w j/en -/w k/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en ]/w [/w j/en -/w k/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w k/en =/0 1/m ;/w j/en +/0 k/en </w =/0 n/en -/w 1/m ;/w k/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en ]/w [/w j/en +/0 k/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en ]/w [/w j/en +/0 k/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en ]/w [/w j/en +/0 k/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w m/en =/0 1/m ;/w i/en -/w m/en >/w =/0 0/m &/0 &/0 j/en -/w m/en >/w =/0 0/m ;/w m/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en -/w m/en ]/w [/w j/en -/w m/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en -/w m/en ]/w [/w j/en -/w m/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en -/w m/en ]/w [/w j/en -/w m/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w m/en =/0 1/m ;/w i/en +/0 m/en </w =/0 n/en -/w 1/m &/0 &/0 j/en +/0 m/en </w =/0 n/en -/w 1/m ;/w m/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en +/0 m/en ]/w [/w j/en +/0 m/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en +/0 m/en ]/w [/w j/en +/0 m/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en +/0 m/en ]/w [/w j/en +/0 m/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w m/en =/0 1/m ;/w i/en -/w m/en >/w =/0 0/m &/0 &/0 j/en +/0 m/en </w =/0 n/en -/w 1/m ;/w m/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en -/w m/en ]/w [/w j/en +/0 m/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en -/w m/en ]/w [/w j/en +/0 m/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en -/w m/en ]/w [/w j/en +/0 m/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+for/en (/w m/en =/0 1/m ;/w i/en +/0 m/en </w =/0 n/en -/w 1/m &/0 &/0 j/en -/w m/en >/w =/0 0/m ;/w m/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en +/0 m/en ]/w [/w j/en -/w m/en ]/w =/0 =/0 0/m |/0 |/0 a/en [/w i/en +/0 m/en ]/w [/w j/en -/w m/en ]/w =/0 =/0 3/m )/w
+a/en [/w i/en +/0 m/en ]/w [/w j/en -/w m/en ]/w =/0 3/m ;/w
+else/en break/en ;/w
+}/0
+}/0
+}/0
+}/0
+int/en cnt/en =/0 0/m ;/w
+for/en (/w i/en =/0 0/m ;/w i/en </w n/en ;/w i/en +/0 +/0 )/w
+{/0
+for/en (/w j/en =/0 0/m ;/w j/en </w n/en ;/w j/en +/0 +/0 )/w
+{/0
+if/en (/w a/en [/w i/en ]/w [/w j/en ]/w =/0 =/0 0/m )/w
+cnt/en +/0 +/0 ;/w
+}/0
+
+}/0
+printf/en (/w "/0 %/m d/en \/0 n/en "/0 ,/w cnt/en )/w ;/w
+return/en 0/m ;/w
+}/0
+123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113/m
+100/m 多行/nz 可/v 还/d 行/a 。/w

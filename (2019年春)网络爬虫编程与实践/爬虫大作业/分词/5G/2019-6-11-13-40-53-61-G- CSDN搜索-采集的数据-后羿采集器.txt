@@ -1,0 +1,44 @@
+﻿limit/en _/0 width/en ,/w search/en -/w detail/en ,/w 作者/n ,/w limit/en _/0 width/en 1/m ,/w 日期/n ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n ,/w qq/en _/0 41110324/m ,/w qq/en _/0 44444359/m ,/w miss/en _/0 eins/en ,/w sincerehz/en ,/w weixin/en _/0 40673372/m
+5/m G/m 原理/n ，/w 5/m G/m 给/v 生活/n 的/u 影响/v ，/w 5/m G/m 影响/v 的/u 行业/n ,/w 前言/n nn/en 近日/t 华为/nz 携/v 极/d 简/ag 5/m G/m 和/c SoftCOM/en AI/n 亮相/v 2019/m 世界/n 移动/v 大会/nh ，/w 在/d 2019/m 世界/n 移动/v 大会/nh 上/f ，/w 华为/nz 以/p “/w 构建/v 万物/n 互联/v 的/u 智能/n 世界/n ”/w 为主/v 题/n ，/w 通过/p 展览展示/n 、/w 论坛/nh 活动/n 、/w 峰会/nh 发言/v 等/ng 形式/n ，/w 与/c 全球/n 运营商/n 客户/n 和合/v 作/ng 伙伴/n 共同/b 探讨/v 行业发展/n 的/u 热点话题/n ，/w 以/p 极/d 简/ag 站点/n 、/w 极/d 简/ag 架构/n 、/w 极/d 简/ag 协议/n 、/w 极/d 简/ag 运/ng 维/jns 构筑/v 全面/a 领先/v 的/u 端/ag 到/ng 端/ag 5/m G/m 产品/n 及/c 解决方案/n ，/w 助力/v 运营商/n 快速/b 规模/n 部署/v 5/m G网/n 络/ng 。/w 18/m 日/n ，/w 全球/n 首/m 个/q 5/m G/m 火车站/ny 在/d 上.../m ,/w u/en 012997396/m ,/w https://blog.csdn.net/u012997396/article/details/88657659/url ,/w 2019-03-19/t ,/w 357/m 次/a 阅读/v ,/w 5/m G/m 原理/n ，/w 5/m G/m 给/v 生活/n 的/u 影响/v ，/w 5/m G/m 影响/v 的/u 行业/n -/w 悟空/nr 大师/nx 的/u 博客/n ,/w 2019年03月19日 11:32:37/t ,/w 前言/n
+
+近日/t 华为/nz 携/v 极/d 简/ag 5/m G/m 和/c SoftCOM/en AI/n 亮相/v 2019/m 世界/n 移动/v 大会/nh ，/w 在/d 2019/m 世界/n 移动/v 大会/nh 上/f ，/w 华为/nz 以/p “/w 构建/v 万物/n 互联/v 的/u 智能/n 世界/n ”/w 为主/v 题/n ，/w 通过/p 展览展示/n 、/w 论坛/nh 活动/n 、/w 峰会/nh 发言/v 等/ng 形式/n ，/w 与/c 全球/n 运营商/n 客户/n 和合/v 作/ng 伙伴/n 共同/b 探讨/v 行业发展/n 的/u 热点话题/n ，/w 以/p 极/d 简/ag 站点/n 、/w 极/d 简/ag 架构/n 、/w 极/d 简/ag 协议/n 、/w 极/d 简/ag 运/ng 维/jns 构筑/v 全面/a 领先/v 的/u 端/ag 到/ng 端/ag 5/m G/m 产品/n 及/c 解决方案/n ，/w 助力/v 运营商/n 快速/b 规模/n 部署/v 5/m G网/n 络/ng 。/w
+
+5/m G/m 离/ng 我们/r 越来越/d 近/a 。/w 18/m 日/n ，/w 全球/n 首/m 个/q 5/m G/m 火车站/ny 在/d 上海/ns 虹桥/ns 火车站/ny 启动/v 建设/v 。/w 去年/t 年底/t ，/w 工业和信息化部/nt 向/p 中国电信/nt 、/w 中国移动/nt 、/w 中国联通/nt 发放/v 了/dg 5/m G/m 系统/a 中低/b 频段/n 试验/v 频率/n 使用/v 许可/v 。/w 根据/n 三大/n 运营商/n 的/u 时间表/n ，/w 今年/t ，/w 5/m G/m 设备/n 将/d 开始/v 试/v 商用/b 。/w
+
+相信/v 你/r 在/d 新闻/n ，/w 手机/np 上/f 已经/d 对/a “/w 5/m G/m ”/w 有/v 了/dg 一定/b 的/u 认识/n 。/w 不过/c ，/w 5/m G/m 毕竟/d 是/v 一/m 种/ng 新技术/n ，/w 很多/mq 人/n 还/d 想/v 知道/v 什么/r 时候/n 能/ng 用上/v 5/m G/m 设备/n ，/w 以及/c 5/m G/m 技术/n 背后/f 的/u 更多/n 秘密/a 。/w 下面/f 以图/v 来说/u 明/ag 。/w
+
+/0
+
+1/m 、/w 2019年下/t 半年/n 开始/v 试用/v 2020年/t 开始/v 商用/b
+
+
+
+2/m 、/w 5/m G/m 速度/n 这么/r 快/a 有/v 哪些/r 黑/a 科技/n ？/w
+
+
+
+3/m 、/w 5/m G/m 的/u 微/ag 基站/n
+
+
+
+4/m 、/w 5/m G/m 的/u 波束/n 赋形/v 和面/v 对面/f 转播/v
+
+
+
+5/m 、/w 实际/a 生活/n 应用/v 中/f 5/m G/m 到底/d 有/v 多/a 快/a ？/w
+
+
+
+6/m 、/w 5/m G/m 将/d 实现/v 万物/n 互联/v
+
+
+
+结语/n
+
+5/m G/m 将/d 在/d 医疗保健/n 、/w 汽车/np 、/w 机器人/n 、/w 娱乐/v 以及/c 我们/r 尚未/d 设想/v 的/u 创新/v 领域/n 带来/v 新/a 的/u 、/w 先进/a 的/u 服务/v 。/w 通过/p 允许/v 更多/n 的/u 设备/n 以/p 更/d 高/a 的/u 速度/n 、/w 更/d 安全/a 的/u 方式/n 相互/b 连接/v 。/w 5/m G/m 将/d 从/p 根本/a 上/f 创造/n 一个/mq 新/a 的/u 数字/n 环境/n 。/w
+
+5/m G/m 的/u 竞争/v 不单/c 单/b 是/v 5/m G网/n 络/ng 的/u 投资/n 和/c 部署/v ，/w 更为/d 关键/a 的/u 是/v ：/w 谁/r 制造/v 、/w 谁/r 设立/v 标准/a 、/w 谁/r 掌握/v 知识产权/ln (/w IP/en )/w 。/w 在/d 竞争/v 日益/d 激烈/a 的/u 技术/n 环境/n 中/f ，/w 5/m G/m 对/a 安全/a 、/w 创新/v 和/c 就业/v 都/d 有/v 影响/v 。/w 今天/t 全球/n 做出/v 的/u 关于/p 5/m G/m 的/u 决定/n 将/d 在/d 未来/t 几十/mq 年/n 影响/v 各国/r 安全/a 和/c 经济/n 表现/v 。/w
+
+在/d 5/m G/m 竞争/v 中/f 取得/v 领先/v ，/w 从/p 这/r 一/m 层面/n 上/f 不单/c 单/b 有/v 经济/n 增长/v 的/u 目的/n ，/w 更/d 被/ng 赋予/v 了/dg 国家安全/n 的/u 重要/a 含义/n 。/w
+
+参考/v ：http://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/kj/201902/t20190221_11875765.htm?tt_group_id=6660276990873960974/url ,/w ,/w ,/w ,/w ,/w

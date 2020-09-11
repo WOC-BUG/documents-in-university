@@ -1,0 +1,4 @@
+limit_width,search-detail,作者,limit_width1,日期,down,详情标题,日期时间,内容,qq_41110324,qq_44444359,miss_eins,sincerehz,weixin_40673372
+5G关键技术学习,5G系统的物理层编码技术相对于4G有了极大的变化，主要从传统的卷积码turbo码变为LDPC和Polar码。,twjy1314,https://blog.csdn.net/twjy1314/article/details/81222312,2018-07-26,1765次阅读,5G关键技术学习 - Marvelous,2018年07月26日 16:17:52,5G系统的物理层编码技术相对于4G有了极大的变化，主要从传统的卷积码turbo码变为LDPC和Polar码。,polar码！,真全，牛掰,polar码还是有很多地方值得深入研究,多谢博主分享！
+
+不知您是否了解NOMA系统SIC技术的具体实施方法，大家都说是逐次解码，可是频率相同而功率不同的信号叠加后，怎么恢复出传输信号呢？,非常详细，膜拜

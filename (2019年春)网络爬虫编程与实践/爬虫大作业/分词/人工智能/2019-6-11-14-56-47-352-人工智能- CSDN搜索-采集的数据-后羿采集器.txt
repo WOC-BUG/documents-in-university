@@ -1,0 +1,115 @@
+﻿标题/n ,/w 标题/n 链接/n ,/w search/en -/w detail/en ,/w limit/en _/0 width/en 1/m ,/w https/en ,/w 作者/n ,/w 日期/n ,/w https/en 1/m ,/w down/en ,/w 详情/n 标题/n ,/w 日期/n 时间/n ,/w 内容/n
+人工智能/n ,/w https://blog.csdn.net/qq_43167223/article/details/83626480/url ,/w Python/en 中/f 的/u 单例/nr n/en */w 单例/nr ——/w 让/v 类/n 创建/v 的/u 对象/n ，/w 在/d 系统/a 中/f 只有/c 唯一/b 的/u 一个/mq 实例/n n/en 1./m nni/en ./m 定义/n 一个/mq 类/n 属性/n ，/w 初始值/n 是/v None/en ，/w 用于/v 记录/n 单例/nr 对象/n 的/u 引用/v n2.nii./url 重写/v new/en 方法/n n3.niii./url 如果/c 类/n 属性/n is/en None/en ，/w 调用/v 父/ng 类/n 方法/n 分配/v 空间/n ，/w 并/c 在/d 类/n 属性/n 中/f 记录/n 结果/c n4.niv./url 返回/v 类/n 属性/n 中/f 记录/n 的/u 对象/n 引用/v n/n 只/bg 执行/v 一次/mq 初始化/v 工作/n n/n 在/d 每次/r 使用/v 类名/n (/w )/w 创建/v 对象/n 时/n ，/w Pyt.../url ,/w https://blog.csdn.net/qq_43167223/article/details/83626480/url ,/w ,/w qq/en _/0 43167223/m ,/w 2018-11-01/t ,/w //blog.csdn.net/qq_43167223/article/details/83626480/url ,/w 56/m 次/a 阅读/v ,/w 人工智能/n -/w qq/en _/0 43167223/m 的/u 博客/n ,/w 2018年11月01日 20:32:09/t ,/w 原/b 人工智能/n
+
+
+
+2018年11月01日 20:32:09/t
+芜杂/a 栾雨/nr ，/w 芜杂/a 銮舆/n
+阅读/v 数/m ：/w 57/m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python/en 中/f 的/u 单例/nr
+*/w 单例/nr ——/w 让/v 类/n 创建/v 的/u 对象/n ，/w 在/d 系统/a 中/f 只有/c 唯一/b 的/u 一个/mq 实例/n
+1./m
+1/m
+i/en ./m 定义/n 一个/mq 类/n 属性/n ，/w 初始值/n 是/v None/en ，/w 用于/v 记录/n 单例/nr 对象/n 的/u 引用/v
+2./m
+ii/en ./m 重写/v new/en 方法/n
+3./m
+iii/en ./m 如果/c 类/n 属性/n is/en None/en ，/w 调用/v 父/ng 类/n 方法/n 分配/v 空间/n ，/w 并/c 在/d 类/n 属性/n 中/f 记录/n 结果/c
+4./m
+iv/en ./m 返回/v 类/n 属性/n 中/f 记录/n 的/u 对象/n 引用/v
+只/bg 执行/v 一次/mq 初始化/v 工作/n
+在/d 每次/r 使用/v 类名/n (/w )/w 创建/v 对象/n 时/n ，/w Python/en 的/u 解释器/n 都/d 会/n 自动/b 调用/v 两个/n 方法/n ：/w
+new/en 分配/v 空间/n
+init/en 对象/n 初始化/v
+在/d 上一/nz 小节/n 对/a new/en 方法/n 改造/v 之后/f ，/w 每次/r 都/d 会/n 得到/v 第一次/n 被/ng 创建/v 对象/n 的/u 引用/v
+但是/c ：/w 初始化/v 方法/n 还/d 会/n 被/ng 再次/d 调用/v
+需求/n
+让/v 初始化/v 动作/n 只/bg 被/ng 执行/v 一次/mq
+解决/v 办法/n
+1./m
+定义/n 一个/mq 类/n 属性/n init/en _/0 flag/en 标记/n 是否/v 执行/v 过/d 初始化/v 动作/n ，/w 初始值/n 为/p False/en
+2./m
+在/d init/en 方法/n 中/f ，/w 判断/n init/en _/0 flag/en ，/w 如果/c 为/p False/en 就/d 执行/v 初始化/v 动作/n
+3./m
+然后/c 将/d init/en _/0 flag/en 设置/v 为/p True/en
+4./m
+这样/r ，/w 再次/d 自动/b 调用/v init/en 方法/n 时/n ，/w 初始化/v 动作/n 就/d 不会/v 被/ng 再次/d 执行/v 了/dg
+捕捉/v 异常/a 我们/r 学习/v 上/f 之路/nz 一路/n 走来/v 。/w 。/w 。/w 啊/y ，/w 不对/a ，/w 我们/r 一直/d 在/d 这个/r 教室/n 上课/v
+遇到/v 了/dg 很多/mq 运行/v 后/f 报/n 错/n
+报/n 错/n 了/dg ，/w 也就是/n 发生/v 了/dg 异常/a 情况/n ！/w
+有时候/d 我们/r 想/v 让/v 系统/a 提供/v 更具/v 体/k 的/u 异常/a 信息/n ，/w 帮助/v 我们/r 解决/v 问题/n
+有时候/d 我们/r 想/v 忽略/v 本次/r 异常/a ，/w 让/v 程序/n 继续/v 执行/v 下去/v
+那/c 我们/r 该/r 怎么办/r 呢/ng ？/w
+怎么办/r 爱情/n 甜/a 又/d 酸/a
+思绪/n 收回/v 【/w 咻/vg 的/u 一下/d 】/w
+在/d Python/en 中/f ，/w 我们/r 将/d 可能/a 出现/v 异常/a 的/u 代码/n 放在/v ’/w 隔离区/n ’/w 里/f 运行/v
+这样的话/l ，/w 出/q 了/dg 问题/n 不会/v 影响/v 其他/r 部分/n
+try/en …/w except/en …/w
+那/c 怎么/r 创建/v 一个/mq 隔离区/n 呢/ng ？/w
+在/d Python/en 中/f 使用/v try/en …/w except/en 结构/n 创建/v ’/w 隔离区/n ‘/w ，/w 也就是/n 进行/v 异常/a 处理/v
+try/en 包含/v 的/u 部分/n 是/v 放入/v 可能/a 出现/v 异常/a 的/u 代码/n
+except/en 部分/n 是/v 来/u 处理/v 发生/v 的/u 异常/a
+结构/n 是/v ：/w
+try/en ：/w
+可能/a 引起/v 异常/a 的/u 代码/n
+except/en ：/w
+对/a 异常/a 的/u 处理/v 代码/n
+test.txt/url 文件/n 中/f 每/r 一行/n 数据/n 打印/v ，/w 但是/c 我/r 有意/d 在/d 每/r 打印/v 一行/n 之前/f 用/ng time.sleep/url 方法/n 暂停/v 2/m 秒钟/q 。/w 这样/r 做/v 的/u 原因/n 是/v 让/v 程序/n 运行/v 得/e 慢/a 一些/mq 。/w 在/d 程序/n 运行/v 的/u 时候/n ，/w 按/p Ctrl/en +/0 c/n 中断/v （/w 取消/v ）/w 程序/n 。/w
+我们/r 可以/a 观察/v 到/ng KeyboardInterrupt/en 异常/a 被/ng 触发/v ，/w 程序/n 退出/v 。/w 但是/c 在/d 程序/n 退出/v 之前/f ，/w finally/en 从句/n 仍然/d 被/ng 执行/v ，/w 把/p 文件/n 关闭/v 。/w
+异常/a 的/u 传递/v
+1/m 、/w try/en 嵌套/v 中/f
+总结/n ：/w
+如果/c try/en 嵌套/v ，/w 那么/c 如果/c 里面/f 的/u try/en 没有/d 捕获/v 到/ng 这个/r 异常/a ，/w 那么/c 外面/f 的/u try/en 会/n 接收/v 到/ng 这个/r 异常/a ，/w 然后/c 进行/v 处理/v ，/w 如果/c 外边/f 的/u try/en 依然/d 没有/d 捕获/v 到/ng ，/w 那么/c 再/d 进行/v 传递/v 。/w 。/w 。/w
+如果/c 一个/mq 异常/a 是在/n 一个/mq 函数/n 中产/j 生/a 的/u ，/w 例如/v 函数/n A/b —/w -/w >/w 函数/n B/n —/w -/w >/w 函数/n C/en ,/w 而/c 异常/a 是在/n 函数/n C/n 中产/j 生/a 的/u ，/w 那么/c 如果/c 函数/n C/n 中/f 没有/d 对/a 这个/r 异常/a 进行/v 处理/v ，/w 那么/c 这个/r 异常/a 会/n 传递/v 到/ng 函数/n B/n 中/f ，/w 如果/c 函数/n B/n 有/v 异常/a 处理/v 那么/c 就/d 会/n 按照/p 函数/n B/n 的/u 处理/v 方式/n 进行/v 执行/v ；/w 如果/c 函数/n B/n 也/d 没有/d 异常/a 处理/v ，/w 那么/c 这个/r 异常/a 会/n 继续/v 传递/v ，/w 以此类推/ldm 。/w 。/w 。/w 如果/c 所有/b 的/u 函数/n 都/d 没有/d 处理/v ，/w 那么/c 此时/r 就/d 会/n 进行/v 异常/a 的/u 默认/v 处理/v ，/w 即/c 通常/b 见到/v 的/u 那样/r
+注意/v 观察/v 上中/f ，/w 当/ag 调用/v test/en 3/m 函数/n 时/n ，/w 在/d test/en 1/m 函数/n 内部/f 产生/v 了/dg 异常/a ，/w 此/r 异常/a 被/ng 传递/v 到/ng test/en 3/m 函数/n 中/f 完成/v 了/dg 异常/a 处理/v ，/w 而/c 当/ag 异常/a 处理/v 完/ng 后/f ，/w 并/c 没有/d 返回/v 到/ng 函数/n test/en 1/m 中进/nz 行/a 执行/v ，/w 而是/n 在/d 函数/n test/en 3/m 中继/v 续/ng 执行/v
+抛/v 出自/v 定义/n 的/u 异常/a
+你/r 可以/a 用/ng raise/en 语句/n 来/u 引发/v 一个/mq 异常/a 。/w 异常/a //w 错误/a 对象/n 必须/d 有/v 一个/mq 名字/n ，/w 且/c 它们/r 应/ng 是/v Error/en 或/c Exception/en 类/n 的/u 子类/n
+这/r 一行/n 代码/n ，/w 可以/a 调用/v 也/d 可以/a 不/d 调用/v ，/w 建议/n 调用/v ，/w 因为/c init/en 方法/n 往往/d 是/v 用来/v 对/a 创建/v 完/ng 的/u 对象/n 进行/v 初始化/v 工作/n ，/w 如果/c 在/d 子类/n 中/f 重写/v 了/dg 父/ng 类/n 的/u init/en 方法/n ，/w 即/c 意味着/v 父/ng 类/n 中/f 的/u 很多/mq 初始化/v 工作/n 没有/d 做/v ，/w 这样/r 就/d 不/d 保证/v 程序/n 的/u 稳定/a 了/dg ，/w 所以/c 在/d 以后/f 的/u 开发/v 中/f ，/w 如果/c 重写/v 了/dg 父/ng 类/n 的/u init/en 方法/n ，/w 最好/d 是/v 先/d 调用/v 父/ng 类/n 的/u 这个/r 方法/n ，/w 然后/c 再/d 添加/v 自己/r 的/u 功能/n
+模块/n
+1/m 、/w Python/en 中/f 的/u 模块/n 有/v 过/d C语言/n 编程/v 经验/n 的/u 朋友/n 都/d 知道/v 在/d C语言/n 中/f 如果/c 要/v 引用/v sqrt/en 函数/n ，/w 必须/d 用语/n 句/q #/w include/en </w math.h/url >/w 引入/v math.h/url 这个/r 头/k 文件/n ，/w 否则/c 是/v 无法/v 正常/a 进行/v 调用/v 的/u 。/w
+那么/c 在/d Python/en 中/f ，/w 如果/c 要/v 引用/v 一些/mq 其他/r 的/u 函数/n ，/w 该/r 怎么/r 处理/v 呢/ng ？/w
+在/d Python/en 中/f 有/v 一个/mq 概念/n 叫做/v 模块/n （/w module/en ）/w ，/w 这个/r 和/c C语言/n 中/f 的/u 头/k 文件/n 以及/c Java/n 中/f 的/u 包/n 很/d 类似/a ，/w 比如/v 在/d Python/en 中/f 要/v 调用/v sqrt/en 函数/n ，/w 必须/d 用/ng import/en 关键字/n 引入/v math/en 这个/r 模块/n ，/w 下面/f 就/d 来/u 了解/v 一下/d Python/en 中/f 的/u 模块/n 。/w
+说/ag 的/u 通俗/a 点/m ：/w 模块/n 就/d 好比/v 是/v 工具包/n ，/w 要/v 想/v 使用/v 这个/r 工具包/n 中/f 的/u 工具/n (/w 就/d 好比/v 函数/n )/w ，/w 就/d 需要/n 导入/v 这个/r 模块/n
+import/en 在/d Python/en 中用/n 关键字/n import/en 来/u 引入/v 某个/r 模块/n ，/w 比如/v 要/v 引用/v 模块/n math/en ，/w 就/d 可以/a 在/d 文件/n 最/d 开始/v 的/u 地方/n 用/ng import/en math/en 来/u 引入/v 。/w 形/ng 如/c ：/w
+import/en module/en 1/m ,/w mudule/en 2/m …/w
+当/ag 解释器/n 遇到/v import/en 语句/n ，/w 如果/c 模块/n 在/d 当前/t 的/u 搜索/n 路径/n 就/d 会/n 被/ng 导入/v 。/w
+通过/p 这种/r 方式/n 引入/v 的/u 时候/n ，/w 调用/v 函数/n 时/n 只能/v 给出/v 函数/n 名/n ，/w 不能/v 给出/v 模块/n 名/n ，/w 但是/c 当/ag 两个/n 模块/n 中/f 含有/v 相同/a 名称/n 函数/n 的/u 时候/n ，/w 后面/f 一次/mq 引入/v 会/n 覆盖/v 前/f 一次/mq 引入/v 。/w 也就是说/ldm 假如/c 模块/n A/b 中/f 有/v 函数/n function/en (/w )/w ，/w 在/d 模块/n B/n 中/f 也/d 有/v 函数/n function/en (/w )/w ，/w 如果/c 引入/v A/b 中/f 的/u function/en 在先/d 、/w B/n 中/f 的/u function/en 在后/v ，/w 那么/c 当/ag 调用/v function/en 函数/n 的/u 时候/n ，/w 是/v 去/v 执行/v 模块/n B/n 中/f 的/u function/en 函数/n 。/w
+如果/c 想/v 一次性/b 引入/v math/en 中/f 所有/b 的/u 东西/n ，/w 还/d 可以通过/n from/en math/en import/en */w 来/u 实现/v
+from/en …/w importPython/en 的/u from/en 语句/n 让/v 你/r 从/p 模块/n 中导/nz 入/ng 一个/mq 指定/v 的/u 部分/n 到/ng 当前/t 命名/v 空间/n 中/f
+from/en …/w import/en */w 把/p 一个/mq 模块/n 的/u 所有/b 内容/n 全都/d 导入/v 到/ng 当前/t 的/u 命名/v 空间/n 也/d 是/v 可行/a 的/u ，/w 只需/n 使用/v 如下/v 声明/n ：/w
+6/m 定位/n 模块/n 当/ag 你/r 导入/v 一个/mq 模块/n ，/w Python/en 解析/v 器/k 对/a 模块/n 位置/n 的/u 搜索/n 顺序/d 是/v ：/w
+当前/t 目录/n
+*/w
+如果/c 不在/v 当前/t 目录/n ，/w Python/en 则/c 搜索/n 在/d shell/en 变量/n PYTHONPATH/en 下/f 的/u 每个/r 目录/n 。/w
+*/w
+如果/c 都/d 找/v 不到/v ，/w Python/en 会/n 察看/v 默认/v 路径/n 。/w UNIX/n 下/f ，/w 默认/v 路径/n 一般/a 为/p //w usr/en //w local/en //w lib/en //w python/en //w
+*/w
+模块/n 搜索/n 路径/n 存储/v 在/d system/en 模块/n 的/u sys.path/url 变量/n 中/f 。/w 变量/n 里/f 包含/v 当前/t 目录/n ，/w PYTHONPATH/en 和/c 由/p 安装/v 过程/n 决定/n 的/u 默认/v 目录/n
+模块/n 制作/v
+1/m 、/w 定义/n 自己/r 的/u 模块/n 在/d Python/en 中/f ，/w 每个/r Python/en 文件/n 都/d 可以/a 作为/n 一个/mq 模块/n ，/w 模块/n 的/u 名字/n 就是/n 文件/n 的/u 名字/n 。/w
+比如/v 有/v 这样/r 一个/mq 文件/n test.py/url ，/w 在/d test.py/url 中/f 定义/n 了/dg 函数/n add/n
+test.py/url
+2/m 调用/v 自己/r 定义/n 的/u 模块/n 那么/c 在/d 其他/r 文件/n 中/f 就/d 可以/a 先/d import/en test/en ，/w 然后/c 通过/p test.add/url (/w a/en ,/w b/en )/w 来/u 调用/v 了/dg ，/w 当然/b 也/d 可以通过/n from/en test/en import/en add/n 来/u 引入/v
+main.py/url
+3/m 测试/v 模块/n 在/d 实际/a 开/ng 中/f ，/w 当/ag 一个/mq 开发/v 人员/n 编写/v 完/ng 一个/mq 模块/n 后/f ，/w 为了/p 让/v 模块/n 能够/v 在/d 项目/n 中达/nz 到/ng 想要/v 的/u 效果/n ，/w 这个/r 开发/v 人员/n 会/n 自行/b 在/d py/en 文件/n 中/f 添加/v 一些/mq 测试/v 信息/n ，/w 例如/v ：/w
+test.py/url
+工厂/nc 模式/n
+1/m 、/w 简单/a 工厂/nc 模式/n 最后/f 来看/u 看/u 工厂/nc 方法/n 模式/n 的/u 定义/n 定义/n 了/dg 一个/mq 创建/v 对象/n 的/u 接口/n (/w 可以/a 理解/v 为/p 函数/n )/w ，/w 但/c 由子/n 类/n 决定/n 要/v 实例/n 化/k 的/u 类/n 是/v 哪/r 一个/mq ，/w 工厂/nc 方法/n 模式/n 让/v 类/n 的/u 实例/n 化/k 推迟/v 到/ng 子类/n ，/w 抽象/a 的/u CarStore/en 提供/v 了/dg 一个/mq 创建/v 对象/n 的/u 方法/n createCar/en ，/w 也/d 叫作/v 工厂/nc 方法/n 。/w
+子类/n 真正/b 实现/v 这个/r createCar/en 方法/n 创建/v 出具/v 体/k 产品/n 。/w 创建者/n 类/n 不/d 需要/n 直到/v 实际/a 创建/v 的/u 产品/n 是/v 哪/r 一个/mq ，/w 选择/n 了/dg 使用/v 了/dg 哪个/r 子类/n ，/w 自然/a 也/d 就/d 决定/n 了/dg 实际/a 创建/v 的/u 产品/n 是/v 什么/r 。/w
+模块/n 中/f 的/u _/0 _/0 all/en _/0 _/0
+没有/d _/0 _/0 all/en _/0 _/0 的/u 情况/n
+有/v _/0 _/0 all/en _/0 _/0 的/u 情况/n
