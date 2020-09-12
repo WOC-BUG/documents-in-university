@@ -1,0 +1,1 @@
+ffmpeg -i TomJerry.mp4 output/%04d.jpg
