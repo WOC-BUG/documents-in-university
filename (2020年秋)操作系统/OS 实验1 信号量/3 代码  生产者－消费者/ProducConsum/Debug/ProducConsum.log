@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  ProducConsum.cpp
+C:\Users\HP\Desktop\tmp\OS 实验1 信号量\3 代码  生产者－消费者\ProducConsum\ProducConsum.cpp(112,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ProducConsum.vcxproj -> C:\Users\HP\Desktop\tmp\OS 实验1 信号量\3 代码  生产者－消费者\ProducConsum\.\Debug\ProducConsum.exe
