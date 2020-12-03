@@ -1,0 +1,12 @@
+########################################################################
+#
+#    FILE: Collection definition file
+#  VENDOR: Altera
+# PROGRAM: Quartus II
+# VERSION: Version 13.1.0 Build 162 10/23/2013 SJ Full Version
+#    DATE: Tue Jun 18 12:22:16 2019
+#
+########################################################################
+
+
+set col(_col0) { port { 69 } }

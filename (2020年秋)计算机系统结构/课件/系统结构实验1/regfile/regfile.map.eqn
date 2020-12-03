@@ -1,0 +1,1199 @@
+-- Copyright (C) 1991-2005 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+--B2_Q[0] is reg:Areg01|Q[0]
+--operation mode is normal
+
+B2_Q[0]_lut_out = d_input[0];
+B2_Q[0] = DFFEAS(B2_Q[0]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[0] is reg:Areg02|Q[0]
+--operation mode is normal
+
+B3_Q[0]_lut_out = d_input[0];
+B3_Q[0] = DFFEAS(B3_Q[0]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[0] is reg:Areg00|Q[0]
+--operation mode is normal
+
+B1_Q[0]_lut_out = d_input[0];
+B1_Q[0] = DFFEAS(B1_Q[0]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L1 is mux_4_to_1:mux1|out_put[0]~212
+--operation mode is normal
+
+D1L1 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[0] # !DR[1] & (B1_Q[0]));
+
+
+--B4_Q[0] is reg:Areg03|Q[0]
+--operation mode is normal
+
+B4_Q[0]_lut_out = d_input[0];
+B4_Q[0] = DFFEAS(B4_Q[0]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L2 is mux_4_to_1:mux1|out_put[0]~213
+--operation mode is normal
+
+D1L2 = DR[0] & (D1L1 & (B4_Q[0]) # !D1L1 & B2_Q[0]) # !DR[0] & (D1L1);
+
+
+--B3_Q[1] is reg:Areg02|Q[1]
+--operation mode is normal
+
+B3_Q[1]_lut_out = d_input[1];
+B3_Q[1] = DFFEAS(B3_Q[1]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[1] is reg:Areg01|Q[1]
+--operation mode is normal
+
+B2_Q[1]_lut_out = d_input[1];
+B2_Q[1] = DFFEAS(B2_Q[1]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[1] is reg:Areg00|Q[1]
+--operation mode is normal
+
+B1_Q[1]_lut_out = d_input[1];
+B1_Q[1] = DFFEAS(B1_Q[1]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L3 is mux_4_to_1:mux1|out_put[1]~214
+--operation mode is normal
+
+D1L3 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[1] # !DR[0] & (B1_Q[1]));
+
+
+--B4_Q[1] is reg:Areg03|Q[1]
+--operation mode is normal
+
+B4_Q[1]_lut_out = d_input[1];
+B4_Q[1] = DFFEAS(B4_Q[1]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L4 is mux_4_to_1:mux1|out_put[1]~215
+--operation mode is normal
+
+D1L4 = DR[1] & (D1L3 & (B4_Q[1]) # !D1L3 & B3_Q[1]) # !DR[1] & (D1L3);
+
+
+--B2_Q[2] is reg:Areg01|Q[2]
+--operation mode is normal
+
+B2_Q[2]_lut_out = d_input[2];
+B2_Q[2] = DFFEAS(B2_Q[2]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[2] is reg:Areg02|Q[2]
+--operation mode is normal
+
+B3_Q[2]_lut_out = d_input[2];
+B3_Q[2] = DFFEAS(B3_Q[2]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[2] is reg:Areg00|Q[2]
+--operation mode is normal
+
+B1_Q[2]_lut_out = d_input[2];
+B1_Q[2] = DFFEAS(B1_Q[2]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L5 is mux_4_to_1:mux1|out_put[2]~216
+--operation mode is normal
+
+D1L5 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[2] # !DR[1] & (B1_Q[2]));
+
+
+--B4_Q[2] is reg:Areg03|Q[2]
+--operation mode is normal
+
+B4_Q[2]_lut_out = d_input[2];
+B4_Q[2] = DFFEAS(B4_Q[2]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L6 is mux_4_to_1:mux1|out_put[2]~217
+--operation mode is normal
+
+D1L6 = DR[0] & (D1L5 & (B4_Q[2]) # !D1L5 & B2_Q[2]) # !DR[0] & (D1L5);
+
+
+--B3_Q[3] is reg:Areg02|Q[3]
+--operation mode is normal
+
+B3_Q[3]_lut_out = d_input[3];
+B3_Q[3] = DFFEAS(B3_Q[3]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[3] is reg:Areg01|Q[3]
+--operation mode is normal
+
+B2_Q[3]_lut_out = d_input[3];
+B2_Q[3] = DFFEAS(B2_Q[3]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[3] is reg:Areg00|Q[3]
+--operation mode is normal
+
+B1_Q[3]_lut_out = d_input[3];
+B1_Q[3] = DFFEAS(B1_Q[3]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L7 is mux_4_to_1:mux1|out_put[3]~218
+--operation mode is normal
+
+D1L7 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[3] # !DR[0] & (B1_Q[3]));
+
+
+--B4_Q[3] is reg:Areg03|Q[3]
+--operation mode is normal
+
+B4_Q[3]_lut_out = d_input[3];
+B4_Q[3] = DFFEAS(B4_Q[3]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L8 is mux_4_to_1:mux1|out_put[3]~219
+--operation mode is normal
+
+D1L8 = DR[1] & (D1L7 & (B4_Q[3]) # !D1L7 & B3_Q[3]) # !DR[1] & (D1L7);
+
+
+--B2_Q[4] is reg:Areg01|Q[4]
+--operation mode is normal
+
+B2_Q[4]_lut_out = d_input[4];
+B2_Q[4] = DFFEAS(B2_Q[4]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[4] is reg:Areg02|Q[4]
+--operation mode is normal
+
+B3_Q[4]_lut_out = d_input[4];
+B3_Q[4] = DFFEAS(B3_Q[4]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[4] is reg:Areg00|Q[4]
+--operation mode is normal
+
+B1_Q[4]_lut_out = d_input[4];
+B1_Q[4] = DFFEAS(B1_Q[4]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L9 is mux_4_to_1:mux1|out_put[4]~220
+--operation mode is normal
+
+D1L9 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[4] # !DR[1] & (B1_Q[4]));
+
+
+--B4_Q[4] is reg:Areg03|Q[4]
+--operation mode is normal
+
+B4_Q[4]_lut_out = d_input[4];
+B4_Q[4] = DFFEAS(B4_Q[4]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L01 is mux_4_to_1:mux1|out_put[4]~221
+--operation mode is normal
+
+D1L01 = DR[0] & (D1L9 & (B4_Q[4]) # !D1L9 & B2_Q[4]) # !DR[0] & (D1L9);
+
+
+--B3_Q[5] is reg:Areg02|Q[5]
+--operation mode is normal
+
+B3_Q[5]_lut_out = d_input[5];
+B3_Q[5] = DFFEAS(B3_Q[5]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[5] is reg:Areg01|Q[5]
+--operation mode is normal
+
+B2_Q[5]_lut_out = d_input[5];
+B2_Q[5] = DFFEAS(B2_Q[5]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[5] is reg:Areg00|Q[5]
+--operation mode is normal
+
+B1_Q[5]_lut_out = d_input[5];
+B1_Q[5] = DFFEAS(B1_Q[5]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L11 is mux_4_to_1:mux1|out_put[5]~222
+--operation mode is normal
+
+D1L11 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[5] # !DR[0] & (B1_Q[5]));
+
+
+--B4_Q[5] is reg:Areg03|Q[5]
+--operation mode is normal
+
+B4_Q[5]_lut_out = d_input[5];
+B4_Q[5] = DFFEAS(B4_Q[5]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L21 is mux_4_to_1:mux1|out_put[5]~223
+--operation mode is normal
+
+D1L21 = DR[1] & (D1L11 & (B4_Q[5]) # !D1L11 & B3_Q[5]) # !DR[1] & (D1L11);
+
+
+--B2_Q[6] is reg:Areg01|Q[6]
+--operation mode is normal
+
+B2_Q[6]_lut_out = d_input[6];
+B2_Q[6] = DFFEAS(B2_Q[6]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[6] is reg:Areg02|Q[6]
+--operation mode is normal
+
+B3_Q[6]_lut_out = d_input[6];
+B3_Q[6] = DFFEAS(B3_Q[6]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[6] is reg:Areg00|Q[6]
+--operation mode is normal
+
+B1_Q[6]_lut_out = d_input[6];
+B1_Q[6] = DFFEAS(B1_Q[6]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L31 is mux_4_to_1:mux1|out_put[6]~224
+--operation mode is normal
+
+D1L31 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[6] # !DR[1] & (B1_Q[6]));
+
+
+--B4_Q[6] is reg:Areg03|Q[6]
+--operation mode is normal
+
+B4_Q[6]_lut_out = d_input[6];
+B4_Q[6] = DFFEAS(B4_Q[6]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L41 is mux_4_to_1:mux1|out_put[6]~225
+--operation mode is normal
+
+D1L41 = DR[0] & (D1L31 & (B4_Q[6]) # !D1L31 & B2_Q[6]) # !DR[0] & (D1L31);
+
+
+--B3_Q[7] is reg:Areg02|Q[7]
+--operation mode is normal
+
+B3_Q[7]_lut_out = d_input[7];
+B3_Q[7] = DFFEAS(B3_Q[7]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[7] is reg:Areg01|Q[7]
+--operation mode is normal
+
+B2_Q[7]_lut_out = d_input[7];
+B2_Q[7] = DFFEAS(B2_Q[7]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[7] is reg:Areg00|Q[7]
+--operation mode is normal
+
+B1_Q[7]_lut_out = d_input[7];
+B1_Q[7] = DFFEAS(B1_Q[7]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L51 is mux_4_to_1:mux1|out_put[7]~226
+--operation mode is normal
+
+D1L51 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[7] # !DR[0] & (B1_Q[7]));
+
+
+--B4_Q[7] is reg:Areg03|Q[7]
+--operation mode is normal
+
+B4_Q[7]_lut_out = d_input[7];
+B4_Q[7] = DFFEAS(B4_Q[7]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L61 is mux_4_to_1:mux1|out_put[7]~227
+--operation mode is normal
+
+D1L61 = DR[1] & (D1L51 & (B4_Q[7]) # !D1L51 & B3_Q[7]) # !DR[1] & (D1L51);
+
+
+--B2_Q[8] is reg:Areg01|Q[8]
+--operation mode is normal
+
+B2_Q[8]_lut_out = d_input[8];
+B2_Q[8] = DFFEAS(B2_Q[8]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[8] is reg:Areg02|Q[8]
+--operation mode is normal
+
+B3_Q[8]_lut_out = d_input[8];
+B3_Q[8] = DFFEAS(B3_Q[8]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[8] is reg:Areg00|Q[8]
+--operation mode is normal
+
+B1_Q[8]_lut_out = d_input[8];
+B1_Q[8] = DFFEAS(B1_Q[8]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L71 is mux_4_to_1:mux1|out_put[8]~228
+--operation mode is normal
+
+D1L71 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[8] # !DR[1] & (B1_Q[8]));
+
+
+--B4_Q[8] is reg:Areg03|Q[8]
+--operation mode is normal
+
+B4_Q[8]_lut_out = d_input[8];
+B4_Q[8] = DFFEAS(B4_Q[8]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L81 is mux_4_to_1:mux1|out_put[8]~229
+--operation mode is normal
+
+D1L81 = DR[0] & (D1L71 & (B4_Q[8]) # !D1L71 & B2_Q[8]) # !DR[0] & (D1L71);
+
+
+--B3_Q[9] is reg:Areg02|Q[9]
+--operation mode is normal
+
+B3_Q[9]_lut_out = d_input[9];
+B3_Q[9] = DFFEAS(B3_Q[9]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[9] is reg:Areg01|Q[9]
+--operation mode is normal
+
+B2_Q[9]_lut_out = d_input[9];
+B2_Q[9] = DFFEAS(B2_Q[9]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[9] is reg:Areg00|Q[9]
+--operation mode is normal
+
+B1_Q[9]_lut_out = d_input[9];
+B1_Q[9] = DFFEAS(B1_Q[9]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L91 is mux_4_to_1:mux1|out_put[9]~230
+--operation mode is normal
+
+D1L91 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[9] # !DR[0] & (B1_Q[9]));
+
+
+--B4_Q[9] is reg:Areg03|Q[9]
+--operation mode is normal
+
+B4_Q[9]_lut_out = d_input[9];
+B4_Q[9] = DFFEAS(B4_Q[9]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L02 is mux_4_to_1:mux1|out_put[9]~231
+--operation mode is normal
+
+D1L02 = DR[1] & (D1L91 & (B4_Q[9]) # !D1L91 & B3_Q[9]) # !DR[1] & (D1L91);
+
+
+--B2_Q[10] is reg:Areg01|Q[10]
+--operation mode is normal
+
+B2_Q[10]_lut_out = d_input[10];
+B2_Q[10] = DFFEAS(B2_Q[10]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[10] is reg:Areg02|Q[10]
+--operation mode is normal
+
+B3_Q[10]_lut_out = d_input[10];
+B3_Q[10] = DFFEAS(B3_Q[10]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[10] is reg:Areg00|Q[10]
+--operation mode is normal
+
+B1_Q[10]_lut_out = d_input[10];
+B1_Q[10] = DFFEAS(B1_Q[10]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L12 is mux_4_to_1:mux1|out_put[10]~232
+--operation mode is normal
+
+D1L12 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[10] # !DR[1] & (B1_Q[10]));
+
+
+--B4_Q[10] is reg:Areg03|Q[10]
+--operation mode is normal
+
+B4_Q[10]_lut_out = d_input[10];
+B4_Q[10] = DFFEAS(B4_Q[10]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L22 is mux_4_to_1:mux1|out_put[10]~233
+--operation mode is normal
+
+D1L22 = DR[0] & (D1L12 & (B4_Q[10]) # !D1L12 & B2_Q[10]) # !DR[0] & (D1L12);
+
+
+--B3_Q[11] is reg:Areg02|Q[11]
+--operation mode is normal
+
+B3_Q[11]_lut_out = d_input[11];
+B3_Q[11] = DFFEAS(B3_Q[11]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[11] is reg:Areg01|Q[11]
+--operation mode is normal
+
+B2_Q[11]_lut_out = d_input[11];
+B2_Q[11] = DFFEAS(B2_Q[11]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[11] is reg:Areg00|Q[11]
+--operation mode is normal
+
+B1_Q[11]_lut_out = d_input[11];
+B1_Q[11] = DFFEAS(B1_Q[11]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L32 is mux_4_to_1:mux1|out_put[11]~234
+--operation mode is normal
+
+D1L32 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[11] # !DR[0] & (B1_Q[11]));
+
+
+--B4_Q[11] is reg:Areg03|Q[11]
+--operation mode is normal
+
+B4_Q[11]_lut_out = d_input[11];
+B4_Q[11] = DFFEAS(B4_Q[11]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L42 is mux_4_to_1:mux1|out_put[11]~235
+--operation mode is normal
+
+D1L42 = DR[1] & (D1L32 & (B4_Q[11]) # !D1L32 & B3_Q[11]) # !DR[1] & (D1L32);
+
+
+--B2_Q[12] is reg:Areg01|Q[12]
+--operation mode is normal
+
+B2_Q[12]_lut_out = d_input[12];
+B2_Q[12] = DFFEAS(B2_Q[12]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[12] is reg:Areg02|Q[12]
+--operation mode is normal
+
+B3_Q[12]_lut_out = d_input[12];
+B3_Q[12] = DFFEAS(B3_Q[12]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[12] is reg:Areg00|Q[12]
+--operation mode is normal
+
+B1_Q[12]_lut_out = d_input[12];
+B1_Q[12] = DFFEAS(B1_Q[12]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L52 is mux_4_to_1:mux1|out_put[12]~236
+--operation mode is normal
+
+D1L52 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[12] # !DR[1] & (B1_Q[12]));
+
+
+--B4_Q[12] is reg:Areg03|Q[12]
+--operation mode is normal
+
+B4_Q[12]_lut_out = d_input[12];
+B4_Q[12] = DFFEAS(B4_Q[12]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L62 is mux_4_to_1:mux1|out_put[12]~237
+--operation mode is normal
+
+D1L62 = DR[0] & (D1L52 & (B4_Q[12]) # !D1L52 & B2_Q[12]) # !DR[0] & (D1L52);
+
+
+--B3_Q[13] is reg:Areg02|Q[13]
+--operation mode is normal
+
+B3_Q[13]_lut_out = d_input[13];
+B3_Q[13] = DFFEAS(B3_Q[13]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[13] is reg:Areg01|Q[13]
+--operation mode is normal
+
+B2_Q[13]_lut_out = d_input[13];
+B2_Q[13] = DFFEAS(B2_Q[13]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[13] is reg:Areg00|Q[13]
+--operation mode is normal
+
+B1_Q[13]_lut_out = d_input[13];
+B1_Q[13] = DFFEAS(B1_Q[13]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L72 is mux_4_to_1:mux1|out_put[13]~238
+--operation mode is normal
+
+D1L72 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[13] # !DR[0] & (B1_Q[13]));
+
+
+--B4_Q[13] is reg:Areg03|Q[13]
+--operation mode is normal
+
+B4_Q[13]_lut_out = d_input[13];
+B4_Q[13] = DFFEAS(B4_Q[13]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L82 is mux_4_to_1:mux1|out_put[13]~239
+--operation mode is normal
+
+D1L82 = DR[1] & (D1L72 & (B4_Q[13]) # !D1L72 & B3_Q[13]) # !DR[1] & (D1L72);
+
+
+--B2_Q[14] is reg:Areg01|Q[14]
+--operation mode is normal
+
+B2_Q[14]_lut_out = d_input[14];
+B2_Q[14] = DFFEAS(B2_Q[14]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B3_Q[14] is reg:Areg02|Q[14]
+--operation mode is normal
+
+B3_Q[14]_lut_out = d_input[14];
+B3_Q[14] = DFFEAS(B3_Q[14]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B1_Q[14] is reg:Areg00|Q[14]
+--operation mode is normal
+
+B1_Q[14]_lut_out = d_input[14];
+B1_Q[14] = DFFEAS(B1_Q[14]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L92 is mux_4_to_1:mux1|out_put[14]~240
+--operation mode is normal
+
+D1L92 = DR[0] & (DR[1]) # !DR[0] & (DR[1] & B3_Q[14] # !DR[1] & (B1_Q[14]));
+
+
+--B4_Q[14] is reg:Areg03|Q[14]
+--operation mode is normal
+
+B4_Q[14]_lut_out = d_input[14];
+B4_Q[14] = DFFEAS(B4_Q[14]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L03 is mux_4_to_1:mux1|out_put[14]~241
+--operation mode is normal
+
+D1L03 = DR[0] & (D1L92 & (B4_Q[14]) # !D1L92 & B2_Q[14]) # !DR[0] & (D1L92);
+
+
+--B3_Q[15] is reg:Areg02|Q[15]
+--operation mode is normal
+
+B3_Q[15]_lut_out = d_input[15];
+B3_Q[15] = DFFEAS(B3_Q[15]_lut_out, clk, reset, , B3L1, , , , );
+
+
+--B2_Q[15] is reg:Areg01|Q[15]
+--operation mode is normal
+
+B2_Q[15]_lut_out = d_input[15];
+B2_Q[15] = DFFEAS(B2_Q[15]_lut_out, clk, reset, , B2L1, , , , );
+
+
+--B1_Q[15] is reg:Areg00|Q[15]
+--operation mode is normal
+
+B1_Q[15]_lut_out = d_input[15];
+B1_Q[15] = DFFEAS(B1_Q[15]_lut_out, clk, reset, , B1L1, , , , );
+
+
+--D1L13 is mux_4_to_1:mux1|out_put[15]~242
+--operation mode is normal
+
+D1L13 = DR[1] & (DR[0]) # !DR[1] & (DR[0] & B2_Q[15] # !DR[0] & (B1_Q[15]));
+
+
+--B4_Q[15] is reg:Areg03|Q[15]
+--operation mode is normal
+
+B4_Q[15]_lut_out = d_input[15];
+B4_Q[15] = DFFEAS(B4_Q[15]_lut_out, clk, reset, , B4L1, , , , );
+
+
+--D1L23 is mux_4_to_1:mux1|out_put[15]~243
+--operation mode is normal
+
+D1L23 = DR[1] & (D1L13 & (B4_Q[15]) # !D1L13 & B3_Q[15]) # !DR[1] & (D1L13);
+
+
+--D2L1 is mux_4_to_1:mux2|out_put[0]~212
+--operation mode is normal
+
+D2L1 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[0] # !SR[1] & (B1_Q[0]));
+
+
+--D2L2 is mux_4_to_1:mux2|out_put[0]~213
+--operation mode is normal
+
+D2L2 = SR[0] & (D2L1 & (B4_Q[0]) # !D2L1 & B2_Q[0]) # !SR[0] & (D2L1);
+
+
+--D2L3 is mux_4_to_1:mux2|out_put[1]~214
+--operation mode is normal
+
+D2L3 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[1] # !SR[0] & (B1_Q[1]));
+
+
+--D2L4 is mux_4_to_1:mux2|out_put[1]~215
+--operation mode is normal
+
+D2L4 = SR[1] & (D2L3 & (B4_Q[1]) # !D2L3 & B3_Q[1]) # !SR[1] & (D2L3);
+
+
+--D2L5 is mux_4_to_1:mux2|out_put[2]~216
+--operation mode is normal
+
+D2L5 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[2] # !SR[1] & (B1_Q[2]));
+
+
+--D2L6 is mux_4_to_1:mux2|out_put[2]~217
+--operation mode is normal
+
+D2L6 = SR[0] & (D2L5 & (B4_Q[2]) # !D2L5 & B2_Q[2]) # !SR[0] & (D2L5);
+
+
+--D2L7 is mux_4_to_1:mux2|out_put[3]~218
+--operation mode is normal
+
+D2L7 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[3] # !SR[0] & (B1_Q[3]));
+
+
+--D2L8 is mux_4_to_1:mux2|out_put[3]~219
+--operation mode is normal
+
+D2L8 = SR[1] & (D2L7 & (B4_Q[3]) # !D2L7 & B3_Q[3]) # !SR[1] & (D2L7);
+
+
+--D2L9 is mux_4_to_1:mux2|out_put[4]~220
+--operation mode is normal
+
+D2L9 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[4] # !SR[1] & (B1_Q[4]));
+
+
+--D2L01 is mux_4_to_1:mux2|out_put[4]~221
+--operation mode is normal
+
+D2L01 = SR[0] & (D2L9 & (B4_Q[4]) # !D2L9 & B2_Q[4]) # !SR[0] & (D2L9);
+
+
+--D2L11 is mux_4_to_1:mux2|out_put[5]~222
+--operation mode is normal
+
+D2L11 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[5] # !SR[0] & (B1_Q[5]));
+
+
+--D2L21 is mux_4_to_1:mux2|out_put[5]~223
+--operation mode is normal
+
+D2L21 = SR[1] & (D2L11 & (B4_Q[5]) # !D2L11 & B3_Q[5]) # !SR[1] & (D2L11);
+
+
+--D2L31 is mux_4_to_1:mux2|out_put[6]~224
+--operation mode is normal
+
+D2L31 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[6] # !SR[1] & (B1_Q[6]));
+
+
+--D2L41 is mux_4_to_1:mux2|out_put[6]~225
+--operation mode is normal
+
+D2L41 = SR[0] & (D2L31 & (B4_Q[6]) # !D2L31 & B2_Q[6]) # !SR[0] & (D2L31);
+
+
+--D2L51 is mux_4_to_1:mux2|out_put[7]~226
+--operation mode is normal
+
+D2L51 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[7] # !SR[0] & (B1_Q[7]));
+
+
+--D2L61 is mux_4_to_1:mux2|out_put[7]~227
+--operation mode is normal
+
+D2L61 = SR[1] & (D2L51 & (B4_Q[7]) # !D2L51 & B3_Q[7]) # !SR[1] & (D2L51);
+
+
+--D2L71 is mux_4_to_1:mux2|out_put[8]~228
+--operation mode is normal
+
+D2L71 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[8] # !SR[1] & (B1_Q[8]));
+
+
+--D2L81 is mux_4_to_1:mux2|out_put[8]~229
+--operation mode is normal
+
+D2L81 = SR[0] & (D2L71 & (B4_Q[8]) # !D2L71 & B2_Q[8]) # !SR[0] & (D2L71);
+
+
+--D2L91 is mux_4_to_1:mux2|out_put[9]~230
+--operation mode is normal
+
+D2L91 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[9] # !SR[0] & (B1_Q[9]));
+
+
+--D2L02 is mux_4_to_1:mux2|out_put[9]~231
+--operation mode is normal
+
+D2L02 = SR[1] & (D2L91 & (B4_Q[9]) # !D2L91 & B3_Q[9]) # !SR[1] & (D2L91);
+
+
+--D2L12 is mux_4_to_1:mux2|out_put[10]~232
+--operation mode is normal
+
+D2L12 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[10] # !SR[1] & (B1_Q[10]));
+
+
+--D2L22 is mux_4_to_1:mux2|out_put[10]~233
+--operation mode is normal
+
+D2L22 = SR[0] & (D2L12 & (B4_Q[10]) # !D2L12 & B2_Q[10]) # !SR[0] & (D2L12);
+
+
+--D2L32 is mux_4_to_1:mux2|out_put[11]~234
+--operation mode is normal
+
+D2L32 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[11] # !SR[0] & (B1_Q[11]));
+
+
+--D2L42 is mux_4_to_1:mux2|out_put[11]~235
+--operation mode is normal
+
+D2L42 = SR[1] & (D2L32 & (B4_Q[11]) # !D2L32 & B3_Q[11]) # !SR[1] & (D2L32);
+
+
+--D2L52 is mux_4_to_1:mux2|out_put[12]~236
+--operation mode is normal
+
+D2L52 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[12] # !SR[1] & (B1_Q[12]));
+
+
+--D2L62 is mux_4_to_1:mux2|out_put[12]~237
+--operation mode is normal
+
+D2L62 = SR[0] & (D2L52 & (B4_Q[12]) # !D2L52 & B2_Q[12]) # !SR[0] & (D2L52);
+
+
+--D2L72 is mux_4_to_1:mux2|out_put[13]~238
+--operation mode is normal
+
+D2L72 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[13] # !SR[0] & (B1_Q[13]));
+
+
+--D2L82 is mux_4_to_1:mux2|out_put[13]~239
+--operation mode is normal
+
+D2L82 = SR[1] & (D2L72 & (B4_Q[13]) # !D2L72 & B3_Q[13]) # !SR[1] & (D2L72);
+
+
+--D2L92 is mux_4_to_1:mux2|out_put[14]~240
+--operation mode is normal
+
+D2L92 = SR[0] & (SR[1]) # !SR[0] & (SR[1] & B3_Q[14] # !SR[1] & (B1_Q[14]));
+
+
+--D2L03 is mux_4_to_1:mux2|out_put[14]~241
+--operation mode is normal
+
+D2L03 = SR[0] & (D2L92 & (B4_Q[14]) # !D2L92 & B2_Q[14]) # !SR[0] & (D2L92);
+
+
+--D2L13 is mux_4_to_1:mux2|out_put[15]~242
+--operation mode is normal
+
+D2L13 = SR[1] & (SR[0]) # !SR[1] & (SR[0] & B2_Q[15] # !SR[0] & (B1_Q[15]));
+
+
+--D2L23 is mux_4_to_1:mux2|out_put[15]~243
+--operation mode is normal
+
+D2L23 = SR[1] & (D2L13 & (B4_Q[15]) # !D2L13 & B3_Q[15]) # !SR[1] & (D2L13);
+
+
+--B2L1 is reg:Areg01|process0~0
+--operation mode is normal
+
+B2L1 = DR[0] & DRWr & (!DR[1]);
+
+
+--B3L1 is reg:Areg02|process0~0
+--operation mode is normal
+
+B3L1 = DR[1] & DRWr & (!DR[0]);
+
+
+--B1L1 is reg:Areg00|process0~0
+--operation mode is normal
+
+B1L1 = DRWr & (!DR[0] & !DR[1]);
+
+
+--B4L1 is reg:Areg03|process0~0
+--operation mode is normal
+
+B4L1 = DR[0] & DR[1] & DRWr;
+
+
+--DR[0] is DR[0]
+--operation mode is input
+
+DR[0] = INPUT();
+
+
+--DR[1] is DR[1]
+--operation mode is input
+
+DR[1] = INPUT();
+
+
+--SR[0] is SR[0]
+--operation mode is input
+
+SR[0] = INPUT();
+
+
+--SR[1] is SR[1]
+--operation mode is input
+
+SR[1] = INPUT();
+
+
+--d_input[0] is d_input[0]
+--operation mode is input
+
+d_input[0] = INPUT();
+
+
+--clk is clk
+--operation mode is input
+
+clk = INPUT();
+
+
+--reset is reset
+--operation mode is input
+
+reset = INPUT();
+
+
+--DRWr is DRWr
+--operation mode is input
+
+DRWr = INPUT();
+
+
+--d_input[1] is d_input[1]
+--operation mode is input
+
+d_input[1] = INPUT();
+
+
+--d_input[2] is d_input[2]
+--operation mode is input
+
+d_input[2] = INPUT();
+
+
+--d_input[3] is d_input[3]
+--operation mode is input
+
+d_input[3] = INPUT();
+
+
+--d_input[4] is d_input[4]
+--operation mode is input
+
+d_input[4] = INPUT();
+
+
+--d_input[5] is d_input[5]
+--operation mode is input
+
+d_input[5] = INPUT();
+
+
+--d_input[6] is d_input[6]
+--operation mode is input
+
+d_input[6] = INPUT();
+
+
+--d_input[7] is d_input[7]
+--operation mode is input
+
+d_input[7] = INPUT();
+
+
+--d_input[8] is d_input[8]
+--operation mode is input
+
+d_input[8] = INPUT();
+
+
+--d_input[9] is d_input[9]
+--operation mode is input
+
+d_input[9] = INPUT();
+
+
+--d_input[10] is d_input[10]
+--operation mode is input
+
+d_input[10] = INPUT();
+
+
+--d_input[11] is d_input[11]
+--operation mode is input
+
+d_input[11] = INPUT();
+
+
+--d_input[12] is d_input[12]
+--operation mode is input
+
+d_input[12] = INPUT();
+
+
+--d_input[13] is d_input[13]
+--operation mode is input
+
+d_input[13] = INPUT();
+
+
+--d_input[14] is d_input[14]
+--operation mode is input
+
+d_input[14] = INPUT();
+
+
+--d_input[15] is d_input[15]
+--operation mode is input
+
+d_input[15] = INPUT();
+
+
+--DR_data[0] is DR_data[0]
+--operation mode is output
+
+DR_data[0] = OUTPUT(D1L2);
+
+
+--DR_data[1] is DR_data[1]
+--operation mode is output
+
+DR_data[1] = OUTPUT(D1L4);
+
+
+--DR_data[2] is DR_data[2]
+--operation mode is output
+
+DR_data[2] = OUTPUT(D1L6);
+
+
+--DR_data[3] is DR_data[3]
+--operation mode is output
+
+DR_data[3] = OUTPUT(D1L8);
+
+
+--DR_data[4] is DR_data[4]
+--operation mode is output
+
+DR_data[4] = OUTPUT(D1L01);
+
+
+--DR_data[5] is DR_data[5]
+--operation mode is output
+
+DR_data[5] = OUTPUT(D1L21);
+
+
+--DR_data[6] is DR_data[6]
+--operation mode is output
+
+DR_data[6] = OUTPUT(D1L41);
+
+
+--DR_data[7] is DR_data[7]
+--operation mode is output
+
+DR_data[7] = OUTPUT(D1L61);
+
+
+--DR_data[8] is DR_data[8]
+--operation mode is output
+
+DR_data[8] = OUTPUT(D1L81);
+
+
+--DR_data[9] is DR_data[9]
+--operation mode is output
+
+DR_data[9] = OUTPUT(D1L02);
+
+
+--DR_data[10] is DR_data[10]
+--operation mode is output
+
+DR_data[10] = OUTPUT(D1L22);
+
+
+--DR_data[11] is DR_data[11]
+--operation mode is output
+
+DR_data[11] = OUTPUT(D1L42);
+
+
+--DR_data[12] is DR_data[12]
+--operation mode is output
+
+DR_data[12] = OUTPUT(D1L62);
+
+
+--DR_data[13] is DR_data[13]
+--operation mode is output
+
+DR_data[13] = OUTPUT(D1L82);
+
+
+--DR_data[14] is DR_data[14]
+--operation mode is output
+
+DR_data[14] = OUTPUT(D1L03);
+
+
+--DR_data[15] is DR_data[15]
+--operation mode is output
+
+DR_data[15] = OUTPUT(D1L23);
+
+
+--SR_data[0] is SR_data[0]
+--operation mode is output
+
+SR_data[0] = OUTPUT(D2L2);
+
+
+--SR_data[1] is SR_data[1]
+--operation mode is output
+
+SR_data[1] = OUTPUT(D2L4);
+
+
+--SR_data[2] is SR_data[2]
+--operation mode is output
+
+SR_data[2] = OUTPUT(D2L6);
+
+
+--SR_data[3] is SR_data[3]
+--operation mode is output
+
+SR_data[3] = OUTPUT(D2L8);
+
+
+--SR_data[4] is SR_data[4]
+--operation mode is output
+
+SR_data[4] = OUTPUT(D2L01);
+
+
+--SR_data[5] is SR_data[5]
+--operation mode is output
+
+SR_data[5] = OUTPUT(D2L21);
+
+
+--SR_data[6] is SR_data[6]
+--operation mode is output
+
+SR_data[6] = OUTPUT(D2L41);
+
+
+--SR_data[7] is SR_data[7]
+--operation mode is output
+
+SR_data[7] = OUTPUT(D2L61);
+
+
+--SR_data[8] is SR_data[8]
+--operation mode is output
+
+SR_data[8] = OUTPUT(D2L81);
+
+
+--SR_data[9] is SR_data[9]
+--operation mode is output
+
+SR_data[9] = OUTPUT(D2L02);
+
+
+--SR_data[10] is SR_data[10]
+--operation mode is output
+
+SR_data[10] = OUTPUT(D2L22);
+
+
+--SR_data[11] is SR_data[11]
+--operation mode is output
+
+SR_data[11] = OUTPUT(D2L42);
+
+
+--SR_data[12] is SR_data[12]
+--operation mode is output
+
+SR_data[12] = OUTPUT(D2L62);
+
+
+--SR_data[13] is SR_data[13]
+--operation mode is output
+
+SR_data[13] = OUTPUT(D2L82);
+
+
+--SR_data[14] is SR_data[14]
+--operation mode is output
+
+SR_data[14] = OUTPUT(D2L03);
+
+
+--SR_data[15] is SR_data[15]
+--operation mode is output
+
+SR_data[15] = OUTPUT(D2L23);
+
+

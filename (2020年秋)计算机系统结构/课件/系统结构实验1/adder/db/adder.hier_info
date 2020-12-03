@@ -1,0 +1,141 @@
+|adder
+a[0] => fulladder:f0.a
+a[1] => fulladder:f1.a
+a[2] => fulladder:f2.a
+a[3] => fulladder:f3.a
+a[4] => fulladder:f4.a
+a[5] => fulladder:f5.a
+a[6] => fulladder:f6.a
+a[7] => fulladder:f7.a
+b[0] => fulladder:f0.b
+b[1] => fulladder:f1.b
+b[2] => fulladder:f2.b
+b[3] => fulladder:f3.b
+b[4] => fulladder:f4.b
+b[5] => fulladder:f5.b
+b[6] => fulladder:f6.b
+b[7] => fulladder:f7.b
+cin => fulladder:f0.CarryIn
+cout << fulladder:f7.CarryOut
+sum[0] << fulladder:f0.Sum
+sum[1] << fulladder:f1.Sum
+sum[2] << fulladder:f2.Sum
+sum[3] << fulladder:f3.Sum
+sum[4] << fulladder:f4.Sum
+sum[5] << fulladder:f5.Sum
+sum[6] << fulladder:f6.Sum
+sum[7] << fulladder:f7.Sum
+
+
+|adder|fulladder:f0
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f1
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f2
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f3
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f4
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f5
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f6
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|adder|fulladder:f7
+a => CarryOut.IN0
+a => CarryOut.IN0
+a => Sum.IN0
+b => CarryOut.IN0
+b => CarryOut.IN1
+b => Sum.IN1
+CarryIn => CarryOut.IN1
+CarryIn => CarryOut.IN1
+CarryIn => Sum.IN1
+CarryOut <= CarryOut.DB_MAX_OUTPUT_PORT_TYPE
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+
+
